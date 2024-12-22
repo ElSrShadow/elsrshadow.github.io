@@ -1,0 +1,65 @@
+name: Translation Setter
+on:
+  push:
+    branches: ["master"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Process Translation
+        run: |
+          for version in $(ls raw); do
+            # Android
+            android_input="raw/$version/android_file.txt"
+            android_res_release="translation/$version/ad/res_release"
+            android_res_shipping="translation/$version/ad/res_shipping"
+            if [ -f $android_input ]; then
+              mkdir -p $android_res_release
+              mkdir -p $android_res_shipping
+              python main.py $android_input $android_res_release ad
+              python main.py $android_input $android_res_shipping ad
+            fi
+          
+            # iOS
+            ios_input="raw/$version/ios_file.txt"
+            ios_res_release="translation/$version/ad/res_release"
+            ios_res_shipping="translation/$version/ad/res_shipping"
+            if [ -f $ios_input ]; then
+              mkdir -p $ios_res_release
+              mkdir -p $ios_res_shipping
+              python main.py $ios_input $ios_res_release ios
+              python main.py $ios_input $ios_res_shipping ios
+            fi
+          done
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-files
+          path: ./
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-files
+          path: ./
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./translation
