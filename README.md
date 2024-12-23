@@ -10,4 +10,4 @@
 ---
 ## Creditos:
 - Fran - Realización de la traducción de la inmensa cantidad de textos del juego
-- ShadowVT - Hosteo de repositorio, testing y (futuras) texturas
+- ShadowVT - Hosteo de repositorio, testing, cambio de fuentes y (futuras) texturas
