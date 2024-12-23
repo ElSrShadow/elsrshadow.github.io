@@ -34678,7 +34678,7 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {NPC_ENTER:winnieicon}{PLAYFUL}¡Has recogido suficientes Estrellas para reclamar a Plantorcha en la Sección Premios Estelares!
 
 [NARRATIVE_STEAM_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¡Increíble lugar! ¿Ahora donde estamos, Penny?
+{SAY:zombossicon}Ha pasado mucho tiempo, Barbudo, Ojalata roja, ¡oh, y también tú!
 
 [NARRATIVE_STEAM_1_INTRO_2]
 {EXCITED:WINNIE}¡Bienvenidos a la Era del Vapor!
