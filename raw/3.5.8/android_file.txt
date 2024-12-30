@@ -117630,7 +117630,7 @@ Instrucciones de la actividad de Campanillas
 
 [GINGLEBELL_DESCRIPTION]
 Reglas:
-1. Todo el daño causado al Yeti durante un tiempo limitado es la puntuación de eliminación.
+1. Todo el daño causado a los muñecos durante un tiempo limitado es la puntuación de eliminación.
 2. El puntaje obtenido en el último nivel se utiliza para completar objetivos diarios.
 3. Durante el evento se desbloquearán tres temas (Prueba de fuego, Prueba de precisión y Prueba táctica), con tres niveles para cada tema. Se desbloqueará un nuevo nivel cada dos días y un nuevo tema cada seis días.
 4. Tras desbloquear el nuevo tema, las tablas de clasificación se cerrarán de 0:00 a 10:00 para su anuncio público, y los niveles activos no estarán disponibles para jugar durante el periodo de anuncio.
@@ -117668,10 +117668,10 @@ Daño histórico: {NUMBER}
 Inflige tanto daño como puedas en 30 segundos
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-Doble Jingle Bell
+Doble Campanilla
 
 [GINGLEBELL_TASKDESCRIPTION]
-En el último nivel inflige {NUMBER} de daño a los Yetis
+En el último nivel inflige {NUMBER} de daño a los muñecos de nieve
 
 [A_PILE_SNOWMEN1_TITLE]
 Prueba de fuego - Nivel 1
