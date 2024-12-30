@@ -624,13 +624,13 @@ Ataca a 3 zombis de su línea con torbellinos en la ida y a la vuelta
 Nivel 2
 
 [ACORN_SKILL_LEVEL1_DES]
-^1D68C1^Súper reloj: ^oldclr^ su tiempo de recuperación es reducido en un 15%.
+^4DD4DB^Súper reloj: ^oldclr^ su tiempo de recuperación es reducido en un 15%.
 
 [ACORN_SKILL_LEVEL2]
 Nivel 3
 
 [ACORN_SKILL_LEVEL2_DES]
-^912BAE Rotación veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Rotación veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [ACORN_TOOLTIP]
 Ataca a 3 zombis de su línea con torbellinos para dañarlos en la ida y a la vuelta
@@ -1593,13 +1593,13 @@ Ataca a los zombis que estén 2 casillas frente a él
 Nivel 2
 
 [AGAVE_SKILL_LEVEL1_DES]
-^1D68C1^Doble filo: ^oldclr^ cargará un ataque potente cuando no haya zombis a su alrededor, doblando el daño causado.
+^4DD4DB^Doble filo: ^oldclr^ cargará un ataque potente cuando no haya zombis a su alrededor, doblando el daño causado.
 
 [AGAVE_SKILL_LEVEL2]
 Nivel 3
 
 [AGAVE_SKILL_LEVEL2_DES]
-^912BAE Máxima potencia: ^oldclr^ reduce el tiempo de carga de su ataque a la mitad.
+^A048CF^Máxima potencia: ^oldclr^ reduce el tiempo de carga de su ataque a la mitad.
 
 [AGAVE_TOOLTIP]
 Ataca a los zombis que estén 2 casillas frente a él con su espada
@@ -1709,13 +1709,13 @@ Lanza proyectiles que rebotan de zombi a zombi
 Nivel 2
 
 [AKEE_SKILL_LEVEL1_DES]
-^1D68C1^Rebotes extra: ^oldclr^ sus semillas rebotarán en un zombi adicional.
+^4DD4DB^Rebotes extra: ^oldclr^ sus semillas rebotarán en un zombi adicional.
 
 [AKEE_SKILL_LEVEL2]
 Nivel 3
 
 [AKEE_SKILL_LEVEL2_DES]
-^912BAE Fisión: ^oldclr^ gana la probabilidad de disparar una semilla más grande, la cual, se dividirá en tres más pequeñas.
+^A048CF^Fisión: ^oldclr^ gana la probabilidad de disparar una semilla más grande, la cual, se dividirá en tres más pequeñas.
 
 [AKEE_TOOLTIP]
 Lanza proyectiles que rebotan de zombi a zombi.
@@ -1738,13 +1738,13 @@ Cabeza de flecha aplasta a los zombis cercanos, generando una explosión que da�
 Nivel 2
 
 [ALARMSAGITTIFOLIA_SKILL_LEVEL1_DES]
-^1D68C1^Interferencia: ^oldclr^ el tiempo de inutilización de las máquinas aumenta en 8 segundos.
+^4DD4DB^Interferencia: ^oldclr^ el tiempo de inutilización de las máquinas aumenta en 8 segundos.
 
 [ALARMSAGITTIFOLIA_SKILL_LEVEL2]
 Nivel 3
 
 [ALARMSAGITTIFOLIA_SKILL_LEVEL2_DES]
-^1D68C1^Sobrecarga: ^oldclr^ el daño de la explosión aumenta en un 40%.
+^4DD4DB^Sobrecarga: ^oldclr^ el daño de la explosión aumenta en un 40%.
 
 [ALARMSAGITTIFOLIA_SKILL_LEVEL5]
 Nivel 5
@@ -1823,13 +1823,13 @@ Cura y purifica a las plantas de sus alrededores
 Nivel 2
 
 [ALOES_SKILL_LEVEL1_DES]
-^1D68C1^Gota cristalina: ^oldclr^ gana la probabilidad de arrojar una gota cristalina que aumenta la velocidad de ataque de las plantas.
+^4DD4DB^Gota cristalina: ^oldclr^ gana la probabilidad de arrojar una gota cristalina que aumenta la velocidad de ataque de las plantas.
 
 [ALOES_SKILL_LEVEL2]
 Nivel 3
 
 [ALOES_SKILL_LEVEL2_DES]
-^912BAE Pureza mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Pureza mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [ALOES_SKILL_LEVEL5]
 Nivel 5
@@ -1905,13 +1905,13 @@ Lanza rayos y absorbe descargas eléctricas
 Nivel 2
 
 [ANTHURIUM_SKILL_LEVEL1_DES]
-^1D68C1^Exceso de energía: ^oldclr^ gana un 7.5% de probabilidad de usar un fuerte ataque de rayos.
+^4DD4DB^Exceso de energía: ^oldclr^ gana un 7.5% de probabilidad de usar un fuerte ataque de rayos.
 
 [ANTHURIUM_SKILL_LEVEL2]
 Nivel 3
 
 [ANTHURIUM_SKILL_LEVEL2_DES]
-^912BAE Centella: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Centella: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [ANTHURIUM_TOOLTIP]
 Lanza rayos y absorbe descargas eléctricas
@@ -1968,13 +1968,13 @@ Manzana mortero lanza semillas de manzana que aturden a zombis en tres líneas.
 Nivel 2
 
 [APPLEMORTAR_SKILL_LEVEL1_DES]
-^1D68C1^Mortero doble: ^oldclr^ gana la probabilidad de disparar 2 semillas de manzana a la vez.
+^4DD4DB^Mortero doble: ^oldclr^ gana la probabilidad de disparar 2 semillas de manzana a la vez.
 
 [APPLEMORTAR_SKILL_LEVEL2]
 Nivel 3
 
 [APPLEMORTAR_SKILL_LEVEL2_DES]
-^912BAE Precisión mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Precisión mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [APPLEMORTAR_SUPERSKILL_DES]
 ^DB8117^Manzanas de oro: ^oldclr^ gana la habilidad de disparar manzanas doradas, las cuales, infligen más daño en un área mayor.
@@ -2893,13 +2893,13 @@ Dispara balas de espárrago a los zombis
 Nivel 2
 
 [ASPARAGUS_SKILL_LEVEL1_DES]
-^1D68C1^Balas perforadoras: ^oldclr^ gana la probabilidad de disparar balas que pueden atravesar al objetivo.
+^4DD4DB^Balas perforadoras: ^oldclr^ gana la probabilidad de disparar balas que pueden atravesar al objetivo.
 
 [ASPARAGUS_SKILL_LEVEL2]
 Nivel 3
 
 [ASPARAGUS_SKILL_LEVEL2_DES]
-^912BAE Perforación mejorada: ^oldclr^ aumenta la probabilidad de disparar balas perforantes.
+^A048CF^Perforación mejorada: ^oldclr^ aumenta la probabilidad de disparar balas perforantes.
 
 [ASPARAGUS_TOOLTIP]
 Dispara balas de espárrago a los zombis por 3 líneas
@@ -3905,13 +3905,13 @@ Perfora a los zombis que lo pisen
 Nivel 2
 
 [BAMBOO_SKILL1_LEVEL1_DES]
-^1D68C1^Excavador profesional: ^oldclr^ gana un 20% de probabilidad de empujar zombis hacia atrás.
+^4DD4DB^Excavador profesional: ^oldclr^ gana un 20% de probabilidad de empujar zombis hacia atrás.
 
 [BAMBOO_SKILL1_LEVEL2]
 Nivel 3
 
 [BAMBOO_SKILL1_LEVEL2_DES]
-^912BAE Súper-excabadora: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Súper-excabadora: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [BAMBOO_TOOLTIP]
 Perfora a los zombis que lo pisen
@@ -3940,13 +3940,13 @@ Toca en un plátano y en una casilla para lanzar un plátano explosivo
 Nivel 2
 
 [BANANA_SKILL_LEVEL1_DES]
-^1D68C1^Autocarga: ^oldclr^ su tiempo de recuperación es reducido en un 15%
+^4DD4DB^Autocarga: ^oldclr^ su tiempo de recuperación es reducido en un 15%
 
 [BANANA_SKILL_LEVEL2]
 Nivel 3
 
 [BANANA_SKILL_LEVEL2_DES]
-^912BAE Munición instantánea: ^oldclr^ su tiempo de recuperación es reducido en otro 15%
+^A048CF^Munición instantánea: ^oldclr^ su tiempo de recuperación es reducido en otro 15%
 
 [BANANA_SKILL_LEVEL5]
 Nivel 5
@@ -4292,13 +4292,13 @@ Dispara una baya rodante que daña a todos los zombis de la línea
 Nivel 2
 
 [BEARBERRY_SKILL_LEVEL1_DES]
-^1D68C1^Atasco: ^oldclr^ gana un 10% de probabilidad de disparar 2 bayas al mismo tiempo.
+^4DD4DB^Atasco: ^oldclr^ gana un 10% de probabilidad de disparar 2 bayas al mismo tiempo.
 
 [BEARBERRY_SKILL_LEVEL2]
 Nivel 3
 
 [BEARBERRY_SKILL_LEVEL2_DES]
-^912BAE Cañón doble: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Cañón doble: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [BEARBERRY_SKILL_LEVEL5]
 Nivel 5
@@ -4328,13 +4328,13 @@ Bloquea a los zombis atacantes, se infla, estalla y los derriba
 Nivel 2
 
 [BEERCOCONUT_SKILL_LEVEL1_DES]
-^1D68C1^Soda burbujeante: ^oldclr^ se reduce el tiempo de inflado en 1 segundo.
+^4DD4DB^Soda burbujeante: ^oldclr^ se reduce el tiempo de inflado en 1 segundo.
 
 [BEERCOCONUT_SKILL_LEVEL2]
 Nivel 3
 
 [BEERCOCONUT_SKILL_LEVEL2_DES]
-^912BAE Inflado rápido: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Inflado rápido: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [BEERCOCONUT_SKILL_LEVEL5]
 Nivel 5
@@ -4415,13 +4415,13 @@ Canta para producir soles y potenciar a las plantas cercanas
 Nivel 2
 
 [BIRTHSUNFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Canto apasionado: ^oldclr^ su canto aumenta el poder de ataque de las plantas en un 50% adicional.
+^4DD4DB^Canto apasionado: ^oldclr^ su canto aumenta el poder de ataque de las plantas en un 50% adicional.
 
 [BIRTHSUNFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [BIRTHSUNFLOWER_SKILL_LEVEL2_DES]
-^912BAE Buena vibra: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Buena vibra: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [BIRTHSUNFLOWER_TOOLTIP]
 Canta para producir soles y potenciar a las plantas cercanas
@@ -4499,13 +4499,13 @@ Golpea a tres objetivos de su línea, ¡dos veces!
 Nivel 2
 
 [BLOOMERANG_SKILL1_LEVEL1_DES]
-^1D68C1^Ahorro solar: ^oldclr^ el coste en soles de Búmeran decrecerá en 5 por cada Búmeran plantado (el coste mínimo es 50).
+^4DD4DB^Ahorro solar: ^oldclr^ el coste en soles de Búmeran decrecerá en 5 por cada Búmeran plantado (el coste mínimo es 50).
 
 [BLOOMERANG_SKILL1_LEVEL2]
 Nivel 3
 
 [BLOOMERANG_SKILL1_LEVEL2_DES]
-^912BAE Ahorro mejorado: ^oldclr^ el coste en soles de Búmeran decrecerá en 10 por cada Búmeran plantado (el coste mínimo es 50).
+^A048CF^Ahorro mejorado: ^oldclr^ el coste en soles de Búmeran decrecerá en 10 por cada Búmeran plantado (el coste mínimo es 50).
 
 [BLOOMERANG_TOOLTIP]
 Golpea a tres objetivos de su línea, ¡dos veces!
@@ -4526,13 +4526,13 @@ Corazón floreciente lanza proyectiles que obsesionan a los zombis, infligiendo 
 Nivel 2
 
 [BLOOMINGHEARTS_SKILL_LEVEL1_DES]
-^1D68C1^Marca de amor: ^oldclr^ gana un 50% de probabilidad de que sus ataques marquen zombis, dándoles mayor prioridad.
+^4DD4DB^Marca de amor: ^oldclr^ gana un 50% de probabilidad de que sus ataques marquen zombis, dándoles mayor prioridad.
 
 [BLOOMINGHEARTS_SKILL_LEVEL2]
 Nivel 3
 
 [BLOOMINGHEARTS_SKILL_LEVEL2_DES]
-^912BAE Amor eterno: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Amor eterno: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [BLOOMINGHEARTS_TOOLTIP]
 Lanza proyectiles que infligen más daño con los impactos sucesivos
@@ -4648,13 +4648,13 @@ Da rápidos puñetazos a los enemigos que tiene delante y detrás
 Nivel 2
 
 [BONKCHOY_SKILL1_LEVEL1_DES]
-^1D68C1^Gancho: ^oldclr^ por cada 15 golpes realizados, realizará un gancho para hacer rebotar a un zombi por los aires.
+^4DD4DB^Gancho: ^oldclr^ por cada 15 golpes realizados, realizará un gancho para hacer rebotar a un zombi por los aires.
 
 [BONKCHOY_SKILL1_LEVEL2]
 Nivel 3
 
 [BONKCHOY_SKILL1_LEVEL2_DES]
-^912BAE Maestro del boxeo: ^oldclr^ el número de golpes necesarios para realizar un gancho se reduce a 7.
+^A048CF^Maestro del boxeo: ^oldclr^ el número de golpes necesarios para realizar un gancho se reduce a 7.
 
 [BONKCHOY_SKILL1_LEVEL5]
 Nivel 5
@@ -5447,13 +5447,13 @@ Tócala para generar globos explosivos
 Nivel 2
 
 [BOOMFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Plantado económico: ^oldclr^ el tiempo de recuperación se reduce en 1 segundo; su coste en soles se reduce en 50.
+^4DD4DB^Plantado económico: ^oldclr^ el tiempo de recuperación se reduce en 1 segundo; su coste en soles se reduce en 50.
 
 [BOOMFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [BOOMFLOWER_SKILL_LEVEL2_DES]
-^912BAE Eficiencia: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Eficiencia: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [BOOMFLOWER_SKILL_LEVEL5]
 Nivel 5
@@ -5483,13 +5483,13 @@ Lanza su abanico de flores que dañan a los zombis en la ida y a la vuelta, por 
 Nivel 2
 
 [BOOPHONEGEISHA_SKILL_LEVEL1_DES]
-^1D68C1^Venganza: ^oldclr^ existe un 50% de probabilidad de que su abanico impacte a otros zombis hasta que el último zombi sea golpeado.
+^4DD4DB^Venganza: ^oldclr^ existe un 50% de probabilidad de que su abanico impacte a otros zombis hasta que el último zombi sea golpeado.
 
 [BOOPHONEGEISHA_SKILL_LEVEL2]
 Nivel 3
 
 [BOOPHONEGEISHA_SKILL_LEVEL2_DES]
-^912BAE Persistencia: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Persistencia: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [BOOPHONEGEISHA_SKILL_LEVEL5]
 Nivel 5
@@ -5878,13 +5878,13 @@ Echa a rodar disparos que botan y que pueden impactar en varios zombis
 Nivel 2
 
 [BOWLINGBULB_SKILL_LEVEL1_DES]
-^1D68C1^Crecimiento acelerado: ^oldclr^ gana un 25% de probabilidad de recargar 2 bulbos a la vez.
+^4DD4DB^Crecimiento acelerado: ^oldclr^ gana un 25% de probabilidad de recargar 2 bulbos a la vez.
 
 [BOWLINGBULB_SKILL_LEVEL2]
 Nivel 3
 
 [BOWLINGBULB_SKILL_LEVEL2_DES]
-^912BAE Crecimiento instantáneo: ^oldclr^ gana un 40% de probabilidad de recargar todos los bulbos.
+^A048CF^Crecimiento instantáneo: ^oldclr^ gana un 40% de probabilidad de recargar todos los bulbos.
 
 [BOWLINGBULB_SKILL_LEVEL5]
 Nivel 5
@@ -5947,13 +5947,13 @@ Sacude contra el suelo a los zombis atacantes
 Nivel 2
 
 [BROCCOLI_SKILL1_LEVEL1_DES]
-^1D68C1^Lanzamiento: ^oldclr^ gana un 20% de probabilidad de lanzar a un zombi con salud baja fuera del patio.
+^4DD4DB^Lanzamiento: ^oldclr^ gana un 20% de probabilidad de lanzar a un zombi con salud baja fuera del patio.
 
 [BROCCOLI_SKILL1_LEVEL2]
 Nivel 3
 
 [BROCCOLI_SKILL1_LEVEL2_DES]
-^912BAE Vigor aumentado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Vigor aumentado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [BROCCOLI_TOOLTIP]
 Agita y golpea contra el suelo a los zombis atacantes
@@ -5980,13 +5980,13 @@ Usa su cadena de cuchillas para dañar zombis, mientras más grandes son, más d
 Nivel 2
 
 [BROMELBLADE_SKILL_LEVEL1_DES]
-^1D68C1^Estocada letal: ^oldclr^ gana un 20% de probabilidad de que un ataque normal active una estocada directa, la cual, daña y arroja a los zombis por los aires.
+^4DD4DB^Estocada letal: ^oldclr^ gana un 20% de probabilidad de que un ataque normal active una estocada directa, la cual, daña y arroja a los zombis por los aires.
 
 [BROMELBLADE_SKILL_LEVEL2]
 Nivel 3
 
 [BROMELBLADE_SKILL_LEVEL2_DES]
-^912BAE Cuchilla veloz: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Cuchilla veloz: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [BROMELBLADE_SKILL_LEVEL5]
 Nivel 5
@@ -6039,13 +6039,13 @@ Unta de mantequilla a los zombis que la atacan
 Nivel 2
 
 [BUTTERCUP_SKILL_LEVEL1_DES]
-^1D68C1^Manteca pringosa: ^oldclr^ sus charcos de mantequilla pueden inmovilizar a 1 zombi adicional.
+^4DD4DB^Manteca pringosa: ^oldclr^ sus charcos de mantequilla pueden inmovilizar a 1 zombi adicional.
 
 [BUTTERCUP_SKILL_LEVEL2]
 Nivel 3
 
 [BUTTERCUP_SKILL_LEVEL2_DES]
-^912BAE Pringosidad mejorada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Pringosidad mejorada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [BUTTERCUP_SKILL_LEVEL5]
 Nivel 5
@@ -6323,13 +6323,13 @@ Golpea a los zombis con su martillo meteoro; carga ataques potentes mientras no 
 Nivel 2
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL1_DES]
-^1D68C1^Giro veloz: ^oldclr^ carga sus ataques potentes 1 segundo más rápido.
+^4DD4DB^Giro veloz: ^oldclr^ carga sus ataques potentes 1 segundo más rápido.
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL2]
 Nivel 3
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL2_DES]
-^912BAE Aumento de energía: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Aumento de energía: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL5]
 Nivel 5
@@ -6910,13 +6910,13 @@ Lanza coles al enemigo
 Nivel 2
 
 [CABBAGEPULT_SKILL1_LEVEL1_DES]
-^1D68C1^Coles rápidos: ^oldclr^ su velocidad de ataque aumenta en un 25%.
+^4DD4DB^Coles rápidos: ^oldclr^ su velocidad de ataque aumenta en un 25%.
 
 [CABBAGEPULT_SKILL1_LEVEL2]
 Nivel 3
 
 [CABBAGEPULT_SKILL1_LEVEL2_DES]
-^912BAE Ataque veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Ataque veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [CABBAGEPULT_SUPERSKILL_DES]
 ^DB8117^Col de oro: ^oldclr^ gana la habilidad de lanzar coles dorados, los cuales, se dividen en 2 coles más pequeños e infligen más daño.
@@ -6949,13 +6949,13 @@ Dispara una espina penetrante y se esconde para infligir daño terrestre
 Nivel 2
 
 [CACTUS_SKILL_LEVEL1_DES]
-^1D68C1^Espina eléctrica: ^oldclr^ gana la probabilidad de disparar espinas eléctricas, las cuales, aturden zombis.
+^4DD4DB^Espina eléctrica: ^oldclr^ gana la probabilidad de disparar espinas eléctricas, las cuales, aturden zombis.
 
 [CACTUS_SKILL_LEVEL2]
 Nivel 3
 
 [CACTUS_SKILL_LEVEL2_DES]
-^912BAE Punción potente: ^oldclr^ gana la habilidad de poder perforar más zombis con sus espinas.
+^A048CF^Punción potente: ^oldclr^ gana la habilidad de poder perforar más zombis con sus espinas.
 
 [CACTUS_SKILL_LEVEL5]
 Nivel 5
@@ -7347,13 +7347,13 @@ Dispara misiles de zanahoria que infligen daño masivo al enemigo
 Nivel 2
 
 [CARROTLAUNCHER_SKILL1_LEVEL1_DES]
-^1D68C1^Lanzamiento veloz: ^oldclr^ dispara 2 misiles a la vez; el tiempo de recuperación se reduce en un 25%
+^4DD4DB^Lanzamiento veloz: ^oldclr^ dispara 2 misiles a la vez; el tiempo de recuperación se reduce en un 25%
 
 [CARROTLAUNCHER_SKILL1_LEVEL2]
 Nivel 3
 
 [CARROTLAUNCHER_SKILL1_LEVEL2_DES]
-^912BAE Autocarga: ^oldclr^ dispara todos los misiles a la vez; el tiempo de recuperación se reduce en un 40%
+^A048CF^Autocarga: ^oldclr^ dispara todos los misiles a la vez; el tiempo de recuperación se reduce en un 40%
 
 [CARROTLAUNCHER_TOOLTIP]
 Dispara misiles de zanahoria a los zombis
@@ -7406,13 +7406,13 @@ Colipoder usa su poder mental para hipnotizar zombis al azar para que se vuelvan
 Nivel 2
 
 [CAULIPOWER_SKILL_LEVEL1_DES]
-^1D68C1^Preparación acelerada: ^oldclr^ su tiempo de recuperación se reduce en un 25%
+^4DD4DB^Preparación acelerada: ^oldclr^ su tiempo de recuperación se reduce en un 25%
 
 [CAULIPOWER_SKILL_LEVEL2]
 Nivel 3
 
 [CAULIPOWER_SKILL_LEVEL2_DES]
-^912BAE Preparación súperveloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Preparación súperveloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [CAULIPOWER_SKILL_LEVEL5]
 Nivel 5
@@ -7481,13 +7481,13 @@ Sale y golpea a los zombis por la espalda
 Nivel 2
 
 [CELERYSTALKER_SKILL_LEVEL1_DES]
-^1D68C1^Emboscada: ^oldclr^ al golpear zombis, tiene la probabilidad de derribar a los que tiene detrás.
+^4DD4DB^Emboscada: ^oldclr^ al golpear zombis, tiene la probabilidad de derribar a los que tiene detrás.
 
 [CELERYSTALKER_SKILL_LEVEL2]
 Nivel 3
 
 [CELERYSTALKER_SKILL_LEVEL2_DES]
-^912BAE Oportunidad perfecta: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Oportunidad perfecta: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [CELERYSTALKER_TOOLTIP]
 Sale y golpea a los zombis por la espalda
@@ -7704,13 +7704,13 @@ Bloquea y echa zombis hacia atrás
 Nivel 2
 
 [CHARDGUARD_SKILL_LEVEL1_DES]
-^1D68C1^Regeneración: ^oldclr^ gana la habilidad de regenerar sus hojas caídas.
+^4DD4DB^Regeneración: ^oldclr^ gana la habilidad de regenerar sus hojas caídas.
 
 [CHARDGUARD_SKILL_LEVEL2]
 Nivel 3
 
 [CHARDGUARD_SKILL_LEVEL2_DES]
-^912BAE Regeneración acelerada: ^oldclr^ sus hojas caídas se regeneran más rápido.
+^A048CF^Regeneración acelerada: ^oldclr^ sus hojas caídas se regeneran más rápido.
 
 [CHARDGUARD_SKILL_LEVEL5]
 Nivel 5
@@ -7731,13 +7731,13 @@ Explota con los zombis en un área mediana
 Nivel 2
 
 [CHERRYBOMB_SKILL1_LEVEL1_DES]
-^1D68C1^Pequeña cereza: ^oldclr^ gana un 50% de probabilidad de crear una Petacereza pequeña, la cual, explota al contacto.
+^4DD4DB^Pequeña cereza: ^oldclr^ gana un 50% de probabilidad de crear una Petacereza pequeña, la cual, explota al contacto.
 
 [CHERRYBOMB_SKILL1_LEVEL2]
 Nivel 3
 
 [CHERRYBOMB_SKILL1_LEVEL2_DES]
-^912BAE Piromaniaco: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Piromaniaco: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [CHERRY_BOMB]
 Petacereza
@@ -7785,13 +7785,13 @@ Convoca castañas que atacan y bloquean zombis en un área determinada
 Nivel 2
 
 [CHESTNUT_SKILL_LEVEL1_DES]
-^1D68C1^Ataque coordinado: ^oldclr^ aumenta el número de castañas en 1, reduce el intervalo para generar castañas en un 25%.
+^4DD4DB^Ataque coordinado: ^oldclr^ aumenta el número de castañas en 1, reduce el intervalo para generar castañas en un 25%.
 
 [CHESTNUT_SKILL_LEVEL2]
 Nivel 3
 
 [CHESTNUT_SKILL_LEVEL2_DES]
-^912BAE Refuerzos: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Refuerzos: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [CHESTNUT_SKILL_LEVEL5]
 Nivel 5
@@ -7873,13 +7873,13 @@ Los zombis que lo comen son destruidos y liberan gas
 Nivel 2
 
 [CHILIBEAN_SKILL1_LEVEL1_DES]
-^1D68C1^Gas maloliente: ^oldclr^ los zombis son aturdidos por el gas 1.5 segundos más.
+^4DD4DB^Gas maloliente: ^oldclr^ los zombis son aturdidos por el gas 1.5 segundos más.
 
 [CHILIBEAN_SKILL1_LEVEL2]
 Nivel 3
 
 [CHILIBEAN_SKILL1_LEVEL2_DES]
-^912BAE Gas nauseabundo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Gas nauseabundo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [CHILIBEAN_TOOLTIP]
 Los zombis que lo comen son destruidos y liberan gas
@@ -7915,13 +7915,13 @@ Devora un zombi y después lo mastica un rato
 Nivel 2
 
 [CHOMPER_SKILL1_LEVEL1_DES]
-^1D68C1^Voracidad: ^oldclr^ eructa tras devorarse a un zombi, derribando a los demás por 1 casilla; su tiempo de digestión es reducido en un 10%.
+^4DD4DB^Voracidad: ^oldclr^ eructa tras devorarse a un zombi, derribando a los demás por 1 casilla; su tiempo de digestión es reducido en un 10%.
 
 [CHOMPER_SKILL1_LEVEL2]
 Nivel 3
 
 [CHOMPER_SKILL1_LEVEL2_DES]
-^912BAE Fagocitosis: ^oldclr^ mejora los Efectos del Nvl.2 en un 250%
+^A048CF^Fagocitosis: ^oldclr^ mejora los Efectos del Nvl.2 en un 250%
 
 [CHOMPER_SUPERSKILL_DES]
 ^DB8117^Apetito enorme: ^oldclr^ gana la probabilidad de crecer a un tamaño colosal y devorarse a todos los zombis que estén 3 casillas al frente.
@@ -8043,13 +8043,13 @@ Dispara bolas poderosas de plasma
 Nivel 2
 
 [CITRON_SKILL1_LEVEL1_DES]
-^1D68C1^Acumulación de energía: ^oldclr^ su tiempo de recuperación es reducido en un 25%.
+^4DD4DB^Acumulación de energía: ^oldclr^ su tiempo de recuperación es reducido en un 25%.
 
 [CITRON_SKILL1_LEVEL2]
 Nivel 3
 
 [CITRON_SKILL1_LEVEL2_DES]
-^912BAE Energía abundante: ^oldclr^ su tiempo de recuperación es reducido en un 40%
+^A048CF^Energía abundante: ^oldclr^ su tiempo de recuperación es reducido en un 40%
 
 [CITRON_SUPERSKILL_DES]
 ^DB8117^Plasma concentrado: ^oldclr^ gana la habilidad de lanzar bolas de plasma gigantes que crean campos magnéticos en un área de 3x3.
@@ -8096,13 +8096,13 @@ Usa al primer zombi que se le acerque como escudo mientras golpea a los demás
 Nivel 2
 
 [CLAWGLORIOSA_SKILL_LEVEL1_DES]
-^1D68C1^Gancho mejorado: ^oldclr^ aumenta la salud de los zombis utilizados como escudo; se reduce el tiempo de recuperación.
+^4DD4DB^Gancho mejorado: ^oldclr^ aumenta la salud de los zombis utilizados como escudo; se reduce el tiempo de recuperación.
 
 [CLAWGLORIOSA_SKILL_LEVEL2]
 Nivel 3
 
 [CLAWGLORIOSA_SKILL_LEVEL2_DES]
-^912BAE Gancho poderoso: ^oldclr^ mejora los Efectos del Nvl. 2
+^A048CF^Gancho poderoso: ^oldclr^ mejora los Efectos del Nvl. 2
 
 [CLAWGLORIOSA_SKILL_LEVEL5]
 Nivel 5
@@ -8155,13 +8155,13 @@ No seleccionaste ningún Lanzamaíz para plantar a Mazorcañón, ¿seguro que qu
 Nivel 2
 
 [COBCANNON_SKILL_LEVEL1_DES]
-^1D68C1^Recuperación acelerada: ^oldclr^ su tiempo de recuperación se reduce en un 15%.
+^4DD4DB^Recuperación acelerada: ^oldclr^ su tiempo de recuperación se reduce en un 15%.
 
 [COBCANNON_SKILL_LEVEL2]
 Nivel 3
 
 [COBCANNON_SKILL_LEVEL2_DES]
-^912BAE Recuperación veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Recuperación veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [COBCANNON_SUPERSKILL_DES]
 ^DB8117^Misil teledirigido: ^oldclr^ gana la habilidad de disparar 2 misiles de mazorca teledirigidos para defenderse a sí mismo.
@@ -8196,13 +8196,13 @@ Toca en el Cococañón para disparar un coco explosivo
 Nivel 2
 
 [COCONUTCANNON_SKILL1_LEVEL1_DES]
-^1D68C1^Recuperación acelerada: ^oldclr^ el tiempo de recuperación se reduce en un 25%.
+^4DD4DB^Recuperación acelerada: ^oldclr^ el tiempo de recuperación se reduce en un 25%.
 
 [COCONUTCANNON_SKILL1_LEVEL2]
 Nivel 3
 
 [COCONUTCANNON_SKILL1_LEVEL2_DES]
-^912BAE Recuperación veloz: ^oldclr^ el tiempo de recuperación se reduce en un 40%.
+^A048CF^Recuperación veloz: ^oldclr^ el tiempo de recuperación se reduce en un 40%.
 
 [COCONUTCANNON_SKILL1_LEVEL5]
 Nivel 5
@@ -8310,13 +8310,13 @@ Exhala una niebla fría en el área que tiene delante
 Nivel 2
 
 [COLDSNAPDRAGON_SKILL_LEVEL1_DES]
-^1D68C1^Aliento gélido: ^oldclr^ gana la probabilidad de congelar zombis con su ataque normal.
+^4DD4DB^Aliento gélido: ^oldclr^ gana la probabilidad de congelar zombis con su ataque normal.
 
 [COLDSNAPDRAGON_SKILL_LEVEL2]
 Nivel 3
 
 [COLDSNAPDRAGON_SKILL_LEVEL2_DES]
-^912BAE Frio extremo: ^oldclr^ aumenta la probabilidad de congelar zombis, extiende el tiempo de congelación en 1 segundo.
+^A048CF^Frio extremo: ^oldclr^ aumenta la probabilidad de congelar zombis, extiende el tiempo de congelación en 1 segundo.
 
 [COLDSNAPDRAGON_SUPERSKILL_DES]
 ^DB8117^Espíritu de hielo: ^oldclr^ gana la probabilidad de invocar un espíritu de hielo para atacar a todos los zombis que tiene por delante.
@@ -8733,13 +8733,13 @@ Lirio de alquimia lanza flores venenosas a los zombis. El veneno de sus flores s
 Nivel 2
 
 [CONVALLARIACHEMIST_SKILL_LEVEL1_DES]
-^1D68C1^Charco venenoso: ^oldclr^ gana un 20% de probabilidad de que sus flores creen un charco venenoso, el cual, afecta a los zombis que lo pisen.
+^4DD4DB^Charco venenoso: ^oldclr^ gana un 20% de probabilidad de que sus flores creen un charco venenoso, el cual, afecta a los zombis que lo pisen.
 
 [CONVALLARIACHEMIST_SKILL_LEVEL2]
 Nivel 3
 
 [CONVALLARIACHEMIST_SKILL_LEVEL2_DES]
-^912BAE Veneno letal: ^oldclr^ la probabilidad de dejar charcos venenosos aumenta a un 30%
+^A048CF^Veneno letal: ^oldclr^ la probabilidad de dejar charcos venenosos aumenta a un 30%
 
 [CONVALLARIACHEMIST_SKILL_LEVEL5]
 Nivel 5
@@ -8821,13 +8821,13 @@ Crea muñecos de nieve para dañar zombis
 Nivel 2
 
 [COTTONYETI_SKILL_LEVEL1_DES]
-^1D68C1^Golpe frio: ^oldclr^ sus muñecos de nieve ralentizan a los zombis golpeados.
+^4DD4DB^Golpe frio: ^oldclr^ sus muñecos de nieve ralentizan a los zombis golpeados.
 
 [COTTONYETI_SKILL_LEVEL2]
 Nivel 3
 
 [COTTONYETI_SKILL_LEVEL2_DES]
-^912BAE Impacto congelante: ^oldclr^ gana la probabilidad de congelar zombis con sus muñecos de nieve.
+^A048CF^Impacto congelante: ^oldclr^ gana la probabilidad de congelar zombis con sus muñecos de nieve.
 
 [COTTONYETI_TOOLTIP]
 Crea muñecos de nieve para dañar zombis
@@ -8873,13 +8873,13 @@ Explota al contacto, causando daño a los zombis cercanos y los expulsa
 Nivel 2
 
 [CRACKER_SKILL_LEVEL1_DES]
-^1D68C1^Detonación doble: ^oldclr^ tras explotar, caerá una copia de sí mismo, infligiendo daño a los zombis en una casilla aleatoria.
+^4DD4DB^Detonación doble: ^oldclr^ tras explotar, caerá una copia de sí mismo, infligiendo daño a los zombis en una casilla aleatoria.
 
 [CRACKER_SKILL_LEVEL2]
 Nivel 3
 
 [CRACKER_SKILL_LEVEL2_DES]
-^912BAE Detonación múltiple: ^oldclr^ tras explotar, caerán 2 copias de sí mismo, infligiendo daño a los zombis en 2 casillas aleatorias.
+^A048CF^Detonación múltiple: ^oldclr^ tras explotar, caerán 2 copias de sí mismo, infligiendo daño a los zombis en 2 casillas aleatorias.
 
 [CRACKER_SKILL_LEVEL5]
 Nivel 5
@@ -9385,13 +9385,13 @@ Dispara rayos láser cuyo daño aumenta con el paso del tiempo
 Nivel 2
 
 [CROWNFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Energía persistente: ^oldclr^ tras alcanzar la 3ra fase, puede permanecer en ella la próxima vez que ataque. El efecto se pierde después del 2do ataque o si deja de atacar.
+^4DD4DB^Energía persistente: ^oldclr^ tras alcanzar la 3ra fase, puede permanecer en ella la próxima vez que ataque. El efecto se pierde después del 2do ataque o si deja de atacar.
 
 [CROWNFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [CROWNFLOWER_SKILL_LEVEL2_DES]
-^912BAE Energía abundante: ^oldclr^ se reduce el tiempo necesario para cambiar de fases.
+^A048CF^Energía abundante: ^oldclr^ se reduce el tiempo necesario para cambiar de fases.
 
 [CROWNFLOWER_SKILL_LEVEL5]
 Nivel 5
@@ -10054,13 +10054,13 @@ Prepara y arroja sopa para dañar y causar disgusto culinario en los zombis
 Nivel 2
 
 [CYPRIPEDIUM_SKILL_LEVEL1_DES]
-^1D68C1^Ataque concentrado: ^oldclr^ gana la probabilidad de disparar un ataque concentrado que afecta a los zombis de una casilla.
+^4DD4DB^Ataque concentrado: ^oldclr^ gana la probabilidad de disparar un ataque concentrado que afecta a los zombis de una casilla.
 
 [CYPRIPEDIUM_SKILL_LEVEL2]
 Nivel 3
 
 [CYPRIPEDIUM_SKILL_LEVEL2_DES]
-^912BAE Chef experto: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Chef experto: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [CYPRIPEDIUM_SKILL_LEVEL5]
 Nivel 5
@@ -10634,13 +10634,13 @@ Lanza semillas explosivas para bombardear zombis
 Nivel 2
 
 [DANDELION_SKILL1_LEVEL1_DES]
-^1D68C1^Explosión extra: ^oldclr^ la semilla arroja 2 bombas antes de desaparecer.
+^4DD4DB^Explosión extra: ^oldclr^ la semilla arroja 2 bombas antes de desaparecer.
 
 [DANDELION_SKILL1_LEVEL2]
 Nivel 3
 
 [DANDELION_SKILL1_LEVEL2_DES]
-^912BAE Bombardeo múltiple: ^oldclr^ la semilla arroja 3 bombas antes de desaparecer.
+^A048CF^Bombardeo múltiple: ^oldclr^ la semilla arroja 3 bombas antes de desaparecer.
 
 [DANDELION_SKILL1_LEVEL5]
 Nivel 5
@@ -11364,13 +11364,13 @@ Impacta a objetivos de alta prioridad
 Nivel 2
 
 [DARTICHOKE_SKILL_LEVEL1_DES]
-^1D68C1^Recuperación acelerada: ^oldclr^ su tiempo de recuperación se reduce en un 25%.
+^4DD4DB^Recuperación acelerada: ^oldclr^ su tiempo de recuperación se reduce en un 25%.
 
 [DARTICHOKE_SKILL_LEVEL2]
 Nivel 3
 
 [DARTICHOKE_SKILL_LEVEL2_DES]
-^912BAE Recuperación rápida: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Recuperación rápida: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [DARTICHOKE_SKILL_LEVEL5]
 Nivel 5
@@ -11665,13 +11665,13 @@ Crecen al atacar, liberando nubes aturdidoras
 Nivel 2
 
 [DAZEYCHAIN_SKILL_LEVEL1_DES]
-^1D68C1^Caristecnia: ^oldclr^ se reduce el número de ataques necesarios para que crezca.
+^4DD4DB^Caristecnia: ^oldclr^ se reduce el número de ataques necesarios para que crezca.
 
 [DAZEYCHAIN_SKILL_LEVEL2]
 Nivel 3
 
 [DAZEYCHAIN_SKILL_LEVEL2_DES]
-^912BAE Crecimiento veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Crecimiento veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [DAZEYCHAIN_SKILL_LEVEL5]
 Nivel 5
@@ -12482,13 +12482,13 @@ Resiste a los fuertes vientos de tifones, bloquea a los zombis atacantes
 Nivel 2
 
 [DENDROBIUMGUARD_SKILL_LEVEL1_DES]
-^1D68C1^Regeneración autónoma: ^oldclr^ gana la habilidad de regenerar sus hojas por sí mismo con el paso del tiempo.
+^4DD4DB^Regeneración autónoma: ^oldclr^ gana la habilidad de regenerar sus hojas por sí mismo con el paso del tiempo.
 
 [DENDROBIUMGUARD_SKILL_LEVEL2]
 Nivel 3
 
 [DENDROBIUMGUARD_SKILL_LEVEL2_DES]
-^912BAE Recuperación extrema: ^oldclr^ el tiempo de regeneración de sus hojas se reduce en 10 segundos.
+^A048CF^Recuperación extrema: ^oldclr^ el tiempo de regeneración de sus hojas se reduce en 10 segundos.
 
 [DENDROBIUMGUARD_SKILL_LEVEL5]
 Nivel 5
@@ -12734,13 +12734,13 @@ Crea un vórtice que atrae a los zombis de un área mediana
 Nivel 2
 
 [DOUBLESAMARA_SKILL_LEVEL1_DES]
-^1D68C1^Ventisca: ^oldclr^ gana la habilidad de derribar a los zombis de Nvl. 1
+^4DD4DB^Ventisca: ^oldclr^ gana la habilidad de derribar a los zombis de Nvl. 1
 
 [DOUBLESAMARA_SKILL_LEVEL2]
 Nivel 3
 
 [DOUBLESAMARA_SKILL_LEVEL2_DES]
-^912BAE Viento ahuracanado: ^oldclr^ gana la habilidad de derribar a los zombis de Nvl. 2
+^A048CF^Viento ahuracanado: ^oldclr^ gana la habilidad de derribar a los zombis de Nvl. 2
 
 [DOUBLESAMARA_TOOLTIP]
 Crea un vórtice que atrae a los zombis de un área mediana
@@ -12789,13 +12789,13 @@ Lanza salvas de aire comprimido que ralentizan y eliminan a los zombis voladores
 Nivel 2
 
 [DRAFTODIL_SKILL_LEVEL1_DES]
-^1D68C1^Control de alimañas: ^oldclr^ aumenta la posibilidad de expulsar del patio a zombis pequeños y alimañas en un 10%.
+^4DD4DB^Control de alimañas: ^oldclr^ aumenta la posibilidad de expulsar del patio a zombis pequeños y alimañas en un 10%.
 
 [DRAFTODIL_SKILL_LEVEL2]
 Nivel 3
 
 [DRAFTODIL_SKILL_LEVEL2_DES]
-^912BAE Poder eólico: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Poder eólico: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [DRAFTODIL_SKILL_LEVEL5]
 Nivel 5
@@ -12826,13 +12826,13 @@ Maestro caña golpea a los zombis que tiene en frente con sus nunchakus de caña
 Nivel 2
 
 [DRAGONCANE_SKILL_LEVEL1_DES]
-^1D68C1^Golpe de codo: ^oldclr^ hace un golpe de codo tras cada ciclo de ataque, con la probabilidad de derribar zombis.
+^4DD4DB^Golpe de codo: ^oldclr^ hace un golpe de codo tras cada ciclo de ataque, con la probabilidad de derribar zombis.
 
 [DRAGONCANE_SKILL_LEVEL2]
 Nivel 3
 
 [DRAGONCANE_SKILL_LEVEL2_DES]
-^912BAE Chacos largos: ^oldclr^ su rango de alcance aumenta en una casilla.
+^A048CF^Chacos largos: ^oldclr^ su rango de alcance aumenta en una casilla.
 
 [DRAGONCANE_SUPERSKILL_DES]
 ^DB8117^Combate hábil: ^oldclr^ golpea a los zombis 7 veces. El golpe de codo tiene mayor probabilidad de derribar zombis, incluso puede expulsarlos.
@@ -12865,13 +12865,13 @@ Dispara pulpa ardiente para dañar zombis en un área pequeña
 Nivel 2
 
 [DRAGONFRUIT_SKILL_LEVEL1_DES]
-^1D68C1^Pulpa azul: ^oldclr^ gana la habilidad de disparar bolas de fuego azul que infligen más daño.
+^4DD4DB^Pulpa azul: ^oldclr^ gana la habilidad de disparar bolas de fuego azul que infligen más daño.
 
 [DRAGONFRUIT_SKILL_LEVEL2]
 Nivel 3
 
 [DRAGONFRUIT_SKILL_LEVEL2_DES]
-^912BAE Ira desatada: ^oldclr^ su velocidad de ataque es aumentada en un 25%.
+^A048CF^Ira desatada: ^oldclr^ su velocidad de ataque es aumentada en un 25%.
 
 [DRAGONFRUIT_SKILL_LEVEL5]
 Nivel 5
@@ -12898,13 +12898,13 @@ Hierba dinosaurio se devora a los zombis cercanos y escupe huevos no digeridos. 
 Nivel 2
 
 [DRAGONROAR_SKILL_LEVEL1_DES]
-^1D68C1^Baba venenosa: ^oldclr^ gana la probabilidad de escupir baba venenosa que inflige más daño.
+^4DD4DB^Baba venenosa: ^oldclr^ gana la probabilidad de escupir baba venenosa que inflige más daño.
 
 [DRAGONROAR_SKILL_LEVEL2]
 Nivel 3
 
 [DRAGONROAR_SKILL_LEVEL2_DES]
-^912BAE Ponzoña: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Ponzoña: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [DRAGONROAR_SUPERSKILL_DES]
 ^DB8117^Ráfaga peligrosa: ^oldclr^ al digerir zombis, existe la posibilidad de escupir una ráfaga de baba que daña todo a su paso.
@@ -12955,13 +12955,13 @@ Lanzadora oscura es una planta sombría que arroja brotes explosivos por la lín
 Nivel 2
 
 [DUSKLOBBER_SKILL_LEVEL1_DES]
-^1D68C1^Brote aturdidor: ^oldclr^ gana un 10% de probabilidad de arrojar un brote que aturde por 1,5 segundos al zombi alcanzado.
+^4DD4DB^Brote aturdidor: ^oldclr^ gana un 10% de probabilidad de arrojar un brote que aturde por 1,5 segundos al zombi alcanzado.
 
 [DUSKLOBBER_SKILL_LEVEL2]
 Nivel 3
 
 [DUSKLOBBER_SKILL_LEVEL2_DES]
-^912BAE Explosión estruendosa: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Explosión estruendosa: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [DUSKLOBBER_SKILL_LEVEL5]
 Nivel 5
@@ -13150,13 +13150,13 @@ Berenjena ninja lanza estrellas ninja a los zombis para infligirles daño en la 
 Nivel 2
 
 [EGGPLANTNINJA_SKILL_LEVEL1_DES]
-^1D68C1^Estrella en llamas: ^oldclr^ gana la probabilidad de lanzar una estrella de fuego que inflige más daño.
+^4DD4DB^Estrella en llamas: ^oldclr^ gana la probabilidad de lanzar una estrella de fuego que inflige más daño.
 
 [EGGPLANTNINJA_SKILL_LEVEL2]
 Nivel 3
 
 [EGGPLANTNINJA_SKILL_LEVEL2_DES]
-^912BAE Voluntad de fuego: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Voluntad de fuego: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [EGGPLANTNINJA_SKILL_LEVEL5]
 Nivel 5
@@ -13189,13 +13189,13 @@ Ataca a los zombis con misiles a corta distancia, a veces, ataca a largas distan
 Nivel 2
 
 [EGRETFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Apoyo aéreo: ^oldclr^ cada Flor de garceta en el patio aumentará el daño de las presentes en un 10% (máx. 30%)
+^4DD4DB^Apoyo aéreo: ^oldclr^ cada Flor de garceta en el patio aumentará el daño de las presentes en un 10% (máx. 30%)
 
 [EGRETFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [EGRETFLOWER_SKILL_LEVEL2_DES]
-^912BAE Carga rápida: ^oldclr^ el tiempo de recarga para disparar misiles aturdidores es reducido en 4 segundos.
+^A048CF^Carga rápida: ^oldclr^ el tiempo de recarga para disparar misiles aturdidores es reducido en 4 segundos.
 
 [EGRETFLOWER_SKILL_LEVEL5]
 Nivel 5
@@ -13280,13 +13280,13 @@ Lanza o volea volantes según que tan lejos estén los zombis de ella
 Nivel 2
 
 [ELAEOCARPUS_SKILL1_LEVEL1_DES]
-^1D68C1^Saque extendido: ^oldclr^ la distancia requerida para volear cambia de 3 casillas a 4.
+^4DD4DB^Saque extendido: ^oldclr^ la distancia requerida para volear cambia de 3 casillas a 4.
 
 [ELAEOCARPUS_SKILL1_LEVEL2]
 Nivel 3
 
 [ELAEOCARPUS_SKILL1_LEVEL2_DES]
-^912BAE Voleo extremo: ^oldclr^ el alcance del volante al ser voleado cambia de un zombi a una casilla.
+^A048CF^Voleo extremo: ^oldclr^ el alcance del volante al ser voleado cambia de un zombi a una casilla.
 
 [ELAEOCARPUS_SUPERSKILL_DES]
 ^DB8117^Maestra del bádminton: ^oldclr^ la salud requerida para eliminar zombis al hacer saques rápidos aumenta en un 10%
@@ -13318,13 +13318,13 @@ Electrocuta zombis al azar
 Nivel 2
 
 [ELECTRICBLUEBERRY_SKILL_LEVEL1_DES]
-^1D68C1^Alcance amplio: ^oldclr^ gana la habilidad de atacar a cualquier zombi de su línea.
+^4DD4DB^Alcance amplio: ^oldclr^ gana la habilidad de atacar a cualquier zombi de su línea.
 
 [ELECTRICBLUEBERRY_SKILL_LEVEL2]
 Nivel 3
 
 [ELECTRICBLUEBERRY_SKILL_LEVEL2_DES]
-^912BAE Alcance completo: ^oldclr^ gana la habilidad de atacar a cualquier zombi del patio.
+^A048CF^Alcance completo: ^oldclr^ gana la habilidad de atacar a cualquier zombi del patio.
 
 [ELECTRICBLUEBERRY_SKILL_LEVEL5]
 Nivel 5
@@ -13351,13 +13351,13 @@ Grosella eléctrica crea vallas electrificadas entre las que plantes en la misma
 Nivel 2
 
 [ELECTRICCURRANT_SKILL_LEVEL1_DES]
-^1D68C1^Alto voltaje: ^oldclr^ el daño de la valla electrificada aumenta en un 20%.
+^4DD4DB^Alto voltaje: ^oldclr^ el daño de la valla electrificada aumenta en un 20%.
 
 [ELECTRICCURRANT_SKILL_LEVEL2]
 Nivel 3
 
 [ELECTRICCURRANT_SKILL_LEVEL2_DES]
-^912BAE Propagación: ^oldclr^ la corriente se propaga en un área mediana, el daño se reduce a la mitad.
+^A048CF^Propagación: ^oldclr^ la corriente se propaga en un área mediana, el daño se reduce a la mitad.
 
 [ELECTRICCURRANT_SUPERSKILL_DES]
 ^DB8117^Desbordamiento de electrones: ^oldclr^ gana la habilidad de emitir arcos eléctricos que dañan a los zombis de un área mediana.
@@ -13387,13 +13387,13 @@ Té eléctrico espera y echa chispas de energía eléctrica hasta que es engulli
 Nivel 2
 
 [ELECTRICITEA_SKILL_LEVEL1_DES]
-^1D68C1^Corriente en cadena: ^oldclr^ gana la probabilidad de dañar a los zombis adyacentes cuando explota.
+^4DD4DB^Corriente en cadena: ^oldclr^ gana la probabilidad de dañar a los zombis adyacentes cuando explota.
 
 [ELECTRICITEA_SKILL_LEVEL2]
 Nivel 3
 
 [ELECTRICITEA_SKILL_LEVEL2_DES]
-^912BAE Flujo expansivo: ^oldclr^ aumenta la probabilidad de los Efectos del Nvl. 2
+^A048CF^Flujo expansivo: ^oldclr^ aumenta la probabilidad de los Efectos del Nvl. 2
 
 [ELECTRICITEA_SKILL_LEVEL5]
 Nivel 5
@@ -13425,13 +13425,13 @@ Dispara guisantes eléctricos
 Nivel 2
 
 [ELECTRICPEASHOOTER_SKILL_LEVEL1_DES]
-^1D68C1^Bola de rayos: ^oldclr^ gana la probabilidad de disparar un orbe mediano que inflige más daño y aturde zombis.
+^4DD4DB^Bola de rayos: ^oldclr^ gana la probabilidad de disparar un orbe mediano que inflige más daño y aturde zombis.
 
 [ELECTRICPEASHOOTER_SKILL_LEVEL2]
 Nivel 3
 
 [ELECTRICPEASHOOTER_SKILL_LEVEL2_DES]
-^912BAE Descarga eléctrica: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Descarga eléctrica: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [ELECTRICPEASHOOTER_SKILL_LEVEL5]
 Nivel 5
@@ -13473,13 +13473,13 @@ Giran y dañan a los zombis de la línea; pueden dejar hielo en el camino
 Nivel 2
 
 [ELEOCURLING_SKILL_LEVEL1_DES]
-^1D68C1^Pantinaje sobre hielo: ^oldclr^ aumenta la probabilidad de dejar rastros de hielo en el camino.
+^4DD4DB^Pantinaje sobre hielo: ^oldclr^ aumenta la probabilidad de dejar rastros de hielo en el camino.
 
 [ELEOCURLING_SKILL_LEVEL2]
 Nivel 3
 
 [ELEOCURLING_SKILL_LEVEL2_DES]
-^912BAE Generación rápida: ^oldclr^ se reduce el tiempo de recuperación para ambas castañas.
+^A048CF^Generación rápida: ^oldclr^ se reduce el tiempo de recuperación para ambas castañas.
 
 [ELEOCURLING_SKILL_LEVEL5]
 Nivel 5
@@ -13784,13 +13784,13 @@ Defiende e inflige daño a los zombis que la atacan.
 Nivel 2
 
 [ENDURIAN_SKILL_LEVEL1_DES]
-^1D68C1^Hedor: ^oldclr^ emite hedor, el cual, inflige daño a los zombis de un área mediana.
+^4DD4DB^Hedor: ^oldclr^ emite hedor, el cual, inflige daño a los zombis de un área mediana.
 
 [ENDURIAN_SKILL_LEVEL2]
 Nivel 3
 
 [ENDURIAN_SKILL_LEVEL2_DES]
-^912BAE Hedor potente: ^oldclr^ el daño producido por el hedor aumenta en un 50%.
+^A048CF^Hedor potente: ^oldclr^ el daño producido por el hedor aumenta en un 50%.
 
 [ENDURIAN_TOOLTIP]
 Defiende e inflige daño a los zombis que la atacan.
@@ -13904,13 +13904,13 @@ Defiende tus plantas mientras ataca a los zombis cercanos; recupera su salud dur
 Nivel 2
 
 [ENTS_SKILL_LEVEL1_DES]
-^1D68C1^Fuerza sobrenatural: ^oldclr^ al enfrentarse a 3 o más enemigos, recuperará 600 puntos de vida por segundo.
+^4DD4DB^Fuerza sobrenatural: ^oldclr^ al enfrentarse a 3 o más enemigos, recuperará 600 puntos de vida por segundo.
 
 [ENTS_SKILL_LEVEL2]
 Nivel 3
 
 [ENTS_SKILL_LEVEL2_DES]
-^912BAE Afinidad natural: ^oldclr^ aumenta la cantidad de salud recuperada por segundo.
+^A048CF^Afinidad natural: ^oldclr^ aumenta la cantidad de salud recuperada por segundo.
 
 [ENTS_SKILL_LEVEL5]
 Nivel 5
@@ -15224,13 +15224,13 @@ Raíz de escape explota al contacto y puede ser intercambiada con otras plantas 
 Nivel 2
 
 [ESCAPEROOT_SKILL_LEVEL1_DES]
-^1D68C1^Enraizamiento veloz: ^oldclr^ su tiempo de armado se reduce en un 40%.
+^4DD4DB^Enraizamiento veloz: ^oldclr^ su tiempo de armado se reduce en un 40%.
 
 [ESCAPEROOT_SKILL_LEVEL2]
 Nivel 3
 
 [ESCAPEROOT_SKILL_LEVEL2_DES]
-^912BAE Armado instantáneo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Armado instantáneo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [ESCAPEROOT_SUPERSKILL_DES]
 ^DB8117^Transferencia de nutrientes: ^oldclr^ gana la habilidad de potenciar con el Efecto de Nutrientes a la primera planta intercambiada.
@@ -15546,13 +15546,13 @@ Explotonuez proporciona protección. Cuando se comen su cáscara, explota y los 
 Nivel 2
 
 [EXPLODEONUT_SKILL_LEVEL1_DES]
-^1D68C1^Segundo estallido: ^oldclr^ gana un 10% de probabilidad de que al explotar, genere una Papapúm.
+^4DD4DB^Segundo estallido: ^oldclr^ gana un 10% de probabilidad de que al explotar, genere una Papapúm.
 
 [EXPLODEONUT_SKILL_LEVEL2]
 Nivel 3
 
 [EXPLODEONUT_SKILL_LEVEL2_DES]
-^912BAE Experto en explosivos: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Experto en explosivos: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [EXPLODEONUT_TOOLTIP]
 Explota cuando se la comen
@@ -17060,13 +17060,13 @@ Tócala para desatar poderosas ráfagas de fuego
 Nivel 2
 
 [FIREGOURD_SKILL1_LEVEL1_DES]
-^1D68C1^Llamas extensas: ^oldclr^ la duración de las llamaradas es incrementada en un segundo.
+^4DD4DB^Llamas extensas: ^oldclr^ la duración de las llamaradas es incrementada en un segundo.
 
 [FIREGOURD_SKILL1_LEVEL2]
 Nivel 3
 
 [FIREGOURD_SKILL1_LEVEL2_DES]
-^912BAE Aliento de dragón: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Aliento de dragón: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [FIREGOURD_TOOLTIP]
 Tócala para desatar poderosas ráfagas de fuego
@@ -17100,13 +17100,13 @@ Lanza guisantes en llamas y calienta a las plantas cercanas
 Nivel 2
 
 [FIREPEASHOOTER_SKILL_LEVEL1_DES]
-^1D68C1^Combo ardiente: ^oldclr^ gana un 10% de probabilidad de disparar dos guisantes en llamas a la vez.
+^4DD4DB^Combo ardiente: ^oldclr^ gana un 10% de probabilidad de disparar dos guisantes en llamas a la vez.
 
 [FIREPEASHOOTER_SKILL_LEVEL2]
 Nivel 3
 
 [FIREPEASHOOTER_SKILL_LEVEL2_DES]
-^912BAE Ráfaga letal: ^oldclr^ gana un 20% de probabilidad de disparar dos a cinco guisantes a la vez.
+^A048CF^Ráfaga letal: ^oldclr^ gana un 20% de probabilidad de disparar dos a cinco guisantes a la vez.
 
 [FIREPEASHOOTER_TOOLTIP]
 Lanza guisantes en llamas y calienta las plantas cercanas
@@ -17133,13 +17133,13 @@ Crece con el lanzamiento de ataques cada vez más calurosos y potentes
 Nivel 2
 
 [FIRESHROOM_SKILL1_LEVEL1_DES]
-^1D68C1^Altas temperaturas: ^oldclr^ crece un 50% más rápido; su poder de ataque aumenta en un 15%.
+^4DD4DB^Altas temperaturas: ^oldclr^ crece un 50% más rápido; su poder de ataque aumenta en un 15%.
 
 [FIRESHROOM_SKILL1_LEVEL2]
 Nivel 3
 
 [FIRESHROOM_SKILL1_LEVEL2_DES]
-^912BAE Maestro del fuego: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Maestro del fuego: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [FIRESHROOM_SKILL1_LEVEL5]
 Nivel 5
@@ -17204,13 +17204,13 @@ Pesca zombis y los lanza para dañar y aturdir a los demás
 Nivel 2
 
 [FISHHOOKGRASS_SKILL_LEVEL1_DES]
-^1D68C1^Pesca hábil: ^oldclr^ el tiempo de preparación para pescar se reduce a 13 segundos.
+^4DD4DB^Pesca hábil: ^oldclr^ el tiempo de preparación para pescar se reduce a 13 segundos.
 
 [FISHHOOKGRASS_SKILL_LEVEL2]
 Nivel 3
 
 [FISHHOOKGRASS_SKILL_LEVEL2_DES]
-^912BAE Pesca rápida: ^oldclr^ el tiempo de preparación para pescar se reduce a 11 segundos.
+^A048CF^Pesca rápida: ^oldclr^ el tiempo de preparación para pescar se reduce a 11 segundos.
 
 [FISHHOOKGRASS_SKILL_LEVEL5]
 Nivel 5
@@ -17270,13 +17270,13 @@ Ataca a los zombis con bolas de fuego; lanza llamaradas cuando están cerca
 Nivel 2
 
 [FLAMELADY_SKILL_LEVEL1_DES]
-^1D68C1^Aura de reina: ^oldclr^ aumenta el alcance de las llamaradas a 5 casillas (sin afectar el rango de activación).
+^4DD4DB^Aura de reina: ^oldclr^ aumenta el alcance de las llamaradas a 5 casillas (sin afectar el rango de activación).
 
 [FLAMELADY_SKILL_LEVEL2]
 Nivel 3
 
 [FLAMELADY_SKILL_LEVEL2_DES]
-^912BAE Doncella azul: ^oldclr^ gana la habilidad de atacar con fuego azul, el cual, inflige más daño.
+^A048CF^Doncella azul: ^oldclr^ gana la habilidad de atacar con fuego azul, el cual, inflige más daño.
 
 [FLAMELADY_SUPERSKILL_DES]
 ^DB8117^Llamas infernales: ^oldclr^ gana la habilidad de atacar con fuego púrpura como ataque cuerpo a cuerpo, haciendo aún más daño; puede lanzar 3-5 bolas de fuego de varios colores.
@@ -17462,13 +17462,13 @@ Dispara humo que puede infligir daño a todos los zombis de un área
 Nivel 2
 
 [FUMESHROOM_SKILL1_LEVEL1_DES]
-^1D68C1^Humo tóxico: ^oldclr^ gana un 8% de probabilidad de que ataque con un humo tóxico el cual aturde zombis.
+^4DD4DB^Humo tóxico: ^oldclr^ gana un 8% de probabilidad de que ataque con un humo tóxico el cual aturde zombis.
 
 [FUMESHROOM_SKILL1_LEVEL2]
 Nivel 3
 
 [FUMESHROOM_SKILL1_LEVEL2_DES]
-^912BAE Humo asfixiante: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Humo asfixiante: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [FUMESHROOM_TOOLTIP]
 Dispara humo que puede infligir daño a todos los zombis de un área
@@ -18023,13 +18023,13 @@ Corta zombis con sus afilados pétalos, los aturde de vez en cuando
 Nivel 2
 
 [GARDENERGRASS_SKILL_LEVEL1_DES]
-^1D68C1^Motosierra útil: ^oldclr^ su tiempo de recuperación se reduce a 7.5 segundos.
+^4DD4DB^Motosierra útil: ^oldclr^ su tiempo de recuperación se reduce a 7.5 segundos.
 
 [GARDENERGRASS_SKILL_LEVEL2]
 Nivel 3
 
 [GARDENERGRASS_SKILL_LEVEL2_DES]
-^912BAE Motosierra suprema: ^oldclr^ su tiempo de recuperación se reduce a 5 segundos.
+^A048CF^Motosierra suprema: ^oldclr^ su tiempo de recuperación se reduce a 5 segundos.
 
 [GARDENERGRASS_SKILL_LEVEL5]
 Nivel 5
@@ -18073,13 +18073,13 @@ Repele zombis a otras líneas
 Nivel 2
 
 [GARLIC_SKILL_LEVEL1_DES]
-^1D68C1^Cabeza resistente: ^oldclr^ su salud aumenta.
+^4DD4DB^Cabeza resistente: ^oldclr^ su salud aumenta.
 
 [GARLIC_SKILL_LEVEL2]
 Nivel 3
 
 [GARLIC_SKILL_LEVEL2_DES]
-^912BAE Veneno: ^oldclr^ gana la habilidad de envenenar a los zombis que lo coman, haciendo que pierdan salud rápidamente.
+^A048CF^Veneno: ^oldclr^ gana la habilidad de envenenar a los zombis que lo coman, haciendo que pierdan salud rápidamente.
 
 [GARLIC_TOOLTIP]
 Repele zombis a otras líneas
@@ -18117,13 +18117,13 @@ Guisantralladora dispara cuatro guisantes a la vez
 Nivel 2
 
 [GATLINGPEA_SKILL_LEVEL1_DES]
-^1D68C1^Arma mejorada: ^oldclr^ gana la probabilidad de disparar 2 guisantes los cuales alcanzan zombis de otras líneas.
+^4DD4DB^Arma mejorada: ^oldclr^ gana la probabilidad de disparar 2 guisantes los cuales alcanzan zombis de otras líneas.
 
 [GATLINGPEA_SKILL_LEVEL2]
 Nivel 3
 
 [GATLINGPEA_SKILL_LEVEL2_DES]
-^912BAE Maestro artillero: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Maestro artillero: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [GATLINGPEA_SUPERSKILL_DES]
 ^DB8117^Guisantes de plasma: ^oldclr^ gana la habilidad de disparar guisantes de plasma que infligen más daño.
@@ -19175,13 +19175,13 @@ Acecha a todos los zombis que lo atraviesan y explota después de un tiempo limi
 Nivel 2
 
 [GHOSTPEPPER_SKILL_LEVEL1_DES]
-^1D68C1^Maleficio: ^oldclr^ gana la habilidad de atacar a los zombis en un patrón de cruz.
+^4DD4DB^Maleficio: ^oldclr^ gana la habilidad de atacar a los zombis en un patrón de cruz.
 
 [GHOSTPEPPER_SKILL_LEVEL2]
 Nivel 3
 
 [GHOSTPEPPER_SKILL_LEVEL2_DES]
-^912BAE Aparición fantasmal: ^oldclr^ ataca una casilla más lejos.
+^A048CF^Aparición fantasmal: ^oldclr^ ataca una casilla más lejos.
 
 [GHOSTPEPPER_TOOLTIP]
 Acecha a todos los zombis que lo atraviesan y explota después de un tiempo limitado
@@ -19342,13 +19342,13 @@ Explota y expulsa proyectiles que rebotan
 Nivel 2
 
 [GRAPESHOT_SKILL_LEVEL1_DES]
-^1D68C1^Uvas saltarinas: ^oldclr^ el número de rebotes por proyectil aumenta en 1
+^4DD4DB^Uvas saltarinas: ^oldclr^ el número de rebotes por proyectil aumenta en 1
 
 [GRAPESHOT_SKILL_LEVEL2]
 Nivel 3
 
 [GRAPESHOT_SKILL_LEVEL2_DES]
-^912BAE Rebote potente: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Rebote potente: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [GRAPESHOT_TOOLTIP]
 Explota y expulsa proyectiles que rebotan
@@ -19399,13 +19399,13 @@ Dispara 3 tipos diferentes de misiles a los zombis
 Nivel 2
 
 [GREENTURNIP_SKILL_LEVEL1_DES]
-^1D68C1^Más rebotes: ^oldclr^ sus misiles ahora rebotan en dos zombis.
+^4DD4DB^Más rebotes: ^oldclr^ sus misiles ahora rebotan en dos zombis.
 
 [GREENTURNIP_SKILL_LEVEL2]
 Nivel 3
 
 [GREENTURNIP_SKILL_LEVEL2_DES]
-^912BAE Eyección mejorada: ^oldclr^ sus misiles ahora rebotan en tres zombis.
+^A048CF^Eyección mejorada: ^oldclr^ sus misiles ahora rebotan en tres zombis.
 
 [GREENTURNIP_TOOLTIP]
 Dispara 3 tipos diferentes de misiles a los zombis
@@ -19432,13 +19432,13 @@ Siniestrosa es una planta sombría que se comporta como una Zampalga terrestre y
 Nivel 2
 
 [GRIMROSE_SKILL_LEVEL1_DES]
-^1D68C1^Permanencia: ^oldclr^ gana un 10% de probabilidad de que no desaparezca cuando arrastre a un zombi al suelo.
+^4DD4DB^Permanencia: ^oldclr^ gana un 10% de probabilidad de que no desaparezca cuando arrastre a un zombi al suelo.
 
 [GRIMROSE_SKILL_LEVEL2]
 Nivel 3
 
 [GRIMROSE_SKILL_LEVEL2_DES]
-^912BAE Eternidad: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Eternidad: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [GRIMROSE_SKILL_LEVEL5]
 Nivel 5
@@ -19568,13 +19568,13 @@ Dispara semillas, asalta a los zombis que tiene delante si lo atacan
 Nivel 2
 
 [GUACODILE_SKILL_LEVEL1_DES]
-^1D68C1^Dentadura resistente: ^oldclr^ gana un 20% de probabilidad de disparar su dentadura, la cual, inflige un 50% más de daño.
+^4DD4DB^Dentadura resistente: ^oldclr^ gana un 20% de probabilidad de disparar su dentadura, la cual, inflige un 50% más de daño.
 
 [GUACODILE_SKILL_LEVEL2]
 Nivel 3
 
 [GUACODILE_SKILL_LEVEL2_DES]
-^912BAE Dientes de acero: ^oldclr^ mejora los efectos del Nvl. 2 al doble
+^A048CF^Dientes de acero: ^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [GUACODILE_TOOLTIP]
 Dispara semillas, asalta a los zombis que tiene delante si lo atacan
@@ -19599,13 +19599,13 @@ Nuez chicletera lanza chicles a los zombis que los inmovilizan y hacen que bloqu
 Nivel 2
 
 [GUMNUT_SKILL_LEVEL1_DES]
-^1D68C1^Chicle encantador: ^oldclr^ cuando los zombis comen su chicle, existe un 20% de probabilidad de que sean hipnotizados (no afecta a Zombisteins ni a Mecas).
+^4DD4DB^Chicle encantador: ^oldclr^ cuando los zombis comen su chicle, existe un 20% de probabilidad de que sean hipnotizados (no afecta a Zombisteins ni a Mecas).
 
 [GUMNUT_SKILL_LEVEL2]
 Nivel 3
 
 [GUMNUT_SKILL_LEVEL2_DES]
-^912BAE Encanto potenciado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Encanto potenciado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [GUMNUT_SKILL_LEVEL5]
 Nivel 5
@@ -19884,13 +19884,13 @@ Golpea a los zombis con su martillo, a veces, lanza ataques devastadores
 Nivel 2
 
 [HAMMERFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Martillo poderoso: ^oldclr^ duplica la probabilidad de lanzar ataques devastadores.
+^4DD4DB^Martillo poderoso: ^oldclr^ duplica la probabilidad de lanzar ataques devastadores.
 
 [HAMMERFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [HAMMERFLOWER_SKILL_LEVEL2_DES]
-^912BAE Entierro profundo: ^oldclr^ cuando un zombi enterrado es impactado por otro ataque devastador, es enterrado más profundamente, aumentando el tiempo de enterramiento en 6 segundos.
+^A048CF^Entierro profundo: ^oldclr^ cuando un zombi enterrado es impactado por otro ataque devastador, es enterrado más profundamente, aumentando el tiempo de enterramiento en 6 segundos.
 
 [HAMMERFLOWER_SKILL_LEVEL5]
 Nivel 5
@@ -20028,13 +20028,13 @@ Tira su sombrero para atacar a los zombis que tenga en frente
 Nivel 2
 
 [HATMUSHROOM_SKILL_LEVEL1_DES]
-^1D68C1^Rebobinación mejorada: ^oldclr^ la probabilidad de rebobinar zombis en el tiempo aumenta a un 10%.
+^4DD4DB^Rebobinación mejorada: ^oldclr^ la probabilidad de rebobinar zombis en el tiempo aumenta a un 10%.
 
 [HATMUSHROOM_SKILL_LEVEL2]
 Nivel 3
 
 [HATMUSHROOM_SKILL_LEVEL2_DES]
-^912BAE Maestro del tiempo: ^oldclr^ la probabilidad de rebobinar zombis en el tiempo aumenta a un 12%.
+^A048CF^Maestro del tiempo: ^oldclr^ la probabilidad de rebobinar zombis en el tiempo aumenta a un 12%.
 
 [HATMUSHROOM_SKILL_LEVEL5]
 Nivel 5
@@ -20070,13 +20070,13 @@ Empuja y echa mantequilla a los zombis
 Nivel 2
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL1_DES]
-^1D68C1^Concentración mantecosa: ^oldclr^ la probabilidad de echar mantequilla aumenta en un 15%; la mantequilla dura un segundo más.
+^4DD4DB^Concentración mantecosa: ^oldclr^ la probabilidad de echar mantequilla aumenta en un 15%; la mantequilla dura un segundo más.
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL2]
 Nivel 3
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL2_DES]
-^912BAE Manteca doble: ^oldclr^ la probabilidad de echar mantequilla se duplica, con un máximo de 2 mantequillas liberadas al mismo tiempo.
+^A048CF^Manteca doble: ^oldclr^ la probabilidad de echar mantequilla se duplica, con un máximo de 2 mantequillas liberadas al mismo tiempo.
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL5]
 Nivel 5
@@ -20132,13 +20132,13 @@ Explota en una tormenta de dardos teledirigidos que destruyen armaduras pesadas
 Nivel 2
 
 [HEATHSEEKER_SKILL1_LEVEL1_DES]
-^1D68C1^Impacto perforante: ^oldclr^ el número de dardos disparados aumenta en 1 junto al número de zombis perforados.
+^4DD4DB^Impacto perforante: ^oldclr^ el número de dardos disparados aumenta en 1 junto al número de zombis perforados.
 
 [HEATHSEEKER_SKILL1_LEVEL2]
 Nivel 3
 
 [HEATHSEEKER_SKILL1_LEVEL2_DES]
-^912BAE Dardos mejorados: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Dardos mejorados: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [HEATHSEEKER_TOOLTIP]
 Explota en una tormenta de dardos teledirigidos que destruyen armaduras pesadas
@@ -20212,19 +20212,19 @@ Daña y debilita a los zombis cercanos con magia
 Nivel 2
 
 [HOCUSCROCUS_SKILL_LEVEL1_DES]
-^1D68C1^Refracción: ^oldclr^ cuando un zombi sea atacado, el rayo se refractará e infligirá daño a otros 2 que estén 3 líneas detrás, con un 20% de probabilidad de encogerlos.
+^4DD4DB^Refracción: ^oldclr^ cuando un zombi sea atacado, el rayo se refractará e infligirá daño a otros 2 que estén 3 líneas detrás, con un 20% de probabilidad de encogerlos.
 
 [HOCUSCROCUS_SKILL_LEVEL2]
 Nivel 3
 
 [HOCUSCROCUS_SKILL_LEVEL2_DES]
-^912BAE Refracción mejorada: ^oldclr^ el daño del rayo refractado aumenta; existe un 50% de probabilidad de reducir a los zombis alcanzados por este.
+^A048CF^Refracción mejorada: ^oldclr^ el daño del rayo refractado aumenta; existe un 50% de probabilidad de reducir a los zombis alcanzados por este.
 
 [HOCUSCROCUS_SKILL_LEVEL5]
 Nivel 5
 
 [HOCUSCROCUS_SKILL_LEVEL5_DES]
-^912BAE Rayo potente: ^oldclr^ tras 2 ataques consecutivos, disparará un rayo más poderoso que reduce el nivel de los zombis al refractarse.
+^A048CF^Rayo potente: ^oldclr^ tras 2 ataques consecutivos, disparará un rayo más poderoso que reduce el nivel de los zombis al refractarse.
 
 [HOCUSCROCUS_TOOLTIP]
 Daña y debilita a los zombis cercanos con magia
@@ -20290,13 +20290,13 @@ Barrera de acebo inflige daño a los zombis que la atacan y puede lanzar 3 hojas
 Nivel 2
 
 [HOLLYKNIGHT_SKILL_LEVEL1_DES]
-^1D68C1^Expansión: ^oldclr^ el alcance de su ataque cuerpo a cuerpo aumenta en 2 casillas, arriba y abajo.
+^4DD4DB^Expansión: ^oldclr^ el alcance de su ataque cuerpo a cuerpo aumenta en 2 casillas, arriba y abajo.
 
 [HOLLYKNIGHT_SKILL_LEVEL2]
 Nivel 3
 
 [HOLLYKNIGHT_SKILL_LEVEL2_DES]
-^912BAE Impacto potenciado: ^oldclr^ sus proyectiles empujan a los zombis una casilla más lejos.
+^A048CF^Impacto potenciado: ^oldclr^ sus proyectiles empujan a los zombis una casilla más lejos.
 
 [HOLLYKNIGHT_SKILL_LEVEL5]
 Nivel 5
@@ -20326,13 +20326,13 @@ Una Nuez más débil que recupera salud periódicamente
 Nivel 2
 
 [HOLONUT_SKILL1_LEVEL1_DES]
-^1D68C1^Regeneración rápida: ^oldclr^^ se regenera un 50% más rápido.
+^4DD4DB^Regeneración rápida: ^oldclr^^ se regenera un 50% más rápido.
 
 [HOLONUT_SKILL1_LEVEL2]
 Nivel 3
 
 [HOLONUT_SKILL1_LEVEL2_DES]
-^912BAE Regeneración mejorada: ^oldclr^^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Regeneración mejorada: ^oldclr^^ mejora los Efectos del Nvl. 2 al doble
 
 [HOLONUT_SKILL1_LEVEL5]
 Nivel 5
@@ -20364,13 +20364,13 @@ Ataca al objetivo que esté más a la izquierda en cualquier línea
 Nivel 2
 
 [HOMINGTHISTLE_SKILL_LEVEL1_DES]
-^1D68C1^Combo de cardos: ^oldclr^^ gana un 25% de probabilidad de disparar 2 cardos a la vez.
+^4DD4DB^Combo de cardos: ^oldclr^^ gana un 25% de probabilidad de disparar 2 cardos a la vez.
 
 [HOMINGTHISTLE_SKILL_LEVEL2]
 Nivel 3
 
 [HOMINGTHISTLE_SKILL_LEVEL2_DES]
-^912BAE Combo mejorado: ^oldclr^^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Combo mejorado: ^oldclr^^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [HOMINGTHISTLE_TOOLTIP]
 Ataca al objetivo que esté más a la izquierda en cualquier línea
@@ -20397,13 +20397,13 @@ Envia tropas para atacar zombis por varias líneas
 Nivel 2
 
 [HORSEBEAN_SKILL_LEVEL1_DES]
-^1D68C1^Combo de habas: ^oldclr^^ gana un 20% de probabilidad de lanzar dos guisantes por cada haba.
+^4DD4DB^Combo de habas: ^oldclr^^ gana un 20% de probabilidad de lanzar dos guisantes por cada haba.
 
 [HORSEBEAN_SKILL_LEVEL2]
 Nivel 3
 
 [HORSEBEAN_SKILL_LEVEL2_DES]
-^912BAE Combo mejorado: ^oldclr^^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Combo mejorado: ^oldclr^^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [HORSEBEAN_SKILL_LEVEL5]
 Nivel 5
@@ -20430,13 +20430,13 @@ Dátil ardiente atrae zombis de las líneas superior e inferior a la suya, y des
 Nivel 2
 
 [HOTDATE_SKILL_LEVEL1_DES]
-^1D68C1^Toque picante: ^oldclr^^ su salud aumenta en un 25%
+^4DD4DB^Toque picante: ^oldclr^^ su salud aumenta en un 25%
 
 [HOTDATE_SKILL_LEVEL2]
 Nivel 3
 
 [HOTDATE_SKILL_LEVEL2_DES]
-^912BAE Encanto atractivo: ^oldclr^^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Encanto atractivo: ^oldclr^^ mejora los Efectos del Nvl. 2 al doble
 
 [HOTDATE_SKILL_LEVEL5]
 Nivel 5
@@ -20524,13 +20524,13 @@ Mejora a las plantas de sus alrededores, la mejora es mayor en plantas musicales
 Nivel 2
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL1_DES]
-^1D68C1^Gran orquesta: ^oldclr^^ los efectos de mejora aumentan en un 15% (25% para plantas musicales); puede mejorar a más plantas musicales (consultar en el Almanaque).
+^4DD4DB^Gran orquesta: ^oldclr^^ los efectos de mejora aumentan en un 15% (25% para plantas musicales); puede mejorar a más plantas musicales (consultar en el Almanaque).
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL2]
 Nivel 3
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL2_DES]
-^912BAE Súper-orquesta: ^oldclr^^ los efectos de mejora aumentan en un 20% (35% más de daño y 30% más de velocidad para plantas musicales)
+^A048CF^Súper-orquesta: ^oldclr^^ los efectos de mejora aumentan en un 20% (35% más de daño y 30% más de velocidad para plantas musicales)
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL5]
 Nivel 5
@@ -20563,13 +20563,13 @@ Hace que un zombi luche por ti
 Nivel 2
 
 [HYPNOSHROOM_SKILL1_LEVEL1_DES]
-^1D68C1^Hipnosis mejorada: ^oldclr^ los zombis hipnotizados recuperan un 10% de su salud y ganan un 20% de fuerza adicional
+^4DD4DB^Hipnosis mejorada: ^oldclr^ los zombis hipnotizados recuperan un 10% de su salud y ganan un 20% de fuerza adicional
 
 [HYPNOSHROOM_SKILL1_LEVEL2]
 Nivel 3
 
 [HYPNOSHROOM_SKILL1_LEVEL2_DES]
-^912BAE Hipnosis avanzada: ^oldclr^ mejora los efectos del Nvl. 2 al doble
+^A048CF^Hipnosis avanzada: ^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [HYPNOSHROOM_TOOLTIP]
 Hace que un zombi luche por ti
@@ -20918,13 +20918,13 @@ Congela a los zombis que la pisen y apaga llamas
 Nivel 2
 
 [ICEBURG_SKILL1_LEVEL1_DES]
-^1D68C1^Copo de nieve: ^oldclr^ gana la habilidad de atacar zombis por 3 casillas delante de ella.
+^4DD4DB^Copo de nieve: ^oldclr^ gana la habilidad de atacar zombis por 3 casillas delante de ella.
 
 [ICEBURG_SKILL1_LEVEL2]
 Nivel 3
 
 [ICEBURG_SKILL1_LEVEL2_DES]
-^912BAE Mejora de alcance: ^oldclr^ el alcance de su ataque aumenta en 2 casillas.
+^A048CF^Mejora de alcance: ^oldclr^ el alcance de su ataque aumenta en 2 casillas.
 
 [ICEBURG_TOOLTIP]
 Congela a los zombis que la pisen y apaga llamas
@@ -20949,13 +20949,13 @@ Deja charcos que extinguen llamas y frenan zombis
 Nivel 2
 
 [ICELOTUS_SKILL_LEVEL1_DES]
-^1D68C1^Charcos de reserva: ^oldclr^ el número de charcos dejados antes de desaparecer aumenta en 2
+^4DD4DB^Charcos de reserva: ^oldclr^ el número de charcos dejados antes de desaparecer aumenta en 2
 
 [ICELOTUS_SKILL_LEVEL2]
 Nivel 3
 
 [ICELOTUS_SKILL_LEVEL2_DES]
-^912BAE Congelamiento cerebral: ^oldclr^ gana la probabilidad de congelar a los zombis que lo muerdan.
+^A048CF^Congelamiento cerebral: ^oldclr^ gana la probabilidad de congelar a los zombis que lo muerdan.
 
 [ICELOTUS_TOOLTIP]
 Deja charcos que extinguen llamas y frenan zombis
@@ -20982,13 +20982,13 @@ Crece con el lanzamiento de ataques cada vez más fríos y potentes
 Nivel 2
 
 [ICESHROOM_SKILL1_LEVEL1_DES]
-^1D68C1^Frio invernal: ^oldclr^ crece un 50% más rápido; gana un 7.5% de probabilidad de congelar zombis con sus ataques.
+^4DD4DB^Frio invernal: ^oldclr^ crece un 50% más rápido; gana un 7.5% de probabilidad de congelar zombis con sus ataques.
 
 [ICESHROOM_SKILL1_LEVEL2]
 Nivel 3
 
 [ICESHROOM_SKILL1_LEVEL2_DES]
-^912BAE Gran helada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Gran helada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [ICESHROOM_SKILL1_LEVEL5]
 Nivel 5
@@ -21039,13 +21039,13 @@ Grosella congelada crea vallas congeladas entre las que plantes en la misma fila
 Nivel 2
 
 [ICYCURRANT_SKILL_LEVEL1_DES]
-^1D68C1^Escarcha: ^oldclr^ gana la probabilidad de hacer un ataque cuerpo a cuerpo que inflige más daño y congela zombis.
+^4DD4DB^Escarcha: ^oldclr^ gana la probabilidad de hacer un ataque cuerpo a cuerpo que inflige más daño y congela zombis.
 
 [ICYCURRANT_SKILL_LEVEL2]
 Nivel 3
 
 [ICYCURRANT_SKILL_LEVEL2_DES]
-^912BAE Carámbanos: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Carámbanos: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [ICYCURRANT_SKILL_LEVEL5]
 Nivel 5
@@ -21135,13 +21135,13 @@ Escupe balas de tinta a los zombis; se fortalece con el tiempo
 Nivel 2
 
 [IMPATIENSSHOOTER_SKILL_LEVEL1_DES]
-^1D68C1^Tinción rápida: ^oldclr^ se tiñe 3 segundos más rápido.
+^4DD4DB^Tinción rápida: ^oldclr^ se tiñe 3 segundos más rápido.
 
 [IMPATIENSSHOOTER_SKILL_LEVEL2]
 Nivel 3
 
 [IMPATIENSSHOOTER_SKILL_LEVEL2_DES]
-^912BAE Tinción súperveloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Tinción súperveloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [IMPATIENSSHOOTER_SKILL_LEVEL5]
 Nivel 5
@@ -21174,13 +21174,13 @@ Convierte a los zombis en zombiditos
 Nivel 2
 
 [IMPPEAR_SKILL_LEVEL1_DES]
-^1D68C1^Mutación debilitante: ^oldclr^ gana un 40% de probabilidad de que los zombis convertidos en Zombiditos ya estén envenenados, y liberen un gas aturdidor.
+^4DD4DB^Mutación debilitante: ^oldclr^ gana un 40% de probabilidad de que los zombis convertidos en Zombiditos ya estén envenenados, y liberen un gas aturdidor.
 
 [IMPPEAR_SKILL_LEVEL2]
 Nivel 3
 
 [IMPPEAR_SKILL_LEVEL2_DES]
-^912BAE Mutación mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Mutación mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [IMPPEAR_SKILL_LEVEL5]
 Nivel 5
@@ -21214,13 +21214,13 @@ Desprende tornados de fuego que dañan y empujan zombis
 Nivel 2
 
 [INFERNO_SKILL_LEVEL1_DES]
-^1D68C1^Golpe de calor: ^oldclr^ sus tornados empujan a los zombis 1 casilla más lejos.
+^4DD4DB^Golpe de calor: ^oldclr^ sus tornados empujan a los zombis 1 casilla más lejos.
 
 [INFERNO_SKILL_LEVEL2]
 Nivel 3
 
 [INFERNO_SKILL_LEVEL2_DES]
-^912BAE Fuego consumidor: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Fuego consumidor: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [INFERNO_SKILL_LEVEL5]
 Nivel 5
@@ -21313,13 +21313,13 @@ Devuelve a la vida a las plantas derrotadas
 Nivel 2
 
 [INTENSIVECARROT_SKILL_LEVEL1_DES]
-^1D68C1^Recuperación total: ^oldclr^ las plantas revividas recuperan toda su salud.
+^4DD4DB^Recuperación total: ^oldclr^ las plantas revividas recuperan toda su salud.
 
 [INTENSIVECARROT_SKILL_LEVEL2]
 Nivel 3
 
 [INTENSIVECARROT_SKILL_LEVEL2_DES]
-^912BAE Escudo natural: ^oldclr^ las plantas revividas se vuelven invencibles durante un tiempo.
+^A048CF^Escudo natural: ^oldclr^ las plantas revividas se vuelven invencibles durante un tiempo.
 
 [INTENSIVECARROT_TOOLTIP]
 Devuelve a la vida a las plantas derrotadas
@@ -21389,13 +21389,13 @@ Ataca a una fila entera de zombis y bloquea pasadizos secretos
 Nivel 2
 
 [JACKFRUIT_SKILL_LEVEL1_DES]
-^1D68C1^Defensa impenetrable: ^oldclr^ su salud aumentará en un 25% cada vez que bloquee pasadizos secretos.
+^4DD4DB^Defensa impenetrable: ^oldclr^ su salud aumentará en un 25% cada vez que bloquee pasadizos secretos.
 
 [JACKFRUIT_SKILL_LEVEL2]
 Nivel 3
 
 [JACKFRUIT_SKILL_LEVEL2_DES]
-^912BAE Dureza extrema: ^oldclr^ aumenta la salud de las semillas de Jaca.
+^A048CF^Dureza extrema: ^oldclr^ aumenta la salud de las semillas de Jaca.
 
 [JACKFRUIT_TOOLTIP]
 Ataca a una fila entera de zombis y bloquea pasadizos secretos
@@ -21437,13 +21437,13 @@ Acaba con los zombis de una línea entera
 Nivel 2
 
 [JALAPENO_SKILL1_LEVEL1_DES]
-^1D68C1^Cruz de fuego: ^oldclr^ gana la habilidad de arrasar zombis en patrón de cruz.
+^4DD4DB^Cruz de fuego: ^oldclr^ gana la habilidad de arrasar zombis en patrón de cruz.
 
 [JALAPENO_SKILL1_LEVEL2]
 Nivel 3
 
 [JALAPENO_SKILL1_LEVEL2_DES]
-^912BAE Pequeño descuento: ^oldclr^ su coste en soles se reduce en 25.
+^A048CF^Pequeño descuento: ^oldclr^ su coste en soles se reduce en 25.
 
 [JALAPENO_TOOLTIP]
 Acaba con los zombis de una línea entera
@@ -21897,13 +21897,13 @@ Arroja maíz y mantequilla a los zombis
 Nivel 2
 
 [KERNELPULT_SKILL1_LEVEL1_DES]
-^1D68C1^Misil de maíz: ^oldclr^ lanzará un misil de maíz por cada 4 proyectiles catapultados.
+^4DD4DB^Misil de maíz: ^oldclr^ lanzará un misil de maíz por cada 4 proyectiles catapultados.
 
 [KERNELPULT_SKILL1_LEVEL2]
 Nivel 3
 
 [KERNELPULT_SKILL1_LEVEL2_DES]
-^912BAE Misiles rápidos: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Misiles rápidos: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [KERNELPULT_TOOLTIP]
 Arroja mantequilla y maíz a los zombis
@@ -21948,13 +21948,13 @@ Kiwibestia da golpetazos dañinos, y se vuelve más grande y poderosa cuanto má
 Nivel 2
 
 [KIWIBEAST_SKILL_LEVEL1_DES]
-^1D68C1^Crecimiento bestial: ^oldclr^ el coste en soles de Kiwibestia decrecerá en 10 por cada Kiwibestia plantada (el coste mínimo es 170).
+^4DD4DB^Crecimiento bestial: ^oldclr^ el coste en soles de Kiwibestia decrecerá en 10 por cada Kiwibestia plantada (el coste mínimo es 170).
 
 [KIWIBEAST_SKILL_LEVEL2]
 Nivel 3
 
 [KIWIBEAST_SKILL_LEVEL2_DES]
-^912BAE Supervivencia salvaje: ^oldclr^ el coste en soles de Kiwibestia decrecerá en 20 por cada Kiwibestias plantada (el coste mínimo es 160).
+^A048CF^Supervivencia salvaje: ^oldclr^ el coste en soles de Kiwibestia decrecerá en 20 por cada Kiwibestias plantada (el coste mínimo es 160).
 
 [KIWIBEAST_SKILL_LEVEL5]
 Nivel 5
@@ -21986,13 +21986,13 @@ Lanza bastones para hacer daño continuo en un área
 Nivel 2
 
 [KIWIFRUIT_SKILL_LEVEL1_DES]
-^1D68C1^Váculo sagrado: ^oldclr^ el ataque de los bastones se extiende al triple.
+^4DD4DB^Váculo sagrado: ^oldclr^ el ataque de los bastones se extiende al triple.
 
 [KIWIFRUIT_SKILL_LEVEL2]
 Nivel 3
 
 [KIWIFRUIT_SKILL_LEVEL2_DES]
-^912BAE Giros rápidos: ^oldclr^ gana la habilidad de frenar zombis con sus bastones.
+^A048CF^Giros rápidos: ^oldclr^ gana la habilidad de frenar zombis con sus bastones.
 
 [KIWIFRUIT_SUPERSKILL_DES]
 ^DB8117^Doppelgänger: ^oldclr^ gana la probabilidad de convocar pequeños clones que golpean zombis durante un tiempo.
@@ -22751,13 +22751,13 @@ Has repondido las preguntas del acertijo {DAY_GUESS} día (s), con una tasa de {
 Nivel 2
 
 [LASERBEAN_SKILL1_LEVEL1_DES]
-^1D68C1^Láser doble: ^oldclr^ gana la probabilidad de disparar 2 láseres a la vez.
+^4DD4DB^Láser doble: ^oldclr^ gana la probabilidad de disparar 2 láseres a la vez.
 
 [LASERBEAN_SKILL1_LEVEL2]
 Nivel 3
 
 [LASERBEAN_SKILL1_LEVEL2_DES]
-^912BAE Láser múltiple: ^oldclr^ gana la probabilidad de disparar varios láseres a la vez, pero el daño que inflige se reduce.
+^A048CF^Láser múltiple: ^oldclr^ gana la probabilidad de disparar varios láseres a la vez, pero el daño que inflige se reduce.
 
 [LASERBEAN_SKILL1_LEVEL5]
 Nivel 5
@@ -22813,13 +22813,13 @@ Entra en erupción y deja un charco de lava ardiente
 Nivel 2
 
 [LAVAGUAVA_SKILL_LEVEL1_DES]
-^1D68C1^Lava duradera: ^oldclr^ sus charcos de lava duran 2 segundos más.
+^4DD4DB^Lava duradera: ^oldclr^ sus charcos de lava duran 2 segundos más.
 
 [LAVAGUAVA_SKILL_LEVEL2]
 Nivel 3
 
 [LAVAGUAVA_SKILL_LEVEL2_DES]
-^912BAE Lava reprimida: ^oldclr^ deja pequeños charcos de lava en las casillas adyacentes donde esté plantada.
+^A048CF^Lava reprimida: ^oldclr^ deja pequeños charcos de lava en las casillas adyacentes donde esté plantada.
 
 [LAVAGUAVA_SUPERSKILL_DES]
 ^DB8117^Erupción volcánica: ^oldclr^ erupta rocas ardientes aque crean charcos de magma en casillas aleatorias del patio.
@@ -22906,13 +22906,13 @@ Dispara gotas de limonada que corroen el metal
 Nivel 2
 
 [LEMON_SKILL_LEVEL1_DES]
-^1D68C1^Jugo superácido: ^oldclr^ dispara 2 gotas que pueden corroer los conos aparte del metal.
+^4DD4DB^Jugo superácido: ^oldclr^ dispara 2 gotas que pueden corroer los conos aparte del metal.
 
 [LEMON_SKILL_LEVEL2]
 Nivel 3
 
 [LEMON_SKILL_LEVEL2_DES]
-^912BAE Limonada corrosiva: ^oldclr^ dispara 3 gotas que corroen zombis, infligiéndoles daño adicional.
+^A048CF^Limonada corrosiva: ^oldclr^ dispara 3 gotas que corroen zombis, infligiéndoles daño adicional.
 
 [LEMON_SKILL_LEVEL5]
 Nivel 5
@@ -23292,13 +23292,13 @@ Electrocuta a varias gallinas o zombis por golpe
 Nivel 2
 
 [LIGHTNINGREED_SKILL1_LEVEL1_DES]
-^1D68C1^Relámpago rojo: ^oldclr^ gana un 7,5% de probabilidad de liberar un relámpago rojo que aturde zombis.
+^4DD4DB^Relámpago rojo: ^oldclr^ gana un 7,5% de probabilidad de liberar un relámpago rojo que aturde zombis.
 
 [LIGHTNINGREED_SKILL1_LEVEL2]
 Nivel 3
 
 [LIGHTNINGREED_SKILL1_LEVEL2_DES]
-^912BAE Rayo sobrecargado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Rayo sobrecargado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [LIGHTNINGREED_TOOLTIP]
 Electrocuta a varias gallinas o zombis por golpe
@@ -24131,13 +24131,13 @@ Raíz de loto dispara gotas de agua a los zombis y absorbe el vapor que tiene a 
 Nivel 2
 
 [LOTUSSHOOTER_SKILL_LEVEL1_DES]
-^1D68C1^Gotas múltiples: ^oldclr^ gana un 10% de probabilidad disparar múltiples gotas de agua a la vez.
+^4DD4DB^Gotas múltiples: ^oldclr^ gana un 10% de probabilidad disparar múltiples gotas de agua a la vez.
 
 [LOTUSSHOOTER_SKILL_LEVEL2]
 Nivel 3
 
 [LOTUSSHOOTER_SKILL_LEVEL2_DES]
-^912BAE Maestro del agua: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Maestro del agua: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [LOTUSSHOOTER_SKILL_LEVEL5]
 Nivel 5
@@ -24171,13 +24171,13 @@ Dispara semillas explosivas en la tierra y torpedos bajo el agua
 Nivel 2
 
 [LOTUSSHOWER_SKILL_LEVEL1_DES]
-^1D68C1^Explosión aturdidora: ^oldclr^ gana un 15% de probabilidad de aturdir zombis con sus diferentes ataques.
+^4DD4DB^Explosión aturdidora: ^oldclr^ gana un 15% de probabilidad de aturdir zombis con sus diferentes ataques.
 
 [LOTUSSHOWER_SKILL_LEVEL2]
 Nivel 3
 
 [LOTUSSHOWER_SKILL_LEVEL2_DES]
-^1D68C1^Superbombas: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^4DD4DB^Superbombas: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [LOTUSSHOWER_TOOLTIP]
 Dispara semillas explosivas en la tierra y torpedos bajo el agua
@@ -25110,13 +25110,13 @@ Lanza naipes mágicos hacia adelante y hacia atrás
 Nivel 2
 
 [MAGICSHROOM_SKILL_LEVEL1_DES]
-^1D68C1^Naipes dobles: ^oldclr^ gana la probabilidad de lanzar dos naipes a la vez.
+^4DD4DB^Naipes dobles: ^oldclr^ gana la probabilidad de lanzar dos naipes a la vez.
 
 [MAGICSHROOM_SKILL_LEVEL2]
 Nivel 3
 
 [MAGICSHROOM_SKILL_LEVEL2_DES]
-^912BAE Naipes triples: ^oldclr^ gana la probabilidad de lanzar tres naipes a la vez.
+^A048CF^Naipes triples: ^oldclr^ gana la probabilidad de lanzar tres naipes a la vez.
 
 [MAGICSHROOM_SKILL_LEVEL5]
 Nivel 5
@@ -25209,13 +25209,13 @@ Desarma de cascos y objetos metálicos a los zombis
 Nivel 2
 
 [MAGNETSHROOM_SKILL1_LEVEL1_DES]
-^1D68C1^Campo magnético: ^oldclr^ puede atraer los objetos metálicos de zombis de Nvl. 2; destruye los objetos un 15% más rápido.
+^4DD4DB^Campo magnético: ^oldclr^ puede atraer los objetos metálicos de zombis de Nvl. 2; destruye los objetos un 15% más rápido.
 
 [MAGNETSHROOM_SKILL1_LEVEL2]
 Nivel 3
 
 [MAGNETSHROOM_SKILL1_LEVEL2_DES]
-^912BAE Magnetismo superpotente: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Magnetismo superpotente: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [MAGNETSHROOM_TOOLTIP]
 Desarma de cascos y objetos metálicos a los zombis
@@ -25239,13 +25239,13 @@ Toca para gastar soles y realizar un ataque poderoso
 Nivel 2
 
 [MAGNIFYINGGRASS_SKILL1_LEVEL1_DES]
-^1D68C1^Ataque potenciado: ^oldclr^ mantén pulsado en Hierpa lupa para disparar un ataque 3 veces más potente (el ataque cuesta 100 soles).
+^4DD4DB^Ataque potenciado: ^oldclr^ mantén pulsado en Hierpa lupa para disparar un ataque 3 veces más potente (el ataque cuesta 100 soles).
 
 [MAGNIFYINGGRASS_SKILL1_LEVEL2]
 Nivel 3
 
 [MAGNIFYINGGRASS_SKILL1_LEVEL2_DES]
-^912BAE Energía amplificada: ^oldclr^ el ataque inflige el cuádruple de daño.
+^A048CF^Energía amplificada: ^oldclr^ el ataque inflige el cuádruple de daño.
 
 [MAGNIFYINGGRASS_TOOLTIP]
 Toca para gastar soles y realizar un ataque poderoso
@@ -25340,13 +25340,13 @@ Reune energía para liberar campos eléctricos; crece y libera más con el tiemp
 Nivel 2
 
 [MANGOSTEEN_SKILL_LEVEL1_DES]
-^1D68C1^Ampliación de potencia: ^oldclr^ el número de ataques aumenta en 1; se reduce el tiempo de sobrecarga en 5 segundos.
+^4DD4DB^Ampliación de potencia: ^oldclr^ el número de ataques aumenta en 1; se reduce el tiempo de sobrecarga en 5 segundos.
 
 [MANGOSTEEN_SKILL_LEVEL2]
 Nivel 3
 
 [MANGOSTEEN_SKILL_LEVEL2_DES]
-^912BAE Capacidad aumentada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Capacidad aumentada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [MANGOSTEEN_SKILL_LEVEL5]
 Nivel 5
@@ -25394,13 +25394,13 @@ Golpea a los enemigos que tiene en frente; cuanto más ataca, más potente se vu
 Nivel 2
 
 [MATCHFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Experto en boxeo: ^oldclr^ la cantidad de golpes necesarios para que entre en llamas se reduce en 2.
+^4DD4DB^Experto en boxeo: ^oldclr^ la cantidad de golpes necesarios para que entre en llamas se reduce en 2.
 
 [MATCHFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [MATCHFLOWER_SKILL_LEVEL2_DES]
-^912BAE Furia azul: ^oldclr^ gana la habilidad de atacar con fuego azul, infligiendo mayor daño a los enemigos.
+^A048CF^Furia azul: ^oldclr^ gana la habilidad de atacar con fuego azul, infligiendo mayor daño a los enemigos.
 
 [MATCHFLOWER_SKILL_LEVEL5]
 Nivel 5
@@ -25843,13 +25843,13 @@ Inflige grandes daños a grupos de zombis
 Nivel 2
 
 [MELONPULT_SKILL1_LEVEL1_DES]
-^1D68C1^Melón doble: ^oldclr^ gana un 25% de probabilidad de que lance 2 sandías a dos zombis.
+^4DD4DB^Melón doble: ^oldclr^ gana un 25% de probabilidad de que lance 2 sandías a dos zombis.
 
 [MELONPULT_SKILL1_LEVEL2]
 Nivel 3
 
 [MELONPULT_SKILL1_LEVEL2_DES]
-^912BAE Lanzamiento preciso: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Lanzamiento preciso: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [MELONPULT_SKILL_LEVEL5]
 Nivel 5
@@ -26219,13 +26219,13 @@ Muérdago misil lanza ráfagas heladas que infligen daño, congelan y ralentizan
 Nivel 2
 
 [MISSILETOE_SKILL_LEVEL1_DES]
-^1D68C1^Ráfagas veloces: ^oldclr^ su tiempo de recuperación se reduce en un 15%.
+^4DD4DB^Ráfagas veloces: ^oldclr^ su tiempo de recuperación se reduce en un 15%.
 
 [MISSILETOE_SKILL_LEVEL2]
 Nivel 3
 
 [MISSILETOE_SKILL_LEVEL2_DES]
-^912BAE Recarga impetuosa: ^oldclr^ su tiempo de recuperación se reduce en otro 15%.
+^A048CF^Recarga impetuosa: ^oldclr^ su tiempo de recuperación se reduce en otro 15%.
 
 [MISSILETOE_SKILL_LEVEL5]
 Nivel 5
@@ -26303,13 +26303,13 @@ Convierte zombis en muñecos de nieve y los hace vulnerables al fuego
 Nivel 2
 
 [MONOTROPA_SKILL_LEVEL1_DES]
-^1D68C1^Gran ventisca: ^oldclr^ la distancia de su ataque aumenta en 2 casillas.
+^4DD4DB^Gran ventisca: ^oldclr^ la distancia de su ataque aumenta en 2 casillas.
 
 [MONOTROPA_SKILL_LEVEL2]
 Nivel 3
 
 [MONOTROPA_SKILL_LEVEL2_DES]
-^912BAE Nieve resistente: ^oldclr^ aumenta la duración de los muñecos de nieve en un 50%
+^A048CF^Nieve resistente: ^oldclr^ aumenta la duración de los muñecos de nieve en un 50%
 
 [MONOTROPA_SKILL_LEVEL5]
 Nivel 5
@@ -26407,13 +26407,13 @@ Flor lunar radia un brillo que potencia a las plantas sombrías adyacentes.
 Nivel 2
 
 [MOONFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Regalito: ^oldclr^ gana un 10% de probabilidad de producir 25 soles al plantarse.
+^4DD4DB^Regalito: ^oldclr^ gana un 10% de probabilidad de producir 25 soles al plantarse.
 
 [MOONFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [MOONFLOWER_SKILL_LEVEL2_DES]
-^912BAE Poder lunar: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Poder lunar: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [MOONFLOWER_TOOLTIP]
 Da soles y potencia a las plantas sombrías adyacentes
@@ -26444,13 +26444,13 @@ Ataca a los zombis con ondas sónicas, refleja ondas enemigas
 Nivel 2
 
 [MORNINGGLORY_SKILL_LEVEL1_DES]
-^1D68C1^Ritmo en conjunto: ^oldclr^ su poder de ataque aumentará por cada DJ Gloria Matutina plantada cerca (máx. 2)
+^4DD4DB^Ritmo en conjunto: ^oldclr^ su poder de ataque aumentará por cada DJ Gloria Matutina plantada cerca (máx. 2)
 
 [MORNINGGLORY_SKILL_LEVEL2]
 Nivel 3
 
 [MORNINGGLORY_SKILL_LEVEL2_DES]
-^912BAE Banda musical: ^oldclr^ se puede plantar una DJ Gloria Matutina adicional para aumentar el daño aún más.
+^A048CF^Banda musical: ^oldclr^ se puede plantar una DJ Gloria Matutina adicional para aumentar el daño aún más.
 
 [MORNINGGLORY_SKILL_LEVEL5]
 Nivel 5
@@ -26786,13 +26786,13 @@ Baya artillera lanza bayas que giran por la línea hasta golpear a un zombi, da�
 Nivel 2
 
 [MULBERRY_SKILL_LEVEL1_DES]
-^1D68C1^Baya explosiva: ^oldclr^ gana la probabilidad de lanzar bayas explosiva que dañan zombis en un área más grandes.
+^4DD4DB^Baya explosiva: ^oldclr^ gana la probabilidad de lanzar bayas explosiva que dañan zombis en un área más grandes.
 
 [MULBERRY_SKILL_LEVEL2]
 Nivel 3
 
 [MULBERRY_SKILL_LEVEL2_DES]
-^912BAE Maestro artillero: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Maestro artillero: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [MULBERRY_SKILL_LEVEL5]
 Nivel 5
@@ -27846,13 +27846,13 @@ Narciso es una planta anfibia que sopla burbujas para dañar los zombi cercanos.
 Nivel 2
 
 [NARCISSUSSHOOTER_SKILL_LEVEL1_DES]
-^1D68C1^Combo de burbujas: ^oldclr^ gana un 10% de probabilidad de soplar 2 burbujas grandes a la vez.
+^4DD4DB^Combo de burbujas: ^oldclr^ gana un 10% de probabilidad de soplar 2 burbujas grandes a la vez.
 
 [NARCISSUSSHOOTER_SKILL_LEVEL2]
 Nivel 3
 
 [NARCISSUSSHOOTER_SKILL_LEVEL2_DES]
-^912BAE Bombardeo de burbujas: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Bombardeo de burbujas: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [NARCISSUSSHOOTER_SKILL_LEVEL5]
 Nivel 5
@@ -36107,13 +36107,13 @@ Dispara púas teledirigidas que pueden aturdir zombis
 Nivel 2
 
 [NEKOTAIL_SKILL_LEVEL1_DES]
-^1D68C1^Púas eléctricas: ^oldclr^ gana la probabilidad de lanzar una púa eléctrica que inflige más daño.
+^4DD4DB^Púas eléctricas: ^oldclr^ gana la probabilidad de lanzar una púa eléctrica que inflige más daño.
 
 [NEKOTAIL_SKILL_LEVEL2]
 Nivel 3
 
 [NEKOTAIL_SKILL_LEVEL2_DES]
-^912BAE Mejora eléctrica: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Mejora eléctrica: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [NEKOTAIL_SKILL_LEVEL5]
 Nivel 5
@@ -37094,13 +37094,13 @@ Solanácea es una planta sombría que abofetea zombis con la hoja abierta.
 Nivel 2
 
 [NIGHTSHADE_SKILL_LEVEL1_DES]
-^1D68C1^Recrecimiento: ^oldclr^ el tiempo para regenerar sus hojas se reduce.
+^4DD4DB^Recrecimiento: ^oldclr^ el tiempo para regenerar sus hojas se reduce.
 
 [NIGHTSHADE_SKILL_LEVEL2]
 Nivel 3
 
 [NIGHTSHADE_SKILL_LEVEL2_DES]
-^912BAE Crecimiento acelerado: ^oldclr^ el tiempo para regenerar sus hojas se reduce aún más.
+^A048CF^Crecimiento acelerado: ^oldclr^ el tiempo para regenerar sus hojas se reduce aún más.
 
 [NIGHTSHADE_TOOLTIP]
 Abofetea a los zombis con sus hojas
@@ -37608,13 +37608,13 @@ Lanza misiles nucleares que dañan y mutan zombis
 Nivel 2
 
 [NUKELAUNCHER_SKILL_LEVEL1_DES]
-^1D68C1^Mejora radioactiva: ^oldclr^ reduce el tiempo de recuperación en 3 segundos.
+^4DD4DB^Mejora radioactiva: ^oldclr^ reduce el tiempo de recuperación en 3 segundos.
 
 [NUKELAUNCHER_SKILL_LEVEL2]
 Nivel 3
 
 [NUKELAUNCHER_SKILL_LEVEL2_DES]
-^912BAE Umbral de radiación: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Umbral de radiación: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [NUKELAUNCHER_SKILL_LEVEL5]
 Nivel 5
@@ -40400,13 +40400,13 @@ Dispara poderosas flechas a los zombis
 Nivel 2
 
 [OAKSHOOTER_SKILL1_LEVEL1_DES]
-^1D68C1^Flechas múltiples: dispara 3 flechas a la vez, atacando zombis de otras líneas.
+^4DD4DB^Flechas múltiples: dispara 3 flechas a la vez, atacando zombis de otras líneas.
 
 [OAKSHOOTER_SKILL1_LEVEL2]
 Nivel 3
 
 [OAKSHOOTER_SKILL1_LEVEL2_DES]
-^912BAE Impacto perforante: las flechas obtienen un efecto perforante al impactar en un objetivo.
+^A048CF^Impacto perforante: las flechas obtienen un efecto perforante al impactar en un objetivo.
 
 [OAKSHOOTER_SKILL1_LEVEL5]
 Nivel 5
@@ -40491,13 +40491,13 @@ Engulle múltiples zombis; escupe aceite que ralentiza
 Nivel 2
 
 [OLIVEPIT_SKILL_LEVEL1_DES]
-^1D68C1^Digestión sana: ^oldclr^ el número de zombis digeridos aumenta en 1; reduce el tiempo de digestión en 10 segundos.
+^4DD4DB^Digestión sana: ^oldclr^ el número de zombis digeridos aumenta en 1; reduce el tiempo de digestión en 10 segundos.
 
 [OLIVEPIT_SKILL_LEVEL2]
 Nivel 3
 
 [OLIVEPIT_SKILL_LEVEL2_DES]
-^912BAE Pozo sin fondo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Pozo sin fondo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [OLIVEPIT_SKILL_LEVEL5]
 Nivel 5
@@ -40763,13 +40763,13 @@ Escupe semillas a los zombis que tiene al frente
 Nivel 2
 
 [PAMEGRANATE_SKILL1_LEVEL1_DES]
-^1D68C1^Semillas dispersas: ^oldclr^ ahora atacará en un área de 3x3 y escupirá más semillas.
+^4DD4DB^Semillas dispersas: ^oldclr^ ahora atacará en un área de 3x3 y escupirá más semillas.
 
 [PAMEGRANATE_SKILL1_LEVEL2]
 Nivel 3
 
 [PAMEGRANATE_SKILL1_LEVEL2_DES]
-^912BAE Ametralladora de semillas: ^oldclr^ ahora atacará en un área de 3x4 y escupirá muchas más semillas.
+^A048CF^Ametralladora de semillas: ^oldclr^ ahora atacará en un área de 3x4 y escupirá muchas más semillas.
 
 [PAMEGRANATE_TOOLTIP]
 Escupe semillas a los zombis que tiene al frente
@@ -40789,13 +40789,13 @@ Podarrábano poda zombis y después carga en la línea en el último momento.
 Nivel 2
 
 [PARSNIP_SKILL_LEVEL1_DES]
-^1D68C1^Pinzas rojas: ^oldclr^ gana un 10% de probabilidad de causar el doble de daño al objetivo con sus pinzas.
+^4DD4DB^Pinzas rojas: ^oldclr^ gana un 10% de probabilidad de causar el doble de daño al objetivo con sus pinzas.
 
 [PARSNIP_SKILL_LEVEL2]
 Nivel 3
 
 [PARSNIP_SKILL_LEVEL2_DES]
-^912BAE Pinzas gigantes: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Pinzas gigantes: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [PARSNIP_SKILL_LEVEL5]
 Nivel 5
@@ -40825,13 +40825,13 @@ Pasionaria dispara engranajes al zombi más cercano, ya sea, en su línea o en l
 Nivel 2
 
 [PASSIONFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Engranajes rápidos: ^oldclr^ gana la probabilidad de que lance un engranaje rápido que inflige más daño y aturde zombis.
+^4DD4DB^Engranajes rápidos: ^oldclr^ gana la probabilidad de que lance un engranaje rápido que inflige más daño y aturde zombis.
 
 [PASSIONFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [PASSIONFLOWER_SKILL_LEVEL2_DES]
-^912BAE Experto en engranajes: ^oldclr^ frenar zombis con sus engranajes; la probabilidad de disparar engranajes rápidos se duplica.
+^A048CF^Experto en engranajes: ^oldclr^ frenar zombis con sus engranajes; la probabilidad de disparar engranajes rápidos se duplica.
 
 [PASSIONFLOWER_SKILL_LEVEL5]
 Nivel 5
@@ -40903,13 +40903,13 @@ Cura a las plantas de sus alrededores cada poco segundos
 Nivel 2
 
 [PEACH_SKILL1_LEVEL1_DES]
-^1D68C1^Reanimación: ^oldclr^ aumenta el poder de ataque a las plantas curadas en un 10% durante 3 segundos
+^4DD4DB^Reanimación: ^oldclr^ aumenta el poder de ataque a las plantas curadas en un 10% durante 3 segundos
 
 [PEACH_SKILL1_LEVEL2]
 Nivel 3
 
 [PEACH_SKILL1_LEVEL2_DES]
-^912BAE Cura celestial: ^oldclr^ la duración de mejora se extiende por 2 segundos
+^A048CF^Cura celestial: ^oldclr^ la duración de mejora se extiende por 2 segundos
 
 [PEACH_TOOLTIP]
 Cura a las plantas de sus alrededores cada poco segundos
@@ -40935,13 +40935,13 @@ Dispara cacahuates y bloquea zombis
 Nivel 2
 
 [PEANUT_SKILL1_LEVEL1_DES]
-^1D68C1^Salva de cacahuates: ^oldclr^ gana un 25% de probabilidad de disparar 2 cacahuates a la vez
+^4DD4DB^Salva de cacahuates: ^oldclr^ gana un 25% de probabilidad de disparar 2 cacahuates a la vez
 
 [PEANUT_SKILL1_LEVEL2]
 Nivel 3
 
 [PEANUT_SKILL1_LEVEL2_DES]
-^912BAE Cáscara doble: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Cáscara doble: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [PEANUT_TOOLTIP]
 Dispara cacahuates y bloquea zombis
@@ -40969,7 +40969,7 @@ Planta varias veces en el mismo espacio para multiplicar el daño
 Nivel 2
 
 [PEAPOD_SKILL1_LEVEL1_DES]
-^1D68C1^Autocrecimiento: ^oldclr^ le crecera una vaina al cabo de un minuto si le faltan cabezas
+^4DD4DB^Autocrecimiento: ^oldclr^ le crecera una vaina al cabo de un minuto si le faltan cabezas
 
 [PEAPOD_SKILL1_LEVEL2]
 Nivel 3
@@ -41001,13 +41001,13 @@ Lanza guisantes al enemigo
 Nivel 2
 
 [PEASHOOTER_SKILL1_LEVEL1_DES]
-^1D68C1^Combo de guisantes: ^oldclr^ gana un 35% de probabilidad de disparar 5 guisantes a la vez.
+^4DD4DB^Combo de guisantes: ^oldclr^ gana un 35% de probabilidad de disparar 5 guisantes a la vez.
 
 [PEASHOOTER_SKILL1_LEVEL2]
 Nivel 3
 
 [PEASHOOTER_SKILL1_LEVEL2_DES]
-^912BAE Combo mejorado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Combo mejorado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [PEASHOOTER_SUPERSKILL_DES]
 ^DB8117^Guisantes de plasma: ^oldclr^ gana la habilidad de atacar con guisantes de plasma que infligen más daño.
@@ -42112,13 +42112,13 @@ Lanza chiles en llamas y calienta a las plantas cercanas
 Nivel 2
 
 [PEPPERPULT_SKILL_LEVEL1_DES]
-^1D68C1^Chile ardiente: ^oldclr^ sus chiles pueden incendiar zombis, infligiéndoles daño consecutivamente.
+^4DD4DB^Chile ardiente: ^oldclr^ sus chiles pueden incendiar zombis, infligiéndoles daño consecutivamente.
 
 [PEPPERPULT_SKILL_LEVEL2]
 Nivel 3
 
 [PEPPERPULT_SKILL_LEVEL2_DES]
-^912BAE Chile azul: ^oldclr^ ataca con fuego azul, el cual, inflige más daño al incendiar zombis.
+^A048CF^Chile azul: ^oldclr^ ataca con fuego azul, el cual, inflige más daño al incendiar zombis.
 
 [PEPPERPULT_TOOLTIP]
 Lanza chiles en llamas y calienta a las plantas cercanas
@@ -42145,13 +42145,13 @@ Encanta a los dinosaurios para que se vuelvan en contra de los zombis
 Nivel 2
 
 [PERFUMESHROOM_SKILL_LEVEL1_DES]
-^1D68C1^Encanto extendido: ^oldclr^ su efecto encantador dura 1 segundo más.
+^4DD4DB^Encanto extendido: ^oldclr^ su efecto encantador dura 1 segundo más.
 
 [PERFUMESHROOM_SKILL_LEVEL2]
 Nivel 3
 
 [PERFUMESHROOM_SKILL_LEVEL2_DES]
-^912BAE Encanto duradero: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Encanto duradero: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [PERFUMESHROOM_TOOLTIP]
 Pone a los dinosaurios en contra de los zombis
@@ -42360,13 +42360,13 @@ Inflige daño cada pocos segundos
 Nivel 2
 
 [PHATBEET_SKILL_LEVEL1_DES]
-^1D68C1^Ondas críticas: ^oldclr^ las ondas poderosas infligen más daño y se liberan más a menudo
+^4DD4DB^Ondas críticas: ^oldclr^ las ondas poderosas infligen más daño y se liberan más a menudo
 
 [PHATBEET_SKILL_LEVEL2]
 Nivel 3
 
 [PHATBEET_SKILL_LEVEL2_DES]
-^912BAE Frecuencia alta: ^oldclr^ la probabilidad y el daño de las ondas poderosas aumenta aún más
+^A048CF^Frecuencia alta: ^oldclr^ la probabilidad y el daño de las ondas poderosas aumenta aún más
 
 [PHATBEET_SKILL_LEVEL5]
 Nivel 5
@@ -42588,13 +42588,13 @@ Bloquea zombis y refleja proyectiles rectos
 Nivel 2
 
 [PINEAPPLE_SKILL_LEVEL1_DES]
-^1D68C1^Giros rápidos: ^oldclr^ el tiempo de recuperación entre rotaciones se reduce en un 25%
+^4DD4DB^Giros rápidos: ^oldclr^ el tiempo de recuperación entre rotaciones se reduce en un 25%
 
 [PINEAPPLE_SKILL_LEVEL2]
 Nivel 3
 
 [PINEAPPLE_SKILL_LEVEL2_DES]
-^912BAE Rotación intensa: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Rotación intensa: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [PINEAPPLE_TOOLTIP]
 Bloquea zombis y refleja proyectiles rectos
@@ -42618,13 +42618,13 @@ Piñón pistolero dispara semillas de piñón a los zombis para infligirles dañ
 Nivel 2
 
 [PINECONE_SKILL_LEVEL1_DES]
-^1D68C1^Arma doble: ^oldclr^ gana un 10% de probabilidad de disparar con ambas armas a la vez.
+^4DD4DB^Arma doble: ^oldclr^ gana un 10% de probabilidad de disparar con ambas armas a la vez.
 
 [PINECONE_SKILL_LEVEL2]
 Nivel 3
 
 [PINECONE_SKILL_LEVEL2_DES]
-^912BAE Francotirador experto: ^oldclr^ se duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Francotirador experto: ^oldclr^ se duplica la probabilidad de los Efectos del Nvl. 2
 
 [PINECONE_SKILL_LEVEL5]
 Nivel 5
@@ -42656,13 +42656,13 @@ Dispara estrellas en 10 direcciones
 Nivel 2
 
 [PINKSTARFRUIT_SKILL_LEVEL1_DES]
-^1D68C1^Estrellas rojas: ^oldclr^ gana la probabilidad de disparar estrellas rojas que infligen más daño
+^4DD4DB^Estrellas rojas: ^oldclr^ gana la probabilidad de disparar estrellas rojas que infligen más daño
 
 [PINKSTARFRUIT_SKILL_LEVEL2]
 Nivel 3
 
 [PINKSTARFRUIT_SKILL_LEVEL2_DES]
-^912BAE Estrellas azules: ^oldclr^ gana la probabilidad de disparar estrellas azules que ralentizan zombis y extinguen llamas.
+^A048CF^Estrellas azules: ^oldclr^ gana la probabilidad de disparar estrellas azules que ralentizan zombis y extinguen llamas.
 
 [PINKSTARFRUIT_SKILL_LEVEL5]
 Nivel 5
@@ -42720,13 +42720,13 @@ Banana danzante dispara tornados que causan daño a los zombis o los empujan hac
 Nivel 2
 
 [PLANTAIN_SKILL_LEVEL1_DES]
-^1D68C1^Danza rápida: ^oldclr^ el tiempo de recuperación se reduce en un segundo.
+^4DD4DB^Danza rápida: ^oldclr^ el tiempo de recuperación se reduce en un segundo.
 
 [PLANTAIN_SKILL_LEVEL2]
 Nivel 3
 
 [PLANTAIN_SKILL_LEVEL2_DES]
-^912BAE Ritmo fluido: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Ritmo fluido: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [PLANTAIN_SKILL_LEVEL5]
 Nivel 5
@@ -43643,13 +43643,13 @@ Nivel 2
 Nivel 3
 
 [PLANT_PROPERTYUP_LEVEL2_DES]
-^1D68C1^Activación celular: ^oldclr^ gana otro 50% más de poder de ataque y salud. (200% en total)
+^4DD4DB^Activación celular: ^oldclr^ gana otro 50% más de poder de ataque y salud. (200% en total)
 
 [PLANT_PROPERTYUP_LEVEL3]
 Nivel 4
 
 [PLANT_PROPERTYUP_LEVEL3_DES]
-^912BAE Poder de combate: ^oldclr^ gana otro 50% más de poder de ataque y salud. (250% en total)
+^A048CF^Poder de combate: ^oldclr^ gana otro 50% más de poder de ataque y salud. (250% en total)
 
 [PLANT_PROPERTYUP_LEVEL4]
 Nivel 5
@@ -44046,13 +44046,13 @@ Dispara guisantes envenenados
 Nivel 2
 
 [POISONPEASHOOTER_SKILL_LEVEL1_DES]
-^1D68C1^Veneno explosivo: ^oldclr^ sus guisantes venenosos explotan al golpear a un zombi 5 veces seguidas
+^4DD4DB^Veneno explosivo: ^oldclr^ sus guisantes venenosos explotan al golpear a un zombi 5 veces seguidas
 
 [POISONPEASHOOTER_SKILL_LEVEL2]
 Nivel 3
 
 [POISONPEASHOOTER_SKILL_LEVEL2_DES]
-^912BAE Veneno letal: ^oldclr^ el daño de la explosión aumenta gradualmente, requiere 3 impactos para activarse
+^A048CF^Veneno letal: ^oldclr^ el daño de la explosión aumenta gradualmente, requiere 3 impactos para activarse
 
 [POISONPEASHOOTER_SKILL_LEVEL5]
 Nivel 5
@@ -44084,13 +44084,13 @@ Da puñetazos perforantes que ralentizan zombis, acelera sus ataques con el tiem
 Nivel 2
 
 [POKRA_SKILL_LEVEL1_DES]
-^1D68C1^Puñetazo doble: ^oldclr^ gana un 20% de realizar un combo de dos puñetazos al acelerar sus ataques
+^4DD4DB^Puñetazo doble: ^oldclr^ gana un 20% de realizar un combo de dos puñetazos al acelerar sus ataques
 
 [POKRA_SKILL_LEVEL2]
 Nivel 3
 
 [POKRA_SKILL_LEVEL2_DES]
-^912BAE Golpe acertado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Golpe acertado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [POKRA_SKILL_LEVEL5]
 Nivel 5
@@ -44122,13 +44122,13 @@ Dispara rubíes que rebotan al azar tras golpear zombis
 Nivel 2
 
 [POMEGRANATEJEWELER_SKILL_LEVEL1_DES]
-^1D68C1^Par de rubíes: ^oldclr^ gana la probabilidad de disparar 2 rubíes que infligen más daño y rebotan en varias direcciones
+^4DD4DB^Par de rubíes: ^oldclr^ gana la probabilidad de disparar 2 rubíes que infligen más daño y rebotan en varias direcciones
 
 [POMEGRANATEJEWELER_SKILL_LEVEL2]
 Nivel 3
 
 [POMEGRANATEJEWELER_SKILL_LEVEL2_DES]
-^912BAE Trío de rubíes: ^oldclr^ gana la probabilidad de disparar 3 rubíes que infligen mucho más daño y rebotan en varias direcciones
+^A048CF^Trío de rubíes: ^oldclr^ gana la probabilidad de disparar 3 rubíes que infligen mucho más daño y rebotan en varias direcciones
 
 [POMEGRANATEJEWELER_SKILL_LEVEL5]
 Nivel 5
@@ -44186,13 +44186,13 @@ Explota al contacto, pero tarda en armarse
 Nivel 2
 
 [POTATOMINE_SKILL1_LEVEL1_DES]
-^1D68C1^Armado rápido: ^oldclr^ su tiempo de armado se reduce en un 50%
+^4DD4DB^Armado rápido: ^oldclr^ su tiempo de armado se reduce en un 50%
 
 [POTATOMINE_SKILL1_LEVEL2]
 Nivel 3
 
 [POTATOMINE_SKILL1_LEVEL2_DES]
-^912BAE Armado instantáneo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Armado instantáneo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [POTATOMINE_TOOLTIP]
 Explota al contacto, pero tarda en armarse
@@ -44489,13 +44489,13 @@ Lanzaguisantes primitivo dispara guisantes pesados que aturden brevemente a los 
 Nivel 2
 
 [PRIMALPEASHOOTER_SKILL_LEVEL1_DES]
-^1D68C1^Rocas pesadas: ^oldclr^ gana la probabilidad de disparar una roca que inflige más daño de salpicadura.
+^4DD4DB^Rocas pesadas: ^oldclr^ gana la probabilidad de disparar una roca que inflige más daño de salpicadura.
 
 [PRIMALPEASHOOTER_SKILL_LEVEL2]
 Nivel 3
 
 [PRIMALPEASHOOTER_SKILL_LEVEL2_DES]
-^912BAE Rocas reforzadas: ^oldclr^ aumenta la prboabilidad de los Efectos del Nvl. 2
+^A048CF^Rocas reforzadas: ^oldclr^ aumenta la prboabilidad de los Efectos del Nvl. 2
 
 [PRIMALPEASHOOTER_SUPERSKILL_DES]
 ^DB8117^Guisante magmático: ^oldclr^ ataca con rocas de magma que dejan charcos ardientes al dispersarse y al impactar con un objetivo.
@@ -44523,13 +44523,13 @@ Papapúm primitiva cuesta más que la Papapúm común, pero se arma más rápido
 Nivel 2
 
 [PRIMALPOTATOMINE_SKILL_LEVEL1_DES]
-^1D68C1^Activación acelerada: ^oldclr^ su tiempo de armado se reduce en un 40%
+^4DD4DB^Activación acelerada: ^oldclr^ su tiempo de armado se reduce en un 40%
 
 [PRIMALPOTATOMINE_SKILL_LEVEL2]
 Nivel 3
 
 [PRIMALPOTATOMINE_SKILL_LEVEL2_DES]
-^912BAE Activación veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Activación veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [PRIMALPOTATOMINE_TOOLTIP]
 Explota e inflige daño de área
@@ -44550,13 +44550,13 @@ Rafflesia primitiva escupe baba para atacar y ralentizar a los zombis.
 Nivel 2
 
 [PRIMALRAFFLESIA_SKILL_LEVEL1_DES]
-^1D68C1^Baba azul: ^oldclr^ sus proyectiles se vuelven azules y ganan la probabilidad de explotar por una segunda vez al derrotar zombis.
+^4DD4DB^Baba azul: ^oldclr^ sus proyectiles se vuelven azules y ganan la probabilidad de explotar por una segunda vez al derrotar zombis.
 
 [PRIMALRAFFLESIA_SKILL_LEVEL2]
 Nivel 3
 
 [PRIMALRAFFLESIA_SKILL_LEVEL2_DES]
-^912BAE Baba explosiva: ^oldclr^ la probabilidad de los Efectos del Nvl. 2 aumenta en un 40%
+^A048CF^Baba explosiva: ^oldclr^ la probabilidad de los Efectos del Nvl. 2 aumenta en un 40%
 
 [PRIMALRAFFLESIA_SUPERSKILL_DES]
 ^DB8117^Salpicadura pegajosa: ^oldclr^ sus proyectiles se dividen en 4 al impactar, dispersándose en las diagonales y causando más daño
@@ -44586,13 +44586,13 @@ Da soles grandes
 Nivel 2
 
 [PRIMALSUNFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Sol brutal: ^oldclr^ gana la probabilidad de producir soles adicionales.
+^4DD4DB^Sol brutal: ^oldclr^ gana la probabilidad de producir soles adicionales.
 
 [PRIMALSUNFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [PRIMALSUNFLOWER_SKILL_LEVEL2_DES]
-^912BAE Producción primordial: ^oldclr^ ahora siempre da soles adicionales con cada producción
+^A048CF^Producción primordial: ^oldclr^ ahora siempre da soles adicionales con cada producción
 
 [PRIMALSUNFLOWER_SUPERSKILL_DES]
 ^DB8117^Pétalos iluminados: ^oldclr^ ilumina uno de sus petalos al dar sol, produce 100 soles adicionales cuando todos sus pétalos están iluminados.
@@ -44618,13 +44618,13 @@ Nuez primitiva cuesta un poquito más que la Nuez común, pero se plantan mucho 
 Nivel 2
 
 [PRIMALWALLNUT_SKILL_LEVEL1_DES]
-^1D68C1^Nuez pequeña: ^oldclr^ al ser destruida, dejará una pequeña versión de si misma en la casilla donde estaba plantada.
+^4DD4DB^Nuez pequeña: ^oldclr^ al ser destruida, dejará una pequeña versión de si misma en la casilla donde estaba plantada.
 
 [PRIMALWALLNUT_SKILL_LEVEL2]
 Nivel 3
 
 [PRIMALWALLNUT_SKILL_LEVEL2_DES]
-^912BAE Nuez en crecimiento: ^oldclr^ salud de la Nuez pequeña aumenta al doble.
+^A048CF^Nuez en crecimiento: ^oldclr^ salud de la Nuez pequeña aumenta al doble.
 
 [PRIMALWALLNUT_SUPERSKILL_DES]
 ^DB8117^Fruto curativo: ^oldclr^ le crece un fruto que usa para recuperar salud y luego dañar zombis.
@@ -46569,13 +46569,13 @@ Dispara a corta distancia por tiempo limitado
 Nivel 2
 
 [PUFFSHROOM_SKILL1_LEVEL1_DES]
-^1D68C1^Esporas veloces: ^oldclr^ se recarga un 30% más rápido.
+^4DD4DB^Esporas veloces: ^oldclr^ se recarga un 30% más rápido.
 
 [PUFFSHROOM_SKILL1_LEVEL2]
 Nivel 3
 
 [PUFFSHROOM_SKILL1_LEVEL2_DES]
-^912BAE Esporas semi-instantáneas: ^oldclr^ se recarga un 66% más rápido.
+^A048CF^Esporas semi-instantáneas: ^oldclr^ se recarga un 66% más rápido.
 
 [PUFFSHROOM_TOOLTIP]
 Dispara a corta distancia por tiempo limitado
@@ -46604,13 +46604,13 @@ Lanza calabazas mágicas que controlan a un zombi para que luche por ti
 Nivel 2
 
 [PUMPKINWITCH_SKILL_LEVEL1_DES]
-^1D68C1^Calabazas reforzadas: ^oldclr^ la salud y el daño del zombi controlado aumenta en un 100%
+^4DD4DB^Calabazas reforzadas: ^oldclr^ la salud y el daño del zombi controlado aumenta en un 100%
 
 [PUMPKINWITCH_SKILL_LEVEL2]
 Nivel 3
 
 [PUMPKINWITCH_SKILL_LEVEL2_DES]
-^912BAE Brujería eficaz: ^oldclr^ mejora los Efectos del Nvl. 2 en un 50%
+^A048CF^Brujería eficaz: ^oldclr^ mejora los Efectos del Nvl. 2 en un 50%
 
 [PUMPKINWITCH_TOOLTIP]
 Lanza calabazas mágicas que controlan a un zombi para que luche por ti
@@ -74934,13 +74934,13 @@ Libera esporas explosivas a los zombis más lejanos a tu casa
 Nivel 2
 
 [RAFFLESIA_SKILL_LEVEL1_DES]
-^1D68C1^Esporulación acelerada: ^oldclr^ su velocidad de ataque aumenta en un 15%
+^4DD4DB^Esporulación acelerada: ^oldclr^ su velocidad de ataque aumenta en un 15%
 
 [RAFFLESIA_SKILL_LEVEL2]
 Nivel 3
 
 [RAFFLESIA_SKILL_LEVEL2_DES]
-^912BAE Esporulación veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Esporulación veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [RAFFLESIA_TOOLTIP]
 Libera esporas explosivas para dañar a los zombis más lejanos a tu casa
@@ -75503,13 +75503,13 @@ Dispara a toda potencia cuando está cerca de casa, es más defensivo cuanto má
 Nivel 2
 
 [REDSTINGER_SKILL_LEVEL1_DES]
-^1D68C1^Potencial explotado: ^oldclr^ su velocidad de ataque aumenta en su fase ofensiva; puede que explote al ser destruida o removida en su fase defensiva.
+^4DD4DB^Potencial explotado: ^oldclr^ su velocidad de ataque aumenta en su fase ofensiva; puede que explote al ser destruida o removida en su fase defensiva.
 
 [REDSTINGER_SKILL_LEVEL2]
 Nivel 3
 
 [REDSTINGER_SKILL_LEVEL2_DES]
-^912BAE Potencial doble: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Potencial doble: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [REDSTINGER_TOOLTIP]
 Dispara a toda potencia cuando está cerca de casa, es más defensivo cuanto más lejos está
@@ -75639,13 +75639,13 @@ Lanza dos guisantes al enemigo
 Nivel 2
 
 [REPEATER_SKILL1_LEVEL1_DES]
-^1D68C1^Surtido de guisantes: ^oldclr^ gana la probabilidad de disparar guisantes de fuego o hielo
+^4DD4DB^Surtido de guisantes: ^oldclr^ gana la probabilidad de disparar guisantes de fuego o hielo
 
 [REPEATER_SKILL1_LEVEL2]
 Nivel 3
 
 [REPEATER_SKILL1_LEVEL2_DES]
-^912BAE Elementalista: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2; gana la probabilidad de disparar fuego azul.
+^A048CF^Elementalista: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2; gana la probabilidad de disparar fuego azul.
 
 [REPEATER_TOOLTIP]
 Lanza dos guisantes al enemigo
@@ -76041,13 +76041,13 @@ Dispara balas que perforan y ralentizan zombis
 Nivel 2
 
 [RIFLEBAMBOO_SKILL_LEVEL1_DES]
-^1D68C1^Perforación prolongada: ^oldclr^ las balas perforan a los zombis durante un segundo más antes de explotar.
+^4DD4DB^Perforación prolongada: ^oldclr^ las balas perforan a los zombis durante un segundo más antes de explotar.
 
 [RIFLEBAMBOO_SKILL_LEVEL2]
 Nivel 3
 
 [RIFLEBAMBOO_SKILL_LEVEL2_DES]
-^912BAE Perforación mejorada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Perforación mejorada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [RIFLEBAMBOO_SKILL_LEVEL5]
 Nivel 5
@@ -76879,13 +76879,13 @@ Ataca a los zombis con su espada, les lanza un fuerte ataque cuando su salud es 
 Nivel 2
 
 [ROSESWORDMAN_SKILL_LEVEL1_DES]
-^1D68C1^Golpe mortal: ^oldclr^ gana la probabilidad de infligir el doble de daño a los zombis con salud baja.
+^4DD4DB^Golpe mortal: ^oldclr^ gana la probabilidad de infligir el doble de daño a los zombis con salud baja.
 
 [ROSESWORDMAN_SKILL_LEVEL2]
 Nivel 3
 
 [ROSESWORDMAN_SKILL_LEVEL2_DES]
-^912BAE Letalidad doble: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Letalidad doble: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [ROSESWORDMAN_SUPERSKILL_DES]
 ^DB8117^Destello rosa: ^oldclr^ gana la probabilidad de cargar un ataque por 4 casillas e infligir daño masivo a los zombis, en la ida y en la vuelta.
@@ -78578,13 +78578,13 @@ Crea charcos de savia que ralentizan zombis
 Nivel 2
 
 [SAPFLING_SKILL_LEVEL1_DES]
-^1D68C1^Fosilización zombi: ^oldclr^ gana un 15% de probabilidad de que sus charcos de savia atrapen zombis en ámbar, dejándolos inmóviles por un tiempo
+^4DD4DB^Fosilización zombi: ^oldclr^ gana un 15% de probabilidad de que sus charcos de savia atrapen zombis en ámbar, dejándolos inmóviles por un tiempo
 
 [SAPFLING_SKILL_LEVEL2]
 Nivel 3
 
 [SAPFLING_SKILL_LEVEL2_DES]
-^912BAE Ámbar resistente: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Ámbar resistente: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [SAPFLING_TOOLTIP]
 Crea charcos de savia que ralentizan zombis
@@ -78613,13 +78613,13 @@ Emite una potente luz que aturde zombis
 Nivel 2
 
 [SAUCER_SKILL_LEVEL1_DES]
-^1D68C1^Aducción extraterrestre: ^oldclr^ gana la habilidad de capturar zombis con una salud baja.
+^4DD4DB^Aducción extraterrestre: ^oldclr^ gana la habilidad de capturar zombis con una salud baja.
 
 [SAUCER_SKILL_LEVEL2]
 Nivel 3
 
 [SAUCER_SKILL_LEVEL2_DES]
-^912BAE Luz potente: ^oldclr^ captura zombis con una salud más alta
+^A048CF^Luz potente: ^oldclr^ captura zombis con una salud más alta
 
 [SAUCER_TOOLTIP]
 Emite una potente luz que aturde zombis
@@ -79318,13 +79318,13 @@ Dispara rayos perforantes ralentizadores
 Nivel 2
 
 [SHADOWPEASHOOTER_SKILL_LEVEL1_DES]
-^1D68C1^Bala sombría: ^oldclr^ gana un 10% de probabilidad de lanzar una bala sombría que inflige más daño
+^4DD4DB^Bala sombría: ^oldclr^ gana un 10% de probabilidad de lanzar una bala sombría que inflige más daño
 
 [SHADOWPEASHOOTER_SKILL_LEVEL2]
 Nivel 3
 
 [SHADOWPEASHOOTER_SKILL_LEVEL2_DES]
-^912BAE Oscuridad forjada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Oscuridad forjada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [SHADOWPEASHOOTER_SKILL_LEVEL5]
 Nivel 5
@@ -79355,13 +79355,13 @@ Sombraseta envenena a los zombis que la tocan, infligiéndoles daño periódico.
 Nivel 2
 
 [SHADOWSHROOM_SKILL_LEVEL1_DES]
-^1D68C1^Últimas palabras: ^oldclr^ gana un 10% de empujar al zombi que la coma 1 casillas hacia atrás.
+^4DD4DB^Últimas palabras: ^oldclr^ gana un 10% de empujar al zombi que la coma 1 casillas hacia atrás.
 
 [SHADOWSHROOM_SKILL_LEVEL2]
 Nivel 3
 
 [SHADOWSHROOM_SKILL_LEVEL2_DES]
-^912BAE Furia venenosa: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Furia venenosa: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [SHADOWSHROOM_TOOLTIP]
 Envenena zombis periódicamente
@@ -79389,13 +79389,13 @@ Lanza esferas oscuras de viento; carga sus pétalos y libera nubes que debilitan
 Nivel 2
 
 [SHADOWVANILLA_SKILL_LEVEL1_DES]
-^1D68C1^Vórtice sombrío: ^oldclr^ la niebla sombría tiene la posibilidad de generar vórtices al derrotar zombis
+^4DD4DB^Vórtice sombrío: ^oldclr^ la niebla sombría tiene la posibilidad de generar vórtices al derrotar zombis
 
 [SHADOWVANILLA_SKILL_LEVEL2]
 Nivel 3
 
 [SHADOWVANILLA_SKILL_LEVEL2_DES]
-^912BAE Vórtice mejorado: ^oldclr^ mejora los Efectos del Nvl. 2 en un 50%
+^A048CF^Vórtice mejorado: ^oldclr^ mejora los Efectos del Nvl. 2 en un 50%
 
 [SHADOWVANILLA_SKILL_LEVEL5]
 Nivel 5
@@ -79524,13 +79524,13 @@ Reduce a los zombis y los debilita
 Nivel 2
 
 [SHRINKINGVIOLET_SKILL_LEVEL1_DES]
-^1D68C1^Intimidación gigante: ^oldclr^ gana la habilidad de reducir el tamaño de los Zombisteins.
+^4DD4DB^Intimidación gigante: ^oldclr^ gana la habilidad de reducir el tamaño de los Zombisteins.
 
 [SHRINKINGVIOLET_SKILL_LEVEL2]
 Nivel 3
 
 [SHRINKINGVIOLET_SKILL_LEVEL2_DES]
-^912BAE Reducción efectiva: ^oldclr^ el daño que infligen los zombis al ser reducidos de tamaño se disminuye.
+^A048CF^Reducción efectiva: ^oldclr^ el daño que infligen los zombis al ser reducidos de tamaño se disminuye.
 
 [SHRINKINGVIOLET_SKILL_LEVEL5]
 Nivel 5
@@ -79616,13 +79616,13 @@ Dispara 5 guisantes por todo el mapa
 Nivel 2
 
 [SLINGPEA_SKILL_LEVEL1_DES]
-^1D68C1^Guisantes rebotadores: ^oldclr^ gana la probabilidad de lanzar 5 proyectiles que rebotan en un máximo de 2 zombis.
+^4DD4DB^Guisantes rebotadores: ^oldclr^ gana la probabilidad de lanzar 5 proyectiles que rebotan en un máximo de 2 zombis.
 
 [SLINGPEA_SKILL_LEVEL2]
 Nivel 3
 
 [SLINGPEA_SKILL_LEVEL2_DES]
-^912BAE Rebote garantizado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Rebote garantizado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [SLINGPEA_SKILL_LEVEL5]
 Nivel 5
@@ -79739,13 +79739,13 @@ Echa fuego en un área delante de ella
 Nivel 2
 
 [SNAPDRAGON_SKILL1_LEVEL1_DES]
-^1D68C1^Flama azul: ^oldclr^ gana un 50% de probabilidad de escupir llamas azules, las cuales, infligen más daño que las normales.
+^4DD4DB^Flama azul: ^oldclr^ gana un 50% de probabilidad de escupir llamas azules, las cuales, infligen más daño que las normales.
 
 [SNAPDRAGON_SKILL1_LEVEL2]
 Nivel 3
 
 [SNAPDRAGON_SKILL1_LEVEL2_DES]
-^912BAE Llamas persitentes: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Llamas persitentes: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [SNAPDRAGON_SUPERSKILL_DES]
 ^DB8117^Espíritu de fuego: ^oldclr^ gana la probabilidad de invocar un espíritu de fuego para atacar a todos los zombis que tiene por delante.
@@ -79777,13 +79777,13 @@ Come zombis y escupe sus cabezas
 Nivel 2
 
 [SNAPPEA_SKILL_LEVEL1_DES]
-^1D68C1^Digestión acelerada: ^oldclr^ el tiempo de digestión es reducido en 1 segundo.
+^4DD4DB^Digestión acelerada: ^oldclr^ el tiempo de digestión es reducido en 1 segundo.
 
 [SNAPPEA_SKILL_LEVEL2]
 Nivel 3
 
 [SNAPPEA_SKILL_LEVEL2_DES]
-^912BAE Digestión voraz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Digestión voraz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [SNAPPEA_SKILL_LEVEL5]
 Nivel 5
@@ -79813,13 +79813,13 @@ Lanza guisantes helados que frenan y dañan zombis
 Nivel 2
 
 [SNOWPEA_SKILL1_LEVEL1_DES]
-^1D68C1^Pico de hielo: ^oldclr^ gana un 15% de probabilidad de disparar un pico de hielo, el cual, inflige el triple de daño
+^4DD4DB^Pico de hielo: ^oldclr^ gana un 15% de probabilidad de disparar un pico de hielo, el cual, inflige el triple de daño
 
 [SNOWPEA_SKILL1_LEVEL2]
 Nivel 3
 
 [SNOWPEA_SKILL1_LEVEL2_DES]
-^912BAE Guisantes afilados: ^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+^A048CF^Guisantes afilados: ^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
 
 [SNOWPEA_TOOLTIP]
 Lanza guisantes helados que frenan y dañan zombis
@@ -79968,13 +79968,13 @@ Rompe 3 objetos rodantes, hiere a los zombis que osen pisarla
 Nivel 2
 
 [SPIKEROCK_SKILL1_LEVEL1_DES]
-^1D68C1^Pinchos paralizantes: ^oldclr^ gana un 20% de probabilidad de detener el movimiento de los zombis con sus pinchos.
+^4DD4DB^Pinchos paralizantes: ^oldclr^ gana un 20% de probabilidad de detener el movimiento de los zombis con sus pinchos.
 
 [SPIKEROCK_SKILL1_LEVEL2]
 Nivel 3
 
 [SPIKEROCK_SKILL1_LEVEL2_DES]
-^912BAE Parálisis mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Parálisis mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [SPIKEROCK_TOOLTIP]
 Rompe 3 objetos rodantes, hiere a los zombis que osen pisarla
@@ -80002,13 +80002,13 @@ Rompe 1 objeto rodante, hiere a los zombis que osen pisarla
 Nivel 2
 
 [SPIKEWEED_SKILL1_LEVEL1_DES]
-^1D68C1^Pinchos agresivos: ^oldclr^ se volverá el doble de poderosa tras derrotar a 15 zombis.
+^4DD4DB^Pinchos agresivos: ^oldclr^ se volverá el doble de poderosa tras derrotar a 15 zombis.
 
 [SPIKEWEED_SKILL1_LEVEL2]
 Nivel 3
 
 [SPIKEWEED_SKILL1_LEVEL2_DES]
-^912BAE Pinchos rápidos: ^oldclr^ se volverá el doble de poderosa tras derrotar a 10 zombis.
+^A048CF^Pinchos rápidos: ^oldclr^ se volverá el doble de poderosa tras derrotar a 10 zombis.
 
 [SPIKEWEED_TOOLTIP]
 Rompe 1 objeto rodante, hiere a los zombis que osen pisarla
@@ -80032,13 +80032,13 @@ Dispara guisantes hacia delante y atrás
 Nivel 2
 
 [SPLITPEA_SKILL1_LEVEL1_DES]
-^1D68C1^Cuidado atrás: ^oldclr^ gana un 40% de probabilidad de atacar a los zombis con guisantes de hielo hacia atrás.
+^4DD4DB^Cuidado atrás: ^oldclr^ gana un 40% de probabilidad de atacar a los zombis con guisantes de hielo hacia atrás.
 
 [SPLITPEA_SKILL1_LEVEL2]
 Nivel 3
 
 [SPLITPEA_SKILL1_LEVEL2_DES]
-^912BAE Delantero cálido: ^oldclr^ gana un 60% de probabilidad de atacar a los zombis con guisantes de fuego hacia delante.
+^A048CF^Delantero cálido: ^oldclr^ gana un 60% de probabilidad de atacar a los zombis con guisantes de fuego hacia delante.
 
 [SPLITPEA_TOOLTIP]
 Dispara guisantes hacia delante y atrás
@@ -80064,13 +80064,13 @@ Genera nuevas Setas esporadas de los zombis derrotados
 Nivel 2
 
 [SPORESHROOM_SKILL_LEVEL1_DES]
-^1D68C1^Esporadas coloridas: ^oldclr^ gana la probabilidad de crear otros de tipos de setas con sus esporas.
+^4DD4DB^Esporadas coloridas: ^oldclr^ gana la probabilidad de crear otros de tipos de setas con sus esporas.
 
 [SPORESHROOM_SKILL_LEVEL2]
 Nivel 3
 
 [SPORESHROOM_SKILL_LEVEL2_DES]
-^912BAE Surtido de setas: ^oldclr^ mejora los Efectos del Nvl. 2
+^A048CF^Surtido de setas: ^oldclr^ mejora los Efectos del Nvl. 2
 
 [SPORESHROOM_TOOLTIP]
 Genera nuevas Setas esporadas de los zombis derrotados
@@ -80104,13 +80104,13 @@ Empuja a los zombis hacia atrás y al agua si está cerca
 Nivel 2
 
 [SPRINGBEAN_SKILL1_LEVEL1_DES]
-^1D68C1^Resorte mejorado: ^oldclr^ gana un 15% de probabilidad de expulsar al zombi empujado fuera del patio.
+^4DD4DB^Resorte mejorado: ^oldclr^ gana un 15% de probabilidad de expulsar al zombi empujado fuera del patio.
 
 [SPRINGBEAN_SKILL1_LEVEL2]
 Nivel 3
 
 [SPRINGBEAN_SKILL1_LEVEL2_DES]
-^912BAE Resorte potente: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Resorte potente: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [SPRINGBEAN_TOOLTIP]
 Empuja a los zombis hacia atrás y al agua si está cerca
@@ -80143,13 +80143,13 @@ Arroja resortes que dañan y empujan a los zombis atacantes
 Nivel 2
 
 [SPRINGPRINCESS_SKILL_LEVEL1_DES]
-^1D68C1^Resorte alargado: ^oldclr^ aumenta la distancia de empuje de sus resortes en un 50%
+^4DD4DB^Resorte alargado: ^oldclr^ aumenta la distancia de empuje de sus resortes en un 50%
 
 [SPRINGPRINCESS_SKILL_LEVEL2]
 Nivel 3
 
 [SPRINGPRINCESS_SKILL_LEVEL2_DES]
-^912BAE Fuerza elástica: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Fuerza elástica: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [SPRINGPRINCESS_SKILL_LEVEL5]
 Nivel 5
@@ -80379,13 +80379,13 @@ Aplasta zombis
 Nivel 2
 
 [SQUASH_SKILL1_LEVEL1_DES]
-^1D68C1^Saltos en cadena: ^oldclr^ gana un 20% de probabilidad de permanecer en el patio tras aplastar un zombi. Puede atacar a distancias más largas.
+^4DD4DB^Saltos en cadena: ^oldclr^ gana un 20% de probabilidad de permanecer en el patio tras aplastar un zombi. Puede atacar a distancias más largas.
 
 [SQUASH_SKILL1_LEVEL2]
 Nivel 3
 
 [SQUASH_SKILL1_LEVEL2_DES]
-^912BAE Saltos persistentes: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Saltos persistentes: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [SQUASH_TOOLTIP]
 Aplasta zombis
@@ -80419,13 +80419,13 @@ Ralentiza zombis de líneas cercanas
 Nivel 2
 
 [STALLIA_SKILL_LEVEL1_DES]
-^1D68C1^Fragancia duradera: ^oldclr^ ralentiza a los zombis por 2 segundos más.
+^4DD4DB^Fragancia duradera: ^oldclr^ ralentiza a los zombis por 2 segundos más.
 
 [STALLIA_SKILL_LEVEL2]
 Nivel 3
 
 [STALLIA_SKILL_LEVEL2_DES]
-^912BAE Perfume aturdidor: ^oldclr^ gana un 25% de probabilidad de aturdir a los zombis con sus perfumes.
+^A048CF^Perfume aturdidor: ^oldclr^ gana un 25% de probabilidad de aturdir a los zombis con sus perfumes.
 
 [STALLIA_TOOLTIP]
 Ralentiza zombis de líneas cercanas
@@ -81058,13 +81058,13 @@ Dispara estrellas en 5 direcciones
 Nivel 2
 
 [STARFRUIT_SKILL1_LEVEL1_DES]
-^1D68C1^Estrellas ninja: ^oldclr^ gana un 40% de probabilidad de disparar estrellas ninja, las cuales, pueden atravesar a 2 zombis.
+^4DD4DB^Estrellas ninja: ^oldclr^ gana un 40% de probabilidad de disparar estrellas ninja, las cuales, pueden atravesar a 2 zombis.
 
 [STARFRUIT_SKILL1_LEVEL2]
 Nivel 3
 
 [STARFRUIT_SKILL1_LEVEL2_DES]
-^912BAE Perforación mejorada: ^oldclr^ las estrellas ninja pueden atravesar hasta 3 zombis.
+^A048CF^Perforación mejorada: ^oldclr^ las estrellas ninja pueden atravesar hasta 3 zombis.
 
 [STARFRUIT_TOOLTIP]
 Dispara estrellas en 5 direcciones
@@ -81838,13 +81838,13 @@ Protege tus plantas de peces globo; daña al enemigo con sus hojas
 Nivel 2
 
 [STEPHANIA_SKILL_LEVEL1_DES]
-^1D68C1^Hojas fragmentadas: ^oldclr^ sus hojas pueden dañar a un solo zombi que esté una casilla hacia atrás del zombi atacado inicialmente.
+^4DD4DB^Hojas fragmentadas: ^oldclr^ sus hojas pueden dañar a un solo zombi que esté una casilla hacia atrás del zombi atacado inicialmente.
 
 [STEPHANIA_SKILL_LEVEL2]
 Nivel 3
 
 [STEPHANIA_SKILL_LEVEL2_DES]
-^912BAE Fragmentación mejorada: ^oldclr^ los fragmentos de hojas ahora pueden dañar a múltiples zombis de una misma casilla.
+^A048CF^Fragmentación mejorada: ^oldclr^ los fragmentos de hojas ahora pueden dañar a múltiples zombis de una misma casilla.
 
 [STEPHANIA_SKILL_LEVEL5]
 Nivel 5
@@ -81879,13 +81879,13 @@ Arroz bomba pegajosa arroja bombas de arroz pegajosas con temporizador a los zom
 Nivel 2
 
 [STICKYBOMBRICE_SKILL_LEVEL1_DES]
-^1D68C1^Arroz glutinoso: ^oldclr^ el temporizador de sus bombas aumenta en un segundo; el multiplicador de cadena de bombas se mejora en un 10%.
+^4DD4DB^Arroz glutinoso: ^oldclr^ el temporizador de sus bombas aumenta en un segundo; el multiplicador de cadena de bombas se mejora en un 10%.
 
 [STICKYBOMBRICE_SKILL_LEVEL2]
 Nivel 3
 
 [STICKYBOMBRICE_SKILL_LEVEL2_DES]
-^912BAE Pegajosidad mejorada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Pegajosidad mejorada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [STICKYBOMBRICE_SKILL_LEVEL5]
 Nivel 5
@@ -84462,13 +84462,13 @@ Le crece un fruto que inflige daño pequeño, medio o enorme
 Nivel 2
 
 [STRAWBURST_SKILL_LEVEL1_DES]
-^1D68C1^Maduración rápida: ^oldclr^ después de disparar un fruto, existe la probabilidad de que crezca a un tamaño medio directamente.
+^4DD4DB^Maduración rápida: ^oldclr^ después de disparar un fruto, existe la probabilidad de que crezca a un tamaño medio directamente.
 
 [STRAWBURST_SKILL_LEVEL2]
 Nivel 3
 
 [STRAWBURST_SKILL_LEVEL2_DES]
-^912BAE Maduración instantánea: ^oldclr^ después de disparar un fruto, existe la probabilidad de que crezca a su tamaño completo directamente.
+^A048CF^Maduración instantánea: ^oldclr^ después de disparar un fruto, existe la probabilidad de que crezca a su tamaño completo directamente.
 
 [STRAWBURST_SKILL_LEVEL5]
 Nivel 5
@@ -84526,13 +84526,13 @@ Aturde a los zombis cercanos de la línea
 Nivel 2
 
 [STUNION_SKILL_LEVEL1_DES]
-^1D68C1^Aliento aturdidor: ^oldclr^ los zombis serán aturdidos por 2 segundos adicionales
+^4DD4DB^Aliento aturdidor: ^oldclr^ los zombis serán aturdidos por 2 segundos adicionales
 
 [STUNION_SKILL_LEVEL2]
 Nivel 3
 
 [STUNION_SKILL_LEVEL2_DES]
-^912BAE Halitosis potente: ^oldclr^ el tiempo de aturdimiento se duplica.
+^A048CF^Halitosis potente: ^oldclr^ el tiempo de aturdimiento se duplica.
 
 [STUNION_TOOLTIP]
 Aturde a los zombis cercanos de la línea
@@ -84559,13 +84559,13 @@ Bloquea y retiene zombis; se cura con el tiempo si no recibe daño
 Nivel 2
 
 [SUGARCANE_SKILL_LEVEL1_DES]
-^1D68C1^Defensor tenaz: ^oldclr^ su salud aumenta en un 15% adicional.
+^4DD4DB^Defensor tenaz: ^oldclr^ su salud aumenta en un 15% adicional.
 
 [SUGARCANE_SKILL_LEVEL2]
 Nivel 3
 
 [SUGARCANE_SKILL_LEVEL2_DES]
-^912BAE Firmeza inquebrantable: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Firmeza inquebrantable: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [SUGARCANE_TOOLTIP]
 Bloquea y retiene zombis; se cura con el tiempo si no recibe daño
@@ -84801,13 +84801,13 @@ Proporciona sol adicional
 Nivel 2
 
 [SUNFLOWER_SKILL1_LEVEL1_DES]
-^1D68C1^Reciclaje de soles: ^oldclr^ produce 25 soles al ser removida con la pala o destruida por los zombis.
+^4DD4DB^Reciclaje de soles: ^oldclr^ produce 25 soles al ser removida con la pala o destruida por los zombis.
 
 [SUNFLOWER_SKILL1_LEVEL2]
 Nivel 3
 
 [SUNFLOWER_SKILL1_LEVEL2_DES]
-^912BAE Reciclaje mejorado: ^oldclr^ mejora los efectos del Nvl. 2 al triple
+^A048CF^Reciclaje mejorado: ^oldclr^ mejora los efectos del Nvl. 2 al triple
 
 [SUNFLOWER_SKILL1_LEVEL5]
 Nivel 5
@@ -84840,13 +84840,13 @@ Produce más sol con el paso del tiempo
 Nivel 2
 
 [SUNSHROOM_SKILL1_LEVEL1_DES]
-^1D68C1^Crecimiento acelerado: ^oldclr^ crece 2 veces más rápido.
+^4DD4DB^Crecimiento acelerado: ^oldclr^ crece 2 veces más rápido.
 
 [SUNSHROOM_SKILL1_LEVEL2]
 Nivel 3
 
 [SUNSHROOM_SKILL1_LEVEL2_DES]
-^912BAE Super-crecimiento: ^oldclr^ crece 5 veces más rápido.
+^A048CF^Super-crecimiento: ^oldclr^ crece 5 veces más rápido.
 
 [SUNSHROOM_TOOLTIP]
 Produce más sol con el paso del tiempo
@@ -85400,13 +85400,13 @@ Atrae zombis de otras líneas cuando se acercan
 Nivel 2
 
 [SWEETPOTATO_SKILL1_LEVEL1_DES]
-^1D68C1^Dulce encanto: ^oldclr^ su salud aumenta en un 20% adicional.
+^4DD4DB^Dulce encanto: ^oldclr^ su salud aumenta en un 20% adicional.
 
 [SWEETPOTATO_SKILL1_LEVEL2]
 Nivel 3
 
 [SWEETPOTATO_SKILL1_LEVEL2_DES]
-^912BAE Dulzura empalagosa: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Dulzura empalagosa: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [SWEETPOTATO_TOOLTIP]
 Atrae zombis de otras líneas cuando se acercan
@@ -87208,13 +87208,13 @@ Planta acuática que succiona zombis bajo el agua
 Nivel 2
 
 [TANGLEKELP_SKILL_LEVEL1_DES]
-^1D68C1^Ariete zombi: ^oldclr^ usa al zombi atrapado para golpear a otros zombis frente a él, haciéndolos retroceder.
+^4DD4DB^Ariete zombi: ^oldclr^ usa al zombi atrapado para golpear a otros zombis frente a él, haciéndolos retroceder.
 
 [TANGLEKELP_SKILL_LEVEL2]
 Nivel 3
 
 [TANGLEKELP_SKILL_LEVEL2_DES]
-^912BAE Impacto en secuencia: ^oldclr^ puede golpear a los zombis de otras filas con sus ataques (una tras otra).
+^A048CF^Impacto en secuencia: ^oldclr^ puede golpear a los zombis de otras filas con sus ataques (una tras otra).
 
 [TANGLEKELP_TOOLTIP]
 Succiona zombis bajo el agua
@@ -87851,13 +87851,13 @@ Dispara guisantes en tres líneas
 Nivel 2
 
 [THREEPEATER_SKILL1_LEVEL1_DES]
-^1D68C1^Guisantes dobles: ^oldclr^ gana un 25% de probabilidad de disparar 2 guisantes a la vez por cabeza.
+^4DD4DB^Guisantes dobles: ^oldclr^ gana un 25% de probabilidad de disparar 2 guisantes a la vez por cabeza.
 
 [THREEPEATER_SKILL1_LEVEL2]
 Nivel 3
 
 [THREEPEATER_SKILL1_LEVEL2_DES]
-^912BAE Multiplicidad: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Multiplicidad: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [THREEPEATER_SKILL1_LEVEL5]
 Nivel 5
@@ -87892,13 +87892,13 @@ Escupe bolas de rayos que dañan a los zombis cercanos
 Nivel 2
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL1_DES]
-^1D68C1^Rayo aturdidor: ^oldclr^ gana la probabilidad de escupir una gran bola de rayos que inflige más daño y aturde zombis.
+^4DD4DB^Rayo aturdidor: ^oldclr^ gana la probabilidad de escupir una gran bola de rayos que inflige más daño y aturde zombis.
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL2]
 Nivel 3
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL2_DES]
-^912BAE Bola supercargada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Bola supercargada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL5]
 Nivel 5
@@ -87938,7 +87938,7 @@ Devuelve a los zombis a su lugar de inicio
 Nivel 2
 
 [THYMEWARP_SKILL_LEVEL1_DES]
-^1D68C1^Turbulencia espacio-temporal: ^oldclr^ gana la probabilidad de destruir al instante a un zombi rebobinado
+^4DD4DB^Turbulencia espacio-temporal: ^oldclr^ gana la probabilidad de destruir al instante a un zombi rebobinado
 
 [THYMEWARP_SKILL_LEVEL2]
 Nivel 3
@@ -88001,13 +88001,13 @@ Ruge para aturdir zombis, luego, los ataca a arañazos
 Nivel 2
 
 [TIGERSTOOL_SKILL_LEVEL1_DES]
-^1D68C1^Fuerza del tigre: ^oldclr^ la duración del aturdimiento por rugido aumenta en 0.25 segundos; el número de arañazos aumenta en 1
+^4DD4DB^Fuerza del tigre: ^oldclr^ la duración del aturdimiento por rugido aumenta en 0.25 segundos; el número de arañazos aumenta en 1
 
 [TIGERSTOOL_SKILL_LEVEL2]
 Nivel 3
 
 [TIGERSTOOL_SKILL_LEVEL2_DES]
-^912BAE Ataque abrumador: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Ataque abrumador: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [TIGERSTOOL_SKILL_LEVEL5]
 Nivel 5
@@ -88160,13 +88160,13 @@ Engulle zombis enteros y después produce sol
 Nivel 2
 
 [TOADSTOOL_SKILL_LEVEL1_DES]
-^1D68C1^Digestión definitiva: ^oldclr^ aumenta la producción de soles tras engullir zombis.
+^4DD4DB^Digestión definitiva: ^oldclr^ aumenta la producción de soles tras engullir zombis.
 
 [TOADSTOOL_SKILL_LEVEL2]
 Nivel 3
 
 [TOADSTOOL_SKILL_LEVEL2_DES]
-^912BAE Lengua alargada: ^oldclr^ su rango de alcance aumenta en una casilla.
+^A048CF^Lengua alargada: ^oldclr^ su rango de alcance aumenta en una casilla.
 
 [TOADSTOOL_TOOLTIP]
 Engulle zombis enteros y después produce sol.
@@ -88234,13 +88234,13 @@ Convierte a los guisantes que la sobrepasen en bolas de fuego
 Nivel 2
 
 [TORCHWOOD_SKILL1_LEVEL1_DES]
-^1D68C1^Madera fuerte: ^oldclr^ su salud aumenta en un 350% adicional (ahora es 5 veces más resistente).
+^4DD4DB^Madera fuerte: ^oldclr^ su salud aumenta en un 350% adicional (ahora es 5 veces más resistente).
 
 [TORCHWOOD_SKILL1_LEVEL2]
 Nivel 3
 
 [TORCHWOOD_SKILL1_LEVEL2_DES]
-^912BAE Llamas protectoras: ^oldclr^ mejora los Efectos del Nvl. 2 al triple (ahora es 15 veces más resistente).
+^A048CF^Llamas protectoras: ^oldclr^ mejora los Efectos del Nvl. 2 al triple (ahora es 15 veces más resistente).
 
 [TORCHWOOD_TOOLTIP]
 Convierte a los guisantes que la sobrepasen en bolas de fuego
@@ -88490,13 +88490,13 @@ Ataca a los zombis con notas musicales, cura plantas si hay zombis cerca
 Nivel 2
 
 [TULIPTRUMPETER_SKILL_LEVEL1_DES]
-^1D68C1^Sonido encantador: ^oldclr^ gana la probabilidad de disparar notas rojas que hipnotizan zombis.
+^4DD4DB^Sonido encantador: ^oldclr^ gana la probabilidad de disparar notas rojas que hipnotizan zombis.
 
 [TULIPTRUMPETER_SKILL_LEVEL2]
 Nivel 3
 
 [TULIPTRUMPETER_SKILL_LEVEL2_DES]
-^912BAE Sonido persistente: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Sonido persistente: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [TULIPTRUMPETER_SKILL_LEVEL5]
 Nivel 5
@@ -88545,13 +88545,13 @@ Sale del suelo y ataca a los zombis cercanos con sus hojas afiladas
 Nivel 2
 
 [TUPISTRASTALKER_SKILL_LEVEL1_DES]
-^1D68C1^Emboscada acelerada: ^oldclr^ el tiempo de recuperación se reduce en 1 segundo.
+^4DD4DB^Emboscada acelerada: ^oldclr^ el tiempo de recuperación se reduce en 1 segundo.
 
 [TUPISTRASTALKER_SKILL_LEVEL2]
 Nivel 3
 
 [TUPISTRASTALKER_SKILL_LEVEL2_DES]
-^912BAE Emboscada rápida: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Emboscada rápida: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [TUPISTRASTALKER_SKILL_LEVEL5]
 Nivel 5
@@ -88583,13 +88583,13 @@ Lanza pavos de tofu
 Nivel 2
 
 [TURKEYPULT_SKILL_LEVEL1_DES]
-^1D68C1^Ataque apresurado: ^oldclr^ el tiempo de recuperación se reduce en 1 segundo; su coste en soles se reduce en 25
+^4DD4DB^Ataque apresurado: ^oldclr^ el tiempo de recuperación se reduce en 1 segundo; su coste en soles se reduce en 25
 
 [TURKEYPULT_SKILL_LEVEL2]
 Nivel 3
 
 [TURKEYPULT_SKILL_LEVEL2_DES]
-^912BAE Pavos rápidos: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Pavos rápidos: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [TURKEYPULT_SKILL_LEVEL5]
 Nivel 5
@@ -88619,13 +88619,13 @@ Bloquea zombis y resiste fuerzas sobrenaturales
 Nivel 2
 
 [TURNIP_SKILL1_LEVEL1_DES]
-^1D68C1^Defensa personal: ^oldclr^ gana la habilidad de atacar a los zombis cercanos para hacerles daño ligero.
+^4DD4DB^Defensa personal: ^oldclr^ gana la habilidad de atacar a los zombis cercanos para hacerles daño ligero.
 
 [TURNIP_SKILL1_LEVEL2]
 Nivel 3
 
 [TURNIP_SKILL1_LEVEL2_DES]
-^912BAE Golpes mejorados: ^oldclr^ el daño de sus ataques se duplica.
+^A048CF^Golpes mejorados: ^oldclr^ el daño de sus ataques se duplica.
 
 [TURNIP_TOOLTIP]
 Bloquea zombis y resiste fuerzas sobrenaturales
@@ -88682,13 +88682,13 @@ Proporciona el doble de sol que el Girasol
 Nivel 2
 
 [TWINSUNFLOWER_SKILL1_LEVEL1_DES]
-^1D68C1^Sol instantáneo: ^oldclr^ produce 50 soles al instante una vez lo plantes
+^4DD4DB^Sol instantáneo: ^oldclr^ produce 50 soles al instante una vez lo plantes
 
 [TWINSUNFLOWER_SKILL1_LEVEL2]
 Nivel 3
 
 [TWINSUNFLOWER_SKILL1_LEVEL2_DES]
-^912BAE Reserva solar: ^oldclr^ el número de soles generados al plantarse aumenta a 150
+^A048CF^Reserva solar: ^oldclr^ el número de soles generados al plantarse aumenta a 150
 
 [TWINSUNFLOWER_TOOLTIP]
 Proporciona el doble de sol que el Girasol
@@ -89049,13 +89049,13 @@ Se recarga y lanza un rayo devastador por la línea
 Nivel 2
 
 [ULTOMATO_SKILL_LEVEL1_DES]
-^1D68C1^Carga acelerada: ^oldclr^ se reduce el tiempo de carga de ataque en 1 segundo.
+^4DD4DB^Carga acelerada: ^oldclr^ se reduce el tiempo de carga de ataque en 1 segundo.
 
 [ULTOMATO_SKILL_LEVEL2]
 Nivel 3
 
 [ULTOMATO_SKILL_LEVEL2_DES]
-^912BAE Rayo veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Rayo veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [ULTOMATO_SKILL_LEVEL4]
 Nivel 4
@@ -89792,13 +89792,13 @@ Sopla ráfagas de viento que dañan a todos los zombis de la línea y mandan a v
 Nivel 2
 
 [VANILLA_SKILL_LEVEL1_DES]
-^1D68C1^Barrera de viento: ^oldclr^ gana la probabilidad de soplar una barrera de viento que inflige más daño y derriba zombis
+^4DD4DB^Barrera de viento: ^oldclr^ gana la probabilidad de soplar una barrera de viento que inflige más daño y derriba zombis
 
 [VANILLA_SKILL_LEVEL2]
 Nivel 3
 
 [VANILLA_SKILL_LEVEL2_DES]
-^912BAE Vendaval poderoso: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Vendaval poderoso: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [VANILLA_SKILL_LEVEL5]
 Nivel 5
@@ -90151,13 +90151,13 @@ Bloquea a los zombis y protege tus plantas
 Nivel 2
 
 [WALLNUT_SKILL1_LEVEL1_DES]
-^1D68C1^Cáscara explosiva: ^oldclr^ gana un 50% de explotar en un área mediana al ser removida o destruida, derribando zombis sin dañarles
+^4DD4DB^Cáscara explosiva: ^oldclr^ gana un 50% de explotar en un área mediana al ser removida o destruida, derribando zombis sin dañarles
 
 [WALLNUT_SKILL1_LEVEL2]
 Nivel 3
 
 [WALLNUT_SKILL1_LEVEL2_DES]
-^912BAE Nuez enfurecida: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Nuez enfurecida: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [WALLNUT_SUPERSKILL_DES]
 ^DB8117^En órbita: ^oldclr^ gana la habilidad de lanzar 3 tipos diferentes de proyectiles a corta distancia.
@@ -90319,13 +90319,13 @@ Látigo wasabi arremete con sus látigos en llamas, azotando a los zombis por de
 Nivel 2
 
 [WASABIWHIP_SKILL_LEVEL1_DES]
-^1D68C1^Látigo abrasador: ^oldclr^ gana la habilidad de incendiar zombis con su látigo.
+^4DD4DB^Látigo abrasador: ^oldclr^ gana la habilidad de incendiar zombis con su látigo.
 
 [WASABIWHIP_SKILL_LEVEL2]
 Nivel 3
 
 [WASABIWHIP_SKILL_LEVEL2_DES]
-^912BAE Ardor intenso: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Ardor intenso: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [WASABIWHIP_SKILL_LEVEL5]
 Nivel 5
@@ -90403,13 +90403,13 @@ Bloquea y empuja zombis por los aires; su peso activa la Rueda Vitruviana
 Nivel 2
 
 [WAXGOURD_SKILL_LEVEL1_DES]
-^1D68C1^Instinto de rabia: ^oldclr^ cada 20 segundos, saltará si es atacado por los zombis para derribarlos.
+^4DD4DB^Instinto de rabia: ^oldclr^ cada 20 segundos, saltará si es atacado por los zombis para derribarlos.
 
 [WAXGOURD_SKILL_LEVEL2]
 Nivel 3
 
 [WAXGOURD_SKILL_LEVEL2_DES]
-^912BAE Ira liberada: ^oldclr^ reduce el tiempo de activación de las habilidades del Nvl. 2 en un 50%
+^A048CF^Ira liberada: ^oldclr^ reduce el tiempo de activación de las habilidades del Nvl. 2 en un 50%
 
 [WAXGOURD_SKILL_LEVEL5]
 Nivel 5
@@ -90541,13 +90541,13 @@ Melón de sumo derriba a los zombis atacantes usando el poder de su peso, la dis
 Nivel 2
 
 [WHITEMELON_SKILL_LEVEL1_DES]
-^1D68C1^Panzazo: ^oldclr^ gana la probabilidad de empujar a 2 zombis a la vez.
+^4DD4DB^Panzazo: ^oldclr^ gana la probabilidad de empujar a 2 zombis a la vez.
 
 [WHITEMELON_SKILL_LEVEL2]
 Nivel 3
 
 [WHITEMELON_SKILL_LEVEL2_DES]
-^912BAE Empujón: ^oldclr^ derriba a los zombis 1 casilla más lejos.
+^A048CF^Empujón: ^oldclr^ derriba a los zombis 1 casilla más lejos.
 
 [WHITEMELON_SKILL_LEVEL5]
 Nivel 5
@@ -90621,13 +90621,13 @@ Inflige grandes daños y frena a grupos de zombis
 Nivel 2
 
 [WINTERMELON_SKILL1_LEVEL1_DES]
-^1D68C1^Melón helado: ^oldclr^ gana un 7,5% de probabilidad de congelar zombis cuando inflige daño.
+^4DD4DB^Melón helado: ^oldclr^ gana un 7,5% de probabilidad de congelar zombis cuando inflige daño.
 
 [WINTERMELON_SKILL1_LEVEL2]
 Nivel 3
 
 [WINTERMELON_SKILL1_LEVEL2_DES]
-^912BAE Congelación rápida: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Congelación rápida: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [WINTERMELON_SUPERSKILL_DES]
 ^DB8117^Rodaja refrescante: ^oldclr^ gana la probabilidad de lanzar 3 rodajas de sandía congelada que infligen mayor daño directo y ralentizan o congelan zombis en su línea.
@@ -90687,13 +90687,13 @@ Lanza flores de ciruelo que se dividen en 5 pétalos
 Nivel 2
 
 [WINTERSWEET_SKILL_LEVEL1_DES]
-^1D68C1^Flor rosada: ^oldclr^ gana la probabilidad de lanzar una flor rosada que inflige más daño.
+^4DD4DB^Flor rosada: ^oldclr^ gana la probabilidad de lanzar una flor rosada que inflige más daño.
 
 [WINTERSWEET_SKILL_LEVEL2]
 Nivel 3
 
 [WINTERSWEET_SKILL_LEVEL2_DES]
-^912BAE Florecer rebosante: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Florecer rebosante: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [WINTERSWEET_TOOLTIP]
 Lanza flores de ciruelo que se dividen en 5 pétalos
@@ -90729,13 +90729,13 @@ Bruja avellana usa hechicería mágica para transformar zombis en Setas desespor
 Nivel 2
 
 [WITCHHAZEL_SKILL_LEVEL1_DES]
-^1D68C1^Escudo invencible: ^oldclr^ las Setas desesporadas creadas serán inmortales durante 3 segundos.
+^4DD4DB^Escudo invencible: ^oldclr^ las Setas desesporadas creadas serán inmortales durante 3 segundos.
 
 [WITCHHAZEL_SKILL_LEVEL2]
 Nivel 3
 
 [WITCHHAZEL_SKILL_LEVEL2_DES]
-^912BAE Hechizo rápido: ^oldclr^ du cadencia de disparo se reduce en 5 segundos.
+^A048CF^Hechizo rápido: ^oldclr^ du cadencia de disparo se reduce en 5 segundos.
 
 [WITCHHAZEL_SUPERSKILL_DES]
 ^DB8117^Truco de magia: ^oldclr^ gana la probabilidad de transformar a 2 zombis a la vez.
@@ -91990,13 +91990,13 @@ Dispara en línea diagonal, incluso en las cuatro direcciones a la vez
 Nivel 2
 
 [XSHOT_SKILL_LEVEL1_DES]
-^1D68C1^Nabos gigantes: ^oldclr^ gana un 25% de probabilidad de disparar nabos gigantes que infligen más daño.
+^4DD4DB^Nabos gigantes: ^oldclr^ gana un 25% de probabilidad de disparar nabos gigantes que infligen más daño.
 
 [XSHOT_SKILL_LEVEL2]
 Nivel 3
 
 [XSHOT_SKILL_LEVEL2_DES]
-^912BAE Sobrecrecimiento: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Sobrecrecimiento: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [XSHOT_TOOLTIP]
 Dispara en línea diagonal, incluso en las cuatro direcciones a la vez
@@ -97477,13 +97477,13 @@ Planta de apoyo anfibia con un potente chorro de agua
 Nivel 2
 
 [AQUAVINE_SKILL_LEVEL1_DES]
-^1D68C1^Torrente de agua: ^oldclr^ aumenta la probabilidad de disparar chorros de agua
+^4DD4DB^Torrente de agua: ^oldclr^ aumenta la probabilidad de disparar chorros de agua
 
 [AQUAVINE_SKILL_LEVEL2]
 Nivel 3
 
 [AQUAVINE_SKILL_LEVEL2_DES]
-^912BAE Torrente mejorado: ^oldclr^ la probabilidad de disparar chorros aumenta aún más
+^A048CF^Torrente mejorado: ^oldclr^ la probabilidad de disparar chorros aumenta aún más
 
 [AQUAVINE_SKILL_LEVEL5]
 Nivel 5
@@ -98963,13 +98963,13 @@ Golpea zombis cercanos, batea guisantes que infligen más daño o los aturden
 Nivel 2
 
 [BURDOCKBATTER_SKILL_LEVEL1_DES]
-^1D68C1^Bateo potente: ^oldclr^ los guisantes bateados derriban zombis 0.5 casillas y los aturden durante 1 segundo adicional.
+^4DD4DB^Bateo potente: ^oldclr^ los guisantes bateados derriban zombis 0.5 casillas y los aturden durante 1 segundo adicional.
 
 [BURDOCKBATTER_SKILL_LEVEL2]
 Nivel 3
 
 [BURDOCKBATTER_SKILL_LEVEL2_DES]
-^912BAE Bateador experto: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Bateador experto: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [BURDOCKBATTER_SKILL_LEVEL5]
 Nivel 5
@@ -99003,13 +99003,13 @@ Arroja pociones para convertir zombis en guisantes
 Nivel 2
 
 [BEANCHEMIST_SKILL_LEVEL1_DES]
-^1D68C1^Fuerza heredada: ^oldclr^ los guisantes creados son del nivel actual de la planta +1 (Nvl. máx: 5).
+^4DD4DB^Fuerza heredada: ^oldclr^ los guisantes creados son del nivel actual de la planta +1 (Nvl. máx: 5).
 
 [BEANCHEMIST_SKILL_LEVEL2]
 Nivel 3
 
 [BEANCHEMIST_SKILL_LEVEL2_DES]
-^912BAE Preparación acelerada: ^oldclr^ reduce el tiempo entre ataques a 13 segundos.
+^A048CF^Preparación acelerada: ^oldclr^ reduce el tiempo entre ataques a 13 segundos.
 
 [BEANCHEMIST_SKILL_LEVEL5]
 Nivel 5
@@ -99638,19 +99638,19 @@ Cuernos infernales
 Nivel 2
 
 [CTHULHUACTINIA_SKILL_LEVEL1_DES]
-^1D68C1^Digestión acelerada: ^oldclr^ el tiempo de digestión se reduce en 5 segundos. El ojo se abrirá tras absorber a un zombi, aumentando el daño del láser.
+^4DD4DB^Digestión acelerada: ^oldclr^ el tiempo de digestión se reduce en 5 segundos. El ojo se abrirá tras absorber a un zombi, aumentando el daño del láser.
 
 [CTHULHUACTINIA_SKILL_LEVEL2]
 Nivel 3
 
 [CTHULHUACTINIA_SKILL_LEVEL2_DES]
-^912BAE Apetito voraz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Apetito voraz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [CTHULHUACTINIA_SKILL_LEVEL5]
 Nivel 5
 
 [CTHULHUACTINIA_SKILL_LEVEL5_DES]
-^912BAE Luz divina: ^oldclr^ el láser del ojo convierte al primer zombi pequeño o mediano en un Zombi monje que luchará de tu lado.
+^A048CF^Luz divina: ^oldclr^ el láser del ojo convierte al primer zombi pequeño o mediano en un Zombi monje que luchará de tu lado.
 
 [CHAINSAWBURMANNII]
 Drosera serrada
@@ -99674,13 +99674,13 @@ Daña a los zombis cercanos con motosierras que infligen daño consecutivo
 Nivel 2
 
 [CHAINSAWBURMANNII_SKILL_LEVEL1_DES]
-^1D68C1^Llamas azules: ^oldclr^ 1/3 motosierras se prende en llamas azules, duplicando el daño. Su tiempo de recuperación se reduce en 2,5 segundos.
+^4DD4DB^Llamas azules: ^oldclr^ 1/3 motosierras se prende en llamas azules, duplicando el daño. Su tiempo de recuperación se reduce en 2,5 segundos.
 
 [CHAINSAWBURMANNII_SKILL_LEVEL2]
 Nivel 3
 
 [CHAINSAWBURMANNII_SKILL_LEVEL2_DES]
-^912BAE Fuego consumidor: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Fuego consumidor: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [CHAINSAWBURMANNII_SKILL_LEVEL5]
 Nivel 5
@@ -100482,13 +100482,13 @@ Corona infernal
 Nivel 2
 
 [DEVILSFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Ojo agrietado: ^oldclr^ se reduce el tiempo para abrir el Ojo del abismo en un 25%
+^4DD4DB^Ojo agrietado: ^oldclr^ se reduce el tiempo para abrir el Ojo del abismo en un 25%
 
 [DEVILSFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [DEVILSFLOWER_SKILL_LEVEL2_DES]
-^912BAE Abismo eterno: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Abismo eterno: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [DEVILSFLOWER_SKILL_LEVEL5]
 Nivel 5
@@ -100519,19 +100519,19 @@ Ataca a los zombis de la línea con diferentes tipos de espada
 Nivel 2
 
 [DRACAENA_SKILL_LEVEL1_DES]
-^1D68C1^Espada letal: ^oldclr^ aumenta la salud requerida para eliminar zombis con su espada voladora en un 10%
+^4DD4DB^Espada letal: ^oldclr^ aumenta la salud requerida para eliminar zombis con su espada voladora en un 10%
 
 [DRACAENA_SKILL_LEVEL2]
 Nivel 3
 
 [DRACAENA_SKILL_LEVEL2_DES]
-^912BAE Aura afilada: ^oldclr^ el área de impacto de su espada voladora cambia de un único zombi a 1 casilla.
+^A048CF^Aura afilada: ^oldclr^ el área de impacto de su espada voladora cambia de un único zombi a 1 casilla.
 
 [DRACAENA_SKILL_LEVEL5]
 Nivel 5
 
 [DRACAENA_SKILL_LEVEL5_DES]
-^912BAE Fuerza vital: ^oldclr^ al atacar, existe la posibilidad de formar una gran espada, que inflige grandes daños y activa los efectos del Nvl. 2
+^A048CF^Fuerza vital: ^oldclr^ al atacar, existe la posibilidad de formar una gran espada, que inflige grandes daños y activa los efectos del Nvl. 2
 
 [DRACAENA_AVATAR_NAME]
 Cinta dragón
@@ -100564,19 +100564,19 @@ Lanza 3 proyectiles a 3 líneas
 Nivel 2
 
 [DRAGONBRUIT_SKILL_LEVEL1_DES]
-^1D68C1^Poder sombrío: ^oldclr^ en su fase normal, existe un 30% de entrar en la forma sombría por 10 segundos; si está potenciado, sus proyectiles tienen un 30% de afectar a los zombis de una misma casilla.
+^4DD4DB^Poder sombrío: ^oldclr^ en su fase normal, existe un 30% de entrar en la forma sombría por 10 segundos; si está potenciado, sus proyectiles tienen un 30% de afectar a los zombis de una misma casilla.
 
 [DRAGONBRUIT_SKILL_LEVEL2]
 Nivel 3
 
 [DRAGONBRUIT_SKILL_LEVEL2_DES]
-^912BAE Fusión de sombras: ^oldclr^ aumenta la probabilidad de los Efectos del Nvl. 2 en un 20%, extiende la duración del estado sombrío en 5 segundos.
+^A048CF^Fusión de sombras: ^oldclr^ aumenta la probabilidad de los Efectos del Nvl. 2 en un 20%, extiende la duración del estado sombrío en 5 segundos.
 
 [DRAGONBRUIT_SKILL_LEVEL5]
 Nivel 5
 
 [DRAGONBRUIT_SKILL_LEVEL5_DES]
-^912BAE Mutación elemental: ^oldclr^ cada 20 segundos, la cabeza central se transformará en una variante elemental al azar. La variante explota al ser destruída.
+^A048CF^Mutación elemental: ^oldclr^ cada 20 segundos, la cabeza central se transformará en una variante elemental al azar. La variante explota al ser destruída.
 
 [DRAGONBRUIT_AVATAR_NAME]
 Listones azules
@@ -100625,13 +100625,13 @@ Absorbe energía eléctrica y la dispara después de condensarla
 Nivel 2
 
 [DEODARCEDAR_SKILL_LEVEL1_DES]
-^1D68C1^Condensador: ^oldclr^ mejora el poder de ataque de las plantas eléctricas alrededor, en una porción proporcional al tamaño del anillo.
+^4DD4DB^Condensador: ^oldclr^ mejora el poder de ataque de las plantas eléctricas alrededor, en una porción proporcional al tamaño del anillo.
 
 [DEODARCEDAR_SKILL_LEVEL2]
 Nivel 3
 
 [DEODARCEDAR_SKILL_LEVEL2_DES]
-^912BAE Condensador potenciado: ^oldclr^ también mejora la velocidad de ataque de las plantas eléctricas cercanas.
+^A048CF^Condensador potenciado: ^oldclr^ también mejora la velocidad de ataque de las plantas eléctricas cercanas.
 
 [DEODARCEDAR_SKILL_LEVEL5]
 Nivel 5
@@ -101059,13 +101059,13 @@ Genera una cáscara que se desliza por su línea para atacar a los zombis
 Nivel 2
 
 [ELECTRICPEEL_SKILL_LEVEL1_DES]
-^1D68C1^Alargamiento: ^oldclr^ el alcance de su ataque aumenta en 1 casilla, las anguilas se mueven un 20% más rápido.
+^4DD4DB^Alargamiento: ^oldclr^ el alcance de su ataque aumenta en 1 casilla, las anguilas se mueven un 20% más rápido.
 
 [ELECTRICPEEL_SKILL_LEVEL2]
 Nivel 3
 
 [ELECTRICPEEL_SKILL_LEVEL2_DES]
-^912BAE Cáscara veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Cáscara veloz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [ELECTRICPEEL_SKILL_LEVEL5]
 Nivel 5
@@ -101119,13 +101119,13 @@ Concentra bolas de rayos que infligen daño constante
 Nivel 2
 
 [EAGLECLAW_SKILL_LEVEL1_DES]
-^1D68C1^Orbes amplificados: ^oldclr^ su rango de alcance aumenta a 3 líneas, reduce el tiempo de descanso.
+^4DD4DB^Orbes amplificados: ^oldclr^ su rango de alcance aumenta a 3 líneas, reduce el tiempo de descanso.
 
 [EAGLECLAW_SKILL_LEVEL2]
 Nivel 3
 
 [EAGLECLAW_SKILL_LEVEL2_DES]
-^912BAE Energía masiva: ^oldclr^ su rango de alcance aumenta a todo el mapa, reduce el tiempo de descanso aún más.
+^A048CF^Energía masiva: ^oldclr^ su rango de alcance aumenta a todo el mapa, reduce el tiempo de descanso aún más.
 
 [EAGLECLAW_SKILL_LEVEL5]
 Nivel 5
@@ -101847,13 +101847,13 @@ Lanza petardos por 3 líneas que dañan y aturden zombis
 Nivel 2
 
 [FIRECRACKERFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Explosión duradera: ^oldclr^ los petardos duran 0,25 segundos más
+^4DD4DB^Explosión duradera: ^oldclr^ los petardos duran 0,25 segundos más
 
 [FIRECRACKERFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [FIRECRACKERFLOWER_SKILL_LEVEL2_DES]
-^912BAE Traca de petardos: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Traca de petardos: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [FIRECRACKERFLOWER_SKILL_LEVEL5]
 Nivel 5
@@ -102114,13 +102114,13 @@ Come snacks o muerde zombis, acumula energía y la libera en llamaradas
 Nivel 2
 
 [GLUTTONYDRAGON_SKILL_LEVEL1_DES]
-^1D68C1^Llamas potentes: ^oldclr^ reduce el consumo de energía un 10%; las llamaradas se tornan azules pasado unos segundos, aumentando el daño.
+^4DD4DB^Llamas potentes: ^oldclr^ reduce el consumo de energía un 10%; las llamaradas se tornan azules pasado unos segundos, aumentando el daño.
 
 [GLUTTONYDRAGON_SKILL_LEVEL2]
 Nivel 3
 
 [GLUTTONYDRAGON_SKILL_LEVEL2_DES]
-^912BAE Flama de dragón: ^oldclr^ reduce el consumo de energía un 20%; las llamas azules pasan a ser púrpuras con el tiempo, aumentando el daño aún más.
+^A048CF^Flama de dragón: ^oldclr^ reduce el consumo de energía un 20%; las llamas azules pasan a ser púrpuras con el tiempo, aumentando el daño aún más.
 
 [GLUTTONYDRAGON_SKILL_LEVEL5]
 Nivel 5
@@ -102171,13 +102171,13 @@ Dispara en 8 direcciones, potencia plantas sombrías
 Nivel 2
 
 [gloomvine_SKILL_LEVEL1_DES]
-^1D68C1^Sombras nefastas: ^oldclr^ mejora a las plantas sombrías en un 15%, ralentiza a los zombis un 30%
+^4DD4DB^Sombras nefastas: ^oldclr^ mejora a las plantas sombrías en un 15%, ralentiza a los zombis un 30%
 
 [gloomvine_SKILL_LEVEL2]
 Nivel 3
 
 [gloomvine_SKILL_LEVEL2_DES]
-^912BAE Oscuridad total: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Oscuridad total: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [gloomvine_SKILL_LEVEL5]
 Nivel 5
@@ -102231,13 +102231,13 @@ Salta hacia adelante y hacia atrás, esquivando al Zombistein
 Nivel 2
 
 [GERANIIFENCER_SKILL_LEVEL1_DES]
-^1D68C1^Carga poderosa: ^oldclr^ al saltar al frente, existe la posibilidad de derribar a los zombis pequeños.
+^4DD4DB^Carga poderosa: ^oldclr^ al saltar al frente, existe la posibilidad de derribar a los zombis pequeños.
 
 [GERANIIFENCER_SKILL_LEVEL2]
 Nivel 3
 
 [GERANIIFENCER_SKILL_LEVEL2_DES]
-^912BAE Fuerza imparable: ^oldclr^ su Carga poderosa ahora puede derribar zombis medianos.
+^A048CF^Fuerza imparable: ^oldclr^ su Carga poderosa ahora puede derribar zombis medianos.
 
 [GERANIIFENCER_SKILL_LEVEL5]
 Nivel 5
@@ -103123,13 +103123,13 @@ Gafas locas
 Nivel 2
 
 [HOYACORDATA_SKILL_LEVEL1_DES]
-^1D68C1^Agilidad física: ^oldclr^ reduce el tiempo de recuperación en 2.5 segundos, aumenta la probabilidad de activar el bis en un 10%.
+^4DD4DB^Agilidad física: ^oldclr^ reduce el tiempo de recuperación en 2.5 segundos, aumenta la probabilidad de activar el bis en un 10%.
 
 [HOYACORDATA_SKILL_LEVEL2]
 Nivel 3
 
 [HOYACORDATA_SKILL_LEVEL2_DES]
-^1D68C1^Fanatismo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^4DD4DB^Fanatismo: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [HOYACORDATA_SKILL_LEVEL5]
 Nivel 5
@@ -103182,13 +103182,13 @@ Produce soles al inicio, repele zombis a otras líneas cuando crece
 Nivel 2
 
 [HAPPYLEEK_SKILL_LEVEL1_DES]
-^1D68C1^Crecimiento sano: ^oldclr^ el tiempo entre rebrotes se reduce en 10 segundos. No pierde hojas cuando repele zombis por primera vez.
+^4DD4DB^Crecimiento sano: ^oldclr^ el tiempo entre rebrotes se reduce en 10 segundos. No pierde hojas cuando repele zombis por primera vez.
 
 [HAPPYLEEK_SKILL_LEVEL2]
 Nivel 3
 
 [HAPPYLEEK_SKILL_LEVEL2_DES]
-^912BAE Crecimiento rápido: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Crecimiento rápido: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [HAPPYLEEK_SKILL_LEVEL5]
 Nivel 5
@@ -103243,13 +103243,13 @@ Acribilla a los zombis con su ametralladora
 Nivel 2
 
 [HELICONIAGUNNER_SKILL_LEVEL1_DES]
-^1D68C1^Ametralladora mejorada: ^oldclr^ aumenta la capacidad de la ametralladora en un 20% junto a la velocidad de disparo.
+^4DD4DB^Ametralladora mejorada: ^oldclr^ aumenta la capacidad de la ametralladora en un 20% junto a la velocidad de disparo.
 
 [HELICONIAGUNNER_SKILL_LEVEL2]
 Nivel 3
 
 [HELICONIAGUNNER_SKILL_LEVEL2_DES]
-^912BAE Ametralladora avanzada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Ametralladora avanzada: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [HELICONIAGUNNER_SKILL_LEVEL5]
 Nivel 5
@@ -103304,13 +103304,13 @@ Genera ondas sonoras cuando los proyectiles la sobrevuelan
 Nivel 2
 
 [HEAVENDATURA_SKILL_LEVEL1_DES]
-^1D68C1^Resonancia: ^oldclr^^ la primera nota musical aturde brevemente a los zombis, el alcance cambia a 3x3 a partir de la 2da nota.
+^4DD4DB^Resonancia: ^oldclr^^ la primera nota musical aturde brevemente a los zombis, el alcance cambia a 3x3 a partir de la 2da nota.
 
 [HEAVENDATURA_SKILL_LEVEL2]
 Nivel 3
 
 [HEAVENDATURA_SKILL_LEVEL2_DES]
-^912BAE Melodía armoniosa: ^oldclr^^ la primera nota musical aturde brevemente a los zombis, el alcance cambia a 5x5 a partir de la 4ta nota.
+^A048CF^Melodía armoniosa: ^oldclr^^ la primera nota musical aturde brevemente a los zombis, el alcance cambia a 5x5 a partir de la 4ta nota.
 
 [HEAVENDATURA_SKILL_LEVEL5]
 Nivel 5
@@ -103910,13 +103910,13 @@ Conde Dracalabaza
 Nivel 2
 
 [JACKOLANTERN_SKILL_LEVEL1_DES]
-^1D68C1^Fuego extendido: ^oldclr^ aumenta el alcance de sus llamas en 1 casilla.
+^4DD4DB^Fuego extendido: ^oldclr^ aumenta el alcance de sus llamas en 1 casilla.
 
 [JACKOLANTERN_SKILL_LEVEL2]
 Nivel 3
 
 [JACKOLANTERN_SKILL_LEVEL2_DES]
-^912BAE Fuego intenso: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Fuego intenso: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [JACKOLANTERN_SKILL_LEVEL5]
 Nivel 5
@@ -103948,13 +103948,13 @@ Escavan túneles y dañan zombis al resurgir
 Nivel 2
 
 [JEWELRABBIT_SKILL_LEVEL1_DES]
-^1D68C1^Conmoción: ^oldclr^ sus ataques pueden expulsar a los zombis medianos del patio.
+^4DD4DB^Conmoción: ^oldclr^ sus ataques pueden expulsar a los zombis medianos del patio.
 
 [JEWELRABBIT_SKILL_LEVEL2]
 Nivel 3
 
 [JEWELRABBIT_SKILL_LEVEL2_DES]
-^912BAE Excavación rápida: ^oldclr^ reduce su tiempo de recuperación a 13 segundos.
+^A048CF^Excavación rápida: ^oldclr^ reduce su tiempo de recuperación a 13 segundos.
 
 [JEWELRABBIT_SKILL_LEVEL5]
 Nivel 5
@@ -104163,13 +104163,13 @@ Parche
 Nivel 2
 
 [LANCERHOYA_SKILL_LEVEL1_DES]
-^1D68C1^Acumulación rápida: ^oldclr^ reduce el tiempo de acumulación de energía en 2,5 segundos.
+^4DD4DB^Acumulación rápida: ^oldclr^ reduce el tiempo de acumulación de energía en 2,5 segundos.
 
 [LANCERHOYA_SKILL_LEVEL2]
 Nivel 3
 
 [LANCERHOYA_SKILL_LEVEL2_DES]
-^912BAE Control eficaz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Control eficaz: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [LANCERHOYA_SKILL_LEVEL5]
 Nivel 5
@@ -104558,13 +104558,13 @@ Corre por la línea, haciendo acrobacias y dañando zombis
 Nivel 2
 
 [MANDRAKE_SKILL_LEVEL1_DES]
-^1D68C1^Sprint fantasmal: ^oldclr^ existe la posibilidad de liberar un fantasma que inflige más daño y aturde zombis por más tiempo.
+^4DD4DB^Sprint fantasmal: ^oldclr^ existe la posibilidad de liberar un fantasma que inflige más daño y aturde zombis por más tiempo.
 
 [MANDRAKE_SKILL_LEVEL2]
 Nivel 3
 
 [MANDRAKE_SKILL_LEVEL2_DES]
-^912BAE Fantasma mejorado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Fantasma mejorado: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [MANDRAKE_SKILL_LEVEL5]
 Nivel 5
@@ -104606,13 +104606,13 @@ Conjura meteoritos que dejan casillas abrasadoras
 Nivel 2
 
 [METEORFLOWER_SKILL1_LEVEL1_DES]
-^1D68C1^Meteoro pesado: ^oldclr^ existe la posibilidad de conjurar un meteoro que derriba a los zombis del área.
+^4DD4DB^Meteoro pesado: ^oldclr^ existe la posibilidad de conjurar un meteoro que derriba a los zombis del área.
 
 [METEORFLOWER_SKILL1_LEVEL2]
 Nivel 3
 
 [METEORFLOWER_SKILL1_LEVEL2_DES]
-^912BAE Atracción gravitacional: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Atracción gravitacional: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [METEORFLOWER_SKILL1_LEVEL5]
 Nivel 5
@@ -104705,13 +104705,13 @@ Antenas de abeja
 Nivel 2
 
 [MAYBEE_SKILL_LEVEL1_DES]
-^1D68C1^Abejas mejoradas: ^oldclr^ el alcance junto al número de abejas aumenta en 1. Las abejas permanecen 5 segundos más.
+^4DD4DB^Abejas mejoradas: ^oldclr^ el alcance junto al número de abejas aumenta en 1. Las abejas permanecen 5 segundos más.
 
 [MAYBEE_SKILL_LEVEL2]
 Nivel 3
 
 [MAYBEE_SKILL_LEVEL2_DES]
-^912BAE Abejas agresivas: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
+^A048CF^Abejas agresivas: ^oldclr^ mejora los Efectos del Nvl. 2 al doble.
 
 [MAYBEE_SKILL_LEVEL5]
 Nivel 5
@@ -105747,13 +105747,13 @@ Ataca a los zombis, ralentizandolos y aplicando veneno. No recibe daño en su fo
 Nivel 2
 
 [NIGHTCAP_SKILL_LEVEL1_DES]
-^1D68C1^Entrenamiento ninjutsu: ^oldclr^ aumenta su rango de ataque en una casilla. La recarga de su forma oscura se reduce en 2,5 segundos.
+^4DD4DB^Entrenamiento ninjutsu: ^oldclr^ aumenta su rango de ataque en una casilla. La recarga de su forma oscura se reduce en 2,5 segundos.
 
 [NIGHTCAP_SKILL_LEVEL2]
 Nivel 3
 
 [NIGHTCAP_SKILL_LEVEL2_DES]
-^912BAE Fortalecimiento ninjutsu: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Fortalecimiento ninjutsu: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [NIGHTCAP_SKILL_LEVEL5]
 Nivel 5
@@ -107452,13 +107452,13 @@ Lanza orbes gravitatorios que atraen y dañan zombis
 Nivel 2
 
 [ORCHIDMAGE_SKILL_LEVEL1_DES]
-^1D68C1^Atadura oscura: ^oldclr^ sus campos gravitatorios tienen un 15% de probabilidad de inmovilizar zombis.
+^4DD4DB^Atadura oscura: ^oldclr^ sus campos gravitatorios tienen un 15% de probabilidad de inmovilizar zombis.
 
 [ORCHIDMAGE_SKILL_LEVEL2]
 Nivel 3
 
 [ORCHIDMAGE_SKILL_LEVEL2_DES]
-^912BAE Gravedad pesada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Gravedad pesada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [ORCHIDMAGE_SKILL_LEVEL5]
 Nivel 5
@@ -107767,13 +107767,13 @@ Se conecta para disparar rayos láser
 Nivel 2
 
 [POWERVINE_SKILL_LEVEL1_DES]
-^1D68C1^Rayo supercargado: ^oldclr^ gana un 5% de disparar un rayo que mejora a la planta eléctrica que tiene encima
+^4DD4DB^Rayo supercargado: ^oldclr^ gana un 5% de disparar un rayo que mejora a la planta eléctrica que tiene encima
 
 [POWERVINE_SKILL_LEVEL2]
 Nivel 3
 
 [POWERVINE_SKILL_LEVEL2_DES]
-^912BAE Carga mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
+^A048CF^Carga mejorada: ^oldclr^ duplica la probabilidad de los Efectos del Nvl. 2
 
 [POWERVINE_SKILL_LEVEL5]
 Nivel 5
@@ -108007,13 +108007,13 @@ Mejora a las plantas de la familia de guisantes
 Nivel 2
 
 [PEAVINE_SKILL_LEVEL1_DES]
-^1D68C1^Guisantes brillantes: ^oldclr^ mejora el daño de las plantas guisante encima; aumenta la probabilidad de duplicar guisantes.
+^4DD4DB^Guisantes brillantes: ^oldclr^ mejora el daño de las plantas guisante encima; aumenta la probabilidad de duplicar guisantes.
 
 [PEAVINE_SKILL_LEVEL2]
 Nivel 3
 
 [PEAVINE_SKILL_LEVEL2_DES]
-^912BAE Guisantes potenciados: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Guisantes potenciados: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [PEAVINE_SKILL_LEVEL5]
 Nivel 5
@@ -108052,13 +108052,13 @@ Calienta y lanza llamas
 Nivel 2
 
 [PYREVINE_SKILL_LEVEL1_DES]
-^1D68C1^Llamas ascendentes: ^oldclr^ mejora el daño de las plantas de fuego encima; aumenta el alcance de las llamaradas en 1 casilla.
+^4DD4DB^Llamas ascendentes: ^oldclr^ mejora el daño de las plantas de fuego encima; aumenta el alcance de las llamaradas en 1 casilla.
 
 [PYREVINE_SKILL_LEVEL2]
 Nivel 3
 
 [PYREVINE_SKILL_LEVEL2_DES]
-^912BAE Fuego potenciado: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Fuego potenciado: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [PYREVINE_SKILL_LEVEL5]
 Nivel 5
@@ -108100,13 +108100,13 @@ Vela blanca
 Nivel 2
 
 [PUMPKIN_SKILL_LEVEL1_DES]
-^1D68C1^Dulces de vida: ^oldclr^ aumenta la salud de las plantas defensivas plantadas dentro.
+^4DD4DB^Dulces de vida: ^oldclr^ aumenta la salud de las plantas defensivas plantadas dentro.
 
 [PUMPKIN_SKILL_LEVEL2]
 Nivel 3
 
 [PUMPKIN_SKILL_LEVEL2_DES]
-^912BAE Caramelo poderoso: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Caramelo poderoso: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [PUMPKIN_SKILL_LEVEL5]
 Nivel 5
@@ -110079,13 +110079,13 @@ Aturde y expulsa de un puñetazo a los zombis del patio
 Nivel 2
 
 [RHUBARBARIAN_SKILL_LEVEL1_DES]
-^1D68C1^Saltos largos: ^oldclr^ la distancia del salto aumenta en 1 casilla; la duración del ataque y el aturdimiento aumenta en 1 segundo.
+^4DD4DB^Saltos largos: ^oldclr^ la distancia del salto aumenta en 1 casilla; la duración del ataque y el aturdimiento aumenta en 1 segundo.
 
 [RHUBARBARIAN_SKILL_LEVEL2]
 Nivel 3
 
 [RHUBARBARIAN_SKILL_LEVEL2_DES]
-^912BAE Supersalto: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Supersalto: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [RHUBARBARIAN_SKILL_LEVEL5]
 Nivel 5
@@ -110507,13 +110507,13 @@ Arroja semillas de aceite que prenden zombis en llamas
 Nivel 2
 
 [RAPEFLOWER_SKILL_LEVEL1_DES]
-^1D68C1^Aceite ardiente: ^oldclr^ gana la probabilidad de disparar semillas envueltas en llamas azules que hacen el doble de daño
+^4DD4DB^Aceite ardiente: ^oldclr^ gana la probabilidad de disparar semillas envueltas en llamas azules que hacen el doble de daño
 
 [RAPEFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [RAPEFLOWER_SKILL_LEVEL2_DES]
-^912BAE Llama fantasmal: ^oldclr^ gana la probabilidad de disparar semillas envueltas en llamas moradas que hacen el triple de daño
+^A048CF^Llama fantasmal: ^oldclr^ gana la probabilidad de disparar semillas envueltas en llamas moradas que hacen el triple de daño
 
 [RAPEFLOWER_SKILL_LEVEL5]
 Nivel 5
@@ -111109,13 +111109,13 @@ Petrifica zombis y libera espíritus para dañarlos
 Nivel 2
 
 [SARRACENIA_SKILL_LEVEL1_DES]
-^1D68C1^Petrificación rápida: ^oldclr^ reduce el descanso antes de volver a petrificar a 17 segundos.
+^4DD4DB^Petrificación rápida: ^oldclr^ reduce el descanso antes de volver a petrificar a 17 segundos.
 
 [SARRACENIA_SKILL_LEVEL2]
 Nivel 3
 
 [SARRACENIA_SKILL_LEVEL2_DES]
-^912BAE Petrificación extrema: ^oldclr^ reduce el descanso antes de volver a petrificar a 14 segundos.
+^A048CF^Petrificación extrema: ^oldclr^ reduce el descanso antes de volver a petrificar a 14 segundos.
 
 [SARRACENIA_SKILL_LEVEL5]
 Nivel 5
@@ -111317,16 +111317,18 @@ Cinta dragón
 Al usar Nutrientes, lanza 20 espadas adicionales hacia arriba y abajo
 
 [SPARTANBAMBOO]
-{BAMBOOSPARTAN}
+Bambú espartano
 
 [SPARTANBAMBOO_DESCRIPTION]
-{BAMBOOSPARTAN_DESCRIPTION}
+{KEYWORD}Especial: {STAT}cuando se le rompe el escudo, Bambú espartano entra en un Trance de batalla y aumenta su daño.
+
+{FLAVOR}"¡Por los tacos y la libertad! O mejor... ¡¡POR LOS TACOS!!"
 
 [SPARTANBAMBOO_DESCRIPTION_HEADER]
-{BAMBOOSPARTAN_DESCRIPTION_HEADER}
+Un feroz guerrero de bambú que puede soportar grandes daños. Cuando se le rompe el escudo, sus ataques infligen aún más daño.
 
 [SPARTANBAMBOO_TOOLTIP]
-{BAMBOOSPARTAN_TOOLTIP}
+Resiste y golpea a los zombis que se encuentren a 2 casillas
 
 [SPARTANBAMBOO_PRODUCT_SHORT_DESC]
 Resiste y golpea a los zombis que se encuentren a 2 casillas
@@ -111335,13 +111337,13 @@ Resiste y golpea a los zombis que se encuentren a 2 casillas
 Nivel 2
 
 [SPARTANBAMBOO_SKILL_LEVEL1_DES]
-^1D68C1^Megalovaniaco: ^oldclr^ entra en trance tras derrotar un zombi. Reduce la recarga del paquete de semillas
+^4DD4DB^Megalovaniaco: ^oldclr^ entra en trance tras derrotar un zombi. Reduce la recarga del paquete de semillas
 
 [SPARTANBAMBOO_SKILL_LEVEL2]
 Nivel 3
 
 [SPARTANBAMBOO_SKILL_LEVEL2_DES]
-^912BAE Locura desenfrenada^oldclr: reduce el intervalo de ataques bajo trance y la recarga de su paquete de semillas
+^A048CF^Locura desenfrenada^oldclr: reduce el intervalo de ataques bajo trance y la recarga de su paquete de semillas
 
 [SPARTANBAMBOO_SKILL_LEVEL5]
 Nivel 5
@@ -111386,13 +111388,13 @@ Aumenta la producción solar
 Nivel 2
 
 [SHINEVINE_SKILL_LEVEL1_DES]
-^1D68C1^Brillo intenso: ^oldclr^ la ráfaga aturdidora afecta a un grupo de zombis en un área pequeña (hasta 5 zombis)
+^4DD4DB^Brillo intenso: ^oldclr^ la ráfaga aturdidora afecta a un grupo de zombis en un área pequeña (hasta 5 zombis)
 
 [SHINEVINE_SKILL_LEVEL2]
 Nivel 3
 
 [SHINEVINE_SKILL_LEVEL2_DES]
-^912BAE Ráfaga reluciente: ^oldclr^ aumenta la cantidad de soles generados y el tiempo de aturdimiento de la ráfaga aturdidora
+^A048CF^Ráfaga reluciente: ^oldclr^ aumenta la cantidad de soles generados y el tiempo de aturdimiento de la ráfaga aturdidora
 
 [SHINEVINE_SKILL_LEVEL5]
 Nivel 5
@@ -114262,13 +114264,13 @@ Atrae aves que dispersan sus semillas para controlar zombis
 Nivel 2
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL1_DES]
-^1D68C1^Parasitación acelerada: ^oldclr^ reduce el tiempo de recuperación en 2,5 segundos, el polen dura 1 segundo más.
+^4DD4DB^Parasitación acelerada: ^oldclr^ reduce el tiempo de recuperación en 2,5 segundos, el polen dura 1 segundo más.
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL2]
 Nivel 3
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL2_DES]
-^912BAE Germinación silvestre: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Germinación silvestre: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL5]
 Nivel 5
@@ -114511,13 +114513,13 @@ Usa el poder solar para dañar zombis y el poder lunar para ralentizarlos
 Nivel 2
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL1_DES]
-^1D68C1^Astros alineados: ^oldclr^ reduce el tiempo de recuperación en 2,5 segundos; aumenta el número de estrellas liberadas
+^4DD4DB^Astros alineados: ^oldclr^ reduce el tiempo de recuperación en 2,5 segundos; aumenta el número de estrellas liberadas
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL2]
 Nivel 3
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL2_DES]
-^912BAE Alineación perfecta: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Alineación perfecta: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL5]
 Nivel 5
@@ -115590,13 +115592,13 @@ Aumenta su salud drenando la de los zombis que tiene alrededor
 Nivel 2
 
 [VAMPORCINI_SKILL_LEVEL1_DES]
-^1D68C1^Murciélagos voraces: ^oldclr^ vuelve a activar el drenaje de salud cada 30 segundos.
+^4DD4DB^Murciélagos voraces: ^oldclr^ vuelve a activar el drenaje de salud cada 30 segundos.
 
 [VAMPORCINI_SKILL_LEVEL2]
 Nivel 3
 
 [VAMPORCINI_SKILL_LEVEL2_DES]
-^912BAE Sed de sangre: ^oldclr^ el tiempo para reactivar el drenaje de salud se reduce en 10 segundos
+^A048CF^Sed de sangre: ^oldclr^ el tiempo para reactivar el drenaje de salud se reduce en 10 segundos
 
 [VAMPORCINI_SKILL_LEVEL5]
 Nivel 5
@@ -115659,13 +115661,13 @@ Aumenta el daño con cada sucesión de ataques encadenados
 Nivel 2
 
 [WATERRABBIT_SKILL_LEVEL1_DES]
-^1D68C1^Bofetadas en serie: ^oldclr^ el alcance de los ataques normales cambia a una casilla con un máximo de 3 zombis.
+^4DD4DB^Bofetadas en serie: ^oldclr^ el alcance de los ataques normales cambia a una casilla con un máximo de 3 zombis.
 
 [WATERRABBIT_SKILL_LEVEL2]
 Nivel 3
 
 [WATERRABBIT_SKILL_LEVEL2_DES]
-^912BAE Orejas puntiagudas: ^oldclr^ el número máximo de zombis aumenta a 5; la distancia de empuje aumenta en 1 casilla.
+^A048CF^Orejas puntiagudas: ^oldclr^ el número máximo de zombis aumenta a 5; la distancia de empuje aumenta en 1 casilla.
 
 [WATERRABBIT_SKILL_LEVEL5]
 Nivel 5
@@ -115719,13 +115721,13 @@ Manipula espinas con magia para dañar o enredar zombis
 Nivel 2
 
 [WIZARDTHORNS_SKILL_LEVEL1_DES]
-^1D68C1^Espinas rápidas: ^oldclr^ reduce el tiempo entre ataques en 2 segundos, las espinas duran más tiempo
+^4DD4DB^Espinas rápidas: ^oldclr^ reduce el tiempo entre ataques en 2 segundos, las espinas duran más tiempo
 
 [WIZARDTHORNS_SKILL_LEVEL2]
 Nivel 3
 
 [WIZARDTHORNS_SKILL_LEVEL2_DES]
-^912BAE Maleza incontrolable: ^oldclr^ sus ataques alcanzan a 2 objetivos a la vez, las espinas ganan más salud
+^A048CF^Maleza incontrolable: ^oldclr^ sus ataques alcanzan a 2 objetivos a la vez, las espinas ganan más salud
 
 [WIZARDTHORNS_SKILL_LEVEL5]
 Nivel 5
@@ -115790,13 +115792,13 @@ Tócalo para generar cercas de alta tensión
 Nivel 2
 
 [WIREGELSEMIUM_SKILL_LEVEL1_DES]
-^1D68C1^Conductividad ampliada: ^oldclr^ su intervalo de ataque se reduce en un 25%; el multiplicador de daño aumenta al doble
+^4DD4DB^Conductividad ampliada: ^oldclr^ su intervalo de ataque se reduce en un 25%; el multiplicador de daño aumenta al doble
 
 [WIREGELSEMIUM_SKILL_LEVEL2]
 Nivel 3
 
 [WIREGELSEMIUM_SKILL_LEVEL2_DES]
-^912BAE Super-conductividad: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
+^A048CF^Super-conductividad: ^oldclr^ mejora los Efectos del Nvl. 2 al doble
 
 [WIREGELSEMIUM_SKILL_LEVEL5]
 Nivel 5
@@ -115851,13 +115853,13 @@ Escupe nieve a los zombis para convertirlos en bloques de hielo y destruirlos
 Nivel 2
 
 [WINTERRAMBUTAN_SKILL_LEVEL1_DES]
-^1D68C1^Helada potente: ^oldclr^ aumenta la probabilidad de convertir zombis en bloques de hielo y destruirlos.
+^4DD4DB^Helada potente: ^oldclr^ aumenta la probabilidad de convertir zombis en bloques de hielo y destruirlos.
 
 [WINTERRAMBUTAN_SKILL_LEVEL2]
 Nivel 3
 
 [WINTERRAMBUTAN_SKILL_LEVEL2_DES]
-^912BAE Nieve super-fría: ^oldclr^ mejora los Efectos del Nvl. 2 en un 50%
+^A048CF^Nieve super-fría: ^oldclr^ mejora los Efectos del Nvl. 2 en un 50%
 
 [WINTERRAMBUTAN_SKILL_LEVEL5]
 Nivel 5
@@ -116282,13 +116284,13 @@ Germina zomboides útiles
 Nivel 2
 
 [ZOYBEANPOD_SKILL_LEVEL1_DES]
-^1D68C1^Casco de zanahoria: ^oldclr^ gana la probabilidad de germinar Zomboides carazanahoria
+^4DD4DB^Casco de zanahoria: ^oldclr^ gana la probabilidad de germinar Zomboides carazanahoria
 
 [ZOYBEANPOD_SKILL_LEVEL2]
 Nivel 3
 
 [ZOYBEANPOD_SKILL_LEVEL2_DES]
-^912BAE Casco de sandía: ^oldclr^ gana la probabilidad de germinar Zomboides carasandía
+^A048CF^Casco de sandía: ^oldclr^ gana la probabilidad de germinar Zomboides carasandía
 
 [ZOYBEANPOD_SKILL_LEVEL5]
 Nivel 5
@@ -117373,13 +117375,13 @@ Ataca en su casilla, los zombis atacados serán ralentizados por Hierbahelada
 Nivel 2
 
 [ICEWEED_SKILL_LEVEL1_DES]
-^1D68C1^Picadura helada: ^oldclr^ Puede congelar un zombi durante 2 segundos.
+^4DD4DB^Picadura helada: ^oldclr^ Puede congelar un zombi durante 2 segundos.
 
 [ICEWEED_SKILL_LEVEL2]
 Nivel 3
 
 [ICEWEED_SKILL_LEVEL2_DES]
-^912BAE Mejoría congelada: ^oldclr^ Tiene más probabilidad de congelar un zombi durante 2 segundos.
+^A048CF^Mejoría congelada: ^oldclr^ Tiene más probabilidad de congelar un zombi durante 2 segundos.
 
 [ICEWEED_SKILL_LEVEL5]
 Nivel 5
@@ -117440,13 +117442,13 @@ Puede atacar de distintas formas al tocarla
 Nivel 2
 
 [BUBBLECORAL_SKILL_LEVEL1_DES]
-^1D68C1^Aumento de burbuja: ^oldclr^ Las burbujas grandes hacen más daño, las medianas son más rápidas, y las pequeñas aumentan en cantidad.
+^4DD4DB^Aumento de burbuja: ^oldclr^ Las burbujas grandes hacen más daño, las medianas son más rápidas, y las pequeñas aumentan en cantidad.
 
 [BUBBLECORAL_SKILL_LEVEL2]
 Nivel 3
 
 [BUBBLECORAL_SKILL_LEVEL2_DES]
-^912BAE Súper Burbujas: ^oldclr^ Las burbujas grandes hacen aún más daño, las medianas son aún más rápidas, y las pequeñas aumentan aún más en cantidad.
+^A048CF^Súper Burbujas: ^oldclr^ Las burbujas grandes hacen aún más daño, las medianas son aún más rápidas, y las pequeñas aumentan aún más en cantidad.
 
 [BUBBLECORAL_SKILL_LEVEL5]
 Nivel 5
