@@ -1,5 +1,5 @@
 # Repositorio de la traducción al español de 植物大战僵尸2 (La versión china de PvZ 2)
-
+Enlace de descarga: https://github.com/ElSrShadow/elsrshadow.github.io/releases
 ## Menciones:
  - CyberSteve - Ayudas con repositorio y modding a Shadow
  - Evil - Ayudas con herramientas y configuraciones a Shadow
