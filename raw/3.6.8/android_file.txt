@@ -1,1002 +1,991 @@
-﻿// PENDIENTE
-
-[RANK_AVATAR_CONTENT_TITLE_61040]
-惊喜派对
+﻿[RANK_AVATAR_CONTENT_TITLE_61040]
+Fiesta sorpresa
 
 [RANK_AVATAR_CONTENT_CONTENT_61040]
-双人对决第30赛季宗师段位奖励
+Recompensa clasificatoria de la temporada 30 de Dueloz
 
 [RANK_AVATAR_CONTENT_TITLE_61501]
-武侠国风
+Disciplina tradicional
 
 [RANK_AVATAR_CONTENT_CONTENT_61501]
-千秋万载，一统江湖！
+Mil otoños son suficientes para unir el mundo
 
 [rank_avatar_diy_42]
-惊喜派对
+Fiesta sorpresa
 
 [rank_avatar_diy_43]
-武侠国风
+Disciplina tradicional
 
 [HERO_CAPE_1]
-英雄披风
+Capa de héroe
 
 [HERO_CAPE_1_DES]
-某位著名英雄所穿戴的披风，还存留着英雄的力量。
+Una capa usada por un héroe famoso, aun conserva su poder
 
 [HERO_CAPE_1_BOOST_DES]
-效果：1.攻击力增加5%   2.种植冷却时间缩短12%    3.未解锁
+Efectos: 1) Daño +5% 2) Recarga rápida +12% 3) Bloqueado.
 
 [HERO_CAPE_1_BOOST_DES_1]
-效果：1.攻击力增加10%   2.种植冷却时间缩短15%    3.未解锁
+Efectos: 1) Daño +10% 2) Recarga rápida +15% 3) Bloqueado.
 
 [HERO_CAPE_1_BOOST_DES_2]
-效果：1.攻击力增加15%   2.种植冷却时间缩短18%    3.未解锁
+Efectos: 1) Daño +15% 2) Recarga rápida +18% 3) Bloqueado.
 
 [HERO_CAPE_1_BOOST_DES_3]
-效果：1.攻击力增加20%   2.种植冷却时间缩短20%    3.四阶大招概率增加5%
+Efectos: 1) Daño +20% 2) Recarga rápida +20% 3) Despertar +5%
 
 [HERO_CAPE_1_BOOST_DES_4]
-效果：1.攻击力增加25%   2.种植冷却时间缩短25%    3.四阶大招概率增加10%
+Efectos: 1) Daño +25% 2) Recarga rápida +25% 3) Despertar +10%
 
 [HERO_CAPE_1_BOOST_DES_5]
-效果：1.攻击力增加30%   2.种植冷却时间缩短30%    3.四阶大招概率增加15%
+Efectos: 1) Daño +30% 2) Recarga rápida +30% 3) Despertar +15%
 
 [AGAVE_SKILL_LEVEL5]
-破空裂斩
+Nivel 5
 
 [AGAVE_SKILL_LEVEL5_DES]
-龙舌兰在蓄满后，攻击范围扩大，锁定本行内的首个僵尸，对其所在格及向右一格发出多次斩击。
+^DB8117^Ondas cortantes:^oldclr^ el ataque cargado libera varios cortes que dañan al primer zombi de la línea.
 
 [TWINSHONEYSUCKLE_FAMILY]
-忍冬科
+Caprifoliaceae
 
 [TWINSHONEYSUCKLE_GENUS]
-忍冬属
+Lonicera
 
 [TWINSHONEYSUCKLE_PEDIA]
-金银花：藤蔓上的日月双花
-常绿或半常绿缠绕藤本。
-茎蔓长可达10米；叶片对生，卵形至矩圆状卵形；花朵花通常成对生于腋生的总花梗顶端（称为“双花”），花冠筒状二唇形，初开为白色，2-3天后渐变为黄色，故称“金银花”，具淡雅清香；果实球形，成熟时蓝黑色。花期4-6月（秋季亦常开花），果期8-11月。
-因其冬季叶片不凋落的特性，又名“忍冬”（《中国植物志》选用的中文名）。原产中国、日本和朝鲜半岛，我国大多省份均有分布，常见于山坡、林缘、篱笆等处，而在北美洲被引进后逸生成为难除的杂草。其花蕾具清热解毒、消炎退肿功效，为“双黄连口服液”“银翘散”等核心成分，晒干可做花茶，茎藤称“忍冬藤”，也供药用。
-花语：双生不离
+La madreselva (Lonicera japonica) es una planta trepadora originaria del este de Asia. Se caracteriza por sus tallos delgados y flexibles, y por sus flores fragantes de color blanco que se tornan amarillas con el tiempo. Es valorada tanto por su uso ornamental como por sus propiedades medicinales.
+
+[TWINSHONEYSUCKLE_PEDIA_EXTRA]
+Ha sido cultivada desde hace siglos en China y Japón, donde se apreciaba por su fragancia. En la medicina tradicional china, sus flores se utilizaban para tratar fiebre, infecciones y dolencias respiratorias. A finales del siglo XIX, fue introducida en América del Norte y otras regiones como planta ornamental
 
 [DRACAENA_FAMILY]
-天门冬科
+Asparagaceae (Nolinoideae)
 
 [DRACAENA_GENUS]
-龙血树属
+Dracaena
 
 [DRACAENA_PEDIA]
-剑叶龙血树：石缝中的生命树
-常绿乔木。
-高可达15米；茎粗大，分枝多；叶聚生在茎、枝顶，叶片剑形，薄革质；圆锥花序，花小，乳白色；果实为球形浆果，成熟时橙红色，内含1-3粒种子。花期3月，果期7-8月。
-因其树皮被割破时，分泌的树脂氧化后呈现类似血液的色泽，古人视为“龙血”而得名。干燥后的树脂为中药“血竭”（别名麒麟竭），传统医学认为其具有活血散瘀、止血生肌等功效。原生于中国云南、广西及越南、老挝等地的石灰岩山地，垂直分布于海拔950-1700米，其根系能分泌酸性物质帮助吸收岩矿养分，展现出强大的环境适应力。云南傣族称其为“埋嘎筛”，意为“石缝中的生命树”。在西方，龙血树脂曾被视为神秘材料，用于染料和药剂以及巫术仪式，寄托了人类对自然力量的敬畏。
-花语：坚韧与重生
+La drácena (Dracaena spp.) es una planta ornamental originaria de regiones tropicales de África, Asia y América. Se distingue por sus hojas alargadas y arqueadas, que pueden presentar tonalidades verdes, rojizas o variegadas. Es muy apreciada como planta de interior por su resistencia, bajo mantenimiento y capacidad para purificar el aire.
+
+[DRACAENA_PEDIA_EXTRA]
+Ha sido cultivada desde la antigüedad, donde algunas especies eran valoradas por sus propiedades simbólicas y medicinales. Una de las más conocidas es el árbol dragón, considerada sagrada por los pueblos guanches de las Islas Canarias, quienes utilizaban su savia rojiza en rituales y como medicina.
 
 [RAPEFLOWER_FAMILY]
-十字花科
+Brassicaceae
 
 [RAPEFLOWER_GENUS]
-芸薹属
+Brassica
 
 [RAPEFLOWER_PEDIA]
-油菜：大地的黄金诗行
-一至二年生草本。
-株高可达1.5米；茎直立，分枝性强，稍带粉霜；基生叶羽状深裂，形似莲花座；茎生叶披针形，无叶柄抱茎而生；总状花序在花期成伞房状，花瓣黄色，4枚呈十字形展开；果实为细长角果。 花期3-4月，果期5月。
-嫩叶可食，古称“芸薹”（《中国植物志》中的中文名），种子含油率约40％，为主要油料植物之一，因此得名“油菜”。原产于地中海沿岸与西亚，汉代经丝绸之路传入中国。现全球广泛种植，中国长江流域为最大产区，占世界总产1/4。油菜花田是早春重要的蜜源植物，为传粉网络提供关键生态支持；其根系分泌的硫苷类化合物能有效抑制土传病原菌，与水稻等作物轮作可降低后续作物的化肥需求。
-花语：平凡者的灿烂”、丰收和希望
+Flor aceitosa está basada en la canola (Brassica napus var. napus), una planta originaria de Canadá, desarrollada a partir de variedades de colza. Se cultiva principalmente por sus semillas, que contienen un aceite ligero, ampliamente utilizado en la cocina y en la industria alimentaria.
+
+[RAPEFLOWER_PEDIA_EXTRA]
+Fue desarrollada en Canadá durante la década de los 70 por científicos que buscaban una variedad de colza más apta para el consumo humano, eliminando los compuestos perjudiciales del aceite mediante la modificación genética de la planta. El nombre "canola" proviene de "Canadian oil, low acid". 
 
 [DEODARCEDAR_FAMILY]
-松科
+Pinaceae
 
 [DEODARCEDAR_GENUS]
-雪松属
+Cedrus
 
 [DEODARCEDAR_PEDIA]
-雪松：喜马拉雅山上的来客
-常绿大乔木。
-树高可达50米，胸径3米；树冠幼时呈尖塔形，树皮裂成不规则的鳞片；针叶硬质，三棱形，簇生于短枝顶端；雌雄同株，雄球花长卵圆形，雌球花卵圆形；球果成熟前淡绿色，熟时红褐色，种子近三角状，种翅宽大。我国各地栽培的雪松，雄球花常于第一年秋末抽出，次年早春较雌球花约早一周开放，经人工授粉后，种子能正常发育，球果第二年10月成熟。
-雪松因其针叶表皮被蜡质，在阳光下呈现银白色光泽，远观如披薄雪而得名。原生分布于喜马拉雅山脉西北部至阿富汗一带，在我国长江流域及北方多地作为景观树广泛栽培。其木材坚实致密，可作建筑、桥梁、造船、家具及器具等用。
+Piña de capacitancia está basada en el fruto del cedro (Cedrus spp.), un árbol de gran tamaño, originario de regiones montañosas del Mediterráneo y del Himalaya. Se caracteriza por su tronco recto, hojas en forma de aguja y madera aromática y resistente. Es muy valorado en jardinería, construcción y carpintería fina.
+
+[DEODARCEDAR_PEDIA_EXTRA]
+Desde la antigüedad, el cedro ha sido considerado un árbol sagrado en diversas culturas, como la mesopotámica y la egipcia, que lo utilizaban para templos, barcos y sarcófagos. El cedro del Líbano, es símbolo nacional de ese país y aparece en su bandera. Su durabilidad y aroma lo convirtieron en un recurso altamente apreciado a lo largo de la historia.
 
 [OLIVE_FAMILY]
-木犀科
+Oleaceae
 
 [OLIVE_GENUS]
-橄榄属
+Olea
 
 [OLIVE_PEDIA]
-橄榄：地中海阳光的绿色凝萃
-常绿小乔木。
-高可达10米；树皮灰色；叶革质，披针形，对生，叶面深绿，叶背密被银灰色鳞片；圆锥花序腋生或顶生，花芳香，白色；果椭圆形，成熟时呈紫黑色。花期：地中海气候区4-5月，中国5-6月；果期：10月至次年2月，需霜冻催化油脂积累。
-“橄榄”源于古波斯语“zaytūn”（“油果”），经丝路传入后音译得名；《中国植物志》的中文名为“木犀榄”以别与橄榄科的橄榄。可能原产于小亚细亚，后广栽于地中海地区，现全球亚热带地区都有栽培。其果肉可榨油即橄榄油，因富含不饱和脂肪酸而被WHO列为健康油脂标杆。《圣经》诺亚方舟故事中，鸽子衔回橄榄枝预示灾难结束；希腊神话中，雅典娜以橄榄树赢得雅典守护神之位，因此象征“和平与胜利”，故奥运会上的冠军花环均用橄榄枝编制。
-花语：和平与胜利
+Oliva de aceite se basa en el fruto del olivo (Olea europaea), un árbol originario del Mediterráneo, conocido por sus hojas grisáceas. Se cultiva principalmente por su aceite, el cual se extrae de la semillas del fruto. El aceite de oliva es fundamental en la dieta mediterránea.
+
+[OLIVE_PEDIA_EXTRA]
+El olivo ha sido cultivado desde hace más de 6.000 años, especialmente en civilizaciones antiguas como la griega, romana y fenicia. Fue símbolo de paz, sabiduría y prosperidad; su aceite se usaba en rituales, medicina y alimentación. Su expansión acompañó la difusión de la cultura mediterránea por Europa y el mundo.
 
 [ELECTRICITEA_FAMILY]
-山茶科
+Theaceae
 
 [ELECTRICITEA_GENUS]
-山茶属
+Camellia
 
 [ELECTRICITEA_PEDIA]
-茶：东方树叶的生命密码
-常绿灌木或小乔木。
-高1-3米，野生种可达10米；叶革质，长圆形或椭圆形，边缘有锯齿；花1-3朵腋生，白色，花瓣5-6枚，雄蕊多数，雌蕊单生，柱头3裂；蒴果3球形，成熟时裂开。花期为10月至翌年2月，果实次年秋季成熟，但人工茶园多修剪控制结果。
-“茶”字源于巴蜀古方言“槚”（jiǎ），唐代陆羽《茶经》统一称“茶”。绿茶因杀青工艺（高温钝化酶活性）保留叶绿素得名，与发酵茶（红茶、乌龙茶）形成对比。其野生种遍见于长江以南各省的山区，现广泛种植于北纬18°-37°的亚热带山地，栽培品种毛被及叶型变化大。
-花语：谦逊的馈赠
+El té (Camellia sinensis) es una planta originaria del este asiático, cultivada por sus hojas jóvenes, que se procesan para elaborar distintas variedades de té (verde, negro, blanco, entre otros). Tiene hojas brillantes, flores blancas y crece en climas templados y húmedos. Es la base de una de las bebidas más consumidas del mundo.
+
+[ELECTRICITEA_PEDIA_EXTRA]
+Se ha cultivado en China desde hace más de 4.000 años, donde inicialmente se utilizaba con fines medicinales. Su consumo se expandió a Japón, luego a Europa en el siglo XVII y, más tarde, a las colonias británicas como India y Sri Lanka. Hoy, el té es una bebida culturalmente significativa en numerosos países.
 
 [HYDROCOTYLEDRUMMER_FAMILY]
-五加科
+Apiaceae (Araliaceae)
 
 [HYDROCOTYLEDRUMMER_GENUS]
-天胡荽属
+Hydrocotyle
 
 [HYDROCOTYLEDRUMMER_PEDIA]
-野天胡荽：湿地的绿色铜钱草
-多年生草本。
-茎细长匍匐，节处生根；叶片圆形或肾形，直径1-4厘米，边缘浅裂呈波浪状，形似迷你香菇伞盖，叶面光滑；伞形花序腋生，小花白色或淡绿色，花瓣5枚；果实为双悬果，扁圆形，表面具纵棱。花期5-8月，果期8-10月。
-因其圆形叶片形似铜钱，民间俗称“铜钱草”，亦像香菇菌盖又名“香菇草”。原产欧洲、北非及西亚的溪边湿地，18世纪作为观赏植物引入东亚。其能快速覆盖水域表面，减少水土流失，其根系可吸收水体过剩氮磷元素，对富营养化水域的藻类繁殖具有抑制作用。但其入侵性强，在北美、澳洲等地已形成生态威胁。人工栽培时需设置物理隔离带，定期修剪避免种子扩散。
-花语：随遇而安、聚财纳福、和谐圆满
+Hierbaterista está inspirada en alguna especie del género Hydrocotyle, compuesto por herbáceas acuáticas o semiacuáticas, conocidas comúnmente como "oreja de ratón" por la forma de sus hojas. Crecen en ambientes húmedos y pantanosos, muchas especies se usan en acuarios o como plantas medicinales.
+
+[HYDROCOTYLEDRUMMER_PEDIA_EXTRA]
+Las especies de Hydrocotyle han sido utilizadas tradicionalmente en distintas culturas para tratar problemas circulatorios y de la piel. Su capacidad para crecer en ambientes acuáticos les permitió dispersarse globalmente. En horticultura y acuarios, se valoran por su resistencia y estética, ganando popularidad en tiempos recientes.
 
 [ALOES_FAMILY]
-阿福花科
+Asphodelaceae
 
 [ALOES_GENUS]
-芦荟属
+Aloe
 
 [ALOES_PEDIA]
-芦荟：沙漠中的绿色医生
-多年生肉质草本。
-剑形叶片呈莲座状排列，表面覆盖蜡质角质层，能有效反射强烈阳光并减少水分蒸发。叶片内部充满透明凝胶状组织，可储存大量水分，使其在极端干旱条件下存活数月。光合作用采用景天酸代谢（CAM）途径，夜间吸收二氧化碳来减少水分流失。叶边缘的刺既有防御功能，又能收集夜间空气中的冷凝水。总状花序，花橙黄色；蒴果呈三棱柱形，成熟后裂开释放种子。花果期集中在春夏季（5-7月）。
-“芦”喻其叶似芦苇丛生，“荟”取“聚集”之意（宋《开宝本草》）。原产于阿拉伯半岛及非洲东北部干旱地区，古埃及人发现芦荟的凝胶状汁液具有强大的防腐和修复作用，用作外伤治疗和制作木乃伊的防腐剂，称其为“不朽之血”，据传埃及艳后克里奥帕特拉还将芦荟汁作为护肤品和防晒剂。现广布全球热带、亚热带地区，中国福建、云南等地大量栽培，用作观赏及药用。
-花语：洁身自爱、不受干扰
+El aloe (Aloe vera) es una suculenta originaria de regiones áridas de África y la península arábiga. Se caracteriza por sus hojas carnosas, verdes y espinosas, llenas de un gel transparente utilizado en cosmética y medicina. Es muy apreciada por su resistencia y propiedades curativas.
+
+[ALOES_PEDIA_EXTRA]
+Ha sido usado desde la antigüedad en Egipto, Grecia y Roma por sus beneficios para la piel, heridas y quemaduras. Fue difundido por comerciantes árabes y europeos, convirtiéndose en un remedio popular en todo el mundo. Actualmente, su gel es un ingrediente común en productos de cuidado personal y salud natural.
 
 [NARCISSUSSHOOTER_FAMILY]
-石蒜科
+Amaryllidaceae
 
 [NARCISSUSSHOOTER_GENUS]
-水仙属
+Narcissus
 
 [NARCISSUSSHOOTER_PEDIA]
-水仙：冬日自恋的“凌波仙子”
-多年生草本植物。
-株高约40厘米；鳞茎卵球形；叶基生，长带状；伞形花序顶生，3-8朵花，具淡雅清香；花瓣6片，白色，中心具杯状金黄色副花冠；雄蕊6枚，雌蕊单生。副花冠既能形成物理屏障保护花蕊，鲜艳的颜色又能吸引传粉昆虫。此外，水仙属不同物种的副花冠形态各异，帮助其吸引不同的传粉昆虫，实现资源分割。蒴果室背开裂，种子近球形。花果期为12月至翌年3月。
-原产于地中海沿岸，约唐代经丝绸之路传入中国，现见浙江、福建沿海岛屿。作为我国冬季室内水培花卉代表，因其清丽脱俗而被誉为“凌波仙子”。西方神话中，绝美少年Narcissus痴恋水中自己倒影，终日枯坐池畔而亡化为了水仙花，因此水仙花和“自恋”同名为“Narcissus”。其鳞茎有毒，含生物碱可提取药用成分。国内所见多为三倍体栽培品种，难自然结实，以鳞茎分株繁殖。
-花语：思念与纯洁（中国），自恋与重生（西方）。
+El narciso (Narcissus spp.) es una planta originaria de Europa y el norte de África, famosa por sus flores vistosas y fragantes, generalmente blancas o amarillas, con una corona central característica. Florece en primavera y es muy popular en jardines y arreglos florales.
+
+[NARCISSUSSHOOTER_PEDIA_EXTRA]
+Ha sido símbolo de belleza y renacimiento en la mitología y cultura occidental desde la antigüedad, especialmente en la mitología griega. Su cultivo se remonta a siglos atrás, extendiéndose por Europa y Asia como planta ornamental. Hoy es apreciado por su variedad y fácil adaptación a distintos climas.
 
 [TULIPTRUMPETER_FAMILY]
-百合科
+Liliaceae
 
 [TULIPTRUMPETER_GENUS]
-郁金香属
+Tulipa
 
 [TULIPTRUMPETER_PEDIA]
-郁金香：春日的绚烂号手
-多年生草本植物。
-株高约50厘米，具卵球形鳞茎；叶3-5枚，披针形；花单生于茎顶，花瓣6片，形似高脚杯，花色丰富；蒴果圆柱状，有三棱，成熟时开裂，种子扁平。因所见皆园艺品种，需用鳞茎分株繁殖才能保留亲本的观赏性状。花果期为春季。
-原产于中亚及地中海沿岸，其名“Tulip”源于土耳其语“Tülbent”（头巾），因其杯状花型与其相似。16世纪经土耳其传入欧洲，后由荷兰发扬光大，引进我国时因形似姜科的郁金而得名。在17世纪荷兰“郁金香狂热”中，稀有品种的球茎价格堪比豪宅，成为史上首个经济泡沫案例。现为荷兰国花及主要经济作物，为世界春季常用观赏花卉。其鳞茎含少量生物碱可入药，有毒勿自行食用。
-花语：炽热的爱(红色)、永恒的深情（紫色）、失恋后的新生（白色）、阳光与友谊（黄色）
+El tulipán (Tulipa spp.) es una planta originaria de Asia Central, conocida por sus flores grandes y vistosas. Florece en primavera, y es muy apreciado tanto en jardinería como en la floristería. Su forma característica de copa lo hace fácilmente reconocible.
+
+[TULIPTRUMPETER_PEDIA_EXTRA]
+Fue cultivado primero en el Imperio Otomano y llegó a Europa en el siglo XVI, donde rápidamente se convirtió en símbolo de lujo y estatus. Durante el siglo XVII, en Holanda, desató la famosa "tulipomanía", una de las primeras burbujas económicas documentadas. Actualmente, sigue siendo una flor emblemática y un importante producto comercial.
 
 [PASSIONFLOWER_FAMILY]
-西番莲科
+Passifloraceae
 
 [PASSIONFLOWER_GENUS]
-西番莲属
+Passiflora
 
 [PASSIONFLOWER_PEDIA]
-西番莲：热带藤蔓上的奇迹之花
-多年生常绿草质藤本植物。
-茎圆柱形，具卷须，可攀附至数米高；叶片掌状5深裂；花朵与卷须对生；萼片和花瓣各5枚，淡绿色；外副花冠裂片3轮，丝状，内副花冠流苏状；雌雄蕊基部合生形成雌雄蕊柄，雄蕊5枚，子房卵圆球形，花柱3枚，紫红色；浆果卵圆形，成熟时橙黄色或紫红色。花期5-7月；果期因品种而异。
-原产于南美洲，约17世纪经欧洲传入中国，又因花形似莲而得名“西番莲”。其属学名为“Passiflora”，源自拉丁语“flospassionis”（耶稣受难之花），因17世纪在南美洲的西班牙牧师传教士将其花朵结构代表基督受难的各种象征。现广泛分布于全球热带及亚热带地，中国广西、云南、广东等地已规模化引种栽培，偶见逸生于湿润山林。其花大而奇特，可作庭园观赏植物；全草可入药，具有祛风消热等功效。
-花语：虔诚之心，憧憬
+La pasionaria (Passiflora edulis) es una planta trepadora originaria de América del Sur. Produce frutos con una pulpa de sabor dulce o ácido, utilizada en jugos y postres. Sus flores son grandes y llamativas.
+
+[PASSIONFLOWER_PEDIA_EXTRA]
+Ha sido cultivada por pueblos indígenas sudamericanos desde tiempos precolombinos por su sabor y propiedades medicinales. Fue difundida por exploradores europeos y hoy se cultiva ampliamente en regiones tropicales de todo el mundo. Su fruto es valorado tanto en la gastronomía como en la industria de bebidas.
 
 [LOTUSSHOOTER_FAMILY]
-莲科
+Nelumbonaceae
 
 [LOTUSSHOOTER_GENUS]
-莲属
+Nelumbo
 
 [LOTUSSHOOTER_PEDIA]
-藕：淤泥中的白玉走廊
-藕是莲（俗称荷花）的地下茎，呈圆柱形，节部缢缩，上生黑色鳞叶，下生须状不定根。具放射状通气孔道适应水下缺氧环境。其断裂时会有“藕断丝连”的现象，拉出的丝为导管壁的螺纹状纤维，主要起支持导管的作用。秋冬成熟的藕长可达1.5米，重达5公斤，淀粉含量高达20%，堪称“水下粮仓”。虽可用莲子繁殖，但农业生产多采用藕节顶芽进行无性繁殖，保留品种优良性状。
-“藕”取“草”字头与“耦”（双生之意），暗喻其节节相连。我国食用藕的历史悠久，早在新石器时代河姆渡遗址已发现碳化藕粉。因“藕”与“偶”谐音，寓意“佳偶天成”，常用于婚庆仪式中。而在水域生态中，藕的根状茎网络可稳定底泥、吸收沉积物中的营养盐，减少水体富营养化；其孔道结构促进水体-底泥间的氧气交换，为鱼虾等水生动物改善栖息环境。
+El loto (Nelumbo nucifera) es una planta acuática originaria de Asia que crece en estanques y lagos. Se caracteriza por sus grandes hojas flotantes y flores llamativas de tonos rosados o blancos, que se elevan por encima del agua. Su fruto contiene semillas comestibles, los rizomas también se consumen como alimento.
+
+[LOTUSSHOOTER_PEDIA_EXTRA]
+Se considera como planta sagrada desde hace milenios en culturas como la egipcia, india y china, asociada con la espiritualidad, el renacimiento y la divinidad. Fue representado en templos, mitos y arte religioso. Además de su valor simbólico, se cultiva por sus semillas y raíces comestibles.
 
 [WITCHHAZEL_FAMILY]
-金缕梅科
+Betulaceae
 
 [WITCHHAZEL_GENUS]
-金缕梅属
+Corylus
 
 [WITCHHAZEL_PEDIA]
-金缕梅：古老的魔法护肤精灵
-落叶灌木或小乔木。
-高可达8米；嫩枝有星状绒毛；叶宽倒卵圆形，边缘具波状锯齿；花数朵形成头状或短穗状花序，花瓣4枚，黄色带状。蒴果卵圆形，成熟时果皮暴裂将种子弹射出去，完成种子传播。花期12月至翌年3月，果期9-11月。
-因花瓣如金丝缕、冬季绽放远观似蜡梅而得名。原产中国长江流域的中海拔次生林或灌丛中，是我国特有的第三纪孑遗植物。它的英文名为“Chinese Witch Hazel”，因美洲原住民会用当地的北美金缕梅用于占卜（Witch）和皮肤消炎（现仍是众多护肤品牌青睐的成分），其叶形似榛树（Hazel）。作为极少数冬季开花的温带植物，金缕梅为早春前的传粉昆虫提供珍贵蜜源，维系生态链的连续性。
-花语：灵感，抚慰伤痕
+La avellana (Corylus avellana), es el fruto de un árbol pequeño originario de Europa y Asia occidental. Los frutos se comen una vez secos, estos tienen una cáscara dura y son muy utilizados en la repostería y la industria alimentaria por su sabor dulce.
+
+[WITCHHAZEL_PEDIA_EXTRA]
+Las avellanas han sido consumidas por el ser humano desde tiempos prehistóricos en Europa, siendo una fuente importante de alimento. Fueron cultivadas extensivamente por griegos y romanos, y más tarde se expandieron a otras regiones templadas. Hoy en día, Turquía es el principal productor mundial de avellanas.
 
 [CACTUS_FAMILY]
-仙人掌科
+Cactaceae
 
 [CACTUS_GENUS]
-仙人掌属
+Diversos
 
 [CACTUS_PEDIA]
-仙人掌：荒漠中的生存大师
-丛生肉质灌木。
-作为沙漠植物的代表，演化出独特的抗旱结构：肉质茎替代叶片进行光合作用，肥厚的茎部充满储水组织，表面覆盖蜡质层以减少水分蒸发；叶片退化形成刺，既可防御动物啃食，又能遮挡烈日、凝结露水。光合作用采用景天酸代谢（CAM）途径，白天关闭气孔防止水分蒸发，夜间才打开气孔吸收二氧化碳，极大提升水分利用效率。花朵常生于茎顶，色彩艳丽；浆果倒卵球形，顶端凹陷，多汁而吸引动物取食帮其传播种子。花果期为6-10（-12)月。
-“仙人掌”源于其形态似神话中仙人的手掌得名，原产美洲，从加拿大至阿根廷均有分布，墨西哥为多样性中心（占全球1/3种类）。它是干旱区的“生命绿洲”：其茎为蜥蜴、鸟类提供荫蔽，花朵支撑传粉网络，果实滋养动物。枯死后木质化骨架仍可固沙，防止荒漠扩张。16世纪大航海时代后，被引种至非洲、澳洲等地，部分归化为入侵物种。我国于明末引种，栽培用作观赏或围篱，部分地区逸为野生。
-花语：坚韧与希望、隐忍守护的爱情、孤勇者的浪漫
+Los cactus son plantas suculentas originarias de América, adaptadas a climas áridos y secos. Se caracterizan por sus tallos que almacenan agua y la presencia de espinas en ellos, generalmente no tienen hojas. Algunas especies producen flores y frutos comestibles, como la tuna.
+
+[CACTUS_PEDIA_EXTRA]
+Han sido utilizados desde tiempos precolombinos por culturas indígenas para alimentación, medicina y construcción. Con la llegada de los europeos a América, fueron llevados a Europa como plantas exóticas. Hoy en día se cultivan tanto con fines ornamentales como agrícolas en muchas partes del mundo.
 
 [ROSESWORDMAN_FAMILY]
-蔷薇科
+Rosaceae
 
 [ROSESWORDMAN_GENUS]
-蔷薇属
+Rosa
 
 [ROSESWORDMAN_PEDIA]
-玫瑰：美丽芬芳的刺客
-落叶灌木。
-高1-2米；茎干密生皮刺，叶片为羽状复叶，小叶5-9片，叶面皱褶明显；花单生或数朵簇生叶腋，多为重瓣或半重瓣，紫红色或白色，香气浓郁；果实扁球形，红色，肉质。花期5-6月，果期8-9月。
-“玫，石之美者；瑰，珠圆好者”（《说文解字》）。玫瑰因花色如玫，花型饱满如瑰而得名，一说因果实红而圆润得名。与月季相比，其全株密被刺，叶小且皱褶明显，并且叶柄和背部叶脉也具刺。原产中国东北、朝鲜半岛及日本，现广泛栽培于温带地区。除了用于观赏，其花瓣可提取精油；干花可制茶、蜜饯，具疏肝解郁之效；果实富含维生素C，可入药或加工为保健食品。
+La rosa (Rosa spp.) es un arbusto originario del hemisferio norte, conocido por sus flores fragantes y vistosas, disponibles en una amplia gama de colores. Posee tallos con espinas y hojas compuestas. Es una de las flores más cultivadas del mundo, símbolo universal del amor y la belleza.
+
+[ROSESWORDMAN_PEDIA_EXTRA]
+Las rosas han sido cultivadas desde hace más de 5.000 años en Asia, especialmente en China y Persia, donde se valoraban por su aroma y propiedades medicinales. Fueron introducidas en Europa durante la antigüedad clásica, hoy en día, existen miles de variedades utilizadas en jardinería, perfumería y eventos simbólicos.
 
 [ANTHURIUM_FAMILY]
-天南星科
+Araceae
 
 [ANTHURIUM_GENUS]
-花烛属
+Anthurium
 
 [ANTHURIUM_PEDIA]
-花烛：热情的“红掌”
-多年生常绿草本植物。
-叶片自基部簇生，呈长圆状心形；花序基部为心形革质苞片，因其颜色鲜红而名佛焰苞（天南星科植物典型特征），现亦有粉、白、绿等栽培品种，中央直立肉穗花序，密布微小花朵，雌雄异花异熟，雌花（基部）先成熟，雄花（顶部）后熟，避免自花授粉，促进异交；果实为球形浆果。自然花果期以春夏为主，温室栽培可全年开花。
-因花序形态似蜡烛而得名，其属名“Anthurium”源自希腊语“anthos（花）+oura（尾巴）”，故有音译名“安祖花”，另有红掌、火鹤花等别名。原产于南美洲热带雨林，现广植于全球热带及亚热带地区。在中南美原住民文化中，红掌被视作热情与生命的象征，常用于宗教仪式。我国多作室内观赏栽培，亦为热门年宵花卉，需注意植株汁液含微毒，避免误食或直接接触汁液引发过敏反应。
-花语：热情奔放、大展宏图。
+El anturio (Anthurium spp.) es una planta tropical originaria de América Central y del Sur, apreciada por sus hojas brillantes y sus inflorescencias llamativas, formadas por una espata colorida (roja, rosada, blanca o verde) y un espádice central. Es muy usada como planta ornamental en interiores y arreglos florales.
+
+[ANTHURIUM_PEDIA_EXTRA]
+Descubierto por exploradores europeos en las selvas tropicales del continente americano, el anturio fue introducido a la horticultura mundial en el siglo XIX. Desde entonces, ha sido objeto de numerosos cultivares ornamentales. Su resistencia y apariencia exótica lo han convertido en una de las plantas de interior más populares del mundo.
 
 [DOUBLESAMARA_FAMILY]
-蔷薇科
+Rosaceae
 
 [DOUBLESAMARA_GENUS]
-枇杷属
+Eriobotrya
 
 [DOUBLESAMARA_PEDIA]
-枇杷：跨越四季的润肺金果
-常绿小乔木。
-树高可达10米，树冠呈圆锥形或扁球形；叶片革质，披针形，叶面深绿色，叶背密被灰棕色绒毛；圆锥花序顶生，花白色，花瓣5枚，雄蕊20枚，花柱5裂；果实为球形或长圆形浆果，成熟时橙黄色，表皮覆盖锈色柔毛，内含1-5粒褐色种子。花期为10-12月，果期为翌年5-6月。
-因叶片形似中国传统乐器琵琶而音形结合得名“枇杷”，原产于中国东南部，现广泛分布于甘肃、陕西至华南、西南等20余省区，日本、东南亚亦有栽培。可做观赏树木和果树；叶可供药用，有化痰止咳等之效；木材可作木梳、手杖、农具柄等用。
-花语：陪伴、治愈
+El níspero (Eriobotrya japonica) es un árbol originario del sudeste de China. Posee hojas grandes y produce frutos pequeños, con pulpa de sabor dulce o agridulce al madurar. Florece en otoño, sus frutos maduran a finales del invierno o primavera.
+
+[DOUBLESAMARA_PEDIA_EXTRA]
+Fue cultivado en China desde hace más de mil años y posteriormente introducido en Japón, donde se mejoraron muchas de sus variedades. Llegó a Europa en el siglo XVIII y se difundió por regiones de clima templado. Hoy se cultiva ampliamente en países mediterráneos y América Latina por su sabor y valor nutricional.
 
 [RAFFLESIA_FAMILY]
-大花草科
+Rafflesiaceae
 
 [RAFFLESIA_GENUS]
-大花草属
+Rafflesia
 
 [RAFFLESIA_PEDIA]
-大王花：雨林中的腐艳巨无霸
-花朵直径可达1米，被誉为“世界花王”。 雌雄异株，其花瓣厚实如腐肉，呈暗红色带白色斑点，散发浓烈尸臭来特异性吸引食腐昆虫来传粉。最奇特的是它无根、茎、叶，一生寄生在热带藤本植物（如崖爬藤）体内，仅开花时露出地面。大王花从宿主汲取营养数年，花苞孕育需9个月，开花仅持续5-7天。花朵凋谢后结出网球大小的果实，内含数千种子，由果蝠或松鼠传播。其种子萌发需精准落入宿主根部裂隙，生存率极低，国际自然保护联盟（IUCN）评估显示，已知的42种大王花中，有25种处于濒危状态。
-大王花现中文名又称大花草，原产于印尼苏门答腊、马来半岛等地的低海拔热带雨林。其学名Rafflesia arnoldi 源自其发现者的名字合称，19世纪英国探险家Stamford Raffles与博物学家Joseph Arnold二人于1818年首次科学记录这一物种，让此雨林奇观走向世界。
-花语：独自孤傲
+La rafflesia (Rafflesia arnoldi) es una planta parásita originaria del sudeste asiático, conocida por producir las flores más grandes del mundo. No tiene hojas, tallos ni raíces, ya que vive dentro de otras plantas. Sus flores emiten un fuerte olor a carne podrida para atraer insectos.
+
+[RAFFLESIA_PEDIA_EXTRA]
+Su nombre científico deriva de los nombres de sus descubridores. El explorador británico del siglo XIX Stamford Raffles y el naturalista Joseph Arnold documentaron científicamente por primera vez esta especie en 1818, dando a conocer al mundo esta maravilla de la selva tropical.
 
 [LOTUSSHOWER_FAMILY]
-莲科
+Nelumbonaceae
 
 [LOTUSSHOWER_GENUS]
-莲属
+Nelumbo
 
 [LOTUSSHOWER_PEDIA]
-莲蓬：水泽中的生命摇篮
-莲蓬是莲（俗称荷花）的花托膨大形成的聚合果。其形似倒置的圆锥，表面密布窝状孔洞，每孔嵌一粒果实，俗称莲子。幼时果皮青绿，成熟黑褐色且变致密坚硬，能够有效隔绝水分、空气和微生物的侵入，极大地减缓了种子内部物质的代谢消耗，使其进入长期休眠状态，是宋代古莲子可休眠千年仍发芽的重要因素。随着莲子的成熟，莲蓬也会逐渐变干枯呈现黑褐色，脱落入水，因其疏松多孔浮力大，如同承载莲子的小船，借水流将其传播出去。
-莲原产亚洲热带至温带水域，中国长江流域、印度恒河平原为原生中心。其幼嫩的莲子可生食或煮食，莲心（胚）可做茶饮。莲蓬因“花开见果”的特性，被赋予“因果同时”“生生不息”的哲学寓意。佛教视其为“莲台”，象征涅槃重生；民间以“莲蓬多子”祈愿子孙绵延。
+El loto (Nelumbo nucifera) es una planta acuática originaria de Asia que crece en estanques y lagos. Se caracteriza por sus grandes hojas flotantes y flores llamativas de tonos rosados o blancos, que se elevan por encima del agua. Su fruto contiene semillas comestibles, los rizomas también se consumen como alimento.
+
+[LOTUSSHOWER_PEDIA_EXTRA]
+Se considera como planta sagrada desde hace milenios en culturas como la egipcia, india y china, asociada con la espiritualidad, el renacimiento y la divinidad. Fue representado en templos, mitos y arte religioso. Además de su valor simbólico, se cultiva por sus semillas y raíces comestibles.
 
 [BANANA_FAMILY]
-芭蕉科
+Musaceae
 
 [BANANA_GENUS]
-芭蕉属
+Musa
 
 [BANANA_PEDIA]
-香蕉：热带丛林的智慧之果
-多年生草本植物。
-由小果野蕉和野蕉种内、种间自然或人工杂交形成的各类栽培品种；植株丛生，高2-5米，由层叠的叶鞘构成“伪茎”；叶片长圆形，长可达2.5米，叶面深绿，具平行叶脉；花序顶生，下垂；苞片红褐色或紫色；雄花生于花序上部，雌花生于花序下部；果实呈月牙形，香甜软糯。热带地区可全年开花结果，温带果期多集中于夏秋。
-因其形似芭蕉，果实香甜得名“香蕉”，广泛栽培于中国南部及东南亚。佛教传说释迦牟尼食蕉后获智慧，故称“智慧之果”。其果肉富含钾、维生素B6及膳食纤维，可鲜食、制干或深加工为奶昔、冻干等产品，全球年消费超千万吨。因杂交形成，故无籽，主要通过分株进行繁殖。
-花语：智慧的源泉、丰饶的馈赠
+Lanzaplátanos está basado en el plátano (Musa spp.), una herbácea gigante originaria del sudeste asiático. Produce racimos de frutos comestibles muy valorados en todo el mundo, estos son ricos en almidón y azúcares, se ingieren hervidos o fritos cuando están verdes y frescos o en postres una vez maduros.
+
+[BANANA_PEDIA_EXTRA]
+Cultivado desde hace más de 7.000 años en regiones tropicales de Asia, el plátano fue difundido por rutas comerciales hacia África y América. Con la colonización europea, se volvió esencial en muchas economías tropicales. Hoy es uno de los cultivos alimentarios más importantes del planeta, con miles de variedades entre plátanos dulces y de cocinar.
 
 [PAMEGRANATE_FAMILY]
-千屈菜科
+Lythraceae
 
 [PAMEGRANATE_GENUS]
-石榴属
+Punica
 
 [PAMEGRANATE_PEDIA]
-石榴：来自安息国的吉祥果
-落叶灌木或小乔木。
-树高通常3-5米；枝顶常成尖锐长刺；叶通常对生，纸质，矩圆状披针形；花1-5朵生枝顶；花萼革质，通常红色或淡黄色；花瓣红色、黄色或白色；浆果近球形，种子多数，肉质的外种皮供食用。花期5-7月；果期9-10月。
-原产伊朗至喜马拉雅山脉，现全世界的温带和热带均有种植。汉代张骞出使西域引入中原，古称“安石榴”，“安”即安息国（现伊朗地区），“石”可能形容果实坚硬如石，或音译其波斯名“asak”的部分发音，或“榴者，瘤也，丹实垂垂如赘瘤也”（《本草纲目》）。除了食用外，其果皮和根皮入药，树皮、根皮和果皮均含多量鞣质，可提制栲胶。在我国，“榴开百子”象征家族兴旺，使其成为婚庆必备吉祥物。
-花语：成熟之美、子孙满堂、富贵
+La granada (Punica granatum) es un arbusto originario de la región del Mediterráneo y Asia occidental. Produce frutos redondos con una cáscara gruesa y pulpa jugosa llena de semillas comestibles, de sabor dulce y ligeramente ácido. Es apreciada tanto por su valor ornamental como nutricional.
+
+[PAMEGRANATE_PEDIA_EXTRA]
+Ha sido cultivada desde hace más de 4,000 años, teniendo un papel importante en mitologías y culturas antiguas como la egipcia, griega y romana. Fue símbolo de fertilidad y abundancia, y su cultivo se expandió a través de Asia, Europa y América. Hoy en día, es un fruto popular en gastronomía y medicina natural.
 
 [DANDELION_FAMILY]
-菊科
+Asteraceae
 
 [DANDELION_GENUS]
-蒲公英属
+Taraxacum
 
 [DANDELION_PEDIA]
-蒲公英：随风播撒的生命诗篇
-多年生草本植物。
-株高约20厘米；根呈圆锥状，棕褐色；叶片基生，（倒向）羽状深裂或具波状齿；头状花序顶生，具花数十朵，舌状花黄色；瘦果披针形，暗褐色，顶冠白色毛，可帮助果实随风飘向远方，开拓新的生存空间。花果期4-10月。
-其名来源于一传说，蒲员外之女公英因患“乳痈”（乳腺炎）而亡，次年坟上开出此花救治了很多类似病人，因此以其名命之。此传说表明了蒲公英的药效，中医常用其治疗乳腺炎、肝炎及目赤肿痛。它原产中国北部、朝鲜半岛及俄罗斯等地，现广泛分布于全球温带地区。在很多地方，其常被当做“许愿花”，对着绒球般的果序许愿后将其吹散，让承载梦想的种子自由飞翔。
-花语：无法停留的爱、随遇而安的勇气
+El diente de león (Taraxacum officinale) es una herbácea originaria de Europa y Asia, reconocida por sus flores amarillas y sus semillas blancas que se dispersan con el viento. Crece en praderas y jardines, es conocida también por sus hojas comestibles.
+
+[DANDELION_PEDIA_EXTRA]
+El diente de león ha sido usado desde la antigüedad en la medicina tradicional por sus propiedades diuréticas y digestivas. Se extendió por todo el mundo debido a su resistencia y facilidad de crecimiento, y hoy es común en prácticamente todos los continentes como planta silvestre o medicinal.
 
 [COFFEEBEAN_FAMILY]
-茜草科
+Rubiaceae
 
 [COFFEEBEAN_GENUS]
-咖啡属
+Coffea
 
 [COFFEEBEAN_PEDIA]
-咖啡豆：唤醒世界的深棕种子
-常绿小乔木或大灌木
-咖啡豆是咖啡树（咖啡属植物）种子的俗称，现栽培最广泛的为味道香醇且咖啡因成分较低的小粒咖啡，即阿拉比卡咖啡。其株高可达5-8米；叶片薄革质，卵状披针形；聚伞花序数个簇生于叶腋内，花冠白色芳香，顶部常5裂；果实为椭圆形浆果，成熟时呈红色或紫红色，内含两粒种子。花期3-4月，果实成熟需要6-9个月，因气候不同而有差异。
-原产埃塞俄比亚卡法森林（Kaffa）而得名“咖啡”，当地传说是牧羊人因羊吃咖啡果后兴奋而发现其提神功效。约9-15世纪，经也门传入阿拉伯半岛，当地人首创烘焙、研磨咖啡豆并煮饮的方法，称其为“qahwa”（意为“使人清醒的饮料”）。威尼斯商人于1615年将咖啡引入欧洲，之后殖民扩张将其带至中南美、东南亚，现全球已形成“咖啡带”（南北纬25°之间），现咖啡与可可、茶为世界三大饮料。
-花语：清醒的灵魂、瞬间的永恒
+Grano de café está claramente basado en el café (Coffea spp.), un arbusto tropical originario de África, cultivado por sus semillas, que se tuestan y muelen para preparar una de las bebidas más consumidas del mundo.
+
+[COFFEEBEAN_PEDIA_EXTRA]
+El consumo de café comenzó en Etiopía y se popularizó en el mundo árabe durante la Edad Media. Su cultivo se expandió a Asia, América y el Caribe con la colonización europea. Actualmente, es una de las principales materias primas agrícolas del comercio internacional, con Brasil, Vietnam y Colombia entre los mayores productores.
 
 [BLOVER_FAMILY]
-豆科
+Fabaceae (Leguminosae)
 
 [BLOVER_GENUS]
-车轴草属
+Trifolium
 
 [BLOVER_PEDIA]
-三叶草：幸运的绿色信使
-短期多年生草本，生长期达5年。
-茎匍匐或直立，高10-30厘米；掌状三出复叶，小叶卵圆形，叶面常具白色V形斑纹，夜间会折叠闭合以减少夜间热量的散失；花序球形，花冠白色、乳黄色或淡红色，具香气；荚果长圆形。花果期5-10月。
-因叶片具三片小叶而得名，又因形似车轴，花白色而得名“白车轴草”（《中国植物志》中的中文名）。原产欧洲和北非，现世界各地均有栽培。为优良牧草，抗性极佳，也可作为绿肥、堤岸防护草种、草坪装饰，以及蜜源和药材等用。四叶草是三叶草发生变异产生的，据传在自然界中出现的概率极低，为十万分之一，因此发现四叶草被做为幸运的象征。
-花语：希望、爱与信仰、幸运（四叶草）
+Trebolador está basado en el trébol (Trifolium spp.) es una herbácea pequeña, común en praderas y campos, reconocida por sus hojas de 3 folíolos y flores pequeñas agrupadas en cabezuelas. Es muy valorado en la agricultura como forraje y por su capacidad de fijar nitrógeno en el suelo.
+
+[BLOVER_PEDIA_EXTRA]
+Originario de zonas templadas del hemisferio norte, el trébol ha sido usado durante siglos en la alimentación animal y la mejora de suelos. El trébol de cuatro hojas se considera un símbolo de buena suerte en muchas culturas, mientras que el trébol común es emblema de Irlanda y del cristianismo celta.
 
 [BAMBOO_FAMILY]
-禾本科
+Poaceae (Gramíneas)
 
 [BAMBOO_GENUS]
-竹亚科
+Diversos
 
 [BAMBOO_PEDIA]
-竹笋：破土而出的生命密码
-竹笋是竹类植物的幼嫩茎芽，由地下横走的竹鞭节部萌发。其外层包裹褐色或黄绿色箨壳，密被绒毛或斑点，内藏乳白色笋肉，质地脆嫩。按生长季节和形态可分冬笋（冬季休眠芽，短粗如锥）与春笋（春雨后破土，细长似剑），生长高峰期单日可抽高30厘米以上，展现惊人的爆发力。
-全球竹类90%物种分布于亚洲，中国长江流域为竹笋主产区。“笋”字最早见于甲骨文，上部“竹”表类属，下部“旬”喻其十日成竹的速生特性。《诗经》“其蔌维何，维笋及蒲”印证其3000年食用史。用鲜嫩的笋切片晒干，由于形似玉兰花瓣而被称为“玉兰片”。
+El bambú es una planta de crecimiento rápida perteneciente a la familia de las gramíneas, aunque puede alcanzar tamaños arbóreos. Se caracteriza por sus tallos huecos y segmentados, conocidos como cañas, y hojas alargadas. Es muy valorado por su resistencia y versatilidad en construcción, alimentación y diseño.
+
+[BAMBOO_PEDIA_EXTRA]
+Ha sido utilizado durante milenios en Asia para construir viviendas, fabricar herramientas, instrumentos musicales y como alimento (brotes tiernos). Su uso se ha expandido globalmente por su sostenibilidad y aplicaciones ecológicas. Hoy es símbolo de fortaleza, flexibilidad y crecimiento en muchas culturas orientales.
 
 [TURNIP_FAMILY]
-十字花科
+Brassicaceae
 
 [TURNIP_GENUS]
-萝卜属
+Raphanus
 
 [TURNIP_PEDIA]
-萝卜：土地中的朴拙智者
-二年生草本。
-主根膨大成肉质直根，表皮白、红、绿或紫黑，形状从长锥到圆球各异；茎有分枝，无毛，稍具粉霜；基生叶和下部叶片羽状半裂，上部茎生叶长圆形。总状花序，花白色或粉红色，4瓣呈十字形排列。果实为圆柱形长角果，成熟后果皮木质化，自然裂开散播。花期4-5月，果期5-6月。
-起源于西亚至地中海沿岸，5000年前埃及已栽培。中国《诗经》称“菲”，汉代张骞引入后渐称“莱菔”，后演化为“萝卜”，取“草根丰茂”之意。现全球温带广植，中国年产量占世界40%，山东潍县青萝卜、北京心里美尤为著名。此外，其种子和叶可入药用于消食化痰，种子榨油工业用及食用。
+El rábano blanco (Raphanus sativus var. longipinnatus), es una planta originaria de Asia. Se caracteriza por su raíz de gran tamaño, la cual es comestible y tiene un sabor suave o ligeramente picante, razón por la cual es muy apreciada en la comida tradicional de esa nación.
+
+[TURNIP_PEDIA_EXTRA]
+Originario del sudeste asiático, el rábano blanco ha sido cultivado en China y Japón desde tiempos antiguos. Su valor nutritivo y propiedades digestivas lo convirtieron en un alimento básico en diversas culturas. Hoy se cultiva en muchas partes del mundo y es popular tanto en gastronomía como en medicina tradicional.
 
 [FIREGOURD_FAMILY]
-葫芦科
+Cucurbitaceae
 
 [FIREGOURD_GENUS]
-葫芦属
+Lagenaria
 
 [FIREGOURD_PEDIA]
-葫芦：藤蔓上的福禄
-一年生攀援草本。
-茎蔓生，密被柔毛，卷须分2-5叉；叶片心状卵形，不分裂或3-5裂；雌雄同株，花单生，白色五瓣，黄昏绽放，借夜行蛾类传粉；果实形态多变，幼果青绿可食，成熟后果壳木质化，轻而中空，可浮水传播种子，堪称“植物漂流瓶”。花期夏季，果期秋季。
-“葫”源自波斯语“hūl”，意为经西域传入；“芦”取“蔓生”之意。但葫芦原产地目前仍有争议，普遍认为原产非洲，通过洋流（果实漂浮）或人类迁徙从非洲扩散至亚洲、美洲，现亦广泛栽培于世界热带到温带地区。古称“瓠”或“匏”，浙江余姚河姆渡遗址（约7000年前）出土的碳化葫芦皮，《诗经》中“匏有苦叶”的记载，证明其在我国栽培历史悠久。除了食用还可作为盛酒容器、舀水瓢以及乐器（如葫芦丝），也可药用。因中空特性，葫芦被赋予“虚怀若谷”、“包容万象”的寓意；道家视其为法器，象征“天地一壶”；民间婚俗悬挂寓意“福禄双全”。
+Calabaza de fuego está inspirada en la calabaza de botella (Lagenaria siceraria), una planta trepadora originaria de África, cultivada por sus frutos que pueden adoptar diversas formas, incluyendo la característica forma de botella. Se utiliza tanto como alimento (cuando está tierna) como para fabricar utensilios, recipientes y artesanías (una vez seca).
+
+[FIREGOURD_PEDIA_EXTRA]
+Se han hallado restos arqueológicos de esta planta en África, Asia y América que datan de más de 8,000 años. Se cree que fue una de las primeras plantas domesticadas, usada como recipiente natural antes de la invención de la cerámica. Su versatilidad la hizo fundamental en muchas culturas tradicionales alrededor del mundo.
 
 [PEACH_FAMILY]
-蔷薇科
+Rosaceae
 
 [PEACH_GENUS]
-李属
+Prunus
 
 [PEACH_PEDIA]
-桃：春日的粉色仙味
-落叶小乔木。
-高3-8米，树皮暗灰褐色；叶椭圆状披针形，边缘细锯齿；花单生，花梗近无，花瓣5枚，粉色或白色，雄蕊约20-30枚，雌蕊单生；果实为核果，球形或扁圆，表皮被绒毛。花期3-4月；果期因品种而异。
-桃字由“木”和“兆”（表音兼表意，象征果实多或裂开的果核）组成，本义指桃树及其果实。原产中国，4000年前已驯化，《诗经》“桃之夭夭”为证，现世界各地均有栽植。英语“peach”源自拉丁语“malum persicum”（波斯苹果），暗示桃可能经丝绸之路从中国传入西方，而将波斯误认为原产地。除了果实可食，树干上分泌的胶质俗称桃胶，可食用，也供药用，有和血益气之效。因《山海经》等古籍记载桃树镇鬼的传说，桃木常作辟邪法器，制成“桃符”悬挂于门上驱邪（后演变为春联）。
-花语：爱情的俘虏
+El durazno (Prunus persica) es un árbol originario de China, conocido por producir frutos jugosos de sabor dulce, generalmente con un hueso grande en el centro. Es muy cultivado por su valor nutricional y su agradable sabor, ideal para consumo fresco, en postres y conservas.
+
+[PEACH_PEDIA_EXTRA]
+Cultivado en China desde hace más de 3.000 años, el durazno fue llevado a Persia y luego al mundo occidental por las rutas comerciales. Su nombre científico hace referencia a Persia, ya que los griegos creían que era originario de allí. Hoy es una fruta ampliamente apreciada y cultivada en climas templados de todo el mundo.
 
 [CHERRY_BOMB_FAMILY]
-蔷薇科
+Rosaceae
 
 [CHERRY_BOMB_GENUS]
-李属
+Prunus
 
 [CHERRY_BOMB_PEDIA]
-樱桃：春日舌尖的甜蜜盛宴
-落叶乔木。
-高2-6米，树皮灰白色；叶卵形至椭圆形，边缘有尖锐重锯齿；花序伞房状，先叶开花，花瓣5枚，白色或淡粉，雄蕊30-50枚，雌蕊单生。核果近球形，红色。花期3-4月，果期5-6月。
-因莺鸟喜食其果，古称“莺桃”，后谐音为“樱桃”，原生长江流域，现广泛栽培于欧亚温带。除了食用，也可酿酒，枝、叶、根、花也可供药用。由于中国樱桃较小不易储存，畅销的“车厘子”多为欧洲甜樱桃的改良品种。其栽培品种需冷量高（7℃以下时长达800小时）正常开花结果，使其成为研究气候变化对果树影响的“哨兵物种”。樱桃因其鲜红欲滴的颜色和心形果实 ，在欧洲文化中常被赋予丰收、青春、爱情与诱惑的意象。
-花语：纯真与天真、爱情与珍惜、希望与新生
+Petacereza está evidentemente basada en la cereza (Prunus avium, o Prunus cerasus) es el fruto de árboles pequeños de climas templados, reconocida por su forma redondeada, color rojo brillante y sabor dulce o ligeramente ácido. Las cerezas se consumen frescas, en repostería o como conservas, y tienen un alto contenido de antioxidantes.
+
+[CHERRY_BOMB_PEDIA_EXTRA]
+Originarias de Europa y Asia occidental, las cerezas eran ya conocidas por griegos y romanos, quienes difundieron su cultivo por el continente europeo. Su producción se expandió globalmente con el tiempo, hoy día son una fruta popular y símbolo de la primavera en muchas culturas, como en Japón con el cerezo ornamental (sakura).
 
 [RHEUMNOBILE_FAMILY]
-蓼科
+Oleaceae
 
 [RHEUMNOBILE_GENUS]
-大黄属
+Forsythia
 
 [RHEUMNOBILE_PEDIA]
-塔黄：高山之巅的“黄金宝塔”
-多年生草本植物。
-高1-2米；茎单生不分枝，粗壮挺直；基生叶数片，呈莲座状，近革质；总状花序分枝腋生，常5-8枝成丛，花被片6或较少；果实宽卵形，种子心状卵形。花果期6-9月，正值高山短暂的夏季。
-作为典型的高山植物，塔黄主要分布在海拔4000-4800米的在喜马拉雅山脉和横断山区的高山流石滩上。因其花序由多层乳黄色或淡绿色苞片包裹，形似一座金黄色的宝塔而得名“塔黄”。这些苞片半透明，能透光并保温，为其花朵和幼果构建了“温室"，使其免受高寒环境的伤害，此外可为小型高山昆虫提供庇护所，它的存在有助于稳定高山脆弱的生态环境。
-花语：坚韧与奇迹
+Pagoda aromática está basada en la pagoda amarilla (Forsythia spp.), un arbusto originario de Asia oriental, reconocido por sus flores amarillas intensas que aparecen a principios de primavera antes de que broten las hojas. Se utiliza ampliamente como planta ornamental en jardines y parques debido a su color vibrante y resistencia.
+
+[RHEUMNOBILE_PEDIA_EXTRA]
+Nativa de China y Corea, la forsitia fue introducida en Europa y América en el siglo XVIII, donde ganó popularidad rápidamente como planta decorativa. Su floración temprana y llamativa la ha convertido en un símbolo de la llegada de la primavera en muchas culturas.
 
 [GUARDSHROOM_PRODUCT_SHORT_DESC]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Se replica para proteger a las plantas adyacentes
 
 [GUARDSHROOM_AVATAR_NAME]
-守卫菇可以阻挡敌人并生成能够吞噬僵尸的小守卫菇
+Monóculo
 
 [STORE_PRODUCT_AVATAR_GUARDSHROOM_TITLE]
-守卫菇装扮
+Monóculo
 
 [STORE_PRODUCT_AVATAR_GUARDSHROOM]
-大招可以吃掉的僵尸数量增加为7个
+El número de zombis arrastrados aumenta a 7; el área de ataque también aumenta
 
 [GUARDSHROOM_SKILL_LEVEL1]
-蘑菇强化
+Nivel 2
 
 [GUARDSHROOM_SKILL_LEVEL1_DES]
-小守卫菇的消化时间减少；守卫菇的阳光消耗增加倍数降低至1.5倍
+^4DD4DB^Setas empoderadas:^oldclr^ reduce el tiempo de digestión de las Minisetas; multiplicador solar reducido en un 50%
 
 [GUARDSHROOM_SKILL_LEVEL2]
-蘑菇进化
+Nivel 3
 
 [GUARDSHROOM_SKILL_LEVEL2_DES]
-小守卫菇的消化时间进一步减少；守卫菇的阳光消耗不再增加
+^A048CF^Esporas fortalecidas:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [GUARDSHROOM_SKILL_LEVEL5]
-深渊狂化
+Nivel 5
 
 [GUARDSHROOM_SKILL_LEVEL5_DES]
-守卫菇现在会生成更强大的深渊小守卫菇，吞噬中体型的僵尸，并在死亡时将僵尸带入深渊
+^DB8117^Guardián del abismo:^oldclr^ genera Minisetas abisales que se llevan zombis medianos al abismo cuando son derrotadas.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL1_DES]
-守卫菇能够阻挡部分会飞跃的僵尸,并且可以直接种植在水里和陆地；每隔一段时间守卫菇身边会降下小守卫菇，小守卫菇能够吃掉普通僵尸和小鬼僵尸；植物可以种植在小守卫菇上，当为蘑菇类植物时，可为其提供额外增益效果。当其上方本体植物释放大招时，小守卫菇会吸收能量，大招完成后可使其释放二次大招。
+Se replica para proteger a las plantas adyacentes. ^E2725B^Minisetas: crecen cada 14 s^oldclr^
 
 [GUARDSHROOM_NEW_SKILL_LEVEL2_DES]
-小守卫菇的消化时间减少；守卫菇的阳光消耗增加倍数降低至1.5倍
+Reduce el tiempo de digestión de las Minisetas; multiplicador solar reducido a 1.5x
 
 [GUARDSHROOM_NEW_SKILL_LEVEL3_DES]
-小守卫菇的消化时间进一步减少；守卫菇的阳光消耗不再增加
+Reduce el tiempo de digestión de las Minisetas aún más; multiplicador solar anulado
 
 [GUARDSHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有概率直接释放能量豆大招！
+Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [GUARDSHROOM_NEW_SKILL_LEVEL5_DES]
-守卫菇现在会生成一个更强大的深渊小守卫菇，此时深渊小守卫菇可以吞噬中体型的僵尸；当小守卫菇被僵尸啃食至死亡时，小守卫菇会改为掉入深渊地底，并使用触手把该僵尸一并拖入地底。
+Genera Minisetas abisales que se llevan zombis medianos al abismo cuando son derrotadas.
 
 [GUARDSHROOM_PLANTFOOD_DESCRIPTION]
-守卫菇伸出触手，吃掉前方 3x3 内的 5 个小体型僵尸（5阶可以吃中体型僵尸），对无法吃掉的僵尸造成伤害。同时在 3x3 范围内填满 8 个小守卫菇。
+Cuerpo principal: arrastra 5 zombis y deja 8 clones en un área 3x3. ^D22808^Daño: 800^oldclr^
+Mini: reactiva el efecto de Nutrientes de la planta anfitriona.
 
 [GUARDSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-守卫菇伸出触手，吃掉前方 4x3 内的 7 个小体型僵尸（5阶可以吃中体型僵尸），对无法吃掉的僵尸造成伤害。同时在 3x3 范围内填满 8 个小守卫菇。
+El número de zombis arrastrados aumenta a 7; el área de ataque aumenta a 4x3
 
 [STORE_CATEGORY_NAME_AD_FREE_DESC]
-购买终身免广告权益
+Sin anuncios
 
 [STORE_CATEGORY_NAME_AD_FREE_SHORT_DESC]
-终身免广告权益
+Quita los molestos anuncios
 
 [AD_FREE_BUY_SUCCESS_TEXT]
-购买成功，已获得终身免广告权益
+¡Los anuncios se han ido para siempre!
 
 [AD_FREE_BUY_SUCCESS_TITLE]
-购买成功
+Compra exitosa
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_25]
-全息神器礼包
+Paquete clonador
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_26]
-全息神器礼包2
+Paquete clonador II
 
 [HEAVEN_TREASURE]
-天宫寻宝
+Tesoro celestial
 
 [HEAVEN_TREASURE_DESCRIPTION_TITLE_1]
-活动说明标题1
+Descripción del Evento
 
 [HEAVEN_TREASURE_DESCRIPTION_1]
-活动说明1
+Consigue descuentos mientras más veces participes en sorteos.
 
 [HEAVEN_TREASURE_YOUR_CODE]
-您的优惠码：
+Tu código promocional:
 
 [HEAVEN_TREASURE_TAB1]
-天宫寻宝
+Premios
 
 [HEAVEN_TREASURE_TAB1_DES1]
-每10次抽取，获得1-9折随机折扣，每20次抽取获得保底大奖
+Descuento aleatorio del 1 al 90% por cada 10 sorteos; premio garantizado cada 20.
 
 [HEAVEN_TREASURE_TAB1_DES2]
-上次折扣：
+Último descuento:
 
 [HEAVEN_TREASURE_NO_DISCOUNT]
-无折扣
+Sin descuento
 
 [HEAVEN_TREASURE_TAB1_DES3]
-再抽取：
+Próximo premio:
 
 [HEAVEN_TREASURE_TAB1_DES4]
-次，下次抽取享幸运折扣
+Descuento en próx. sorteo
 
 [HEAVEN_TREASURE_TAB2]
-特惠礼包
+Ofertas
 
 [HEAVEN_TREASURE_TAB2_DES1]
-分享礼包优惠码
+Compartir código
 
 [HEAVEN_TREASURE_TAB2_DES2]
-填写礼包优惠码
+Escribe el código
 
 [HEAVEN_TREASURE_USE_CODE]
-使用优惠码
+Usar código
 
 [HEAVEN_TREASURE_USE_CODE_DES]
-输入优惠码，可3折购买优惠礼包
-优惠码获取方式：原价购买特惠的玩家会获得优惠码，
-优惠码可分享给其他玩家
+Introduce el código promocional para obtener un 30% de descuento en los Paquetes del evento.
+Los jugadores que compren la oferta al precio original obtendrán el código promocional.
+El código de descuento se puede compartir con otros jugadores.
 
 [HEAVEN_TREASURE_FILL_IN_CODE_DES]
-请输入优惠码
+Ingresa el código promocional
 
 [HEAVEN_TREASURE_USE_CODE_SUCCESS]
-恭喜你，已获得3折优惠
+Enhorabuena, ¡tienes un 30% de descuento!
 
 [HEAVEN_TREASURE_NO_SHARE_CODE]
-你还没有可分享的优惠码，原价购买特惠礼包，可获得优惠码
+Aún no tienes un cupón de descuento, compra la oferta primero
 
 [HEAVEN_TREASURE_TAB3]
-累计抽取
+Progreso
 
 [RECHARGE_PROGRESS]
-累计进度
+Progreso acumulado
 
 [HEAVEN_TREASURE_TAB4]
-兑换商店
+Tienda
 
 [MAT_HEAVEN_TREASURE_TICKET]
-天宫寻宝抽奖券
+Cupón compartido
 
 [MAT_HEAVEN_TREASURE_COIN]
-天宫寻宝货币
+Moneda celestial
 
 [PVP_ERROR_76020]
-优惠码不存在
+El código promocional no existe
 
 [PVP_ERROR_76021]
-优惠码已被锁定
+El código promocional está bloqueado.
 
 [PVP_ERROR_76022]
-优惠码未被锁定
+Código promocional no bloqueado.
 
 [PVP_ERROR_76023]
-优惠码已被使用
+El código de descuento ha sido usado.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_1]
-寒霜白毛丹成长装扮
+Zinturón dorado
 
 [NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_1]
-攻击间隔缩短20%
+Reduce el intervalo de ataque en un 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_NEKOTAIL_2]
-猫尾草蛋糕装扮
+Pastel
 
 [NEW_AVATAR_DESCRIPTION_NEKOTAIL_2]
-攻击力增加20%
+Aumenta el poder de ataque en un 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_2]
-原始坚果cos装扮
+Cosplay de Jaca
 
 [NEW_AVATAR_DESCRIPTION_PRIMALWALLNUT_2]
-阳光消耗降低10点
+Reduce el coste en soles en 10
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_3]
-剑叶龙血树礼服装扮
+Traje fino
 
 [NEW_AVATAR_DESCRIPTION_DRACAENA_3]
-阳光消耗降低25点
+Reduce el coste en soles en 25
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_2]
-龙舌兰礼帽装扮
+Sombrero a rayas
 
 [NEW_AVATAR_DESCRIPTION_AGAVE_2]
-攻击间隔减少15%
+Reduce el intervalo de ataque en un 15%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUMPKIN_1]
-南瓜头埃及装扮
+Atuendo egipcio
 
 [NEW_AVATAR_DESCRIPTION_PUMPKIN_1]
-生命值增加30%
+Su salud aumenta en un 15%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_2]
-天使星星果怪盗装扮
+Escritora
 
 [NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_2]
-攻击力增加20%
+Aumenta el poder de ataque en un 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEEL_2]
-电鳗香蕉超级装扮
+Banana dragón
 
 [NEW_AVATAR_DESCRIPTION_ELECTRICPEEL_2]
-阳光消耗减少35点
+Reduce el coste en soles en 35
 
 [NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_2]
-橄榄坑眼镜装扮
+Gafas locas
 
 [NEW_AVATAR_DESCRIPTION_OLIVEPIT_2]
-休息时间减少5s
+Reduce el tiempo de digestión en 5 segundos
 
 [UNCHARTED_NO42_HEAD_ID_10001]
-阿巴阿巴
+41 universos
 
 [UNCHARTED_NO42_HEAD_DES_ID_10001]
-完美通关41号平行宇宙的证明
+A quienes reunieron todas las Estrellas del Universo #41 en el modo Tierras ocultas
 
 [PARTYEPSACTIVITY_HEAD_ID_25676]
-派对天使星星果
+Ángel elegante
 
 [PARTYEPSACTIVITY_HEAD_DES_ID_25676]
-派对助力活动限定头像
+Para quienes obtuvieron el Atuendo exclusivo de Frustrella ángel
 
 [S24_MEMORY_LEVEL_NAME_1]
-工业污染
+Contaminación industrial
 
 [S24_MEMORY_LEVEL_NAME_2]
-攻城车套娃
+Carro de asedio
 
 [S24_MEMORY_LEVEL_NAME_3]
-我不吃牛肉
+Veganos vs Zombis
 
 [S24_MEMORY_LEVEL_NAME_4]
-单枪匹马
+Solo contra todos
 
 [S24_MEMORY_LEVEL_NAME_5]
-闪爆战
+Batalla relámpago
 
 [S24_MEMORY_LEVEL_NAME_6]
-双人对决
+Duelo en pareja
 
 [S24_MEMORY_LEVEL_NAME_7]
-小鬼车轮
+Rueda de diablillos
 
 [S24_MEMORY_LEVEL_NAME_8]
-精英僵尸来袭
+La élite infernal
 
 [S24_MEMORY_LEVEL_NAME_9]
-回忆之旅（困难）第九天
+Dimensión del Recuerdo - Día 9: difícil
 
 [S24_MEMORY_LEVEL_NAME_10]
-回忆之旅（困难）第十天
+Dimensión del Recuerdo - Día 10: difícil
 
 [S24_MEMORY_LEVEL_NAME_11]
-回忆之旅（困难）第十一天
+Dimensión del Recuerdo - Día 11: difícil
 
 [S24_MEMORY_LEVEL_NAME_12]
-回忆之旅（困难）第十二天
+Dimensión del Recuerdo - Día 12: difícil
 
 [S24_MEMORY_LEVEL_NAME_13]
-终止交易
+Transacción cancelada
 
 [S24_MEMORY_LEVEL_NAME_14]
-恐怖史莱姆
+Slime terrorífico
 
 [S24_MEMORY_LEVEL_NAME_15]
-看星星
+Viendo las estrellas
 
 [S24_MEMORY_LEVEL_NAME_16]
-精英僵尸来袭
+Estrellas de élite
 
 [PVP_ERROR_76000]
-通过 普通 难度 第四关 后开放兑换
+Disponible al completar el Nivel 4
 
 [PVP_ERROR_76001]
-通过 困难 难度 第七关 后开放兑换
+La bolsa se abrirá al completar el Nivel 7
 
 [NEW_AVATAR_DESCRIPTION_ELECTRICPEEL_1]
-闪电伤害增加20%
+Aumenta el daño eléctrico en un 20%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_JACKFRUIT_2]
-菠萝蜜眼罩装扮
+Máscara roja
 
 [NEW_AVATAR_DESCRIPTION_JACKFRUIT_2]
-种子生命增加20%
+Las semillas de Jaca tienen un 20% más de salud
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
-猕猴桃超级装扮
+Rey Mono
 
 [NEW_AVATAR_DESCRIPTION_KIWIFRUIT_4]
-攻击速度增加25%
+Aumenta la velocidad de ataque en un 25%
 
 [PLANTWARS_LEVEL_NAME_w3_1]
-第一关
+Nivel 3-1
 
 [PLANTWARS_LEVEL_NAME_w3_1_A]
-第一关——上半场
+Nivel 3-1 | Primera ronda
 
 [PLANTWARS_LEVEL_NAME_w3_1_B]
-第一关——下半场
+Nivel 3-1 | Ronda final
 
 [PLANTWARS_LEVEL_NAME_w3_2]
-第二关
+Nivel 3-2
 
 [PLANTWARS_LEVEL_NAME_w3_2_A]
-第二关——上半场
+Nivel 3-2 | Primera ronda
 
 [PLANTWARS_LEVEL_NAME_w3_2_B]
-第二关——下半场
+Nivel 3-2 | Ronda final
 
 [PLANTWARS_LEVEL_NAME_w3_3]
-第三关
+Nivel 3-3
 
 [PLANTWARS_LEVEL_NAME_w3_3_A]
-第三关——上半场
+Nivel 3-3 | Primera ronda
 
 [PLANTWARS_LEVEL_NAME_w3_3_B]
-第三关——下半场
+Nivel 3-3 | Ronda final
 
 [PLANTWARS_LEVEL_NAME_w3_4]
-第四关
+Nivel 3-4
 
 [PLANTWARS_LEVEL_NAME_w3_4_A]
-第四关——上半场
+Nivel 3-4 | Primera ronda
 
 [PLANTWARS_LEVEL_NAME_w3_4_B]
-第四关——下半场
+Nivel 3-4 | Ronda final
 
 [PLANTWARS_LEVEL_NAME_w3_5]
-第五关
+Nivel 3-5
 
 [PLANTWARS_LEVEL_NAME_w3_5_A]
-第五关——上半场
+Nivel 3-5 | Primera ronda
 
 [PLANTWARS_LEVEL_NAME_w3_5_B]
-第五关——下半场
+Nivel 3-5 | Ronda final
 
 [GINGLEBELL_S4_1_TITLE]
-现场互动-关卡一
+Prueba de fuego - Fase 1
 
 [GINGLEBELL_S4_2_TITLE]
-现场互动-关卡二
+Prueba de fuego - Fase 2
 
 [GINGLEBELL_S4_3_TITLE]
-现场互动-关卡三
+Prueba de fuego - Fase 3
 
 [GINGLEBELL_S5_1_TITLE]
-即兴演出-关卡一
+Prueba de precisión - Fase 1
 
 [GINGLEBELL_S5_2_TITLE]
-即兴演出-关卡二
+Prueba de precisión - Fase 2
 
 [GINGLEBELL_S5_3_TITLE]
-即兴演出-关卡三
+Prueba de precisión - Fase 3
 
 [GINGLEBELL_S6_1_TITLE]
-计划演出-关卡一
+Prueba táctica - Fase 1
 
 [GINGLEBELL_S6_2_TITLE]
-计划演出-关卡二
+Prueba táctica - Fase 2
 
 [GINGLEBELL_S6_3_TITLE]
-计划演出-关卡三
+Prueba táctica - Fase 3
 
 [HARVEST_BATTLE_HEAD_ID_25677]
-法老复生
+El regreso del Faraón
 
 [HARVEST_BATTLE_HEAD_DES_ID_25677]
-在农场大作战活动中，通过超级玉米兑换
+A los jugadores renacidos que gastaron Maíz en la Cosecha de otoño
 
 [AD_FREE_TITLE]
-终身免广告卡
+Quitar anuncios
 
 [AD_FREE_REWARD]
-可获得：
-钻石300
-终身免广告权益
+Obtienes:
+Joyas x300
+Quitar anuncios para siempre
 
 [AD_FREE_DISCOUNT]
-超值800%
+800% descuento
 
 [AD_FREE_BUY]
 18元
 
 [NEWYEAR_GIFT_HEAD_ID_25675]
-惊喜大礼
+Regalo sorpresa
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25675]
-在庆典礼包活动期间，达到活动中累计充值进度领取
+A quienes recargaron a toda potencia en los Paquetes de Año Nuevo
 
 [AVATARCOLLECTIONS_THEME_TITLE6]
-童趣派对
+Diversión infantil
 
 [AVATARCOLLECTIONS_THEME_DES6]
-童年的玩具最好玩！
+¡Los juguetes de la infancia son los más divertidos!
 
 [AVATARCOLLECTIONS_HEAD_ID_25679]
-童趣派对
+Fiesta infantil
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25679]
-童年的玩具最好玩！
+¡La alegría de los niños nunca tiene fin!
 
 [AVATARCOLLECTIONS_THEME_TITLE7]
-就是这么豪
+Plantas y efectivo
 
 [AVATARCOLLECTIONS_THEME_DES7]
-金钱在手，天下我有！
+Atuendos para los más refinados.
 
 [AVATARCOLLECTIONS_HEAD_ID_25680]
-就是这么豪
+Los poderosos
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25680]
-金钱在手，天下我有！
+¡Tienes el mundo en tus manos!
 
 [AVATARCOLLECTIONS_THEME_TITLE8]
-武侠国风
+Artistas marciales
 
 [AVATARCOLLECTIONS_THEME_DES8]
-千秋万载，一统江湖！
+¡Mil años de unidad!
 
 [AVATARCOLLECTIONS_THEME_TITLE9]
-大智若愚
+Sabiduría joven
 
 [AVATARCOLLECTIONS_THEME_DES9]
-一加一等于二吗？
+2 + 2 = ?
 
 [AVATARCOLLECTIONS_HEAD_ID_25682]
-大智若愚
+La escuelita
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25682]
-一加一等于二吗？
+Siempre es bueno aprender cosas nuevas, ¡sigue estudiando!
 
 [TOYS_HEAD_ID_25678]
-烈焰狂欢
+Llamas furiosas
 
 [TOYS_HEAD_DES_ID_25678]
-参与活动烈焰的狂欢获得
+A quienes participaron en el Carnaval del fuego
 
 [PARALLEL_SPIKEWEED]
-41号地刺
-
-[PARALLEL_SPIKEWEED_TOOLTIP]
-她不是普通的地刺，它可以秒杀所有的僵尸博士机甲
-
-[PARALLEL_SPIKEWEED_DESCRIPTION_HEADER]
-眼神多了一丝忧郁
+Pinchohierba U41
 
 [PARALLEL_SPIKEWEED_DESCRIPTION]
-她不是普通的地刺，它可以秒杀所有的僵尸博士机甲
+{KEYWORD}Especial: {STAT}derrota los Zombots en fracción de segundos
+
+{FLAVOR}Pinchohierba se volvio el némesis del Dr. Zombi en el Universo #41
+
+[PARALLEL_SPIKEWEED_DESCRIPTION_HEADER]
+Esta variante de Pinchohierba es más destructiva que nunca.
+
+[PARALLEL_SPIKEWEED_TOOLTIP]
+Pincha zombis y mecas en fracción de segundos
 
 [PARALLEL_SPLITPEA]
-41号双向射手
-
-[PARALLEL_SPLITPEA_TOOLTIP]
-41号的双向射手是罕见的白羊座
-
-[PARALLEL_SPLITPEA_DESCRIPTION_HEADER]
-左侧的豌豆比右侧的豌豆长一毫米
+Bipetidora U41
 
 [PARALLEL_SPLITPEA_DESCRIPTION]
-41号的双向射手是罕见的白羊座
+El guisante de la izquierda es un milímetro más largo que el de la derecha.
+
+[PARALLEL_SPLITPEA_DESCRIPTION_HEADER]
+Variante de Bipetidora del Universo #41, con cambios ligeros en su simetría.
+
+[PARALLEL_SPLITPEA_TOOLTIP]
+Dispara guisantes hacia delante y atrás
 
 [PARALLEL_WINTERMELON]
-41号冰西瓜投手
-
-[PARALLEL_WINTERMELON_TOOLTIP]
-火西瓜投手能造成范围性爆破伤害并使僵尸灼伤，每秒造成僵尸最大生命值100%的伤害，持续30秒。
-
-[PARALLEL_WINTERMELON_DESCRIPTION_HEADER]
-投掷西瓜的温度比一号宇宙高1摄氏度
+Melonpulta congelada U41
 
 [PARALLEL_WINTERMELON_DESCRIPTION]
-火西瓜投手能造成范围性爆破伤害并使僵尸灼伤，每秒造成僵尸最大生命值100%的伤害，持续30秒。
+{KEYWORD}Especial: {STAT}sus ataques hacen que los zombis ardan por 30 s
+
+{FLAVOR}El concepto de 'frío' es totalmente lo opuesto en este universo tan raro.
+
+[PARALLEL_WINTERMELON_DESCRIPTION_HEADER]
+Variante de Melonpulta congelada del Universo #41, su frialdad está totalmente reducida.
+
+[PARALLEL_WINTERMELON_TOOLTIP]
+Inflige grandes daños e incendia grupos de zombis
 
 [BATTLE_ORDER_BUTTON_DESC]
-x{NUMS}完成
+Completar x{NUMS}
 
 [BATTLE_ORDER_BUTTON_TIPS_DESC]
-当前拥有 ^FF0000 {ALLNUMS} ^oldclr 战令券
-是否需要花费 ^FF0000 {NUMS} ^oldclr 战令券完成任务？
+Tienes ^FF0000 {ALLNUMS} ^oldclr tiques.
+Se necesitan ^FF0000 {NUMS} ^oldclr para completar la misión, ¿seguro?
 
 [BATTLE_ORDER_BUTTON_NOT_ENOUGH_DESC]
-战令券不足
+Tiques insuficientes.
 
 [MAT_BATTLE_ORDER_TICKET]
-战令券
+Tique de temporada
 
 [MAT_BATTLE_ORDER_TICKET_USE]
-用于完成任务
+Úsalos para completar misiones del Pase de Batalla.
 
 [MAT_BATTLE_ORDER_TICKET_GOT_WAY]
-签到、月卡、旅行原木产出
+Inicio de sesión diario, Tarjetas mensuales, Tronco de viaje
 
 [ZOMBIE_JOURNEY_TO_THE_WEST]
-西游记基础僵尸
+Zombi oriental
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Zombi común de jardín, ahora con un toque oriental.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+Los tiempos son difíciles para el ancestro chino de los zombis. Acaba de enterarse de que lo despidieron de su antiguo trabajo y lo obligaron a trabajar para el ejército del nuevo Emperador.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1]
-西游记基础僵尸
+Zombi caracesta
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Su cesta de bambú lo hace dos veces más resistente que los orientales normales.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+Siempre persigue a otros preguntando cuándo hay cerebros a la venta. Claro, nunca los hay, pero quiere asegurarse.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2]
-西游记基础僵尸
+Zombi caracuenco
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Su cuenco de porcelana es sorprendentemente difícil de romper.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+Los otros zombis tienen miedo de enviarlo a la batalla. Todos están hartos de sus constantes quejas. "Uno se rompió, otro se rompió..."
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG]
-西游记基础僵尸
+Zombi oriental abanderado
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Marca la llegada de una gran "oleada" de zombis orientales.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+Le gustaba diseñar patrones de banderas únicos y llamativos. Realmente le gustó uno que hizo hace un tiempo con bordes negros y púas. Seguro que está increíblemente decepcionado de que lo obliguen a usar este aburrido.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER]
-西游记土地公公僵尸
+Zombi Tudigong
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Usa sus poderes para excavar bajo tierra.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+{KEYWORD}Velocidad: {STAT}rápida, luego lenta
+{KEYWORD}Especial: {STAT}excava bajo tierra y aparece en el lado izquierdo del jardín
+{KEYWORD}Debilidad: {STAT}Bipetidora y Magneto-seta
+
+{FLAVOR}Puede ser una deidad, pero ciertamente no se siente como una. Va al templo local tres veces por semana solo para quejarse de que siente que merece más, sin embargo, todo lo que le dieron es un palo de aspecto extraño que apenas puede hacer mucho excepto crear túneles por los que tiene que apretujarse todo el día.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY]
-西游记土地红孩儿僵尸
+Niño Rojo
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Incinera cualquier planta en su camino, sin entender en absoluto el caos que está causando.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+{KEYWORD}Especial: {STAT}dispara constantemente bolas de fuego en su línea, a veces, dispara bolas más grandes
+{KEYWORD}Debilidad: {STAT}algunas plantas de fuego apagan sus bolas de fuego gigantes
+
+{FLAVOR}Realmente no se toma su trabajo en serio en lo más mínimo. Mientras todos los demás zombis luchan por sus no-vidas, él solo está saltando por ahí disparando bolas de fuego por todos lados, y a pesar de eso, es el que tiene el privilegio de liderar uno de los ejércitos del emperador. La mayoría de los zombis tienden a estar de acuerdo en que algo simplemente no cuadra.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
-西游记巨人僵尸
+Zombistein animador
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Son tan poderosos que no necesitan de la ayuda de los Zombiditos.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+Ser un vigilante de la Gran Muralla es francamente un trabajo bastante aburrido, resulta que un muro interminable es una táctica de intimidación, hasta el punto de que nadie quiere acercarse.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO]
-西游记斗篷僵尸
+Zombi poncho de oriente
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+A veces esconde una placa tradicionl de blindaje.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+Aprendió la tradición de forjar armaduras en metal, el poncho es una de ellas.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR]
-西游记全明星僵尸
+Zombi blister
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Tiene una dureza alta, y carga a gran velocidad contra tus plantas.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
-
-// FIN PENDIENTE
+En China los deportes son un arte que se ha ido perfeccionando desde tiempos inmemoriables, este zombi sin duda no ha perdido la escencia.
 
 [CREDTIS_CHINA_MANAGER]
 Gerente de Producto Senior
@@ -1411,13 +1400,13 @@ Cococañón está basado en el fruto del cocotero (Cocos nucifera), una palmera 
 En la antigüedad, los pueblos costeros utilizaban el coco tanto como alimento como para fabricar cuerdas y utensilios a partir de su cáscara fibrosa. Con el tiempo, su cultivo se expandió a lo largo de las costas tropicales de todo el mundo, convirtiéndose en un símbolo de la vida tropical costera.
 
 [LIGHTNINGREED_FAMILY]
-Poaceae
+Poaceae (Gramíneas)
 
 [LIGHTNINGREED_GENUS]
 Phragmites
 
 [LIGHTNINGREED_PEDIA]
-Junco eléctrico está basado en el junco (Phragmites australis) es una herbácea proveniente de las zonas húmedes de Australia. Sus hojas son estrechas y alargadas, sus flores están agrupadas en una inflorescencia en forma de espiga. Es conocida por su capacidad de purificar el agua y prevenir la erosión del suelo.
+Junco eléctrico está basado en el junco (Phragmites australis), una herbácea proveniente de las zonas húmedas de Australia. Sus hojas son estrechas y alargadas, sus flores están agrupadas en una inflorescencia en forma de espiga. Es conocida por su capacidad de purificar el agua y prevenir la erosión del suelo.
 
 [LIGHTNINGREED_PEDIA_EXTRA]
 Desde tiempos antiguos, el junco ha sido utilizado para proteger el ecosistema acuático, evitando la erosión y proporcionando hábitat a la fauna. Tradicionalmente, también se ha usado para fabricar cestas y techos, y en medicina por sus propiedades en el tratamiento de afecciones respiratorias. Con el tiempo, su uso se ha expandido globalmente.
@@ -1529,13 +1518,13 @@ Los zombis alcanzados por su efecto de Nutrientes también son ralentizados
 Traje negro
 
 [MAPLEBLADE_NEW_SKILL_LEVEL1_DES]
-Acaba con los zombis cercanos usando su espada. ^E2725B^Sombra de arce: 360 DPS; alcance de 3 casillas/0,5 s; duración de 10 s/15 s.^oldclr^
+Acaba con los zombis cercanos usando su espada. ^E2725B^Sombra de arce: 360 DPS/0.5 s (3 casillas), dura 10-15 s^oldclr^
 
 [MAPLEBLADE_NEW_SKILL_LEVEL2_DES]
-Reduce el tiempo de proyección en 2 segundos ^D22808^(ahora 13 s)^oldclr^, potencia su próximo ataque cuando la sombra desaparece. ^D22808^Daño: 140^oldclr^
+Reduce el tiempo de proyección en 2 s (ahora 13), potencia su próx. ataque cuando la sombra desaparece. ^D22808^Daño: 140^oldclr^
 
 [MAPLEBLADE_NEW_SKILL_LEVEL3_DES]
-Mejora los efectos del Nvl. 2 en un 30% ^D22808^(Proyección: 11 s; daño: 180)^oldclr^
+Mejora los efectos del Nvl. 2 en un 30%. ^D22808^(Proyección: 11 s; daño: 180)^oldclr^
 
 [MAPLEBLADE_NEW_SKILL_LEVEL4_DES]
 Gana un 80% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse
@@ -1547,7 +1536,7 @@ Gana un 20% de liberar un ataque que derriba a los zombis de la fila. Luego se a
 Su sombra libera un corte que inflige 1.500 DPS en una zona circular
 
 [MAPLEBLADE_AVATAR_PLANTFOOD_DESCRIPTION]
-Los zombis alcanzados son ralentizados por 3 segundos.
+Los zombis alcanzados por el efecto son ralentizados durante 3 segundos.
 
 [BUDUHBOOM_PRODUCT_SHORT_DESC]
 Inflige daños enormes en un área y deja mantequilla en algunas casillas
@@ -1565,16 +1554,16 @@ Nivel 3
 ^A048CF^Manteca abundante:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [BUDUHBOOM_NEW_SKILL_LEVEL1_DES]
-Explota infligiendo daño y dejando charcos de mantequilla. ^E2725B^La manteca neutraliza zombis de limo.^oldclr^
+Explota, dejando mantequilla alrededor y en 2 casillas aleatorias. ^D22808^Manteca: 25 DPS, dura: 10 s (charco), 5 s (condición)^oldclr^
 
 [BUDUHBOOM_NEW_SKILL_LEVEL2_DES]
-Arroja una pieza adicional de mantequilla tras explotar
+Arroja 1 pieza adicional de mantequilla tras explotar (ahora 3).
 
 [BUDUHBOOM_NEW_SKILL_LEVEL3_DES]
-Arroja dos piezas adicionales de mantequilla tras explotar
+Arroja 2 piezas adicionales de mantequilla tras explotar (ahora 4).
 
 [BUDUHBOOM_PLANTFOOD_DESCRIPTION]
-Sin efecto de Nutrientes.
+^D22808^Sin efecto de Nutrientes.^oldclr^
 
 [BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
 ^D22808^El atuendo no altera su efecto de Nutrientes.^oldclr^
@@ -3961,7 +3950,7 @@ El tiempo de carga del ataque potenciado se reduce en un 50%
 Gana un 90% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse
 
 [AGAVE_NEW_SKILL_LEVEL5_DES]
-Habilidad en desarrollo...
+El ataque cargado libera varios cortes que dañan al primer zombi de la línea.
 
 [AGAVE_PLANTFOOD_DESCRIPTION]
 Envía una onda de choque que inflige 1.600 DPS a cada zombi delante de él.
@@ -10443,7 +10432,7 @@ Ranúnculo
 Pastel de celebración
 
 [BUTTERCUP_AVATAR_PLANTFOOD_DESCRIPTION]
-Los charcos de manteca del efecto inmovilizan a 2 zombis y desaparecen después de 12 segundos. ^D22808^Daño: 350^oldclr^
+Los charcos de manteca del efecto inmovilizan a 2 zombis y desaparecen después de 12 s. ^D22808^Daño: 350^oldclr^
 
 [BUTTERCUP_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}una casilla al frente
@@ -10459,7 +10448,7 @@ Ranúnculo unta de mantequilla a los zombis que la atacan, y los aturde mantecos
 {KEYWORD}Nutrientes: {STAT}Lanza mantequilla a los zombis que tenga justo delante, infligiéndoles daño y aturdiéndolos durante mucho tiempo.
 
 [BUTTERCUP_NEW_SKILL_LEVEL1_DES]
-Unta de mantequilla a los zombis que la atacan. ^D22808^Manteca: 100 DPS y dura 10 s (charco) - Condición: 5 s^oldclr^
+Unta de mantequilla a los zombis que la atacan. ^D22808^Manteca: 100 DPS, dura: 10 s (charco), 5 s (condición)^oldclr^
 
 [BUTTERCUP_NEW_SKILL_LEVEL2_DES]
 Sus charcos de mantequilla pueden inmovilizar a 1 zombi adicional (2 en total).
@@ -27077,17 +27066,19 @@ Dispara semillas, asalta a los zombis que tiene delante si lo atacan
 Setaguardia
 
 [GUARDSHROOM_DESCRIPTION]
-¿Qué tiene en común 3.154e+13 y Setaguardia? Cuando Dave preguntó, Penny tardó más de 4 horas en completar el censo de Setaguardias y salir del sótano. Penny afirma con convicción que la cifra es precisa y ha prohibido que nadie baje a comprobarlo.
+{KEYWORD}Minisetas: {STAT}engullen zombis y potencian setas y otras plantas de una misma casilla
+
+{FLAVOR}¿Qué tiene en común 3.154e+13 y Setaguardia? Cuando Dave preguntó, Penny tardó más de 4 horas en completar el censo de Setaguardias y salir del sótano. Penny afirma con convicción que la cifra es precisa y ha prohibido que nadie baje a comprobarlo.
 
 [GUARDSHROOM_DESCRIPTION_HEADER]
-Se trata de una seta anfibia que generará miniversiones de sí misma para proteger a las plantas adyacentes. Estas minisetas son capaces de engullir a los zombis, así como de potenciar significativamente a las setas y otras plantas con las que compartan casilla.
+Seta anfibia que genera miniversiones de sí misma para proteger a las plantas adyacentes.
 
 [GUARDSHROOM_DESCRIPTION_PLANTFOOD]
 {KEYWORD}Nutrientes: {STAT}Cuerpo principal: arrastra a varios zombis y los golpea.
 Mini: reactiva la habilidad Nutrientes de la planta anfitriona.
 
 [GUARDSHROOM_TOOLTIP]
-Se replica para proteger a las plantas adyacentes.
+Se replica para proteger a las plantas adyacentes
 
 [GUMNUT]
 Nuez chicletera
@@ -27115,7 +27106,7 @@ Nuez chicletera lanza chicles a los zombis que los inmovilizan y hacen que bloqu
 Lanza chicles que inmovilizan y bloquean zombis. ^D22808^Salud chiclosa: 8.000 (máx 10.000)^oldclr^
 
 [GUMNUT_NEW_SKILL_LEVEL2_DES]
-Cuando los zombis comen su chicle, existe un 20% de que sean ^ff4284^hipnotizados^oldclr^ (no afecta a Zombisteins ni a Mecas).
+Cuando los zombis comen su chicle, existe un 20% de que sean ^ff4284^hipnotizados^oldclr^ (no afecta Zombisteins ni Mecas).
 
 [GUMNUT_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%).
@@ -30230,10 +30221,10 @@ El Lanzamaíz catapulta maíz y mantequilla a los zombis.
 {KEYWORD}Nutrientes: {STAT}Invoca una tormenta de mantequilla que aturde a todos los zombis del patio durante unos segundos.
 
 [KERNELPULT_FAMILY]
-Zea
+Poaceae (Gramíneas)
 
 [KERNELPULT_GENUS]
-Poaceae (Gramíneas)
+Zea
 
 [KERNELPULT_NEW_SKILL_LEVEL1_DES]
 Arroja maíz a los zombis. ^E2725B^Manteca: hace 40 DPS, inmoviliza por 8 s (20% probable).^oldclr^
@@ -30251,7 +30242,7 @@ Gana un 35% de probabilidad de ser potenciado por el efecto de Nutrientes al pla
 Lanzamaíz está basado en el maíz (Zea Mays) es una planta originaria de América y una de las principales bases de la alimentación humana y animal. Se caracteriza por su tallo robusto, hojas largas y mazorcas compuestas de granos dispuestos en hileras, que pueden ser de diversos colores como amarillo, blanco, rojo o morado. Además de su uso como alimento, es una importante materia prima en la industria y la producción de biocombustible.
 
 [KERNELPULT_PEDIA_EXTRA]
-El maíz fue domesticado hace unos 9,000 años en el sur de México a partir de una planta silvestre llamada teocintle. Se convirtió en el alimento base de muchas culturas mesoamericanas, como los mayas y aztecas, quienes lo usaban en tortillas, tamales y bebidas rituales. Además de su valor alimenticio, tenía un profundo significado religioso y simbólico.
+El maíz fue domesticado hace unos 9,000 años en el sur de México a partir de una planta silvestre llamada teocintle. Se convirtió en el alimento base de muchas culturas mesoamericanas, como los mayas y aztecas, quienes lo usaban en tortillas, tamales y bebidas. Además de su valor alimenticio, tenía un profundo significado religioso y simbólico.
 
 [KERNELPULT_PLANTFOOD_DESCRIPTION]
 Lanza mantequilla a todos los zombis del patio.
@@ -30359,7 +30350,7 @@ Se vuelve más poderosa cuanto más daño sufre
 Kiwimono
 
 [KIWIFRUIT_AVATAR_NAME]
-Rey Mono
+Corona oriental
 
 [KIWIFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 El bastón alcanza 5 casillas; golpea por 2da vez, aumentando el entierro a 6 s. ^D22808^Daño: 1.500 (x2)^oldclr^
@@ -32160,10 +32151,10 @@ Puedes plantar plantas no acuáticas sobre los Nenúfares.
 {KEYWORD}Nutrientes: {STAT}Crea Nenúfares en espacios adyacentes. Si ya hubiera un Nenúfar, lo cura en su lugar.
 
 [LILYPAD_FAMILY]
-Nelumbo
+Nelumbonaceae
 
 [LILYPAD_GENUS]
-Nelumbonaceae
+Nelumbo
 
 [LILYPAD_NEW_SKILL_LEVEL1_DES]
 Úsala para colocar plantas no acuáticas en terrenos con agua como la ^E2725B^Playa de la Gran Ola.^oldclr^
@@ -49561,16 +49552,16 @@ Reduce su coste en soles en 30
 La recarga de su paquete de semillas se reduce en un 10%
 
 [NEW_AVATAR_DESCRIPTION_KERNELPULT_1]
-La velocidad de ataque al usar Nutrientes y al arrojar mantequilla al enemigo aumenta en un 20%; su coste en soles se reduce en 20.
+La velocidad de ataque al arrojar mantequilla aumenta en un 20%; su coste se reduce en 20
 
 [NEW_AVATAR_DESCRIPTION_KERNELPULT_2]
-Su velocidad de ataque aumenta en un 10%.
+Su velocidad de ataque aumenta en un 10%
 
 [NEW_AVATAR_DESCRIPTION_KIWIBEAST]
-Su salud aumenta en un 15%.
+Su salud aumenta en un 15%
 
 [NEW_AVATAR_DESCRIPTION_KIWIFRUIT_1]
-Su coste en soles se reduce en 20.
+Su coste en soles se reduce en 20
 
 [NEW_AVATAR_DESCRIPTION_KIWIFRUIT_2]
 Aumenta la velocidad de ataque en un 15%.
@@ -101912,58 +101903,58 @@ Compra un Paquete de Regalo de Artefactos.
 Paquete de Artefactos
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_1]
-Paquete de Abanico caótico
+Paquete caótico
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_10]
-Paquete de Degrada-zombis
+Paquete degradador
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_11]
-Paquete de Prisma solar
+Paquete solar
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_12]
-Paquete de Cuerno primitivo
+Paquete primitivo
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_13]
-Paquete de Deformador cósmico
+Paquete cósmico
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_14]
-Paquete de Lanzador de metoros
+Paquete de metoros
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_15]
-Paquete de Sombrero mágico
+Paquete mágico
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_16]
-Paquete de Colmena
+Paquete colmena
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_17]
 Paquete de Artefactos
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_18]
-Paquete de Acidificador potente
+Paquete ácido
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_19]
-Paquete de Ventisquero
+Paquete ventisquero
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_2]
-Paquete de Pistola de rayos
+Paquete eléctrico
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_20]
-Paquete de Llaves dimensionales
+Paquete dimensional
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_21]
-Paquete pequeño de mejora
+Minilote de mej.
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_22]
-Paquete mediano de mejora
+Paquete de mej.
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_23]
-Paquete grande de mejora
+Superlote de mej.
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_24]
-Paquete de Tridente de Poseidón
+Paquete de Poseidón
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_3]
-Paquete de Energía I
+Paquete de Energía
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_4]
 Paquete de Energía II
@@ -101975,13 +101966,13 @@ Paquete de Energía III
 Paquete de Pulpotech
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_7]
-Paquete de Reloj espacio-temporal
+Paquete espacio-temporal
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_8]
-Paquete de Fuegos artificiales
+Paquete pirotécnico
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_9]
-Paquete de Platillo volador
+Paquete extraterrestre
 
 [STORE_CATEGORY_NAME_AVATARS]
 Atuendos
@@ -104985,7 +104976,7 @@ Caña de azúcar bloquea y retiene a los zombis atacantes. Puede recuperar salud
 Saccharum
 
 [SUGARCANE_GENUS]
-Poaceae
+Poaceae (Gramíneas)
 
 [SUGARCANE_NEW_SKILL_LEVEL1_DES]
 Bloquea y retiene zombis, empujándolos 0,5 casillas hacia atrás. ^E2725B^El daño que recibe se reduce en un 50% y recupera 150 puntos de salud por 5 segundos si no recibe daño^oldclr^
@@ -105670,10 +105661,9 @@ La producción solar se reduce en un 70%
 ¿Te has quedado sin Soles? ¡Gasta Joyas aquí para obtener más!
 
 [SUPER_ACCESSORY_STEADY_DES_DESCRIPTION]
-1. Para mejorar un Colgante, se requiere de Polvo del espacio-tiempo y Cristales del espacio-tiempo. El Polvo del espacio-tiempo puede conseguirse a través de las recompensas en los niveles regulares y en el Desafío contra el Jefe de La Búsqueda de Penny, mientras que los Cristales del espacio-tiempo, se consiguen en La Tienda de Intercambios de Penny.
-2. Al mejorar un Colgante, se mejorarán los atributos que este posee.
-3. Al mejorar un Colgante, no se gastará el número respectivo de Piezas, solo se consumirá el número de Polvo del espacio-tiempo al mejorar un Colgante al Nivel uno y dos, mientras que el número de Cristales del espacio-tiempo se consumirá al mejorar un Colgante al nivel tres y superior.
-4. Si el jugador lo desea, podrá restablecer el nivel de los Colgantes y recuperar el número de Polvo del espacio-tiempo y Cristales del espacio-tiempo utilizados en ello, al gastar Joyas.
+1. Se necesita Polvo y Cristales del espacio-tiempo para mejorar colgantes, se obtienen en La Búsqueda de Penny.
+2. Mejorar un Colgante no gasta Piezas, solo Polvo (Nvl. 1-2) y Cristales (Nvl. 3-5).
+4. Si así lo deseas, puedes restablecer el nivel de los Colgantes y recuperar el material gastado a cambio de Joyas.
 
 [SUPER_ACCESSORY_STEADY_DES_TITLE]
 Mejorar Colgantes de Nivel
