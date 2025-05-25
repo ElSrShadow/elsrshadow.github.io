@@ -36911,7 +36911,7 @@ Flor lunar radia un brillo que potencia a las plantas sombrías adyacentes.
 
 [MOONFLOWER_NEW_SKILL_LEVEL1_DES]
 Produce sol y potencia plantas sombrías.
-^A048CF^Potenciada: da hasta 3 soles extra con las adyacentes (máx. 4)^oldclr^
+^A048CF^Potenciada: da hasta 3 soles extra con las plantas sombrías adyacentes (máx. 4)^oldclr^
  
 [MOONFLOWER_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de probabilidad de producir 25 soles al plantarse.
