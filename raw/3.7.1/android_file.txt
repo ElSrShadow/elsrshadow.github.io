@@ -5089,7 +5089,8 @@ Inflige daño de área alrededor del zombi alcanzado por el rayo. ^D22808^Daño:
 Anturio lanza rayos y absorbe las cargas eléctricas de las plantas a su alrededor.
 
 [ANTHURIUM_NEW_SKILL_LEVEL1_DES]
-Lanza rayos y absorbe descargas eléctricas. ^E2725B^Absorción de cargas: se activa con min. 2 plantas (área 3x3), el sigte. ataque hará 400 DPS (casilla).^oldclr^
+Lanza rayos y absorbe descargas eléctricas.
+^E2725B^Absorción de cargas: se activa con min. 2 plantas (área 3x3), el sigte. ataque hará 400 DPS (casilla).^oldclr^
 
 [ANTHURIUM_NEW_SKILL_LEVEL2_DES]
 Gana un 7.5% de probabilidad de usar un fuerte ataque de rayos. ^D22808^Daño: 600^oldclr^
@@ -18483,7 +18484,8 @@ Al usar Nutrientes, lanza 20 espadas adicionales hacia arriba y abajo (70 en tot
 Drácena es un maestro de la espada, utiliza la energía de sus ataques para dañar a los zombis de la línea.
 
 [DRACAENA_NEW_SKILL_LEVEL1_DES]
-Ataca zombis con diferentes tipos de espada. ^E2725B^Espada voladora: elimina zombis con un 40% de salud o menos^oldclr^
+Ataca zombis con diferentes tipos de espada.
+^E2725B^Espada voladora: elimina zombis con un 40% de salud o menos^oldclr^
 
 [DRACAENA_NEW_SKILL_LEVEL2_DES]
 Aumenta la salud requerida para eliminar zombis con su espada voladora en un 10% (ahora es de un 50%)
@@ -18544,7 +18546,8 @@ Narcisil gira sin parar, ralentizando así, a los zombis voladores, y lanzando s
 {KEYWORD}Nutrientes: {STAT}Repele a todos los zombis de la línea. Lanza varias ráfagas de aire que infligen daño y aturden a los zombis de la fila.
 
 [DRAFTODIL_NEW_SKILL_LEVEL1_DES]
-Lanza salvas de aire comprimido que ralentizan zombis voladores un 30% por 5 s.
+Lanza salvas de aire comprimido que aturden zombis terrestres por 0.5 s
+^979A9A^Voladores al ralentí: 30% ralentización por 5 s^oldclr^
 ^E2725B^Especial: 50% de eliminar zombis voladores, 25% de expulsar alimañas^oldclr^
 
 [DRAFTODIL_NEW_SKILL_LEVEL2_DES]
@@ -18791,7 +18794,8 @@ Aturde al resto de zombis con su rugido durante 3 segundos.
 Hierba dinosaurio se devora a los zombis cercanos y escupe huevos no digeridos. Mientras mastica, escupe baba a los zombis que se acerquen.
 
 [DRAGONROAR_NEW_SKILL_LEVEL1_DES]
-Devora zombis y les escupe baba mientras digiere. ^E2725B^Eficaz contra huevos de dinosaurio^oldclr^
+Devora zombis y les escupe baba mientras digiere.
+^E2725B^Tip: eficaz contra huevos de dinosaurio^oldclr^
 
 [DRAGONROAR_NEW_SKILL_LEVEL2_DES]
 Cuando mastica, existe un 25% de probabilidad de escupir baba venenosa que inflige más daño. ^D22808^Daño: 90^oldclr^
@@ -19182,7 +19186,8 @@ Lanza estrellas electrificadas que ^848484^aturden^oldclr^ zombis durante 1 segu
 Berenjena ninja lanza shurikens a los zombis para infligirles daño en la ida y a la vuelta.
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL1_DES]
-Lanza una estrella ninja que inflige daño en la ida y a la vuelta. ^E2725B^Estrella doble: hace 90 DPS.^oldclr^
+Lanza una estrella ninja que inflige daño en la ida y a la vuelta.
+^E2725B^Estrella doble: se activa cada 3 ataques, hace 90 DPS.^oldclr^
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de lanzar una estrella de fuego que inflige más daño.
@@ -19240,7 +19245,8 @@ Los misiles del efecto de Nutrientes aturden a los zombis impactados durante 2 s
 Flor de garceta ataca a los zombis con misiles a corta distancia. A veces, lanza misiles a largas distancias para aturdirlos.
 
 [EGRETFLOWER_NEW_SKILL_LEVEL1_DES]
-Ataca a los zombis cercanos con 6 misiles. ^E2725B^Misil aturdidor: se activa cada 8 s, hace 90 DPS y ^848484^aturde^oldclr^ ^E2725B^por 2 s.^oldclr^
+Ataca a los zombis cercanos con 6 misiles, luego descansa.
+^E2725B^Misil aturdidor: se activa cada 8 s, hace 90 DPS y ^848484^aturde^oldclr^ ^E2725B^por 2 s.^oldclr^
 
 [EGRETFLOWER_NEW_SKILL_LEVEL2_DES]
 Cada Flor de garceta en el patio aumentará el daño de las presentes en un 10% (hasta un 30% como máximo)
@@ -19671,7 +19677,8 @@ Esta planta anfibia genera una cáscara que se desliza por su línea para atacar
 {KEYWORD}Nutrientes: {STAT}Libera una supercáscara por su línea para infligir un gran daño a todos los zombis en su camino.
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL1_DES]
-Genera una cáscara que se desliza y regresa. ^E2725B^Casillas electrificadas: hacen 10 DPS/0,5 s durante 1 s.^oldclr^
+Genera una cáscara que se desliza y regresa.
+^E2725B^Casillas electrificadas: hacen 10 DPS/0,5 s durante 1 s.^oldclr^
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL2_DES]
 El alcance de su ataque aumenta en 1 casilla, las anguilas se mueven un 20% más rápido.
@@ -19740,7 +19747,8 @@ Se prolonga el tiempo del hielo dejado a 10 segundos.
 Giran por toda la línea donde las plantes para dañar a los zombis enemigos con los que impacten.
 
 [ELEOCURLING_NEW_SKILL_LEVEL1_DES]
-La castaña pequeña gira con un ^E2725B^50% de dejar hielo.^oldclr^ La grande causa un 25% más de daño y extiende el hielo.
+Castaña pequeña: gira con un 50% de dejar hielo hasta golpear algo.
+^E2725B^Castaña grande: causa un 25% más de daño y extiende el hielo.^oldclr^ 
 
 [ELEOCURLING_NEW_SKILL_LEVEL2_DES]
 Aumenta la probabilidad de dejar hielo en un 25% (ahora es de un 75%).
@@ -19752,10 +19760,11 @@ Se reduce el tiempo de recuperación para ambas castañas en 2 segundos
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [ELEOCURLING_NEW_SKILL_LEVEL5_DES]
-Existe un 50% de que la castaña grande inflija daño en una casilla; puede que la pequeña no desaparezca tras impactar. ^D22808^Daño: 600^oldclr^
+Castaña pequeña: tiene un 50% de permanecer en pie tras impactar.
+^E2725B^Castaña grande: existe un 50% de que inflija 500 DPS en una casilla^oldclr^ 
 
 [ELEOCURLING_PLANTFOOD_DESCRIPTION]
-Carga por la línea contra zombis pequeños y medianos mientras deja hielo que desaparece tras 5 s. ^D22808^Daño: 2.000^oldclr^
+Carga por la línea contra zombis medianos mientras deja hielo que desaparece tras 5 s. ^D22808^Daño: 2.000^oldclr^
 
 [ELEOCURLING_PRODUCT_SHORT_DESC]
 Giran y dañan a los zombis de la línea; pueden dejar hielo en el camino
@@ -22370,7 +22379,7 @@ Convoca un soldado adicional con una bomba más grande. ^D22808^Daño: 1.000^old
 Ofiura divina convoca soldaditos que se dirigen a los zombis y los atacan de diferentes formas por un tiempo.
 
 [EYWA_NEW_SKILL_LEVEL1_DES]
-Convoca unidades que atacan zombis a distancia y ^E2725B^evolucionan con el tiempo.^oldclr^
+Convoca unidades que atacan zombis a distancia y evolucionan con el tiempo.
 
 [EYWA_NEW_SKILL_LEVEL2_DES]
 Las unidades evolucionan a Fusilero al atacar por primera vez. Reduce el número de ataques para evolucionar en 1.
@@ -23892,7 +23901,8 @@ Escupe una llamarada con forma de dragón. ^D22808^Daño: 2.700 (1.200 a estante
 Calabaza de fuego carga y desata una poderosa ráfaga de fuego, la cual, inflige mucho daño por un tiempo.
 
 [FIREGOURD_NEW_SKILL_LEVEL1_DES]
-Tócala para desatar poderosas ráfagas de fuego que duran 2 s. ^E2725B^Quema estantes: daño x2.5, duración + 2s^oldclr^
+Tócala para desatar poderosas ráfagas de fuego que duran 2 s.
+^E2725B^Quema estantes: daño x2.5, duración + 2s^oldclr^
 
 [FIREGOURD_NEW_SKILL_LEVEL2_DES]
 La duración de las llamaradas es incrementada en 1 segundo (ahora es de 3 segundos).
@@ -23953,7 +23963,7 @@ Quemaguisantes dispara guisantes en llamas en la línea.
 {KEYWORD}Nutrientes: {STAT}Deja un rastro de fuego que descongela a las plantas e inflige daño a los zombis de la fila.
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Lanza guisantes en llamas y ^E2725B^calienta a las plantas cercanas^oldclr^
+Lanza guisantes en llamas y ^FFA500^calienta a las plantas cercanas^oldclr^
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de probabilidad de disparar 2 guisantes en llamas a la vez.
@@ -24004,7 +24014,8 @@ Las llamas del efecto explotan al apagarse, infligiendo daño adicional.
 Seta pirómana empieza siendo pequeña y débil. Luego crece, haciendo sus ataques cada vez más ardientes y poderosos.
 
 [FIRESHROOM_NEW_SKILL_LEVEL1_DES]
-Lanza bolas de fuego a los zombis, crece cada 40 segundos. ^E2725B^Rocas ardientes: hacen 75 DPS (37 en área 3x3)^oldclr^
+Lanza bolas de fuego a los zombis, crece cada 40 segundos.
+^E2725B^Rocas ardientes: hacen 75 DPS (37 en área 3x3)^oldclr^
 
 [FIRESHROOM_NEW_SKILL_LEVEL2_DES]
 Crece un 50% más rápido; su poder de ataque aumenta en un 15% adicional.
@@ -24193,7 +24204,8 @@ Lanza de 3 a 7 bolas de fuego a máx. 10 zombis mientras el efecto está activo.
 Reina flor de fuego lanza bolas de fuego a los zombis de la línea. Los ataca con llamaradas cuando están cerca.
 
 [FLAMELADY_NEW_SKILL_LEVEL1_DES]
-Lanza bolas de fuego. ^E2725B^Llamaradas: se activan con zombis 3 casillas al frente, hacen 90 DPS^oldclr^
+Lanza bolas de fuego que hacen daño de área.
+^FFA500^Llamaradas: se activan con zombis 3 casillas al frente, hacen 90 DPS^oldclr^
 
 [FLAMELADY_NEW_SKILL_LEVEL2_DES]
 Aumenta el alcance de las llamaradas a 5 casillas (sin afectar el rango de activación).
@@ -24205,7 +24217,8 @@ Gana la habilidad de atacar con fuego azul que inflige un 20% más de daño adic
 Cada vez que la plantes, será potenciada por el efecto de Nutrientes
 
 [FLAMELADY_NEW_SKILL_LEVEL5_DES]
-Ataca con fuego púrpura de cerca que inflige un 80% más de daño adicional; lanza 3-5 bolas de fuego rojas, azules y púrpuras al mismo tiempo.
+Lanza 3-5 bolas de fuego rojas, azules y púrpuras al mismo tiempo.
+^A048CF^Llamaradas: se vuelven moradas e infligen un 80% de daño adicional^oldclr^
 
 [FLAMELADY_PLANTFOOD_DESCRIPTION]
 Deja un rastro de fuego en su línea y en las adyacentes durante 6 segundos. ^D22808^Daño: 320^oldclr^
@@ -24792,7 +24805,8 @@ Los zombis alcanzados por su efecto, se incendiarán y recibirán daño durante 
 Hierba jardinera corta a los zombis atacantes con los afilados pétalos de sus flores, y de vez en cuando, los aturde durante un tiempo.
 
 [GARDENERGRASS_NEW_SKILL_LEVEL1_DES]
-Corta a los zombis atacantes con sus afilados pétalos. ^E2725B^Ataque especial: 5% probable^oldclr^
+Corta a los zombis atacantes con sus afilados pétalos.
+^E2725B^Ataque especial: 5% probable^oldclr^
 
 [GARDENERGRASS_NEW_SKILL_LEVEL2_DES]
 Su tiempo de recuperación se reduce en 2.5 segundos.
@@ -26647,7 +26661,7 @@ Chile fantasma acecha a los zombis que lo atraviesan y explota después de un ti
 {KEYWORD}Nutrientes: {STAT}Inflige daños grandes a todos los zombis cercanos y reinicia su temporizador de vida.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL1_DES]
-Acecha a los zombis que lo atraviesan, explota pasado 10 s. ^E2725B^Daño explosivo: 450 (área 3x3).^oldclr^
+Acecha a los zombis que lo atraviesan, explota pasado 10 s. ^D22808^Daño explosivo: 450 (área 3x3).^oldclr^
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL2_DES]
 Gana la habilidad de atacar a los zombis en un patrón de cruz.
@@ -26953,7 +26967,8 @@ Tras usar Nutrientes, recupera un 40% de energía con sus snacks
 Bocadragón glotón come bocadillos o mordisquea zombis para acumular energía, luego la utiliza para escupir llamaradas potentes.
 
 [GLUTTONYDRAGON_NEW_SKILL_LEVEL1_DES]
-Come snacks o muerde zombis para aumentar su energía. ^E2725B^Ataque especial: hace 100 DPS^oldclr^
+Come snacks o muerde zombis para aumentar su energía.
+^E2725B^Ataque especial: hace 100 DPS^oldclr^
 
 [GLUTTONYDRAGON_NEW_SKILL_LEVEL2_DES]
 Reduce el consumo de energía un 10%; las llamaradas se tornan azules pasado 50 s, doblando el daño.
@@ -27675,7 +27690,8 @@ Al usar Nutrientes, lanza 1 martillo adicional (2 en total).
 Flor martillo golpea a los zombis cercanos, puede lanzar un ataque devastador que los inmoviliza durante un tiempo.
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL1_DES]
-Golpea a los zombis con su martillo. ^E2725B^Ataque devastador: daño x1.2, enterrar por 3s (20% probable).^oldclr^
+Golpea a los zombis cercanos con su martillo.
+^E2725B^Ataque devastador: daño x1.2, enterrar por 3s (20% probable).^oldclr^
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL2_DES]
 Duplica la probabilidad de lanzar ataques devastadores (ahora es de un 40%).
@@ -27737,7 +27753,8 @@ Repele a todos los zombis de la línea al usar Nutrientes
 Al inicio, Puerro de sol produce soles con el paso del tiempo. Luego crece, ganando la habilidad de repeler zombis a otras líneas.
 
 [HAPPYLEEK_NEW_SKILL_LEVEL1_DES]
-Produce sol al inicio, repele zombis cuando crece. ^E2725B^Especial: da 100 soles al ser quitado, renace en 60 s^oldclr^
+Produce sol al inicio, repele zombis cuando crece.
+^E2725B^Especial: da 100 soles al ser quitado, renace en 60 s^oldclr^
 
 [HAPPYLEEK_NEW_SKILL_LEVEL2_DES]
 El tiempo entre rebrotes se reduce en 10 segundos. No pierde hojas cuando repele zombis por primera vez.
@@ -28067,7 +28084,8 @@ Ataca a los zombis en un rango más amplio y echa mantequilla 4 veces. Afecta zo
 Lechuga mantecosa cabecea a los zombis por delante y por detrás y les echa mantequilla en algunas ocasiones.
 
 [HEADBUTTERLETTUCE_NEW_SKILL_LEVEL1_DES]
-Cabecea y echa mantequilla. ^E2725B^Manteca: hace 40 DPS, aturde por 8 s (10% probable)^oldclr^
+Cabecea zombis y a veces les echa mantequilla.
+^E2725B^Manteca: hace 40 DPS, aturde por 8 s (10% probable)^oldclr^
 
 [HEADBUTTERLETTUCE_NEW_SKILL_LEVEL2_DES]
 La probabilidad de echar mantequilla aumenta en un 15%; esta dura 1 segundo más (9 en total).
@@ -28939,7 +28957,8 @@ Tiene un 50% de probabilidad de activar un bis al usar Nutrientes (máx. 2 veces
 Corazón de cera es una planta de apoyo que mejora al compañero que tiene a su derecha, aumentando su poder de ataque y restaurando su salud. Existe la posibilidad de liberar un bis en la planta mejorada.
 
 [HOYACORDATA_NEW_SKILL_LEVEL1_DES]
-Cura 60 PS y potencia a la planta que tiene a su derecha en un 20%. ^E2725B^Bis: 30% probable^oldclr^
+Cura 60 PS y potencia a la planta que tiene a su derecha en un 20%
+^E2725B^Bis: 30% probable^oldclr^
 
 [HOYACORDATA_NEW_SKILL_LEVEL2_DES]
 Reduce el tiempo de recuperación en 2.5 segundos, aumenta la probabilidad de activar el bis a un 40%
@@ -29420,7 +29439,8 @@ Crea 1 sumidero adicional al usar Nutrientes (ahora 3)
 Seta criogénica empieza siendo pequeña y débil. Luego crece, haciendo sus ataques cada vez más fríos y poderosos.
 
 [ICESHROOM_NEW_SKILL_LEVEL1_DES]
-Lanza bolas de hielo a los zombis, crece cada 30 segundos. ^E2725B^Cadena creciente: 60 → 64 (x2) → 48 DPS (x2)^oldclr^
+Lanza bolas de hielo a los zombis, crece cada 30 segundos.
+^E2725B^Cadena creciente: 60 → 64 (x2) → 48 DPS (x2)^oldclr^
 
 [ICESHROOM_NEW_SKILL_LEVEL2_DES]
 Crece un 50% más rápido; gana un 7,5% de probabilidad de ^0072ff^congelar^oldclr^ zombis con sus ataques.
@@ -30059,7 +30079,7 @@ Corona
 Jaca ataca a una fila entera de zombis y bloquea pasadizos secretos.
 
 [JACKFRUIT_NEW_SKILL_LEVEL1_DES]
-Rueda y ^E2725B^bloquea los pasadizos secretos del Guía perdido.^oldclr^ ^D22808^Semillas: 250 PS^oldclr^
+Rueda y bloquea los pasadizos secretos del Guía perdido. ^D22808^Semillas: tienen 250 PS^oldclr^
 
 [JACKFRUIT_NEW_SKILL_LEVEL2_DES]
 Su salud aumentará en un 25% cada vez que bloquee pasadizos secretos.
@@ -30226,7 +30246,8 @@ El área de excavación al usar Nutrientes se amplia a 5x5
 Este par de gemelos escavan túneles y dañan o expulsan zombis al salir de la tierra bajo sus pies.
 
 [JEWELRABBIT_NEW_SKILL_LEVEL1_DES]
-Escavan túneles, dañan zombis al resurgir y expulsan a los más pequeños. ^E2725B^Agujeros: duran 5 s^oldclr^
+Escavan túneles, dañan zombis al resurgir y expulsan a los más pequeños.
+^E2725B^Agujeros: tragan zombis, duran 5 s o hasta que un zombi caiga^oldclr^
 
 [JEWELRABBIT_NEW_SKILL_LEVEL2_DES]
 Sus ataques pueden expulsar a zombis medianos del patio.
@@ -30714,7 +30735,8 @@ Poaceae (Gramíneas)
 Zea
 
 [KERNELPULT_NEW_SKILL_LEVEL1_DES]
-Arroja maíz a los zombis. ^E2725B^Manteca: hace 40 DPS, inmoviliza por 8 s (20% probable).^oldclr^
+Arroja maíz y mantequilla a los zombis.
+^E2725B^Manteca: hace 40 DPS, inmoviliza por 8 s (20% probable).^oldclr^
 
 [KERNELPULT_NEW_SKILL_LEVEL2_DES]
 Lanzará un misil de maíz por cada 4 proyectiles catapultados. ^D22808^Daño: 150^oldclr^
@@ -30795,7 +30817,9 @@ Kiwibestia da golpetazos dañinos, y se vuelve más grande y poderosa cuanto má
 {KEYWORD}Nutrientes: {STAT}Alcanza inmediatamente su última fase e inflige daños enormes a su alrededor.
 
 [KIWIBEAST_NEW_SKILL_LEVEL1_DES]
-Da golpetazos dañinos. ^E2725B^Fase 2: PS < 2.200 (50 DPS, área 2x2) - Fase 3: PS < 1.550 (70 DPS, área 3x3)^oldclr^
+Fase 1: da golpetazos dañinos que hacen 40 DPS en una casilla.
+Fase 2: se activa con 2.200 PS o menos, hace 50 DPS (área 2x2)
+Fase 3: se activa con 1.550 PS o menos, hace 70 DPS (área 3x3)
 
 [KIWIBEAST_NEW_SKILL_LEVEL2_DES]
 El coste en soles de Kiwibestia se reducirá en 10 por cada una plantada. ^D22808^Coste mínimo: 170^oldclr^
@@ -30980,7 +31004,8 @@ El rango de acción del efecto cambia a 5x5. Golpea el suelo para infligir daño
 Hoya lanceada arroja su lanza para dañar a los zombis de la línea. Carga un ataque potente que se libera al tocar en ella.
 
 [LANCERHOYA_NEW_SKILL_LEVEL1_DES]
-Arroja lanzas. ^E2725B^Lanza potente: hace 1.000 DPS (2 casillas al frente), aturde por 1.5 s^oldclr^
+Arroja su lanza para dañar a los zombis de la línea.
+^E2725B^Lanza potente: hace 1.000 DPS (2 casillas al frente), aturde por 1.5 s^oldclr^
 
 [LANCERHOYA_NEW_SKILL_LEVEL2_DES]
 Reduce el tiempo de acumulación de energía en 2,5 segundos
@@ -31748,7 +31773,7 @@ Gana un 70% de probabilidad de ser potenciado por el efecto de Nutrientes al pla
 Se sobrecarga de energía cada 15 s, doblando el daño del láser. ^D22808^Daño: 240^oldclr^
 
 [LASER_BEAN_PLANTFOOD_DESCRIPTION]
-Dispara un enorme láser que hace 1.800 DPS.
+Dispara un enorme láser por la línea que hace 1.800 DPS.
 ^E2725B^Nvl. 5: el láser deja un rastro de energía que hace 1.500 DPS por 3 s^oldclr^
 
 [LASER_BEAN_PRODUCT_SHORT_DESC]
@@ -32585,7 +32610,8 @@ Junco eléctrico dispara un rayo al zombi más cercano a una línea de distancia
 {KEYWORD}Nutrientes: {STAT}Crea una tormenta que inflige daño a zombis aleatorios del patio.
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL1_DES]
-Dispara rayos al zombi más cercano. ^E2725B^Rebote: hace 5 DPS (máx. 3 objetivos).^oldclr^
+Dispara rayos al zombi más cercano a una línea de distancia.
+^E2725B^Rebote: hace 5 DPS (máx. 3 objetivos).^oldclr^
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL2_DES]
 Gana un 7.5% de probabilidad de liberar un relámpago rojo que ^ff9600^aturde^oldclr^ zombis por 1 s.
@@ -33523,7 +33549,8 @@ Combina gotas tóxicas que ^701edf^envenenan^oldclr^ zombis. ^D22808^Daño: 40, 
 Raíz de loto dispara gotas a los zombis y absorbe el vapor que tiene a su alrededor.
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL1_DES]
-Dispara gotas y absorbe el vapor alrededor. ^E2725B^Miasma: hace 1% de daño por 3 s^oldclr^
+Dispara gotas y absorbe el vapor de un área 3x3 alrededor.
+^E2725B^Miasma: hace 1% de daño por 3 s^oldclr^
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de probabilidad disparar 4 gotas la vez.
@@ -34631,7 +34658,8 @@ Aumenta el daño de su efecto de Nutrientes. ^D22808^Daño: 3.000^oldclr^
 Mandrágora de parkour corre a toda velocidad por la línea, haciendo acrobacias e infligiendo daño a los zombis que se encuentra a su paso.
 
 [MANDRAKE_NEW_SKILL_LEVEL1_DES]
-Corre por la línea, haciendo acrobacias y dañando zombis. ^E2725B^Los aturde o deja suspendidos por 0.5 s^oldclr^
+Corre por la línea, haciendo acrobacias y dañando zombis.
+^E2725B^Especia: aturde zombis o los deja suspendidos por 0.5 s^oldclr^
 
 [MANDRAKE_NEW_SKILL_LEVEL2_DES]
 Gana un 30% de liberar un fantasma que inflige el doble de daño y ^848484^aturde^oldclr^ zombis por 1 s
@@ -34709,7 +34737,8 @@ El campo se encoge infligiendo daño nueva vez y dejando otro más pequeño. ^D2
 Mangostán eléctrico reune energía, para luego, liberar campos eléctricos fulminantes en sus alrededores.
 
 [MANGOSTEEN_NEW_SKILL_LEVEL1_DES]
-Reune energía y la libera, crece cada 10 s y descansa tras 3 ataques. ^E2725B^Parálisis: 0 → 0.5 → 1.5 s^oldclr^
+Reune energía y la libera, crece cada 10 s y descansa tras 3 ataques.
+^E2725B^Parálisis: 0 → 0.5 → 1.5 s^oldclr^
 
 [MANGOSTEEN_NEW_SKILL_LEVEL2_DES]
 El número de ataques aumenta en 1 (ahora 4); reduce el tiempo de sobrecarga en 5 segundos
@@ -34785,7 +34814,8 @@ Se prolonga la duración del efecto en 1 s (ahora 4).
 Flor boxeadora golpea a los enemigos que tiene en frente con sus puños ardientes. Cuanto más ataque, más violenta y potente se volverá.
 
 [MATCHFLOWER_NEW_SKILL_LEVEL1_DES]
-Conecta 3 puñetazos y 1 gancho que dobla el daño. ^E2725B^Se fortalece cada 18 golpes (máx. 2 veces)^oldclr^
+Conecta 3 puñetazos y 1 gancho que dobla el daño.
+^E2725B^Especial: se fortalece cada 18 golpes (máx. 2 veces)^oldclr^
 
 [MATCHFLOWER_NEW_SKILL_LEVEL2_DES]
 La cantidad de golpes necesarios para que entre en llamas se reduce en 2 (ahora 16).
@@ -38344,7 +38374,9 @@ Las burbujas del efecto derriban zombis al contacto. ^D22808^Daño: 120^oldclr^
 Narciso es una planta anfibia que sopla burbujas para dañar los zombi cercanos. Es más fuerte en el agua.
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL1_DES]
-Sopla burbujas, hace 20 DPS extra en agua. ^E2725B^Burbujas grandes: 30% probable^oldclr^
+Sopla burbujas para dañar a los zombis cercanos.
+^4DD4DB^Hace 20 DPS extra plantado en agua.^oldclr^
+^E2725B^Burbujas grandes: se llevan cascos y Zombiditos (30% probable)^oldclr^
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de probabilidad de soplar 2 burbujas grandes a la vez.
@@ -49310,7 +49342,8 @@ El láser hace daño de salpicadura en un área 3x3. ^D22808^Daño: 300 (100, sa
 Rabo de gato dispara púas teledirigidas a los zombis más cercanos a tu casa, con la posibilidad de aturdirlos por un tiempo.
 
 [NEKOTAIL_NEW_SKILL_LEVEL1_DES]
-Dispara púas teledirigidas con un 10% de paralizar por 1 s. ^E2725B^Misil colosal: 3.600 DPS en área 3x3 (0,5% probable).^oldclr^
+Dispara púas teledirigidas con un 10% de paralizar zombis por 1 s
+^E2725B^Misil colosal: hace 3.600 DPS en un área 3x3 (0,5% probable).^oldclr^
 
 [NEKOTAIL_NEW_SKILL_LEVEL2_DES]
 Gana un 15% de probabilidad de lanzar una púa eléctrica. ^D22808^Daño: 135^oldclr^
@@ -52030,7 +52063,8 @@ Gorro de noche dispara estrellas venenosas perforadoras por la línea y se vuelv
 {KEYWORD}Nutrientes: {STAT}envenena a los zombis en 3 líneas y los empuja.
 
 [NIGHTCAP_NEW_SKILL_LEVEL1_DES]
-Dispara estrellas venenosas. ^E2725B^Sigilo oscuro: dura 10 s, hace 90 DPS/2 s^oldclr^
+Dispara estrellas venenosas a los zombis cercanos.
+^A048CF^Sigilo oscuro: dura 10 s, hace 90 DPS/2 s^oldclr^
 
 [NIGHTCAP_NEW_SKILL_LEVEL2_DES]
 Aumenta su rango de ataque en 1 casilla. La recarga de su forma oscura se reduce en 2,5 s
@@ -52090,7 +52124,8 @@ Solanácea es una planta sombría que abofetea zombis con la hoja abierta.
 {KEYWORD}Nutrientes: {STAT}Le vuelven a crecer todas sus hojas y después lanza tres hojas grandes a los zombis. Aumenta su daño permanentemente.
 
 [NIGHTSHADE_NEW_SKILL_LEVEL1_DES]
-Abofetea zombis con sus 3 hojas. ^E2725B^Especial: arroja hojas y las regenera por 5 s^oldclr^
+Abofetea zombis con sus 3 hojas.
+^A048CF^Potenciada: arroja hojas y las regenera por 5 s^oldclr^
 
 [NIGHTSHADE_NEW_SKILL_LEVEL2_DES]
 El tiempo para regenerar sus hojas se reduce a 4,5 segundos.
@@ -52703,6 +52738,7 @@ Gafas anti-radiación
 Lanza 3 misiles extra que priorizan zombis grandes. ^D22808^Daño: 700 (casilla)^oldclr^
 
 [NUKELAUNCHER_DESCRIPTION]
+{KEYWORD}Uso: {STAT}cuesta más soles según el número de Estrellas nucleares que haya en el mapa
 {KEYWORD}Especial: {STAT}sus misiles dejan radiación que muta y debilita zombis al contacto
 {KEYWORD}Características de la planta: {STAT}planta marrón, destructora, familia de armas
 
@@ -52712,7 +52748,8 @@ Lanza 3 misiles extra que priorizan zombis grandes. ^D22808^Daño: 700 (casilla)
 Las Estrellas nucleares son plantas poderosas que lanzan misiles, los cuales, infligen daño masivo y a la vez, dejan radiación que muta zombis.
 
 [NUKELAUNCHER_NEW_SKILL_LEVEL1_DES]
-Lanza misiles letales. ^E2725B^Radiación: muta zombis de Nvl. 2 (patrón de diamante).^oldclr^
+Lanza misiles que infligen daño masivo y dejan radiación.
+^E2725B^Radiación: muta zombis de Nvl. 2 (patrón de diamante).^oldclr^
 
 [NUKELAUNCHER_NEW_SKILL_LEVEL2_DES]
 Reduce el tiempo de recuperación en 3 s
@@ -52723,7 +52760,7 @@ Reduce el tiempo de recuperación en 6 s
 ^E2725B^Radiación: afecta zombis de Nvl. 5^oldclr^
 
 [NUKELAUNCHER_NEW_SKILL_LEVEL4_DES]
-Gana un 50% de ser potenciada por el efecto de Nutrientes al plantarse.
+Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 ^E2725B^Radiación: afecta zombis de Nvl. 7^oldclr^
 
 [NUKELAUNCHER_NEW_SKILL_LEVEL5_DES]
@@ -53069,7 +53106,8 @@ Ninguno
 Oliva de aceite deja charcos de aceite en un área pequeña, haciendo resbalar a las bailarinas de ballet que los pisen.
 
 [OLIVE_NEW_SKILL_LEVEL1_DES]
-Deja aceite para detener bailarinas de ballet. ^E2725B^Ignición: hace 100 DPS, dura 6 s^oldclr^
+Deja aceite para detener bailarinas de ballet.
+^E2725B^Ignición: hace 100 DPS, dura 6 s^oldclr^
 
 [OLIVE_PLANTFOOD_DESCRIPTION]
 ^FF0000^Sin efecto de Nutrientes.^oldclr^
@@ -54271,7 +54309,8 @@ Lanzaguisantes está basado en el guisante (Pisum Sativum), una planta ampliamen
 Se cree que su cultivo comenzó hace más de 10.000 años, en el Neolítico, cuando las sociedades empezaron a desarrollar la agricultura. Desde esta región, los guisantes se expandieron hacia Europa, Asia y otras partes del mundo. Fueron una de las primeras legumbres cultivadas y desempeñaron un papel clave en las dietas antiguas, gracias a su capacidad de ser almacenados durante largos períodos en forma seca.
 
 [PEASHOOTER_PLANTFOOD_DESCRIPTION]
-Dispara una ráfaga de 60 guisantes. ^E2725B^Nvl. 5: dispara 80 guisantes de plasma.^oldclr^
+Dispara una ráfaga de 60 guisantes.
+^E2725B^Nvl. 5: dispara 80 guisantes de plasma.^oldclr^
 
 [PEASHOOTER_PRODUCT_SHORT_DESC]
 Lanza guisantes al enemigo
@@ -56188,7 +56227,8 @@ Con Nutrientes, dispara piñas en llamas púrpuras que infligen mayor daño. ^D2
 Piñón pistolero dispara semillas de piñón a los zombis para infligirles daño masivo.
 
 [PINECONE_NEW_SKILL_LEVEL1_DES]
-Dispara semillas de pinón. ^E2725B^Ataque especial: hace 100 DPS (200 en casilla).^oldclr^
+Dispara semillas de piñón a los zombis, lanza ataques potentes al derrotarlos.
+^E2725B^Ataque especial: hace 100 DPS (200 en casilla).^oldclr^
 
 [PINECONE_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de probabilidad de disparar con ambas armas a la vez.
@@ -56338,7 +56378,8 @@ El tornado gigante es rodeado por otros más pequeños que aumentan la velocidad
 Banana danzante dispara tornados que causan daño a los zombis y a veces los empujan.
 
 [PLANTAIN_NEW_SKILL_LEVEL1_DES]
-Dispara tornados que dañan zombis. ^E2725B^Ataque especial: hace 100 DPS, 200 en casilla (30% probable).^oldclr^
+Dispara tornados que dañan zombis y a veces los empujan.
+^E2725B^Ataque especial: hace 100 DPS, 200 en casilla (30% probable).^oldclr^
 
 [PLANTAIN_NEW_SKILL_LEVEL2_DES]
 El tiempo de recuperación se reduce en 1 segundo.
@@ -58722,10 +58763,10 @@ La nave fue dañada y tu planta se encuentra en peligro, ¿deseas gastar ^00e46e
 Punt. obj.: {NUMBER}
 
 [POOYAN_TIP_CORE]
-Estos soles son el núcleo de energía de la nave espacial, ¡protégelos del daño!
+Estos soles son el núcleo de tu nave, ¡protégelos del daño o perderás!
 
 [POOYAN_TIP_MOVE]
-La operación deslizante puede controlar la aeronave para moverse a pantalla completa
+Desliza tu dedo sobre la nave para moverla, ¡evita los ataques enemigos!
 
 [POPCAP_GAMES_PRESENTS]
 PopCap Games presenta
@@ -58740,7 +58781,7 @@ Puedes recibir una de las siguientes recompensas
 Papapúm
 
 [POTATOMINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Se arma inmediatamente y genera ^E2725B^tres copias^oldclr^ suyas.
+Genera 1 clon adicional al usar Nutrientes (ahora 3).
 
 [POTATOMINE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, activación retardada
@@ -59308,7 +59349,7 @@ ANTERIOR
 Lanzaguisantes primitivo
 
 [PRIMALPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-Dispara una ráfaga de 5 guisantes pesados que infligen daño por salpicadura y derriban zombis en una casilla. ^E2725B^Luego, escupe una bola volcánica que deja lava por la línea, la lava dura 4 segundos.^oldclr^ ^E2725B^(El daño aumenta al Nvl. 3 y aún más al Nvl. 5)^oldclr^
+Con Nutrientes, escupe una bola volcánica que deja lava por la línea. ^D22808^Lava: dura 4 s^oldclr^
 
 [PRIMALPEASHOOTER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los guisantes primitivos pueden empujar a los zombis hacia atrás
@@ -59323,7 +59364,8 @@ Lanzaguisantes primitivo dispara guisantes pesados que aturden brevemente a los 
 {KEYWORD}Nutrientes: {STAT}Dispara varios guisantes capaces de empujar zombis.
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Dispara guisantes pesados que aturden por 0.5 s. ^E2725B^Especial: derribar 1 casilla (50% probable).^oldclr^
+Dispara guisantes pesados que aturden por 0.5 s
+^E2725B^Especial: derribar 1 casilla (50% probable).^oldclr^
 
 [PRIMALPEASHOOTER_NEW_SKILL_LEVEL2_DES]
 Gana un 15% de disparar una roca que inflige más daño. ^D22808^Daño: 150^oldclr^
@@ -59366,7 +59408,7 @@ Dispara guisantes pesados que aturden
 Papapúm primitiva
 
 [PRIMALPOTATOMINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Se arma inmediatamente y genera ^E2725B^tres copias^oldclr^ suyas.
+Al usar Nutrientes, crea 1 copia adicional (ahora 3).
 
 [PRIMALPOTATOMINE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, activación retardada
@@ -59382,7 +59424,8 @@ Papapúm primitiva cuesta más que la Papapúm común, pero se arma más rápido
 {KEYWORD}Nutrientes: {STAT}Se arma inmediatamente y genera varias copias suyas.
 
 [PRIMALPOTATOMINE_NEW_SKILL_LEVEL1_DES]
-Explota e inflige daño de área. ^E2725B^Especial: cuesta 25 soles menos en Pantano del Jurásico^oldclr^
+Explota al contacto, infligiendo daño de área.
+^E2725B^Especial: cuesta 25 soles menos en Pantano del Jurásico^oldclr^
 
 [PRIMALPOTATOMINE_NEW_SKILL_LEVEL2_DES]
 Su tiempo de armado se reduce en un 40%
@@ -59545,10 +59588,11 @@ Nuez primitiva cuesta un poquito más que la Nuez común, pero se plantan mucho 
 {KEYWORD}Nutrientes: {STAT}Se cura completamente y gana una gruesa armadura de roca.
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL1_DES]
-Muro de plantación rápida que bloquea zombis. ^E2725B^Especial: gana un 50% de salud en Pantano del Jurásico^oldclr^ 
+Muro de plantación rápida que bloquea zombis.
+^E2725B^Especial: gana un 50% de salud extra en Pantano del Jurásico^oldclr^ 
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL2_DES]
-Al ser destruida, dejará un pequeño clon en la casilla donde estaba plantada. ^D22808^Salud: 1.000^oldclr^
+Al ser destruida, dejará un pequeño clon en la casilla donde estaba plantada. ^D22808^Salud del clon: 1.000^oldclr^
 
 [PRIMALWALLNUT_NEW_SKILL_LEVEL3_DES]
 La salud de la Nuez pequeña aumenta al doble (ahora 2.000 PS).
@@ -86675,7 +86719,7 @@ Seta desesporada
 Lentes de nerd
 
 [PUFFSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Todas las Setas desesporadas del patio disparan una ^E2725B^ráfaga de súper-esporas^oldclr^ y reinicia su temporizador de vida.
+Con Nutrientes, dispara una ráfaga de súper-esporas que hacen más daño. ^D22808^Daño: 30^oldclr^
 
 [PUFFSHROOM_DESCRIPTION]
 {KEYWORD}Especial: {STAT}su coste en soles es gratis
@@ -90903,7 +90947,7 @@ Flor aceitosa
 Gafas purpuras
 
 [RAPEFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza ^E2725B^semillas de aceite en llamas^oldclr^ a cada zombi del patio
+Cuando usa Nutrientes, arroja semillas de aceite en llamas.
 
 [RAPEFLOWER_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}una fila al frente
@@ -90918,7 +90962,7 @@ Flor aceitosa arroja semillas de aceite para prender a los zombis en llamas. Ús
 
 [RAPEFLOWER_NEW_SKILL_LEVEL1_DES]
 Arroja semillas de aceite que prenden zombis en llamas.
-^D22808^Semillas en llamas: ^ef0123^incendian^oldclr^ ^D22808^zombis, haciéndoles 50 DPS por 5s^oldclr^
+^FFA500^Semillas en llamas: ^ef0123^incendian^oldclr^ ^D22808^zombis, haciéndoles 50 DPS por 5s^oldclr^
 ^E2725B^Columnas de fuego: hacen 150 de daño a zombis ya incendiados (casilla).^oldclr^
 
 [RAPEFLOWER_NEW_SKILL_LEVEL2_DES]
@@ -98119,14 +98163,14 @@ Cuando un zombi es derrotado por la niebla, existe un 15% de que se genere un v�
 ^A048CF^Vórtice: ralentiza y debilita zombis un 30%, dura 5 s^oldclr^
 
 [SHADOWVANILLA_NEW_SKILL_LEVEL3_DES]
-Gana un 20% de probabilidad de generar un vórtice que dura 7 segundos, ralentiza zombis y los debilita en un 45%
+La probabilidad de crear vórtices aumenta a un 20%, su efecto aumenta a un 45%
 
 [SHADOWVANILLA_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [SHADOWVANILLA_NEW_SKILL_LEVEL5_DES]
-Aumenta el efecto de la niebla sombría a un 40% y reinicia su duración.
-^A048CF^Potenciada: si la niebla impacta a un zombi ya afectado, crea un ciclo oscuro^oldclr^
+Un ataque normal aumenta el efecto de la niebla sombría a un 40% y reinicia su duración.
+^A048CF^Potenciada: si la niebla impacta a un zombi ya afectado, crea un ciclón oscuro^oldclr^
 ^E2725B^Ciclón oscuro: hace 1.800 DPS, dura 4s^oldclr^
 
 [SHADOWVANILLA_PLANTFOOD_DESCRIPTION]
@@ -98239,8 +98283,7 @@ Enredadera reluciente
 Gafas redondas
 
 [SHINEVINE_AVATAR_PLANTFOOD_DESCRIPTION]
-Produce 100 soles y ataca hasta 10 zombis de un área de 3x3, ^848484^aturdiéndolos^oldclr^ por 0,3 segundos y haciendo que suelten 5 soles cada uno.
-^E2725B^Tiene un 45% de probabilidad de dar una moneda de oro al usar Nutrientes^oldclr^
+Tiene un 45% de probabilidad de dar una moneda de oro al usar Nutrientes
 
 [SHINEVINE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}se aconseja usarla con plantas productoras de sol
@@ -98256,7 +98299,8 @@ Las Enredaderas relucientes son plantas enredadera que amplían la producción s
 {KEYWORD}Nutrientes: {STAT}Produce soles y aturde a todos los zombis cercanos.
 
 [SHINEVINE_NEW_SKILL_LEVEL1_DES]
-Aumenta la producción de las plantas solares debajo en 25 soles. Ataca a los zombis cercanos con una ráfaga que los ^848484^aturde^oldclr^ por 0,15 segundos y hace que den 5 soles por golpe.
+Aumenta la producción de las plantas solares debajo en 25
+^E2725B^Ráfaga solar: ^848484^aturde^oldclr^ ^E2725B^zombis por 0,15 s y hace que den 5 soles.^oldclr^
 
 [SHINEVINE_NEW_SKILL_LEVEL2_DES]
 La ráfaga aturdidora afecta a un grupo de zombis en un área pequeña (hasta 5 zombis)
@@ -98268,10 +98312,10 @@ Aumenta la cantidad de soles generados en 10 y el tiempo de aturdimiento de la r
 Gana un 50% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [SHINEVINE_NEW_SKILL_LEVEL5_DES]
-Toca en Enredadera reluciente para gastar 25 soles y disparar un ataque a distancia que hace 625 de daño; mantén pulsado para doblar el daño y el coste
+Tócala para gastar 25 soles y disparar un ataque que hace 625 DPS; mantén pulsado para doblar el daño y el coste
 
 [SHINEVINE_PLANTFOOD_DESCRIPTION]
-Produce 100 soles y ataca hasta 10 zombis de un área de 3x3, ^848484^aturdiéndolos^oldclr^ por 0,3 segundos y haciendo que suelten 5 soles cada uno.
+Produce 100 soles y ataca hasta 10 zombis de un área 3x3, ^848484^aturdiéndolos^oldclr^ por 0,3 s y haciendo que suelten 5 soles cada uno.
 
 [SHINEVINE_PRODUCT_SHORT_DESC]
 Aumenta la producción solar
@@ -98379,7 +98423,7 @@ Violeta reductora
 Zapatillas rojas
 
 [SHRINKINGVIOLET_AVATAR_PLANTFOOD_DESCRIPTION]
-Reduce a todos los zombis del patio, ^E2725B^disminuyendo su velocidad de movimiento en un 70% y aumentando el daño a un 30%^oldclr^
+Cuando usa Nutrientes, ralentiza zombis un 70% y aumenta el daño que reciben en un 30%
 
 [SHRINKINGVIOLET_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, se activa por contacto
@@ -98396,13 +98440,14 @@ Violeta reductora disminuye el tamaño de los zombis en un área, lo que provoca
 {KEYWORD}Nutrientes: {STAT}Reduce a todos los zombis del patio.
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL1_DES]
-Encoge a los zombis medianos que tenga cerca, reduciendo su velocidad de movimiento en un 50% y aumentando el daño que reciben en un 20%. ^E2725B^Los zombis pequeños son reducidos a la nada^oldclr^
+Reduce a los zombis, ralentizándolos un 50% y aumentando el daño que reciben en un 20%
+^E2725B^Especial: los zombis pequeños son reducidos a la nada^oldclr^
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL2_DES]
 Gana la habilidad de reducir el tamaño de los Zombisteins.
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL3_DES]
-Debilita a los zombis reducidos en un 50%. Su velocidad de movimiento disminuye en un 70%, el daño recibido aumenta a un 30%
+Debilita a los zombis reducidos en un 50%, los ralentiza un 70% y los hace un 30% más vulnerables al daño.
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL4_DES]
 Gana un 40% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
@@ -98523,7 +98568,7 @@ Tiraguisantes
 Diseño de carreras
 
 [SLINGPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Dispara 3 ráfagas de guisantes aturdidores a los zombis, ^E2725B^con un 50% de liberar guisantes en llamas o fuego azul^oldclr^
+Cuando usa Nutrientes, tiene un 50% de liberar guisantes en llamas o fuego azul. ^D22808^Daño: 100^oldclr^
 
 [SLINGPEA_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
@@ -98537,10 +98582,10 @@ Tiraguisantes dispara una ráfaga de 5 guisantes dirigidos a los zombis más cer
 {KEYWORD}Nutrientes: {STAT}Dispara 3 ráfagas de guisantes aturdidores a los zombis.
 
 [SLINGPEA_NEW_SKILL_LEVEL1_DES]
-Dispara guisantes para dañar a los 5 zombis más cercanos a tu casa con un 25% de aturdir
+Dispara 5 guisantes a los zombis más cercanos a tu casa. ^D22808^Daño de área: 5 (1x3)^oldclr^
 
 [SLINGPEA_NEW_SKILL_LEVEL2_DES]
-Gana un 50% de lanzar 5 proyectiles, los cuales, infligen 150 puntos de daño y rebotan en hasta 2 zombis
+Gana un 50% de disparar proyectiles que rebotan en hasta 2 zombis. ^D22808^Daño: 150^oldclr^
 
 [SLINGPEA_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 100%)
@@ -98549,10 +98594,10 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 100%)
 Gana un 25% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [SLINGPEA_NEW_SKILL_LEVEL5_DES]
-Gana un 50% de lanzar 5 guisantes bomba, los cuales, infligen 1.500 puntos de daño a los zombis de una casilla
+Gana un 50% de lanzar guisantes bomba que infligen mucho daño. ^D22808^Daño: 1.500 (casilla)^oldclr^
 
 [SLINGPEA_PLANTFOOD_DESCRIPTION]
-Dispara 3 ráfagas de guisantes aturdidores a los zombis.
+Dispara 3 ráfagas de 25 guisantes que aturden zombis por 0.5 s. ^D22808^Daño: 50 (área 3x3)^oldclr^
 
 [SLINGPEA_PRODUCT_SHORT_DESC]
 Dispara 5 guisantes por todo el mapa
@@ -98561,7 +98606,7 @@ Dispara 5 guisantes por todo el mapa
 Nivel 2
 
 [SLINGPEA_SKILL_LEVEL1_DES]
-^4DD4DB^Guisantes rebotadores:^oldclr^ gana la probabilidad de lanzar 5 proyectiles que rebotan en un máximo de 2 zombis.
+^4DD4DB^Guisantes rebotadores:^oldclr^ gana la probabilidad de disparar proyectiles que rebotan en un máximo de 2 zombis.
 
 [SLINGPEA_SKILL_LEVEL2]
 Nivel 3
@@ -98573,7 +98618,7 @@ Nivel 3
 Nivel 5
 
 [SLINGPEA_SKILL_LEVEL5_DES]
-^DB8117^Guisantes explosivos:^oldclr^ la probabilidad de lanzar 5 guisantes bomba que infligen mucho daño en un área pequeña
+^DB8117^Guisantes explosivos:^oldclr^ gana la probabilidad de disparar guisantes bomba que infligen mucho daño en un área pequeña
 
 [SLINGPEA_TOOLTIP]
 Dispara 5 guisantes por todo el mapa
@@ -98702,7 +98747,7 @@ No dejes que Guacadrilo se salga del escenario, ¿deseas gastar ^00e46e {GEM_COU
 Los zombis están apunto de comerle los sesos a Dave, ¿deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para continuar?
 
 [SNAKE_RUN_OUT_BOARDER_MESSAGE]
-¡Derrota valientemente a los zombis, no huyas!
+¡errota valientemente a los zombis, ¡no huyas!
 
 [SNAKE_SLOW_TIP]
 ¡Tú Guacadrilo está ralentizado!
@@ -98711,7 +98756,7 @@ Los zombis están apunto de comerle los sesos a Dave, ¿deseas gastar ^00e46e {G
 Boca de dragón
 
 [SNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
-Prende fuego a la ^E2725B^zona de 4x3^oldclr^ que tiene delante, infligiendo grandes daños a los zombis.
+La área del efecto de Nutrientes aumenta a 4x3
 
 [SNAPDRAGON_DESCRIPTION]
 {KEYWORD}Área: {STAT}inflige daño a todos los zombis en las 6 casillas que tiene delante
@@ -98726,22 +98771,22 @@ Boca de dragón echa fuego que inflige daño en 6 casillas adyacentes.
 {KEYWORD}Nutrientes: {STAT}Prende fuego a la zona que tiene delante, infligiendo grandes daños a los zombis.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL1_DES]
-Echa fuego por las casillas que tiene en un 2x3 al frente
+Echa fuego en un área delante de ella
 
 [SNAPDRAGON_NEW_SKILL_LEVEL2_DES]
-Gana un 50% de probabilidad de escupir llamas azules, las cuales, infligen 45 puntos de daño
+Gana un 50% de probabilidad de escupir llamas azules. ^D22808^Daño: 45^oldclr^
 
 [SNAPDRAGON_NEW_SKILL_LEVEL3_DES]
-Gana un 100% de probabilidad de escupir llamas azules, las cuales, infligen 78 puntos de daño
+Gana un 100% de probabilidad de escupir llamas azules.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL4_DES]
 Gana un 80% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL5_DES]
-Gana un 50% de probabilidad de invocar un espíritu de fuego que inflige 3.000 puntos de daño a los zombis de la línea
+Gana un 50% de probabilidad de invocar un espíritu de fuego. ^D22808^Daño: 3.000 (línea)^oldclr^
 
 [SNAPDRAGON_PLANTFOOD_DESCRIPTION]
-Prende fuego a la zona de 3x3 que tiene delante, infligiendo grandes daños a los zombis.
+Prende fuego a la zona de 3x3 que tiene delante. ^D22808^Daño: 1.800^oldclr^
 
 [SNAPDRAGON_PRODUCT_SHORT_DESC]
 Echa fuego en un área delante de ella
@@ -98774,7 +98819,7 @@ Guisante carnívoro
 Gorro de bebé
 
 [SNAPPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Se come a ^E2725B^6 zombis^oldclr^ de la línea y después dispara sus cabezas.
+Aumenta el número de zombis devorados cuando usa Nutrientes en 1 (ahora 6)
 
 [SNAPPEA_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
@@ -98788,19 +98833,20 @@ Guisante carnívoro entra bajo tierra, se acerca a un zombi y aparece para trag�
 {KEYWORD}Nutrientes: {STAT}Se come a varios zombis y después dispara sus cabezas.
 
 [SNAPPEA_NEW_SKILL_LEVEL1_DES]
-Traga zombis de un bocado, los mastica durante 10 segundos y escupe sus cabezas para dañar al resto. Dispara 3 guisantes a los zombis que no puede comer.
+Come zombis y escupe sus cabezas, dispara 3 guisantes a los zombis que no puede comer.
+^D22808^Daño: 30 (guisantes), 300 (cabezas)^oldclr^
 
 [SNAPPEA_NEW_SKILL_LEVEL2_DES]
-El tiempo de digestión es reducido en 1 segundo (ahora es de 9 segundos).
+El tiempo de digestión es reducido en 1 segundo
 
 [SNAPPEA_NEW_SKILL_LEVEL3_DES]
-El tiempo de digestión es reducido en 2 segundos (ahora es de 8 segundos).
+El tiempo de digestión es reducido en 2 segundos
 
 [SNAPPEA_NEW_SKILL_LEVEL4_DES]
 Gana un 25% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [SNAPPEA_NEW_SKILL_LEVEL5_DES]
-Gana un 50% de probabilidad de comerse a dos zombis a la vez.
+Gana un 50% de probabilidad de comerse a 2 zombis a la vez.
 
 [SNAPPEA_PLANTFOOD_DESCRIPTION]
 Se come a 5 zombis de la línea y después dispara sus cabezas.
@@ -98890,7 +98936,7 @@ Prueba de táctica - Nivel {LEVEL_NUMBER}
 Hielaguisantes
 
 [SNOWPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Ralentiza a todos los zombis de la fila y después ^E2725B^dispara 3 guisantes enormes que infligen 40 veces más daño^oldclr^
+Dispara una ráfaga de 3 guisantes enormes y superhelados. ^D22808^Daño: 800^oldclr^
 
 [SNOWPEA_DESCRIPTION]
 {KEYWORD}Especial: {STAT}congela a un zombi al impactar
@@ -98908,19 +98954,19 @@ Hielaguisantes lanza guisantes helados que dificultan el paso a los zombis.
 Lanza guisantes helados que dañan zombis y los ralentizan por 10 segundos
 
 [SNOWPEA_NEW_SKILL_LEVEL2_DES]
-Gana un 15% de probabilidad de disparar un pico de hielo, el cual, inflige 90 puntos de daño
+Gana un 15% de probabilidad de disparar un carámbano, el cual, inflige el triple de daño
 
 [SNOWPEA_NEW_SKILL_LEVEL3_DES]
-Gana un 30% de probabilidad de disparar un pico de hielo, el cual, inflige 120 puntos de daño
+Gana un 30% de probabilidad de disparar un carámbano, el cual, inflige el triple de daño
 
 [SNOWPEA_NEW_SKILL_LEVEL4_DES]
 Gana un 50% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [SNOWPEA_NEW_SKILL_LEVEL5_DES]
-Gana la probabilidad de lanzar un pico reforzado que inflige daño grupal y deja hielo en la casilla por 3 segundos que ralentiza a los zombis que lo pisen.
+Gana un 30% de disparar un carámbano grande que congela zombis, inflige daño grupal y deja hielo en la casilla de impacto durante 3 s
 
 [SNOWPEA_PLANTFOOD_DESCRIPTION]
-Ralentiza a todos los zombis de la fila y después dispara una ráfaga de 60 guisantes congelados.
+Deja hielo ralentizante y dispara una ráfaga de 60 guisantes congelados.
 
 [SNOWPEA_PRODUCT_SHORT_DESC]
 Lanza guisantes helados que frenan y dañan zombis
@@ -98929,19 +98975,19 @@ Lanza guisantes helados que frenan y dañan zombis
 Nivel 2
 
 [SNOWPEA_SKILL1_LEVEL1_DES]
-^4DD4DB^Pico de hielo:^oldclr^ gana un 15% de probabilidad de disparar un pico de hielo, el cual, inflige el triple de daño
+^4DD4DB^Frío y cortante:^oldclr^ gana un 15% de probabilidad de disparar un carámbano, el cual, inflige el triple de daño
 
 [SNOWPEA_SKILL1_LEVEL2]
 Nivel 3
 
 [SNOWPEA_SKILL1_LEVEL2_DES]
-^A048CF^Guisantes afilados:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+^A048CF^Carámbanos mejorados:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
 
 [SNOWPEA_SKILL1_LEVEL5]
 Nivel 5
 
 [SNOWPEA_SKILL1_LEVEL5_DES]
-^DB8117^Punzón escalofriante:^oldclr^ gana la probabilidad de lanzar un pico reforzado que inflige daño de área y deja hielo en la casilla
+^DB8117^Súper-carámbanos:^oldclr^ gana la probabilidad de disparar un carámbano grande que congela, hace daño grupal y deja hielo.
 
 [SNOWPEA_TOOLTIP]
 Lanza guisantes helados que frenan y dañan zombis
@@ -99024,7 +99070,7 @@ Bambú espartano
 Capa roja
 
 [SPARTANBAMBOO_AVATAR_PLANTFOOD_DESCRIPTION]
-Da un golpetazo con su lanza para generar un onda que empuja 1 casilla y dañar a los zombis que tiene 2 casillas al frente varias veces. ^E2725B^Las ondas espansivas generan ondas más poderosas.^oldclr^ ^E2725B^(El número de ondas aumenta al subirlo de Nivel).^oldclr^
+Las ondas expansivas generan ondas más poderosas.
 
 [SPARTANBAMBOO_DESCRIPTION]
 {KEYWORD}Especial: {STAT}cuando se le rompe el escudo, Bambú espartano entra en un Trance de batalla y aumenta su daño.
@@ -99035,22 +99081,27 @@ Da un golpetazo con su lanza para generar un onda que empuja 1 casilla y dañar 
 Un feroz guerrero de bambú que puede soportar grandes daños. Cuando se le rompe el escudo, sus ataques infligen aún más daño.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL1_DES]
-Soporta grandes daños y golpea a los zombis que tiene 2 casillas al frente con su lanza. ^E2725B^Entra en trance cuando se rompe su escudo, infligiendo el triple de daño.^oldclr^
+Golpea zombis y resiste con su escudo de 1.400 PS
+^D22808^Lanza perforante: hace 4.400 DPS a obstáculos del patio^oldclr^
+^E2725B^Trance de batalla: hace el triple de daño^oldclr^
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL2_DES]
-Entra en trance tras derrotar un zombi por 2,5 segundos, reduciendo el intervalo de ataque en 0,25 segundos. Reduce la recarga del paquete de semillas a 12 segundos.
+Entra en trance tras derrotar un zombi por 2.5 s, reduciendo el intervalo de ataque en 0,25 s.
+Reduce la recarga del paquete de semillas en 3 s.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL3_DES]
-Entra en trance tras derrotar un zombi por 5 segundos, reduciendo el intervalo de ataque en 0,25 segundos. Reduce la recarga del paquete de semillas a 9 segundos.
+Entra en trance tras derrotar un zombi por 5 s, reduciendo el intervalo de ataque en 0,25 s.
+Reduce la recarga del paquete de semillas en 6 s
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL5_DES]
-Puede arrojar su lanza a los zombis que estén 2 casillas delante para infligir daño dentro de un area de 3x3 cada 6 segundos.
+Cada 6 s, arroja su lanza para dañar zombis a distancia. ^D22808^Daño: 90 (área 3x3)^oldclr^
 
 [SPARTANBAMBOO_PLANTFOOD_DESCRIPTION]
-Da un golpetazo con su lanza para generar un onda que empuja 1 casilla y dañar a los zombis que tiene 2 casillas al frente varias veces. ^E2725B^(El número de ondas aumenta al subirlo de Nivel).^oldclr^
+Genera 2 ondas que hacen 750 DPS en un área 3x2 y derriban zombis 1 casilla.
+^E2725B^El número de ondas aumenta al subirlo de Nivel.^oldclr^
 
 [SPARTANBAMBOO_PRODUCT_SHORT_DESC]
 Resiste y golpea a los zombis que se encuentren a 2 casillas
@@ -99556,7 +99607,7 @@ Pinchorroca
 Lentes de colores
 
 [SPIKEROCK_AVATAR_PLANTFOOD_DESCRIPTION]
-Atrae y daña con los pinchos de metal a todos los zombis de su línea. ^E2725B^Los lanza al aire para^oldclr^^848484^aturdirlos^oldclr^^E2725B^ por 3 segundos al aterrizar^oldclr^
+Al final del efecto, lanza zombis al aire para ^848484^aturdirlos^oldclr^ por 3 segundos
 
 [SPIKEROCK_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los zombis no pueden comerla
@@ -99572,10 +99623,11 @@ La Pinchorroca destruye a varios zombis rodantes e inflige daño a los zombis qu
 {KEYWORD}Nutrientes: {STAT}Atrae con los pinchos de metal a todos los zombis de su línea, infligiéndoles daño al mismo tiempo.
 
 [SPIKEROCK_NEW_SKILL_LEVEL1_DES]
-Hiere a los zombis que osen pisarla y rompe tres objetos rodantes. ^E2725B^(Funciona de maravilla contra toneleros y pianistas)^oldclr^
+Hiere a los zombis que osen pisarla y rompe 3 objetos rodantes.
+^E2725B^Tip: funciona de maravilla contra toneleros y pianistas^oldclr^
 
 [SPIKEROCK_NEW_SKILL_LEVEL2_DES]
-Gana un 20% de probabilidad de detener el movimiento de los zombis durante 1 segundo con sus pinchos.
+Gana un 20% de probabilidad de detener el movimiento de los zombis durante 1 s
 
 [SPIKEROCK_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
@@ -99584,7 +99636,7 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
 Gana un 55% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [SPIKEROCK_PLANTFOOD_DESCRIPTION]
-Atrae y daña con los pinchos a todos los zombis de su línea.
+Atrae y daña a todos los zombis de su línea, haciendo 100 DPS. ^D22808^Duración: 4 s^oldclr^
 
 [SPIKEROCK_PRODUCT_SHORT_DESC]
 Rompe 3 objetos rodantes, hiere a los zombis que osen pisarla
@@ -99611,7 +99663,7 @@ Pinchohierba
 Lentes locos
 
 [SPIKEWEED_AVATAR_PLANTFOOD_DESCRIPTION]
-Atrae y daña con los pinchos a todos los zombis de su línea. ^E2725B^Los lanza al aire para^oldclr^^848484^aturdirlos^oldclr^^E2725B^ por 3 segundos al aterrizar^oldclr^
+Al final del efecto, lanza zombis al aire para ^848484^aturdirlos^oldclr^ por 3 segundos
 
 [SPIKEWEED_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los zombis no pueden comerla
@@ -99627,10 +99679,11 @@ La Pinchohierba destruye a un zombi rodante y hiere a los zombis que osen pisarl
 {KEYWORD}Nutrientes: {STAT}Atrae con los pinchos a todos los zombis de su línea, infligiéndoles daño al mismo tiempo.
 
 [SPIKEWEED_NEW_SKILL_LEVEL1_DES]
-Hiere a los zombis que osen pisarla y rompe un objeto rodante. ^E2725B^(Funciona de maravilla contra toneleros y pianistas)^oldclr^
+Hiere a los zombis que osen pisarla y rompe 1 objeto rodante.
+^E2725B^Tip: funciona de maravilla contra toneleros y pianistas^oldclr^
 
 [SPIKEWEED_NEW_SKILL_LEVEL2_DES]
-Se volverá el doble de poderosa tras derrotar a 15 zombis, infligiendo 22,5 de daño.
+Se volverá el doble de poderosa tras derrotar a 15 zombis, infligiendo 22.5 de daño.
 
 [SPIKEWEED_NEW_SKILL_LEVEL3_DES]
 Se volverá el doble de poderosa tras derrotar a 10 zombis, infligiendo 30 de daño.
@@ -99639,7 +99692,7 @@ Se volverá el doble de poderosa tras derrotar a 10 zombis, infligiendo 30 de da
 Gana un 45% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [SPIKEWEED_PLANTFOOD_DESCRIPTION]
-Atrae y daña con los pinchos a todos los zombis de su línea.
+Atrae y daña a todos los zombis de su línea, haciendo 100 DPS. ^D22808^Duración: 4 s^oldclr^
 
 [SPIKEWEED_PRODUCT_SHORT_DESC]
 Rompe 1 objeto rodante, hiere a los zombis que osen pisarla
@@ -99663,7 +99716,7 @@ Rompe 1 objeto rodante, hiere a los zombis que osen pisarla
 Bipetidora
 
 [SPLITPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Dispara una ráfaga de 60 guisantes por delante y por detrás. Luego dispara un ^E2725B^guisante helado^oldclr^ hacia atrás que hace 20 veces más daño ^E2725B^y uno en llamas hacia delante que hace 40 veces más daño.^oldclr^
+Al final del efecto, dispara un guisante helado y uno en llamas hacia delante. ^D22808^Daño: 800^oldclr^
 
 [SPLITPEA_DESCRIPTION]
 {KEYWORD}Cadencia: {STAT}1x delante, 2x detrás
@@ -99678,7 +99731,8 @@ La Bipetidora dispara hacia delante y atrás.
 {KEYWORD}Nutrientes: {STAT}Dispara una ráfaga de guisantes por delante y detrás de la planta y después dispara un guisante gigante por detrás.
 
 [SPLITPEA_NEW_SKILL_LEVEL1_DES]
-Dispara un guisante adelante y dos hacia atrás. ^E2725B^(Funciona de maravilla contra Buscadores de oro)^oldclr^
+Dispara un guisante adelante y 2 hacia atrás.
+^E2725B^Tip: efectivo contra Buscadores de oro.^oldclr^
 
 [SPLITPEA_NEW_SKILL_LEVEL2_DES]
 Gana un 40% de probabilidad de atacar a los zombis con guisantes de hielo hacia atrás.
@@ -99693,7 +99747,7 @@ Gana un 45% de probabilidad de ser potenciada por el efecto de Nutrientes al pla
 En desarrollo...
 
 [SPLITPEA_PLANTFOOD_DESCRIPTION]
-Dispara una ráfaga de 60 guisantes por delante y por detrás. Luego dispara un guisante gigante hacia atrás que hace 20 veces más daño.
+Dispara una ráfaga de 60 guisantes por delante y detrás, luego dispara un guisante enorme hacia atrás.
 
 [SPLITPEA_PRODUCT_SHORT_DESC]
 Dispara guisantes hacia delante y atrás
@@ -99720,7 +99774,7 @@ Seta esporada
 Sombrero de papel
 
 [SPORESHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza ^E2725B^cuatro esporas gigantes^oldclr^ que infligen 45 veces más daño y genera una espora si algún zombi cae derrotado.
+El número de esporas lanzadas al usar Nutrientes aumenta en 1 (ahora 4).
 
 [SPORESHROOM_DESCRIPTION]
 {KEYWORD}Características de la seta: {STAT}seta púrpura, destructora, familia de setas
@@ -99746,7 +99800,7 @@ La probabilidad de crear otros tipos de setas con sus esporas aumenta.
 Cada vez que la plantes, será potenciada por el efecto de Nutrientes
 
 [SPORESHROOM_PLANTFOOD_DESCRIPTION]
-Lanza tres esporas gigantes que infligen 45 veces más dao y genera una espora si algún zombi cae derrotado.
+Lanza 3 esporas gigantes a zombis aleatorios del patio. ^D22808^Daño: 1.800^oldclr^
 
 [SPORESHROOM_PRODUCT_SHORT_DESC]
 Genera nuevas Setas esporadas de los zombis derrotados
@@ -99827,7 +99881,7 @@ Tus recargas se han agotado. Vuelve mañana para más.
 Frijuelle
 
 [SPRINGBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-Empuja a todos los zombis del patio 1,25 casillas hacia atrás o al agua. ^E2725B^También los ^oldclr^^848484^aturde^oldclr^^E2725B^durante 2 segundos^oldclr^
+Los zombis empujados por el efecto, serán ^848484^aturdidos^oldclr^ durante 2 segundos.
 
 [SPRINGBEAN_DESCRIPTION]
 {KEYWORD}Especial: {STAT}empuja a los zombis hacia atrás o al agua si está cerca
@@ -99843,10 +99897,11 @@ Frijuelle empuja a los zombis que se le acercan. Los arroja al agua si está cer
 {KEYWORD}Nutrientes: {STAT}Empuja a todos los zombis del patio una casilla hacia atrás o al agua.
 
 [SPRINGBEAN_NEW_SKILL_LEVEL1_DES]
-Empuja al zombi que tiene una casilla al frente, haciéndolo retroceder 1,25 casillas. ^E2725B^(Empuja a los zombis de Mares piratas al agua si está cerca)^oldclr^
+Empuja a los zombis que se acerquen, retrocediéndolos 1.25 casillas.
+^E2725B^Tip: plántalo cerca del agua cuando estés en Mares piratas^oldclr^
 
 [SPRINGBEAN_NEW_SKILL_LEVEL2_DES]
-Gana un 15% de probabilidad de expulsar al zombi empujado fuera del patio.
+Gana un 15% de probabilidad de expulsar al zombi empujado.
 
 [SPRINGBEAN_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 30%)
@@ -99855,7 +99910,7 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 30%)
 Gana un 25% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [SPRINGBEAN_PLANTFOOD_DESCRIPTION]
-Empuja a todos los zombis del patio 1,25 casillas hacia atrás o al agua.
+Empuja a todos los zombis del patio hacia atrás o al agua.
 
 [SPRINGBEAN_PRODUCT_SHORT_DESC]
 Empuja a los zombis hacia atrás y al agua si está cerca
@@ -99927,10 +99982,10 @@ Festival de primavera - Día 12
 Festival de primavera - Día 13
 
 [SPRINGGIFT_DES]
-^ffff00^ {NAME} al Nvl. 3 ^oldclr^
+^ffff00^{NAME} al Nvl. 3^oldclr^
 
 [SPRINGGIFT_GEMDES]
-^ffff00^ {NUMBER} Joyas ^oldclr^
+^ffff00^{NUMBER} Joyas^oldclr^
 
 [SPRINGGROUND]
 Tierra primaveral
@@ -99939,7 +99994,7 @@ Tierra primaveral
 Espiral de primavera
 
 [SPRINGPRINCESS_AVATAR_PLANTFOOD_DESCRIPTION]
-Arroja resortes a todos los zombis del patio para empujarlos ^E2725B^2 casillas^oldclr^ hacia atrás y hacerles ^E2725B^más daño^oldclr^
+Los resortes del efecto derriban zombis 2 casillas y les hacen más daño. ^D22808^Daño: 300^oldclr^
 
 [SPRINGPRINCESS_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}ataca por la línea delantera, superior e inferior
@@ -99951,7 +100006,7 @@ Arroja resortes a todos los zombis del patio para empujarlos ^E2725B^2 casillas^
 Arroja resortes que dañan y empujan a los zombis atacantes. Los resortes se generan en casillas vacías y funcionan como trampas anti-zombis.
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL1_DES]
-Arroja resortes que dañan y empujan a los zombis que los pisen 1 casilla hacia atrás. Los resortes se generan en las casillas desocupadas
+Arroja resortes que dañan y empujan a los zombis atacantes 1 casilla
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL2_DES]
 Aumenta la distancia de empuje de sus resortes en un 50% (ahora es de 1,5 casillas)
@@ -99963,10 +100018,10 @@ Aumenta la distancia de empuje de sus resortes en un 100% (ahora es de 2 casilla
 Gana un 25% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [SPRINGPRINCESS_NEW_SKILL_LEVEL5_DES]
-Gana un 25% de arrojar un resorte colorido, el cual, deja resortes mágicos que persiguen zombis. Los resortes mágicos pueden empujar a los zombis 4 veces antes de desaparecer.
+Gana un 25% de arrojar un resorte colorido que persigue y derriba zombis hasta 4 veces.
 
 [SPRINGPRINCESS_PLANTFOOD_DESCRIPTION]
-Arroja resortes a todos los zombis del patio para empujarlos 1 casilla hacia atrás y hacerles daño
+Arroja resortes a todos los zombis del patio para dañarlos al derribarlos. ^D22808^Daño elástico: 200^oldclr^
 
 [SPRINGPRINCESS_PRODUCT_SHORT_DESC]
 Arroja resortes que dañan y empujan a los zombis atacantes
@@ -100324,7 +100379,7 @@ Brotes
 Apisonaflor
 
 [SQUASH_AVATAR_PLANTFOOD_DESCRIPTION]
-Aplasta a ^E2725B^tres objetivos^oldclr^ duros del patio antes de regresar a su posición original.
+Aplasta a 1 objetivo adicional al usar Nutrientes (ahora 3).
 
 [SQUASH_DESCRIPTION]
 {KEYWORD}Especial: {STAT}aplasta más zombis con mayor nivel de planta
@@ -100340,7 +100395,7 @@ Apisonaflor aplastará al primer zombi que se acerque.
 {KEYWORD}Nutrientes: {STAT}Aplasta a varios objetivos duros del patio antes de regresar a su posición original.
 
 [SQUASH_NEW_SKILL_LEVEL1_DES]
-Salta y aplasta a los zombis que tiene 1 casilla delante o detrás.
+Salta y aplasta a los zombis que tiene 1 casilla delante o detrás. ^D22808^Daño: 1.800^oldclr^
 
 [SQUASH_NEW_SKILL_LEVEL2_DES]
 Gana un 20% de probabilidad de permanecer en el patio tras aplastar un zombi. Puede atacar a distancias más largas.
@@ -100352,10 +100407,10 @@ Gana un 40% de probabilidad de permanecer en el patio tras aplastar un zombi. Pu
 Gana un 40% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [SQUASH_PLANTFOOD_DESCRIPTION]
-Aplasta a dos objetivos duros del patio antes de regresar a su posición original.
+Aplasta a 2 objetivos aleatorios del patio, luego regresa a su posición y aplasta 1 más. ^D22808^Duración: 100 s^oldclr^
 
 [SQUASH_PRODUCT_SHORT_DESC]
-Aplasta zombis
+Aplasta a los zombis cercanos
 
 [SQUASH_SKILL1_LEVEL1]
 Nivel 2
@@ -100370,7 +100425,7 @@ Nivel 3
 ^A048CF^Saltos persistentes:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [SQUASH_TOOLTIP]
-Aplasta zombis
+Aplasta a los zombis cercanos
 
 [STALL]
 Detener
@@ -100385,7 +100440,7 @@ Paralia
 Gorro nocturno
 
 [STALLIA_AVATAR_PLANTFOOD_DESCRIPTION]
-Ralentiza ^E2725B^y envenena^oldclr^ a todos los zombis del patio durante 18 segundos
+Aplica veneno a los zombis con su efecto de Nutrientes.
 
 [STALLIA_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, se activa cuando se acerca un zombi
@@ -100401,10 +100456,10 @@ Paralia ralentiza a los zombis con una nube de perfume.
 {KEYWORD}Nutrientes: {STAT}Ralentiza a todos los zombis del patio.
 
 [STALLIA_NEW_SKILL_LEVEL1_DES]
-Ralentiza a los zombis de un área de 3x3 con una nube de perfume por 12 segundos
+Ralentiza a los zombis del área con una nube de perfume. ^D22808^Duración: 12 s^oldclr^
 
 [STALLIA_NEW_SKILL_LEVEL2_DES]
-Ralentiza a los zombis por 2 segundos más. (14 en total)
+Ralentiza a los zombis por 2 segundos más (14 en total).
 
 [STALLIA_NEW_SKILL_LEVEL3_DES]
 Gana un 25% de probabilidad de aturdir a los zombis con sus perfumes por 3 segundos
@@ -101076,7 +101131,7 @@ Cama de flores
 Frustrella
 
 [STARFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
-Dispara una ráfaga de estrellas gigantes en las 5 direcciones, ^E2725B^rotando para alternar el alcance^oldclr^
+Rota para alternar el alcance del efecto por todo el patio.
 
 [STARFRUIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}dispara estrellas en 5 direcciones
@@ -101091,7 +101146,7 @@ La Frustrella dispara en 5 direcciones.
 {KEYWORD}Nutrientes: {STAT}Dispara diez estrellas gigantes en cinco direcciones que infligen daño.
 
 [STARFRUIT_NEW_SKILL_LEVEL1_DES]
-Dispara una estrella en cada una de las 5 direcciones (arriba, abajo, diagonales y hacia atrás).
+Dispara estrellas en 5 direcciones (arriba, abajo, diagonales y hacia atrás).
 
 [STARFRUIT_NEW_SKILL_LEVEL2_DES]
 Gana un 40% de probabilidad de disparar estrellas ninja, las cuales, pueden atravesar a 2 zombis.
@@ -101103,7 +101158,7 @@ Las estrellas ninja pueden atravesar hasta 3 zombis.
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [STARFRUIT_PLANTFOOD_DESCRIPTION]
-Dispara una ráfaga de estrellas gigantes en las 5 direcciones
+Dispara una ráfaga de 10 estrellas gigantes en las 5 direcciones. ^D22808^Daño: 80^oldclr^
 
 [STARFRUIT_PRODUCT_SHORT_DESC]
 Dispara estrellas en 5 direcciones
@@ -102288,7 +102343,7 @@ Estefanía
 Nariz de puerco
 
 [STEPHANIA_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza una salva de 6 ^E2725B^hojas en llamas^oldclr^ que derriban zombis 1 casilla hacia atrás
+Con Nutrientes, lanza hojas ardientes que hacen más daño. ^D22808^Daño: 450^oldclr^
 
 [STEPHANIA_DESCRIPTION]
 {KEYWORD}Especial: {STAT}protege con sus hojas, a tus plantas de los peces globo lanzados por los Zombiditos ninja
@@ -102300,10 +102355,11 @@ Lanza una salva de 6 ^E2725B^hojas en llamas^oldclr^ que derriban zombis 1 casil
 Estefanía usa sus hojas como escudo para proteger a tus plantas de peces globo, y a la vez, las usa como arma para lanzárcelas al enemigo.
 
 [STEPHANIA_NEW_SKILL_LEVEL1_DES]
-Lanza hojas que se dividen en 5, infligiendo un 63% del daño base con los fragmentos. ^E2725B^(Funciona de maravilla contra el Zombidito ninja)^oldclr^
+Lanza hojas que se dividen en 5, infligiendo un 75 DPS con los fragmentos.
+^E2725B^Tip: da pelea con el Zombidito ninja, devolviendo su pez globo^oldclr^
 
 [STEPHANIA_NEW_SKILL_LEVEL2_DES]
-Sus hojas se dividen en 2 más y dañan a un solo zombi que esté una casilla hacia atrás del zombi atacado inicialmente.
+Sus hojas se dividen en 2 más y dañan a un solo zombi que esté una casilla atrás del zombi atacado inicialmente.
 
 [STEPHANIA_NEW_SKILL_LEVEL3_DES]
 Sus hojas se dividen en 5 más y pueden dañar a múltiples zombis de una misma casilla.
@@ -102315,7 +102371,7 @@ Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al pla
 Las hojas pueden dividirse 2 veces al impactar con un enemigo.
 
 [STEPHANIA_PLANTFOOD_DESCRIPTION]
-Lanza una salva de 6 hojas grandes que derriban zombis 1 casilla hacia atrás
+Lanza una salva de 6 hojas grandes que derriban zombis 1 casilla. ^D22808^Daño: 300^oldclr^
 
 [STEPHANIA_PRODUCT_SHORT_DESC]
 Protege tus plantas de peces globo; daña al enemigo con sus hojas
@@ -102351,7 +102407,7 @@ Arroz pegajoso
 Gafas de abuelita
 
 [STICKYBOMBRICE_AVATAR_PLANTFOOD_DESCRIPTION]
-Arroja una ^E2725B^bomba de arroz negro^oldclr^ a cada zombi del patio que lo inmoviliza durante 2,5 segundos y luego explota en 0,5 casillas.^oldclr^ ^E2725B^Se acumulan hasta 3 bombas por zombi^oldclr^
+Arroja arroz negro que acumula hasta 3 bombas por zombi, estas derriban zombis 0.5 casillas
 
 [STICKYBOMBRICE_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}línea central, superior o inferior
@@ -102368,13 +102424,16 @@ Arroz pegajoso arroja bombas de arroz pegajosas con temporizador a los zombis.
 {KEYWORD}Nutrientes: {STAT}Lanza una bomba pegajosa a todos los zombis del patio.
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL1_DES]
-Arroja bombas de arroz pegajosas que inmovilizan zombis y explotan al cabo de 1,3 segundos. Las bombas se acumulan hasta 3 veces en un mismo objetivo y tienen un 15% de probabilidad de activar otras bombas
+Arroja bombas de arroz que inmovilizan zombis y explotan al cabo de 1,25 s
+^E2725B^Cadena de bombas: 15% de activar otras bombas cercanas^oldclr^
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL2_DES]
-El temporizador de sus bombas aumenta en 1 segundo (ahora 2,3 s); el multiplicador de cadena de bombas se mejora en un 10% (ahora es de un 25%).
+Temporizador: aumenta en 1 segundo (ahora 2,25 s)
+Multiplicador de cadena de bombas: se mejora a un 25%
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL3_DES]
-El temporizador de sus bombas aumenta en 2 segundos (ahora 3,3 s); el multiplicador de cadena de bombas se mejora en un 20% (ahora es de un 35%).
+Temporizador: aumenta en 2 segundos (ahora 3,25 s)
+Multiplicador de cadena de bombas: se mejora a un 35%
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL4_DES]
 Gana un 50% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
@@ -102383,13 +102442,13 @@ Gana un 50% de probabilidad de ser potenciado por el efecto de Nutrientes al pla
 Gana un 40% de lanzar una bomba de arroz más grande que daña al zombi al que ataca y a otros 2 de su alrededor.
 
 [STICKYBOMBRICE_PLANTFOOD_DESCRIPTION]
-Arroja una bomba de arroz a cada zombi del patio que lo inmoviliza durante 2,5 segundos y luego explota en una casilla
+Arroja bombas a cada zombi del patio, que lo inmoviliza durante 3 segundos y luego explota. ^D22808^Daño: 60 (área 1x3)^oldclr^
 
 [STICKYBOMBRICE_SKILL_LEVEL1]
 Nivel 2
 
 [STICKYBOMBRICE_SKILL_LEVEL1_DES]
-^4DD4DB^Arroz glutinoso:^oldclr^ el temporizador de sus bombas aumenta en un segundo; el multiplicador de cadena de bombas se mejora en un 10%.
+^4DD4DB^Arroz glutinoso:^oldclr^ el temporizador de sus bombas aumenta en un segundo; el multiplicador de cadena de bombas se mejora en un 10%
 
 [STICKYBOMBRICE_SKILL_LEVEL2]
 Nivel 3
@@ -102401,7 +102460,7 @@ Nivel 3
 Nivel 5
 
 [STICKYBOMBRICE_SKILL_LEVEL5_DES]
-^DB8117^Lluvia de arroz:^oldclr^ la probabilidad de lanzar una bomba de arroz más grande que daña al zombi al que ataca y a otros 2 de su alrededor.
+^DB8117^Lluvia de arroz:^oldclr^ gana la probabilidad de lanzar una bomba de arroz más grande que daña al zombi al que ataca y a otros 2 de su alrededor.
 
 [STICKYBOMBRICE_TOOLTIP]
 Arroja bombas de arroz pegajosas
@@ -105272,7 +105331,7 @@ Fragaria
 Fedora
 
 [STRAWBURST_AVATAR_PLANTFOOD_DESCRIPTION]
-Crece a tamaño completo y lanza una enorme frutilla que explota y daña a todos los zombis del patio. ^E2725B^Luego se crean otras 3 más pequeñas que explotan en un área menor^oldclr^
+El fruto enorme esparce otros 3 más pequeños que explotan en un área menor. ^D22808^Daño: 700 (área 1x3)^oldclr^
 
 [STRAWBURST_DESCRIPTION]
 {KEYWORD}Uso: {STAT}tocar para disparar
@@ -105287,10 +105346,11 @@ A Fragaria le crece un fruto que inflige daño pequeño, medio o enorme.
 {KEYWORD}Nutrientes: {STAT}Lanza una enorme frutilla que explota al impactar e inflige daño a todos los zombis del patio.
 
 [STRAWBURST_NEW_SKILL_LEVEL1_DES]
-Le crece un fruto cuyo daño y área aumenta a medida que madura. Le toma 5 segundos en recargarlo, 10 para que crezca a tamaño medio y 15 para que alcance su tamaño máximo.
+Cada 5 s, le crece un fruto cuyo daño y área aumenta a medida que madura.
+^D22808^Daño: 201 (casilla) → 400 (área 3x3) → 900 (área 3x3)^oldclr^
 
 [STRAWBURST_NEW_SKILL_LEVEL2_DES]
-Después de disparar un fruto, existe un 25% de que crezca a un tamaño medio directamente.
+Después de disparar un fruto, existe un 25% de que crezca a su tamaño medio directamente.
 
 [STRAWBURST_NEW_SKILL_LEVEL3_DES]
 Después de disparar un fruto, existe un 20% de que crezca a su tamaño completo directamente.
@@ -105299,10 +105359,11 @@ Después de disparar un fruto, existe un 20% de que crezca a su tamaño completo
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [STRAWBURST_NEW_SKILL_LEVEL5_DES]
-Los frutos medianos y grandes dejan charcos de mermelada al explotar, la cual, ralentiza a los zombis que la pisen. La mermelada desaparece en 2 ó 4 segundos según el tipo
+Los frutos dejan mermelada que ralentiza a los zombis que la pisen.
+^D22808^Mermelada: dura 2 ó 4 s (frutos grandes)^oldclr^
 
 [STRAWBURST_PLANTFOOD_DESCRIPTION]
-Crece a tamaño completo y lanza una enorme frutilla que explota y daña a todos los zombis del patio.
+Crece a tamaño completo y lanza una enorme frutilla. ^D22808^Daño: 700 (todo el patio)^oldclr^
 
 [STRAWBURST_PRODUCT_SHORT_DESC]
 Le crece un fruto que inflige daño pequeño, medio o enorme
@@ -105311,7 +105372,7 @@ Le crece un fruto que inflige daño pequeño, medio o enorme
 Nivel 2
 
 [STRAWBURST_SKILL_LEVEL1_DES]
-^4DD4DB^Maduración rápida:^oldclr^ después de disparar un fruto, existe la probabilidad de que crezca a un tamaño medio directamente.
+^4DD4DB^Maduración rápida:^oldclr^ después de disparar un fruto, existe la probabilidad de que crezca a su tamaño medio directamente.
 
 [STRAWBURST_SKILL_LEVEL2]
 Nivel 3
@@ -105323,7 +105384,7 @@ Nivel 3
 Nivel 5
 
 [STRAWBURST_SKILL_LEVEL5_DES]
-^DB8117^Mermelada pegajosa:^oldclr^ los frutos medianos y grandes dejan charcos de mermelada al explotar, la cual, ralentiza a los zombis que la pisen
+^DB8117^Mermelada pegajosa:^oldclr^ los frutos dejan charcos de mermelada al explotar, la cual, ralentiza a los zombis que la pisen
 
 [STRAWBURST_TOOLTIP]
 Le crece un fruto que inflige daño pequeño, medio o enorme
@@ -105335,7 +105396,7 @@ Planterna
 Sombrero de hechicero
 
 [STREETLAMP_AVATAR_PLANTFOOD_DESCRIPTION]
-Ilumina todo el patio, disipando la niebla y revelando a todos los zombis invisibles en pantalla por 30 segundos. ^E2725B^El brilo también^oldclr^ ^848484^aturde^oldclr^ ^E2725B^zombis por 3 segundos^oldclr^
+El brilo del efecto también ^848484^aturde^oldclr^ zombis por 3 segundos
 
 [STREETLAMP_DESCRIPTION]
 {KEYWORD}Especial: {STAT}revela al Zombi bandido en su estado invisible
@@ -105347,7 +105408,11 @@ Ilumina todo el patio, disipando la niebla y revelando a todos los zombis invisi
 Planterna ilumina un área, permitiendo ver en la niebla.
 
 [STREETLAMP_NEW_SKILL_LEVEL1_DES]
-Ilumina un área de 5x3, permitiendo ver en la niebla. ^E2725B^(Funciona de maravilla contra zombis invisibles como el Zombi bandido)^oldclr^
+Ilumina un área, permitiendo ver en la niebla.
+^E2725B^Tip: también te sirve de ayuda contra el Zombi bandido^oldclr^
+
+[STREETLAMP_NEW_SKILL_LEVEL4_DES]
+Gana un 15% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [STREETLAMP_PLANTFOOD_DESCRIPTION]
 Ilumina todo el patio, disipando la niebla y revelando a todos los zombis invisibles en pantalla por 30 segundos.
@@ -105368,11 +105433,12 @@ Cebolla aturdidora
 Sombrero de paja
 
 [STUNION_AVATAR_PLANTFOOD_DESCRIPTION]
-Escupe una ráfaga de gas en la ^E2725B^zona de 3x5^oldclr^ que tiene delante, aturdiendo a todos los zombis por 18 segundos
+La zona cubierta por el efecto se expande a un área 3x5
 
 [STUNION_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, se activa cuando el zombi está cerca
 {KEYWORD}Especial: {STAT}aturde a los zombis cercanos
+{KEYWORD}Debilidad: {STAT}no afecta a unidades mecanizadas
 {KEYWORD}Características de la planta: {STAT}planta anaranjada, planta baja
 
 {FLAVOR}Sí, todo el mundo sabe que Cebolla aturdidora es esa curtida guerrera con un aliento potente. Pero es mucho más que eso. Toca muy bien el piano. Habla con fluidez cinco idiomas. Incluso es la líder de un grupo de chalotas. Es capifacética. Anda, quita las capas y lo verás.
@@ -105384,13 +105450,13 @@ Cebolla aturdidora exhala una nube de gas aturdidora a los zombis cercanos de la
 {KEYWORD}Nutrientes: {STAT}Lanza una gran ráfaga de gas en la zona que tiene delante, aturdiendo moderadamente a todos los zombis.
 
 [STUNION_NEW_SKILL_LEVEL1_DES]
-Aturde a los zombis que tiene una casilla al frente por 12 segundos y luego desaparece. No afecta a unidades mecanizadas.
+Aturde a los zombis cercanos de la línea por 12 segundos.
 
 [STUNION_NEW_SKILL_LEVEL2_DES]
-Los zombis serán aturdidos por 2 segundos adicionales (14 segundos en total)
+Los zombis serán aturdidos por 2 segundos adicionales (14 en total)
 
 [STUNION_NEW_SKILL_LEVEL3_DES]
-Los zombis serán aturdidos por 4 segundos adicionales (16 segundos en total)
+Los zombis serán aturdidos por 4 segundos adicionales (16 en total)
 
 [STUNION_NEW_SKILL_LEVEL4_DES]
 Gana un 20% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
@@ -105399,7 +105465,7 @@ Gana un 20% de probabilidad de ser potenciada por el efecto de Nutrientes al pla
 En desarrollo...
 
 [STUNION_PLANTFOOD_DESCRIPTION]
-Escupe una ráfaga de gas en la zona de 3x4 que tiene delante, aturdiendo a todos los zombis por 18 segundos
+Aturde a los zombis de un área 3x4 delante durante 18 segundos
 
 [STUNION_PRODUCT_SHORT_DESC]
 Aturde a los zombis cercanos de la línea
@@ -105522,7 +105588,7 @@ Caña de azúcar
 Tiara
 
 [SUGARCANE_AVATAR_PLANTFOOD_DESCRIPTION]
-Salta y derriba a los zombis cercanos 1 casilla hacia atrás, ^E2725B^les inflige daño^oldclr^ y los ^848484^aturde^oldclr por 5 segundos
+Su salto daña a los zombis alcanzados. ^D22808^Daño: 1.600^oldclr^
 
 [SUGARCANE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}cuando no es atacado, se curará gradualmente
@@ -105540,13 +105606,14 @@ Saccharum
 Poaceae (Gramíneas)
 
 [SUGARCANE_NEW_SKILL_LEVEL1_DES]
-Bloquea y retiene zombis, empujándolos 0,5 casillas hacia atrás. ^E2725B^El daño que recibe se reduce en un 50% y recupera 150 puntos de salud por 5 segundos si no recibe daño^oldclr^
+Bloquea y retiene zombis, empujándolos 0,5 casillas hacia atrás.
+^E2725B^Recuperación: recupera 100 PS por 5s cuando no recibe daño^oldclr^
 
 [SUGARCANE_NEW_SKILL_LEVEL2_DES]
-Su salud aumenta en un 15% adicional (ahora es de 6.600 puntos).
+Su salud aumenta en un 15% adicional.
 
 [SUGARCANE_NEW_SKILL_LEVEL3_DES]
-Su salud aumenta en un 30% adicional (ahora es de 9.200 puntos).
+Su salud aumenta en un 30% adicional.
 
 [SUGARCANE_NEW_SKILL_LEVEL4_DES]
 Gana un 40% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
@@ -105954,7 +106021,7 @@ Frijol solar
 Frijol solar
 
 [SUNBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-El atuendo no altera el efecto de Nutrientes
+^FF0000^El atuendo no altera el efecto de Nutrientes^oldclr^
 
 [SUNBEAN_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta amarilla, productora de soles
@@ -105968,7 +106035,8 @@ Frijol solar infecta zombis con sol. Genera sol mientras el zombi sufre daño.
 {KEYWORD}Nutrientes: {STAT}Aumenta la cantidad de soles que produce al ser comido.
 
 [SUNBEAN_NEW_SKILL_LEVEL1_DES]
-Los zombis que lo comen dejan caer un 20% de sol en base a la salud actual del zombi (máx. 300 soles)
+Los zombis que lo comen dejan caer sol al sufrir daños.
+^D22808^Producción: 20% por daño (máx. 300 soles)^oldclr^
 
 [SUNBEAN_NEW_SKILL_LEVEL4_DES]
 Gana un 25% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
@@ -106012,7 +106080,7 @@ Girasol
 Girasol perfeccionista
 
 [SUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Produce inmediatamente 300 soles ^E2725B^y da una moneda de oro que vale monedas^oldclr^
+Con Nutrientes, tiene un 15% de dar una moneda de oro 
 
 [SUNFLOWER_DESCRIPTION]
 {KEYWORD}Producción de soles: {STAT}normal
@@ -106048,7 +106116,7 @@ Produce 75 soles al ser removida con la pala o destruida por los zombis.
 Gana un 25% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [SUNFLOWER_NEW_SKILL_LEVEL5_DES]
-Tras ser destruida, dejará caer una semilla explosiva, la cual, inflige un 10% de daño en función a la salud máxima del zombi atacante. La semilla desaparece después de 10 segundos.
+Tras ser destruida, dejará caer una semilla explosiva que inflige un 10% de daño. Desaparece tras 10 s si no es activada.
 
 [SUNFLOWER_PEDIA]
 El girasol (Helianthus annuus) es una planta originaria de América del Norte, ampliamente cultivada en todo el mundo debido a sus múltiples usos. Es conocida por sus flores amarillas y por girar sus cabezas hacia el sol mientras crecen. Se cultivan principalmente por sus semillas, que son comestibles y de las que se extrae aceite para cocinar.
@@ -106108,7 +106176,7 @@ Seta solar
 Máscara de hockey
 
 [SUNSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Alcanza instantáneamente su tamaño máximo y produce inmediatamente 225 soles. ^E2725B^También da varias monedas de oro.^oldclr^
+Con Nutrientes, tienen un 50% de dar varias monedas de oro.
 
 [SUNSHROOM_DESCRIPTION]
 {KEYWORD}Producción de soles: {STAT}da soles pequeños al principio, luego normales y al final grandes
@@ -106123,22 +106191,24 @@ Las Setas solares dan soles pequeños al principio, luego normales y al final gr
 {KEYWORD}Nutrientes: {STAT}Alcanza instantáneamente su tamaño máximo y produce inmediatamente una gran cantidad de soles.
 
 [SUNSHROOM_NEW_SKILL_LEVEL1_DES]
-Produce más sol con el paso del tiempo. Le toma 18 segundos para crecer a tamaño mediano y 72 para alcanzar el tamaño completo.
+Produce más sol con el paso del tiempo.
+^FFA500^Tamaño mediano: crece tras 18 s, da 50 soles^oldclr^
+^FFC300^Tamaño mediano: crece tras 72 s, da 75 soles^oldclr^
 
 [SUNSHROOM_NEW_SKILL_LEVEL2_DES]
-Crece 2 veces más rápido (le toma 9 segundos para el tamaño medio y 36 para el máximo).
+Crece 2 veces más rápido: le toma 9 s para el tamaño medio y 36 para el máximo.
 
 [SUNSHROOM_NEW_SKILL_LEVEL3_DES]
-Crece 5 veces más rápido (le toma 6 segundos para el tamaño medio y 24 para el máximo).
+Crece 5 veces más rápido: le toma 6 s para el tamaño medio y 24 para el máximo.
 
 [SUNSHROOM_NEW_SKILL_LEVEL4_DES]
 Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [SUNSHROOM_NEW_SKILL_LEVEL5_DES]
-Mejora el daño de las plantas en un área de 3x3 en un 50% (las setas reciben el doble de bonificación)
+Mejora el daño de las plantas en un área 3x3 en un 50% (las setas reciben el doble de bonificación).
 
 [SUNSHROOM_PLANTFOOD_DESCRIPTION]
-Alcanza instantáneamente su tamaño máximo y produce inmediatamente 225 soles.
+Alcanza su tamaño máximo y produce 225 soles.
 
 [SUNSHROOM_PRODUCT_SHORT_DESC]
 Produce más sol con el paso del tiempo
@@ -106767,7 +106837,7 @@ Boniato
 Moñito rojo
 
 [SWEETPOTATO_AVATAR_PLANTFOOD_DESCRIPTION]
-Atrae a todos los zombis de un área de 3x3 durante 6 segundos. ^E2725B^Recupera toda su salud al final del efecto.^oldclr^
+Recupera toda su salud al final del efecto.
 
 [SWEETPOTATO_DESCRIPTION]
 {KEYWORD}Especial: {STAT}atrae zombis de otras líneas
@@ -106775,19 +106845,20 @@ Atrae a todos los zombis de un área de 3x3 durante 6 segundos. ^E2725B^Recupera
 {FLAVOR}Boniato es tan dulce como parece. Su animal favorito es el unicornio. Su color favorito (y cito directamente) "todos los colores del arcoíris". Cuando escribe la letra "i", dibuja un corazoncito en lugar del punto. Honestamente, si fuera otra planta, todo esto sería demasiado empalagoso. Pero a Boniato le sienta muy bien.
 
 [SWEETPOTATO_DESCRIPTION_HEADER]
-Boniato atrae a los zombis de otras líneas cuando se acercan.
+Boniato atrae a los zombis de otras líneas cuando se acercan y los retiene hasta que es comida.
 
 [SWEETPOTATO_DESCRIPTION_PLANTFOOD]
 {KEYWORD}Nutrientes: {STAT}Atrae a todos los zombis cercanos a su fila.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL1_DES]
-Atrae zombis de otras líneas cuando se acercan y los retiene hasta que es comida
+Atrae zombis de otras líneas cuando se acercan.
+^E2725B^Tip: Boniato y Huracol hacen un buen equipo^oldclr^
 
 [SWEETPOTATO_NEW_SKILL_LEVEL2_DES]
-Su salud aumenta en un 20% adicional (ahora es de 6.800 puntos).
+Su salud aumenta en un 20% adicional.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL3_DES]
-Su salud aumenta en un 30% adicional (ahora es de 9.600 puntos).
+Su salud aumenta en un 30% adicional.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL4_DES]
 Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
@@ -106926,7 +106997,7 @@ Bosque encantado
 Nuez cáscara-rabias
 
 [TALLNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Se cura a sí misma y gana una fuerte ^E2725B^armadura de cristal.^oldclr^
+El efecto le otorga una armadura de cristal que tiene 16.000 puntos de salud.
 
 [TALLNUT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}bloquea a los Zombiditos lanzados
@@ -106941,10 +107012,11 @@ La Nuez cáscara-rabias es muy dura de pelar y bloquea a los zombis que vuelan b
 {KEYWORD}Nutrientes: {STAT}Se cura a sí misma y gana una fuerte cáscara de armadura extra.
 
 [TALLNUT_NEW_SKILL_LEVEL1_DES]
-Tiene el doble de dureza que una Nuez. ^E2725B^Puede bloquear a los zombis que vuelan bajo y a los Zombiditos lanzados.^oldclr^
+Planta pesada que bloquea a los zombis que vuelan bajo.
+^E2725B^Tip: también bloquea a los Zombiditos lanzados.^oldclr^
 
 [TALLNUT_NEW_SKILL_LEVEL2_DES]
-Gana un 50% de probabilidad de caer cuando es destruida, infligiendo 600 puntos de daño a los zombis cercanos.
+Gana un 50% de probabilidad de caer cuando es destruida, dañando a los zombis cercanos. ^D22808^Daño: 600^oldclr^
 
 [TALLNUT_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 100%)
@@ -106953,7 +107025,7 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 100%)
 Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [TALLNUT_PLANTFOOD_DESCRIPTION]
-Se cura a sí misma y gana una fuerte cáscara de armadura extra.
+Se cura y gana una armadura que tiene 12.000 puntos de salud.
 
 [TALLNUT_PRODUCT_SHORT_DESC]
 Planta pesada que bloquea a los zombis que vuelan bajo
@@ -106980,11 +107052,11 @@ Zampalga
 Pañuelo
 
 [TANGLEKELP_AVATAR_PLANTFOOD_DESCRIPTION]
-Sumerge a hasta ^E2725B^cinco zombis^oldclr^ aleatorios.
+Aumenta el número máximo de zombi arrastrados con Nutrientes a 5
 
 [TANGLEKELP_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, al contacto
-{KEYWORD}Características de la planta: {STAT}planta verde, planta acuática
+{KEYWORD}Características de la planta: {STAT}planta verde, acuática
 
 {FLAVOR}A Zampalga le gusta profundizar. Se licenció en filosofía. Tómate una zarzaparrilla con ella y conversará contigo de "Así habló Calabacín" de Nietzsche, o de la "Crítica de la razón Petunia" de Kant. Lo cual está muy bien, pero a veces te apetece charlar de algo más ligero. A veces solo quieres hablar de la temperatura del agua.
 
@@ -106995,19 +107067,20 @@ La Zampalga es una planta acuática que succiona al primer zombi que se le acerc
 {KEYWORD}Nutrientes: {STAT}Sumerge a hasta cuatro zombis aleatorios.
 
 [TANGLEKELP_NEW_SKILL_LEVEL1_DES]
-Succiona al primer zombi que se le acerca bajo el agua o le inflige daño si es de Nvl. superior o si es un Zombi grande.
+Succiona al primer zombi que se le acerca o le inflige 200 DPS (si es grande).
+^E2725B^Tip: puede bloquear la turbina del Zombot subtiburotrónico^oldclr^
 
 [TANGLEKELP_NEW_SKILL_LEVEL2_DES]
-Usa al zombi atrapado para golpear a otros zombis frente a él, haciéndolos retroceder una casilla.
+Usa al zombi atrapado para golpear a otros zombis frente a él, haciéndolos retroceder 1 casilla.
 
 [TANGLEKELP_NEW_SKILL_LEVEL3_DES]
-Puede golpear a los zombis de otras filas con sus ataques (línea superior, central e inferior, una tras otra).
+Puede golpear a los zombis de otras filas con sus ataques (línea superior, central e inferior: una tras otra).
 
 [TANGLEKELP_NEW_SKILL_LEVEL4_DES]
 Gana un 15% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [TANGLEKELP_PLANTFOOD_DESCRIPTION]
-Sumerge a hasta tres zombis aleatorios.
+Sumerge a hasta 3 zombis aleatorios. ^D22808^Daño: 1.800^oldclr^
 
 [TANGLEKELP_PRODUCT_SHORT_DESC]
 Planta acuática que succiona zombis bajo el agua
@@ -107805,7 +107878,7 @@ Este logro:
 Tripitidora
 
 [THREEPEATER_AVATAR_PLANTFOOD_DESCRIPTION]
-Dispara un abanico de ^E2725B^198 guisantes^oldclr^ que se dispersan en 3 direcciones
+El efecto de Nutrientes se extiende al triple.
 
 [THREEPEATER_DESCRIPTION]
 {KEYWORD}Información de daño: {STAT}}normal (por cada guisante)
@@ -107821,7 +107894,7 @@ Las Tripitidoras disparan guisantes en tres líneas.
 {KEYWORD}Nutrientes: {STAT}Dispara un abanico de guisantes en varias direcciones, infligiendo daño.
 
 [THREEPEATER_NEW_SKILL_LEVEL1_DES]
-Cada cabeza dispara un guisante al unísono, atacando a tres lineas distintas en total.
+Dispara guisantes en 3 líneas.
 
 [THREEPEATER_NEW_SKILL_LEVEL2_DES]
 Gana un 25% de probabilidad de disparar 2 guisantes a la vez por cabeza.
@@ -107872,9 +107945,10 @@ Bocadragón eléctrico
 Sombrero relámpago
 
 [THUNDERSNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanzan ^E2725B^dos bolas de rayos^oldclr^ que dejan un campo eléctrico en un área de 3x3 que inflige daño y ^ff9600^paraliza^oldclr^ zombis por 3 segundos.
+Lanza 1 bola de rayos adicional con Nutrientes (ahora 2).
 
 [THUNDERSNAPDRAGON_DESCRIPTION]
+{KEYWORD}Especial: {STAT}probabilidad de aturdir zombis brevemente
 {KEYWORD}Características de la planta: {STAT}planta azul, mil voltios, destructora
 
 {FLAVOR}Es un famoso matón de la familia. Siempre murmura "Soy el Dragón del Trueno". "Todos dicen que me parezco a Boca de dragón. No tengo nada que ver con él. ¡Me veo mucho mejor que ese tipo!" dijo con desdén.
@@ -107883,10 +107957,11 @@ Lanzan ^E2725B^dos bolas de rayos^oldclr^ que dejan un campo eléctrico en un á
 Bocadragón eléctrico escupe una bola de rayos, que descarga una corriente eléctrica, infligiendo daño a corta distancia a los zombis que se acercan.
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
-Escupe una bola de rayos 5 casillas al frente infligiendo 100 puntos de daño en un área de 2x3, con un ^E2725B^50% de probabilidad de^oldclr^ ^ff9600^paralizar^oldclr^ ^E2725B^zombis por 1 segundo^oldclr^
+Escupe bolas de rayos que dañan a los zombis cercanos.
+^ff9600^Parálisis: afecta zombis por 1 s (50% probable).^oldclr^ 
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL2_DES]
-Gana un 20% de escupir una gran bola de rayos que inflige 300 puntos daño y ^ff9600^paraliza^oldclr^ zombis durante 1 segundo.
+Gana un 20% de escupir una bola púrpura que inflige más daño y aturde zombis. ^D22808^Daño: 300^oldclr^
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
@@ -107895,10 +107970,11 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
 Gana un 75% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse
 
 [THUNDERSNAPDRAGON_NEW_SKILL_LEVEL5_DES]
-Gana un 20% de probabilidad de invocar un espíritu eléctrico que inflige 2.500 puntos de daño y ^ff9600^paraliza^oldclr^ zombis durante 1 segundo.
+Gana un 20% de probabilidad de invocar un espíritu eléctrico que ^ff9600^paraliza^oldclr^ zombis durante 1 s.
+^D22808^Daño: 2.500 (línea)^oldclr^
 
 [THUNDERSNAPDRAGON_PLANTFOOD_DESCRIPTION]
-Lanza una bola de rayo que deja un campo eléctrico en un área de 3x3 que inflige daño y ^ff9600^paraliza^oldclr^ zombis por 3 segundos.
+Lanza una bola de rayo que deja un campo eléctrico que daña y aturde zombis en un área 3x3 durante 3 s
 
 [THUNDERSNAPDRAGON_PRODUCT_SHORT_DESC]
 Escupe bolas de rayos que dañan a los zombis cercanos
@@ -107937,7 +108013,7 @@ Empieza en {DAYS} d
 Tomillo tiempillo
 
 [THYMEWARP_AVATAR_PLANTFOOD_DESCRIPTION]
-El atuendo no altera su efecto de Nutrientes.
+^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
 
 [THYMEWARP_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -107953,16 +108029,17 @@ Tomillo tiempillo rebobina el tiempo y devuelve a los zombis a su lugar de inici
 {KEYWORD}Nutrientes: {STAT}Sin efecto de Nutrientes.
 
 [THYMEWARP_NEW_SKILL_LEVEL1_DES]
-Desaparece a 5 zombis durante 2,5 segundos y los devuelve a su lugar de inicio al cabo de 3 segundos, eliminando los efectos aliados/adversos en ellos (excepto el Encogimiento) y restaurando su salud.
+Captura 5 zombis por 2.5 s y los devuelve a su lugar de inicio pasado 3 s
+^E2725B^Rebobinación: elimina efectos aliados/adversos (excepto Encogimiento), restaura salud^oldclr^
 
 [THYMEWARP_NEW_SKILL_LEVEL2_DES]
-Gana un 60% de probabilidad de destruir al instante a un zombi rebobinado
+Gana un 60% de probabilidad de destruir al instante a 1 zombi rebobinado
 
 [THYMEWARP_NEW_SKILL_LEVEL3_DES]
-Puede rebobinar a 7 zombis en el tiempo al igual que destruir más zombis rebobinados
+Puede rebobinar a 7 zombis en el tiempo; elimina a 2 zombis del tiempo.
 
 [THYMEWARP_PLANTFOOD_DESCRIPTION]
-Sin efecto de Nutrientes.
+^FF0000^Sin efecto de Nutrientes.^oldclr^
 
 [THYMEWARP_PRODUCT_SHORT_DESC]
 Devuelve a los zombis a su lugar de inicio
@@ -107977,7 +108054,7 @@ Nivel 2
 Nivel 3
 
 [THYMEWARP_SKILL_LEVEL2_DES]
-Puede rebobinar a más zombis en el tiempo al igual que destruir más zombis rebobinados
+^A048CF^Desfase zombi:^oldclr^ puede rebobinar a más zombis en el tiempo al igual que destruir más zombis rebobinados
 
 [THYMEWARP_TOOLTIP]
 Devuelve a los zombis a su lugar de inicio
@@ -108045,7 +108122,7 @@ Hace aparecer tigres de hierba
 Seta tigre
 
 [TIGERSTOOL_AVATAR_PLANTFOOD_DESCRIPTION]
-Ataca con ^E2725B^dos mordizcos^oldclr^ a los zombis de un área de 3x3 al frente, infligiendo daño masivo
+Aumenta el número de mordizcos en 1 (ahora 2).
 
 [TIGERSTOOL_DESCRIPTION]
 {KEYWORD}Área: {STAT}2x3 casillas al frente
@@ -108058,22 +108135,24 @@ Ataca con ^E2725B^dos mordizcos^oldclr^ a los zombis de un área de 3x3 al frent
 Seta tigre ruge para aturdir a los zombis que tiene en frente, y luego, los ataca a arañazos con sus poderosas garras.
 
 [TIGERSTOOL_NEW_SKILL_LEVEL1_DES]
-Ruge en un área de 2x3 al frente ^848484^aturdiendo^oldclr^ zombis por 0,5 segundos. Luego libera 4 arañazos para infligir daño
+Ruge para ^848484^aturdir zombis por 0.5 s, luego, los ataca con 4 arañazos
 
 [TIGERSTOOL_NEW_SKILL_LEVEL2_DES]
-La duración del ^848484^aturdimiento^oldclr^ por rugido aumenta en 0,25 segundos (ahora 0,75 segundos); el número de arañazos aumenta en 1 (5 en total)
+Rugido: la duración del ^848484^aturdimiento^oldclr^ aumenta en 0,25 s (ahora 0.75 s)
+Arañazos: su número aumenta en 1 (5 en total)
 
 [TIGERSTOOL_NEW_SKILL_LEVEL3_DES]
-La duración del ^848484^aturdimiento^oldclr^ por rugido aumenta en 0,5 segundos (ahora 1 segundo); el número de arañazos aumenta en 2 (6 en total)
+Rugido: la duración del ^848484^aturdimiento^oldclr^ aumenta en 0,5 s (ahora 1 s).
+Arañazos: su número aumenta en 2 (6 en total).
 
 [TIGERSTOOL_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [TIGERSTOOL_NEW_SKILL_LEVEL5_DES]
-Cada arañazo tiene la posibilidad de ^701edf^envenenar^oldclr^ zombis, infligiéndoles un daño equivalente al 10% de su salud máxima durante 10 segundos.
+Cada arañazo tiene la posibilidad de ^701edf^envenenar^oldclr^ zombis. ^D22808^Daño: 10% por 10 s^oldclr^
 
 [TIGERSTOOL_PLANTFOOD_DESCRIPTION]
-Ataca con un mordizco a los zombis de un área de 3x3 al frente, infligiendo daño masivo
+Ataca con un mordizco a los zombis de un área 3x3 al frente, infligiendo daño masivo
 
 [TIGERSTOOL_PRODUCT_SHORT_DESC]
 Ruge para aturdir zombis, luego, los ataca a arañazos
@@ -108094,7 +108173,7 @@ Nivel 3
 Nivel 5
 
 [TIGERSTOOL_SKILL_LEVEL5_DES]
-^DB8117^Garras envenenadas:^oldclr^ cda arañazo tiene la posibilidad de envenenar zombis
+^DB8117^Garras envenenadas:^oldclr^ cada arañazo tiene la posibilidad de envenenar zombis
 
 [TIGERSTOOL_TOOLTIP]
 Ruge para aturdir zombis, luego, los ataca a arañazos
@@ -108244,19 +108323,19 @@ Hongo engulle zombis enteros y después produce sol.
 {KEYWORD}Nutrientes: {STAT}Consume hasta 4 zombis aleatorios a su alrededor y produce soles por cada zombi engullido.
 
 [TOADSTOOL_NEW_SKILL_LEVEL1_DES]
-Engulle zombis en un alcance de 4 casillas o les inflige daño. Tras engullir un zombi, lo mastica por 30 segundos y luego da 50 soles.
+Engulle zombis enteros y después produce sol, les hace daño si son grandes.
 
 [TOADSTOOL_NEW_SKILL_LEVEL2_DES]
-Aumenta la producción de soles tras engullir zombis a 75 soles
+Aumenta la producción de soles tras engullir zombis en 25
 
 [TOADSTOOL_NEW_SKILL_LEVEL3_DES]
-Su rango de alcance aumenta en una casilla (ahora es de 5 casillas).
+Su rango de alcance aumenta en 1 casilla
 
 [TOADSTOOL_NEW_SKILL_LEVEL4_DES]
 Gana un 70% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse
 
 [TOADSTOOL_PLANTFOOD_DESCRIPTION]
-Consume hasta 4 zombis aleatorios a su alrededor y produce soles por cada zombi engullido tras 5 segundos.
+Devora hasta 4 zombis aleatorios a su alrededor y produce soles por cada uno. ^D22808^Duración: 4 s^oldclr^
 
 [TOADSTOOL_PRODUCT_SHORT_DESC]
 Engulle zombis enteros y después produce sol
@@ -108384,7 +108463,7 @@ Mejoras de reserva
 Plantorcha
 
 [TORCHWOOD_AVATAR_PLANTFOOD_DESCRIPTION]
-Sus llamas se ^E2725B^tornan púrpuras^oldclr^, aumentando el ^E2725B^bonus de daño al triple^oldclr^ a los guisantes de forma permanente.
+Con Nutrientes, se prende en fuego púrpura, aumentando el daño al triple.
 
 [Torchwood_Bundle_1]
 Lote de Plantorcha
@@ -108414,16 +108493,16 @@ Paquetes de semillas
 Prende en llamas los guisantes que la sobrevuelen, aumentando el daño en un 50%
 
 [TORCHWOOD_NEW_SKILL_LEVEL2_DES]
-Su salud aumenta en un 350% adicional, es decir, es 5 veces más resistente (gana 1.500 puntos de vida en total).
+Es 5 veces más resistente.
 
 [TORCHWOOD_NEW_SKILL_LEVEL3_DES]
-Su salud aumenta en un 13% adicional, es decir, es 15 veces más resistente (gana 4.500 puntos de vida en total).
+Es 15 veces más resistente.
 
 [TORCHWOOD_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [TORCHWOOD_PLANTFOOD_DESCRIPTION]
-Sus llamas se tornan azules, aumentando el bonus de daño al doble a los guisantes de forma permanente.
+Sus llamas se tornan azules, aumentando el daño de los guisantes al doble.
 
 [TORCHWOOD_PRODUCT_SHORT_DESC]
 Convierte a los guisantes que la sobrepasen en bolas de fuego
@@ -108432,13 +108511,13 @@ Convierte a los guisantes que la sobrepasen en bolas de fuego
 Nivel 2
 
 [TORCHWOOD_SKILL1_LEVEL1_DES]
-^4DD4DB^Madera fuerte:^oldclr^ su salud aumenta en un 350% adicional (ahora es 5 veces más resistente).
+^4DD4DB^Madera fuerte:^oldclr^ es 5 veces más resistente.
 
 [TORCHWOOD_SKILL1_LEVEL2]
 Nivel 3
 
 [TORCHWOOD_SKILL1_LEVEL2_DES]
-^A048CF^Llamas protectoras:^oldclr^ mejora los efectos del Nvl. 2 al triple (ahora es 15 veces más resistente).
+^A048CF^Llamas protectoras:^oldclr^ mejora los efectos del Nvl. 2 al triple.
 
 [TORCHWOOD_TOOLTIP]
 Convierte a los guisantes que la sobrepasen en bolas de fuego
@@ -108951,7 +109030,7 @@ Quintral
 Parche
 
 [TRISTERIXAPHYLLUS_AVATAR_PLANTFOOD_DESCRIPTION]
-Atrae aves para dispersar sus semillas y controlar hasta ^E2725B^6 zombis^oldclr^ al azar
+Las semillas del efecto controlan a 1 zombi extra (6 en total).
 
 [TRISTERIXAPHYLLUS_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}todo el patio (ataque) - patrón de cruz (polen aturdidor)
@@ -108964,19 +109043,24 @@ Atrae aves para dispersar sus semillas y controlar hasta ^E2725B^6 zombis^oldclr
 Quintral es una planta parásito que dispersa sus semillas con ayuda de las aves. Sus semillas germinan en la cabeza de los zombis y los controlan.
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL1_DES]
-Atrae un ave para dispersar su semilla que germina en un zombi, dejándolo hipnotizado y liberando polen que aturde a los demás en un patrón de cruz por 3 segundos.
+Atrae aves que dispersan sus semillas para controlar zombis. ^FFC300^Polen aturdidor: dura 3 s^oldclr^
+^D22808^Límite: zombis de Nvl. 2^oldclr^
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL2_DES]
-Reduce el tiempo de recuperación en 2,5 segundos, el polen dura 1 segundo más. Controla zombis de Nvl. 3
+Reduce el tiempo de recuperación en 2,5 s, el polen dura 1 s más (ahora 4). 
+^D22808^Límite: zombis de Nvl. 3^oldclr^
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL3_DES]
-Reduce el tiempo de recuperación en 5 segundos, el polen dura 2 segundos más. Controla zombis de Nvl. 5
+Reduce el tiempo de recuperación en 5 s, el polen dura 2 segundos más (ahora 5).
+^D22808^Límite: zombis de Nvl. 5^oldclr^
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL4_DES]
-Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse. Controla zombis de Nvl. 7
+Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
+^D22808^Límite: zombis de Nvl. 7^oldclr^
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL5_DES]
-Gana un 50% de liberar semillas más poderosas que liberan polen encantador, el cual hace que los zombis caminen en dirección contraria. Controla zombis de Nvl. 10
+Gana un 50% de liberar semillas que liberan polen encantador, haciendo que los zombis caminen en dirección contraria. 
+^D22808^Límite: no hay^oldclr^
 
 [TRISTERIXAPHYLLUS_PLANTFOOD_DESCRIPTION]
 Atrae aves para dispersar sus semillas y controlar hasta 5 zombis al azar
@@ -109027,10 +109111,10 @@ Tulipán trompetista
 Sombrero de músico
 
 [TULIPTRUMPETER_AVATAR_PLANTFOOD_DESCRIPTION]
-Inflige ^E2725B^429 puntos de daño^oldclr^ a los zombis y cura ^E2725B^240 puntos de salud^oldclr^ a las plantas de un área de 3x3 ^E2725B^durante 5 segundos^oldclr^
+Las ondas del efecto hacen 429 DPS y curan 240 PS durante 5 s
 
 [TULIPTRUMPETER_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}ataque - forma ofensiva (línea), curación - forma defensiva (área de 3x3)
+{KEYWORD}Alcance: {STAT}ataque - forma ofensiva (línea), curación - forma defensiva (área 3x3)
 {KEYWORD}Especial: {STAT}se convertirá en forma defensiva y curadora cuando los zombis estén cerca de él
 {KEYWORD}Características de la planta: {STAT}planta roja (amarilla), planta hábil, ataque y defensa
 
@@ -109040,10 +109124,12 @@ Inflige ^E2725B^429 puntos de daño^oldclr^ a los zombis y cura ^E2725B^240 punt
 Túlipan trompetista ataca a distancia con notas músicales, cura a las plantas a su alrededor si tiene zombis cerca.
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL1_DES]
-Ataca a los zombis con notas musicales; cura a las plantas de un área de 3x3 a su alrededor si hay zombis cerca, recuperándoles 100 puntos de salud.
+^FF9E6B^Forma ofensiva: dispara notas musicales por la línea^oldclr^
+^FFC300^Forma defensiva: cura plantas de un área 3x3 alrededor, recuperándoles 100 PS^oldclr^
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL2_DES]
-Gana un 10% de disparar una nota roja, la cual, inflige 30 puntos de daño e ^ff4284^hipnotiza^oldclr^ al zombi golpeado si es de Nvl. 4 o menos
+Gana un 10% de disparar una nota roja que ^ff4284^hipnotiza^oldclr^ al zombi golpeado  
+^D22808^Límite: zombis de Nvl. 4 (hace 300 DPS si lo excede)^oldclr^
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 20%)
@@ -109052,10 +109138,10 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 20%)
 Gana un 25% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL5_DES]
-Gana un 20% de disparar 3 ondas sónicas que infligen 60 puntos daño directo y 300 por salpicadura en un área pequeña.
+Gana un 20% de disparar 3 ondas sónicas que infligen más daño. ^D22808^Daño: 60 (900, casilla)^oldclr^
 
 [TULIPTRUMPETER_PLANTFOOD_DESCRIPTION]
-Inflige 300 puntos de daño a los zombis y cura 100 puntos de salud a las plantas de un área de 3x3 durante 3 segundos
+Libera ondas que hacen 300 DPS y curan 100 PS en un área 3x3 durante 3 segundos.
 
 [TULIPTRUMPETER_PRODUCT_SHORT_DESC]
 Ataca a los zombis con notas musicales, cura plantas si hay zombis cerca
@@ -109106,7 +109192,7 @@ Tupistra acechadora
 Pañuelo marrón
 
 [TUPISTRASTALKER_AVATAR_PLANTFOOD_DESCRIPTION]
-Gira lanzando hojas afiladas en un área de 3x3 por 3 rondas, luego se pone al acecho. ^E2725B^Las hojas se quedan clavadas, dañando a los zombis que las pisen ^oldclr^
+Las hojas del efecto se quedan clavadas, dañando a los zombis que las pisen.
 
 [TUPISTRASTALKER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}no puede ser atacada cuando está oculta bajo el suelo
@@ -109119,22 +109205,22 @@ Gira lanzando hojas afiladas en un área de 3x3 por 3 rondas, luego se pone al a
 Tupistra acechadora sale del suelo repentinamente y ataca a los zombis cercanos con sus hojas afiladas.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL1_DES]
-Ataca a los zombis en un área de 3x3 con hojas afiladas, luego se esconde y descansa por 9 segundos. ^E2725B^No es atacada cuando está bajotierra^oldclr^
+Sale del suelo y ataca a los zombis cercanos con sus hojas afiladas, luego descansa.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL2_DES]
-El tiempo de recuperación se reduce en 1 segundo (ahora es de 8 segundos).
+El tiempo de recuperación se reduce en 1 segundo.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL3_DES]
-El tiempo de recuperación se reduce en 2 segundos (ahora es de 7 segundos).
+El tiempo de recuperación se reduce en 2 segundos.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL4_DES]
-Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
+Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL5_DES]
 Gira por 2 rondas, lanzando el doble de hojas en cada ataque.
 
 [TUPISTRASTALKER_PLANTFOOD_DESCRIPTION]
-Gira lanzando hojas afiladas en un área de 3x3 por 3 rondas, luego se pone al acecho.
+Gira lanzando hojas en un área 3x3 por 3 rondas, luego se pone al acecho. ^D22808^Daño: 600^oldclr^
 
 [TUPISTRASTALKER_PRODUCT_SHORT_DESC]
 Sale del suelo y ataca a los zombis cercanos con sus hojas afiladas
@@ -109167,7 +109253,7 @@ Pavopulta
 Visor
 
 [TURKEYPULT_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza ^E2725B^18^oldclr^ pavos de tofu con ^E2725B^cascos de hierro^oldclr^, los cuales, tienen el ^E2725B^triple^oldclr^ de salud y poder de ataque.
+Lanza 6 pavos adicionales, estos ganan cascos de hierro con el triple de salud y poder.
 
 [TURKEYPULT_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
@@ -109181,7 +109267,7 @@ Las Pavopultas lanzan pavos de tofu que infligen daño a los zombis y luego brin
 {KEYWORD}Nutrientes: {STAT}Lanza varios cascos de calabaza para los pavos de tofu.
 
 [TURKEYPULT_NEW_SKILL_LEVEL1_DES]
-Lanza pavos de tofu por la línea para dañar zombis al impactar y hacerles aun más daño al picotearlos.
+Lanza pavos de tofu para dañar zombis al impactar y hacerles aun más daño al picotearlos.
 
 [TURKEYPULT_NEW_SKILL_LEVEL2_DES]
 El tiempo de recuperación se reduce en 1 segundo; su coste en soles se reduce en 25
@@ -109193,7 +109279,7 @@ El tiempo de recuperación se reduce en 2 segundos; su coste en soles se reduce 
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [TURKEYPULT_NEW_SKILL_LEVEL5_DES]
-Gana un 30% de lanzar un pavo más grande, el cual, ^848484^aturde^oldclr^ al zombi con el que impacte durante 1 segundo.
+Gana un 30% de lanzar un pavo más grande, el cual, ^848484^aturde^oldclr^ al zombi con el que impacte durante 1 s
 
 [TURKEYPULT_PLANTFOOD_DESCRIPTION]
 Lanza 12 pavos de tofu con cascos de calabaza, los cuales, tienen el doble de salud y poder de ataque.
@@ -109226,7 +109312,7 @@ Lanza pavos de tofu por la línea
 Rábano blanco
 
 [TURNIP_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza ^E2725B^dos clones^oldclr^ a casillas vacías, dando prioridad a las filas sin Rábanos blancos
+Aumenta el número de clones creados a 2.
 
 [TURNIP_DESCRIPTION]
 {KEYWORD}Especial: {STAT}protege plantas del Zombi Qigong y de los agujeros negros
@@ -109238,19 +109324,20 @@ Lanza ^E2725B^dos clones^oldclr^ a casillas vacías, dando prioridad a las filas
 Rábano blanco bloquea zombis y protege a las plantas de las fuerzas sobrenaturales del Zombi Qigong y de los agujeros negros, evitando que sean arrastradas por estos.
 
 [TURNIP_NEW_SKILL_LEVEL1_DES]
-Bloquea zombis y ^E2725B^protege plantas del Zombi Qigong y de los agujeros negros^oldclr^, evitando que sean arrastradas
+Bloquea zombis y resiste fuerzas sobrenaturales.
+^E2725B^Tip: hábil contra Zombis Qigong y agujeros negros.^oldclr^
 
 [TURNIP_NEW_SKILL_LEVEL2_DES]
-Gana la habilidad de atacar a los zombis una casilla al frente 2 veces seguidas, infligiéndoles 5 puntos de daño por golpe.
+Ataca a los zombis que tiene 1 casilla al frente 2 veces seguidas. ^D22808^Daño: 5 (x2)^oldclr^
 
 [TURNIP_NEW_SKILL_LEVEL3_DES]
-El poder de sus ataques se duplica (ahora hace 10 puntos de daño por golpe).
+El poder de sus ataques se duplica. ^D22808^Daño: 10 (x2)^oldclr^
 
 [TURNIP_NEW_SKILL_LEVEL4_DES]
 Gana un 25% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse
 
 [TURNIP_PLANTFOOD_DESCRIPTION]
-Lanza un clon a una casilla vacía, dando prioridad a las filas sin Rábanos blancos
+Lanza 1 clon a una casilla vacía, dando prioridad a las filas sin Rábanos blancos
 
 [TURNIP_PRODUCT_SHORT_DESC]
 Bloquea zombis y resiste fuerzas sobrenaturales
@@ -109325,22 +109412,24 @@ La explosión libera el mismo número de estrellas de fuego y hielo que en el at
 Madreselva astral tiene dos formas de ataque. La flor dorada convoca el poder del sol para dañar zombis, la flor plateada usa el poder de la luna para ralentizarlos.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL1_DES]
-La flor dorada lanza un sol para dañar a los zombis de la línea, la plateada lanza una luna que los sigue por todo el patio y los ralentiza. Toca en ellas para cambiar de forma, los astros explotan liberando estrellas de fuego o hielo.
+^FFC300^Flor dorada: lanza un sol que daña zombis de la línea.^oldclr^
+^979A9A^Flor plateada: lanza una luna que persiguen zombis por el patio y los ralentiza.^oldclr^
+^E2725B^Estrellas: se divide en 4 (sol) o en 8 (luna).^oldclr^
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL2_DES]
-Reduce el tiempo de recuperación en 2,5 segundos; aumenta el número de estrella liberadas (2 por explosión y 1 de fuego).
+Reduce el tiempo de recuperación en 2.5 s; aumenta el número de estrellas liberadas (2 por explosión y 1 de fuego).
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL3_DES]
-Reduce el tiempo de recuperación en 5 segundos; aumenta el número de estrella liberadas (4 por explosión y 2 de fuego).
+Reduce el tiempo de recuperación en 5 s; aumenta el número de estrellas liberadas (4 por explosión y 2 de fuego).
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL4_DES]
-Ganan un 60% de probabilidad de ser potenciadas por el efecto de Nutrientes al plantarse
+Ganan un 60% de probabilidad de ser potenciadas por el efecto de Nutrientes al plantarse.
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL5_DES]
-La flor que está detrás dispara estrellas pequeñas mientras su hermana ataca.
+La flor que está detrás dispara estrellas pequeñas mientras su hermana ataca. ^D22808^Daño: 99^oldclr^
 
 [TWINSHONEYSUCKLE_PLANTFOOD_DESCRIPTION]
-Combinan el poder de la luna y el sol, liberando un potente ataque 3 casillas al frente que inflige daño en un área de 5x5
+Combinan el poder de la luna y el sol, liberando un potente ataque. ^D22808^Daño: 1.000 (todo el patio)^oldclr^
 
 [TWINSHONEYSUCKLE_PRODUCT_SHORT_DESC]
 Usa el poder solar para dañar zombis y el poder lunar para ralentizarlos
@@ -109370,10 +109459,10 @@ Usa el poder solar para dañar zombis y el poder lunar para ralentizarlos
 Birasol
 
 [TWINSUNFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-Produce inmediatamente una ráfaga de 450 soles, ^E2725B^con un 15% de probabilidad de dar 100 Monedas^oldclr^
+Gana un 15% de probabilidad de dar 100 Monedas con Nutrientes.
 
 [TWINSUNFLOWER_DESCRIPTION]
-{KEYWORD}Producción de soles: {STAT}el doble de soles que girasol
+{KEYWORD}Producción de soles: {STAT}el doble de soles que Girasol
 {KEYWORD}Características de la planta: {STAT}planta amarilla, productora de soles, hermanos planta
 
 {FLAVOR}La línea superchic de gafas de sol megacaras de Birasol son todo un éxito allá donde va. Por eso no puede viajar sin que la avasallen los fotógrafos.
@@ -109397,7 +109486,7 @@ El número de soles generados al plantarse aumenta a 150
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL5_DES]
-Gana un 30% de probabilidad de producir una bomba solar y lanzarla a un zombi aleatorio, causando 2.000 puntos de daño con la explosión
+Gana un 30% de probabilidad de producir una bomba solar y lanzarla a un zombi aleatorio. ^D22808^Daño: 2.000^oldclr^
 
 [TWINSUNFLOWER_PLANTFOOD_DESCRIPTION]
 Produce inmediatamente una ráfaga de 450 soles.
@@ -109658,7 +109747,7 @@ Tomate definitivo
 Casco espacial
 
 [ULTOMATO_AVATAR_PLANTFOOD_DESCRIPTION]
-Explota infligiendo una gran cantidad de daño a los zombis de un área de 9x9. ^E2725B^Reaparecerá en su primera fase si estaba en su fase amarilla o roja.^oldclr^
+Tras usar Nutrientes, reaparecerá en su primera fase si estaba en su fase amarilla o roja.
 
 [ULTOMATO_DESCRIPTION]
 {KEYWORD}Especial: {STAT}puedes plantar uno encima de otro, lo que provoca que mute de verde a amarillo y después a rojo
@@ -109674,22 +109763,23 @@ Tomate definitivo se recarga y después lanza un rayo devastador por la línea q
 {KEYWORD}Nutrientes: {STAT}Explota infligiendo una gran cantidad de daño a todos los zombis del patio.
 
 [ULTOMATO_NEW_SKILL_LEVEL1_DES]
-Se recarga y lanza un rayo por la línea que dura 2 segundos, su coste aumenta en 50 conformes más plantes. ^E2725B^Muta y se vuelve más poderoso si plantas otro encima.^oldclr^
+Se recarga y lanza un rayo por la línea que dura 2 segundos.
+^E2725B^Especial: muta y se vuelve más poderoso si plantas otro encima.^oldclr^
 
 [ULTOMATO_NEW_SKILL_LEVEL2_DES]
-Se reduce el tiempo de carga de ataque en 1 segundo (ahora es de 3,5 segundos)
+Se reduce el tiempo de carga de ataque en 1 segundo.
 
 [ULTOMATO_NEW_SKILL_LEVEL3_DES]
-Se reduce el tiempo de carga de ataque en 2 segundos (ahora es de 2,5 segundos)
+Se reduce el tiempo de carga de ataque en 2 segundos.
 
 [ULTOMATO_NEW_SKILL_LEVEL4_DES]
 Gana un 50% de probabilidad de que al plantarlo, se mute a si mismo a amarillo.
 
 [ULTOMATO_NEW_SKILL_LEVEL5_DES]
-Sus láseres infligen daño por salpicadura en una casilla. El daño por salpicadura es un 33% del daño base.
+Sus láseres infligen daño por salpicadura en una casilla. ^D22808^Daño de área: 33% del base^oldclr^
 
 [ULTOMATO_PLANTFOOD_DESCRIPTION]
-Explota infligiendo una gran cantidad de daño a los zombis de un área de 9x9. Luego desaparece.
+Explota infligiendo una gran cantidad de daño, luego desaparece. ^D22808^Daño: 1.600 (todo el patio)^oldclr^
 
 [ULTOMATO_PRODUCT_SHORT_DESC]
 Se recarga y lanza un rayo devastador por la línea
@@ -110965,7 +111055,7 @@ Vampoletus
 Vampiro
 
 [VAMPORCINI_AVATAR_PLANTFOOD_DESCRIPTION]
-Da drenaje de salud permanente, que cura y aumenta la salud máxima a ^E2725B^18.000 puntos^oldclr^, sin tiempo de recuperación.
+Con Nutrientes, aumenta la salud máxima a 18.000 puntos.
 
 [VAMPORCINI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los Nutrientes activan el drenaje de forma indefinida
@@ -110979,16 +111069,17 @@ Los Vampoletus son plantas defensivas que drenan salud durante unos segundos a l
 {KEYWORD}Nutrientes: {STAT}Da drenaje de salud permanente, que cura y aumenta la salud máxima, sin tiempo de recuperación.
 
 [VAMPORCINI_NEW_SKILL_LEVEL1_DES]
-Al plantarse, libera murciélagos en un área de 3x3 a su alrededor durante 6 segundos para drenar la salud de los zombis y aumentar la suya al doble. ^E2725B^Reactiva esta habilidad cuando es derrotado.^oldclr^
+Aumenta su salud al doble drenando la de los zombis que tiene alrededor durante 6 s
+^E2725B^Especial: reactiva esta habilidad cuando es derrotado.^oldclr^
 
 [VAMPORCINI_NEW_SKILL_LEVEL2_DES]
 Vuelve a activar el drenaje de salud cada 30 segundos.
 
 [VAMPORCINI_NEW_SKILL_LEVEL3_DES]
-El tiempo para reactivar el drenaje de salud se reduce en 10 segundos (ahora se activa cada 20 segundos).
+El tiempo para reactivar el drenaje de salud se reduce en 10 segundos (ahora 20).
 
 [VAMPORCINI_NEW_SKILL_LEVEL4_DES]
-Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse
+Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [VAMPORCINI_NEW_SKILL_LEVEL5_DES]
 Tras recibir daño letal, se esconde bajotierra y remerge cuando no hay murciélagos alrededor
@@ -111027,7 +111118,7 @@ Vainilla sopladora
 Máscara de aviación
 
 [VANILLA_AVATAR_PLANTFOOD_DESCRIPTION]
-Sopla un enorme tornado que arroja hasta 5 zombis pequeños o medianos. El tornado daña y ^E2725B^ralentiza^oldclr^ a los zombis grandes
+Con Nutrientes, dispara un tornado frío que ralentiza a los zombis grandes. ^D22808^Daño: 150^oldclr^
 
 [VANILLA_DESCRIPTION]
 {KEYWORD}Especial: {STAT}sopla el paraguas del Zombi gentil
@@ -111040,10 +111131,12 @@ Sopla un enorme tornado que arroja hasta 5 zombis pequeños o medianos. El torna
 Sopla ráfagas de viento que dañan a todos los zombis de la línea y mandan a volar el paraguas del Zombi gentil.
 
 [VANILLA_NEW_SKILL_LEVEL1_DES]
-Sopla un fuerte viento que inflige daño a todos los zombis de la línea. Tras 5 ataques, dispara un tornado que inflige 180 puntos de daño por segundo y ^848484^aturde^oldclr^ durante 1 segundo. ^E2725B^(Funciona de maravilla contra los Zombis gentiles)^oldclr^
+Sopla un fuerte viento que inflige daño a todos los zombis de la línea. 
+^FFC300^Tornado: se activa con 5 ataques, hace 180 DPS/s y aturde 1 s^oldclr^
+^E2725B^Tip: funciona de maravilla contra los Zombis gentiles.^oldclr^
 
 [VANILLA_NEW_SKILL_LEVEL2_DES]
-Gana un 20% de probabilidad de soplar una barrera de viento que inflige 100 puntos de daño y empuja zombis una casilla atrás.
+Gana un 20% de soplar una barrera de viento que derriba zombis 1 casilla. ^D22808^Daño: 100^oldclr^
 
 [VANILLA_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
@@ -111052,10 +111145,10 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
 Gana un 25% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [VANILLA_NEW_SKILL_LEVEL5_DES]
-Gana un 20% de probabilidad de soplar 3 tornados a la vez, los cuales, infligen 180 puntos de daño cada uno y aturden zombis
+Gana un 20% de probabilidad de soplar 3 tornados a la vez.
 
 [VANILLA_PLANTFOOD_DESCRIPTION]
-Sopla un enorme tornado que arroja hasta 5 zombis pequeños o medianos. El tornado daña a los zombis grandes
+Sopla un enorme tornado que arroja hasta 5 zombis medianos. ^D22808^Daño: 100^oldclr^
 
 [VANILLA_SKILL_LEVEL1]
 Nivel 2
@@ -111444,10 +111537,11 @@ La Nuez tiene una cáscara muy dura. Protege con ella a tus otras plantas.
 {KEYWORD}Nutrientes: {STAT}Se cura a sí misma y gana una fuerte cáscara de armadura.
 
 [WALLNUT_NEW_SKILL_LEVEL1_DES]
-Bloquea a los zombis y protege tus plantas. ^E2725B^Úsala junto a plantas de corto alcance para una mejor sinergía.^oldclr^
+Bloquea a los zombis y protege tus plantas.
+^E2725B^Tip: úsala junto a plantas de corto alcance para una mejor sinergía.^oldclr^
 
 [WALLNUT_NEW_SKILL_LEVEL2_DES]
-Gana un 50% de probabilidad de explotar en un área de 1x3 al ser removida o destruida, empujando a los zombis, pero sin infligirles daño.
+Gana un 50% de explotar en un área 1x3 al ser removida o destruida, empujando a los zombis, pero sin infligirles daño.
 
 [WALLNUT_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 100%)
@@ -111456,7 +111550,9 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 100%)
 Gana un 25% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [WALLNUT_NEW_SKILL_LEVEL5_DES]
-Dispara una bola de fuego que hace 90 puntos de daño, una de nieve que hace 60 y ralentiza por 10 segundos, y un orbe eléctrico que hace 60 y ^ff9600^paraliza^oldclr^ durante 1,5 segundos. Recarga sus ataques por 20 segundos cuando no tiene proyectiles orbitando.
+Reactivación: 20 s. ^FFA500^Bola de fuego: hace 90 DPS^oldclr^
+^4DD4DB^Bola de nieve: hace 60 DPS y ralentiza por 10 segundos.^oldclr^
+^A048CF^Orbe eléctrico: hace 60 DPS y paraliza durante 1,5 segundos.^oldclr^
 
 [WALLNUT_PLANTFOOD_DESCRIPTION]
 Se cura a sí misma y gana una fuerte cáscara de armadura.
@@ -111642,7 +111738,7 @@ Triplica el coste de las plantas cuerpo a cuerpo
 Látigo wasabi
 
 [WASABIWHIP_AVATAR_PLANTFOOD_DESCRIPTION]
-Da golpes a su alrededor con su látigo flamígero, infligiendo grandes daños a los zombis en un área de 3x3. ^E2725B^Luego, libera ondas de calor que dañan zombis y derriten el hielo.^oldclr^
+Al finalizar el efecto, libera ondas de calor que dañan zombis y derriten el hielo. ^D22808^Daño: 120^oldclr^
 
 [WASABIWHIP_DESCRIPTION]
 {KEYWORD}Especial: {STAT}resiste el frío y calienta plantas a su alrededor
@@ -111657,22 +111753,22 @@ Látigo wasabi arremete con sus látigos en llamas, azotando a los zombis por de
 {KEYWORD}Nutrientes: {STAT}Da golpes a su alrededor con su látigo flamígero, infligiendo grandes daños a los zombis.
 
 [WASABIWHIP_NEW_SKILL_LEVEL1_DES]
-Azota a los zombis cercanos que tiene por delante o por detrás con su látigo en llamas.
+Da latigazos por delante y por detrás.
 
 [WASABIWHIP_NEW_SKILL_LEVEL2_DES]
-Sus latigazos ^ef0123^incendian^oldclr^ zombis, infligiéndoles 30 puntos de daño por 5 segundos
+Sus latigazos ^ef0123^incendian^oldclr^ zombis, infligiéndoles 30 DPS por 5 segundos
 
 [WASABIWHIP_NEW_SKILL_LEVEL3_DES]
-Mejora los efectos del Nvl. 2 al doble (el daño por segundo ahora es de 60 puntos).
+Mejora los efectos del Nvl. 2 al doble.
 
 [WASABIWHIP_NEW_SKILL_LEVEL4_DES]
 Gana un 25% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [WASABIWHIP_NEW_SKILL_LEVEL5_DES]
-Gana un 20% de lanzar una bola de fuego a distancia, la cual, daña a los zombis que entren en contacto con ella. La habilidad se activa cada 10 segundos.
+Gana un 20% de lanzar una bola de fuego a distancia, la habilidad se activa cada 10 s. ^D22808^Daño: 600^oldclr^
 
 [WASABIWHIP_PLANTFOOD_DESCRIPTION]
-Da golpes a su alrededor con su látigo flamígero, infligiendo grandes daños a los zombis en un área de 3x3.
+Da golpes en un área 3x3 a su alrededor, haciendo 75 DPS. ^D22808^Duración: 26 s^oldclr^
 
 [WASABIWHIP_SKILL_LEVEL1]
 Nivel 2
@@ -111720,7 +111816,7 @@ Con Chi
 Collar puntiagudo
 
 [WATERRABBIT_AVATAR_PLANTFOOD_DESCRIPTION]
-Activa inmediatamente el ataque Estruendo, que inflige daños en una zona de 3x3 ^E2725B^tres veces^oldclr^ y ^E2725B^reduce el daño de los zombis en un 80% por 18 segundos^oldclr^. El último golpe derriba zombis por 1,5 casillas
+Aumenta el número de Estruendos a 3, reduce el daño de los zombis en un 80% por 18 s
 
 [WATERRABBIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}gana un máximo de 5 acumulaciones de chi con cada sucesión de ataques encadenados. Cada acumulación mejora el daño y el empuje.
@@ -111735,7 +111831,9 @@ Con Chi encadena 5 ataques rápidos para atacar. Después, aumenta su acumulaci�
 {KEYWORD}Nutrientes: {STAT}Activa inmediatamente el ataque Estruendo, que inflige daños en una zona de 3x3 y reduce el daño de los zombis.
 
 [WATERRABBIT_NEW_SKILL_LEVEL1_DES]
-Encadena 5 ataques rápidos, con el último golpe duplicando el daño y derribando al zombi. Cada sucesión genera una flor que aumenta el ataque en un 20% por etapa. Al madurar, activa un ataque de área 3x3 que reduce el daño enemigo en un 80% por 18 segundos. La flor púrpura mejora el derribo final.
+Encadena 5 ataques rápidos, cada sucesión aumenta el daño en un 20% por etapa.
+^D22808^Derribo: desplaza zombis por 2 casillas, aumenta la distancia por etapa^oldclr^
+^E2725B^Estruendo: hace 100 DPS en un área 3x3, debilita zombis en un 80% por 18 s^oldclr^
 
 [WATERRABBIT_NEW_SKILL_LEVEL2_DES]
 El alcance de los ataques normales cambia a una casilla con un máximo de 3 zombis.
@@ -111747,10 +111845,11 @@ El número máximo de zombis aumenta a 5, la distancia de empuje aumenta en 1 ca
 Gana un 50% de ser potenciado por el efecto de Nutrientes al plantarse
 
 [WATERRABBIT_NEW_SKILL_LEVEL5_DES]
-Cuando no ataque, su flor se volverá amarilla después de que pasen 6 segundos por fase. Tócala para liberar un ataque adicional que derriba zombis por 1,5 casillas.
+Cuando no ataque, su flor se volverá amarilla tras 6 s por fase.
+^FFC300^Tócala para liberar un ataque que derriba zombis 1,5 casillas.^oldclr^
 
 [WATERRABBIT_PLANTFOOD_DESCRIPTION]
-Activa inmediatamente el ataque Estruendo, que inflige daños en una zona de 3x3 dos veces. El último golpe derriba zombis por 1,5 casillas
+Hace 400 DPS en una zona de 3x3 dos veces. El último golpe derriba zombis por 1,5 casillas
 
 [WATERRABBIT_PRODUCT_SHORT_DESC]
 Aumenta el daño con cada sucesión de ataques encadenados
@@ -111813,7 +111912,7 @@ Calabaza de cera
 Casco rojo
 
 [WAXGOURD_AVATAR_PLANTFOOD_DESCRIPTION]
-Salta para sacudir a los zombis 1 casilla al frente. Salta otra vez para sacudir a los de un área de 3x3. Finalmente, salta para derribarlos ^E2725B^(cada salto inflige daño)^oldclr^
+Cada salto del efecto de Nutrientes hace daño. ^D22808^Daño: 450 (x3)^oldclr^
 
 [WAXGOURD_DESCRIPTION]
 {KEYWORD}Especial: {STAT}su peso activa la Rueda Vitruviana
@@ -111825,10 +111924,11 @@ Salta para sacudir a los zombis 1 casilla al frente. Salta otra vez para sacudir
 Calabaza de cera es una planta pesada que bloquea y derriba zombis. Su peso es ideal para activar las baldosas de la Rueda Vitruviana.
 
 [WAXGOURD_NEW_SKILL_LEVEL1_DES]
-Al plantarse, cae para ^E2725^Baccionar las baldosas de la Rueda Vitruviana^oldclr^ y derribar zombis. También bloquea a los zombis atacantes.
+Bloquea y empuja zombis por los aires; su peso activa la Rueda Vitruviana.
 
 [WAXGOURD_NEW_SKILL_LEVEL2_DES]
-Cada vez que es atacado, saltará de inmediato, derribando a todos los zombis en la casilla que tiene delante. La habilidad se activa cada 20 segundos.
+Cada vez que es atacado, saltará de inmediato, derribando a todos los zombis en la casilla que tiene delante.
+^D22808^La habilidad se activa cada 20 segundos.^oldclr^
 
 [WAXGOURD_NEW_SKILL_LEVEL3_DES]
 Reduce el tiempo de activación de las habilidades del Nvl. 2 en un 50% (ahora es de 10 segundos)
@@ -111837,10 +111937,10 @@ Reduce el tiempo de activación de las habilidades del Nvl. 2 en un 50% (ahora e
 Gana un 35% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [WAXGOURD_NEW_SKILL_LEVEL5_DES]
-Libera energía y derriba a todos los zombis cercanos, infligiéndoles 210 puntos de daño cuando aterricen.
+Libera energía y derriba a todos los zombis cercanos. ^D22808^Daño: 210^oldclr^
 
 [WAXGOURD_PLANTFOOD_DESCRIPTION]
-Salta para sacudir a los zombis 1 casilla al frente. Salta otra vez para sacudir a los de un área de 3x3. Finalmente, salta para derribarlos.
+Salta para sacudir a los zombis 1 casilla al frente. Salta otra vez para sacudir a los de un área 3x3. Finalmente, salta para derribarlos.
 
 [WAXGOURD_PRODUCT_SHORT_DESC]
 Bloquea y empuja zombis por los aires; su peso activa la Rueda Vitruviana
@@ -111979,7 +112079,7 @@ Común
 Melón de sumo
 
 [WHITEMELON_AVATAR_PLANTFOOD_DESCRIPTION]
-Atrae a los zombis de un área de 2x3 frente a él y los derriba por 3 casillas, infligiéndoles daño y ^848484^aturdiéndolos^oldclr^ por 2 segundos. ^E2725B^También expulsa del patio a los zombis pequeños o medianos con salud baja^oldclr^
+Con Nutrientes, expulsa del patio a los zombis pequeños o medianos con salud baja.
 
 [WHITEMELON_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta verde, practicante de artes marciales, lleno de ira
@@ -111990,7 +112090,8 @@ Atrae a los zombis de un área de 2x3 frente a él y los derriba por 3 casillas,
 Melón de sumo derriba a los zombis atacantes usando el poder de su peso, la distancia varía según el tamaño de los zombis.
 
 [WHITEMELON_NEW_SKILL_LEVEL1_DES]
-Usa el poder del sumo para derribar zombis a 1-3 casillas según su tamaño. Sus ataques tienen un intervalo de 5 segundos.
+Derriba a los zombis atacantes con el poder del sumo.
+^D22808^Distancia de empuje: 1-3 casillas según el tamaño del zombi.^oldclr^
 
 [WHITEMELON_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de probabilidad de empujar a 2 zombis a la vez.
@@ -111999,13 +112100,15 @@ Gana un 10% de probabilidad de empujar a 2 zombis a la vez.
 Derriba a los zombis 1 casilla más lejos (la distancia de empuje ahora es de 2-4 casillas).
 
 [WHITEMELON_NEW_SKILL_LEVEL4_DES]
-Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse. ^E2725B^Cuando hay zombis cerca, existe un 30% de probabilidad de liberar esta habilidad.^oldclr^
+Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
+^E2725B^Cuando hay zombis cerca, existe un 30% de probabilidad de liberar esta habilidad.^oldclr^
 
 [WHITEMELON_NEW_SKILL_LEVEL5_DES]
-Después de que ataque a un zombi, existe un 20% de probabilidad de que empuje a los demás zombis que estén dentro de un área de 3x3.
+Después de que ataque, existe un 20% de probabilidad de que empuje a los demás zombis de un área 3x3
 
 [WHITEMELON_PLANTFOOD_DESCRIPTION]
-Atrae a los zombis de un área de 2x3 frente a él y los derriba por 3 casillas, infligiéndoles daño y ^848484^aturdiéndolos^oldclr^ por 2 segundos.
+Atrae zombis de un área 2x3 al frente y los derriba 3 casillas, infligiéndoles daño y ^848484^aturdiéndolos^oldclr^ por 2 s.
+^D22808^Daño: 180^oldclr^
 
 [WHITEMELON_SKILL_LEVEL1]
 Nivel 2
@@ -112074,7 +112177,7 @@ Festival Invernal - Día {LEVEL_NUMBER}
 Melonpulta congelada
 
 [WINTERMELON_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza ^E2725B^melones congelados llameantes^oldclr^ a todos los zombis, infligiendo daño normal y daño de zona al impactar.
+Con Nutrientes, lanza melones llameantes que hacen más daño. ^D22808^Daño: 300 (30 en área 3x3)^oldclr^
 
 [WINTERMELON_DESCRIPTION]
 {KEYWORD}Cadencia: {STAT}1/2x
@@ -112091,7 +112194,7 @@ Melonpulta congelada inflige grandes daños y frena a grupos de zombis.
 {KEYWORD}Nutrientes: {STAT}Lanza melones congelados a todos los zombis, infligiendo daño normal y daño de zona al impactar.
 
 [WINTERMELON_NEW_SKILL_LEVEL1_DES]
-Lanza melones helados que infligen grandes daños y un 50% del daño base a un grupo de zombis en un área de 3x3. Los melones también ralentizan zombis por 10 segundos.
+Lanza sandías heladas que infligen grandes daños y ralentizan zombis por 10 s. ^D22808^Daño grupal: 40^oldclr^
 
 [WINTERMELON_NEW_SKILL_LEVEL2_DES]
 Gana un 7,5% de probabilidad de ^0072ff^congelar^oldclr^ zombis por 2 segundos cuando inflige daño.
@@ -112103,10 +112206,10 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 15%)
 Cada vez que la plantes, será potenciada por el efecto de Nutrientes
 
 [WINTERMELON_NEW_SKILL_LEVEL5_DES]
-Gana un 40% de lanzar 3 rodajas de sandía congelada que infligen 300 puntos daño directo (o 60 por salpicadura) y ralentizan o congelan zombis por 2 segundos.
+Gana un 40% de lanzar 3 rodajas de sandía que congelan zombis por 2 s. ^D22808^Daño: 300 (60, en área 3x3)^oldclr^
 
 [WINTERMELON_PLANTFOOD_DESCRIPTION]
-Lanza melones congelados a todos los zombis, infligiendo daño normal y daño de zona al impactar.
+Lanza 4 melones por todo el patio. ^D22808^Daño: 200 (20 en área 3x3)^oldclr^
 
 [WINTERMELON_PRODUCT_SHORT_DESC]
 Inflige grandes daños y frena a grupos de zombis
@@ -112164,7 +112267,7 @@ Rambután escarchado
 Soldado de invierno
 
 [WINTERRAMBUTAN_AVATAR_PLANTFOOD_DESCRIPTION]
-Rueda hacia el frente, golpeando a los zombis e infligiendo daño de área. ^E2725B^Deja hielo al impactar, ralentizando a los zombis que lo pisen.^oldclr^
+Deja hielo al impactar, ralentizando a los zombis que lo pisen.
 
 [WINTERRAMBUTAN_DESCRIPTION]
 {KEYWORD}Especial: {STAT}sus bolas de nieve tienen la posibilidad de convertir zombis en bloques de hielo
@@ -112177,7 +112280,9 @@ Rueda hacia el frente, golpeando a los zombis e infligiendo daño de área. ^E27
 Rambután escarchado escupe bolas de nieve a los zombis para convertirlos en bloques de hielo. Luego rueda y los destruye.
 
 [WINTERRAMBUTAN_NEW_SKILL_LEVEL1_DES]
-Escupe bolas de nieve a los zombis, dañándolos en un área de 3x3. ^E2725B^Tiene un 5% de convertir al zombi golpeado directamente en un bloque de hielo si es pequeño o mediano. Luego de 7 ataques, rueda para dañar a los demás y destruir los bloques de hielo a su alcance.^oldclr^
+Escupe bolas de nieve a los zombis, dañándolos en un área 3x3.
+^E2725B^Rodar: se activa tras 7 ataques.^oldclr^
+^4DD4DB^Bloques de hielo: 5% probable (afecta zombis pequeños y medianos).^oldclr^
 
 [WINTERRAMBUTAN_NEW_SKILL_LEVEL2_DES]
 Aumenta la probabilidad de convertir zombis en bloques de hielo en un 10%; la probabilidad de destruir bloques de hielo aumenta en un 20%
@@ -112189,10 +112294,10 @@ Aumenta la probabilidad de convertir zombis en bloques de hielo en un 15%; la pr
 Gana un 50% de ser potenciado por el efecto de Nutrientes al plantarse
 
 [WINTERRAMBUTAN_NEW_SKILL_LEVEL5_DES]
-Sus bolas de nieve tienen un 20% de convertir zombis en bloques de hielo dentro de un área de 3x3
+Sus bolas de nieve tienen un 20% de convertir zombis en bloques de hielo en un área 3x3
 
 [WINTERRAMBUTAN_PLANTFOOD_DESCRIPTION]
-Rueda hacia el frente, golpeando a los zombis e infligiendo daño de área
+Rueda hacia el frente, golpeando a los zombis e infligiendo daño de área. ^D22808^Daño: 1.800 (200 en área 3x3)^oldclr^
 
 [WINTERRAMBUTAN_PRODUCT_SHORT_DESC]
 Escupe nieve a los zombis para convertirlos en bloques de hielo y destruirlos
@@ -112225,7 +112330,7 @@ Ciruelita
 Orejitas de conejo
 
 [WINTERSWEET_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza una ^E2725B^45 flores^oldclr^ dentro de un cierto ángulo hacia adelante. ^E2725B^También lanza flores rosadas.^oldclr^
+El número de flores aumenta a 45, también lanza flores rosadas.
 
 [WINTERSWEET_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta marrón, destructora
@@ -112236,10 +112341,11 @@ Lanza una ^E2725B^45 flores^oldclr^ dentro de un cierto ángulo hacia adelante. 
 Ciruelita lanza flores de ciruelo que se dividen en cinco pétalos al impactar.
 
 [WINTERSWEET_NEW_SKILL_LEVEL1_DES]
-Lanza flores de ciruelo a los zombis atacantes. Cuando la flor golpea algo, esta se dividirá en 5 pétalos, uno se desplazará a la derecha y el resto saldrá  volando en un ángulo oblicuo de 72° o 144°
+Lanza flores de ciruelo que se dividen en 5 pétalos al impactar.
+^D22808^Pétalos: hacen 15 DPS; 1 se dispersa a la derecha, resto: 72° o 144°^oldclr^
 
 [WINTERSWEET_NEW_SKILL_LEVEL2_DES]
-Gana un 20% de probabilidad de lanzar una flor de ciruelo rosa, la cual, inflige más daño.
+Gana un 20% de probabilidad de lanzar una flor de ciruelo rosa. ^D22808^Daño: 260^oldclr^
 
 [WINTERSWEET_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
@@ -112248,7 +112354,7 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
 Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [WINTERSWEET_PLANTFOOD_DESCRIPTION]
-Lanza 30 flores dentro de un cierto ángulo hacia adelante.
+Lanza 30 flores hacia adelante que se dispersan por todo el patio.
 
 [WINTERSWEET_PRODUCT_SHORT_DESC]
 Lanza flores de ciruelo que se dividen en 5 pétalos
@@ -112297,11 +112403,11 @@ El daño de su efecto de Nutrientes aumenta en un 50%
 
 [WIREGELSEMIUM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}toca o arrastra el dedo en el alambre para moverlo a la casilla objetivo
-{KEYWORD}Alcance: {STAT}todo el mapa (ubicar alambre), área de 3x3 (radio de acción)
+{KEYWORD}Alcance: {STAT}todo el mapa (ubicar alambre), área 3x3 (radio de acción)
 {KEYWORD}Especial: {STAT}puedes conectar otros cables para aumentar el daño
 {KEYWORD}Características de la planta: {STAT}plantas verde, destructora
 
-{FLAVOR}Es un buen terapeuta que usa la electricidad para aliviar el dolor aunque se pasa de voltios.
+{FLAVOR}Es un buen terapeuta que usa la electricidad para aliviar el dolor, aunque se pasa de voltios.
 
 [WIREGELSEMIUM_DESCRIPTION_HEADER]
 Gelsemio letal genera alambres de alta tensión a una casilla objetivo, haciendo grandes daños en el área circundante.
@@ -112313,7 +112419,8 @@ Gelsemiaceae
 Gelsemium
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL1_DES]
-Tócalo o arrastra el dedo en él para poner un cable en una casilla, generando descargas en un área de 3x3 a su alrededor. ^E2725B^Conecta varios cables para aumentar el daño.^oldclr^
+Tócalo para generar cercas de alta tensión.
+^E2725B^Tip: conecta varios cables para aumentar el daño.^oldclr^
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL2_DES]
 Su intervalo de ataque se reduce en un 25%; el multiplicador de daño aumenta al doble
@@ -112325,13 +112432,16 @@ Su intervalo de ataque se reduce en un 50%; el multiplicador de daño aumenta al
 Gana un 80% de ser potenciado por el efecto de Nutrientes al plantarse
 
 [WIREGELSEMIUM_NEW_SKILL_LEVEL5_DES]
-La punta del cable potencia el poder de ataque de las plantas eléctricas según la longitud del cable.
+La punta del cable potencia el daño de las plantas eléctricas según la longitud del cable.
 
 [WIREGELSEMIUM_PEDIA]
-Gelsemio letal está basado en el gelsemio (Gelsemium elegans), una planta trepadora o arbustiva que se encuentra principalmente en las regiones tropicales y subtropicales de Asia. Se caracteriza por sus flores amarillas en forma de trompeta, que crecen en racimos. Esta especie es conocida por sus propiedades tóxicas en sus hojas y flores, ha sido utilizada en la medicina tradicional con precaución debido a ello. Su hábitat natural son bosques húmedos y áreas con clima cálido.
+Gelsemio letal está basado en el gelsemio (Gelsemium elegans), una planta trepadora o arbustiva que se encuentra principalmente en las regiones tropicales y subtropicales de Asia. Se caracteriza por sus flores amarillas en forma de trompeta, que crecen en racimos. 
+
+[WIREGELSEMIUM_PEDIA]
+Esta especie era conocida en la antigüedad por sus potentes propiedades tóxicas y sedantes. En la medicina tradicional china y nativa americana, se usaba con extremo cuidado para tratar dolores y espasmos. Sin embargo, su toxicidad lo hacía peligroso, siendo también empleado como veneno.
 
 [WIREGELSEMIUM_PLANTFOOD_DESCRIPTION]
-Dispara cables eléctricos por todo el patio, infligiendo daño a todos los zombis que los toquen
+Dispara cables por todo el patio, dañando a los zombis que los toquen. ^D22808^Daño: 1.500^oldclr^
 
 [WIREGELSEMIUM_PRODUCT_SHORT_DESC]
 Tócalo para generar cercas de alta tensión
@@ -112480,7 +112590,7 @@ El evento se actualizará todos los días a las ^00FF00 12 de la noche ^oldclr.
 Bruja avellana
 
 [WITCHHAZEL_AVATAR_PLANTFOOD_DESCRIPTION]
-Transforma a un zombi aleatorio en una Humoseta ^E2725B^potenciada por el efecto de Nutrientes.^oldclr^
+La Humoseta generada será potenciada por el efecto de Nutrientes. Aumenta el daño en 500 puntos.
 
 [WITCHHAZEL_DESCRIPTION]
 {KEYWORD}Especial: {STAT}prefiere apuntar a Zombis mago
@@ -112495,13 +112605,14 @@ Bruja avellana usa hechicería mágica para transformar zombis en Setas desespor
 {KEYWORD}Nutrientes: {STAT}Transforma a un zombi aleatorio en un Hongo.
 
 [WITCHHAZEL_NEW_SKILL_LEVEL1_DES]
-Usa la usa hechicería para transformar zombis en Setas desesporadas. No puede transformar zombis grandes o aquellos de Nvl. 3 o superior, en su lugar les inflige daño.
+Transforma zombis en Setas desesporadas.
+^D22808^Límite: zombis grandes o de Nvl. 3 (hace 1.200 DPS si lo excede).^oldclr^
 
 [WITCHHAZEL_NEW_SKILL_LEVEL2_DES]
-Las Setas desesporadas creadas después de la transformación de un zombi, serán inmortales durante 3 segundos.
+Las Setas desesporadas creadas, serán inmortales durante 3 segundos.
 
 [WITCHHAZEL_NEW_SKILL_LEVEL3_DES]
-Su cadencia de disparo se reduce en 5 segundos (ahora es de 13 segundos).
+Su cadencia de disparo se reduce en 5 segundos.
 
 [WITCHHAZEL_NEW_SKILL_LEVEL4_DES]
 Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
@@ -112510,7 +112621,7 @@ Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al pla
 Gana un 30% de probabilidad de transformar a 2 zombis a la vez.
 
 [WITCHHAZEL_PLANTFOOD_DESCRIPTION]
-Transforma a un zombi aleatorio en una Humoseta.
+Transforma a un zombi aleatorio en una Humoseta o le hace 2.400 DPS
 
 [WITCHHAZEL_SKILL_LEVEL1]
 Nivel 2
@@ -112540,7 +112651,7 @@ Mago espinoso
 Flor madura
 
 [WIZARDTHORNS_AVATAR_PLANTFOOD_DESCRIPTION]
-Invoca ^E2725B^5 manojos de espinas^oldclr^ que se mueven 4 casillas a la derecha, dañando a todos los zombis que alcancen. Cada manojo puede enredar hasta 2 zombis en total. Después de liberar esta habilidad, la planta debe descansar.
+Aumenta el número de manojos liberados en 5
 
 [WIZARDTHORNS_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}1 fila al frente
@@ -112552,10 +112663,12 @@ Invoca ^E2725B^5 manojos de espinas^oldclr^ que se mueven 4 casillas a la derech
 Usa el poder de la magia para manipular espinas afiladas y venenosas que enredan o dañan zombis.
 
 [WIZARDTHORNS_NEW_SKILL_LEVEL1_DES]
-Lanza un hechizo que reduce el ataque de un zombi en un 50% durante 10 segundos y lo enreda con espinas que tienen 2,5 veces su vida, causando un 2% de daño por segundo a zombis en contacto. Inflige 40 veces más daño a zombis voladores o ya enredados. Todos los ataques envenenan, causando 10 puntos de daño durante 5 segundos.
+Espinas afiladas: debilitan zombis en un 50% durante 10 segundos.
+^E2725B^Espinas enredosas: tienen 2,5 veces la salud del zombi, quitan un 2% de salud.^oldclr^
+^A048CF^Veneno: hace 10 DPS durante 5 segundos.^oldclr^
 
 [WIZARDTHORNS_NEW_SKILL_LEVEL2_DES]
-Reduce el tiempo entre ataques en 2 segundos (ahora es de 8 segundos), las espinas duran más tiempo
+Reduce el tiempo entre ataques en 2 segundos, las espinas duran más tiempo
 
 [WIZARDTHORNS_NEW_SKILL_LEVEL3_DES]
 Sus ataques alcanzan a 2 objetivos a la vez, las espinas ganan más salud
@@ -112564,10 +112677,10 @@ Sus ataques alcanzan a 2 objetivos a la vez, las espinas ganan más salud
 Gana un 60% de ser potenciado por el efecto de Nutrientes al plantarse
 
 [WIZARDTHORNS_NEW_SKILL_LEVEL5_DES]
-El ^701edf^veneno^oldclr^ de las espinas hace que los zombis pierdan un 3% de su salud máxima por segundo. Aumenta la salud de las espinas.
+El ^701edf^veneno^oldclr^ de las espinas hace que los zombis pierdan un 3% de su salud máxima por segundo.
 
 [WIZARDTHORNS_PLANTFOOD_DESCRIPTION]
-Invoca 3 manojos de espinas que se mueven 4 casillas a la derecha, dañando a todos los zombis que alcancen. Cada manojo puede enredar hasta 2 zombis en total. Después de liberar esta habilidad, la planta debe descansar.
+Invoca 3 manojos de espinas que avanzan 4 casillas, enredando hasta 2 zombis. ^D22808^Daño: 1.500^oldclr^
 
 [WIZARDTHORNS_PRODUCT_SHORT_DESC]
 Manipula espinas con magia para dañar o enredar zombis
@@ -113672,7 +113785,7 @@ Rotinabo
 Tiara
 
 [XSHOT_AVATAR_PLANTFOOD_DESCRIPTION]
-Dispara rotinabos extragrandes que infligen 10 veces más daño.
+Dispara nabos extragrandes que infligen más daño. ^D22808^Daño: 100^oldclr^
 
 [XSHOT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}dispara proyectiles a cuatro direcciones
@@ -113687,7 +113800,7 @@ Rotinabo dispara proyectiles en las cuatro diagonales, en cualquiera donde haya 
 {KEYWORD}Nutrientes: {STAT}Dispara enormes rotinabos en las cuatro direcciones.
 
 [XSHOT_NEW_SKILL_LEVEL1_DES]
-Dispara proyectiles en las cuatro diagonales, en cualquiera donde haya un enemigo
+Dispara proyectiles en las 4 diagonales a la vez.
 
 [XSHOT_NEW_SKILL_LEVEL2_DES]
 Gana un 25% de probabilidad de disparar nabos gigantes, los cuales, infligen el doble de daño.
@@ -113699,7 +113812,7 @@ Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 50%).
 Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
 [XSHOT_PLANTFOOD_DESCRIPTION]
-Dispara 14 enormes rotinabos en las cuatro direcciones. Los nabos infligen 7 veces más daño que los normales.
+Dispara 14 nabos enormes en las 4 direcciones. ^D22808^Daño: 70^oldclr^
 
 [XSHOT_PRODUCT_SHORT_DESC]
 Dispara en línea diagonal, incluso en las cuatro direcciones a la vez
@@ -119691,13 +119804,16 @@ Vaina de zoja comienza siendo un pequeño brote que se convierte en una vaina co
 {KEYWORD}Nutrientes: {STAT}Genera inmediatamente un Zomboidestein.
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL1_DES]
-Empieza a crecer e invoca a un zomboide después de que se abra para dañar a los zombis enemigos
+Germina zomboides útiles cada 15 s
+^74D058^Zomboide: tiene 270 PS y hace 100 DPS^oldclr^
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL2_DES]
-Gana un 50% de probabilidad de germinar Zomboides carazanahoria
+Gana un 50% de probabilidad de germinar Zomboides carazanahoria.
+^74D058^Zomboide carazanahoria: tiene 640 PS y hace 130 DPS^oldclr^
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL3_DES]
 Gana un 35% de probabilidad de germinar Zomboides carazanahoria y un 35% de germinar Zomboides carasandía
+^74D058^Zomboide carasandía: tiene 1.370 PS y hace 150 DPS^oldclr^
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL4_DES]
 Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
@@ -119706,7 +119822,8 @@ Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al pla
 Gana un 15% de probabilidad de germinar Zomboides guisantralladores que disparan guisantes a distancia
 
 [ZOYBEANPOD_PLANTFOOD_DESCRIPTION]
-Crece inmediatamente y genera un Zomboidestein que inflige grandes daños.
+Crece al instante y genera un Zomboidestein que inflige grandes daños.
+^74D058^Zomboidestein: tiene 3.600 PS y hace 1.500 DPS^oldclr^
 
 [ZOYBEANPOD_PRODUCT_SHORT_DESC]
 Germina zomboides útiles
