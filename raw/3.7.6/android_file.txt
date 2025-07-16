@@ -535,10 +535,10 @@ Nivel 3
 [AQUAWEED_SKILL_LEVEL2_DES]
 ^A048CF^Domador experto:^oldclr^ mejora los efectos del Nivel 2.
 
-[AQUAWEED_SKILL_LEVEL5]
+[AQUAWEED_SKILL_SUPERSKILL]
 Nivel 5
 
-[AQUAWEED_SKILL_LEVEL5_DES]
+[AQUAWEED_SKILL_SUPERSKILL_DES]
 ^DB8117^Rey del mar:^oldclr^ posibilidad de invocar a un tiburón rojo que debora zombis al instante.
 
 [STORE_PRODUCT_AVATAR_AQUAWEED]
@@ -614,7 +614,7 @@ Completa la Atlántida - Día Final
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Se detectaron profundidades acuosas, activando el modo submarino...
 
 [NARRATIVE_ATLANTIS_1_INTRO_2]
-{SAY:WINNIE}Esta vez viajamos 10.000 años al pasado, en búsqueda de los restos de una civilización perdida.
+{SAY:WINNIE}Esta vez viajamos 10.000 años al pasado, en búsqueda de los restos de una civilización perdida: La Atlántida.
 
 [NARRATIVE_ATLANTIS_1_INTRO_3]
 {SAT:CRAZYDAVE}¡Al diablo con eso! ¿No es mi taco perdido lo que buscamos?
@@ -623,13 +623,19 @@ Completa la Atlántida - Día Final
 {TIRED:WINNIE}...
 
 [NARRATIVE_ATLANTIS_1_INTRO_5]
-{SAY:WINNIE}Mis sensores indican que la búsqueda insaciable de los zombis por cerebros también continúa.
+{EXCITED:CRAZYDAVE}¡Mira, Penny! Pero si es nuestra vieja amiga, ¡Seta marina!
 
 [NARRATIVE_ATLANTIS_1_INTRO_6]
-{PLAYFUL:WINNIE}Aunque para ser franca, creo que haz perdido el tuyo hace años.
+{SAY:WINNIE}Así es, Dave. Seta marina puede sernos de utilidad aquí, plántala en el fondo marino y defiende ambos frentes.
 
 [NARRATIVE_ATLANTIS_1_INTRO_7]
-{EXCITED:CRAZYDAVE}¡Ey! No seas tan grosera con mi taco.
+{PLAYFUL:WINNIE}Como estamos en mar abierto, los zombis atacarán desde ambas direcciones, ¡debemos prepararnos!
+
+[NARRATIVE_ATLANTIS_1_INTRO_8]
+{SAY:WINNIE}Por cierto, las plantas terrestres no pueden respirar bajo el agua, usa esas Algas oxigenadoras como sustento.
+
+[NARRATIVE_ATLANTIS_1_INTRO_9]
+{EXCITED:CRAZYDAVE}¡No te preocupes! Yo te cuido la espalda.
 
 [NARRATIVE_ATLANTIS_2_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Cuidado, ¡hay un forajido rondando estas aguas!
@@ -650,7 +656,7 @@ Completa la Atlántida - Día Final
 {SAY:WINNIE}Organismos detectados: moluscos cephalópodos del género Squidia, subclase coleópteros.
 
 [NARRATIVE_ATLANTIS_3_INTRO_3]
-{EXCITED:CRAZYDAVE}Parece que hablamos dos idiomas, porque no entiendo nada de lo que dices.
+{EXCITED:CRAZYDAVE}Parece que hablamos dos idiomas distintos, porque no entiendo nada de lo que dices.
 
 [NARRATIVE_ATLANTIS_3_INTRO_4]
 {TIRED:WINNIE}Son calamares, usuario Dave.
@@ -686,19 +692,28 @@ Completa la Atlántida - Día Final
 {TIRED:WINNIE}No otra vez...
 
 [NARRATIVE_ATLANTIS_6_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Una caracola mágica, ¿podrá responder a mis preguntas?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Una caracola mágica, ¿podrá responder a mis dudas?
 
 [NARRATIVE_ATLANTIS_6_INTRO_2]
-{SAY:WINNIE}Estoy un 100% segura de que es una caracola común y corriente.
+{SAY:WINNIE}Esos son caparazones de cangrejos ermitaños, usuario Dave.
 
 [NARRATIVE_ATLANTIS_6_INTRO_3]
-{SAY:WINNIE}Los zombis suelen usarla para obtener algo de protección.
+{SAY:WINNIE}Los cangrejos nadan hacia los zombis y los protegen del daño con su caparazón.
 
 [NARRATIVE_ATLANTIS_7_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}¡Alerta! Mis sensores detectan corrientes submarinas.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}¡Alerta! Mis sensores detectan fuertes corrientes submarinas.
 
 [NARRATIVE_ATLANTIS_7_INTRO_2]
-{EXCITED:CRAZYDAVE}¡Apágalo, Penny!
+{EXCITED:CRAZYDAVE}No quiero marearme, ¡¿qué hacemos?!
+
+[NARRATIVE_ATLANTIS_7_INTRO_3]
+{SAY:WINNIE}Detecto a un dúo eficaz para esta situación: los hermanos Kelpia.
+
+[NARRATIVE_ATLANTIS_7_INTRO_4]
+{SAY:WINNIE}Plántalos en el fondo marino para detener las corrientes y bloquear zombis.
+
+[NARRATIVE_ATLANTIS_7_INTRO_5]
+{SAY:CRAZYDAVE}¡Fiu!
 
 [NARRATIVE_ATLANTIS_8_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Siempre que veo un pez globo, me dan ganas de pincharlo.
@@ -716,7 +731,7 @@ Completa la Atlántida - Día Final
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Están apareciendo seres muy peligrosos.
 
 [NARRATIVE_ATLANTIS_9_INTRO_2]
-{EXCITED:CRAZYDAVE}Me gustaría irme flotando con una medusa atada en la espalda.
+{EXCITED:CRAZYDAVE}Desearía escapar flotando con una medusa atada en la espalda.
 
 [NARRATIVE_ATLANTIS_9_INTRO_3]
 {SAY:WINNIE}Probablemente no sea una buena idea.
@@ -728,7 +743,7 @@ Completa la Atlántida - Día Final
 {SAY:WINNIE}Esto supone que nos estamos acercando cada vez más a nuestro destino.
 
 [NARRATIVE_ATLANTIS_10_INTRO_3]
-{EXCITED:CRAZYDAVE}Empiezo a echar de menos la vida en tierra.
+{TIRED:CRAZYDAVE}Empiezo a echar de menos la vida en tierra.
 
 [NARRATIVE_ATLANTIS_11_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¿Qué son esos peces tan raros?
@@ -740,7 +755,7 @@ Completa la Atlántida - Día Final
 {SAY:WINNIE}Se les considera los más rápidos del mar, cuidado con ellos.
 
 [NARRATIVE_ATLANTIS_12_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Hola alteradores del orden espacio-temporal, ¿me echaban de menos?
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Hola, alteradores del orden espacio-temporal. ¿Me echaban de menos?
 
 [NARRATIVE_ATLANTIS_12_INTRO_2]
 {SAY:zombossicon}¡Lástima que acabaré con su estúpida aventura submarina!
@@ -31110,7 +31125,7 @@ Nivel 2
 Nivel 3
 
 [HOYACORDATA_SKILL_LEVEL2_DES]
-^4DD4DB^Fanatismo:^oldclr^ mejora los efectos del Nvl. 2 al doble
+^A048CF^Fanatismo:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [HOYACORDATA_SKILL_LEVEL5]
 Nivel 5
@@ -53382,13 +53397,13 @@ ATUENDO
 Efectos del Atuendo
 
 [NEW_PLANT_UI_VALUE_AVATAR_DES_TEXT_DEFAULT]
-^FFC300^No hay efectos Atuendos equipados^oldclr^
+No hay Atuendos equipados
 
 [NEW_PLANT_UI_VALUE_DETAIL_BTN_TEXT]
 DETALLES
 
 [NEW_PVP_AREA_GUIDE_DOOR_DESCRIPTION]
-Aparecerán varios túneles en el jardín, si un zombi entra, aparecerá directamente en el otro lado.
+Aparecerán varios túneles en el jardín, si un zombi entra, saldrá directamente en el otro lado.
 
 [NEW_PVP_AREA_GUIDE_DOOR_NAME]
 Escenario con túneles
@@ -59769,58 +59784,58 @@ GUARDAR
 Tu propiedad porcentual actual será reemplazada por una menos eficiente, ¿seguro que deseas continuar?
 
 [PLANT_FAMILY_SKILL_EXTRA_ATTACK]
-Aumenta el poder de ataque en un
+Daño +
 
 [PLANT_FAMILY_SKILL_EXTRA_DEFEND]
-Aumenta la defensa en un
+Defensa +
 
 [PLANT_FAMILY_SKILL_EXTRA_HITPOINTS]
-Aumenta la dureza en un
+Dureza +
 
 [PLANT_FAMILY_SKILL_EXTRA_MELEE_ATTACK]
-Aumenta el daño cuerpo a cuerpo en un
+Daño cuerpo a cuerpo +
 
 [PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_25]
-Probabilidad de producir 25 soles adicionales en un
+Producir 25 soles extra:
 
 [PLANT_FAMILY_SKILL_EXTRA_SUNMONEY_50]
-Probabilidad de producir 50 soles adicionales en un
+Producir 50 soles extra:
 
 [PLANT_FAMILY_SKILL_FAST_PLANT]
-Se acorta el tiempo de recuperación en un
+Recuperación -
 
 [PLANT_FAMILY_SKILL_GHOST]
-Probabilidad de entrar en el modo fantasmal en un
+Modo fantasmal:
 
 [PLANT_FAMILY_SKILL_IMPROVED_ATK_RATE]
-Aumenta la velocidad de ataque en un
+Velocidad +
 
 [PLANT_FAMILY_SKILL_IMPROVED_COLD_DAMAGE]
-Aumenta el daño de hielo en un
+Daño de hielo +
 
 [PLANT_FAMILY_SKILL_IMPROVED_EXPLODE_DAMAGE]
-Aumenta el daño explosivo en un
+Daño explosivo +
 
 [PLANT_FAMILY_SKILL_IMPROVED_FLAME_DAMAGE]
-Aumenta el daño de fuego en un
+Daño de fuego +
 
 [PLANT_FAMILY_SKILL_IMPROVED_LIGHTNING_DAMAGE]
-Aumenta el daño de rayos en un
+Daño eléctrico +
 
 [PLANT_FAMILY_SKILL_IMPROVED_SUNPRODUCE_RATE]
-Aumenta la velocidad de producción solar en un
+Vel. de producción +
 
 [PLANT_FAMILY_SKILL_INVINCIBLE]
-Probabilidad de ser invencible por 3 segundos en un
+Invencible por 3 s:
 
 [PLANT_FAMILY_SKILL_LOWER_COST]
-Se reduce el coste en soles en
+Coste -
 
 [PLANT_FAMILY_SKILL_PLANT_SUN_REFUND]
-Probabilidad de devolver los soles que cuesta en un
+Devolver soles:
 
 [PLANT_FAMILY_SKILL_REGENERATION]
-Regenerar salud en un
+Regenerar salud:
 
 [PLANT_FAMILY_TUTORIAL_CLICK_PLANT]
 Toca en "Plantas"
@@ -59841,7 +59856,7 @@ Toca en "Volver"
 Toca en "Talentos de familia"
 
 [PLANT_FAMILY_TUTORIAL_FAKE_PROPERTY]
-Aumenta el poder de ataque en un 1.00%
+Daño + 1.00%
 
 [PLANT_FAMILY_UNLOCK_DESC]
 Desbloquear nuevas propiedades
@@ -60551,7 +60566,7 @@ Guerras de jardín - Cambio de formación
 ¡El viaje de {PLAYER} a las Cuevas escalofriantes!
 
 [PLAYERS_TRIP_TO_KONGFU]
-¡El viaje de {PLAYER} al Dinastía del Kung Fu!
+¡El viaje de {PLAYER} a la Dinastía del Kung Fu!
 
 [PLAYERS_TRIP_TO_LOD]
 ¡El viaje de {PLAYER} a la Fiesta de piñatas!
@@ -116677,6 +116692,16 @@ Zombis camellos
 {FLAVOR}Cada uno de los Zombis camellos es un excelente bailarín, puesto que practican todos los días con señales y símbolos misteriosos y extraños. Lo llaman "el baile del camello".
 
 [ZOMBIE_CAMEL_ALMANAC_DESCRIPTION_HEADER]
+Llega a la vez con otros Zombis camellos
+
+[ZOMBIE_CAMEL_ONEHUMP]
+Zombis camellos
+
+[ZOMBIE_CAMEL_ONEHUMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}llega en un grupo de tres zombis o más
+{KEYWORD}Debilidad: {STAT}vulnerable a las plantas que arrasan con una línea de zombis
+
+[ZOMBIE_CAMEL_ONEHUMP_DESCRIPTION_HEADER]
 Llega a la vez con otros Zombis camellos
 
 [ZOMBIE_CANNON]
