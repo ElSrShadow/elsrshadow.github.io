@@ -1292,7 +1292,7 @@ Viaje a la Atlántida
 A quienes exploraron los restos de la mítica ciudad de Atlantis.
 
 [PLANTING_NOT_IN_KELPGUARD]
-No puedes plantar en los hermanos Kelpia
+No puedes plantar en barreras de algas
 
 [PLANTING_KELPGUARD_ONLY_DEEPSEA]
 Los hermanos Kelpia solo se plantan en el fondo marino
@@ -4412,18 +4412,20 @@ Registra tu cuenta personal con tu perfil del juego para guardar tus progresos e
 
 [ACCOUNT_REMOVE_CONTENT_1]
 Estás a punto de eliminar tu cuenta, lo cual significa que:
-1. Se eliminarán las Monedas, Joyas, Plantas, Atuendos, Colgantes, Artefactos, Piezas, Fichas, Accesorios y otros artículos en cada Modo de juego.
-2. Se eliminarán los datos de juego del Modo Aventura, Búsqueda de Penny, Zona del Infinito, Batallaz, Tierras ocultas, Familia de plantas, Dimensión del Recuerdo y Patio de la Creatividad.
-3. La información de su cuenta se eliminará y no se podrá recuperar.
-Si fue un error, toca en la esquina superior derecha para cerrar esta pestaña y conservar los datos del juego.
+
+1. Se eliminarán los recursos como Joyas o Monedas y otros artículos.
+2. Perderás el progreso como niveles completados, plantas o Atuendos desbloqueados.
+
+NOTA: una vez borrada la cuenta, no se podrá recuperar. Si fue un error, toca en la esquina superior derecha para cerrar esta pestaña y conservar los datos del juego.
 
 [ACCOUNT_REMOVE_CONTENT_2]
-Tu cuenta entrará en un período de inactividad de 10 días. Después de que elijas deshabilitar tu cuenta, esta se desactivará por 10 días.
-Puedes cancelar la desactivación de tu cuenta después de iniciar sesión dentro de los 10 días.
+Tu cuenta entrará en un período de inactividad de 10 días.
+Puedes cancelar la desactivación de tu cuenta después de iniciar sesión dentro del plazo establecido.
 
 [ACCOUNT_REMOVE_CONTENT_3]
 1. Después de eliminar la cuenta, los datos de nivel y los accesorios virtuales del juego se eliminarán por completo.
 2. Una vez eliminada, no podrás usar esta cuenta para volver a iniciar sesión en el juego.
+
 Cuando hayas leído las advertencias, toca en ELIMINAR CUENTA. Una vez que se envía la solicitud de eliminación de cuenta, no se puede retirar. Nuestro personal eliminará la cuenta después de enviar la solicitud, ¡sé paciente!
 
 [ACCOUNT_REMOVE_CONTENT_4]
@@ -4431,8 +4433,10 @@ Tu cuenta: {ACCOUNT}
 Haz solicitado eliminar esta cuenta a las {TIME} y la eliminaremos dentro de 30 días.
 
 [ACCOUNT_REMOVE_CONTENT_5]
-Tu cuenta: {ACCOUNT}
-Haz deshabilitado esta cuenta y la eliminaremos a las {TIME}. Si fue un error, toca en RESTAURAR CUENTA para volver a ingresar al juego.
+Haz deshabilitado esta cuenta: {ACCOUNT}
+Su eliminación esta programada para realizarse a las {TIME}
+
+Si fue un error, toca en RESTAURAR CUENTA para volver a ingresar al juego.
 
 [ACCOUNT_REMOVE_CONTENT_6]
 Tu cuenta ha sido eliminada, crea una nueva para comenzar el juego.
@@ -13905,13 +13909,16 @@ Carnaval
 [CARNIVAL_DESCRIPTION_1]
 1) La tienda se actualiza todos los días, participa para comprar diferentes Paquetes de regalo.
 2) Cada compra aumenta la probabilidad de obtener recompensas adicionales.
+
 3) El evento estará disponible de 20:00 a 22:00 todos los días, podrás comprar los sigtes. artículos:
 A. Paquetes especiales: paquetes de regalo con descuento (límite global de 1.000 compras, 1 por persona).
 B. Bolsa de regalo: contiene regalos aleatorios (límite global de 10.000 compras, 1 por persona).
+
 4) Puedes recibir recompensas por la compra acumulativa de Paquetes de regalo que se vuelven cada vez mejores.
 
 [CARNIVAL_DESCRIPTION_2]
 5) Contenido de los Paquetes de Regalo:
+
 A. Paquete legendario múltiple: contiene ^FF0000^10 Piezas^oldclr^ de una planta de tu elección y 10-675 Joyas. (Existe un 25% de probabilidad de conseguir 30 Piezas para la planta elegida).
 B. Paquete legendario: contiene ^FF0000^10 Piezas^oldclr^ y 10-450 Joyas. (Exite un 25% de probabilidad de conseguir 30 Piezas de la planta ofertada).
 C. Paquete épico: contiene ^FF0000^10 Piezas^oldclr^ y 10-270 Joyas. (Exite un 20% de probabilidad de conseguir 30 Piezas de la planta ofertada).
@@ -15402,10 +15409,10 @@ Despierta a las plantas cercanas
 10 paquetes de semillas de Megaguisantralladora + 10 semillas de la familia de Deteni-menta
 
 [COINSTORE_AD_LEFT]
-Monedas gratuitas (anuncios restantes: {NUMBER})
+Cosas gratis (anuncios restantes: {NUMBER})
 
 [COINSTORE_AD_LEFT_SUN]
-Soles gratuitos (anuncios restantes: {NUMBER})
+Soles gratis (anuncios restantes: {NUMBER})
 
 [COIN_AWARD_HEADER1]
 ¡Conseguiste {NUMBER} monedas!
@@ -18112,44 +18119,44 @@ Lanza semillas explosivas para bombardear zombis
 El evento comenzará pronto, ¿estás listo?
 
 [DANGERROOM_ACTIVITY_DESC_END]
-Tiempo restante:
+Termina el:
 
 [DANGERROOM_ACTIVITY_DESC_START]
-Tiempo de inicio:
+Inicia el:
 
 [DANGERROOM_ADD_PLANTS]
 Conseguiste brotes para:
 
 [DANGERROOM_AWARD_DESC1]
-Próxima recomp.:
+Próximo premio:
 
 [DANGERROOM_BONUS_REOBETAINED]
-¡Operación exitosa:
-Un total de {GEMS} Joyas fueron reobtenidas!
+Operación exitosa:
+¡Un total de {GEMS} Joyas fueron reobtenidas!
 
 [DANGERROOM_BONUS_UNCONNECTED]
-¡Falló la colección de la recompensas de la Zona de infinito debido a que no se detecta una conexión a Internet!
+No pudiste recibir las recompensas porque no estás conectado a Internet.
 
 [DANGERROOM_BONUS_UNCONNECTED_INLEVEL]
-¡La colección de Joyas en la recompensa falló debido a un error de conexión en la red! (Monedas y Reliquias del espacio-tiempo están normalmente disponibles). Después de que la conexión a Internet sea estable, podrás canjearlas por recompensas en la parte superior de la tabla de clasificación o cuando saltes un nivel.
+No pudiste recibir las recompensas. Juega a la Zona de Infinito en una red estable.
 
 [DANGERROOM_BUYLIFE_FAILED]
-Puede ser debido a un error de la conexión a Internet, inténtalo nuevamente más tarde.
+Puede ser debido a un error en tu conexión, inténtalo de nuevo más tarde.
 
 [DANGERROOM_BUYLIFE_FAILED_TITLE]
-No se pudo comprar
+Fallo al comprar vidas
 
 [DANGERROOM_BUY_BUTTON]
 COMPRAR
 
 [DANGERROOM_CHALLENGE_TIMES]
-No. de desafíos de hoy res.:
+Desafíos res. hoy:
 
 [DANGERROOM_CLOSED]
 Podría ser un error en tu conexión a Internet, o el evento ya ha terminado.
 
 [DANGERROOM_CLOSED_TITLE]
-No se puede empezar la Zona del Infinito
+No se puede iniciar
 
 [DANGERROOM_CONFIRM_REWARD_PLANT]
 ¿Seguro que deseas elegir esta planta?
@@ -18182,7 +18189,7 @@ Magneto sólido
 Introduce el nivel
 
 [DANGERROOM_FAILED_TIPS]
-Has perdido en la Zona del Infinito.
+Te quedaste sin plantas, ya no puedes participar.
 
 [DANGERROOM_GET_PLANT]
 Comprar
@@ -18194,7 +18201,7 @@ Toca para reclamar tu recompensa
 Obtención de puntos:
 
 [DANGERROOM_LEVEL_END_TRAINING_NOTICE]
-Cuando entrenas, no acumulas puntos ni consigues Medallas del Infinito.
+Cuando entrenas, no acumulas puntos ni consigues reliquias.
 
 [DANGERROOM_LEVEL_REWARD_BTN]
 Recompensas
@@ -18203,7 +18210,7 @@ Recompensas
 Conectando al servidor...
 
 [DANGERROOM_LOSE_TIP]
-¿Te quedaste sin plantas? Mejora el Nivel de tus plantas y juegas más niveles para más.
+¿Te quedaste sin plantas? Juegas más niveles para conseguir Piezas y mejorar tus plantas.
 
 [DANGERROOM_MAIN_SCORE]
 Tu puntuación:
@@ -18236,22 +18243,22 @@ Toca para continuar el desafío
 MÁS TARDE
 
 [DANGERROOM_NO_PLANT_TIP]
-¡No hay plantas disponibles en este momento y no puedes continuar con el desafío!
+¡No puedes continuar con el desafío sin plantas!
 
 [DANGERROOM_PLANTSTORE_NEED_CONNECT]
 Se necesita una conexión a Internet para Autorefrescar.
 
 [DANGERROOM_RANK_IN]
-Clasificación: {N}
+Clasificado: {N}
 
 [DANGERROOM_RANK_OUT]
-Clasificado en: {N}%
+Posición: {N}%
 
 [DANGERROOM_RECOMMEND_PRESENT]
-Paquetes de Regalo del Infinito
+Lotes del Infinito
 
 [DANGERROOM_REQUEST_RANK_LIST]
-Mostrar lista de Top Rank
+Top 50
 
 [DANGERROOM_RESET]
 Rest.
@@ -18260,7 +18267,7 @@ Rest.
 ¿Deseas reiniciar tu progreso por ^00e46e {COST} Joyas ^oldclr?
 
 [DANGERROOM_RESETFREE_TIPS]
-¿Deseas reiniciar tu progreso gratuitamente?
+¿Deseas reiniciar tu progreso gratis?
 
 [DANGERROOM_RESET_SUCCESS]
 ¡Progreso restablecido con éxito!
@@ -18272,33 +18279,27 @@ ABANDONAR
 Recompensas por puntos
 
 [DANGERROOM_REWARD_MSG]
-Tienes tu recompemsa
+Recompensas de infinito
 
 [DANGERROOM_REWARD_RANK_TIP]
-Felicidades, esta es la recompensa que conseguiste en la Zona del Infinito:
+Recibiste esta recompensa en la Zona del Infinito:
 
 [DANGERROOM_RULE_BTN_TXT]
-Reglas del evento
+REGLAS
 
 [DANGERROOM_RULE_TITLE]
-Reglas del juego
+Reglas del evento
 
 [DANGERROOM_RULE_TXT]
-1. Normalmente, las Zonas de Infinito están disponibles todos los jueves, viernes, sábados y domingos, sin embargo, se aplican los horarios de apertura a los días festivos especiales.
-2. Cada Zona del Infinito cambiará el mundo, y el mundo tendrá una vista previa disponible, aún no esté disponible el evento. Al mismo tiempo, en el evento se enumerarán las plantas recomendadas respectivas al mundo de la Zona del Infinito y estará disponible la compra de éstas en las tiendas por Joyas.
-3. En días de disponibilidad, los jugadores podrán gastar Joyas cada día múltiples veces para reiniciar su progreso en la Zona del Infinito, y los sábados y domingos, los jugadores podrán restablecer dicho progreso gratuitamente una vez.
-4. Cada vez que el jugador pase a través de un nuevo nivel, el jugador ganará puntos: los puntos actuales y los puntos máximos actuales, cada vez que el jugador restablezca el desafío, los puntos actuales se pondrán a cero, pero los puntos máximos actuales no, la tabla de clasificación se basa en los puntos máximos actuales como base de clasificación.
-5. Después de completar un nivel, recibirás Reliquias del espacio-tiempo, pueden utilizarse para comprar Artículos en la Tienda del Infinito.
-6. A las 24 horas todos los viernes, sábados y domingos será evaluada la tabla de clasificación, de acuerdo con la posición de clasificación en ese momento, se le otorgará al jugador Reliquias del espacio-tiempo.
-7. La cantidad de soles, Pepinos tácticos, Cortadoras, Nutrientes y plantas restantes en la partida se mantendrá al siguiente nivel. Sin embargo, el valor inicial se restaurará después del reinicio del progreso en la Zona del Infinito.
-8. El número de Pepinos tácticos es independiente al número de Pepinos tácticos en otros modos de juego y se calcula por separado.
-9. Hay un límite en el número de usos de cada planta, y después de la plantación, la cantidad disminuirá hasta que se agote esa cantidad. La cantidad de uso de un pequeño número de plantas se restaura con moderación cada vez que se termine un nivel.
-10. Por cada 5 Niveles jugados el jugará deberá enfrentarse al jefe respectivo al mundo establecido. Se le permitirá al jugador seleccionar libremente 2 de las cartas ofrecidas aleatoriamente antes de empezar la partida, en adicción a esto, el jugador podrá seleccionar una tercera opción por Joyas y Monedas.
-11. Se permite saltar de Nivel al segundo Nivel, pero es recomendable hacerlo al haber reiniciado el progreso de la Zona del Infinito tras haber completado un número mayor de Niveles.
-12. En los Niveles de la Zona del Infinito, habrán zombis especiales, tras derrotarlos el jugador recibirá recompensas y efectos especiales.
+1. Los eventos están disponibles de jueves a domingo, y en ciertos días festivos.
+2. Completa niveles y ve qué tan lejos puedes llegar, conservas tus soles y plantas en el siguiente nivel.
+3. El número de plantas a usar es limitado, consigues más conforme completes Niveles.
+4. Los jugadores se clasifican con los puntos máximos obtenidos al completar Niveles.
+5. Ganas reliquias al completar niveles y en la clasificación, úsalas para comprar cosas en la Tienda.
+6. Puedes reiniciar tu progreso por Joyas, perderás tu puntuación actual pero no el máximo acumulado. Es gratis 1 vez los fines de semana.
 
 [DANGERROOM_RULE_TXT2]
-Recompensas del Día de la Tabla de Clasificación:
+Recompensas por clasif.:
 
 [DANGERROOM_SCORE_REWARD_REVIEW]
 Vista previa
@@ -18316,22 +18317,22 @@ ACEPTAR
 Seleccionar plantas
 
 [DANGERROOM_SELECT_PLANTS_ALL]
-Todas las plantas
+Todas
 
 [DANGERROOM_SELECT_PLANTS_RARE_0]
-Plantas comunes
+Comunes
 
 [DANGERROOM_SELECT_PLANTS_RARE_1]
-Plantas especiales
+Especiales
 
 [DANGERROOM_SELECT_PLANTS_RARE_2]
-Plantas raras
+Raras
 
 [DANGERROOM_SELECT_PLANTS_RARE_3]
-Plantas épicas
+Épicas
 
 [DANGERROOM_SELECT_PLANTS_RARE_4]
-Plantas legendarias
+Legendarias
 
 [DANGERROOM_SELECT_REWARD_PLANT]
 Elige una planta
@@ -18349,28 +18350,28 @@ Saltar {NUMS} Nvl
 Saltar nivel
 
 [DANGERROOM_SKIP_TXT]
-¿Deseas saltar el Nivel {LEVEL} hasta el Nivel {TOLEVEL}? (También recibirás recompensas al saltar el nivel)
+¿Deseas saltar desde el Nivel {LEVEL} hasta el {TOLEVEL}? Tus recompensas no se perderán.
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600000]
-Paquete de la Zona del Infinito 1
+Lote de Infinito
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600001]
-Paquete de la Zona del Infinito 2
+Lote de Infinito 2
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600002]
-Paquete de la Zona del Infinito 3
+Lote de Infinito 3
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600003]
-Paquete de la Zona del Infinito 4
+Lote de Infinito 4
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600004]
-Paquete de la Zona del Infinito 5
+Lote de Infinito 5
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600005]
-Paquete de la Zona del Infinito 6
+Lote de Infinito 6
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600006]
-Paquete de la Zona del Infinito 7
+Lote de Infinito 7
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_DESC]
 Los paquetes solo se compran una sola vez y se refrescan cada jueves a las 12:00.
@@ -26795,16 +26796,17 @@ Falta el archivo de configuración del evento.
 10 más
 
 [GACHA_AGAIN_10_TIMES_NEW]
-Abre 10 Cofres {NUMBER} veces más
+10 x{NUMBER}
 
 [GACHA_AGAIN_1_TIMES]
 1 más
 
 [GACHA_AGAIN_1_TIMES_NEW]
-Abre 1 Cofre {NUMBER} veces más
+1 x{NUMBER} 
 
 [GACHA_COMPENSATION_CONTENT]
 Estimados jugadores:
+
 Estamos reparando el Modo Reto diario debido a unas fallas técnicas.
 Despejadas las dudas, nos disculpamos y les informamos que serán rembolsadas
 100 Joyas a todos los jugadores que compraron Boletos para el evento.
@@ -34868,19 +34870,19 @@ COMPRAR
 CANCELAR
 
 [LIMITED_GACHA_CONFIRM_TEXT]
-¿Deseas gastar {NUMBER} Joyas para comprar el Cofre?
+¿Deseas gastar {PRICE} Joyas para abrir el Cofre?
 
 [LIMITED_GACHA_CONFIRM_TEXT_2]
-¿Deseas gastar {NUMBER} Boleto (s) para participar en el sorteo?
+¿Deseas gastar {PRICE} Boleto (s) para participar en el sorteo?
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_ONE]
-No tienes suficientes Boletos para abrir el Cofre. ¿Deseas gastar {NUMBER} Joyas para completar los que faltan?
+No tienes Boletos suficientes para abrir el Cofre. ¿Deseas gastar {NUMBER} Joyas en su lugar?
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_TEN]
-No tienes suficientes Boletos para abrir los Cofres. ¿Deseas gastar {NUMBER} Joyas para completar los que faltan?
+No tienes Boletos suficientes para abrir los Cofres. ¿Deseas gastar {NUMBER} Joyas para completar los que faltan?
 
 [LIMITED_GACHA_CONFIRM_TITLE]
-Confirmar compra de Cofres
+Abrir Cofres
 
 [LIMITED_GACHA_CONFIRM_TITLE_NEW]
 ¿Completar compra del Cofre?
@@ -34912,13 +34914,13 @@ Has hecho {NUM} peticiones
 Recompensas por Clasificación
 
 [LIMITED_SUMMON_SHORT_DESCRIPTION]
-Realiza peticiones por tiempo limitado y compra Paquetes para conseguir nuevas plantas.
+Realiza peticiones por tiempo limitado y compra Paquetes para conseguir plantas nuevas.
 
 [LIMITED_SUMMON_TIMES_ONCE]
-Pedir uno
+Pedir x1
 
 [LIMITED_SUMMON_TIMES_TEN_TIMES]
-Pedir diez
+Pedir x10
 
 [LIMITED_SUMMON_TIPS]
 ¡Realiza hasta 20 peticiones para obtener nuevas plantas!
@@ -34933,45 +34935,65 @@ Duración del VIP
 1. Los jugadores pueden usar Cupones de petición para hacer sus peticiones durante un tiempo limitado.
 2. Aparecerán nuevas plantas después de realizar 20 peticiones.
 3. Puedes obtener Cupones de petición comprando Paquetes de regalo o activando Privilegios VIP.
-Sobre los Privilegios VIP: tras activar los Privilegios VIP, inicia sesión durante 3 días consecutivos para recibir 3 Cupones de petición todos los días.
-Sobre las Piezas universales: puedes reemplazar las Piezas de una planta existente por Piezas universales que pueden usarse en Plantas de Nivel 2 y superior.
-Sobre las Clasificaciones: al realizar peticiones, los jugadores acumulan el número correspondiente de veces en la lista. La clasificación tiene diferentes requisitos para el número de peticiones a realizar, los requisitos específicos son los siguientes.
-Lista diaria: 1° lugar - 50 veces; 2° lugar - 40 veces; 3° lugar 30 - veces; Del 4° al 10° lugar - 20 veces; Del 11° al 50° lugar - 10 veces; Del 51° al 100° - lugar 5 veces; Por encima del 100° lugar - 1 vez.
-Lista general: 1° lugar - 350 veces; 2° lugar - 280 veces; 3° lugar - 210 veces; Del 4° al 10° lugar - 140 veces; Del 11° al 50° lugar - 70 veces; Del 51° al 100° lugar - 35 veces; Por encima del 100° lugar - 7 veces;
-La clasificación equivale al mismo número de peticiones hechas por el jugador. Si se produce algún empate, entonces, se clasifican ambos jugadores en orden cronológico.
-Cuando se establezca la clasificación general, se obtendrá la Medalla de clasificación correspondiente.
+4. Privilegios VIP: inicia sesión durante 3 días consecutivos para recibir Cupones de petición.
+5. Piezas universales: puedes reemplazar las Piezas de una planta existente por Piezas universales que pueden usarse en Plantas de Nivel 2 y superior.
+
+[LIMITED_SUMMON_WISH_DESCRIPTION_2]
+6. Clasificaciones: los jugadores se clasifican en una lista según el número de peticiones realizadas.
+
+• Lista diaria:
+
+1° lugar → 50 peticiones
+2° lugar → 40 peticiones
+3° lugar → 30 peticiones
+4° - 10° lugar → 20 peticiones
+11° - 50° lugar → 10 peticones
+51° - 100° lugar → 5 peticiones
+101° lugar en adelante → 1 petición
+
+• Lista general: 
+
+1° lugar → 350 peticiones
+2° lugar → 280 peticiones
+3° lugar → 210 peticiones
+4° - 10° lugar → 140 peticiones
+11° - 50° lugar → 70 peticones
+51° - 100° lugar → 35 peticiones
+101° lugar en adelante → 7 peticiones
+
+Si se produce algún empate, entonces, se clasifican ambos jugadores en orden cronológico.
 
 [LIMIT_GIFT]
 Regalos por tiempo limitado
 
 [LIMIT_LOTTERY_CONFIRM_TEXT_ONE]
-No tienes suficientes Boletos para participar en el Sorteo. ¿Deseas gastar {NUMBER} Joyas para completar los que faltan?
+No tienes Boletos suficientes para participar en el Sorteo. ¿Deseas gastar {NUMBER} Joyas en su lugar?
 
 [LIMIT_LOTTERY_CONFIRM_TEXT_TEN]
 No tienes suficientes Boletos para participar en los Sorteos. ¿Deseas gastar {NUMBER} Joyas para completar los que faltan?
 
 [LIMIT_LOTTERY_PACKETS_BIG]
-Requiere 25元 para comprarse ^ffff00 5 ^oldclr veces.
+25元 ^FF0000^(Límite de compra: 5)^oldclr^
 
 [LIMIT_LOTTERY_PACKETS_DESCRIPTION]
-Gasta ^FFFF00 6000 ^oldclr Monedas púrpuras y obtén ^FFFF00 60 ^oldclr como regalo.
-Las Monedas púrpuras se utilizan para girar la ruleta y obtener
-^ef7600 Plantas legendarias ^oldclr con Trofeos dorados.
+Gasta ^FF0000^6.000^oldclr^ Monedas púrpuras y obtén ^FFFF00^60^oldclr^ como regalo.
+Las Monedas púrpuras se utilizan para girar la ruleta.
+Puedes conseguir ^ef7600^Plantas legendarias^oldclr^ con Trofeos dorados.
 
 [LIMIT_LOTTERY_PACKETS_SMALL]
-Requiere 6元 para comprarse ^ffff00 1 ^oldclr vez.
+6元 ^FF0000^(Límite de compra: 1)^oldclr^
 
 [LIMIT_LOTTERY_PACKETS_SUPER_BIG]
-Requiere 328元 para comprarse ^ffff00 66 ^oldclr veces.
+328元 ^FF0000^(Límite de compra: 66)^oldclr^
 
 [LIMIT_TIMES_NOT_ENOUGH]
-¡No hay suficiente tiempo restante!
+Agotado el número de intentos.
 
 [LIMIT_TIME_CAN_GOT]
-Premios por Tiempo Limitado
+Premios por tiempo limitado
 
 [LIMIT_TIME_NOT_UP]
-El tiempo aún no ha terminado, inténtalo de nuevo más tarde.
+El momento aún no ha llegado, vuelve a intentarlo más tarde.
 
 [LINE_NUM]
 Fila: {NUM}
@@ -48370,7 +48392,7 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {NPC_ENTER:Winnie}{EXCITED}Mis sensores indican que ya poseemos una gran cantidad de plantas.
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_ENABLE_2]
-{SAY}Lo cual indica que ahora podemos usar una nueva interfaz llamada Familia de plantas.
+{SAY}Lo que habilita una nueva interfaz llamada Familia de plantas.
 
 [NARRATIVE_PLANT_FAMILY_TUTORIAL_END_1]
 {NPC_ENTER:Winnie}{EXCITED}Mientra más plantas desbloquees, más fuerte se hará la familia.
@@ -59556,7 +59578,7 @@ Planta
 Calidad
 
 [PLANT_FAMILY_DISPLAY_SUPPORT_LEVEL]
-Proporcionar Nivel
+Nvl. de apoyo
 
 [PLANT_FAMILY_DONOT_REFRESH]
 La propiedad porcentual no se actualizará
@@ -59565,7 +59587,7 @@ La propiedad porcentual no se actualizará
 Plantas no adquiridas
 
 [PLANT_FAMILY_ENABLE_NOTICE]
-Se activa después de completar el tercer mundo.
+Se activa después de completar Salvaje Oeste.
 
 [PLANT_FAMILY_FAMILY_CUR_LEVEL]
 Nvl. actual:
@@ -59574,16 +59596,16 @@ Nvl. actual:
 Nvl. {LEVEL}
 
 [PLANT_FAMILY_FAMILY_LEVEL_DESC1]
-El Nivel de familia equivale a la suma de los niveles proporcionados por las plantas que la componen.
+El nivel de familia es la suma de los niveles de las plantas que la componen.
 
 [PLANT_FAMILY_FAMILY_LEVEL_DESC2]
-Puedes ascender el Nivel de familia obteniendo más plantas, Atuendos y subiendo de Nivel a las plantas.
+Puedes mejorarlo obteniendo más plantas, Atuendos y subiendo de Nivel a las plantas.
 
 [PLANT_FAMILY_FAMILY_PROPERTY_DESC1]
-Porcentajes de propiedades y rango de valores que pueden obtenerse aleatoriamente.
+Porcentajes de propiedades y rango de valores que pueden obtenerse al azar.
 
 [PLANT_FAMILY_FAMILY_PROPERTY_DESC2]
-Mejorar el Nivel de familia de una familia de plantas aumenta el límite superior de atributos aleatorios.
+Mejorar el Nivel de familia aumenta el límite de atributos aleatorios.
 
 [PLANT_FAMILY_FAMILY_PROPERTY_DESC3]
 Para un mayor porcentaje, ¡sube de Nivel a tus plantas!
@@ -59592,7 +59614,7 @@ Para un mayor porcentaje, ¡sube de Nivel a tus plantas!
 Talentos de familia
 
 [PLANT_FAMILY_FREE_REFRERSH]
-Actualizaciones gratis:
+Cambios gratis:
 
 [PLANT_FAMILY_FREE_REFRESH]
 Refrescar gratis
@@ -59601,19 +59623,19 @@ Refrescar gratis
 VER ANUNCIO
 
 [PLANT_FAMILY_FREE_REFRESH_REMAIN]
-Actualizaciones res.: {count}
+Cambios res.: {count}
 
 [PLANT_FAMILY_LOCKED]
-No desbloqueado
+Bloqueado
 
 [PLANT_FAMILY_LOCK_FOR_REFRESH_NOTICE]
-Las propiedades porcentuales bloqueadas no se actualizan y solo pueden bloquearse una vez
+Las propiedades solo pueden bloquearse una vez.
 
 [PLANT_FAMILY_LOCK_FOR_REFRESH_NOTICE2]
-Nota: las propiedades porcentuales actualizadas no se han reemplazado y el bloqueo eliminará todas las propiedades nuevas.
+El bloqueo de propiedades ignora todos los cambios.
 
 [PLANT_FAMILY_NAME_50001]
-Familia egipcia
+Familia clásica
 
 [PLANT_FAMILY_NAME_50002]
 Familia solar
@@ -59637,7 +59659,7 @@ Familia de hielo
 Familia eléctrica
 
 [PLANT_FAMILY_NAME_50009]
-Familia futurista
+Familia del futuro
 
 [PLANT_FAMILY_NAME_50010]
 Familia de guisantes
@@ -59646,7 +59668,7 @@ Familia de guisantes
 Familia armada
 
 [PLANT_FAMILY_NAME_50012]
-Familia catapultadora
+Familia catapulta
 
 [PLANT_FAMILY_NAME_50013]
 Familia arquera
@@ -59655,7 +59677,7 @@ Familia arquera
 Familia perforante
 
 [PLANT_FAMILY_NAME_50015]
-Familia multiplicadora
+Familia múltiple
 
 [PLANT_FAMILY_NAME_50016]
 Familia de setas
@@ -59682,7 +59704,7 @@ Familia destructiva
 Familia robusta
 
 [PLANT_FAMILY_NAME_50024]
-Familia controladora
+Familia aturdidora
 
 [PLANT_FAMILY_NAME_50025]
 Familia encantada
@@ -59697,7 +59719,7 @@ Familia zodiacal
 Familia floreciente
 
 [PLANT_FAMILY_NAME_50029]
-Familia guerrera II
+Familia poderosa
 
 [PLANT_FAMILY_NAME_50030]
 Familia eléctrica II
@@ -59706,13 +59728,13 @@ Familia eléctrica II
 Familia animal
 
 [PLANT_FAMILY_NAME_50032]
-Familia amorosa
+Familia explosiva
 
 [PLANT_FAMILY_NAME_50033]
 Familia segura
 
 [PLANT_FAMILY_NAME_50034]
-Familia alegre
+Familia tenebrosa
 
 [PLANT_FAMILY_NAME_50035]
 Familia atlética
@@ -59721,25 +59743,25 @@ Familia atlética
 Familia danzante
 
 [PLANT_FAMILY_NAME_50037]
-Familia aturdidora
+Familia venenosa
 
 [PLANT_FAMILY_NAME_50038]
-Familia vaiven
+Familia del vaivén
 
 [PLANT_FAMILY_NAME_50039]
 Familia marcial
 
 [PLANT_FAMILY_NAME_50040]
-Estrella de explosión terrestre
+Familia explosiva II
 
 [PLANT_FAMILY_NAME_50041]
-Familia sombría II
+Familia dual
 
 [PLANT_FAMILY_NAME_50042]
-Familia multimpactos II
+Familia múltiple II
 
 [PLANT_FAMILY_NAME_50043]
-Familia de hielo II
+Familia elemental
 
 [PLANT_FAMILY_NAME_50044]
 Familia futurista II
@@ -59748,10 +59770,10 @@ Familia futurista II
 Familia floreciente II
 
 [PLANT_FAMILY_NAME_50046]
-Familia de fuego II
+Familia armada II
 
 [PLANT_FAMILY_NAME_50047]
-Familia sorpresiva
+Familia de nabos
 
 [PLANT_FAMILY_NONE_PROPERTY]
 Sin propiedades
@@ -59760,7 +59782,7 @@ Sin propiedades
 Refrescar
 
 [PLANT_FAMILY_REFRESH_NOTICE]
-Tienes una excelente propiedad porcentual, ¿seguro que quieres seguir actualizando la lista de porcentajes?
+Tienes una excelente propiedad, ¿seguro que quieres seguir actualizando la lista de porcentajes?
 
 [PLANT_FAMILY_REFRESH_NOTICE_INFO1]
 Gastar
@@ -59772,7 +59794,7 @@ Refrescar
 ¿Actualizar propiedad?
 
 [PLANT_FAMILY_REFRESH_NOTICE_INFO4]
-Hay propiedades porcentuales desbloqueadas, aumentará el costo de actualización.
+Ya hay propiedades desbloqueadas, aumentará el costo de actualización.
 
 [PLANT_FAMILY_REFRESH_PROPERTY]
 Porcentaje a mejorar
@@ -59781,7 +59803,7 @@ Porcentaje a mejorar
 GUARDAR
 
 [PLANT_FAMILY_SAVE_NOTICE]
-Tu propiedad porcentual actual será reemplazada por una menos eficiente, ¿seguro que deseas continuar?
+Tu propiedad actual será reemplazada por una menos eficiente, ¿seguro que deseas continuar?
 
 [PLANT_FAMILY_SKILL_EXTRA_ATTACK]
 Daño +
@@ -59802,13 +59824,13 @@ Producir 25 soles extra:
 Producir 50 soles extra:
 
 [PLANT_FAMILY_SKILL_FAST_PLANT]
-Recuperación -
+Recarga del paquete -
 
 [PLANT_FAMILY_SKILL_GHOST]
 Modo fantasmal:
 
 [PLANT_FAMILY_SKILL_IMPROVED_ATK_RATE]
-Velocidad +
+Vel. de ataque +
 
 [PLANT_FAMILY_SKILL_IMPROVED_COLD_DAMAGE]
 Daño de hielo +
@@ -59847,7 +59869,7 @@ Toca en "Familia de plantas"
 Toca en "Refrescar"
 
 [PLANT_FAMILY_TUTORIAL_CLICK_REPLACE]
-¡Las nuevas propiedades porcentuales que obtuvimos son buenas! ¡Cambiemos las actuales por esas!
+¡Las nuevas propiedades que obtuvimos son buenas! ¡Cambiemos las actuales por esas!
 
 [PLANT_FAMILY_TUTORIAL_CLICK_RETURN]
 Toca en "Volver"
@@ -59859,13 +59881,13 @@ Toca en "Talentos de familia"
 Daño + 1.00%
 
 [PLANT_FAMILY_UNLOCK_DESC]
-Desbloquear nuevas propiedades
+Desbloquear hueco
 
 [PLANT_FAMILY_UNLOCK_FOR_REFRESH_NOTICE]
-La propiedad porcentual está desbloqueada y la actualización de porcentajes afectará a esta propiedad.
+Como la propiedad está desbloqueada, será afectada por la actualización de porcentajes.
 
 [PLANT_FAMILY_UNLOCK_NOTICE_INFO1]
-Desbloquear
+Costo
 
 [PLANT_FAMILY_UNLOCK_NOTICE_INFO2]
 ¿Desbloquear nuevas propiedades?
@@ -94065,19 +94087,19 @@ Volver a
 Revisar
 
 [REVIVE_CONTENT_OAKTRAIN]
-¡Te has quedado sin flechas! ¿Deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para conseguir 20 flechas?
+¡Te has quedado sin flechas! ¿Deseas gastar ^00e46e^{GEM_COUNT} Joyas^oldclr^ para comprar ^FF0000^20 flechas^oldclr^?
 
 [REVIVE_CONTENT_SINGLEHANDED]
-¡Has perdido! ¿Deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para continuar la partida?
+¡Tu planta fue derrotada! ¿Deseas gastar ^00e46e^{GEM_COUNT} Joyas^oldclr^ para ^FF0000^revivirla^oldclr^?
 
 [REVIVE_DODORIDER_DIED_OUT]
-Te has quedado sin vidas, ¿deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para comprar una vida?
+Tus dodos murieron, ¿deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para comprar ^FF0000^1 vida^oldclr^?
 
 [REVIVE_DODORIDER_DIED_OUT_CANCELED]
-Misión fallida...
+¡Los dodos no cruzaron a la meta!
 
 [REVIVE_MOMOTARO_DIED_OUT_CANCELED]
-¡Misión fallida!
+Misión fallida...
 
 [REVIVE_TIP]
 AVISOS
@@ -95649,13 +95671,13 @@ Vuelvo en {TIME}
 ZPS {ZPS_AMT}%
 
 [RIVERCROSSING_DODORIDER]
-Han pasado: {NUMBER}
+{NUMBER}
 
 [RIVERCROSSING_REMAIN_DODORIDERS]
 Dodos res.: {NUMBER}
 
 [RIVERCROSSING_TIP_DODORIDER_DIED]
-¡Dodo caído!
+¡Dodo derrotado!
 
 [RIVERCROSSING_TIP_DODORIDER_RUNOUT]
 ¡Dodo caído!
@@ -95664,7 +95686,7 @@ Dodos res.: {NUMBER}
 ¡Muy bien, empecemos! Evita los obstáculos y usa las plataformas de hielo como ayuda para cruzar
 
 [RIVERCROSSING_TIP_MOVE_DOWN]
-Toca o desliza hacia abajo para mover al dodo hacia abajo
+Toca o desliza hacia abajo para mover al dodo en esa dirección
 
 [RIVERCROSSING_TIP_MOVE_LEFT]
 Toca o desliza hacia la izquierda para mover al dodo hacia adelante
@@ -95673,7 +95695,7 @@ Toca o desliza hacia la izquierda para mover al dodo hacia adelante
 Toca o desliza hacia la derecha para mover al dodo hacia atrás
 
 [RIVERCROSSING_TIP_MOVE_UP]
-Toca o desliza hacia arriba para mover al dodo hacia arriba
+Toca o desliza hacia arriba para mover al dodo en esa dirección
 
 [RNDBOSS_LEVEL_NAME]
 Desafío contra Jefe
@@ -99641,7 +99663,7 @@ Descripción del evento
 Cofre x10
 
 [SECRET_GACHA_TITLE]
-El tesoro secreto
+El Tesoro Secreto
 
 [SECRET_MIDDLE_STR]
 Disponible
@@ -100857,10 +100879,10 @@ Cupón de paqueticos
 ¡Conseguiste otro Guacadrilo!
 
 [SNAKE_HIT_BLOCK_MESSAGE]
-¡Ay! ¿En qué estabas pensando?
+Perdiste: Guacadrilo chocó con los obstáculos
 
 [SNAKE_HIT_BODY_MESSAGE]
-Oye, ¿qué es esa sensación? Es como si mordiése algo...
+Perdiste: Guacadrilo se mordió a si mismo
 
 [SNAKE_INTRO_TIP1]
 Desliza en Guacadrilo para cambiar la dirección a donde vaya
@@ -100872,19 +100894,19 @@ Desliza en Guacadrilo para cambiar la dirección a donde vaya
 ¡Aléjate de los obstáculos!
 
 [SNAKE_REVIVE_TIP1]
-No dejes que Guacadrilo choque con los obstáculos, ¿deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para continuar?
+Guacadrilo chocó con un obstáculo, ¿deseas comprar ^FF0000^1 vida^oldclr^ por ^00e46e^{GEM_COUNT} Joyas^oldclr^?
 
 [SNAKE_REVIVE_TIP2]
-No dejes que Guacadrilo choque consigo mismo, ¿deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para continuar?
+Guacadrilo se mordió, ¿deseas comprar ^FF0000^1 vida^oldclr^ por ^00e46e^{GEM_COUNT} Joyas^oldclr^?
 
 [SNAKE_REVIVE_TIP3]
-No dejes que Guacadrilo se salga del escenario, ¿deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para continuar?
+Guacadrilo salió del escenario, ¿deseas comprar ^FF0000^1 vida^oldclr^ por ^00e46e^{GEM_COUNT} Joyas^oldclr^?
 
 [SNAKE_REVIVE_TIP4]
-Los zombis están apunto de comerle los sesos a Dave, ¿deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para continuar?
+Los zombis llegaron a tu casa, ¿deseas comprar ^FF0000^1 vida^oldclr^ por ^00e46e^{GEM_COUNT} Joyas^oldclr^?
 
 [SNAKE_RUN_OUT_BOARDER_MESSAGE]
-¡errota valientemente a los zombis, ¡no huyas!
+Perdiste: Guacadrilo salió del escenario
 
 [SNAKE_SLOW_TIP]
 ¡Tú Guacadrilo está ralentizado!
@@ -104777,7 +104799,7 @@ Tienes grandes probabilidades de obtener Piezas de Rompecabezas de Plantas o de 
 Abre 10 Cofres.
 
 [STORE_CATEGORY_NAME_EVENT1_DESC]
-Tienes pocas probabilidades de obtener Piezas de Rompecabezas de Plantas o de Atuendos.
+Tienes pocas probabilidades de obtener Piezas de plantas y Atuendos.
 
 [STORE_CATEGORY_NAME_EVENT1_SHORT_DESC]
 Abre un Cofre.
@@ -113645,7 +113667,7 @@ Recompensas de la Votación
 ¡Votación realizada con éxito!
 
 [WAIT_FOR_BOSS_COMING_TIP]
-Espera a que el Día Final sea lanzado.
+Jefe no disponible
 
 [WAIT_FOR_DARK_BOSS_COMING_DES]
 El Dr. Zombi está llegando, ¡mantente alerta!
@@ -114878,10 +114900,10 @@ Advertencia: la dificultad del mundo seleccionado es muy elevada, ¡selecciona u
 Desbloquea un mundo más fácil
 
 [WORLDINFO_GEM_UNLOCK_DES]
-¿Deseas gastar {GEMS} Joyas para desbloquear este mundo? Las Estrellas necesarias para desbloquear el Mundo aumentarán con el Número total de Mundos que has desbloqueado.
+¿Deseas desbloquear este mundo por {GEMS} Joyas? El número de Estrellas necesarias aumentará para desbloquear el siguiente.
 
 [WORLDINFO_GEM_UNLOCK_DES_ANDROID]
-¿Deseas gastar {GEMS} Joyas para desbloquear este mundo? Las Estrellas necesarias para desbloquear el Mundo aumentarán con el Número total de Mundos que has desbloqueado.
+¿Deseas desbloquear este mundo por {GEMS} Joyas? El número de Estrellas necesarias aumentará para desbloquear el siguiente.
 
 [WORLDINFO_GEM_UNLOCK_TITLE]
 Desbloquear con Joyas
@@ -114890,7 +114912,7 @@ Desbloquear con Joyas
 VIAJAR
 
 [WORLDINFO_STAR_UNLOCK_DES]
-Las Estrellas necesarias para desbloquear el Mundo se contarán como el Número total de Estrellas de los Mundos que has desbloqueado, ¿seguro que quieres desbloquear este Mundo?
+¿Deseas desbloquear este mundo con Estrellas? El número de Estrellas necesarias aumentará para desbloquear el siguiente.
 
 [WORLDINFO_STAR_UNLOCK_TITLE]
 Desbloquear con Estrellas
@@ -114908,10 +114930,10 @@ CANCELAR
 DESBLOQUEAR
 
 [WORLDINFO_UNLOCK_PROGRESS_DES]
-Condiciones de desbloqueo:
+Tienes:
 
 [WORLDINFO_UNLOCK_PROGRESS_DES_PERCENT]
-{STAR}/{STARREQ}
+{STAR}/{STARREQ} estrellas
 
 [WORLDKEY_GIFT_BRIEF_BODY_TEXT]
 ¡Esta llave desbloquea nuevos mundos!
