@@ -1,4 +1,73 @@
-﻿[ADVICE_AQUARIUM_COIN_NOT_ENOUGH]
+﻿[NARRATIVE_DAVESPECIALS_1]
+{NPC_ENTER:CRAZYDAVE}{SPECIAL1}¡Hola! Esta es mi acción #1
+
+[NARRATIVE_DAVESPECIALS_2]
+{SPECIAL2}¡Mira esto! Acción #2 en marcha.
+
+[NARRATIVE_DAVESPECIALS_3]
+{SPECIAL3}Acción #3 activada.
+
+[NARRATIVE_DAVESPECIALS_4]
+{SPECIAL4}¿Escuchaste ese ruido? Es la acción #4.
+
+[NARRATIVE_DAVESPECIALS_5]
+{SPECIAL5}¡BLAARGH! Perdón… era la emoción de la acción #5.
+
+[NARRATIVE_DAVESPECIALS_6]
+{SPECIAL6}Acción #6 ejecutándose.
+
+[NARRATIVE_DAVESPECIALS_7]
+{SPECIAL7}¡Acción #7 desbloqueada!
+
+[NARRATIVE_DAVESPECIALS_8]
+{SPECIAL8}Acción #8 en su punto.
+
+[NARRATIVE_DAVESPECIALS_9]
+{SPECIAL9}Acción #9 lista.
+
+[NARRATIVE_DAVESPECIALS_10]
+{SPECIAL10}¿Quién pidió una dosis de locura? Acción #10 servida.
+
+[NARRATIVE_DAVESPECIALS_11]
+{SPECIAL11}¡Atención! Esta es la acción #11 y viene con sorpresa.
+
+[NARRATIVE_DAVESPECIALS_12]
+{SPECIAL12}¡Oh no, otra vez la cabra! Acción #12 activada.
+
+[NARRATIVE_DAVESPECIALS_13]
+{SPECIAL13}Treces razones para esta acción. ¡Y ninguna es cuerda!
+
+[NARRATIVE_DAVESPECIALS_14]
+{SPECIAL14}¿Estás contando? Porque esta es la acción 14.
+
+[NARRATIVE_DAVESPECIALS_15]
+{SPECIAL15}¡Solo falta una! Acción #15 ejecutada con estilo.
+
+[NARRATIVE_DAVESPECIALS_16]
+{SPECIAL16}Por última, esta es mi acción #16
+
+[NARRATIVE_DAVESPECIALS_17]
+{NPC_ENTER:SPECIALWINNIE}{TIRED:SPECIALWINNIE}Toma, te doy estas monedas para que te calles. ¡ME TIENES HARTA!
+
+[NARRATIVE_DAVESPECIALS_18]
+{SPAWN_COINS}
+
+[NARRATIVE_DAVESPECIALS_19]
+{SAY:SPECIALWINNIE}Mejor vete y comprate un taco, estoy cansada de viajar por un simple taco.
+
+[NARRATIVE_DAVESPECIALS_20]
+{SPAWN_COINS}{NPC_EXIT:SPECIALWINNIE}
+
+[NARRATIVE_DAVESPECIALS_21]
+{BRINGOUT_TACO}{SHOUT}¡Gracias, puta! Lo disfrutaré como no te lo puedes imaginar.
+
+[NARRATIVE_DAVESPECIALS_22]
+{EAT_TACO}
+
+[NARRATIVE_DAVESPECIALS_23]
+{NPC_ENTER:WINNIE}{PLAYFUL:WINNIE}¡Aquí estoy, usuario Dave! ¿Con quién hablabas?
+
+[ADVICE_AQUARIUM_COIN_NOT_ENOUGH]
 Monedas insuficientes.
 
 [ADVICE_AQUARIUM_MAX_BRAIN]
@@ -14321,88 +14390,68 @@ Objetivos del Nivel
 Arena de combatientes - Día {NUM}
 
 [CARD_GAME_TUTORIAL_STEP_1]
-En este modo, aparecerán nuevos enemigos de élite, derrótalos para ganar.
+Derrota a los enemigos para ganar.
 (Toca para continuar)
 
-[CARD_GAME_TUTORIAL_STEP_10]
-Despliega al Zombi gallinero para invocar un gran número de gallinas en cuanto sufra daño.
-(Arrastra la carta al patio para continuar)
-
-[CARD_GAME_TUTORIAL_STEP_11]
-Utiliza la Poción de la invencibilidad para proteger a tus Gallinas zombis del daño enemigo.
-(Arrastra la carta al patio para continuar)
-
 [CARD_GAME_TUTORIAL_STEP_2]
-Cuando un zombi entre a tu casa, perderás puntos de vida. Evita que la salud llegue a 0 o perderás.
+Pierdes puntos si los zombis entran a tu casa, evita llegar a 0
 (Toca para continuar)
 
 [CARD_GAME_TUTORIAL_STEP_3]
-En este modo, la batalla se lleva a cabo en rondas. Al comienzo de cada ronda, se escogen 5 cartas.
+La batalla se lleva a cabo en rondas. Escoge 5 cartas para empezar.
 (Toca para continuar)
 
 [CARD_GAME_TUTORIAL_STEP_4]
-Mantenga presionada la carta para agrandarla.
+Mantén presionada la carta para agrandarla.
 (Toca para continuar)
 
 [CARD_GAME_TUTORIAL_STEP_5]
-Arrastra una carta al campo para agregarla a la batalla.
+Arrastra una carta al campo para desplegarla.
 (Toca para continuar)
 
 [CARD_GAME_TUTORIAL_STEP_6]
-Cada carta tiene un Coste en soles fijo, pero no te preocupes. Consigues sol en cada ronda.
+Cada carta tiene un coste fijo, consigues sol en cada ronda.
 (Toca para continuar)
 
 [CARD_GAME_TUTORIAL_STEP_7]
-Los zombis de élite pueden liberar habilidades únicas al final de cada ronda. También puedes tocar en ellos para ver su información.
+Los zombis de élite tienen habilidades únicas, toca en ellos para más detalles.
 (Toca para continuar)
 
 [CARD_GAME_TUTORIAL_STEP_8]
-Toca en "Finalizar" para finalizar la ronda y desechar las cartas restantes. Si el tiempo es demasiado largo, la ronda finalizará automáticamente.
+Toca en "Finalizar" para desechar las cartas restantes.
 (Toca para continuar)
 
 [CARD_GAME_TUTORIAL_STEP_9]
-Usa el Clon Zombi para duplicar el número de invocaciones de las siguientes 2 cartas.
+Usa el Clon Zombi para duplicar las siguientes 2 cartas.
+(Arrastra la carta al patio para continuar)
+
+[CARD_GAME_TUTORIAL_STEP_10]
+Despliega al Zombi gallinero y siembra caos.
+(Arrastra la carta al patio para continuar)
+
+[CARD_GAME_TUTORIAL_STEP_11]
+Utiliza la Poción de invencibilidad para proteger a tus Gallinas.
 (Arrastra la carta al patio para continuar)
 
 [CARD_PLAY_TITLE]
 Sorteo de despeje
 
 [CARNIVAL]
-Carnaval
+Carnaval de ofertas
 
 [CARNIVAL_DESCRIPTION_1]
-1) La tienda se actualiza todos los días, participa para comprar diferentes Paquetes de regalo.
-2) Cada compra aumenta la probabilidad de obtener recompensas adicionales.
-
-3) El evento estará disponible de 20:00 a 22:00 todos los días, podrás comprar los sigtes. artículos:
-A. Paquetes especiales: paquetes de regalo con descuento (límite global de 1.000 compras, 1 por persona).
-B. Bolsa de regalo: contiene regalos aleatorios (límite global de 10.000 compras, 1 por persona).
-
-4) Puedes recibir recompensas por la compra acumulativa de Paquetes de regalo que se vuelven cada vez mejores.
-
-[CARNIVAL_DESCRIPTION_2]
-5) Contenido de los Paquetes de Regalo:
-
-A. Paquete legendario múltiple: contiene ^FF0000^10 Piezas^oldclr^ de una planta de tu elección y 10-675 Joyas. (Existe un 25% de probabilidad de conseguir 30 Piezas para la planta elegida).
-B. Paquete legendario: contiene ^FF0000^10 Piezas^oldclr^ y 10-450 Joyas. (Exite un 25% de probabilidad de conseguir 30 Piezas de la planta ofertada).
-C. Paquete épico: contiene ^FF0000^10 Piezas^oldclr^ y 10-270 Joyas. (Exite un 20% de probabilidad de conseguir 30 Piezas de la planta ofertada).
-D. Paquete universal: contiene ^FF0000^10 Piezas^oldclr^ y 10-900 Joyas. (Exite un 15% de probabilidad de conseguir 30 Piezas universales).
-E. Paquete de Colgantes: contiene  ^FF0000^Polvo del espacio-tiempo x150^oldclr^ y 10-450 Joyas. (Existe un 30% de probabilidad de conseguir 15 Piezas de Supercolgante - Superguantes.
-F. Paquete del Tesoro secreto: contiene ^FF0000^8 Boletos del Secreto^oldclr^ y 10-1500 Joyas. (Existe un 15% de probabilidad de conseguir 15 Boletos).
-G. Paquete de cultivo: contiene ^FF0000^10 Pociones naranjas^oldclr^ y 10-450 Joyas (Existe un 20% de probabilidad de conseguir 1 Libro avanzado).
-H. Paquete de Joyas: contiene ^FF0000^300 Joyas^oldclr^ y 10-450 Joyas adicionales (Existe un 35% de probabilidad de conseguir 1000 Joyas).
-I. Paquete de Monedas: contiene ^FF0000^450,000 Monedas^oldclr^ y 10-450 Joyas. (Existe un 50% de probabilidad de conseguir 750,000 Joyas).
-J, Paquete de Piezas: contiene ^FF0000^10 Piezas^oldclr^ y 10-1000 Joyas, (Existe un 25% de probabilidad de conseguir 30 Piezas).
-K. Paquete de mej. Artefactos: contiene ^FF0000^20 Tanques de energía^oldclr^ y 10-180 Joyas (Existe un 35% de probabilidad de conseguir 10 Cubos de energía).
+1) Disponible de 20:00 a 22:00, compra diferentes artículos con Cupones de carnaval.
+2) Los Cupones de carnaval se obtienen con dinero real en la Tienda del evento.
+3) Cada compra aumenta la probabilidad de obtener recompensas adicionales.
 
 [CARNIVAL_DESCRIPTION_TITLE]
 Descripción del evento
 
 [CARNIVAL_MARQUEE_TEMPLATE]
-¡Gracias por comprar el Paquete de regalo, {NAME}! Has conseguido {INFO} de bonificación.
+¡Gracias por comprar {NAME}! Acepta esto como regalo: {INFO}
 
 [CARNIVAL_SHORT_DESCRIPTION]
-¡Consigue Cupones y canjéalos por Paquetes de regalo para obtener recompensas sorpresa!
+¡Consigue Cupones y canjéalos por Paquetes con recompensas sorpresa!
 
 [CARROTLAUNCHER]
 Zanahortillería
@@ -14448,7 +14497,7 @@ Zanahortillería está basada en la zanahoria (Daucus carota var. sativus), una 
 La zanahoria se originó hace más de 5.000 años en Asia Central. Luego llegó al Mediterráneo y Europa, donde fue cultivada como planta medicinal por los griegos y romanos durante la Edad Antigua. En el siglo XVII, agricultores holandeses desarrollaron la variedad naranja en honor a la Casa de Orange, esta variedad es la más utilizada a partir de entonces debido a su sabor dulce y textura suave.
 
 [CARROTLAUNCHER_PLANTFOOD_DESCRIPTION]
-Lanza un misil que tiene 20.000 PS y explota en un área de 3x3 si es destruido o si aterriza en una casilla ocupada.
+Lanza un misil que tiene 20.000 PS y explota en un área 3x3 si es destruido o si aterriza en una casilla ocupada.
 
 [CARROTLAUNCHER_PRODUCT_SHORT_DESC]
 Dispara misiles de zanahoria que infligen daño masivo al enemigo
@@ -30414,17 +30463,18 @@ Completa los {NUM} desafíos próximos.
 Acumula {NUM} Joya (s) recargadas.
 
 [HAPPY_VASE_BREAKER_DESCRIPTION]
-1. Los jugadores pueden obtener Recompensas rompiendo Jarrones de Oro con los Martillos Rompejarrones que estos poseen.
-2. Cuando el número de Jarrones de Oro llegue a 0, el jugador podrá restablecerlo con Martillos Rompejarrones o esperar un tiempo para que se recarguen.
-3. Es necesario utilizar Martillos Rompejarrones para romper los Jarrones de oro, sin éstos, el jugador no podrá obtener Recompensas durante el evento.
-4. Los Martillos Rompejarrones se pueden conseguir exclusivamente en las Misiones del Evento, en Recarga diaria y por último, en Recarga acumulativa.
-5. En este evento estarán disponibles tareas diarias y el reajuste diario de la Recarga diaria para la obtención de Martillos Rompejarrones y Recompensas.
-6. En caso de haber acumulado Martillos Rompejarrones, el número restante de estos para cada período se restablecerá, es decir, el jugador tendrá la misma cantidad que se le había dado por defecto.
-7. Si el jugador ya posee una de las plantas ofertadas en los Jarrones de oro, al recibir la recompensa, ésta se convierte en 10 Piezas de Rompecabezas para dicha planta.
-Probabilidades de recompensas según clases:
-1ra clase: 2.33% ------> 2da clase: 4.65%
-3ra clase: 9.3% -------> 4ta clase: 37.21%
-5ta clase: 46.51%
+1. Gana premios rompiendo Jarrones de Oro. Se necesitan martillos para eso, consíguelos haciendo misiones o comprando Joyas.
+2. Puedes restablecer los Jarrones rotos con Joyas o esperar un tiempo (una vez se rompan todos).
+3. Los martillos se reinician al final del evento, úsalos cuanto antes.
+
+[HAPPY_VASE_BREAKER_DESCRIPTION]
+• Probabilidades de recompensas según clases:
+
+1ra clase → 2.33%
+2da clase → 4.65%
+3ra clase → 9.3%
+4ta clase → 37.21%
+5ta clase → 46.51%
 
 [HAPPY_VASE_BREAKER_DES_TITLE]
 ¿CÓMO JUGAR?
@@ -30433,25 +30483,25 @@ Probabilidades de recompensas según clases:
 Gasta {NUM} Joyas.
 
 [HAPPY_VASE_BREAKER_HAMMER_CONFIRM]
-¿Deseas gastar {NUM} Martillo (s) Rompejarron (es) para romper un Jarrón de oro?
+¿Deseas usar {NUM} Martillo (s) de oro para romper ese Jarrón?
 
 [HAPPY_VASE_BREAKER_HAMMER_ERROR]
 ¡Se ha producido un error desconocido! Comprueba tu conexión a Internet o reinicia el juego y vuelve a abrir el evento.
 
 [HAPPY_VASE_BREAKER_HAMMER_OBTAIN]
-¡Conseguiste {NUM} Martillo (s) Rompejarron (es)!
+¡Conseguiste {NUM} Martillo (s) de oro!
 
 [HAPPY_VASE_BREAKER_LOGIN]
-Iniciar sesión
+Inicia sesión
 
 [HAPPY_VASE_BREAKER_MINIGAME]
 Completa {NUM} partida (s) en los Minijuegos.
 
 [HAPPY_VASE_BREAKER_NOT_ENOUGH]
-Martillos Rompejarrones insuficientes
+Martillos insuficientes.
 
 [HAPPY_VASE_BREAKER_PASSWORLDLEVEL]
-Completa {NUM} partida (s) en {WORLD} en un nivel con el modo {HARD} activo.
+Completa {NUM} partida (s) en {WORLD} (Modo difícil).
 
 [HAPPY_VASE_BREAKER_POOL]
 Vista previa
@@ -30467,7 +30517,7 @@ Juega {NUM} partida (s) en Batallaz.
 Restablecer
 
 [HAPPY_VASE_BREAKER_RESET_CONFIRM]
-¿Deseas gastar {NUM} Martillo (s) Rompejarron (es) para restablecer el número de Jarron (es) de oro roto (s)?
+¿Seguro que quieres usar {NUM} Martillo (s) para restablecer el número de Jarrones rotos?
 
 [HAPPY_VASE_BREAKER_TAB_ONE]
 Romper
@@ -30488,7 +30538,7 @@ Rompejarrones de Oro
 Fusiona {NUM} veces en Transgénesis
 
 [HAPPY_VASE_BREAKER_WINNIE]
-Abre {NUM} Cofre (s) en la sección "Cofres" de la Tienda.
+Abre {NUM} Cofre (s) en la Tienda.
 
 [HARDWARE_ACCELERATION_NOT_SUPPORTED]
 Este dispositivo no puede usar la aceleración de hardware por bajos requisitos de hardware.
@@ -31227,8 +31277,9 @@ Barrera de acebo inflige daño a los zombis que la atacan y puede lanzar 3 hojas
 {KEYWORD}Nutrientes: {STAT}Se cura totalmente y recupera todas las bayas. Lanza hojas blindadas a casillas al azar.
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL1_DES]
-Daña a los zombis atacantes, tócala para lanzar hasta 3 barreras que derriban 2 casillas.
-^D22808^Barrera: tiene 800 PS, hace 15 DPS (casilla)^oldclr^
+Daña a los zombis atacantes, tócala para lanzar hasta 3 barreras.
+^D22808^Distancia de derribo: 2 casillas (impacto en área 1x3)^oldclr^
+^E2725B^Barrera: tiene 800 PS, hace 15 DPS (casilla)^oldclr^
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL2_DES]
 El alcance de su ataque cuerpo a cuerpo aumenta en 2 casillas, arriba y abajo.
@@ -31413,7 +31464,7 @@ Cada vez que lo plantes, será potenciado por el efecto de Nutrientes
 Gana un 25% de probabilidad de disparar un poderoso láser. ^D22808^Daño: 4.000^oldclr^
 
 [HORSEBEAN_PLANTFOOD_DESCRIPTION]
-Genera 6 habas durante un 60 s; cada vez que ataque, su tiempo de recuperación se acortará en 10 s
+Genera 6 habas durante 60 s; cada vez que ataque, su tiempo de recuperación se acortará en 10 s
 
 [HORSEBEAN_PRODUCT_SHORT_DESC]
 Envia tropas para atacar zombis por varias líneas
@@ -31997,7 +32048,7 @@ Deja hasta 3 charcos que extinguen llamas y frenan zombis. ^D22808^Duración: 4 
 El número de charcos dejados antes de desaparecer aumenta en 2 (5 en total).
 
 [ICELOTUS_NEW_SKILL_LEVEL3_DES]
-Gana un 5% de ^0072ff^congelar^oldclr^ a los zombis que lo muerdan durante 3 segundos.
+Gana un 5% de ^0072ff^congelar^oldclr^ a los zombis que lo muerdan. ^D22808^Duración: 3 s^oldclr^
 
 [ICELOTUS_NEW_SKILL_LEVEL4_DES]
 Gana un 80% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
@@ -32292,9 +32343,9 @@ La cantidad de proyectiles aumenta; estos pueden dispersarse a otras líneas.
 
 [IMPATIENSSHOOTER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}el daño y los efectos de control aumentan en cada fase
-{KEYWORD}Características de la planta: {STAT}planta blanca, rosada, anaranjada, destructora
+{KEYWORD}Características de la planta: {STAT}planta blanca (rosada y anaranjada), destructora
 
-{FLAVOR}Impaciencia siempre ha querido ser maquilladora profesional desde pequeña. Ha ganado cierto grado de popularidad en las redes sociales subiendo fotos suyas teñida de varios colores, lo que no sabe es que todos la quien tal como es.
+{FLAVOR}Impaciencia siempre ha querido ser maquilladora profesional desde pequeña. Ha ganado cierto grado de popularidad en las redes sociales subiendo fotos suyas teñida de varios colores, lo que no sabe es que todos la quieren tal como es.
 
 [IMPATIENSSHOOTER_DESCRIPTION_HEADER]
 Impaciencia escupe balas de tinta para dañar a los zombis de la línea. Se tiñe con el paso del tiempo, disparando proyectiles cada vez más fuertes.
@@ -32609,7 +32660,7 @@ Si deseas ejecutar el juego en modo ventana, debes salir del juego y convertir e
 Código de invitación
 
 [INVATATION_DEFAULT_TEXT2]
-No se puede completar
+Completa este campo
 
 [INVATATION_DEFAULT_TEXT3]
 Enlace
@@ -32968,10 +33019,10 @@ Si ganas partidas de Batallaz, conseguirás coronas. ¡Gana todas las coronas qu
 Colócate en las posiciones más altas de tu marcador para ascender a una liga más competitiva con mejores premios y oponentes más difíciles.
 
 [JOUST_HOWTOPLAY_5_DESCRIPTION]
-Cada edición de los torneos de Batallaz comienza a las 15:00 del viernes, con un horario de 5 semanas y la semana 6 de la semana es la determinación de los ganadores que aspiran a una siguiente liga. Termina a las 09:00 a.m. del viernes en la semana 6. Al final, la siguiente actividad será restablecer la calificación.
+Las tablas de clasificación duran un periodo de 5 semanas, empezando los viernes a las 3:00 PM, y terminando a las 9:00 PM del mismo dia en la 6ta semana.
 
 [JOUST_HOWTOPLAY_6_DESCRIPTION]
-Los jugadores recibirán un Guantelete gratis todos los días, el número de Guanteletes gratis después de su uso, hará comenzar la cuenta regresiva de 8 horas. Si el jugador compra Guanteletes con Joyas o 元 durante ese tiempo, la cuenta regresiva se detendrá. La cuenta regresiva sólo comenzará cuando el recuento de Guanteletes sea 0.
+Recibes un Guantelete gratis cada 8 h. También puedes comprarlos con Joyas o 元, pero no recibirás más gratis hasta que se agoten.
 
 [JOUST_HOW_TO_PLAY]
 ¿CÓMO JUGAR?
@@ -33378,7 +33429,7 @@ Nivel 3
 Arroja mantequilla y maíz a los zombis
 
 [KEYGATE_CHALLENGE_FREE_CHINAMOBILE_DESC]
-Privilegios de usuario China Mobile
+Privilegios de China Mobile
 
 [KEYGATE_CHALLENGE_REWARD_DESC]
 ¡Completa la ruta de la Entrada y obtén artículos fenomenales!
@@ -33538,49 +33589,49 @@ Maestro del Qigong
 Triplica la salud del Zombi Gigong
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_1]
-¡Consigue a ^FF3300 Melopulta congelada + Nuez cáscara-rabias ^oldclr hoy ^FF3300 con un 6% de descuento ^oldclr!
+¡Consigue a ^FF3300^Melopulta congelada^oldclr^ y ^FF3300^Nuez cáscara-rabias^oldclr^ con un ^FF0000^6% de descuento^oldclr^!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_2]
-¡Consigue los Atuendos de ^FF3300 Bonk Choi + Repetidora ^oldclr hoy ^FF3300 con un 7% de descuento ^oldclr!
+¡Consigue los atuendos de ^FF3300^Bonk Choi^oldclr^ y ^FF3300^Repetidora^oldclr^ con un ^FF0000^7% de descuento^oldclr^!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_3]
-¡Consigue a ^FF3300 Cococañón + Atuendo ^oldclr hoy ^FF3300 con un 5% de descuento ^oldclr!
+¡Consigue a ^FF3300^Cococañón + Atuendo^oldclr^ con un ^FF0000^5% de descuento^oldclr^!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_4]
-¡Consigue a ^FF3300 Vaina + Atuendo ^oldclr hoy ^FF3300 con un 5% de descuento ^oldclr!
+¡Consigue a ^FF3300^Vaina + Atuendo^oldclr^ con un ^FF0000^5% de descuento^oldclr^!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_5]
-¡Consigue a ^FF3300 Junco eléctrico + Plantorcha^oldclr hoy ^FF3300 con un 6% de descuento ^oldclr!
+¡Consigue a ^FF3300^Junco eléctrico^oldclr^ y ^FF3300^Plantorcha^oldclr^ con un ^FF0000^6% de descuento^oldclr^!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_6]
-¡Consigue a ^FF3300 Calabaza de fuego + Durazno celestial^oldclr hoy ^FF3300 con un 6% de descuento^oldclr!
+¡Consigue a ^FF3300^Calabaza de fuego^oldclr^ y ^FF3300^Durazno celestial^oldclr^ con un ^FF0000^6% de descuento^oldclr^!
 
 [LABORDAY_FESTIVAL_SALE_NOTICE_7]
-¡Consigue a ^FF3300 Melonpulta + Atuendo^oldclr hoy ^FF3300 con un 5% de descuento ^oldclr!
+¡Consigue a ^FF3300^Melonpulta + Atuendo^oldclr^ con un ^FF0000^5% de descuento^oldclr^!
 
 [LABOR_DAY_CHALLENGE_LEVEL1]
-Desafío del Día del Trabajo - Nivel 1
+Desafío del trabajador - Nivel 1
 
 [LABOR_DAY_CHALLENGE_LEVEL2]
-Desafío del Día del Trabajo - Nivel 2
+Desafío del trabajador - Nivel 2
 
 [LABOR_DAY_CHALLENGE_LEVEL3]
-Desafío del Día del Trabajo - Nivel 3
+Desafío del trabajador - Nivel 3
 
 [LABOR_DAY_CHALLENGE_LEVEL4]
-Desafío del Día del Trabajo - Nivel 4
+Desafío del trabajador - Nivel 4
 
 [LABOR_DAY_CHALLENGE_LEVEL5]
-Desafío del Día del Trabajo - Nivel 5
+Desafío del trabajador - Nivel 5
 
 [LABOR_DAY_CHALLENGE_LEVEL6]
-Desafío del Día del Trabajo - Nivel 6
+Desafío del trabajador - Nivel 6
 
 [LABOR_DAY_CHALLENGE_LEVEL7]
-Desafío del Día del Trabajo - Nivel 7
+Desafío del trabajador - Nivel 7
 
 [LABOR_DAY_CHALLENGE_TITLE]
-Desafío del Día del Trabajo
+Desafío del trabajador
 
 [LABOR_DZ_FOOT]
 ¡Al participar en este evento, puedes ahorrarte grandes privilegios!
@@ -33599,7 +33650,7 @@ El rango de acción del efecto cambia a 5x5. Golpea el suelo para infligir daño
 
 [LANCERHOYA_DESCRIPTION]
 {KEYWORD}Lanza potente: {STAT}tócala para liberar un ataque a corta distancia que engancha zombis e inflige daño masivo
-{KEYWORD}Característica de la planta: {STAT}plantas verde
+{KEYWORD}Característica de la planta: {STAT}planta verde
 
 {FLAVOR}Es muy hábil en el uso de lanzas, golpeando con precisión a objetivos en movimiento, como los de zombis que huyen, ¡o las molestas moscas que vuelan a su alrededor!
 
@@ -33653,7 +33704,7 @@ Arroja su lanza para dañar a los zombis de la línea
 ¿Cuántos soles en total producen los Girasoles al usar Nutrientes?
 
 [LANTERN_RIDDLES_1]
-¿Cuál es la planta que no dispara guisantes gigantes con su efecto de Nutrientes?
+¿Cuál es la planta que no dispara guisantes enormes con su efecto de Nutrientes?
 
 [LANTERN_RIDDLES_10]
 ¿Cuál es el efecto de Nutrientes de Cococañón?
@@ -36003,7 +36054,7 @@ Calavera maldita
 Triplica la salud del Zombi calavera turquesa, quien roba soles 2,5 segundos más rápido
 
 [LOST_NETWORK_ACTIVE_BUBBLE_TEXT]
-¡Ahorra hasta un {PERCENT}%!
+Ahorra hasta un {PERCENT}%
 
 [LOST_NETWORK_ACTIVE_BUBBLE_TITLE]
 Burbujas del ahorro
@@ -36057,100 +36108,94 @@ Monedas
 Plantas legendarias de Nvl. 2
 
 [LOTTERY_NET_ERROR]
-Se ha producido un error en tu Conexión a Internet (Los Cristales no se gastarán en caso de haber intentado canjearlos por {ITEM}).
+No se pudo comprar {ITEM} por un error en tu Conexión a Internet, inténtalo de nuevo cuando la red sea estable.
 
 [LOTTERY_PENDANTPIECE]
-Piezas de colgantes
+Piezas de Colgantes
 
 [LOTTERY_PRESENT]
 Regalos de Lotería
 
 [LOTTERY_RESULT_1]
-¡^00e46e 5 Joyas!
-
-[LOTTERY_RESULT_10]
-¡^00e46e Llaves x1!
-
-[LOTTERY_RESULT_11]
-¡^00e46e Llaves x2!
-
-[LOTTERY_RESULT_12]
-^00e46e Llave x3!
+^00e46e^¡5 Joyas!^oldclr^
 
 [LOTTERY_RESULT_2]
-¡^00e46e 50 Joyas!
+^00e46e^¡50 Joyas!^oldclr^
 
 [LOTTERY_RESULT_3]
-¡^00e46e 500 Joyas!
+^00e46e^¡500 Joyas!^oldclr^
 
 [LOTTERY_RESULT_4]
-¡^00e46e 500 Monedas!
+^00e46e^¡500 Monedas!^oldclr^
 
 [LOTTERY_RESULT_5]
-¡^00e46e 2000 Monedas!
+^00e46e^¡2.000 Monedas!^oldclr^
 
 [LOTTERY_RESULT_6]
-¡^00e46e 10000 Monedas!
+^00e46e^¡10.000 Monedas!^oldclr^
 
 [LOTTERY_RESULT_7]
-¡^00e46e Piezas de Rompecabezas de vaina!
+^00e46e^¡Piezas de Vaina!^oldclr^
 
 [LOTTERY_RESULT_8]
-¡^00e46e Piezas de Rompecabezas de Cococañón!
+^00e46e^¡Piezas de Cococañón!^oldclr^
 
 [LOTTERY_RESULT_9]
-¡^00e46e Piezas de Rompecabezas de Berenjena ninja!
+^00e46e^¡Piezas de Berenjena ninja!^oldclr^
+
+[LOTTERY_RESULT_10]
+^00e46e^¡Llaves x1!^oldclr^
+
+[LOTTERY_RESULT_11]
+^00e46e^¡Llaves x2!^oldclr^
+
+[LOTTERY_RESULT_12]
+^00e46e^¡Llave x3!^oldclr^
 
 [LOTTERY_RESULT_DESC]
 ¡Felicidades, has conseguido Regalos alucinantes!
 
 [LOTTERY_RESULT_PIECE_OWNED]
-Conseguida (s)- Pieza (s) de {NAME} ^00FF00 x{NUMBER} ^oldclr
+Obtuviste: ^00FF00^{NUMBER} Pieza (s) de {NAME}^oldclr^
 
 [LOTTERY_TIMES]
 Girar x{NUMBER}
 
 [LOTTERY_TIMES_EMPTY]
-El número de veces gratuitas se ha agotado.
+Agotados los giros gratis.
 
 [LOTTERY_TIMES_GET_INFO]
 Visita Vivo Game Center
 
 [LOTTERY_TIMES_MUST_GET]
-Participa en {NUM} Sorteo (s) más y obtén
+Premio garantizado en {NUM} sorteos:
 
 [LOTTERY_TIMES_RESULT_1]
-¡Felicitaciones! Conseguiste:
-^00e46e 5000 Monedas ^oldclr
-¡Eres muy bueno en esto! ¡Mientras más veces asistas a la Lotería, mejores recompensas obtendrás!
+Conseguiste: ^00e46e^5.000 Monedas^oldclr^
+^E2725B^Mejores premios te esperan, ¡sigue participando!^oldclr^
 
 [LOTTERY_TIMES_RESULT_2]
-¡Felicitaciones! Tras participar en 5 sorteos conseguiste:
-^00e46e Todas las llaves de los mundos x3 ^oldclr
-¡Ahora podrás viajar alrededor del espacio-tiempo sin problemas!
+Tras 5 sorteos, obtuviste: ^00e46e^Llaves de mundo x3^oldclr^
+^E2725B^¡Ahora podrás viajar por el espacio-tiempo sin problemas!^oldclr^
 
 [LOTTERY_TIMES_RESULT_3]
-¡Felicitaciones! Tras participar en 10 sorteos conseguiste:
-^00e46e 20000 Monedas ^oldclr
-¡Montones de monedas para ti!
+Tras 10 sorteos, obtuviste: ^00e46e^20.000 Monedas^oldclr^
+^E2725B^¡Montones de monedas para ti!^oldclr^
 
 [LOTTERY_TIMES_RESULT_4]
-¡Felicitaciones! Tras participar en 20 sorteos conseguiste:
-^00e46e 50 Joyas ^oldclr
-¡Wow, tienes un gran botín!
+Tras 20 sorteos, obtuviste: ^00e46e^50 Joyas^oldclr^
+^E2725B^¡Que buen botín!^oldclr^
 
 [LOTTERY_TIMES_RESULT_5]
-¡Felicitaciones! Tras participar en 30 sorteos conseguiste:
-^00e46e 50000 Monedas ^oldclr
-¡Las plantas de alto nivel ya no son un sueño para tí!
+Tras 30 sorteos, obtuviste: ^00e46e^50.000 Monedas^oldclr^
+^E2725B^¡Las plantas de alto nivel ya no son un sueño para tí!^oldclr^
 
 [LOTTERY_TIMES_RESULT_6]
-¡Felicitaciones! Tras participar en 50 sorteos conseguiste:
-^00e46e 100 Joyas ^oldclr
-¡Increíble! Haces trampa, ¿no?
+Tras 50 sorteos, obtuviste: ^00e46e^100 Joyas^oldclr^
+^E2725B^¡Increíble! Haces trampa, ¿no?^oldclr^
 
 [LOTTERY_VIVO_TITLE]
-Privilegios de Vivo Game Center
+Cortesía de Vivo GameCenter
 
 [LOTUSSHOOTER]
 Raíz de loto
@@ -36176,7 +36221,7 @@ Dispara gotas y absorbe el vapor de un área 3x3 alrededor.
 ^E2725B^Miasma: hace 1% de daño por 3 s^oldclr^
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL2_DES]
-Gana un 10% de probabilidad disparar 4 gotas la vez.
+Gana un 10% de probabilidad de disparar 4 gotas la vez.
 
 [LOTUSSHOOTER_NEW_SKILL_LEVEL3_DES]
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 20%)
@@ -39354,19 +39399,19 @@ Tacleo extremo
 Dobla la salud del Zombi All-Star, quien taclea una planta adicional
 
 [MODE_HOWTOPLAY_1_DESCRIPTION]
-Afectadas por el poder del misterioso espacio-tiempo, todas las plantas pasan a ser de Nivel 1.
+Afectadas por el poder del misterioso espacio-tiempo, todas las plantas pasan a ser de Nivel 1
 
 [MODE_HOWTOPLAY_2_DESCRIPTION]
-Se necesita un Estabilizador del espacio-tiempo para jugar un Nivel. El número de Estabilizadores se restablecerá todos los días, aunque puedes comprar más con Joyas.
+Cada nivel requiere un Estabilizador para jugar. El número de estos se restaura todos los días, también puedes comprarlos con Joyas.
 
 [MODE_HOWTOPLAY_3_DESCRIPTION]
-En el Modo Normal, cuantos más Objetivos de Nivel elijas, mayor será la Cantidad de Recompensas que obtendrás.
+Cada nivel tiene múltiples objetivos que puedes completar. A más objetivos, más recompensas.
 
 [MODE_HOWTOPLAY_4_DESCRIPTION]
-En el Modo Difícil, solo pueden usar dos plantas de Nivel 2 mientras los zombis son cada vez más poderosos, y además, no requiere de Estabilizadores del espacio-tiempo para completarse.
+Solo puedes elegir 2 plantas de 2da generación en el Modo difícil, los niveles difíciles no requiren Estabilizadores.
 
 [MODE_HOWTOPLAY_5_DESCRIPTION]
-En todos los modos, el uso de Nutrientes del espacio-tiempo restaurará la Energía espacio-temporal.
+Usa Nutrientes del tiempo para llenar la barra espacio-temporal, no dejes que llegue a 0 o perderás.
 
 [MODE_HOW_TO_PLAY_1]
 ¿CÓMO JUGAR?
@@ -39447,7 +39492,8 @@ Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al pla
 Después de que el muñeco de nieve se derrita, el zombi dentro será ralentizado por 2 s
 
 [MONOTROPA_PLANTFOOD_DESCRIPTION]
-Sopla una ventisca que daña zombis o los convierte en muñecos de nieve (1 por casilla). ^D22808^Daño: 120 (patio)^oldclr^
+Sopla una ventisca que daña zombis o los convierte en muñecos de nieve (máx. 1 por casilla).
+^D22808^Daño: 120 (todo el patio)^oldclr^
 
 [MONOTROPA_PRODUCT_SHORT_DESC]
 Convierte zombis en muñecos de nieve y los hace vulnerables al fuego
@@ -39477,63 +39523,62 @@ Convierte zombis en muñecos de nieve y los hace vulnerables al fuego
 Mes
 
 [MONTH2]
-{NUMBER} Mes
+Mes {NUMBER}
 
 [MONTHLY_CARD_BUY_TIMES]
-Límite de compra: ^FF0000^ {NUM} ^oldclr^ vez
+Límite de compra: ^FF0000^{NUM}^oldclr^
 
 [MONTHLY_CARD_DAY_TRAIL]
-Duración: {NUM} día (s)
+Duración: {NUM}d
 
 [MONTHLY_CARD_FESTIVAL_EVENT_2019]
-¡Felicidades, obtuviste una ^F3A164 Tarjeta VIP ^oldclr de prueba, cuya expiración es en un período de ^7AFC23 3 días^oldclr!
-¡Ahora disfruta de los superprivilegios que te ofrece!
+¡Obtuviste una ^F3A164^Tarjeta VIP de prueba^oldclr^, con una duración ^7AFC23^3 días^oldclr^!
 
 [MONTHLY_CARD_FREE_BUY]
 GRATIS
 
 [MONTHLY_CARD_FREE_GET]
-¡Tarjeta Gratuita adquirida con éxito!
+¡Solicitud de prueba exitosa!
 
 [MONTHLY_CARD_LINE]
-^FF0000^ ——— ^oldclr^
+^FF0000^———^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE0]
-^FF0000^ 0元 ^oldclr^
+^FF0000^0元^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE1]
-^FF0000^ 12.5元 ^oldclr^
+^FF0000^12.5元^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE2]
-^FF0000^ 50元 ^oldclr^
+^FF0000^50元^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE3]
-^FF0000^ 150元 ^oldclr^
+^FF0000^150元 ^oldclr^
 
 [MONTHLY_CARD_PRICE]
 {NUM}元
 
 [MONTHLY_CARD_QUERY_FAILED]
-¡Se ha producido un error!
+No se pudo comprar la tarjeta
 
 [MONTHLY_CARD_QUERY_FAILED_REASON_1]
-No se pudo comprar la tarjeta mensual porque se produjo un error al inicializar el SDK.
+Ocurrió un fallo al iniciar el SDK de pagos.
 
 [MONTHLY_CARD_QUERY_FAILED_REASON_2]
-No se pudo comprar la tarjeta mensual porque tu conexión a Internet es inestable.
+Tu conexión a Internet es inestable, inténtalo más tarde.
 
 [MONTHLY_CARD_QUERY_FAILED_REASON_3]
-No se pudo comprar la tarjeta mensual porque se produjo un error en la compra.
+Se produjo un error desconocido al procesar la transacción.
 
 [MONTHLY_CARD_SPECIAL_TIPS]
-1. En el evento de este mes, al comprar una Tarjeta Mensual, obtienes una Súper-Tarjeta Mensual.
-2. Todos los días, puedes renovar y añadir más duración a tu Tarjeta Mensual.
+1. Compra Tarjetas mensuales y obtén superprivilegios.
+2. Puedes renovar la duración de tu tarjeta cuando lo desees.
 
 [MONTHLY_CARD_SPECIAL_TIPS_TITLE]
 Ofertas especiales
 
 [MONTHLY_CARD_SPECIAL_TITLE]
-Súper-Tarjeta Mensual Gratuita
+Súper-Tarjeta mensual de prueba
 
 [MONTHLY_POINT_HEAD_DES_ID_25327]
 A los jugadores que obtuvieron la recompensa final comprando Lotes de crecimiento.
@@ -39661,7 +39706,7 @@ Nivel 5
 Ataca a los zombis con ondas sónicas, refleja ondas enemigas
 
 [MORPHEDTOGARGANTUAR]
-Hipnosetas Nutrientes para convertirte
+Hipnomorfosis Zombistein
 
 [MORPH_TO_GARG]
 Convertirse en Zombistein
@@ -40959,12 +41004,9 @@ Fuerza de los zombis
 Fuerza general de los zombis
 
 [MYSTERY_SHOP_OVERVIEW_CONTENT]
-1. Los Rubíes misteriosos pueden obtenerse completando los niveles de varios mundos; el número de éstos aumentará significativamente en el Modo Difícil.
-2. Tras realizar Aventuras de plantas, dependiendo de la longitud de tiempo en que se hacen, te permitirá obtener Rubíes misteriosos.
-3. Hay un cierto límite de Rubíes misteriosos que pueden obtenerse a través de los niveles y Aventuras de plantas, después de alcanzar el límite establecido, no se podrán adquirir más. Estas limitaciones se actualizan cada semana.
-4. Los Rubíes misteriosos pueden comprarse en la Tienda de Rubíes Misteriosos por dinero real.
-5. Los Rubíes pueden usarse en la misma tienda, para canjearlos por plantas poderosas de todo tipo.
-6. Si canjeas una planta que ya está desbloqueada, ésta se convertirá en 10 Piezas correspondiente a la planta canjeada.
+1. Obtén Rubíes completando niveles y haciendo Aventuras de plantas. También puedes comprarlos por dinero real.
+2. El máximo de Rubíes que puedes obtener es de 20.000 por semana.
+3. Canjea tus Rubíes por artículos como plantas o Atuendos.
 
 [MYSTERY_SHOP_OVERVIEW_TITLE]
 ¿CÓMO CONSEGUIR RUBÍES MISTERIOSOS?
@@ -41014,7 +41056,7 @@ Gana un 35% de probabilidad de ser potenciada por el efecto de Nutrientes al pla
 Gana un 40% de soplar una ráfaga de burbujas que dura 5 s y aturde zombis por 2 s. ^D22808^Daño: 1.500^oldclr^
 
 [NARCISSUSSHOOTER_PLANTFOOD_DESCRIPTION]
-Lanza 30 burbujas que se esparcen por el patio. ^D22808^Daño: 100^oldclr^
+Sopla 30 burbujas que se esparcen por el patio. ^D22808^Daño: 100^oldclr^
 
 [NARCISSUSSHOOTER_SKILL_LEVEL1]
 Nivel 2
@@ -41122,28 +41164,25 @@ Sopla burbujas, las cuales, pueden llevarse cascos y Zombiditos
 {NPC_ENTER:winnie}{SAY:winnie}Falso. Utilizan camuflaje.
 
 [NARRATIVE_4202]
-{PLAYFUL:crazydave} Querrás decir... camelloflaje.
+{PLAYFUL:crazydave}Querrás decir... camelloflaje.
 
 [NARRATIVE_ACTIVITY_BOSSCHALLENGE_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:winnie}Los datos muestran que aquí pueden obtenerse Piezas de Rompecabezas para las plantas si derrotas a los jefes.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{PLAYFUL:winnieicon}{LONG}Los datos muestran que aquí pueden obtenerse Piezas de Rompecabezas para las plantas si derrotas a los jefes.
 
 [NARRATIVE_ACTIVITY_BOSSCHALLENGE_INTRO_2]
-{PLAYFUL:crazydave}¿Piezas de Rompecabezas? ¿Armaremos un Rompecabezas, Penny?
+{PLAYFUL:crazydaveicon}¿Piezas de Rompecabezas? ¿Armaremos un Rompecabezas, Penny?
 
 [NARRATIVE_ACTIVITY_BOSSCHALLENGE_INTRO_3]
-{PLAYFUL:winnie}Negativo, usuario Dave, no armaremos ningún Rompecabezas.
+{SAY:winnieicon}{MEDIUM}No, usuario Dave. Usaremos las Piezas que obtengamos para mejorar nuestras plantas y hacerlas más poderosas.
 
 [NARRATIVE_ACTIVITY_BOSSCHALLENGE_INTRO_4]
-{EXCITED:winnie}¡Usaremos las Piezas que obtengamos para mejorar nuestras plantas y hacerlas más poderosas!
-
-[NARRATIVE_ACTIVITY_BOSSCHALLENGE_INTRO_5]
-{EXCITED:crazydave}¡Wow, no puedo esperar para entrar y mejorarlas!
+{EXCITED:crazydaveicon}¡Wow, no puedo esperar para entrar y mejorarlas!
 
 [NARRATIVE_ACTIVITY_LEVELS_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Esa fue una dura batalla, estoy muy agotado.
+{NPC_ENTER:crazydaveicon}{TIRED}Esa fue una dura batalla, estoy muy agotado.
 
 [NARRATIVE_ACTIVITY_LEVELS_INTRO_2]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Mis sensores muestran que podemos aceptar desafíos más complejos y recibir mayores recompensas al completarlos.
+{NPC_ENTER:winnieicon}{PLAYFUL:winnieicon}Mis sensores muestran que podemos aceptar desafíos más complejos y recibir mayores recompensas al completarlos.
 
 [NARRATIVE_AILMINT_INTRO_1]
 {NPC_ENTER:winnie}{SAY:winnie}Las Mentas poderosas son plantas fuertes que puedes conseguir en el modo Batallaz.
@@ -41182,7 +41221,7 @@ Sopla burbujas, las cuales, pueden llevarse cascos y Zombiditos
 {NPC_ENTER:winnieicon}{SAY}¡Parece que también puedes mejorar tu Nuez!
 
 [NARRATIVE_ANNIVERSARY_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Con cabezas de calabaza y sombras fantasmales por todas partes, ¡no hace falta adivinar que es Halloween!
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{PLAYFUL:winnie}Con cabezas de calabaza y sombras fantasmales por todas partes, ¡no hace falta adivinar que es Halloween!
 
 [NARRATIVE_ANNIVERSARY_UNCHARTED_EVENT_TUTORIAL_2]
 {PLAYFUL:crazydave}De hecho, yo también soy un fantasma.
@@ -41349,12 +41388,6 @@ Sopla burbujas, las cuales, pueden llevarse cascos y Zombiditos
 [NARRATIVE_BEACH_INTRO_GUACODILE_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}¡Te lo digo, Penny!
 
-[NARRATIVE_BEACH_INTRO_GUACODILE_10]
-{SAY:winnie}Parecidos a las semillas, y también tiene un fuerte mordisco.
-
-[NARRATIVE_BEACH_INTRO_GUACODILE_11]
-{EXCITED:winnie}Plántalo en las líneas más avanzadas y verás.
-
 [NARRATIVE_BEACH_INTRO_GUACODILE_2]
 {SAY:crazydave}¡Estos zombis amantes del surf se dispersan como semillas!
 
@@ -41378,6 +41411,12 @@ Sopla burbujas, las cuales, pueden llevarse cascos y Zombiditos
 
 [NARRATIVE_BEACH_INTRO_GUACODILE_9]
 {EXCITED:winnie}¡Guacadrilo! Esta planta lucha contra los zombis con proyectiles...
+
+[NARRATIVE_BEACH_INTRO_GUACODILE_10]
+{SAY:winnie}Parecidos a las semillas, y también tiene un fuerte mordisco.
+
+[NARRATIVE_BEACH_INTRO_GUACODILE_11]
+{EXCITED:winnie}Plántalo en las líneas más avanzadas y verás.
 
 [NARRATIVE_BEACH_INTRO_HOMINGTHISTLE_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}¡Uf! Pelear contra zombis que llegan en olas y mareas no es nada fácil.
@@ -41669,9 +41708,6 @@ Tikitronchantes.
 [NARRATIVE_BIRTHDAYZ_LTE_2022_1_1]
 {NPC_ENTER:sunflower}{NPC_ENTER:wallnut_r}{SAY:sunflower}¡Feliz cumpleañoz, Nuez!
 
-[NARRATIVE_BIRTHDAYZ_LTE_2022_1_10]
-{SAY:sunflower}¡Me encanta el entusiasmo selectivo, colega!
-
 [NARRATIVE_BIRTHDAYZ_LTE_2022_1_2]
 {SAY:wallnut_r}¡Hola! ¡Soy Nuez!
 
@@ -41695,6 +41731,9 @@ Tikitronchantes.
 
 [NARRATIVE_BIRTHDAYZ_LTE_2022_1_9]
 {SAY:wallnut_r}¡¡¡¡¡¡¡¡WOW!!!!!!!!
+
+[NARRATIVE_BIRTHDAYZ_LTE_2022_1_10]
+{SAY:sunflower}¡Me encanta el entusiasmo selectivo, colega!
 
 [NARRATIVE_BIRTHDAYZ_LTE_2022_2_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:sunflower_r}{SAY:sunflower_r}¡Feliz cumpleañoz, don Dave!
@@ -41997,34 +42036,22 @@ Tikitronchantes.
 {NPC_ENTER:winnie}{SAY:winnie}Planta a Ranúnculo para untar de mantequilla a los zombis que la ataquen.
 
 [NARRATIVE_BUY_PLANTFOOD_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}El Lanzaguisantes está junto al fuego, ¿estará asando algo?
-
-[NARRATIVE_BUY_PLANTFOOD_10]
-{SPAWN_COINS}{NPC_EXIT:crazydave}{NPC_EXIT:winnie}
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}El Lanzaguisantes está junto al fuego, ¿estará asando algo? Si es así, ¡me apunto a la acción!
 
 [NARRATIVE_BUY_PLANTFOOD_2]
-{SAY:crazydave}Si es así, ¡me apunto a la acción!
+{SAY:winnie}Negativo, usuario Dave. Lanzaguisantes está haciendo equipo con Plantorcha, sus guisantes prenden fuego al sobrevolarla.
 
 [NARRATIVE_BUY_PLANTFOOD_3]
-{SAY:winnie}Negativo, usuario Dave. Lanzaguisantes está haciendo equipo con Plantorcha.
+{PLAYFUL:crazydave}¡No seas aguafiestas y comamos algo, Penny! ¡Yo invito!
 
 [NARRATIVE_BUY_PLANTFOOD_4]
-{SAY:winnie}Los guisantes del Lanzaguisantes pueden prenderse en llamas al sobrevolar la Plantorcha.
+{TIRED:winnie}¡Abandona esa idea por ahora, usuario Dave!
 
 [NARRATIVE_BUY_PLANTFOOD_5]
-{SAY:crazydave}¡No seas aguafiestas y comamos algo, Penny! ¡Yo invito!
-
-[NARRATIVE_BUY_PLANTFOOD_6]
-{SAY:crazydave}Dos tacos de res con tortilla doble, asados al fuego, ¡por favor!
-
-[NARRATIVE_BUY_PLANTFOOD_7]
-{SAY:winnie}¡Abandona esa idea por ahora, usuario Dave!
-
-[NARRATIVE_BUY_PLANTFOOD_8]
 {SAY:winnie}Encontré algunas Joyas en el camino, sugiero comprar algunos Nutrientes.
 
-[NARRATIVE_BUY_PLANTFOOD_9]
-{SAY:crazydave}Toma vecino, para ti. ¿Por qué? ¡Porque estoy LOOOOCOOOO!
+[NARRATIVE_BUY_PLANTFOOD_6]
+{SPECIAL2:crazydave}Toma vecino, para ti. ¿Por qué? ¡Porque estoy LOOOOCOOOO!
 
 [NARRATIVE_BUY_POWERUPS_1]
 {NPC_ENTER:winnieicon}{EXCITED}{LONG}Las Joyas también pueden usarse para comprar potenciadores.
@@ -42156,7 +42183,7 @@ Tikitronchantes.
 {NPC_ENTER:wallnut}{SAY:wallnut}Otra vez será, Dr. Zombi. ¡Hoy la playa es nuestra!
 
 [NARRATIVE_CANNON_USE_END_INTRO_1]
-{NPC_ENTER:winnieicon}{SAY}La habilidad necesita recargarse para volver a usarse.
+{NPC_ENTER:winnieicon}{SAY}La habilidad necesita recargarse para volverse a usar.
 
 [NARRATIVE_CANNON_USE_END_INTRO_2]
 {SAY}¡Úsala con moderación!
@@ -42402,26 +42429,14 @@ Tikitronchantes.
 [NARRATIVE_CIRCUSACT3_LTE_2023_OLD1]
 {NPC_EXIT:sunflower}{NPC_ENTER:crazydave}{SAY:crazydave}¡Un momento! ¡Tengo una idea mejor! ¡Montemos un espectáculo para los zombis!
 
-[NARRATIVE_CIRCUSACT3_LTE_2023_OLD10]
-{SAY:wallnut}¿En serio? ¡Gracias, equipo! Me siento mejor.
-
-[NARRATIVE_CIRCUSACT3_LTE_2023_OLD11]
-{SAY:crazydave}¿Indestructible, dices? ¡Pues tengo algo contra eso! *saca un Cococañón*
-
-[NARRATIVE_CIRCUSACT3_LTE_2023_OLD12]
-{SAY:zomboss}¿Qué es eso?
-
-[NARRATIVE_CIRCUSACT3_LTE_2023_OLD13]
-{SAY:crazydave}¡Son mis amigos Cococañones! ¡Y harán trizas tu carro de la destrucción de una vez por todas!
-
-[NARRATIVE_CIRCUSACT3_LTE_2023_OLD14]
-{SAY:zomboss}¡No es un carro de la destrucción! ¡Un respeto a vuestra némesis, Catastrolíope!
-
 [NARRATIVE_CIRCUSACT3_LTE_2023_OLD2]
 {SAY:zomboss}¿Un espectáculo? ¿De qué tipo?
 
 [NARRATIVE_CIRCUSACT3_LTE_2023_OLD3]
 {SAY:crazydave}¡Una función tan entretenida que a los zombis se les quitarán las ganas de adueñarse de la gran carpa!
+
+[NARRATIVE_CIRCUSACT3_LTE_2023__OLD4]
+{SAY:zomboss}¡Esto es lo más ridículo que oí nunca!
 
 [NARRATIVE_CIRCUSACT3_LTE_2023_OLD5]
 {SAY:peashooter_r}Ah, ¿sí? ¡Míranos! *hace malabares*
@@ -42438,8 +42453,20 @@ Tikitronchantes.
 [NARRATIVE_CIRCUSACT3_LTE_2023_OLD9]
 {NPC_EXIT:iceburg_r}{NPC_ENTER:peashooter_r}{SAY:peashooter_r}¡Sin ti no podríamos haberlo hecho! ¡Eres una miembro muy valiosa del equipo!
 
-[NARRATIVE_CIRCUSACT3_LTE_2023__OLD4]
-{SAY:zomboss}¡Esto es lo más ridículo que oí nunca!
+[NARRATIVE_CIRCUSACT3_LTE_2023_OLD10]
+{SAY:wallnut}¿En serio? ¡Gracias, equipo! Me siento mejor.
+
+[NARRATIVE_CIRCUSACT3_LTE_2023_OLD11]
+{SAY:crazydave}¿Indestructible, dices? ¡Pues tengo algo contra eso! *saca un Cococañón*
+
+[NARRATIVE_CIRCUSACT3_LTE_2023_OLD12]
+{SAY:zomboss}¿Qué es eso?
+
+[NARRATIVE_CIRCUSACT3_LTE_2023_OLD13]
+{SAY:crazydave}¡Son mis amigos Cococañones! ¡Y harán trizas tu carro de la destrucción de una vez por todas!
+
+[NARRATIVE_CIRCUSACT3_LTE_2023_OLD14]
+{SAY:zomboss}¡No es un carro de la destrucción! ¡Un respeto a vuestra némesis, Catastrolíope!
 
 [NARRATIVE_CIRCUSACT4_LTE_2024_1_1]
 {NPC_ENTER:zomboss}{SAY:zomboss}¡Acercaos, acercaos, insignificantes mortales, a mi extravagancia zombi!
@@ -42466,7 +42493,7 @@ Tikitronchantes.
 {NPC_EXIT:peashooter}{NPC_ENTER:zomboss_r}{SAY:zomboss_r}¡Maldita sea! Aunque me fastidiéis los planes...
 
 [NARRATIVE_CIRCUSACT4_LTE_2024_2_3]
-{NPC_ENTER:zomboss_r}{SAY:zomboss_r}¡Esto no es el fin y seguiré con mis ideas maléficas!
+{SAY:zomboss_r}¡Esto no es el fin y seguiré con mis ideas maléficas!
 
 [NARRATIVE_CIRCUSACT4_LTE_2024_2_4]
 {NPC_EXIT:zomboss_r}{NPC_ENTER:wallnut}{SAY:wallnut}Y estira, y gira... Un momento...
@@ -42523,7 +42550,7 @@ Tikitronchantes.
 {NPC_ENTER:crazydave}{PLAYFUL}{LONG}Un juego de cintas transportadoras es lo suficientemente divertido como para entretenerte.
 
 [NARRATIVE_CONVEYOR_2]
-{EXCITED}¡Al igual que el parque acuático de mi tío Melo!
+{EXCITED}¡Al igual que el parque acuático de mi tío Milo!
 
 [NARRATIVE_COPYCATS1_1]
 {NPC_ENTER:crazydave}Mira, hay muchos sombreros. ¿Cuál crees que me queda mejor?
@@ -42538,7 +42565,7 @@ Tikitronchantes.
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Penny, bondad graciosa. Buenas antigüedades cerca se hallan.
 
 [NARRATIVE_COWBOY_26_INTRO_2]
-{SAY:winnie} Usuario Dave, estamos en el Salvaje Oeste. No en la Inglaterra victoriana.
+{SAY:winnie}Usuario Dave, estamos en el Salvaje Oeste. No en la Inglaterra victoriana.
 
 [NARRATIVE_COWBOY_26_INTRO_3]
 {SAY:crazydave}¿Hay alguna diferencia?
@@ -42801,6 +42828,30 @@ Música de pianola: Descargada
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_1]
 {NPC_ENTER:crazydaveicon}{START_DIALOG_MUSIC}Parece que será muy futuroso.
 
+[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_2]
+{PLAYFUL:crazydaveicon}Seguro que Dave del futuro resolvió la paradoja del taco.
+
+[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_3]
+{NPC_ENTER:winnieicon}Detecto un aumento de taquiones.
+
+[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_4]
+{EXCITED:winnieicon}Puede que Penny del futuro intente establecer contacto.
+
+[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_5]
+{NPC_ENTER:zombossicon}Saludos, viajeros del tiempo.
+
+[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_6]
+{SAY:zombossicon}El futuro solicita su presencia.
+
+[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_7]
+{PLAYFUL:zombossicon}Pero tengan cuidado...
+
+[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_8]
+{SAY:zombossicon}Al entrar, la posesión legal de sus cerebros...
+
+[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_9]
+{SAY:zombossicon}Pasará a pertenecer al Dr. Edgar Zomboss.
+
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_10]
 {SAY:zombossicon}Atentamente, Dr. Edgar Zomboss.
 
@@ -42827,30 +42878,6 @@ Música de pianola: Descargada
 
 [NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_18]
 {SPECIAL16:crazydave}Y un taco es lo que tenemos dentro de cada uno de nosotros.
-
-[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_2]
-{PLAYFUL:crazydaveicon}Seguro que Dave del futuro resolvió la paradoja del taco.
-
-[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_3]
-{NPC_ENTER:winnieicon}Detecto un aumento de taquiones.
-
-[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_4]
-{EXCITED:winnieicon}Puede que Penny del futuro intente establecer contacto.
-
-[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_5]
-{NPC_ENTER:zombossicon}Saludos, viajeros del tiempo.
-
-[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_6]
-{SAY:zombossicon}El futuro solicita su presencia.
-
-[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_7]
-{PLAYFUL:zombossicon}Pero tengan cuidado...
-
-[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_8]
-{SAY:zombossicon}Al entrar, la posesión legal de sus cerebros...
-
-[NARRATIVE_COWBOY_OUTRO_ZOMBOSS_INTRO_9]
-{SAY:zombossicon}Pasará a pertenecer al Dr. Edgar Zomboss.
 
 [NARRATIVE_COWBOY_WORLDMAP_INTRO_1]
 {NPC_ENTER:crazydaveicon}{SAY}Es como trasladar el ganado...
@@ -42892,19 +42919,10 @@ Música de pianola: Descargada
 {PLAYFUL:winnie}Pero eso ya solo es cosa del pasado.
 
 [NARRATIVE_DANGERROOM_SELECT_TUTORIAL_4]
-{SAY:winnie}He desarrollado una nueva función, la cual, le permitirá al jugador...
+{SAY:winnie}He desarrollado una función que le permite elegir 80 de sus plantas favoritas.
 
 [NARRATIVE_DANGERROOM_SELECT_TUTORIAL_5]
-{SAY:winnie}Llevar consigo hasta ochenta de sus plantas favoritas como máximo.
-
-[NARRATIVE_DANGERROOM_SELECT_TUTORIAL_6]
-{PLAYFUL:winnie}Solo se añadirá el número de plantas que el jugador haya escogido para llevar consigo en cada nivel.
-
-[NARRATIVE_DANGERROOM_SELECT_TUTORIAL_7]
 {EXCITED:winnie}¡Buena suerte destrozando zombis!
-
-[NARRATIVE_DANGERROOM_SELECT_TUTORIAL_8]
-{NPC_EXIT:winnie}
 
 [NARRATIVE_DANGER_ROOM_FAILURE_1]
 {NPC_ENTER:crazydave}{SAY}Oh, no. ¡Los zombis se comieron tu cerebro!
@@ -42958,7 +42976,7 @@ Música de pianola: Descargada
 {PLAYFUL}¡Espero que te hayas preparado para una experiencia con mucho ritmo!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_1]
-{NPC_ENTER:crazydave}{SAY}¡Hola, vecino! ¡Bienvenido a la Zona del Infinito!
+{NPC_ENTER:crazydave}{SAY}¡Hola, vecino! ¡Bienvenido al Desafío de invierno!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_2]
 {SAY}Aquí deberás enfrentar el interminable ataque zombi.
@@ -42969,53 +42987,29 @@ Música de pianola: Descargada
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_4]
 {SAY}¡Déjanos ver hasta dónde puedes llegar!
 
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_FOUR_1]
-{NPC_ENTER:crazydave}{SAY}¡Hola, vecino! ¡Bienvenido a la Zona del Infinito!
-
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_FOUR_2]
-{SAY}Aquí debes enfrentar el interminable ataque zombi.
-
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_FOUR_3]
-{SAY}Elige 5 plantas para formar tu alineación.
-
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_FOUR_4]
-{SAY}¡Déjanos ver hasta dónde puedes llegar!
-
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_ONE_1]
-{NPC_ENTER:crazydave}{SAY}¡Hola, vecino! ¡Bienvenido a la Zona del Infinito!
+{NPC_ENTER:crazydave}{SAY}Haz sobrevivido al primer día.
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_ONE_2]
-{SAY}Aquí deberás enfrentar el interminable ataque zombi.
-
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_ONE_3]
-{SAY}Elige 5 plantas para formar tu alineación.
-
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_ONE_4]
-{SAY}¡Déjanos ver hasta dónde puedes llegar!
-
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_THREE_1]
-{NPC_ENTER:crazydave}{SAY}¡Hola, vecino! ¡Bienvenido a la Zona del Infinito!
-
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_THREE_2]
-{SAY}Aquí debes enfrentar el interminable ataque zombi.
-
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_THREE_3]
-{SAY}Elige 5 plantas para formar tu alineación.
-
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_THREE_4]
-{SAY}¡Déjanos ver hasta dónde puedes llegar!
+{PLAYFUL}Veo que lo haces bien, ¡sigue así!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_TWO_1]
-{NPC_ENTER:crazydave}{SAY}¡Hola, vecino! ¡Bienvenido a la Zona del Infinito!
+{NPC_ENTER:crazydave}{PLAYFUL}¡Haz sobrevivido dos días!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_TWO_2]
-{SAY}Aquí deberás enfrentar el interminable ataque zombi.
+{SAY}No desistas, esos zombis no pueden ganar.
 
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_TWO_3]
-{SAY}Elige 5 plantas para formar tu alineación.
+[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_THREE_1]
+{NPC_ENTER:crazydave}{EXCITED}¡Tres días en racha!
 
-[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_TWO_4]
-{SAY}¡Déjanos ver hasta dónde puedes llegar!
+[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_THREE_2]
+{PLAYFUL}Sigue así y llegarás muy lejos.
+
+[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_FOUR_1]
+{NPC_ENTER:crazydave}{SAY}¡Vaya! No te rindes, ¿eh?
+
+[NARRATIVE_DANGER_ROOM_INTRO_FESTIVAL_LEVEL_FOUR_2]
+{PLAYFUL}Haz sobrevivido un total de cuatro días, ¡eres imparable!
 
 [NARRATIVE_DANGER_ROOM_INTRO_FUTURE_1]
 {NPC_ENTER:crazydave}{SAY}¡Hola, vecino! ¡Bienvenido al Terror del mañana!
@@ -43195,7 +43189,7 @@ NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los datos sugieren que la Edad
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}¡Eh! ¡Prefiero que mis humores y mi cerebro estén desequilibrados!
 
 [NARRATIVE_DARK_INTRO_GARGANTUAR_6]
-{EXCITED:crazydave}¡Porque estoy LOOOOOCOOO!
+{SPECIAL2:crazydave}¡Porque estoy LOOOOOCOOO!
 
 [NARRATIVE_DARK_INTRO_HYPNOSHROOM_1]
 {NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los datos sugieren que la Edad Oscura fue una época de declive intelectual y confusión moral.
@@ -43213,7 +43207,7 @@ NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los datos sugieren que la Edad
 {PLAYFUL:crazydave}¡Hasta que se den cuenta de que fueron los propios zombis! ¡Se quedarán estupefactos!
 
 [NARRATIVE_DARK_INTRO_MAGNETSHROOM_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Según mis datos, en la Edad Oscura utilizaban constantemente hierro y otros mentales.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Según mis datos, en la Edad Oscura utilizaban constantemente hierro y otros metales.
 
 [NARRATIVE_DARK_INTRO_MAGNETSHROOM_2]
 {EXCITED:winnie}Por tanto, Magnetoseta nos podría resultar de gran ayuda en este sitio.
@@ -43297,7 +43291,7 @@ NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los datos sugieren que la Edad
 {SAY:crazydave}Seguro que alguien con un martillo neumático podría quitarla.
 
 [NARRATIVE_DARK_OUTRO_DANGER_ROOM_KEY_5]
-{EXCITED:crazydave}¡Un tipo LOOCOOO!
+{SPECIAL2:crazydave}¡Un tipo LOOCOOO!
 
 [NARRATIVE_DARK_OUTRO_DANGER_ROOM_KEY_6]
 {TIRED:winnie}Una solución a la prueba poco elegante a la par que efectiva, usuario Dave.
@@ -43351,7 +43345,7 @@ NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los datos sugieren que la Edad
 {SAY:winnie}Un meteorito. Curioso. Mis registros indican que debería ser... más grande.
 
 [NARRATIVE_DINO_15_OUTRO_3]
-{SAY:crazydave} ¿Más grande? ¿Como un burrito tamaño súper?
+{SAY:crazydave}¿Más grande? ¿Como un burrito tamaño súper?
 
 [NARRATIVE_DINO_15_OUTRO_4]
 {SAY:winnie}Más bien del tamaño de Seattle. Espero que no cambie el curso de la historia...
@@ -43372,7 +43366,7 @@ NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los datos sugieren que la Edad
 {SAY:winnie}¿Qué te aflige, usuario Dave?
 
 [NARRATIVE_DINO_17_INTRO_3]
-{EXCITED:crazydave}¡Siempre quise un Girasol primitivo que diera soles grandes!
+{EXCITED:crazydave}¡Siempre quise un Girasol que diera soles grandes!
 
 [NARRATIVE_DINO_17_INTRO_4]
 {SAY:winnie}Prepárate para estar satisfecho, usuario Dave.
@@ -43447,7 +43441,7 @@ NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los datos sugieren que la Edad
 {NPC_ENTER:zombossicon}{SAY:zombossicon}¡Bah! ¡Vuestra interferencia infernal me enfurece! ¡Bah!
 
 [NARRATIVE_DINO_42_INTRO_2]
-{SAY:zombossicon} ¡El Zombot dinotrónico mechasaurio 2.0 pondrá fin a vuestros viajes!
+{SAY:zombossicon}¡El Zombot dinotrónico mechasaurio 2.0 pondrá fin a vuestros viajes!
 
 [NARRATIVE_DINO_42_INTRO_3]
 {SAY:zombossicon}¡Bah!
@@ -43696,7 +43690,7 @@ NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los datos sugieren que la Edad
 {NPC_ENTER:crazydave}{EXCITED:crazydave}¡No se debe distorsionar la realidad! ¿Seguro que puedes hacerlo?
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_B_1]
-{NPC_ENTER:winnie}{TIRED}¿No podemos construir una valla moderna para detener a estos zombis antiguos?"
+{NPC_ENTER:winnie}{TIRED}¿No podemos construir una valla moderna para detener a estos zombis antiguos?
 
 [NARRATIVE_EGYPT_CHALLENGE_PRESET_B_2]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}¿Por qué no te callas con eso de las vallas?
@@ -43858,10 +43852,12 @@ NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los datos sugieren que la Edad
 {NPC_ENTER:winnieicon}{SAY}Las estrellas aparecen en el mapa en el que las conseguiste.
 
 [NARRATIVE_EGYPT_STAR_INTRO_4]
-{PLAYFUL:winnieicon}Las estrellas pueden ayudarnos a volver al año 2019 y a tu taco.
-También puedes utilizarlas para reclamar recompensas útiles.
+{SAY:winnieicon}Las estrellas pueden ayudarnos a volver al año 2019 y a tu taco.
 
 [NARRATIVE_EGYPT_STAR_INTRO_5]
+{PLAYFUL:winnieicon}También puedes utilizarlas para reclamar recompensas útiles.
+
+[NARRATIVE_EGYPT_STAR_INTRO_6]
 {PLAYFUL:crazydaveicon}¡Pongámonos en marcha a encontrar más!
 
 [NARRATIVE_EGYPT_STAR_INTRO_OLD_4]
@@ -45816,7 +45812,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {NPC_ENTER:winnie}{SAY:winnie}Planta Peludas de Brezal para lanzar una tormenta de dardos teledirigidos y perforantes.
 
 [NARRATIVE_HEIAN_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¡Wow! ¡Qué hermoso lugar! Me pregunto dónde estaremos ahora.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¡Qué paisaje tan bonito! Me pregunto dónde estaremos ahora.
 
 [NARRATIVE_HEIAN_1_INTRO_2]
 {SAY:WINNIE}Estamos en el Período Heian, una época de Japón del siglo X.
@@ -45867,7 +45863,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {EXCITED:CRAZYDAVE}Y si es un regalo... ¿será para mí? ¡Que sea un taco, por favor!
 
 [NARRATIVE_HEIAN_5_INTRO_3]
-{SAY:WINNIE}¡Cuidado, usuario Dave! Son Zombiditos ninja; eso que traen en la mano es un tipo de pez venenoso.
+{SAY:WINNIE}¡Cuidado, usuario Dave! Son Zombiditos ninja, eso que traen en la mano es un tipo de pez venenoso.
 
 [NARRATIVE_HEIAN_5_INTRO_4]
 {EXCITED:CRAZYDAVE}¿Qué intentan hacer estos tipos con eso? ¡Apuesto a que quieren robar mi taco!
@@ -45888,7 +45884,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY:WINNIE}Pero ten cuidado al usarla, ya que, también afectarás el Nivel de los zombis.
 
 [NARRATIVE_HEIAN_7_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¿Hueles eso? ¡Los tacos son diez mil veces más fragantes que esa cosa hedionda!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¿Hueles eso? ¡Los tacos son mil veces más fragantes que esa cosa hedionda!
 
 [NARRATIVE_HEIAN_7_INTRO_2]
 {SAY:WINNIE}Usuario Dave, no tengo nariz, ¿lo recuerdas? Sin embargo, detecto a un nuevo zombi por aquí.
@@ -45897,7 +45893,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY:WINNIE}Es un maestro del sushi, prepara platillos para atraer a los zombis cercanos y potenciarlos.
 
 [NARRATIVE_HEIAN_7_INTRO_4]
-{TIRED:CRAZYDAVE}¡Gúacala! Nunca he sido fanático del sushi, ¡me da náuseas!
+{TIRED:CRAZYDAVE}¡Guácala! Nunca he sido fanático del sushi, ¡me da náuseas!
 
 [NARRATIVE_HEIAN_7_INTRO_5]
 {SAY:WINNIE}Por suerte tenemos una planta dispuesta en ayudarnos: Orquídea chef.
@@ -45936,7 +45932,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY:WINNIE}¡Cuidado con esos zombis, usuario Dave! Son agricultores de arroz.
 
 [NARRATIVE_HEIAN_13_INTRO_3]
-{SAY:WINNIE}Su sombrero de los protege de los proyectiles arrojadizos mientras roban Nutrientes
+{SAY:WINNIE}Su sombrero los protege de los proyectiles arrojadizos mientras roban Nutrientes
 
 [NARRATIVE_HEIAN_17_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Esos zombis llevan una ropa tan extraña, ¡además tienen abanicos en sus manos!
@@ -46452,16 +46448,16 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY:zombossicon}¡Dr. Zombi ahora dejar de hablar de sí mismo en tercera persona! ¡Adiós!
 
 [NARRATIVE_ICEAGE_UNCHARTED_EVENT_TUTORIAL_1]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Ditto Din din din, mi alarma de salto en el tiempo se ha disparado.
+{NPC_ENTER:winnie}{SAY:winnie}Ditto Din din din, mi alarma de salto en el tiempo se ha disparado.
 
 [NARRATIVE_ICEAGE_UNCHARTED_EVENT_TUTORIAL_2]
-{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Eso no suena a buenas noticias.
+{NPC_ENTER:crazydave}{SAY:crazydave}Eso no suena a buenas noticias.
 
 [NARRATIVE_ICEAGE_UNCHARTED_EVENT_TUTORIAL_3]
-{NPC_ENTER:winnie}{PLAYFUL:winnie}Parece que hay una anomalía en las Cuevas congeladas.
+{NPC_ENTER:winnie}{SA:winnie}Parece que hay una anomalía en las Cuevas congeladas.
 
 [NARRATIVE_ICEAGE_UNCHARTED_EVENT_TUTORIAL_4]
-{NPC_ENTER:crazydave}{SAY:crazydave}Ese cabezón ha de estar tramando algo de nuevo.
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Ese cabezón ha de estar tramando algo de nuevo.
 
 [NARRATIVE_ICEAGE_UNCHARTED_EVENT_TUTORIAL_5]
 {EXCITED:crazydave}¡Vamos! Hay que ir a por él.
@@ -46578,7 +46574,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Bienvenidos a otro viaje que emprendemos para encontrar tu taco, Dave.
 
 [NARRATIVE_KONGFU_INTRO_FIRSTLEVEL_2]
-{SAY:winnie}Ahora nos encontramos en China, justo en el año 527; época donde el Kung Fu surgió para el país.
+{SAY:winnie}Ahora nos encontramos en China, justo en el año 527; época donde el Kung Fu surgió como arte marcial.
 
 [NARRATIVE_KONGFU_INTRO_FIRSTLEVEL_3]
 {SAY:crazydave}¿Dijiste Kung Fu? ¡Quiero ver la actuación de Qigong!
@@ -46647,7 +46643,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY:crazydave}Ya no tengo miedo, ¡sé que mi Rábano blanco va a protegernos!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL6_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¿Por qué hay zombis con bombas en la Dinastía del Kung Fu?
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¿Por qué hay zombis con bombas en China?
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL6_2]
 {SAY:winnie}Según mis sensores, es porque encontraron un gran número de explosivos.
@@ -46656,7 +46652,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY:winnie}Necesitamos plantas de hielo para apagarlos.
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL6_4]
-{SAY:crazydave}Si tuviéramos algunas Lechugas Icebergs, ¡sería una locura!
+{SAY:crazydave}Si tuviéramos algunas Lechugas iceberg, ¡sería una locura!
 
 [NARRATIVE_KONGFU_INTRO_KONGFU_LEVEL9_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Mis sensores detectan que la paradoja del espacio-tiempo está formando agujeros negros.
@@ -46674,7 +46670,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {NPC_ENTER:crazydave}{SPECIAL8}Parece que ya no quedan más zombis por aquí.
 
 [NARRATIVE_KONGFU_OUTRO_KONGFU_LEVEL15_2]
-{NPC_ENTER:winnie}{TIRED}{START_DIALOG_MUSIC}Creo que en un futuro próximo, habrán más zombis poderosos aquí, ¡sugiero retiranos ya!
+{NPC_ENTER:winnie}{TIRED}{START_DIALOG_MUSIC}Creo que en un futuro próximo habrán zombis más fuertes. Sugiero retiranos.
 
 [NARRATIVE_LAWNBOWL_LTE_2023_1_1]
 {NPC_ENTER:zomboss_r}{SHOUT:zomboss_r}¡Buajajaja! Les tengo esta vez. No se escaparán de mis garras.
@@ -48472,7 +48468,7 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}{NPC_ENTER:zombossicon}{SAY:zombossicon}¡Estas plantas mejoradas son escandalosas e injustas!
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_A_1]
-{NPC_ENTER:winnie}{SAY}La marea es baja y se acerca la oleada.！
+{NPC_ENTER:winnie}{SAY}La marea es baja y se acerca la oleada.
 
 [NARRATIVE_PIRATE_CHALLENGE_LASTSTAND_A_2]
 {NPC_ENTER:crazydave}{EXCITED:crazydave}¡Agarrad los flotadores! Nos mojaremos.
@@ -49576,7 +49572,7 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {NPC_ENTER:crazydave}{SAY:crazydave}Lo siento, llegué tarde. ¿Qué me perdí? ¿Un juego de palabras con menta?
 
 [NARRATIVE_RENAI_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¡Guay! ¡Este lugar es muy hermoso! ¿Dónde estamos?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¡Este lugar es muy hermoso! ¿Dónde estamos?
 
 [NARRATIVE_RENAI_1_INTRO_2]
 {SAY:WINNIE}¡Bienvenidos a la Era del Renacimiento! Estamos en Europa del siglo XIII.
@@ -49597,22 +49593,22 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {SAY:WINNIE}En efecto. Su nombre es Calabaza de cera. Plantémosla en esas baldosas.
 
 [NARRATIVE_RENAI_3_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¡Vaya, hay un perfume aquí que es tan potente!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¡Vaya, ese perfume tiene un olor muy fuerte! ¿Puedes olearlo?
 
 [NARRATIVE_RENAI_3_INTRO_2]
-{SAY:WINNIE}Según mis sensores ese perfume es tóxico y letal para las plantas.
+{SAY:WINNIE}No puedo apreciar olores, sin embarco detecto que ese perfume es tóxico para las plantas.
 
 [NARRATIVE_RENAI_3_INTRO_3]
 {EXCITED:CRAZYDAVE}Mira a esa chica, tiene una botella en la mano.
 
 [NARRATIVE_RENAI_3_INTRO_4]
-{SAY:WINNIE}Es una perfumista. Puede paralizar y atacar a las plantas con su botella de perfume.
+{SAY:WINNIE}Es una perfumista. Puede paralizar y dañar a las plantas con su botella de perfume.
 
 [NARRATIVE_RENAI_3_INTRO_5]
-{EXCITED:CRAZYDAVE}¡Me empiezo a asfixiar! Necesitamos una planta que pueda deshacer todo esto.
+{EXCITED:CRAZYDAVE}¡Me empiezo a asfixiar! Necesitamos una planta que deshaga todo esto.
 
 [NARRATIVE_RENAI_3_INTRO_6]
-{SAY:WINNIE}Aloe puede purificar los efectos tóxicos del perfume, además de curar a las plantas cercanas.
+{SAY:WINNIE}Aloe puede purificar los efectos tóxicos del perfume, también cura a las plantas cercanas.
 
 [NARRATIVE_RENAI_5_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Veo un montón de estatuas, ¡son tan interesantes y están talladas en piedra!
@@ -49621,7 +49617,7 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {SAY:WINNIE}Cuidado con esas estatuas, usuario Dave. Se convertirán en zombis reales por la noche.
 
 [NARRATIVE_RENAI_5_INTRO_3]
-{SAY:WINNIE}Y para evitar que eso suceda, ¡debemos destruirlas lo más antes posible!
+{SAY:WINNIE}Y para evitar que eso suceda, debemos destruirlas lo más antes posible.
 
 [NARRATIVE_RENAI_5_INTRO_4]
 {EXCITED:CRAZYDAVE}Sé lo que eso significa, Penny. ¡ES HORA DE ESCULPIR!
@@ -49642,7 +49638,7 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¡Esas mujeres caminan extraño! ¡Apuesto a que deben estar LOOOOCAAAAS!
 
 [NARRATIVE_RENAI_14_INTRO_2]
-{SAY:WINNIE}Según mis sesores, esas son bailarinas de ballet. Siempre saldrán en grupos de 4.
+{SAY:WINNIE}Esas son bailarinas de ballet. Siempre saldrán en grupos de 4.
 
 [NARRATIVE_RENAI_14_INTRO_3]
 {SAY:CRAZYDAVE}¡Las zombis se mueven cada vez más rápido!
@@ -49701,12 +49697,6 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 [NARRATIVE_RENAI_OUTRO_ZOMBOSS_6]
 {SAY:winnie}Sí, pero con Zomboss, siempre hay una segunda función. ¡Volvamos al trabajo!
 
-[NARRATIVE_RESILIENCE10_1]
-{NPC_ENTER:winnie}¡Con eso hemos terminado!
-
-[NARRATIVE_RESILIENCE10_2]
-{SAY:winnie}Cuando encuentres zombis resistentes, usa el ataque correspondiente para romper su resistencia más rápido
-
 [NARRATIVE_RESILIENCE1_1]
 {NPC_ENTER:crazydave}Vaya, parece que apareció un zombi poderoso.
 
@@ -49723,10 +49713,10 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {NPC_ENTER:winnie}{SAY}Informes de prueba realizados con éxito.
 
 [NARRATIVE_RESILIENCE5_2]
-{SAY}Parece que esta es la última obra maestrea hecha por el Dr. Zombi.
+{SAY}Parece que esta es la última obra maestra hecha por el Dr. Zombi.
 
 [NARRATIVE_RESILIENCE5_3]
-{SAY}Los zombis se encuentran en un estado de gran reducción del daño que reciben.
+{SAY}Los zombis se encuentran en un estado de gran reducción de daño.
 
 [NARRATIVE_RESILIENCE5_4]
 {SAY}Necesitaremos romper esa dureza para poder dañarlos de manera normal.
@@ -49745,6 +49735,12 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 
 [NARRATIVE_RESILIENCE9_1]
 {NPC_ENTER:crazydave}¡Uf! ¡Eso fue complicado!
+
+[NARRATIVE_RESILIENCE10_1]
+{NPC_ENTER:winnie}¡Con eso hemos terminado!
+
+[NARRATIVE_RESILIENCE10_2]
+{SAY:winnie}Cuando encuentres zombis resistentes, usa el ataque correspondiente para romper su resistencia más rápido
 
 [NARRATIVE_RESPRINGENING_LTE_2023_1_1]
 {NPC_ENTER:winnie_l}{NPC_ENTER:crazydave_r}{SAY:winnie_l}Usuario Dave, completé la recalibración.
@@ -50119,7 +50115,7 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {NPC_ENTER:winnieicon}{SAY}Solo las plantas voladoras y flotantes pueden plantarse en el cielo.
 
 [NARRATIVE_SHOWSHIPHEALTH_INTRO_1]
-{NPC_ENTER:winnieicon}{SAY}Esta es tu nave, el indicador muestra la salud actual de la nave.
+{NPC_ENTER:winnieicon}{SAY}Esta es tu nave, la barra muestra su salud actual.
 
 [NARRATIVE_SHOWSHIPHEALTH_INTRO_2]
 {SAY}Si la nave es destruida, perderás.
@@ -50299,25 +50295,25 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {NPC_ENTER:crazydaveicon}{PLAYFUL}¡Ya tienes suficientes Estrellas para desbloquear plantas!
 
 [NARRATIVE_STAR_TOUCHWOOD_1]
-{NPC_ENTER:winnieicon}{PLAYFUL}¡Has recogido suficientes Estrellas para reclamar a Plantorcha en la Sección Premios Estelares!
+{NPC_ENTER:winnieicon}{PLAYFUL}Has recogido suficientes Estrellas. Ve y reclama a Plantorcha en los Premios estelares.
 
 [NARRATIVE_STEAM_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}¡Increíble lugar! ¿Ahora donde estamos, Penny?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Interesante lugar. ¿Dónde estamos ahora?
 
 [NARRATIVE_STEAM_1_INTRO_2]
-{EXCITED:WINNIE}¡Bienvenidos a la Era del Vapor! Nos encontramos en Inglaterra para ser precisos.
+{EXCITED:WINNIE}¡Bienvenidos a la Era del Vapor! Nos encontramos en Inglaterra del 1850 para ser precisos.
 
 [NARRATIVE_STEAM_1_INTRO_3]
-{EXCITED:CRAZYDAVE}¡Qué olor tan desagradable tiene todo este vapor!
+{SAY:CRAZYDAVE}¡Qué olor tan desagradable tiene todo este humo!
 
 [NARRATIVE_STEAM_1_INTRO_4]
 {SAY:WINNIE}No deberías inhalar ese vapor. Es muy tóxico para ti y las plantas.
 
 [NARRATIVE_STEAM_1_INTRO_5]
-{EXCITED:CRAZYDAVE}¡Vaya, esas alcantarillas parecen no tener fondo!
+{PLAYFUL:CRAZYDAVE}Mira esas alcantarillas de allá, ¡parecen no tener fondo!
 
 [NARRATIVE_STEAM_1_INTRO_6]
-{SAY:WINNIE}Según mis análisis, tienen una profundidad de 7.869 metros. Detecto zombis dentro de ellas.
+{SAY:WINNIE}Según mis análisis, tienen una profundidad de 21 metros. Detecto zombis dentro de ellas.
 
 [NARRATIVE_STEAM_1_INTRO_7]
 {SAY:CRAZYDAVE}¿Que hacemos con todo este vapor y esos zombis?
@@ -50353,7 +50349,7 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {SAY:WINNIE}Raíz de loto está aquí para ayudarnos. Puede absorver vapores tóxicos y liberarlos como miasma.
 
 [NARRATIVE_STEAM_13_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Estoy sorprendido, ¡hay tantas alcantarillas!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Estoy perplejo, ¡hay tantas alcantarillas!
 
 [NARRATIVE_STEAM_13_INTRO_2]
 {SAY:WINNIE}Sugiero golpear a los zombis que salen de ellas con un mazo. 
@@ -50649,9 +50645,12 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Penny, ¡te estás volviendo cada vez más confiable!
 
 [NARRATIVE_SUNBANK_TUTORIAL_3]
-{SPECIAL4:crazydave}¡Vecino, tómalo! ¡No preguntes por qué! ¡Ya sabes! ¡Porque estoy LOOOCOOO!
+{SAY:crazydave}¡Vecino, tómalo! ¡No preguntes por qué! ¡Ya sabes!
 
 [NARRATIVE_SUNBANK_TUTORIAL_4]
+{SPECIAL4:crazydave}¡Porque estoy LOOOCOOO!
+
+[NARRATIVE_SUNBANK_TUTORIAL_5]
 {SPAWN_COINS}{NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_SUNFLOWER_WALLNUT_EVENT_1]
@@ -50853,7 +50852,7 @@ this is a test string bah
 {SAY:crazydave}¿Un transgén? ¡Suena mágico!
 
 [NARRATIVE_TRANS_GENOSIS_OPEN_TUTORIAL_5]
-{EXCITED:winnie}Con este trasgén pueden obtenerse nuevas y diferentes Piezas de Rompecabezas a través de Piezas ya existentes.
+{EXCITED:winnie}Con este trasgén podemos obtener nuevas Piezas a través de las que ya tenemos.
 
 [NARRATIVE_TRANS_GENOSIS_OPEN_TUTORIAL_6]
 {PLAYFUL:crazydave}¡Genial! ¡No puedo esperar más hasta probarlo!
@@ -50862,10 +50861,10 @@ this is a test string bah
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_DONE_TUTORIAL_1]
-{NPC_ENTER:CRAZYDAVEICON}{NPC_ENTER:WINNIEICON}{EXCITED:WINNIEICON}La fusión requiere de al menos dos Piezas de Rompecabezas.
+{NPC_ENTER:CRAZYDAVEICON}{NPC_ENTER:WINNIEICON}{EXCITED:WINNIEICON}La fusión requiere de al menos dos Piezas.
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_DONE_TUTORIAL_2]
-{SAY:WINNIEICON}Cuantas más Piezas se utilicen, mayor será la probabilidad de obtener Piezas de Rompecabezas de una alta rareza.
+{SAY:WINNIEICON}Cuantas más Piezas se utilicen, mayor será la probabilidad de obtener Piezas de alta rareza.
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_DONE_TUTORIAL_3]
 {EXCITED:CRAZYDAVEICON}Es hora de probarlo, ¡qué emoción!
@@ -50883,7 +50882,7 @@ this is a test string bah
 {NPC_EXIT:crazydave}
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_TUTORIAL_1]
-{NPC_ENTER:CRAZYDAVEICON}{EXCITED}Hola vecino, puse algunas Piezas de Rompecabezas en el transgén porque estoy LOOOCOOO.
+{NPC_ENTER:CRAZYDAVEICON}{EXCITED}Hola vecino, puse algunas Piezas en el transgén porque estoy LOOOCOOO.
 
 [NARRATIVE_TUMBLEWEED_EQ_1]
 {NPC_ENTER:winnie}{SAY:winnie}Planta Rodadoras en cualquier parte y lánzaselos rodando línea abajo a los zombis.
@@ -50979,7 +50978,7 @@ this is a test string bah
 {NPC_ENTER:winnieicon}{PLAYFUL:winnieicon}Detecto la presencia de más zombis que vienen tras nosotros.
 
 [NARRATIVE_TUTORIAL_CRYSTAL_STORE_INTRO_2]
-{PLAYFUL:winnieicon}Sugiero dirigirnos a la Tienda de Rubíes y usar los Rubíes que conseguimos en plantas más fuertes.
+{PLAYFUL:winnieicon}Sugiero dirigirnos a la Tienda misteriosa y usar los Rubíes que conseguimos en plantas más fuertes.
 
 [NARRATIVE_TUTORIAL_CRYSTAL_STORE_INTRO_3]
 {NPC_EXIT:winnieicon}
@@ -51021,7 +51020,7 @@ this is a test string bah
 {SAY:winnieicon}Solo es posible obtener una recompensa por día.
 
 [NARRATIVE_TUTORIAL_DAILY_REWARD_5]
-{SAY:winnieicon}Si inicias sesión los siete días de la semana, serás recompensado por ello.
+{SAY:winnieicon}Si inicias sesión los siete días de la semana, recibirás una recompensa extra.
 
 [NARRATIVE_TUTORIAL_DAILY_REWARD_6]
 {NPC_EXIT:crazydaveicon}{NPC_EXIT:winnieicon}
@@ -51042,7 +51041,7 @@ this is a test string bah
 {NPC_ENTER:winnie}{PLAYFUL:winnie}Cuando las plantas usan Atuendos, sus habilidades mejoran.
 
 [NARRATIVE_TUTORIAL_EGYPT6_INTRO_2]
-{SAY:winnie}¡Provémoslo ahora!
+{SAY:winnie}¡Probémoslo ahora!
 
 [NARRATIVE_TUTORIAL_EGYPT6_INTRO_3]
 {NPC_EXIT:winnie}
@@ -51273,7 +51272,7 @@ this is a test string bah
 {NPC_ENTER:winnie}{PLAYFUL:winnie}Detecto la aparición de nuevas grietas en el espacio-tiempo.
 
 [NARRATIVE_TUTORIAL_PVZ2_UNCHARTED_MODE_INTRO_2]
-{SAY:winnie}Según mis datos, estas grietas contienen mundos que nunca hemos explorado.
+{SAY:winnie}Según mis datos, estas grietas contienen mundos que no hemos explorado.
 
 [NARRATIVE_TUTORIAL_PVZ2_UNCHARTED_MODE_INTRO_3]
 {SAY:winnie}Y mis sensores indican que hay poderosos objetos en esas misteriosas tierras.
@@ -51324,7 +51323,7 @@ this is a test string bah
 {NPC_ENTER:winnieicon}{PLAYFUL:winnieicon}Parece que has conseguido suficientes Estrellas.
 
 [NARRATIVE_TUTORIAL_STAR_INTRO_2]
-{EXCITED:winnieicon}¡Ve a la sección "Premios Estelares" y mira si necesitas algo ahora!
+{EXCITED:winnieicon}¡Ve a la sección "Premios Estelares" y mira si necesitas algo!
 
 [NARRATIVE_TUTORIAL_STAR_INTRO_3]
 {NPC_EXIT:winnieicon}
@@ -51375,7 +51374,7 @@ this is a test string bah
 {NPC_ENTER:zombossicon}{SAY:zombossicon}Saludos, nos encontramos una vez más, amigos de plantas.
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_HUNTER_2]
-{SAY:zombossicon}No me sorprende que encuentren mi base secreta. Otra vez.
+{SAY:zombossicon}No me sorprende que encuentren mi base secreta. Otra vez...
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_HUNTER_3]
 {SAY:zombossicon}Necesito público para mi nuevo proyecto, MUAJAJAJAJA.
@@ -51404,9 +51403,6 @@ this is a test string bah
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_1]
 {NPC_ENTER:winnie}{PLAYFUL}¿Y ahora? ¿Nos dirás como salir de este lugar, arquéologo Zomboss?
 
-[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_10]
-{EXCITED:no42crazydave}Nos vemos pronto, chatarrita. Gracias por darme una mano.
-
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_2]
 {NPC_ENTER:no42zombossicon}{SAY:no42zombossicon}No tengo idea, solo me alié con alguien muy idéntico a mi.
 
@@ -51430,6 +51426,9 @@ this is a test string bah
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_9]
 {PLAYFUL:winnie}¿De quien estará hablando? Dice que trabaja con alguien más. En fin...
+
+[NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_10]
+{EXCITED:no42crazydave}Nos vemos pronto, chatarrita. Gracias por darme una mano.
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_MAIN_1]
 {NPC_ENTER:no42zombossicon}{SAY}¡Fiu! Ese tonto de Dave está demente, ¿lo habré perdido de vista?
@@ -90643,10 +90642,10 @@ Niebla mágica
 Esta niebla misteriosa proporciona fuertes escudos a los zombis que entren en contacto con ella.
 
 [PVZ1MODE_OVERWHELM]
-Pilares abrumadores
+¡Formen Arr!
 
 [PVZ1MODE_OVERWHELM_DESC]
-Aparecen pilares por el patio
+Resiste la invasión zombi con semillas especiales que plantan una columna entera de golpe.
 
 [PVZ1MODE_PLAY_NUM]
 x{NUM}   JUGAR
@@ -104948,7 +104947,7 @@ Era del Vapor - Día Final
 Era del Vapor - Día {LEVEL_NUMBER}
 
 [STEAM_MINIGAME_GOAL]
-Puntuación: {NUMBER}
+Objetivo: {NUMBER}
 
 [STEAM_ZOMBIE]
 Fiesta elegante
@@ -109910,10 +109909,10 @@ Completa el Salvaje Oeste - Día 8 (Difícil)
 Completa el Salvaje Oeste - Día Final
 
 [TASK_WORLDTASK_DARK1]
-Completa la Edad Oscura - Día 10
+Completa la Edad Oscura - Noche 10
 
 [TASK_WORLDTASK_DARK2]
-Completa la Edad Oscura - Día 10 (Difícil)
+Completa la Edad Oscura - Noche 10 (Difícil)
 
 [TASK_WORLDTASK_DARK3]
 Completa la Edad Oscura - Noche Final
@@ -115982,7 +115981,7 @@ Yeti del tesoro
 Paquete pequeño
 
 [WORLD_LEVEL_PACKAGE_1]
-Paqueño mediano
+Paquete mediano
 
 [WORLD_LEVEL_PACKAGE_2]
 Paquete grande
