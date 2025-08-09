@@ -64,19 +64,19 @@
 [NARRATIVE_EGYPT_DAVESPECIALS_INTRO_22]
 {SAY}Estaba riquísimo, ahora debo irme. ¡Chau!
 
-[NARRATIVE_DAVESPECIALS_OUTRO_1]
+[NARRATIVE_EGYPT_DAVESPECIALS_OUTRO_1]
 {NPC_ENTER:WINNIE}{PLAYFUL}¡Aquí estoy, usuario Dave! ¿Con quién hablabas?
 
-[NARRATIVE_DAVESPECIALS_OUTRO_2]
+[NARRATIVE_EGYPT_DAVESPECIALS_OUTRO_2]
 {NPC_ENTER:researchercrazydave}{PLAYFUL:researchercrazydave}Ahora que finalmente viajé por el cosmos y recuperé mi taco, puedo dedicarme a la ciencia.
 
-[NARRATIVE_DAVESPECIALS_OUTRO_3]
+[NARRATIVE_EGYPT_DAVESPECIALS_OUTRO_3]
 {SAY:WINNIE}Pero si aún no hemos encontrado tu taco, ¿de qué hablas?
 
-[NARRATIVE_DAVESPECIALS_OUTRO_4]
+[NARRATIVE_EGYPT_DAVESPECIALS_OUTRO_4]
 {SAY:researchercrazydave}Claro que sí, me insultaste y luego me diste dinero, ¿con qué crees que compré el taco?
 
-[NARRATIVE_DAVESPECIALS_OUTRO_5]
+[NARRATIVE_EGYPT_DAVESPECIALS_OUTRO_5]
 {SAY:WINNIE}Me temo que esa no era yo, usuario Dave.
 
 [ADVICE_AQUARIUM_COIN_NOT_ENOUGH]
