@@ -3972,7 +3972,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_1]
-Elige un tamaño de zombi y absórbelos por 5 s. Capacidad: 10 pequeños, 6 medianos o 2 grandes. Cada 10 zombis genera una poción para potenciar plantas.
+Elige un tamaño de zombi y absórbelos por 5 s. Cada 10 zombis genera una poción para potenciar plantas. ^D22808^Capacidad: 10 pequeños, 6 medianos o 2 grandes.^oldclr^ 
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_2]
 ^98FB98^Efecto pasivo:^oldclr^ aumenta el daño y la defensa de las plantas Kung Fu en un {PassiveField1_1}%
@@ -4455,7 +4455,11 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_1]
-Aplica descargas eléctricas a los zombis del área. Combinar cargas activa efectos: ^A048CF^2+ → PS −{MainField_1}% por 10 s; 2- → aturdir por {MainField_2} s; +- → velocidad −{MainField_3}% por {MainField_4} s^oldclr^ ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_6}^oldclr^
+Aplica descargas eléctricas a los zombis del área. Combinar cargas activa efectos:
+^A048CF^• 2+ → PS −{MainField_1}% por 10 s^oldclr^
+^A048CF^• 2- → aturdir por {MainField_2} s^oldclr^
+^A048CF^• +- → velocidad −{MainField_3}% por {MainField_4} s^oldclr^
+^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_6}^oldclr^
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_2]
 ^98FB98^Efecto pasivo:^oldclr^ aumenta el daño y la defensa de las plantas eléctricas en un {PassiveField1_1}%
