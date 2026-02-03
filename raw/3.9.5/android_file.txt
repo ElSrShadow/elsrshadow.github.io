@@ -3972,7 +3972,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_1]
-Elige un tamaño de zombi y absórbelos por 5 s. Cada 10 zombis genera una poción para potenciar plantas. ^D22808^Capacidad: 10 pequeños, 6 medianos o 2 grandes.^oldclr^ 
+Elige un tamaño de zombi y absórbelos por 5 s. Cada 10 zombis genera una poción para potenciar plantas. ^D22808^Capacidad: 10 zombis pequeños, 6 medianos o 2 grandes.^oldclr^ 
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_2]
 ^98FB98^Efecto pasivo:^oldclr^ aumenta el daño y la defensa de las plantas Kung Fu en un {PassiveField1_1}%
@@ -4365,7 +4365,7 @@ Toca 10 notas rápidamente para liberar una onda sónica. Su daño y alcance dep
 ^98FB98^Efecto pasivo:^oldclr^ cada {PassiveField2_1} s dispara 3 notas a los zombis cercanos, infligiendo {PassiveField2_2} de daño y derribándolos. Las plantas alcanzadas ganan +50% de velocidad de ataque por 10 s
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_4]
-^98FB98^Efecto activo:^oldclr^ Genera 2 ondas sonoras que infligen {PassiveField3_2} de daño en un área 3×3 varias veces por segundo y aturden zombis por {PassiveField3_3} s. Mayor precisión prolonga el efecto.
+^98FB98^Efecto activo:^oldclr^ Genera 2 ondas sonoras que infligen {PassiveField3_2} de daño en un área 3x3 varias veces por segundo y aturden zombis por {PassiveField3_3} s. Mayor precisión prolonga el efecto.
 
 [ARTIFACT_HOLO]
 Holoproyector
@@ -5005,7 +5005,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_1]
-Dispara un poderoso torrente de agua para derribar a todos los zombis del patio. Los zombis quedarán empapados, lo que los hace vulnerables al poder de las plantas de hielo. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_4}^oldclr^
+Dispara un poderoso torrente de agua para derribar a todos los zombis del patio. Los zombis quedarán empapados, lo que los hace vulnerables al poder de las plantas de hielo.
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_2]
 ^98FB98^Efecto pasivo:^oldclr^ aumenta el daño y la defensa de las plantas de agua o hielo en un {PassiveField1_1}%
@@ -16812,16 +16812,16 @@ Error de excepción
 El botón Turbo acelera la partida. Recibes soles más rápido, las plantas son más rápidas... ¡y los zombis también!
 
 [DIALOG_WAITING]
-Esperando...
+Esperando
 
 [DIALOG_WAITING_FAIL_BACK]
-Retorno fallido
+FALLO
 
 [DIALOG_WAITING_OVERTIME]
-Tiempo de espera
+Agotado el tiempo de espera
 
 [DIALOG_WAITING_SUC_BACK]
-Regresó correctamente
+ÉXITO
 
 [DIALOG_WARNING]
 ATENCIÓN
@@ -18607,7 +18607,7 @@ Giran y dañan a los zombis de la línea; pueden dejar hielo en el camino
 Nivel 2
 
 [ELEOCURLING_SKILL_LEVEL1_DES]
-^4DD4DB^Pantinaje sobre hielo:^oldclr^ aumenta la probabilidad de dejar rastros de hielo en el camino.
+^4DD4DB^Patinaje sobre hielo:^oldclr^ aumenta la probabilidad de dejar rastros de hielo en el camino.
 
 [ELEOCURLING_SKILL_LEVEL2]
 Nivel 3
