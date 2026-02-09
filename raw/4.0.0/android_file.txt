@@ -36583,15 +36583,12 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {PLAYFUL:winnie}En los marcadores para ascender de liga, ¡así conseguiremos mejores premios!
 
 [NARRATIVE_JOUST_SELECT_TUTORIAL_5]
-{EXCITED:crazydave}¡Penny, eso es genial!
+{EXCITED:crazydave}¡Penny, eso es genial! Pero... ¿sabes si regalan tacos como recompensa?
 
 [NARRATIVE_JOUST_SELECT_TUTORIAL_6]
-{EXCITED:crazydave}Pero... ¿sabes si regalan tacos como recompensa?
-
-[NARRATIVE_JOUST_SELECT_TUTORIAL_7]
 {TIRED:winnie}No precisamente, usuario Dave, no precisamente.
 
-[NARRATIVE_JOUST_SELECT_TUTORIAL_8]
+[NARRATIVE_JOUST_SELECT_TUTORIAL_7]
 {NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
 [NARRATIVE_JOUST_UNLOCK_1]
@@ -36736,12 +36733,9 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {EXCITED:zombossicon}Yo que vosotros, haría una reverencia antes de ser aplastados.
 
 [NARRATIVE_KONGFU_INTRO_GARGANTUAR_4]
-{NPC_EXIT:zombossicon}
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Oh, no! ¿Zombis Kung Fu? ¿Dónde está mi cinturón blanco?
 
 [NARRATIVE_KONGFU_INTRO_GARGANTUAR_5]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Oh, no! ¿Zombis kung fu? ¿Dónde está mi cinturón blanco?
-
-[NARRATIVE_KONGFU_INTRO_GARGANTUAR_6]
 {SAY:winnie}Cuidado, usuario Dave. Estos zombis no vienen a meditar... vienen a machacar.
 
 [NARRATIVE_KONGFU_INTRO_GONG_1]
@@ -36829,7 +36823,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY:winnie}Debemos encontrarlo y perdirle que se una a nuestro equipo.
 
 [NARRATIVE_KONGFU_INTRO_ZOMBOSS_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Wow, mira ese zombi! ¡Tiene una espada y escudo enormes!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Wow, mira ese zombi! ¡Se ve desafiante!
 
 [NARRATIVE_KONGFU_INTRO_ZOMBOSS_2]
 {SAY:winnie}Según mis sensores, es un zombi con un gran potencial en las artes marciales.
@@ -36847,12 +36841,9 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY:zombossicon}Pronto conocerán a los demás: cada uno con un toque explosivo y devastador. 告辞!
 
 [NARRATIVE_KONGFU_INTRO_ZOMBOSS_7]
-{NPC_EXIT:zombossicon}
+{NPC_EXIT:zombossicon}{SAY:crazydave}¡¿Dijo explosivos?! ¿Eso incluye fuegos artificiales y tacos picantes?
 
 [NARRATIVE_KONGFU_INTRO_ZOMBOSS_8]
-{SAY:crazydave}¡¿Dijo explosivos?! ¿Eso incluye fuegos artificiales y tacos picantes?
-
-[NARRATIVE_KONGFU_INTRO_ZOMBOSS_9]
 {SAY:winnie}Debemos estar preparados. Este no es un zombi común.
 
 [NARRATIVE_KONGFU_OUTRO_GONG_1]
@@ -36889,15 +36880,12 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY}Pero esto no termina aquí. ¡Volveré más fuerte y con más guerreros!
 
 [NARRATIVE_KONGFU_OUTRO_ZOMBOSS_3]
-{NPC_EXIT:zombossicon}
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Eso fue intenso!
 
 [NARRATIVE_KONGFU_OUTRO_ZOMBOSS_4]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Eso fue intenso!
-
-[NARRATIVE_KONGFU_OUTRO_ZOMBOSS_5]
 {SAY:winnie}Cada batalla nos hace más fuertes.
 
-[NARRATIVE_KONGFU_OUTRO_ZOMBOSS_6]
+[NARRATIVE_KONGFU_OUTRO_ZOMBOSS_5]
 {SAY:crazydave}Suficiente Kung Fu por ahora, ¡saltemos a la siguiente época!
 
 [NARRATIVE_LAWN_MOWERS_FILL_1]
@@ -37996,45 +37984,6 @@ utiliza tus dedos y pellizca a un zombi para destruirlo.
 [NARRATIVE_PIRATE_ZOMBIENOTE_4]
 {SHOUT:crazydaveicon}¡Vamos! ¡No hay tiempo para tomar precauciones!
 
-[NARRATIVE_PLANTNARRATIVE_1]
-{NPC_ENTER:sunflower}{SAY:sunflower}¡Soy Girasol!
-
-[NARRATIVE_PLANTNARRATIVE_2]
-{NPC_ENTER:wallnut_r}{SAY:wallnut_r}¡Hola! ¡Soy Nuez!
-
-[NARRATIVE_PLANTNARRATIVE_3]
-{SAY:sunflower}Eso ya lo sé, boba. ¡Somos amigas desde hace años!
-
-[NARRATIVE_PLANTNARRATIVE_4]
-{SAY:wallnut_r}Cierto mentiroso me dijo que los muñequitos podían sustituirnos.
-
-[NARRATIVE_PLANTNARRATIVE_5]
-{SAY:sunflower}¡De mentiroso nada, Nuez! ¡Mira!
-
-[NARRATIVE_PLANTNARRATIVE_6]
-{NPC_EXIT:sunflower}{NPC_ENTER:wallnut}{SAY:wallnut_r}Uh...
-
-[NARRATIVE_PLANTNARRATIVE_7]
-{SAY:wallnut}¡Hola! ¡Soy Nuez!
-
-[NARRATIVE_PLANTNARRATIVE_8]
-{SAY:wallnut_r}Pero si TÚ ERES Nuez...
-
-[NARRATIVE_PLANTNARRATIVE_9]
-{SAY:wallnut_r}...
-
-[NARRATIVE_PLANTNARRATIVE_10]
-{SAY:wallnut_r}Eso es. Eso es todo lo que tenía que decir.
-
-[NARRATIVE_PLANTNARRATIVE_11]
-{NPC_EXIT:wallnut_r}{NPC_ENTER:sunflower_r}{SAY:sunflower_r}¡He vuelto!
-
-[NARRATIVE_PLANTNARRATIVE_12]
-{SAY:sunflower_r}¿Cómo estás, Nuez? ¿Alucinada?
-
-[NARRATIVE_PLANTNARRATIVE_13]
-{SAY:wallnut}¡No estoy confundida en absoluto!
-
 [NARRATIVE_PLANTTHUNDER_INTRO_1]
 {NPC_ENTER:winnieicon}{SAY}Activa el indicador de flechas para colocar cajas de madera.
 
@@ -38764,18 +38713,9 @@ B. Viajar al pasado y colocar tus trampas
 {SAY:winnie}No puedo apreciar olores, sin embargo detecto que ese perfume es tóxico para las plantas.
 
 [NARRATIVE_RENAI_3_INTRO_3]
-{SAY:crazydave}¡Mira a esa zombi! Lleva una botella en la mano.
-
-[NARRATIVE_RENAI_3_INTRO_4]
-{SPECIAL3:crazydave}¿Será soda para acompañar unos tacos?
-
-[NARRATIVE_RENAI_3_INTRO_5]
-{SAY:winnie}Es una perfumista. Su fragancia puede paralizar y dañar nuestras plantas.
-
-[NARRATIVE_RENAI_3_INTRO_6]
 {SAY:crazydave}¡Me empiezo a asfixiar! Necesitamos una planta que deshaga todo esto.
 
-[NARRATIVE_RENAI_3_INTRO_7]
+[NARRATIVE_RENAI_3_INTRO_4]
 {SAY:winnie}{MEDIUM}Aloe puede purificar los efectos tóxicos del perfume, también cura a las plantas cercanas.
 
 [NARRATIVE_RENAI_5_INTRO_1]
@@ -38845,12 +38785,9 @@ B. Viajar al pasado y colocar tus trampas
 {EXCITED:zombossicon}¡Oh, qué espectáculo será ver vuestras plantas caer como hojas en otoño!
 
 [NARRATIVE_RENAI_INTRO_GARGANTUAR_3]
-{NPC_EXIT:zombossicon}
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Un aristócrata zombificado! ¿Será que se lleva su corona o solo sus estatuas?
 
 [NARRATIVE_RENAI_INTRO_GARGANTUAR_4]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Un aristócrata zombificado! ¿Será que se lleva su corona o solo sus estatuas?
-
-[NARRATIVE_RENAI_INTRO_GARGANTUAR_5]
 {SAY:winnie}No subestimes su nobleza, usuario Dave. Aunque parezca vanidoso, sus estatuas aplastan igual que su orgullo.
 
 [NARRATIVE_RENAI_INTRO_ZOMBOSS_1]
@@ -38980,10 +38917,8 @@ B. Viajar al pasado y colocar tus trampas
 {PLAYFUL:winnie}Recomiendo plantarla en lugares estratégicos, ya que, es vulnerable mientras ataca.
 
 [NARRATIVE_SERVER_ERROR_1]
-{NPC_ENTER:crazydaveicon}{SAY}¡Vaya, vecino! Parece que no tienes Internet, ¿te presto el mío?
-
-[NARRATIVE_SERVER_ERROR_2]
-{PLAYFUL}Nah, solo bromeaba. Verifica los ajustes de tu dispositivo y que la red sea estable.
+{NPC_ENTER:crazydaveicon}{SAY}¡Vaya, parece que no tienes Internet!
+Verifica los ajustes de tu dispositivo y que la red sea estable.
 
 [NARRATIVE_SHOWREGINSKY_INTRO_1]
 {NPC_ENTER:winnieicon}{SAY}Solo las plantas voladoras y flotantes pueden plantarse en el cielo.
@@ -39001,7 +38936,8 @@ B. Viajar al pasado y colocar tus trampas
 {SAY:crazydaveicon}¡Oh, no! ¡Eso no es bueno!
 
 [NARRATIVE_SHOWTHUNDER_INTRO_4]
-{SAY:winnieicon}Afortunadamente contamos con el apoyo de Anturio, absorbe descargas eléctricas y las libera como un ataque potenciado.
+{SAY:winnieicon}Afortunadamente contamos con el apoyo de Anturio.
+Absorbe descargas eléctricas y las libera como un ataque potenciado.
 
 [NARRATIVE_SKIPPED_TUTORIAL_1]
 {NPC_ENTER:crazydave}{PLAYFUL}Hey, con que omitiste el tutorial.
@@ -39094,10 +39030,12 @@ Dentro de poco lo verán con sus propios ojos.
 {SAY:winnieicon}Mantente alerta, Zomboss siempre vuelve con algo peor.
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_1]
-{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{EXCITED:crazydaveicon}¡Guay! ¿A qué altura estamos, Penny? ¡Todo se ve pequeñito desde aquí arriba!
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{EXCITED:crazydaveicon}¡Guay! ¿A qué altura estamos, Penny?
+¡Todo se ve pequeñito desde aquí arriba!
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_2]
-{PLAYFUL:winnieicon}Estamos a 50.000 pies sobre el nivel del mar. Esta era una base aérea durante la Tercera Guerra Mundial.
+{PLAYFUL:winnieicon}Estamos a 50.000 pies sobre el nivel del mar.
+Esta era una base aérea durante la Tercera Guerra Mundial.
 
 [NARRATIVE_SKYCITY_FIRSTLEVEL_INTRO_3]
 {SAY:crazydaveicon}¿Tercera Guerra Mundial? Recuerdo que solo hubo dos.
@@ -39233,15 +39171,6 @@ Equipado con mis mejores armas... y mis peores intenciones.
 [NARRATIVE_SKYCITY_OUTRO_ZOMBOSS_5]
 {EXCITED:crazydaveicon}Bien, ¡llegó la hora de emprender vuelo! ¡Vámonos de aquí!
 
-[NARRATIVE_SOLARSAGE_INTRO_1]
-{NPC_ENTER:winnie}Salvia solar ilumina a los zombis, y luego sueltan soles cuando salen del mapa.
-
-[NARRATIVE_SOLARTOMATO_INTRO_1]
-{NPC_ENTER:winnie}Tomate solar aturde zombis en un área de 3x3. Cada zombi aturdido te da 50 soles.
-
-[NARRATIVE_SOLARTOMATO_INTRO_2]
-{SAY:winnie}¡Úsalo para aturdir a grandes grupos de zombis!
-
 [NARRATIVE_SPECIAL_UNCHARTED_EVENT_TUTORIAL_1]
 {NPC_ENTER:researchercrazydave}{PLAYFUL:researchercrazydave}He oído que se te da bien la patineta, ¿que tal una fiesta de parkour?
 
@@ -39360,12 +39289,9 @@ Equipado con mis mejores armas... y mis peores intenciones.
 {SAY}El Zombistein capataz no tolera retrasos... ni plantas en su línea de ensamblaje.
 
 [NARRATIVE_STEAM_INTRO_GARGANTUAR_3]
-{NPC_EXIT:zombossicon}
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Ese zombi parece el jefe de una fábrica pesadillezca!
 
 [NARRATIVE_STEAM_INTRO_GARGANTUAR_4]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Ese zombi parece el jefe de una fábrica pesadillezca!
-
-[NARRATIVE_STEAM_INTRO_GARGANTUAR_5]
 {PLAYFUL:winnie}Tienes razón. Sugiero que le cortemos la jornada laboral... para siempre.
 
 [NARRATIVE_STEAM_INTRO_ZOMBOSS_1]
@@ -39378,12 +39304,9 @@ Equipado con mis mejores armas... y mis peores intenciones.
 {SAY:zombossicon}A cambio de tus esfuerzos, ¡te enseñaré el poder de la tecnología industrial!
 
 [NARRATIVE_STEAM_INTRO_ZOMBOSS_4]
-{NPC_EXIT:zombossicon}
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Es el como-se-llame zombi... ¡Lo tengo! El profesor zombi.
 
 [NARRATIVE_STEAM_INTRO_ZOMBOSS_5]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Es el como-se-llame zombi... ¡Lo tengo! El profesor zombi.
-
-[NARRATIVE_STEAM_INTRO_ZOMBOSS_6]
 {TIRED:winnie}Usuario Dave, ¿tengo que recordarte que es el Dr. Zombi?
 
 [NARRATIVE_STEAM_OUTRO_ZOMBOSS_1]
@@ -39393,21 +39316,18 @@ Equipado con mis mejores armas... y mis peores intenciones.
 {SAY:zombossicon}Sigan disfrutando de su falsa sensación de victoria... pronto verán algo novedoso. ¡MUAJAJAJA!
 
 [NARRATIVE_STEAM_OUTRO_ZOMBOSS_3]
-{NPC_EXIT:zombossicon}
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}{SHORT}Y dale con eso...
 
 [NARRATIVE_STEAM_OUTRO_ZOMBOSS_4]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}{SHORT}Y dale con eso...
-
-[NARRATIVE_STEAM_OUTRO_ZOMBOSS_5]
 {SAY:winnie}Tal vez esta vez sí está preparando algo realmente aterrador.
 
-[NARRATIVE_STEAM_OUTRO_ZOMBOSS_6]
+[NARRATIVE_STEAM_OUTRO_ZOMBOSS_5]
 {SAY:crazydave}{SHORT}¿Sabes lo que es aterrador?
 
-[NARRATIVE_STEAM_OUTRO_ZOMBOSS_7]
+[NARRATIVE_STEAM_OUTRO_ZOMBOSS_6]
 {SPECIAL3:crazydave}¡No encontrar mi taco! Llevamos años buscándolo... y aún sigue desaparecido.
 
-[NARRATIVE_STEAM_OUTRO_ZOMBOSS_8]
+[NARRATIVE_STEAM_OUTRO_ZOMBOSS_7]
 {SAY:winnie}Bien, es hora de saltar a otra época para continuar con la búsqueda.
 
 [NARRATIVE_STORE_EGYPT_COINS_1]
