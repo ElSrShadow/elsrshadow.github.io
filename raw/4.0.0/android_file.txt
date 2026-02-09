@@ -794,7 +794,7 @@ Puedes obtener atuendos raros como Bocadragón glotón: el caballo blanco.
 Venta en un gran descuento por tiempo limitado, ¡cómprala ya!
 
 [ACTIVITY_LEFT]
-Sólo queda un evento
+Termina en
 
 [ACTIVITY_LEVEL_ADS_BUTTON]
 Desafíos gratis
@@ -3564,25 +3564,28 @@ Récord
 Oleada {Number}
 
 [AREA_GROUP1]
-Casilla
+Grupo
 
 [AREA_GROUP2]
-Area de 3x3
+3x3
 
 [AREA_GROUP3]
-Area de efecto
+Grupo del alcance
 
 [AREA_GROUP4]
-Area de 1x2
+1x2
 
 [AREA_GROUP5]
-Daño individual
+Casilla
 
 [AREA_SINGLE]
-Uso único
+Zombi
 
 [ARENA_CHANGE_SPEED_BTN]
 x{SPEED}
+
+[ARENA_ENDING_BTN]
+ACEPTAR
 
 [ARENA_PLAYER_BANK_TXT_LOSE]
 Derrota
@@ -3772,7 +3775,7 @@ Plantar genera abejas (máx. 15). Al activar el artefacto, todas atacan al zombi
 Deformador cósmico
 
 [ARTIFACT_BLACKHOLE_DESCRIPTION]
-Genera agujeros negros que atraen y dañan zombis.
+Genera agujeros negros que atraen y dañan zombis
 
 [ARTIFACT_BLACKHOLE_SKILL_1]
 Nivel 1
@@ -4405,7 +4408,7 @@ Nivel 4
 Aplica descargas eléctricas a los zombis del área. Combinar cargas activa efectos:
 ^A048CF^• 2+ → PS −{MainField_1}% por 10 s^oldclr^
 ^A048CF^• 2- → aturdir por {MainField_2} s^oldclr^
-^A048CF^• +- → velocidad −{MainField_3}% por {MainField_4} s^oldclr^
+^A048CF^• +/- → vel. −{MainField_3}% por {MainField_4} s^oldclr^
 ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_6}^oldclr^
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_2]
@@ -25520,7 +25523,8 @@ Vuelve inmunes a las plantas de un área 3x3 alrededor mientras el efecto dure.
 Casia dorada atrae a los zombis cercanos y bloquea su avance. Puede volver a crecer cuando es comida.
 
 [GOLDENCASSIA_NEW_SKILL_LEVEL1_DES]
-Atrae zombis de un área 2x3 y los bloquea, renace al cabo de 15 s cuando es destruida.
+Atrae zombis de un área 2x3 y los bloquea
+^E2725B^Renacer: se activa al cabo de 15 s^oldclr^
 
 [GOLDENCASSIA_NEW_SKILL_LEVEL2_DES]
 El brote dejado puede atraer zombis por 7.5 s
@@ -25529,7 +25533,7 @@ El brote dejado puede atraer zombis por 7.5 s
 El brote dejado puede atraer zombis por 15 s
 
 [GOLDENCASSIA_NEW_SKILL_LEVEL4_DES]
-Gana un X% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
+Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 
 [GOLDENCASSIA_NEW_SKILL_LEVEL5_DES]
 Atrae a los zombis mago de su alcance y les impide lanzar hechizos.
@@ -26724,7 +26728,8 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por FranZ y ShadowVT^oldclr^
-^FFC300^Versión del parche: 1.0.0 (9/2/2026)^oldclr^
+^FF9E6B^Versión del parche: 1.0.0^oldclr^
+^87CEFA^Última actualización: 9/2/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_3_1]
 HEALTH_NOTICE_CONTENT_3
@@ -30859,7 +30864,7 @@ Loto blanco
 Flor de loto
 
 [LONGMALILY_AVATAR_PLANTFOOD_DESCRIPTION]
-El efecto libera una onda adicional que congela zombis por 4 s
+El efecto libera una onda adicional que congela zombis por 5 s
 
 [LONGMALILY_DESCRIPTION]
 {KEYWORD}Especial: {STAT}planta a Kiwimono en la misma casilla para unir fuerzas
@@ -30881,7 +30886,7 @@ Los cabezazos de ambas formas tienen un 20% de afectar zombis de un área 3x3 po
 Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
 
 [LONGMALILY_NEW_SKILL_LEVEL4_DES]
-Gana un X% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
+Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 
 [LONGMALILY_NEW_SKILL_LEVEL5_DES]
 Sus ataques evolucionan a la forma dragón, atravesando todas las filas y generando ondas de choque.
@@ -34559,10 +34564,16 @@ Los orbes del efecto aturden zombis durante 5 s
 {KEYWORD}Especial: {STAT}hace el doble de daño a zombis blindados
 {KEYWORD}Características de la planta: {STAT}planta verde
 
-{FLAVOR}Apodada como "la enredadera mágica" por sus compañeras, pero se enfada cuando la comparan con cosas que dan pesadillas.
+{FLAVOR}Apodada como "la enredadera mágica" por sus compañeras, aunque ella insiste en que lanzar electricidad tiene más de ciencia mal entendida que de hechicería.
 
 [MOTON_DESCRIPTION_HEADER]
 Vid rayo dispara un orbe eléctrico para dañar a los zombis de la línea, haciendo mayor daño a los que llevan armaduras.
+
+[MOTON_SKILL_LEVEL1]
+Nivel 1
+
+[MOTON_SKILL_LEVEL1_DES]
+Dispara orbes, hace grandes daños a zombis blindados
 
 [MOTON_NEW_SKILL_LEVEL1_DES]
 Dispara orbes, hace grandes daños a zombis blindados
@@ -52146,7 +52157,7 @@ Lanza más artículos al usar Nutrientes
 {KEYWORD}Lista de artículos:
 
 • Bocadillo: {STAT}cura a los zombis que lo coman
-{KEYWORD}• Manteca: {STAT}inmovila al zombi que la come y ralentiza a los demás
+{KEYWORD}• Manteca: {STAT}inmoviliza al zombi que la come y ralentiza a los demás
 {KEYWORD}• Yunque: {STAT}entierra al zombi golpeado en el suelo y derriba al resto
 {KEYWORD}• Bomba: {STAT}inflige daño y prende la mantequilla en llamas al explotar
 {KEYWORD}• Martillo de goma: {STAT}rebota de zombi en zombi, dañándolos y aturdiéndolos
@@ -66275,10 +66286,10 @@ Prueba táctica - II
 Prueba táctica - III
 
 [RANGE_0]
-Una fila al frente
+Fila al frente
 
 [RANGE_1]
-Toda la fila
+Fila
 
 [RANGE_2]
 1 casilla al frente
@@ -66299,16 +66310,16 @@ Toda la fila
 5x5 alrededor
 
 [RANGE_8]
-Tres líneas al frente
+3 líneas al frente
 
 [RANGE_9]
-Tres líneas delante y detrás
+3 líneas delante y detrás
 
 [RANGE_10]
-Cuatro direcciones
+4 direcciones
 
 [RANGE_11]
-Cinco direcciones
+5 direcciones
 
 [RANGE_12]
 Patrón en cruz
@@ -66377,7 +66388,7 @@ Desde la 3ra columna
 6 direcciones
 
 [RANGE_34]
-Tres filas al frente
+3 filas al frente
 
 [RANKING]
 Clasificación
@@ -80666,25 +80677,25 @@ DESCRIPCIÓN DEL EVENTO: ¡recarga hasta {NUM}元 para obtener ^FF0000^Atuendos^
 Solo una vez
 
 [STORE_PRODUCT_AVATAR_ACORN]
-Ataca a los zombis de las líneas adyacentes para infligirles daño masivo o arrojarlos fuera del patio.
+El super-torbellino golpea a los zombis de las líneas adyacentes
 
 [STORE_PRODUCT_AVATAR_ACORN_TITLE]
-Pico de ornitorrinco
+Ornitorrinco
 
 [STORE_PRODUCT_AVATAR_ACTINOSTEMMA]
-Aumenta el número de regalos disparados.
+Aumenta el número de regalos disparados
 
 [STORE_PRODUCT_AVATAR_ACTINOSTEMMA_TITLE]
 Gorro fiestero
 
 [STORE_PRODUCT_AVATAR_AEONIUM]
-Aumenta el tiempo de aturdimiento del efecto de Nutrientes.
+Aumenta el tiempo de aturdimiento del efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_AEONIUM_TITLE]
 Capa oscura
 
 [STORE_PRODUCT_AVATAR_AGAVE]
-El ataque ahora se propaga en 3 direcciones.
+La onda de choque se propaga en 3 direcciones
 
 [STORE_PRODUCT_AVATAR_AGAVE_TITLE]
 Sombrero de guerrero
@@ -80696,34 +80707,34 @@ Gana la probabilidad de disparar semillas de akee explosivas o congeladas.
 Casco
 
 [STORE_PRODUCT_AVATAR_ALARMSAGITTIFOLIA]
-El meteoro deja un nodo de energía en un área 3x3 durante 5 segundos.
+El meteoro deja un nodo de energía en un área 3x3 durante 5 s
 
 [STORE_PRODUCT_AVATAR_ALARMSAGITTIFOLIA_TITLE]
 Cinta roja
 
 [STORE_PRODUCT_AVATAR_ALOES]
-Al crearse, sus charcos curativos congelan a los zombis que los pisen.
+Al crearse, sus charcos curativos congelan a los zombis que los pisen
 
 [STORE_PRODUCT_AVATAR_ALOES_TITLE]
 Banderín de L.E.A.F
 
 [STORE_PRODUCT_AVATAR_ANIMNUTS]
-Aumenta los atributos del efecto de Nutrientes de las criaturas-planta.
+Aumenta los atributos del efecto de Nutrientes de las criaturas-planta
 
 [STORE_PRODUCT_AVATAR_ANIMNUTS_TITLE]
 Visor
 
 [STORE_PRODUCT_AVATAR_ANTHURIUM]
-Los rayos infligen daño de área en un área pequeña.
+Los rayos infligen daño por salpicadura en un área pequeña
 
 [STORE_PRODUCT_AVATAR_ANTHURIUM_TITLE]
 Binoculares
 
 [STORE_PRODUCT_AVATAR_APPLEMORTAR]
-Lanza manzanas rosadas que envenenan y ralentizan zombis.
+Lanza manzanas rosadas que envenenan y ralentizan zombis
 
 [STORE_PRODUCT_AVATAR_APPLEMORTAR_TITLE]
-Cinturón militar
+Camuflaje
 
 [STORE_PRODUCT_AVATAR_AQUAVINE]
 Dispara un remolino que derriba y aturde zombis
@@ -80732,124 +80743,124 @@ Dispara un remolino que derriba y aturde zombis
 Gafas púrpuras
 
 [STORE_PRODUCT_AVATAR_AQUAWEED]
-Invoca 3 tiburones adicionales, con la probabilidad de liberar un tiburón rojo (solo en mar).
+Invoca 3 tiburones adicionales, con la probabilidad de liberar un tiburón rojo (solo en mar)
 
 [STORE_PRODUCT_AVATAR_AQUAWEED_TITLE]
 Túnica real
 
 [STORE_PRODUCT_AVATAR_ASPARAGUS]
-Las balas del efecto de Nutrientes hacen más daño y derriban zombis.
+Las balas del efecto hacen más daño y derriban zombis
 
 [STORE_PRODUCT_AVATAR_ASPARAGUS_TITLE]
 Cinta roja
 
 [STORE_PRODUCT_AVATAR_BAMBOO]
-Ataca a 2 objetivos adicionales al usar Nutrientes.
+Ataca a 2 objetivos adicionales al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_BAMBOO_TITLE]
-Máscara de bandido
+Bandido
 
 [STORE_PRODUCT_AVATAR_BANANA]
-Al final de su efecto de Nutrientes, disparará un proyectil más grande que inflige daño masivo en un área 3x3
+Dispara un proyectil más grande al final del efecto
 
 [STORE_PRODUCT_AVATAR_BANANA_TITLE]
 Toalla
 
 [STORE_PRODUCT_AVATAR_BEANCHEMIST]
-Arroja pociones oscuras al usar Nutrientes, transformando zombis en Lanzaguisantes sombríos.
+Arroja pociones oscuras al usar Nutrientes, transformando zombis en Lanzaguisantes sombríos
 
 [STORE_PRODUCT_AVATAR_BEANCHEMIST_TITLE]
 Sombrero de flores
 
 [STORE_PRODUCT_AVATAR_BEARBERRY]
-Dispara bayas en llamas que infligen daño masivo a Zombisteins y máquinas.
+Dispara bayas en llamas que infligen daño masivo a Zombisteins y máquinas
 
 [STORE_PRODUCT_AVATAR_BEARBERRY_TITLE]
 Monóculo
 
 [STORE_PRODUCT_AVATAR_BEERCOCONUT]
-Libera un refresco helado que congela a los zombis después de derribarlos.
+Libera un refresco helado que congela a los zombis después de derribarlos
 
 [STORE_PRODUCT_AVATAR_BEERCOCONUT_TITLE]
 Gafas de playa
 
 [STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER]
-Mientras cante, hará que otros Girasoles cantantes produzcan 100 soles.
+Mientras cante, hará que otros Girasoles cantantes produzcan 100 soles
 
 [STORE_PRODUCT_AVATAR_BIRTHSUNFLOWER_TITLE]
 Peluca
 
 [STORE_PRODUCT_AVATAR_BLOOMERANG]
-Lanza búmerans más grandes y poderosos.
+Lanza búmerans más grandes y poderosos
 
 [STORE_PRODUCT_AVATAR_BLOOMERANG_TITLE]
 Sombrero elegante
 
 [STORE_PRODUCT_AVATAR_BLOOMINGHEARTS]
-Lanza proyectiles de corazón extragrandes que infligen mayor daño.
+Lanza proyectiles de corazón extragrandes que infligen mayor daño
 
 [STORE_PRODUCT_AVATAR_BLOOMINGHEARTS_TITLE]
 Bandita de flores
 
 [STORE_PRODUCT_AVATAR_BLOVER]
-Reduce el coste en soles en 25
+Coste -25
 
 [STORE_PRODUCT_AVATAR_BLOVER_TITLE]
 Gafas rosas
 
 [STORE_PRODUCT_AVATAR_BONKCHOY]
-Atrae a los zombis cercanos y, luego, los golpea. El área de efecto aumenta a 5x5
+Atrae a los zombis cercanos y, luego, los golpea. El área de efecto aumenta
 
 [STORE_PRODUCT_AVATAR_BONKCHOY_TITLE]
 Medalla de campeón
 
 [STORE_PRODUCT_AVATAR_BOOMFLOWER]
-El Petaglobo puede lanzar a los zombis hacia arriba y aturdirlos.
+El Petaglobo puede lanzar a los zombis hacia arriba y aturdirlos
 
 [STORE_PRODUCT_AVATAR_BOOMFLOWER_TITLE]
 Sombrero de fiesta
 
 [STORE_PRODUCT_AVATAR_BOOPHONEGEISHA]
-El abanico se divide en 3 partes al golpear un objetivo.
+El abanico se divide en 3 partes al golpear un objetivo
 
 [STORE_PRODUCT_AVATAR_BOOPHONEGEISHA_TITLE]
 Flores
 
 [STORE_PRODUCT_AVATAR_BOWLINGBULB]
-Lanza proyectiles con efectos de ralentización, aturdimiento y daño masivo en los zombis.
+Lanza proyectiles con efectos de ralentización, aturdimiento y daño masivo en los zombis
 
 [STORE_PRODUCT_AVATAR_BOWLINGBULB_TITLE]
 Sombreros elegantes
 
 [STORE_PRODUCT_AVATAR_BRAMBLE]
-Reduce la recarga del Paquete de Semillas.
+Recarga rápida
 
 [STORE_PRODUCT_AVATAR_BRAMBLE_TITLE]
-Antifaz de bandido
+Ladrón
 
 [STORE_PRODUCT_AVATAR_BROCCOLI]
-Arroja al primer zombi que encuentre por su línea, causando un gran daño a todo lo que se encuentre a su paso.
+Arroja al primer zombi que encuentre por su línea, causando grandes daños a su paso
 
 [STORE_PRODUCT_AVATAR_BROCCOLI_TITLE]
-Máscara de luchador
+Luchador
 
 [STORE_PRODUCT_AVATAR_BROMELBLADE]
-Aumenta el área del efecto en 1 fila.
+Aumenta el área del efecto a 4x3
 
 [STORE_PRODUCT_AVATAR_BROMELBLADE_TITLE]
 Antifaz de guerrero
 
 [STORE_PRODUCT_AVATAR_BUBBLECORAL]
-Genera más burbujas al usar Nutrientes.
+Genera más burbujas al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_BUBBLECORAL_TITLE]
 Moño con corazón
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM]
-Reduce la recarga del Paquete de semillas en un 20%
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_BUDUHBOOM_TITLE]
-Máscara boom
+Máscara
 
 [STORE_PRODUCT_AVATAR_BURDOCKBATTER]
 Los guisantes bateados por su efecto de Nutrientes se dividen en 3
@@ -80858,139 +80869,139 @@ Los guisantes bateados por su efecto de Nutrientes se dividen en 3
 Uniforme de béisbol
 
 [STORE_PRODUCT_AVATAR_BUTTERCUP]
-Los charcos de mantequilla dejados por su efecto inmovilizan a 1 zombi adicional y duran más.
+Los charcos de mantequilla dejados por su efecto inmovilizan a 1 zombi adicional y duran más
 
 [STORE_PRODUCT_AVATAR_BUTTERCUP_TITLE]
 Pastel de celebración
 
 [STORE_PRODUCT_AVATAR_BYTTNERIAMETEORHAMMER]
-Lanza dos martillos meteóricos. Uno que inflige daño masivo y otro que derriba zombis.
+Lanza dos martillos meteóricos
 
 [STORE_PRODUCT_AVATAR_BYTTNERIAMETEORHAMMER_TITLE]
 Casco de hierro
 
 [STORE_PRODUCT_AVATAR_CABBAGEPULT]
-Lanza coles electrificados que infligen mayor daño.
+Lanza coles electrificados que infligen mayor daño
 
 [STORE_PRODUCT_AVATAR_CABBAGEPULT_TITLE]
 Tiara
 
 [STORE_PRODUCT_AVATAR_CACTUS]
-Dispara un montón de espinas perforantes supercargadas.
+Dispara un montón de espinas perforantes supercargadas
 
 [STORE_PRODUCT_AVATAR_CACTUS_TITLE]
 Casco energético
 
 [STORE_PRODUCT_AVATAR_CARROTLAUNCHER]
-Lanza una bujía que inflige mayor daño al explotar, pero tiene menos dureza.
+Lanza una bujía que inflige mayor daño al explotar, pero tiene menos dureza
 
 [STORE_PRODUCT_AVATAR_CARROTLAUNCHER_TITLE]
 Bandera de Inglaterra
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER]
-Existe un 50% de probabilidad de que arroje a 1 zombi adicional.
+Existe un 50% de probabilidad de que arroje a 1 zombi adicional
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER_TITLE]
 Grimonio
 
 [STORE_PRODUCT_AVATAR_CELERYSTALKER]
-Crea 1 clon adicional.
+Crea 1 clon adicional
 
 [STORE_PRODUCT_AVATAR_CELERYSTALKER_TITLE]
 Gorros
 
 [STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII]
-Sus ataques normales ganan la posibilidad de lanzar motosierras gigantes.
+Sus ataques normales ganan la posibilidad de lanzar motosierras gigantes
 
 [STORE_PRODUCT_AVATAR_CHAINSAWBURMANNII_TITLE]
 Cinta azul
 
 [STORE_PRODUCT_AVATAR_CHARDGUARD]
-Empuja a los zombis más lejos y les inflige un daño mayor.
+Empuja a los zombis más lejos y les inflige un daño mayor
 
 [STORE_PRODUCT_AVATAR_CHARDGUARD_TITLE]
 Chaleco
 
 [STORE_PRODUCT_AVATAR_CHERRY_BOMB]
-Es probable que los zombis destruidos por ésta, produzcan 50 soles.
+Probabilidad de infectar zombis con sol
 
 [STORE_PRODUCT_AVATAR_CHERRY_BOMB_TITLE]
 Lentes y sombreros
 
 [STORE_PRODUCT_AVATAR_CHESTNUT]
-Invoca una gran castaña adicional, la cual, inflige daños grandes.
+Invoca una gran castaña adicional que hace mucho daño
 
 [STORE_PRODUCT_AVATAR_CHESTNUT_TITLE]
 Moñito rojo
 
 [STORE_PRODUCT_AVATAR_CHILIBEAN]
-Crea 1 clon adicional.
+Crea 1 clon adicional
 
 [STORE_PRODUCT_AVATAR_CHILIBEAN_TITLE]
 Pañales de bebé
 
 [STORE_PRODUCT_AVATAR_CHOMPER]
-Se prolonga la duración de su súper-eructo.
+Prolonga la duración de su súper-eructo
 
 [STORE_PRODUCT_AVATAR_CHOMPER_TITLE]
 Gorra playera
 
 [STORE_PRODUCT_AVATAR_CITRON]
-La bola gigante de plasma inflige más daño y electrocuta a los zombis adyacentes.
+La bola gigante de plasma inflige más daño y electrocuta a los zombis adyacentes
 
 [STORE_PRODUCT_AVATAR_CITRON_TITLE]
 Cartón de jugo
 
 [STORE_PRODUCT_AVATAR_CLAWGLORIOSA]
-Al usar Nutrientes, los zombis impactados por su ataque serán arrojados fuera del patio.
+Al usar Nutrientes, los zombis impactados por su ataque serán expulsados del patio
 
 [STORE_PRODUCT_AVATAR_CLAWGLORIOSA_TITLE]
 Parche pirata
 
 [STORE_PRODUCT_AVATAR_COBCANNON]
-Al final del efecto, la tusa se convierte en un misil teledirigido que daña zombis en un área mediana.
+La tusa se convierte en un misil teledirigido que daña zombis de un área mediana
 
 [STORE_PRODUCT_AVATAR_COBCANNON_TITLE]
 Boina roja
 
 [STORE_PRODUCT_AVATAR_COCONUTCANNON]
-Lanza una bala gigante, la cual, aturde zombis en un área de 5x1 cuando explota.
+Lanza una bala gigante que aturde zombis cuando explota
 
 [STORE_PRODUCT_AVATAR_COCONUTCANNON_TITLE]
 Casco de constructor
 
 [STORE_PRODUCT_AVATAR_COFFEEBEAN]
-Reduce la Recarga del Paquete de Semillas.
+Recarga rápida
 
 [STORE_PRODUCT_AVATAR_COFFEEBEAN_TITLE]
 Antenas
 
 [STORE_PRODUCT_AVATAR_COLDSNAPDRAGON]
-Es capaz de congelar a todos los zombis en pantalla.
+Congea a todos los zombis en pantalla al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_COLDSNAPDRAGON_TITLE]
 Cubo de hielo
 
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST]
-Sus flores venenosas ahora afectan a los zombis dentro de un área de 3x3.
+Las flores del efecto hacen más daño por veneno y daño por salpicadura
 
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST_TITLE]
 Lazo rojo
 
 [STORE_PRODUCT_AVATAR_COTTONYETI]
-El muñeco de nieve gigante rebota, infligiendo daño dos veces.
+El muñeco de nieve gigante rebota, infligiendo daño por 2da vez
 
 [STORE_PRODUCT_AVATAR_COTTONYETI_TITLE]
 Sombrero navideño
 
 [STORE_PRODUCT_AVATAR_CRACKER]
-La traca de petardos derriba y aturde los zombis que la pisen o los arroja fuera del patio si su salud es baja.
+La traca de petardos derriba y aturde zombis, incluso los expulsa
 
 [STORE_PRODUCT_AVATAR_CRACKER_TITLE]
 Traje rojo
 
 [STORE_PRODUCT_AVATAR_CROWNFLOWER]
-Dispara bolas de plasma, las cuales, crean cadenas de rayos para dañar a los zombis cercanos.
+Dispara bolas de plasma que crean cadenas de rayos
 
 [STORE_PRODUCT_AVATAR_CROWNFLOWER_TITLE]
 Gafas de cobre
@@ -81002,37 +81013,37 @@ Aumenta el número de zombis arrastrados al usar Nutrientes; derriba a los que n
 Cuernos infernales
 
 [STORE_PRODUCT_AVATAR_CYPRIPEDIUM]
-Al usar Nutrientes, los zombis impactados serán aturdidos durante un tiempo.
+Al usar Nutrientes, los zombis impactados serán aturdidos durante un tiempo
 
 [STORE_PRODUCT_AVATAR_CYPRIPEDIUM_TITLE]
 Sombrero de chef
 
 [STORE_PRODUCT_AVATAR_DANDELION]
-Bombardeará todas las columnas que tenga por delante.
+Bombardea todas las columnas que tenga por delante
 
 [STORE_PRODUCT_AVATAR_DANDELION_TITLE]
 Corales
 
 [STORE_PRODUCT_AVATAR_DARTICHOKE]
-Se extiende la duración del efecto de Nutrientes al triple.
+Triplica la duración del efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_DARTICHOKE_TITLE]
 Pañuelo púrpura
 
 [STORE_PRODUCT_AVATAR_DAZEYCHAIN]
-Al usar Nutrientes, sopla vientos fuertes para empujar hacia atrás a los zombis.
+Al usar Nutrientes, sopla vientos fuertes para derribar zombis
 
 [STORE_PRODUCT_AVATAR_DAZEYCHAIN_TITLE]
 Sombrilla de paja
 
 [STORE_PRODUCT_AVATAR_DENDROBIUMGUARD]
-Es capaz de recuperar toda su salud al usar Nutrientes en el modo de defensa conjunta.
+Recupera toda su salud al usar Nutrientes en el modo Defensa conjunta
 
 [STORE_PRODUCT_AVATAR_DENDROBIUMGUARD_TITLE]
-Gafas de guardia
+Guardia
 
 [STORE_PRODUCT_AVATAR_DEODARCEDAR]
-La electricidad de los rayos se propaga para infligir daño a otros zombis
+La electricidad se propaga para infligir daño a otros zombis
 
 [STORE_PRODUCT_AVATAR_DEODARCEDAR_TITLE]
 Alas y alo
@@ -81044,13 +81055,13 @@ El huevo eclosiona en un Zombistein líder que puede escupir ácido al atacar
 Corona infernal
 
 [STORE_PRODUCT_AVATAR_DOOMSHROOM]
-Todas las Petasetas del jardín crecerán una fase antes de explotar.
+Todas las Petasetas del jardín crecerán una fase antes de explotar
 
 [STORE_PRODUCT_AVATAR_DOOMSHROOM_TITLE]
 Demonio
 
 [STORE_PRODUCT_AVATAR_DOUBLESAMARA]
-Los zombis atraídos ya no serán devueltos a sus posiciones anteriores.
+Los zombis atraídos ya no serán devueltos a sus posiciones anteriores
 
 [STORE_PRODUCT_AVATAR_DOUBLESAMARA_TITLE]
 Gafas de aviación
@@ -81062,7 +81073,7 @@ Al usar Nutrientes, lanza 20 espadas adicionales hacia arriba y abajo
 Cinta dragón
 
 [STORE_PRODUCT_AVATAR_DRAFTODIL]
-Al usar Nutrientes, las balas de aire comprimido se dispersarán por 3 líneas.
+Al usar Nutrientes, las balas de aire comprimido se dispersarán por 3 líneas
 
 [STORE_PRODUCT_AVATAR_DRAFTODIL_TITLE]
 Pantuflas de conejito
@@ -81074,31 +81085,31 @@ Gana un aura sombría si no está potenciado y hace más daño al usar Nutriente
 Listones azules
 
 [STORE_PRODUCT_AVATAR_DRAGONCANE]
-Su efecto de Nutrientes inflige daño adicional.
+Su efecto de Nutrientes inflige daño adicional
 
 [STORE_PRODUCT_AVATAR_DRAGONCANE_TITLE]
-Traje de luchador
+Chaleco
 
 [STORE_PRODUCT_AVATAR_DRAGONFRUIT]
-La bola de fuego gigante deja un rastro ardiente que dura unos segundos.
+La bola de fuego gigante deja un rastro ardiente que dura unos segundos
 
 [STORE_PRODUCT_AVATAR_DRAGONFRUIT_TITLE]
 Lentes de sol
 
 [STORE_PRODUCT_AVATAR_DRAGONROAR]
-Aturde zombis con su rugido.
+Aturde zombis con su rugido
 
 [STORE_PRODUCT_AVATAR_DRAGONROAR_TITLE]
 Antenitas
 
 [STORE_PRODUCT_AVATAR_DUCKPEAR]
-Gana la probabilidad de disparar baba durante el efecto.
+Gana la probabilidad de disparar baba durante el efecto
 
 [STORE_PRODUCT_AVATAR_DUCKPEAR_TITLE]
 Coctel fresco
 
 [STORE_PRODUCT_AVATAR_DUSKLOBBER]
-Lanza 1 brote gigante adicional; los brotes aturden a los zombis dañados.
+Lanza 1 brote gigante adicional; los brotes aturden a los zombis dañados
 
 [STORE_PRODUCT_AVATAR_DUSKLOBBER_TITLE]
 Cabello glamuroso
@@ -81110,43 +81121,43 @@ La gran bola de rayos también aturde zombis
 Protectores morados
 
 [STORE_PRODUCT_AVATAR_EGGPLANTNINJA]
-Lanza estrellas electrificadas para aturdir a los zombis.
+Lanza estrellas electrificadas que aturden zombis
 
 [STORE_PRODUCT_AVATAR_EGGPLANTNINJA_TITLE]
 Shinobi de la hoja
 
 [STORE_PRODUCT_AVATAR_EGRETFLOWER]
-Los misiles del efecto de Nutrientes aturden a los zombis impactados.
+Los misiles del efecto aturden a los zombis impactados
 
 [STORE_PRODUCT_AVATAR_EGRETFLOWER_TITLE]
 Sombrero de piloto
 
 [STORE_PRODUCT_AVATAR_ELAEOCARPUS]
-Los torbellinos creados por ésta, ahora alcanzan a todos los objetivos de la línea.
+Los torbellinos creados alcanzan a todos los objetivos de la línea
 
 [STORE_PRODUCT_AVATAR_ELAEOCARPUS_TITLE]
-Sombrero de deportista
+Deportista
 
 [STORE_PRODUCT_AVATAR_ELECTRICBLUEBERRY]
-Los zombis electrocutados que hayan sobrevivido a su daño, serán reducidos y debilitados.
+Los zombis que hayan sobrevivido a su daño, serán reducidos y debilitados
 
 [STORE_PRODUCT_AVATAR_ELECTRICBLUEBERRY_TITLE]
 Bombilla
 
 [STORE_PRODUCT_AVATAR_ELECTRICCURRANT]
-Sus vayas electrificadas aturden zombis durante un segundo por cada descarga eléctrica.
+Sus vayas electrificadas aturden zombis momentáneamente
 
 [STORE_PRODUCT_AVATAR_ELECTRICCURRANT_TITLE]
 Pinzas eléctricas
 
 [STORE_PRODUCT_AVATAR_ELECTRICITEA]
-Al atacar a un objetivo, la electricidad se propagará e infligirá daño en un área de 3x3.
+Al atacar a un objetivo, la electricidad se propaga en un área 3x3
 
 [STORE_PRODUCT_AVATAR_ELECTRICITEA_TITLE]
 Sombrero vaquero
 
 [STORE_PRODUCT_AVATAR_ELECTRICPEASHOOTER]
-Gana la probabilidad de disparar 2 orbes grandes de color púrpura, los cuales, infligen mayor daño.
+Gana la probabilidad de disparar 2 orbes púrpura que hacen más daño
 
 [STORE_PRODUCT_AVATAR_ELECTRICPEASHOOTER_TITLE]
 Flecha eléctrica
@@ -81158,37 +81169,37 @@ La anguila del efecto de Nutrientes hace más daño
 Gafas azules
 
 [STORE_PRODUCT_AVATAR_ELEOCURLING]
-Se prolonga el tiempo del hielo dejado.
+Se prolonga el tiempo del hielo dejado
 
 [STORE_PRODUCT_AVATAR_ELEOCURLING_TITLE]
 Conos de helado
 
 [STORE_PRODUCT_AVATAR_EMPEA]
-Se reduce la recarga de su Paquete de semillas en un 20%.
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_EMPEA_TITLE]
 Casco azul
 
 [STORE_PRODUCT_AVATAR_ENDURIAN]
-Se reviste de una armadura de cristal, la cual, tiene mayor dureza e inflige mayor daño.
+Se reviste de una armadura de cristal, la cual, tiene mayor dureza e inflige más daño
 
 [STORE_PRODUCT_AVATAR_ENDURIAN_TITLE]
 Mawashi
 
 [STORE_PRODUCT_AVATAR_ENTS]
-Se generará una espina gigante en el área central del efecto de Nutrientes, lo que provocará un aturdimiento más prolongado en los zombis.
+Genera una espina gigante al centro que prolonga el aturdimiento en los zombis
 
 [STORE_PRODUCT_AVATAR_ENTS_TITLE]
 Bigotes místicos
 
 [STORE_PRODUCT_AVATAR_ESCAPEROOT]
-Crea 3 copias de si mismo en lugar de 2.
+Crea 1 copia adicional
 
 [STORE_PRODUCT_AVATAR_ESCAPEROOT_TITLE]
 Sombrero de excavación
 
 [STORE_PRODUCT_AVATAR_EXPLODEONUT]
-Se reviste de una armadura volcánica, la cual, le otorga más dureza y hace más daño al explotar.
+Se reviste de una armadura volcánica, la cual, le otorga más dureza y hace más daño al explotar
 
 [STORE_PRODUCT_AVATAR_EXPLODEONUT_TITLE]
 Llamas y tubos
@@ -81200,43 +81211,43 @@ Convoca un soldado adicional con una bomba más grande
 Corona celestial
 
 [STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER]
-Los petardos lanzados en el efecto de Nutrientes incendan zombis
+Los petardos lanzados en el efecto de Nutrientes incendian zombis
 
 [STORE_PRODUCT_AVATAR_FIRECRACKERFLOWER_TITLE]
 Corbata purpura
 
 [STORE_PRODUCT_AVATAR_FIREGOURD]
-Escupe una llamarada con forma de dragón, la cual, inflige más daño que la ordinaria.
+Escupe una llamarada con forma de dragón que hace más daño
 
 [STORE_PRODUCT_AVATAR_FIREGOURD_TITLE]
 Fojalle artificial
 
 [STORE_PRODUCT_AVATAR_FIREPEASHOOTER]
-Crea pilares de llamas junto a sus llamas ordinarias, para aumentar el daño infligido.
+Crea pilares de llamas para aumentar el daño infligido
 
 [STORE_PRODUCT_AVATAR_FIREPEASHOOTER_TITLE]
 Fogata
 
 [STORE_PRODUCT_AVATAR_FIRESHROOM]
-Al final de su efecto de Nutrientes, sus llamas explotarán e infligirán daño a los zombis en una casilla.
+Al final del efecto, sus llamas explotarán e infligirán daño a los zombis atrapados
 
 [STORE_PRODUCT_AVATAR_FIRESHROOM_TITLE]
 Calabaza pirómana
 
 [STORE_PRODUCT_AVATAR_FISHHOOKGRASS]
-Al usar Nutrientes, los zombis impactados por su anzuelo serán envenenados.
+Envenena a los zombis con su anzuelo cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_FISHHOOKGRASS_TITLE]
 Traje de pescador
 
 [STORE_PRODUCT_AVATAR_FLAMELADY]
-Ahora dispara bolas de fuego (de 3-4 a la vez) junto con su efecto de Nutrientes ordinario.
+Puede disparar bolas de fuego al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_FLAMELADY_TITLE]
 Reina del infierno
 
 [STORE_PRODUCT_AVATAR_FLATTENEDSHROOM]
-Crea 3 clones de sí mismo en lugar de 2.
+Crea 1 clon adicional
 
 [STORE_PRODUCT_AVATAR_FLATTENEDSHROOM_TITLE]
 Flor blanca
@@ -81248,25 +81259,25 @@ Crea clones de si misma en un área 3x3
 Parche
 
 [STORE_PRODUCT_AVATAR_FUMESHROOM]
-Atrae a los zombis en un área 2x3 frente a él.
+Atrae a los zombis en un área 2x3 frente a él cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_FUMESHROOM_TITLE]
 Gafas de nerd
 
 [STORE_PRODUCT_AVATAR_GARDENERGRASS]
-Los zombis dañados por su efecto de Nutrientes, se incendiarán y recibirán daño.
+Los zombis dañados por su efecto, se incendiarán y recibirán daño por segundo
 
 [STORE_PRODUCT_AVATAR_GARDENERGRASS_TITLE]
 Chupete azul
 
 [STORE_PRODUCT_AVATAR_GARLIC]
-El gas tóxico derriba a los zombis alcanzados.
+El gas tóxico derriba a los zombis alcanzados
 
 [STORE_PRODUCT_AVATAR_GARLIC_TITLE]
 Gorra de repartidor
 
 [STORE_PRODUCT_AVATAR_GATLINGPEA]
-Dispara guisantes de fuego y hielo junto a los ordinarios; el daño aumenta al Nvl. 5
+Puede disparar guisantes de fuego y hielo al usar Nutrientes; el daño aumenta al Nvl. 5
 
 [STORE_PRODUCT_AVATAR_GATLINGPEA_TITLE]
 Walkie talkie
@@ -81278,7 +81289,7 @@ El pentagrama inflige daño adicional y hace flotar a los zombis
 Sombrero gris
 
 [STORE_PRODUCT_AVATAR_GHOSTPEPPER]
-Inflige el doble de daño y aturde a los zombis acechados.
+Aturde a los zombis acechados cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_GHOSTPEPPER_TITLE]
 Moñito púrpura
@@ -81290,55 +81301,55 @@ Al usar Nutrientes, come snacks para recuperar más energía
 Babero
 
 [STORE_PRODUCT_AVATAR_GOLDBLOOM]
-Se reduce la recarga del paquete de semillas en un 20%.
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_GOLDBLOOM_TITLE]
 Malcom
 
 [STORE_PRODUCT_AVATAR_GOLDENCASSIA]
-Vuelve inmunes a las plantas de alrededor mientras el efecto dure.
+Vuelve inmunes a las plantas de alrededor mientras el efecto dure
 
 [STORE_PRODUCT_AVATAR_GOLDENCASSIA_TITLE]
 Arreglo floral
 
 [STORE_PRODUCT_AVATAR_GOLDLEAF]
-Se reduce la recarga de su Paquete de semillas en un 20%.
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_GOLDLEAF_TITLE]
-Cobertura de helado
+Helado
 
 [STORE_PRODUCT_AVATAR_GRAPESHOT]
-Deja un charco de mermelada que ralentiza a los zombis que lo pisan.
+Deja un charco de mermelada que ralentiza a los zombis que lo pisen
 
 [STORE_PRODUCT_AVATAR_GRAPESHOT_TITLE]
 Parasol
 
 [STORE_PRODUCT_AVATAR_GRAVEBUSTER]
-Da 50 soles tras consumir una lápida por completo.
+Da 50 soles tras consumir una lápida por completo
 
 [STORE_PRODUCT_AVATAR_GRAVEBUSTER_TITLE]
 Sombrero mexicano
 
 [STORE_PRODUCT_AVATAR_GREENTURNIP]
-Su misil explota tras llegar a la penúltima casilla del patio.
+Su misil explota tras llegar a la penúltima casilla del patio
 
 [STORE_PRODUCT_AVATAR_GREENTURNIP_TITLE]
 Casco militar
 
 [STORE_PRODUCT_AVATAR_GRIMROSE]
-Tras arrastrar al suelo a un zombi, arrastrará rápidamente a 2 adicionales.
+Tras arrastrar al suelo a un zombi, arrastrará rápidamente a 2 más
 
 [STORE_PRODUCT_AVATAR_GRIMROSE_TITLE]
-Sombrero de ala ancha
+Sombrero ancho
 
 [STORE_PRODUCT_AVATAR_GROUNDCHERRY]
-Hará que todas las plantas productoras de sol en el patio den 50 soles.
+Hará que todas las plantas productoras de sol en el patio den 50 soles
 
 [STORE_PRODUCT_AVATAR_GROUNDCHERRY_TITLE]
 Chupete de bebé
 
 [STORE_PRODUCT_AVATAR_GUACODILE]
-Los Guacadrilos más pequeños ahora regresarán en la dirección opuesta.
+Los Guacadrilos más pequeños ahora regresarán en la dirección opuesta
 
 [STORE_PRODUCT_AVATAR_GUACODILE_TITLE]
 Nachos y guacamole
@@ -81350,13 +81361,13 @@ El número de zombis arrastrados aumenta a 7; el área de ataque también aument
 Gris elegante
 
 [STORE_PRODUCT_AVATAR_GUMNUT]
-Al usar Nutrientes, inmoviliza a 8 zombis con chicle en lugar de 5.
+El globo de chicle inmoviliza a 3 zombis adicionales
 
 [STORE_PRODUCT_AVATAR_GUMNUT_TITLE]
 Peluca de payaso
 
 [STORE_PRODUCT_AVATAR_HAMMERFLOWER]
-Al usar Nutrientes, lanza 2 martillos gigantes en lugar de 1.
+Lanza 1 martillo gigante de repuesto
 
 [STORE_PRODUCT_AVATAR_HAMMERFLOWER_TITLE]
 Gafas protectoras
@@ -81368,7 +81379,7 @@ Repele a los zombis de la línea al usar Nutrientes
 Gorra y lentes
 
 [STORE_PRODUCT_AVATAR_HATMUSHROOM]
-Al usar Nutrientes, el primer zombi impactado por su sombrero, será rebobinado en el tiempo.
+El primer zombi impactado por su sombrero gigante, será rebobinado en el tiempo
 
 [STORE_PRODUCT_AVATAR_HATMUSHROOM_TITLE]
 Monóculo de oro
@@ -81380,10 +81391,10 @@ Ataca a los zombis en un rango más amplio y echa mantequilla 4 veces. Afecta zo
 Hoja punk
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER]
-Reduce la recarga del Paquetes de Semilla en un 10%.
+Recarga rápida +10%
 
 [STORE_PRODUCT_AVATAR_HEATHSEEKER_TITLE]
-Sombrero mexicano
+Sombrero
 
 [STORE_PRODUCT_AVATAR_HEAVENDATURA]
 La onda del efecto de Nutrientes también sacude zombis
@@ -81392,19 +81403,19 @@ La onda del efecto de Nutrientes también sacude zombis
 Lazo celeste
 
 [STORE_PRODUCT_AVATAR_HELICONIAGUNNER]
-Por cada 6 balas, el siguiente proyectil perforará la armadura del enemigo.
+Por cada 6 balas, el siguiente super-proyectil perforará la armadura del enemigo
 
 [STORE_PRODUCT_AVATAR_HELICONIAGUNNER_TITLE]
 Lentes amarillos
 
 [STORE_PRODUCT_AVATAR_HOCUSCROCUS]
-Dobla la duración de la niebla dejada por el efecto de Nutrientes.
+Dobla la duración de la niebla dejada por el efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_HOCUSCROCUS_TITLE]
 Sombrero mágico
 
 [STORE_PRODUCT_AVATAR_HOLLYKNIGHT]
-Lanza hojas blindadas que aturden a los zombis al contacto cada pocos segundos.
+Lanza hojas blindadas que aturden zombis al contacto cada pocos segundos
 
 [STORE_PRODUCT_AVATAR_HOLLYKNIGHT_TITLE]
 Moñito azul
@@ -81416,25 +81427,25 @@ Su efecto de Nutrientes ahora cubre dos columnas.
 Caja holográfica
 
 [STORE_PRODUCT_AVATAR_HOMINGTHISTLE]
-Lanza cardos de fuego y de hielo junto a los ordinarios.
+Puede disparar cardos de fuego y hielo al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_HOMINGTHISTLE_TITLE]
 Patito de ule
 
 [STORE_PRODUCT_AVATAR_HORSEBEAN]
-El tiempo de recuperación por cada ataque se reduce aún más.
+El tiempo de recuperación por cada ataque se reduce aún más
 
 [STORE_PRODUCT_AVATAR_HORSEBEAN_TITLE]
 Sombreros de coronel
 
 [STORE_PRODUCT_AVATAR_HOTDATE]
-Tras finalizar su efecto de Nutrientes, se volverá invencible durante 3 segundos.
+Tras finalizar su efecto de Nutrientes, se volverá invencible por 3 s
 
 [STORE_PRODUCT_AVATAR_HOTDATE_TITLE]
 Caja de chocolates
 
 [STORE_PRODUCT_AVATAR_HOTPOTATO]
-Se reduce la recarga del paquete de semillas en un 20%.
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_HOTPOTATO_TITLE]
 Queso
@@ -81446,61 +81457,61 @@ Las plantas mejoradas tienen un 50% de activar un bis (máx. 2 veces)
 Gafas locas
 
 [STORE_PRODUCT_AVATAR_HURRIKALE]
-Reduce el coste en soles en 25.
+Coste -25
 
 [STORE_PRODUCT_AVATAR_HURRIKALE_TITLE]
 Cola de zorro
 
 [STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER]
-Aumentan los efectos de mejora en las plantas, y aumentan aún más los que reciben las plantas musicales.
+Aumentan los efectos de mejora en las plantas, en especial en musicales
 
 [STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER_TITLE]
 Gafas de músico
 
 [STORE_PRODUCT_AVATAR_HYPNOSHROOM]
-El zombi que la coma, ahora se convertirá en un Zombistein hipnotizado.
+El zombi que la coma se convertirá en un Zombistein hipnotizado
 
 [STORE_PRODUCT_AVATAR_HYPNOSHROOM_TITLE]
 Gafas de sol
 
 [STORE_PRODUCT_AVATAR_ICEBURG]
-Arroja bolas de nieve al final de su efecto de Nutrientes.
+Arroja bolas de nieve al final de su efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_ICEBURG_TITLE]
 Orejeras de invierno
 
 [STORE_PRODUCT_AVATAR_ICELOTUS]
-Los charcos de agua helada dejados por su efecto de Nutrientes, son capaces de congelar a los zombis que los pisen.
+Los charcos del efecto congela a los zombis que los pisen
 
 [STORE_PRODUCT_AVATAR_ICELOTUS_TITLE]
 Bufanda amarilla
 
 [STORE_PRODUCT_AVATAR_ICESHROOM]
-Crea 3 sumideros de hielo en lugar de 2.
+Crea 1 sumidero adicional
 
 [STORE_PRODUCT_AVATAR_ICESHROOM_TITLE]
 Araña criogénica
 
 [STORE_PRODUCT_AVATAR_ICEWEED]
-Después de lanzar una sierra, lanza dos más en las fila superior e inferior.
+Después de lanzar una sierra, lanza dos más en las fila superior e inferior
 
 [STORE_PRODUCT_AVATAR_ICEWEED_TITLE]
 Gafas de esquí
 
 [STORE_PRODUCT_AVATAR_ICYCURRANT]
-Su armadura de iceberg explotará al terminar el efecto de Nutrientes, dañando a los zombis cercanos.
+Su armadura explota al final del efecto
 
 [STORE_PRODUCT_AVATAR_ICYCURRANT_TITLE]
 Chupete de bebé
 
 [STORE_PRODUCT_AVATAR_IMITATER]
-Reduce la Recarga del Paquete de Semillas de la planta imitada.
+Reduce la recarga de la planta imitada
 
 [STORE_PRODUCT_AVATAR_IMITATER_TITLE]
 Barba de Dave
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER]
-La cantidad de proyectiles lanzados en su efecto de Nutrientes se duplica; los proyectiles pueden dispersarse a otras líneas.
+Dispara más proyectiles al usar Nutrientes, estos se dispersan a otras líneas
 
 [STORE_PRODUCT_AVATAR_IMPATIENSSHOOTER_TITLE]
 Gafas rosadas
@@ -81512,13 +81523,13 @@ Convertirá a 2 zombis adicionales en zombiditos.
 Bigote
 
 [STORE_PRODUCT_AVATAR_INFERNO]
-Crea un tornado azul que hace más daño y explota, dejando una columna de fuego.
+Crea un tornado azul que hace más daño y explota, dejando una columna de fuego
 
 [STORE_PRODUCT_AVATAR_INFERNO_TITLE]
 Máscara de gas
 
 [STORE_PRODUCT_AVATAR_INTENSIVECARROT]
-Reduce el coste en soles en 25.
+Coste -25
 
 [STORE_PRODUCT_AVATAR_INTENSIVECARROT_TITLE]
 Espejo frontal
@@ -81536,7 +81547,7 @@ Los fantasmas verdes dejan caer chispas para causar daño a su alrededor
 Conde Dracalabaza
 
 [STORE_PRODUCT_AVATAR_JALAPENO]
-Reduce la recarga del Paquete de Semillas en un 20%.
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_JALAPENO_TITLE]
 Guardabosques
@@ -81548,16 +81559,16 @@ El área de excavación al usar Nutrientes se amplia
 Bufanda roja
 
 [STORE_PRODUCT_AVATAR_KELPGUARD]
-La distancia de empuje del efecto aumenta en 1 casilla.
+La distancia de empuje del efecto aumenta en 1 casilla
 
 [STORE_PRODUCT_AVATAR_KELPGUARD_TITLE]
 Doncellas del mar
 
 [STORE_PRODUCT_AVATAR_KERNELPULT]
-Lanza mantequilla en llamas, la cual, inflige más daño que la ordinaria.
+Lanza mantequilla en llamas que hace más daño
 
 [STORE_PRODUCT_AVATAR_KERNELPULT_TITLE]
-Bandita japonesa
+Bandana japonesa
 
 [STORE_PRODUCT_AVATAR_KIWIBEAST]
 Sus golpetazos ahora empujan zombis
@@ -81566,49 +81577,43 @@ Sus golpetazos ahora empujan zombis
 Trenzas
 
 [STORE_PRODUCT_AVATAR_KIWIFRUIT]
-Aplasta a los zombis dos veces y los entierra bajotierra por un tiempo.
+Aplasta a los zombis dos veces y los entierra por un tiempo
 
 [STORE_PRODUCT_AVATAR_KIWIFRUIT_TITLE]
 Rey Mono
 
 [STORE_PRODUCT_AVATAR_LANCERHOYA]
-El rango de acción de su Nutrientes es más grande, golpea el suelo para hacer daño extra al final
+El rango de acción de su efecto es más grande, golpea el suelo para hacer daño extra al final
 
 [STORE_PRODUCT_AVATAR_LANCERHOYA_TITLE]
 Parche
 
-[STORE_PRODUCT_AVATAR_LASERBEAN]
-Dispara un laser rojo, el cual, inflige más daño que el ordinario.
-
-[STORE_PRODUCT_AVATAR_LASERBEAN_TITLE]
-Capa roja
-
 [STORE_PRODUCT_AVATAR_LASER_BEAN]
-Dispara un laser rojo, el cual, inflige más daño que el ordinario.
+Dispara un laser rojo que hace más daño
 
 [STORE_PRODUCT_AVATAR_LASER_BEAN_TITLE]
 Capa roja
 
 [STORE_PRODUCT_AVATAR_LAVAGUAVA]
-Las fisuras de lava ardiente ahora son dejadas en un patrón de cruz.
+Las fisuras de lava ardiente ahora son dejadas en un patrón de cruz
 
 [STORE_PRODUCT_AVATAR_LAVAGUAVA_TITLE]
 Venda roja
 
 [STORE_PRODUCT_AVATAR_LEMON]
-La lluvia ácida afecta el agua de la Playa de la Gran Ola, provocando que inflija daño a los zombis temporalmente.
+La lluvia acidifica el agua de la Playa de la Gran Ola por un tiempo
 
 [STORE_PRODUCT_AVATAR_LEMON_TITLE]
 Anillo de natación
 
 [STORE_PRODUCT_AVATAR_LIGHTNINGREED]
-Crea una tormenta eléctrica, la cual, daña a múltiples objetivos presentes en el patio.
+Crea una tormenta que daña múltiples objetivos presentes en el patio
 
 [STORE_PRODUCT_AVATAR_LIGHTNINGREED_TITLE]
 Lámpara
 
 [STORE_PRODUCT_AVATAR_LILYPAD]
-Crea clones de si misma en un área de 3x3.
+Crea clones de si misma en un área 3x3
 
 [STORE_PRODUCT_AVATAR_LILYPAD_TITLE]
 Flor de lila
@@ -81620,13 +81625,13 @@ El efecto libera una onda adicional que congela zombis por un tiempo
 Flor de loto
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER]
-Lanza gotas de agua tóxicas junto con las normales.
+Puede disparar gotas de agua tóxicas cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER_TITLE]
 Máscara antigas
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOWER]
-Sus proyectiles ahora infligen daño en un área de 3x3.
+Sus proyectiles ahora infligen daño en un área 3x3
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOWER_TITLE]
 Cadena de oro
@@ -81638,52 +81643,52 @@ Ya no invoca zombis básicos al usar Nutrientes
 Corbatín rojo
 
 [STORE_PRODUCT_AVATAR_MAGNETSHROOM]
-Lanza los objetos metálicos atraídos a todos los zombis del patio.
+Lanza los objetos metálicos atraídos a todos los zombis del patio
 
 [STORE_PRODUCT_AVATAR_MAGNETSHROOM_TITLE]
 Capa de magneto
 
 [STORE_PRODUCT_AVATAR_MAGNIFYINGGRASS]
-Aumenta el daño que infligen los rayos.
+Aumenta el daño que infligen los rayos
 
 [STORE_PRODUCT_AVATAR_MAGNIFYINGGRASS_TITLE]
 Turbante
 
 [STORE_PRODUCT_AVATAR_MANDRAKE]
-Aumenta el daño realizado por su efecto de Nutrientes
+Aumenta el daño de su efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_MANDRAKE_TITLE]
 Gafas anaranjadas
 
 [STORE_PRODUCT_AVATAR_MANGOSTEEN]
-Cuando el campo eléctrico liberado alcance su tamaño máximo, este, infligirá daño nuevamente, provocando una explosión y dejando un campo adicional.
+El campo se contrae infligiendo daño por 2da vez, y dejando un campo más pequeño
 
 [STORE_PRODUCT_AVATAR_MANGOSTEEN_TITLE]
 Monóculo espía
 
 [STORE_PRODUCT_AVATAR_MAPLEBLADE]
-Los zombis alcanzados por su efecto de Nutrientes también son ralentizados
+Los zombis alcanzados por su efecto también son ralentizados
 
 [STORE_PRODUCT_AVATAR_MAPLEBLADE_TITLE]
 Traje negro
 
 [STORE_PRODUCT_AVATAR_MARIGOLD]
-Produce una moneda de oro adicional.
+Produce 1 moneda adicional
 
 [STORE_PRODUCT_AVATAR_MARIGOLD_TITLE]
-RGB
+Sombrero de copa
 
 [STORE_PRODUCT_AVATAR_MATCHFLOWER]
-Su efecto de Nutrientes ahora durará un segundo más.
+Su efecto dura 1 s más
 
 [STORE_PRODUCT_AVATAR_MATCHFLOWER_TITLE]
 Guantes de boxeo
 
 [STORE_PRODUCT_AVATAR_MAYBEE]
-Las abejas del efecto de Nutrientes vuelan en formación para dañar zombis por 3 casillas
+Las abejas del efecto vuelan en formación para dañar zombis
 
 [STORE_PRODUCT_AVATAR_MAYBEE_TITLE]
-Antenas de abeja
+Antenas
 
 [STORE_PRODUCT_AVATAR_MEGAGATLING]
 Dispara 120 guisantes con efectos aleatorios
@@ -81692,94 +81697,94 @@ Dispara 120 guisantes con efectos aleatorios
 Lentes rojos
 
 [STORE_PRODUCT_AVATAR_MELONPULT]
-Lanza sandías en llamas, las cuales, infligen el cuádruple de daño que las ordinarias.
+Lanza sandías en llamas que hacen más daño
 
 [STORE_PRODUCT_AVATAR_MELONPULT_TITLE]
 Gorra roja
 
 [STORE_PRODUCT_AVATAR_METEORFLOWER]
-Conjura 5 meteoros en cada columna que ruedan por la línea
+Conjura meteoros en cada columna
 
 [STORE_PRODUCT_AVATAR_METEORFLOWER_TITLE]
 Lentes estrella
 
 [STORE_PRODUCT_AVATAR_MISSILETOE]
-Lanza ráfagas de hielo gigantes, las cuales, dejan charcos de hielo en un área de 3x3 para ralentizar a los zombis que los pisen.
+Lanza ráfagas gigantes que dejan hielo en la zona de impacto
 
 [STORE_PRODUCT_AVATAR_MISSILETOE_TITLE]
 Lazo rojo
 
 [STORE_PRODUCT_AVATAR_MONOTROPA]
-La tormenta de nieve arroja carámbanos, los cuales, dañan a los zombis y los congelan ocasionalmente.
+La tormenta arroja carámbanos que dañan y pueden congelar zombis
 
 [STORE_PRODUCT_AVATAR_MONOTROPA_TITLE]
 Amuleto
 
 [STORE_PRODUCT_AVATAR_MOONFLOWER]
-Crea barreras sombrías para proteger a las plantas en un área de 3x3.
+Crea barreras sombrías que protegen plantas alrededor
 
 [STORE_PRODUCT_AVATAR_MOONFLOWER_TITLE]
 Cetro lunar
 
 [STORE_PRODUCT_AVATAR_MORNINGGLORY]
-La onda sónica producida por su efecto de Nutrientes ahora es 2 veces más grande.
+La onda sónica del efecto es el triple de grande
 
 [STORE_PRODUCT_AVATAR_MORNINGGLORY_TITLE]
 Lentes de DJ
 
 [STORE_PRODUCT_AVATAR_MOTON]
-Los orbes del efecto aturden zombis durante unos segundos.
+Los orbes del efecto aturden zombis durante unos segundos
 
 [STORE_PRODUCT_AVATAR_MOTON_TITLE]
-Atuendo X
+Bufanda
 
 [STORE_PRODUCT_AVATAR_MULBERRY]
-Lanzará una baya explosiva gigante al final de su efecto de Nutrientes ordinario, la cual, explotará en un área de 3x3.
+Lanza una baya al final del efecto, la cual explota en un área mediana
 
 [STORE_PRODUCT_AVATAR_MULBERRY_TITLE]
-Máscara de aviación
+Máscara
 
 [STORE_PRODUCT_AVATAR_NARCISSUSSHOOTER]
-Es probable que sus burbujas empujen zombis de tamaño pequeño y mediano hacia atrás.
+Es probable que las burbujas gigantes derriben zombis medianos
 
 [STORE_PRODUCT_AVATAR_NARCISSUSSHOOTER_TITLE]
 Corona
 
 [STORE_PRODUCT_AVATAR_NEKOTAIL]
-Emite un láser púrpura que inflige mayor daño y además, hace una pequeña cantidad de daño por salpicadura.
+Emite un láser púrpura que inflige más daño y hace daño por salpicadura
 
 [STORE_PRODUCT_AVATAR_NEKOTAIL_TITLE]
 Gafas púrpuras
 
 [STORE_PRODUCT_AVATAR_NIGHTCAP]
-Las estrellas regresan de vuelta dañando a los zombis en el camino.
+Las estrellas regresan de vuelta dañando a los zombis en el camino
 
 [STORE_PRODUCT_AVATAR_NIGHTCAP_TITLE]
 Capa morada
 
 [STORE_PRODUCT_AVATAR_NIGHTSHADE]
-Arroja todas sus hojas como una hoja gigante para causar más daño.
+Arroja todas sus hojas como una hoja gigante para causar más daño
 
 [STORE_PRODUCT_AVATAR_NIGHTSHADE_TITLE]
 Gafas de sol
 
 [STORE_PRODUCT_AVATAR_NUKELAUNCHER]
-Arroja 3 misiles adicionales, los cuales, impactan priorizando a los Zombis grandes.
+Arroja 3 misiles adicionales, los cuales, impactan priorizando a los zombis grandes
 
 [STORE_PRODUCT_AVATAR_NUKELAUNCHER_TITLE]
 Gafas anti-radiación
 
 [STORE_PRODUCT_AVATAR_OAKSHOOTER]
-Al usar Nutrientes, lanza flechas en llamas que infligen mayor daño.
+Arroja flechas en llamas que hacen más daño
 
 [STORE_PRODUCT_AVATAR_OAKSHOOTER_TITLE]
 Bigote
 
 [STORE_PRODUCT_AVATAR_OLIVE]
-Reduce la Recarga del Paquete de Semillas.
+Recarga rápida
 
 [STORE_PRODUCT_AVATAR_OLIVEPIT]
-Genera un pequeño torbellino que atrae zombis voladores; puede digerir a 3 zombis más al usar Nutrientes.
+Genera un torbellino que atrae zombis voladores; puede digerir a 3 zombis más al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_OLIVEPIT_TITLE]
 Flecha de neón
@@ -81800,7 +81805,7 @@ Con Nutrientes, acelera a las plantas de un área 3x3 durante 10 s
 Alga demoniaca
 
 [STORE_PRODUCT_AVATAR_PAMEGRANATE]
-Infligirá daño por salpicadura junto con daño directo al usar Nutrientes.
+Su efecto de Nutrientes también hace daño por salpicadura
 
 [STORE_PRODUCT_AVATAR_PAMEGRANATE_TITLE]
 Gorrito navideño
@@ -81812,37 +81817,37 @@ Lanza más artículos al usar Nutrientes
 Gorro rojo
 
 [STORE_PRODUCT_AVATAR_PARSNIP]
-Crea 3 versiones pequeñas de si mismo que infligen más daño y aturden a los zombis que tengan a su paso.
+Libera un minipodarrábano rojo que hace más daño y aturde zombis
 
 [STORE_PRODUCT_AVATAR_PARSNIP_TITLE]
 Orejas de gato
 
 [STORE_PRODUCT_AVATAR_PASSIONFLOWER]
-Lanza un engranaje gigante de diamante, el cual, inflige un daño mayor al ordinario y ralentiza a los zombis en un área de 3x3.
+Lanza un engranaje de diamante que hace más daño y ralentiza zombis
 
 [STORE_PRODUCT_AVATAR_PASSIONFLOWER_TITLE]
 Máscara
 
 [STORE_PRODUCT_AVATAR_PEACH]
-Regenera por completo la salud de las plantas a su alrededor.
+Regenera por completo la salud de las plantas a su alrededor
 
 [STORE_PRODUCT_AVATAR_PEACH_TITLE]
-Sombrero de enfermera
+Enfermera
 
 [STORE_PRODUCT_AVATAR_PEANUT]
-Se reviste de una armadura adicional, lo cual dobla la salud aumentada.
+Se reviste de una armadura adicional
 
 [STORE_PRODUCT_AVATAR_PEANUT_TITLE]
 Globo
 
 [STORE_PRODUCT_AVATAR_PEAPOD]
-Dispara guisantes en llamas, los cuales, infligen un daño aún más masivo.
+Dispara guisantes en llamas que hacen mucho más daño
 
 [STORE_PRODUCT_AVATAR_PEAPOD_TITLE]
-Sombreros vaqueros
+Vaquero
 
 [STORE_PRODUCT_AVATAR_PEASHOOTER]
-Dispara una ráfaga de 3 guisantes enormes.
+Dispara una ráfaga de 3 guisantes enormes
 
 [STORE_PRODUCT_AVATAR_PEASHOOTER_TITLE]
 Corona
@@ -81854,85 +81859,79 @@ Dispara guisantes de varios tipos al usar Nutrientes
 Ruedas
 
 [STORE_PRODUCT_AVATAR_PEONYCHI]
-El agujero negro atrae además a los zombis que tiene detrás.
+El agujero negro atrae además a los zombis que tiene detrás
 
 [STORE_PRODUCT_AVATAR_PEONYCHI_TITLE]
 Chaleco negro
 
 [STORE_PRODUCT_AVATAR_PEPPERPULT]
-Lanza 4 chiles explosivos en lugar de 3.
+Lanza 1 chile explosivo adicional
 
 [STORE_PRODUCT_AVATAR_PEPPERPULT_TITLE]
 Bandita rosa
 
 [STORE_PRODUCT_AVATAR_PERFUMESHROOM]
-Se reduce la recarga del paquete de semillas en un 20%.
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_PERFUMESHROOM_TITLE]
 Gorra genial
 
 [STORE_PRODUCT_AVATAR_PHATBEET]
-Sus ondas sónicas harán rebotar a los zombis, y si su salud es lo suficientemente baja, los arrojará fuera del patio.
+Sus ondas supersónicas sacuden zombis y los expulsan si tienen poca salud
 
 [STORE_PRODUCT_AVATAR_PHATBEET_TITLE]
 Lentes y sombrero
 
 [STORE_PRODUCT_AVATAR_PINEAPPLE]
-Reflejará balas por otras líneas.
+Con Nutrientes, refleja balas por las diagonales
 
 [STORE_PRODUCT_AVATAR_PINEAPPLE_TITLE]
 Máscara antigas
 
 [STORE_PRODUCT_AVATAR_PINECONE]
-Dispara bolas de fuego púrpuras, las cuales, infligen más daño junto con daño por salpicadura a los zombis.
+Dispara bolas de fuego púrpuras que hacen más daño junto a daño de área
 
 [STORE_PRODUCT_AVATAR_PINECONE_TITLE]
-Sombrero vaquero
+Vaquero
 
 [STORE_PRODUCT_AVATAR_PINKSTARFRUIT]
-Dispara estrellas rojas y azules junto a las estrellas ordinarias.
+Dispara estrellas rojas y azules al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_PINKSTARFRUIT_TITLE]
 Aureola
 
 [STORE_PRODUCT_AVATAR_PLANTAIN]
-Dispara 2 tornados pequeños que giran alrededor del grande, mejorando el daño que inflige y su velocidad.
+Dispara 2 tornados pequeños que giran alrededor del grande, mejorando el daño que inflige y su velocidad
 
 [STORE_PRODUCT_AVATAR_PLANTAIN_TITLE]
 Corona de flores
 
 [STORE_PRODUCT_AVATAR_POISONPEASHOOTER]
-El charco de veneno dejado borboteará, causando un mayor daño a los zombis que lo pisen.
+El charco de veneno borbotea y hace más daño
 
 [STORE_PRODUCT_AVATAR_POISONPEASHOOTER_TITLE]
 Casco peligroso
 
 [STORE_PRODUCT_AVATAR_POKRA]
-Los pinchos que lanza dejan una niebla tóxica que ralentiza y daña al enemigo que entre en contacto con ésta.
+Los super-pinchos dejan una niebla tóxica que hace daño y ralentiza al contacto
 
 [STORE_PRODUCT_AVATAR_POKRA_TITLE]
 Moño
 
 [STORE_PRODUCT_AVATAR_POMEGRANATEJEWELER]
-Lanza rubíes acorazonados, los cuales, tienen efectos de atracción en los zombis.
+Lanza rubíes acorazonados que atraen zombis al punto de impacto
 
 [STORE_PRODUCT_AVATAR_POMEGRANATEJEWELER_TITLE]
-Banda de comerciante
-
-[STORE_PRODUCT_AVATAR_POTATO]
-Crea 3 clones de si mismo en lugar de 2.
+Comerciante
 
 [STORE_PRODUCT_AVATAR_POTATOMINE]
-Crea 3 clones de si mismo en lugar de 2.
+Crea 1 clon adicional
 
 [STORE_PRODUCT_AVATAR_POTATOMINE_TITLE]
 Máscara azul
 
-[STORE_PRODUCT_AVATAR_POTATO_TITLE]
-Antifaz azul
-
 [STORE_PRODUCT_AVATAR_POWERLILY]
-Reduce la recarga del paquete de semillas en un 20%.
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_POWERLILY_TITLE]
 Lentes
@@ -81941,7 +81940,7 @@ Lentes
 Cambia la apariencia de las casillas potenciadoras generadas al plantarse.
 
 [STORE_PRODUCT_AVATAR_POWERPLANT_TITLE]
-Cuernos de unicornio
+Unicornio
 
 [STORE_PRODUCT_AVATAR_POWERVINE]
 Los rayos de su efecto de Nutrientes ganan un efecto perforante
@@ -81950,37 +81949,37 @@ Los rayos de su efecto de Nutrientes ganan un efecto perforante
 Gafas amarillas
 
 [STORE_PRODUCT_AVATAR_PRIMALPEASHOOTER]
-Al final del efecto de Nutrientes, escupe una bola de fuego gigante, la cual, inflige daño a los zombis de la línea e incendia todo a su paso.
+Eescupe una bola de fuego enorme que arrasa todo a su paso
 
 [STORE_PRODUCT_AVATAR_PRIMALPEASHOOTER_TITLE]
 Gorra de cazador
 
 [STORE_PRODUCT_AVATAR_PRIMALPOTATOMINE]
-Crea 3 copias de si mismo en lugar de 2.
+Crea 1 copia adicional
 
 [STORE_PRODUCT_AVATAR_PRIMALPOTATOMINE_TITLE]
 Lentes de nerd
 
 [STORE_PRODUCT_AVATAR_PRIMALRAFFLESIA]
-Escupe baba púrpura, la cual, inflige mayor daño que la baba ordinaria.
+Escupe baba púrpura que hace mucho más daño
 
 [STORE_PRODUCT_AVATAR_PRIMALRAFFLESIA_TITLE]
 Corona
 
 [STORE_PRODUCT_AVATAR_PRIMALSUNFLOWER]
-Da una moneda de oro gigante junto a un gran número de soles.
+Da 1 moneda gigante cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_PRIMALSUNFLOWER_TITLE]
 Cuernos de arce
 
 [STORE_PRODUCT_AVATAR_PRIMALWALLNUT]
-Se reviste de una armadura de oro, la cual, le otorga más dureza que la ordinaria.
+Se reviste de una armadura de oro que tiene mucha más duerza
 
 [STORE_PRODUCT_AVATAR_PRIMALWALLNUT_TITLE]
 Pantalones
 
 [STORE_PRODUCT_AVATAR_PUFFSHROOM]
-Lanza proyectiles, los cuales, infligen el doble de daño y se desplazan más rápido y lejos.
+Los proyectiles del efecto hacen más daño
 
 [STORE_PRODUCT_AVATAR_PUFFSHROOM_TITLE]
 Cuernos de toro
@@ -81989,7 +81988,7 @@ Cuernos de toro
 Obtiene una armadura más fuerte al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_PUMPKINWITCH]
-Los zombis controlados por sus calabazas mágicas ganan más salud y más poder de ataque.
+Los zombis calabaza del efecto ganan más salud y poder
 
 [STORE_PRODUCT_AVATAR_PUMPKINWITCH_TITLE]
 Vampiro
@@ -82001,13 +82000,13 @@ Vela blanca
 Prende fuego en un patrón de cruz al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_PYREVINE_TITLE]
-Sombrero de trapero
+Trapero
 
 [STORE_PRODUCT_AVATAR_RAFFLESIA]
-Lanza esporas púrpuras, las cuales, dañan a los zombis más cercanos a tu casa y los aturden.
+Dispara esporas púrpuras que aturden a los zombis cercanos
 
 [STORE_PRODUCT_AVATAR_RAFFLESIA_TITLE]
-Máscara de héroe
+Antifaz
 
 [STORE_PRODUCT_AVATAR_RAPEFLOWER]
 Lanza semillas en llama al usar Nutrientes
@@ -82016,13 +82015,13 @@ Lanza semillas en llama al usar Nutrientes
 Gafas purpuras
 
 [STORE_PRODUCT_AVATAR_REDSTINGER]
-Ataca con dos láseres perforantes en lugar de uno, lo cual, dobla el daño que causa.
+El efecto dispara un láser doble
 
 [STORE_PRODUCT_AVATAR_REDSTINGER_TITLE]
-Sombrero de Robin Hood
+Robin Hood
 
 [STORE_PRODUCT_AVATAR_REPEATER]
-Dispara guisantes de hielo y fuego, junto a los guisantes ordinarios.
+Puede disparar guisantes de hielo y fuego cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_REPEATER_TITLE]
 Casco vikingo
@@ -82034,49 +82033,49 @@ Absorbe a 3 zombis adicionales cuando usa Nutrientes
 Lentes negros
 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN]
-Aumenta la duración del efecto de Nutrientes en 1 segundo.
+Aumenta la duración del efecto de Nutrientes en 1 s
 
 [STORE_PRODUCT_AVATAR_RHUBARBARIAN_TITLE]
 Falda de hierba
 
 [STORE_PRODUCT_AVATAR_RIFLEBAMBOO]
-Sus balas ahora ralentizan durante más tiempo, infligen más daño y aturden a los zombis tras explotar.
+Sus balas ralentizan por más tiempo, hacen más daño y aturden zombis al explotar
 
 [STORE_PRODUCT_AVATAR_RIFLEBAMBOO_TITLE]
 Pañuelo rojo
 
 [STORE_PRODUCT_AVATAR_ROSESWORDMAN]
-Después de su efecto de Nutrientes ordinario, creará un símbolo con la forma de una "Z", el cual, explotará e infligirá daño en un área de 3x3.
+Al final del efecto, crea un símbolo que hace daño en un área mediana
 
 [STORE_PRODUCT_AVATAR_ROSESWORDMAN_TITLE]
 Túnica púrpura
 
 [STORE_PRODUCT_AVATAR_SAPFLING]
-Deja charcos de savia, los cuales, tienen un 100% de probabilidad de inmovilizar zombis.
+El efecto arroja charcos de savia que inmovilizan al primer zombi que los pise
 
 [STORE_PRODUCT_AVATAR_SAPFLING_TITLE]
 Bola navideña
 
 [STORE_PRODUCT_AVATAR_SARRACENIA]
-El área de su efecto de Nutrientes se amplia
+Amplia el área de su efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_SARRACENIA_TITLE]
 Joyería
 
 [STORE_PRODUCT_AVATAR_SAUCER]
-El efecto de aturdimiento causado en los zombis se prolonga.
+Prolonga el efecto de aturdimiento cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_SAUCER_TITLE]
 Platillo volador
 
 [STORE_PRODUCT_AVATAR_SCAREDYSHROOM]
-Dispara esporas perforantes al usar Nutrientes.
+Dispara esporas perforantes al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_SCAREDYSHROOM_TITLE]
 Gafas corazón
 
 [STORE_PRODUCT_AVATAR_SEADERRIS]
-Reduce la recarga del Paquete en un 20%
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_SEADERRIS_TITLE]
 Gorro de mapache
@@ -82094,58 +82093,58 @@ Aumenta el daño del efecto de Nutrientes en un 50%
 Cuernos
 
 [STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER]
-Dispara 4 proyectiles de sombra más grandes en lugar de 3.
+Dispara 1 proyectil de sombra adicional
 
 [STORE_PRODUCT_AVATAR_SHADOWPEASHOOTER_TITLE]
-Sombrero de Paja
+Sombrero
 
 [STORE_PRODUCT_AVATAR_SHADOWSHROOM]
-Ralentizará zombis junto con su efecto de Nutrientes ordinario.
+El veneno del efecto también ralentiza zombis
 
 [STORE_PRODUCT_AVATAR_SHADOWSHROOM_TITLE]
-Sombrero de gatito
+Gatito
 
 [STORE_PRODUCT_AVATAR_SHADOWVANILLA]
-Al usar Nutrientes cuando está potenciada con sus pétalos totalmente cargados, soplará un tornado, el cual, se divide en 4 más pequeños cuando impacta con un objetivo.
+Si usa Nutrientes con sus pétalos cargados, soplará un tornado que se divide en 4 más pequeños
 
 [STORE_PRODUCT_AVATAR_SHADOWVANILLA_TITLE]
 Cuernos mágicos
 
 [STORE_PRODUCT_AVATAR_SHINEVINE]
-Tiene la probabilidad de dar una moneda de oro al usar Nutrientes
+Tiene la probabilidad de dar 1 moneda al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_SHINEVINE_TITLE]
 Gafas redondas
 
 [STORE_PRODUCT_AVATAR_SHRINKINGVIOLET]
-Los zombis reducidos de tamaño serán el doble de pequeños y su velocidad también será reducida.
+Los zombis reducidos por su efecto serán el doble de pequeños y se moverán más lento
 
 [STORE_PRODUCT_AVATAR_SHRINKINGVIOLET_TITLE]
 Zapatillas rojas
 
 [STORE_PRODUCT_AVATAR_SLINGPEA]
-Gana un 50% de disparar bolas de fuego rojas y un 50% de disparar bolas de fuego azules
+Gana un 50% de disparar bolas de fuego rojas o azules al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_SLINGPEA_TITLE]
 Diseño de carreras
 
 [STORE_PRODUCT_AVATAR_SNAPDRAGON]
-Escupe fuego dentro de un área de 4x3 en lugar de una de 3x3.
+El área del efecto aumenta a 4x3
 
 [STORE_PRODUCT_AVATAR_SNAPDRAGON_TITLE]
 Casco de bombero
 
 [STORE_PRODUCT_AVATAR_SNAPPEA]
-Devora a 6 zombis en lugar de 5
+Devora a 1 zombi adicional cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_SNAPPEA_TITLE]
 Gorro de bebé
 
 [STORE_PRODUCT_AVATAR_SNOWPEA]
-Dispara una ráfaga de 3 enormes guisantes congelados.
+Dispara una ráfaga de 3 enormes guisantes congelados
 
 [STORE_PRODUCT_AVATAR_SNOWPEA_TITLE]
-Sombero invernal
+Sombrero invernal
 
 [STORE_PRODUCT_AVATAR_SPARTANBAMBOO]
 Las ondas espansivas generan ondas más poderosas
@@ -82154,73 +82153,73 @@ Las ondas espansivas generan ondas más poderosas
 Capa roja
 
 [STORE_PRODUCT_AVATAR_SPIKEROCK]
-Ahora levanta y aturde zombis con su efecto de Nutrientes.
+Ahora levanta y aturde zombis con su efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_SPIKEROCK_TITLE]
 Lentes coloridos
 
 [STORE_PRODUCT_AVATAR_SPIKEWEED]
-Ahora levanta y aturde zombis con su efecto de Nutrientes.
+Ahora levanta y aturde zombis con su efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_SPIKEWEED_TITLE]
 Lentes locos
 
 [STORE_PRODUCT_AVATAR_SPLITPEA]
-Al finalizar su efecto de Nutrientes, disparará un guisante de hielo (hacia atrás) y uno de fuego (hacia adelante).
+Dispara un guisante de hielo (hacia atrás) y uno de fuego (hacia adelante) al final del efecto
 
 [STORE_PRODUCT_AVATAR_SPLITPEA_TITLE]
 Cop y Robber
 
 [STORE_PRODUCT_AVATAR_SPORESHROOM]
-Dispara 4 esporas gigantes en lugar de 3.
+Dispara 1 espora gigante extra
 
 [STORE_PRODUCT_AVATAR_SPORESHROOM_TITLE]
 Barquito de papel
 
 [STORE_PRODUCT_AVATAR_SPRINGBEAN]
-Aturde a los zombis después de empujarlos.
+Con Nutrientes, aturde a los zombis después de empujarlos
 
 [STORE_PRODUCT_AVATAR_SPRINGBEAN_TITLE]
 Tutú rosa
 
 [STORE_PRODUCT_AVATAR_SPRINGPRINCESS]
-Los resortes disparados por su efecto de Nutrientes empujan a los zombis más lejos y les inflige mucho más daño.
+Los resortes disparados por su efecto empujan a los zombis más lejos y les inflige mucho más daño
 
 [STORE_PRODUCT_AVATAR_SPRINGPRINCESS_TITLE]
 Gafas de lectura
 
 [STORE_PRODUCT_AVATAR_SQUASH]
-Ataca a 3 objetivos en lugar de 2.
+Aplasta a 1 objetivo adicional cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_SQUASH_TITLE]
 Bandita rosa
 
 [STORE_PRODUCT_AVATAR_STALLIA]
-Envenenará zombis junto con su efecto de Nutrientes ordinario.
+También aplica veneno a los zombis cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_STALLIA_TITLE]
 Gorro nocturno
 
 [STORE_PRODUCT_AVATAR_STARFRUIT]
-Su efecto de Nutrientes dura más; es capaz de atacar a zombis de otras líneas.
+Su efecto de Nutrientes dura más; puede atacar por otras líneas
 
 [STORE_PRODUCT_AVATAR_STARFRUIT_TITLE]
-Antenitas de estrellas
+Antenitas
 
 [STORE_PRODUCT_AVATAR_STEPHANIA]
-Al usar Nutrientes, las hojas lanzadas se prenden en llamas e infligen más daño.
+Al usar Nutrientes, las hojas lanzadas se prenden en llamas e infligen más daño
 
 [STORE_PRODUCT_AVATAR_STEPHANIA_TITLE]
-Nariz de puerco
+Kurobuta
 
 [STORE_PRODUCT_AVATAR_STICKYBOMBRICE]
-Arroja arroz negro, el cual, explota después de 2,5 segundos en un área de 3x3, a la vez que derriba a los zombis que se resistan al daño.
+Cuando usa Nutreintes, arroja arroz negro que se acumula 3 veces y derriba zombis
 
 [STORE_PRODUCT_AVATAR_STICKYBOMBRICE_TITLE]
 Gafas de abuelita
 
 [STORE_PRODUCT_AVATAR_STRAWBURST]
-Cuando el fruto gigante explote, creará 3 pequeños que dañarán a los enemigos en un área de 1x3.
+El fruto gigante se divide en 3 más pequeños que hacen daño en un área menor
 
 [STORE_PRODUCT_AVATAR_STRAWBURST_TITLE]
 Fedora
@@ -82229,142 +82228,142 @@ Fedora
 Aturde a todos los zombis del mapa al usar Nutrientes.
 
 [STORE_PRODUCT_AVATAR_STREETLAMP_TITLE]
-Sombrero de hechicero
+Hechicero
 
 [STORE_PRODUCT_AVATAR_STUNION]
-Ahora aturde a los zombis en un área de 5x3; aumenta el tiempo de aturdimiento.
+El área del efecto aumenta a 5x3
 
 [STORE_PRODUCT_AVATAR_STUNION_TITLE]
 Sombrero de paja
 
 [STORE_PRODUCT_AVATAR_SUGARCANE]
-Inflige daño a los zombis atrapados por su efecto de Nutrientes.
+Inflige daño a los zombis atrapados por su efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_SUGARCANE_TITLE]
 Tonsura
 
 [STORE_PRODUCT_AVATAR_SUNBEAN]
-Su coste en soles se reduce en 25.
+Coste -25
 
 [STORE_PRODUCT_AVATAR_SUNBEAN_TITLE]
 Corona de la libertad
 
 [STORE_PRODUCT_AVATAR_SUNFLOWER]
-Produce 1 Moneda de oro y 175 soles o 2 Monedas de oro y 150 soles.
+Puede producir de 1-2 monedas al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_SUNFLOWER_TITLE]
 Gafas rojas
 
 [STORE_PRODUCT_AVATAR_SUNSHROOM]
-Produce algunas monedas junto a soles.
+Puede producir de 1-4 monedas al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_SUNSHROOM_TITLE]
 Máscara de hockey
 
 [STORE_PRODUCT_AVATAR_SWEETPOTATO]
-Se curará a si misma al usar Nutrientes.
+Recupera toda su salud cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_SWEETPOTATO_TITLE]
 Corbatín rojo
 
 [STORE_PRODUCT_AVATAR_TALLNUT]
-Se reviste de una armadura de cristal pesada, la cual, le otorga más dureza que la ordinaria.
+Se reviste de una armadura de cristal que tiene más dureza
 
 [STORE_PRODUCT_AVATAR_TALLNUT_TITLE]
 Mostacho
 
 [STORE_PRODUCT_AVATAR_TANGLEKELP]
-Succiona a 5 zombis en lugar de 4.
+Al usar Nutrientes, succiona a 1 zombi adicional
 
 [STORE_PRODUCT_AVATAR_TANGLEKELP_TITLE]
 Pañuelo rojo
 
 [STORE_PRODUCT_AVATAR_THREEPEATER]
-Su efecto de Nutrientes se extiende al doble.
+Dobla la duración de su efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_THREEPEATER_TITLE]
 Sombreros de fiesta
 
 [STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON]
-Crea 2 campos eléctricos en lugar de uno.
+Con Nutrientes, escupe 1 orbe gigante adicional
 
 [STORE_PRODUCT_AVATAR_THUNDERSNAPDRAGON_TITLE]
 Sombrero relámpago
 
 [STORE_PRODUCT_AVATAR_THYMEWARP]
-Se reduce la recarga del paquete de semillas en un 20%.
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_THYMEWARP_TITLE]
 Sombrero dorado
 
 [STORE_PRODUCT_AVATAR_TIGERSTOOL]
-El número de ataques de garra al usar Nutrientes aumenta en 2, pero el daño es ligeramente menor.
+Aumenta el número de ataques con Nutrientes en 2, el daño es ligeramente menor
 
 [STORE_PRODUCT_AVATAR_TIGERSTOOL_TITLE]
-Chaleco de Año Nuevo
+Chaleco lunar
 
 [STORE_PRODUCT_AVATAR_TOADSTOOL]
-Al final de su efecto de Nutrientes, eructará un gas, el cual, ralentiza al primer objetivo que entre en contacto con este.
+Al final del efecto, eructa un gas que ralentiza al primer objetivo alcanzado
 
 [STORE_PRODUCT_AVATAR_TOADSTOOL_TITLE]
 Sombrero púrpura
 
 [STORE_PRODUCT_AVATAR_TORCHWOOD]
-Sus llamas se volverán púrpuras, doblando aún más el daño a los guisantes que las sobrevuelen.
+Sus llamas se tornan púrpuras, aumentando aún más el daño de los guisantes
 
 [STORE_PRODUCT_AVATAR_TORCHWOOD_TITLE]
 Lentes estrellados
 
 [STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS]
-El número de semillas dispersadas al usar Nutrientes aumenta a 6
+Aumenta el número de semillas dispersadas al usar Nutrientes a 6
 
 [STORE_PRODUCT_AVATAR_TRISTERIXAPHYLLUS_TITLE]
 Parche
 
 [STORE_PRODUCT_AVATAR_TULIPTRUMPETER]
-Su efecto de Nutrientes ahora dura 5 segundos en lugar de 3 e inflige más daño.
+Su efecto de Nutrientes ahora dura 2 s más, hace más daño y recupera más salud
 
 [STORE_PRODUCT_AVATAR_TULIPTRUMPETER_TITLE]
-Sombrero de músico
+Músico
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER]
-Las hojas lanzadas se quedarán clavadas en el suelo por un tiempo, dañando a los zombis que las pisen.
+Las hojas lanzadas por el efecto se queda clavadas en el suelo, dañando a los zombis que las pisen por un tiempo
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER_TITLE]
 Pañuelo marrón
 
 [STORE_PRODUCT_AVATAR_TURKEYPULT]
-Lanza hasta 18 pavos de tofu; los pavos obtendrán una armadura de hierro, la cual, aumenta tanto su salud como su poder de ataque.
+Lanza 18 pavos de tofu con armadura de hierro, estos tienen más dureza y poder
 
 [STORE_PRODUCT_AVATAR_TURKEYPULT_TITLE]
 Visor
 
 [STORE_PRODUCT_AVATAR_TURNIP]
-Crea 2 clones de si mismo en lugar de 1.
+Crea 1 clon adicional
 
 [STORE_PRODUCT_AVATAR_TURNIP_TITLE]
-Sombrero de maestro
+Sombrero tradicional
 
 [STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE]
-La explosión libera el mismo número de estrellas de fuego y hielo que en el ataque.
+La explosión del efecto libera el mismo número de estrellas de fuego y hielo que en el ataque
 
 [STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE_TITLE]
 Cuernos astrales
 
 [STORE_PRODUCT_AVATAR_TWINSUNFLOWER]
-Produce 1 Moneda de oro y 275 soles o 2 Monedas de oro y 250 soles.
+Puede producir de 1-2 monedas al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_TWINSUNFLOWER_TITLE]
-Lentes de sol azules
+Lentes de sol
 
 [STORE_PRODUCT_AVATAR_ULTOMATO]
-Reaparecerá en su primera fase si explota en su fase amarilla o roja.
+Reaparecerá en su primera fase si explota siendo amarillo o rojo
 
 [STORE_PRODUCT_AVATAR_ULTOMATO_TITLE]
 Casco espacial
 
 [STORE_PRODUCT_AVATAR_UMBRELLALEAF]
-Puede repeler zombis grandes con su efecto de Nutrientes.
+Puede repeler zombis grandes con su efecto de Nutrientes
 
 [STORE_PRODUCT_AVATAR_UMBRELLALEAF_TITLE]
 Flores
@@ -82373,61 +82372,61 @@ Flores
 La salud aumentada tras usar Nutrientes es mucho mayor
 
 [STORE_PRODUCT_AVATAR_VAMPORCINI_TITLE]
-Atuendo de Vampiro
+Vampiro
 
 [STORE_PRODUCT_AVATAR_VANILLA]
-Sopla un tornado frío, el cual, ralentiza Zombisteins y Zombis mecanizados.
+Con Nutrientes, sopla un tornado frío que ralentiza zombis grandes
 
 [STORE_PRODUCT_AVATAR_VANILLA_TITLE]
-Máscara de aviación
+Máscara rosa
 
 [STORE_PRODUCT_AVATAR_WALLNUT]
-Se reviste de una armadura de cristal, la cual, le otorga más dureza que la ordinaria.
+Se reviste de una armadura de cristal que tiene más dureza
 
 [STORE_PRODUCT_AVATAR_WALLNUT_TITLE]
 Corbatín rojo
 
 [STORE_PRODUCT_AVATAR_WASABIWHIP]
-Al final de su efecto de Nutrientes, liberará ondas de calor, las cuales, dañan a los zombis y derriten el hielo.
+Libera calor que daña zombis y derrite el hielo al final del efecto
 
 [STORE_PRODUCT_AVATAR_WASABIWHIP_TITLE]
 Cinta azul
 
 [STORE_PRODUCT_AVATAR_WATERRABBIT]
-Reduce el daño de los zombis en un 80% por 18 segundos al usar Nutrientes
+Reduce el daño por mordida de los zombis al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_WATERRABBIT_TITLE]
 Collar puntiagudo
 
 [STORE_PRODUCT_AVATAR_WAXGOURD]
-Inflige daño masivo en un área junto a su habilidad ordinaria.
+El efecto de Nutrientes hace daño masivo en un área 
 
 [STORE_PRODUCT_AVATAR_WAXGOURD_TITLE]
 Casco rojo
 
 [STORE_PRODUCT_AVATAR_WHITEMELON]
-Inflige más daño al empujar a los zombis; es probable que los zombis empujados sean arrojados fuera del patio.
+El efecto hace más daño y puede expulsar zombis si tienen poca salud
 
 [STORE_PRODUCT_AVATAR_WHITEMELON_TITLE]
 Corbatín azul
 
 [STORE_PRODUCT_AVATAR_WINTERMELON]
-Lanza sandías congeladas llameantes, las cuales, infligen el cuádruple de daño que las ordinarias.
+Lanza sandías llameantes que hacen mucho más daño
 
 [STORE_PRODUCT_AVATAR_WINTERMELON_TITLE]
 Gorra invernal
 
 [STORE_PRODUCT_AVATAR_WINTERRAMBUTAN]
-Deja hielo al impactar, ralentizando a los zombis que lo pisen.
+Deja hielo al impactar, ralentizando a los zombis que lo pisen
 
 [STORE_PRODUCT_AVATAR_WINTERRAMBUTAN_TITLE]
 Soldado de invierno
 
 [STORE_PRODUCT_AVATAR_WINTERSWEET]
-Lanza sus flores de ciruelo ordinarias junto con flores de ciruelo rosas, las cuales, infligen más daño.
+Puede disparar flores rosas cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_WINTERSWEET_TITLE]
-Orejas de conejo
+Conejito
 
 [STORE_PRODUCT_AVATAR_WIREGELSEMIUM]
 El daño de su efecto de Nutrientes aumenta en un 50%
@@ -82436,7 +82435,7 @@ El daño de su efecto de Nutrientes aumenta en un 50%
 Gáfas láser
 
 [STORE_PRODUCT_AVATAR_WITCHHAZEL]
-Las Humosetas creadas, serán potenciadas por el efecto de Nutrientes.
+Transfiere la energía de su efecto de Nutrientes a las Humosetas creadas
 
 [STORE_PRODUCT_AVATAR_WITCHHAZEL_TITLE]
 Sombrero de hechicería
@@ -82448,7 +82447,7 @@ El número de manojos de espina aumenta en 5
 Flor madura
 
 [STORE_PRODUCT_AVATAR_XSHOT]
-Lanza nabos gigantes, los cuales, infligen el doble de daño que los ordinarios.
+Los nabos del efecto son más grandes y hacen más daño
 
 [STORE_PRODUCT_AVATAR_XSHOT_TITLE]
 Tiara
@@ -82466,7 +82465,7 @@ Los gases tóxicos del efecto de Nutrientes ralentizan zombis
 Máscara de gas
 
 [STORE_PRODUCT_AVATAR_poisonvine]
-La niebla del efecto aturde zombis.
+La niebla del efecto aturde zombis
 
 [STORE_PRODUCT_AVATAR_poisonvine_TITLE]
 Serpiente celestial
