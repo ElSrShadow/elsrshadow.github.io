@@ -1,1662 +1,6 @@
 ﻿[#OF#]
 # de #
 
-[rank_avatar_diy_59]
-Año de abundancia
-
-[RANK_AVATAR_CONTENT_CONTENT_61056]
-Para quienes participaron en la 1ra tempora del evento: Fisura temporal
-
-[RANK_AVATAR_CONTENT_TITLE_61056]
-Año de abundancia
-
-[RANK_AVATAR_CONTENT_TITLE_61504]
-Escuadrón rígido
-
-[RANK_AVATAR_CONTENT_CONTENT_61504]
-¡Llega el Escuadrón de Aventuras de Año Nuevo!
-
-[rank_avatar_diy_58]
-La ira del emperador
-
-[RANK_AVATAR_CONTENT_TITLE_61055]
-La ira del emperador
-
-[RANK_AVATAR_CONTENT_CONTENT_61055]
-Recompensa clasificatoria de la temporada 41 de Dueloz
-
-[rank_avatar_diy_102]
-Escuadrón rígido
-
-[TIMESPACE_LEVEL_NAME]
-Fisura temporal
-
-[PLAYERS_TRIP_TO_TIMESPACE]
-¡El viaje espacio-temporal de {PLAYER}!
-
-[LEAVE_MAUSOLEUM_GAME_BODY]
-¿Abandonar al desafío?
-Si abandonas este desafío, se te contará como una derrota y tendrás que reiniciar este nivel.
-
-[LEAVE_MAUSOLEUM_ENDLESS_PROGRESS]
-Nivel: {NUM}
-
-[LEAVE_MAUSOLEUM_ENDLESS_MAX_PROGRESS]
-Récord: {NUM}
-
-[OPTIONS_SKIPANIMS]
-Omitir animaciones
-
-[PLANTING_NOT_ON_TERRACOTTA]
-No puedes plantar sobre guerreros de terracota
-
-[ZOMBIE_ZOMBOSS_TEAMBOSS]
-Bestia rugiente Zombot
-
-[ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION]
-{KEYWORD}Especial: {STAT}la turbina de la boca puede atraer plantas
-{KEYWORD}Especial: {STAT}dispara fuegos artificiales en un alcance amplio
-{KEYWORD}Debilidades: {STAT}las plantas de fuego bloquean su turbina, las explosivas redirigen fuegos artificiales
-
-{FLAVOR}Parece que alguien no se tomó vacaciones este Año Nuevo...
-
-[ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION_HEADER]
-Creación festiva del Dr. Zombi, asola todo en una gran explosión.
-
-[HAYSTACK_PRODUCT_SHORT_DESC]
-Permite plantar sobre terreno fangoso
-
-[REPEATER_SKILL1_LEVEL5]
-Nivel 5
-
-[ADVICE_PLANT_HAYSTACK_ON_HAYSTACK]
-Ya hay césped ahí
-
-[HERO_CROWN]
-Corona de héroe
-
-[HERO_CROWN_DES]
-Le pertenecía a un antiguo cazador de demonios.
-
-[HERO_CROWN_BOOST_DES]
-Efectos: Daño inicial +20% (+10 % tras 3 s; dura 10 s) | Recarga rápida +12%
-
-[HERO_CROWN_BOOST_DES_1]
-Efectos: Daño inicial +30% (+15 % tras 3 s; dura 10 s) | Recarga rápida +15%
-
-[HERO_CROWN_BOOST_DES_2]
-Efectos: Daño inicial +40% (+20 % tras 3 s; dura 10 s) | Recarga rápida +18%
-
-[HERO_CROWN_BOOST_DES_3]
-Efectos: Daño inicial +50% (+25 % tras 3 s; dura 10 s) | Recarga rápida +20% | ^DB8117^Coste -25^oldclr^
-
-[HERO_CROWN_BOOST_DES_4]
-Efectos: Daño inicial +60% (+30 % tras 3 s; dura 10 s) | Recarga rápida +25% | ^DB8117^Coste -30^oldclr^
-
-[HERO_CROWN_BOOST_DES_5]
-Efectos: Daño inicial +70% (+35 % tras 3 s; dura 10 s) | Recarga rápida +30% | ^DB8117^Coste -35^oldclr^
-
-[ZOMBIE_MAUSOLEUM_BASIC]
-Zombi bing
-
-[ZOMBIE_MAUSOLEUM_BASIC_DESCRIPTION]
-Aún cree que su condena es temporal. Doce años más, según los arqueólogos. La muerte no le avisó lo contrario.
-
-[ZOMBIE_MAUSOLEUM_BASIC_DESCRIPTION_HEADER]
-Zombi básico del Imperio Qin.
-
-[ZOMBIE_MAUSOLEUM_FLAG]
-Zombi bing abanderado
-
-[ZOMBIE_MAUSOLEUM_FLAG_DESCRIPTION]
-Corta madera para armas, levanta postes como estandartes y corre como un loco hacia... tu cerebro.
-
-[ZOMBIE_MAUSOLEUM_FLAG_DESCRIPTION_HEADER]
-Su bandera anuncia la gran llegada de soldados del Imperio Qin.
-
-[ZOMBIE_MAUSOLEUM_ARMOR1]
-Bing caracuenco
-
-[ZOMBIE_MAUSOLEUM_ARMOR1_DESCRIPTION]
-Pasó de servir té en la corte a servir miedo en las calles.
-
-[ZOMBIE_MAUSOLEUM_ARMOR1_DESCRIPTION_HEADER]
-Su cuenco lo hace dos veces más resistente que el Zombi bing básico.
-
-[ZOMBIE_MAUSOLEUM_ARMOR2]
-Bing con casco
-
-[ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION]
-Los bing usan el casco de hierro para cargar agua. Nadie sabe por qué, pero claramente no es por tener más cerebro.
-
-[ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION_HEADER]
-Su casco de infantería lo hace tres veces más resistente que el Zombi bing básico.
-
-[ZOMBIE_MAUSOLEUM_GARGANTUAR]
-Zombistein jiangjun
-
-[ZOMBIE_MAUSOLEUM_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta plantas con su palo de terracota
-{KEYWORD}Especial: {STAT}lanza al Zombidito xiaowei cuando sufre daño
-
-{FLAVOR}Como principal artífice de la conquista de los seis reinos, gozaba del gran favor del emperador y se aseguró su lugar en la sucesión desde muy temprano.
-
-[ZOMBIE_MAUSOLEUM_GARGANTUAR_DESCRIPTION_HEADER]
-General del ejército Qin, con un espíritu conquistador y una fuerza descomunal.
-
-[ZOMBIE_MAUSOLEUM_IMP]
-Zombidito xiaowei
-
-[ZOMBIE_MAUSOLEUM_IMP_DESCRIPTION]
-Se ganó una posición privilegiada en el ejército, y todo gracias a la estética del palacio subterráneo. Sin dudas es muy buen arquitecto.
-
-[ZOMBIE_MAUSOLEUM_IMP_DESCRIPTION_HEADER]
-Oficial menor del ejército Qin. Es lanzado por encima de tus defensas para sortearlas.
-
-[ZOMBIE_MAUSOLEUM_VENDOR]
-Zombi tanfàn
-
-[ZOMBIE_MAUSOLEUM_VENDOR_DESCRIPTION]
-{KEYWORD}Especial: {STAT}suelta al Lechón zombi de vez en cuando
-
-{FLAVOR}Se supone que vende lechones, pero primero hay que preguntarle si ya se los comió.
-
-[ZOMBIE_MAUSOLEUM_VENDOR_DESCRIPTION_HEADER]
-Un vendedor ambulante que atraviesa trincheras con una carreta llena de lechones.
-
-[ZOMBIE_MAUSOLEUM_PIGGY]
-Lechón zombi
-
-[ZOMBIE_MAUSOLEUM_PIGGY_DESCRIPTION]
-¡Oink, oink!
-
-[ZOMBIE_MAUSOLEUM_PIGGY_DESCRIPTION_HEADER]
-Se mueve a toda velocidad una vez es liberado.
-
-[ZOMBIE_MAUSOLEUM_CAVALRY]
-Zombi qíbing
-
-[ZOMBIE_MAUSOLEUM_CAVALRY_DESCRIPTION]
-{KEYWORD}Especial: {STAT}camina trincheras a pie
-
-{FLAVOR}Había sido un simple soldado de infantería. Recibió su "caballo" como condecoración por sus victorias, es todo un veterano de guerra.
-
-[ZOMBIE_MAUSOLEUM_CAVALRY_DESCRIPTION_HEADER]
-Soldado de caballería del ejército Qin, se mece sobre su caballo de madera como todo un loco.
-
-[ZOMBIE_MAUSOLEUM_ARCHER]
-Zombi shèshou
-
-[ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION]
-Su puntería es mala y aún así fue reclutado, pero no lo culpen, es que sufre de estrabismo.
-
-[ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION_HEADER]
-Tirador del ejército Qin, apunta con su arco y flecha a la planta más cercana de su fila.
-
-[ZOMBIE_QIN_SHIELD_SEGMENT]
-Zombi dunwei
-
-[ZOMBIE_QIN_SHIELD_SEGMENT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}puede aparecer en formación de 3 o más
-
-{FLAVOR}Cuenta la leyenda que los escudos Qin podían detener flechas de ballesta, aunque resultó que las puntas eran solo hojas de col.
-
-[ZOMBIE_QIN_SHIELD_SEGMENT_DESCRIPTION_HEADER]
-Escudero del ejército Qin, su escudo le proporciona una alta defensa.
-
-[ZOMBIE_QIN_JINGKE]
-Zombi jingke
-
-[ZOMBIE_QIN_JINGKE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}se mueve a la columna más a la izquierda del patio cuando su mapa es destruido
-{KEYWORD}Debilidad: {STAT}Magneto-seta puede desarmarlo de su daga
-
-{FLAVOR}Intentó matar al emperador, ahora intenta matar plantas. No ha cambiado mucho que digamos.
-
-[ZOMBIE_QIN_JINGKE_DESCRIPTION_HEADER]
-Un sicario enviado contra el emperador Qin... y tus plantas.
-
-[ZOMBIE_QIN_TAOIST]
-Zombi fangshì
-
-[ZOMBIE_QIN_TAOIST_DESCRIPTION]
-{KEYWORD}Especial: {STAT}convierte zombis en Guerreros de terracota
-{KEYWORD}Especial: {STAT}revive a los Guerreros de terracota
-
-{FLAVOR}Siente una inexplicable afinidad por las estatuas... y los zombis lo saben.
-
-[ZOMBIE_QIN_TAOIST_DESCRIPTION_HEADER]
-Taoísta de la dinastía Qin, usa una magia extraña para moldear terracota.
-
-[ZOMBIE_ZOMBOSS_QINSHIHUANG]
-Primer Emperador Zomboss
-
-[ZOMBIE_ZOMBOSS_QINSHIHUANG_DESCRIPTION]
-^E2725B^Habilidades^oldclr^
-
-^DB8117^Invocación:^oldclr^ ^A0522D^invoca zombis, el área de invocación se expande hacia la izquierda^oldclr^
-
-^DB8117^Rugido:^oldclr^ ^A0522D^ruge para acelerar a los zombis del campo de batalla^oldclr^
-
-^DB8117^Abran paso:^oldclr^ ^A0522D^crea una trinchera y destruye plantas a su paso^oldclr^
-
-^DB8117^Expansión de dominio:^oldclr^ ^A0522D^destruye el suelo delante de él para ampliar aún más su dominio^oldclr^
-
-^DB8117^Aliento elemental:^oldclr^ ^A0522D^escupe bolas de hielo o fuego gigantes que bloquean proyectiles y aplastan plantas a su paso^oldclr^
-
-^DB8117^Formación terracota:^oldclr^ ^A0522D^invoca Generales de terracota junto a escuderos^oldclr^
-
-^DB8117^Sello de jade: ^A0522D^arroja un sello que aplasta plantas de un área 2x3, y luego, bloquea proyectiles hasta que es destruido^oldclr^
-
-^DB8117^Mandato del Cielo:^oldclr^ ^A0522D^carga un ataque letal mientras los escuderos lo protegen, derrótalo antes de que lo lance o perderás^oldclr^
-
-{FLAVOR}Unificó China, y ahora también intenta unir zombis bajo su mando. Sus guerreros deben pagarle cerebros como tributo.
-
-[ZOMBIE_ZOMBOSS_QINSHIHUANG_DESCRIPTION_HEADER]
-El primer emperador de China, señor del Palacio subterráneo.
-
-[ZOMBIE_ZOMBOSS_QINSHIHUANG_BIG_SKILL_WARNING]
-MANDATO DEL CIELO: ¡derrota al emperador ahora!
-
-[ZOMBIE_LION_DANCE]
-León bailarín
-
-[ZOMBIE_LION_DANCE_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}3 casillas al frente
-
-{FLAVOR}Se disfrazó de león porque le hace parecer más "feroz"
-
-[ZOMBIE_LION_DANCE_DESCRIPTION_HEADER]
-Escupe llamas que achicharran a las plantas cercanas.
-
-[LONGMALILY]
-Loto blanco
-
-[LONGMALILY_DESCRIPTION_HEADER]
-Loto blanco golpea al suelo de un cabezazo, creando una fisura que explota al golpear al primer zombi, y lanzando al resto por los aires.
-
-[LONGMALILY_DESCRIPTION]
-{KEYWORD}Especial: {STAT}planta a Kiwimono en la misma casilla para unir fuerzas
-{KEYWORD}Características de la planta: {STAT}planta blanca
-
-{FLAVOR}"¿Soy un dragón? ¿Un caballo? ¿O una flor?" se pregunta constantemente.
-
-[LONGMALILY_TOOLTIP]
-Da cabezazos que agrietan el suelo
-
-[LONGMALILY_SKILL_LEVEL1]
-Nivel 2
-
-[LONGMALILY_SKILL_LEVEL1_DES]
-^4DD4DB^Cabezazo estruendoso:^oldclr^ los cabezazos de ambas formas tienen la posibilidad de afectar zombis de un área mayor.
-
-[LONGMALILY_SKILL_LEVEL2]
-Nivel 3
-
-[LONGMALILY_SKILL_LEVEL2_DES]
-^A048CF^Onda de choque:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
-
-[LONGMALILY_SKILL_LEVEL5]
-Nivel 5
-
-[LONGMALILY_SKILL_LEVEL5_DES
-^DB8117^Ascenso del dragón:^oldclr^ sus ataques evolucionan a la forma dragón, atravesando todas las filas y generando ondas de choque.
-
-[STORE_PRODUCT_AVATAR_LONGMALILY]
-El efecto libera una onda adicional que congela zombis por un tiempo
-
-[LONGMALILY_NEW_SKILL_LEVEL1_DES]
-Da cabezazos que agrietan el suelo y lanzan zombis por los aires.
-^E2725B^Forma fusionada: se transforma en dragón, Kiwimono gana un 30% de daño y un 20% de velocidad^oldclr^
-
-[LONGMALILY_NEW_SKILL_LEVEL2_DES]
-Los cabezazos de ambas formas tienen un 20% de afectar zombis de un área 3x3 por 1 s
-
-[LONGMALILY_NEW_SKILL_LEVEL3_DES]
-Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
-
-[LONGMALILY_NEW_SKILL_LEVEL4_DES]
-Gana un X% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
-
-[LONGMALILY_NEW_SKILL_LEVEL5_DES]
-Sus ataques evolucionan a la forma dragón, atravesando todas las filas y generando ondas de choque.
-^E2725B^Ondas de choque: 100% probable en el primer objetivo^oldclr^
-
-[STORE_PRODUCT_AVATAR_LONGMALILY_TITLE]
-Flor de loto
-
-[LONGMALILY_AVATAR_NAME]
-Flor de loto
-
-[LONGMALILY_PLANTFOOD_DESCRIPTION]
-Asciende a la forma dragón, vuela y cae en picada, golpeando un área 3x3 y dejando una zona ralentizante.
-^E2725B^Forma fusionada: vuela con Kiwimono, lanzando un pilar que daña todos los zombi del patio^oldclr^
-
-[LONGMALILY_AVATAR_PLANTFOOD_DESCRIPTION]
-El efecto libera una onda adicional que congela zombis por 4 s
-
-[GOLDENCASSIA]
-Casia dorada
-
-[GOLDENCASSIA_DESCRIPTION_HEADER]
-Casia dorada atrae a los zombis cercanos y bloquea su avance. Puede volver a crecer cuando es comida.
-
-[GOLDENCASSIA_DESCRIPTION]
-{KEYWORD}Especial: {STAT}renace tras ser derrotada
-{KEYWORD}Características de la planta: {STAT}planta amarilla
-
-{FLAVOR}Su aroma es tan fuerte que incluso los zombis se detienen a olfatearla.
-
-[GOLDENCASSIA_TOOLTIP]
-Atrae y bloquea zombis, renace al ser destruida
-
-[GOLDENCASSIA_SKILL_LEVEL1]
-Nivel 2
-
-[GOLDENCASSIA_SKILL_LEVEL1_DES]
-^4DD4DB^Brote aromático:^oldclr^ el brote dejado puede atraer zombis por 7.5 s
-
-[GOLDENCASSIA_SKILL_LEVEL2]
-Nivel 3
-
-[GOLDENCASSIA_SKILL_LEVEL2_DES]
-^A048CF^Atracción irresistible:^oldclr^ mejora los efectos del Nvl. 2 al doble.
-
-[GOLDENCASSIA_SKILL_LEVEL5]
-Nivel 5
-
-[GOLDENCASSIA_SKILL_LEVEL5_DES]
-^DB8117^Hechizo de restricción:^oldclr^ atrae a los zombis mago de su alcance y les impide lanzar hechizos.
-
-[STORE_PRODUCT_AVATAR_GOLDENCASSIA]
-Vuelve inmunes a las plantas de alrededor mientras el efecto dure.
-
-[GOLDENCASSIA_NEW_SKILL_LEVEL1_DES]
-Atrae zombis de un área 2x3 y los bloquea, renace al cabo de 15 s cuando es destruida.
-
-[GOLDENCASSIA_NEW_SKILL_LEVEL2_DES]
-El brote dejado puede atraer zombis por 7.5 s
-
-[GOLDENCASSIA_NEW_SKILL_LEVEL3_DES]
-El brote dejado puede atraer zombis por 15 s
-
-[GOLDENCASSIA_NEW_SKILL_LEVEL4_DES]
-Gana un X% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
-
-[GOLDENCASSIA_NEW_SKILL_LEVEL5_DES]
-Atrae a los zombis mago de su alcance y les impide lanzar hechizos.
-
-[STORE_PRODUCT_AVATAR_GOLDENCASSIA_TITLE]
-Arreglo floral
-
-[GOLDENCASSIA_AVATAR_NAME]
-Arreglo floral
-
-[GOLDENCASSIA_PLANTFOOD_DESCRIPTION]
-Amplia su área de efecto durante 6 segundos
-
-[GOLDENCASSIA_AVATAR_PLANTFOOD_DESCRIPTION]
-Vuelve inmunes a las plantas de un área 3x3 alrededor mientras el efecto dure.
-
-[MOTON]
-Vid rayo
-
-[MOTON_DESCRIPTION_HEADER]
-Vid rayo dispara un orbe eléctrico para dañar a los zombis de la línea, haciendo mayor daño a los que llevan armaduras.
-
-[MOTON_DESCRIPTION]
-{KEYWORD}Especial: {STAT}hace el doble de daño a zombis blindados
-{KEYWORD}Características de la planta: {STAT}planta verde
-
-{FLAVOR}Apodada como "la enredadera mágica" por sus compañeras, pero se enfada cuando la comparan con cosas que dan pesadillas.
-
-[MOTON_TOOLTIP]
-Dispara orbes, hace grandes daños a zombis blindados
-
-[STORE_PRODUCT_AVATAR_MOTON]
-Los orbes del efecto aturden zombis durante unos segundos.
-
-[STORE_PRODUCT_AVATAR_MOTON_TITLE]
-Atuendo X
-
-[MOTON_AVATAR_PLANTFOOD_DESCRIPTION]
-Los orbes del efecto aturden zombis durante 5 s
-
-[MOTON_NEW_SKILL_LEVEL1_DES]
-Dispara orbes, hace grandes daños a zombis blindados
-^E2725B^Daño a armaduras: x2^oldclr^
-
-[MEGAGATLING_KILL_TIPS]
-Zombis eliminados: {NUM}
-
-[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_27]
-Paquete del león
-
-[PLANTING_ARTIFACT_LIONDANCE_NOT_ON_THIS]
-No puedes usar el Decreto de león ahí
-
-[UNCHARTED_WORLD_RESET_HARD_MODE]
-¿Deseas resetear el progreso de este nivel?
-
-[UNCHARTED_DANGERROOM_OPEN]
-¿Deseas ir a la Zona de infinito?
-
-[SPACETIMETEAR_SETTLEMENT]
-Sobre el desafío
-
-[SPACETIMETEAR_PERSONAL_SETTLEMENT]
-Daño en solo
-
-[SPACETIMETEAR_TEAM_SETTLEMENT]
-Daño grupal
-
-[SPACETIMETEAR_CURRENT_RANK]
-Clasificación
-
-[SPACETIMETEAR_WAIT_TEAMMATE]
-Esperando compañeros...
-
-[SPACETIMETEAR_WAIT_TEAMMATE_LOSTNET]
-Tu compañero perdió la conexión, saliendo...
-
-[NARRATIVE_MAUSOLEUM_1_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Wow, qué lugar tan majestuso! ¿Dónde estamos exactamente?
-
-[NARRATIVE_MAUSOLEUM_1_INTRO_2]
-{SAY:winnie}Estamos en el Mausoleo de Qin Shi Huang, también conocido como el Palacio subterráneo.
-
-[NARRATIVE_MAUSOLEUM_1_INTRO_3]
-{SAY:crazydave}No sé quién es ese tal Qin, pero se nota que tenía sus influencias.
-
-[NARRATIVE_MAUSOLEUM_1_INTRO_4]
-{SAY:winnie}Así es, fue el primer emperador de China.
-
-[NARRATIVE_MAUSOLEUM_1_INTRO_5]
-{PLAYFUL:crazydave}Por cierto... ¿sabes si hay tacos por aquí?
-
-[NARRATIVE_MAUSOLEUM_1_INTRO_6]
-{TIRED:winnie}En esta época todavía no se había descubierto el maíz, usuario Dave.
-
-[NARRATIVE_MAUSOLEUM_1_INTRO_7]
-{SPECIAL12:crazydave}¡TACOS!
-
-[NARRATIVE_MAUSOLEUM_2_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Estos túneles se ven sospechosos... demasiado sospechosos.
-
-[NARRATIVE_MAUSOLEUM_2_INTRO_2]
-{SAY:winnie}En realidad son trincheras, su terreno fangoso impiden el plantado.
-
-[NARRATIVE_MAUSOLEUM_2_INTRO_3]
-{SAY:winnie}Ten cuidado: los zombis pueden caminar por ellas sin problema.
-
-[NARRATIVE_MAUSOLEUM_3_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Trincheras y más trincheras... esto empieza a ser personal.
-
-[NARRATIVE_MAUSOLEUM_3_INTRO_2]
-{PLAYFUL:winnie}Tenemos césped especial. Plántalo ahí y podrás colocar plantas encima.
-
-[NARRATIVE_MAUSOLEUM_5_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}¡Precaución! He detectado tiradores enemigos en la retaguardia.
-
-[NARRATIVE_MAUSOLEUM_5_INTRO_2]
-{SPECIAL9:crazydave}¿Tiradores? ¡Nuestras cabezas están en peligro! ¿Qué hacemos?
-
-[NARRATIVE_MAUSOLEUM_5_INTRO_3]
-{SAY:winnie}Plantemos a Zanahortillería para atacar a los zombis más atrás de la fila.
-
-[NARRATIVE_MAUSOLEUM_7_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Mira esas estatuas! ¡Tienen pinta de que se mueven cuando no las miras!
-
-[NARRATIVE_MAUSOLEUM_7_INTRO_2]
-{SAY:winnie}Son Guerreros de terracota, una de las grandes maravillas del mundo antiguo.
-
-[NARRATIVE_MAUSOLEUM_7_INTRO_3]
-{SAY:winnie}Pero algo no encaja. Estas estatuas están imbuidas de una magia anómala.
-
-[NARRATIVE_MAUSOLEUM_7_INTRO_4]
-{EXCITED:crazydave}¿Magia? ¿Algo como convertir plantas en ovejas?
-
-[NARRATIVE_MAUSOLEUM_7_INTRO_5]
-{SAY:winnie}Peor. Pueden despertar como zombis auténticos. Usa a Vid rayo antes de que eso ocurra.
-
-[NARRATIVE_MAUSOLEUM_10_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Una poderosa aura emana de esta cámara.
-
-[NARRATIVE_MAUSOLEUM_10_INTRO_2]
-{SAY:winnie}Se trata del mismísimo emperador Qin. Él dirige todo este ejército desde las sombras.
-
-[NARRATIVE_MAUSOLEUM_10_INTRO_3]
-{EXCITED:crazydave}¡Bah! ¡Mi Mega Guisantralladora nunca pierde!
-
-[NARRATIVE_MAUSOLEUM_10_INTRO_4]
-{TIRED:winnie}...
-
-[NARRATIVE_MAUSOLEUM_10_INTRO_5]
-{SAY:crazydave}Vale... es demasiado tarde para huir, ¿cierto?
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MEGAGATLING_2]
-Viajero
-
-[NEW_AVATAR_DESCRIPTION_MEGAGATLING_2]
-Coste -150
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_4]
-Dulce pastel
-
-[NEW_AVATAR_DESCRIPTION_BIRTHSUNFLOWER_4]
-Aumenta los efectos del canto potenciador en un 10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_TWINSUNFLOWER_3]
-Estrella púrpura
-
-[NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_3]
-Efectos visuales solamente.
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_4]
-Prosperidad
-
-[NEW_AVATAR_DESCRIPTION_ALOES_4]
-Aumenta los efectos de mejora en las plantas en un 20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_5]
-Prosperidad copiosa
-
-[NEW_AVATAR_DESCRIPTION_ALOES_5]
-Efectos visuales solamente.
-
-[NEW_AVATAR_SHORT_DESCRIPTION_SUNSHROOM_2]
-Orejas de conejo
-
-[NEW_AVATAR_DESCRIPTION_SUNSHROOM_2]
-Vel. de producción +20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ANIMNUTS_2]
-Hydra
-
-[NEW_AVATAR_DESCRIPTION_ANIMNUTS_2]
-Coste -25
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ICYCURRANT_1]
-Gafas
-
-[NEW_AVATAR_DESCRIPTION_ICYCURRANT_1]
-Prolonga la duración de la congelación en 1 s
-
-[NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_3]
-Arquero
-
-[NEW_AVATAR_DESCRIPTION_REPEATER_3]
-Aumenta el daño y velocidad de ataque en un 5%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_PEONYCHI_1]
-Traje de combate
-
-[NEW_AVATAR_DESCRIPTION_PEONYCHI_1]
-Salud +10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_2]
-Velo
-
-[NEW_AVATAR_DESCRIPTION_WINTERSWEET_2]
-Daño +20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_DANDELION_1]
-Arco
-
-[NEW_AVATAR_DESCRIPTION_DANDELION_1]
-Vel. de ataque +10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_POKRA_2]
-Atuendo invernal
-
-[NEW_AVATAR_DESCRIPTION_POKRA_2]
-Daño venenoso +25%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_DOOMSHROOM_1]
-Dr. Doom
-
-[NEW_AVATAR_DESCRIPTION_DOOMSHROOM_1]
-Recarga rápida +10%
-
-[TEAM_BOSS_MVP_TEXT]
-Estelar
-
-[TEAM_BOSS_DAMAGE_INFO_TEXT]
-Daño al jefe: ^ffff00^{VALUE}^oldclr^
-
-[TEAM_BOSS_CHALLENGE_INFO_TEXT]
-Desafíos res.: ^ffff00^{VALUE}/{MAX_VALUE}^oldclr^
-
-[TEAM_BOSS_HEALTH_INFO_TEXT]
-Salud del jefe: {VALUE}
-
-[TEAM_BOSS_SKILL_TITLE_TEXT]
-Habilidades
-
-[TEAM_BOSS_SKILL_DES_0]
-^DB8117^Invocación^oldclr^
-Ruge para activar un satélite, el cual envía zombis a la tierra.
-
-[TEAM_BOSS_SKILL_DES_1]
-^DB8117^Fuegos artificiales^oldclr^
-Lanza dos proyectiles que detonan tras 4 s, eliminando plantas de un área 3x3
-
-[TEAM_BOSS_SKILL_DES_2]
-^DB8117^Apetito voraz^oldclr^
-Absorbe y devora a 3 filas enteras de plantas.
-
-[TEAM_BOSS_SKILL_DES_3]
-^DB8117^Ignición^oldclr^
-Mejora sus habilidades e invoca un zombi poderoso cada 4 s
-
-[TEAM_BOSS_HEALTH_PERCENT_TEXT]
-100%
-
-[TEAM_BOSS_PLAY_MODE_BTN_FIGHT]
-LUCHAR
-
-[TEAM_BOSS_PLAY_MODE_BTN_SUPPORT]
-APOYO
-
-[TEAM_BOSS_PLAY_MODE_INFO_TITLE]
-Las puntuaciones individuales no cuentan para clasificatoria.
-Jugar en equipo consume intentos de desafío.
-
-[TEAM_BOSS_PLAY_MODE_INFO_TEXT]
-Info
-
-[TEAM_BOSS_OVERVIEW_TEXT]
-1. Forma tu equipo e inflige daño a los jefes, haz mucho daño para ganar recompensas.
-2. Cada jugador puede armar una formación de 6 plantas, la 7ma planta es compartida entre el escuadrón.
-3. Completa partidas de apoyo para obtener recompensas al alcanzar cierto progreso.
-
-[TEAM_BOSS_OVERVIEW_TITLE]
-¿CÓMO JUGAR?
-
-[TEAM_BOSS_PLAY_MODE_TITLE]
-Selección de modo
-
-[TEAM_BOSS_PLAY_MAIN_BTN_MATCH_PLAY]
-EMPAREJAR
-
-[TEAM_BOSS_PLAY_MAIN_BTN_FREE_PLAY]
-EQUIPO
-
-[TEAM_BOSS_PLAY_MAIN_TITLE]
-Elegir un equipo
-
-[ARTIFACT_LIONDANCE]
-Decreto del león
-
-[ARTIFACT_LIONDANCE_DESCRIPTION]
-Invoca Leones bailarines a tu servicio
-
-[ARTIFACT_LIONDANCE_SKILL_1]
-Nivel 1
-
-[ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_1]
-Invoca a un león bailarín que salta a un área 3x3 donde haya más zombis. Les quita un {MainField_2}% de su salud máx, o los derrota si tienen menos de un {MainField_3}% de salud, y derriba al resto. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_5}^oldclr^
-
-[ARTIFACT_LIONDANCE_SKILL_2]
-Nivel 2
-
-[ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_2]
-^98FB98^Efecto pasivo:^oldclr^ aumenta el daño y la defensa de las plantas incineradoras en un {PassiveField1_1}%
-
-[ARTIFACT_LIONDANCE_SKILL_3]
-Nivel 3
-
-[ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_3]
-^98FB98^Efecto pasivo:^oldclr^ cada {PassiveField2_1} s, aparece un pequeño león que prioriza la casilla con más zombis. Les quita un {PassiveField2_3} % de su salud máx, o los derrota si tienen menos de un {PassiveField2_4} % de salud.
-
-[ARTIFACT_LIONDANCE_SKILL_4]
-Nivel 4
-
-[ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_4]
-^98FB98^Efecto activo:^oldclr^ ruge para derribar a los zombis cercanos 4 casillas (priorizando a los más grandes). El salto letal prioriza a los 4 zombis con menor salud.
-
-[PVZ2_MAUSOLEUM_MODE_SHOP_BUY_NORMAL_CONFIRM]
-¿Deseas comprar esto por {NUMS} Monedas de cobre?
-
-[PVZ2_MAUSOLEUM_MODE_SHOP_BUY_HARD_CONFIRM]
-¿Deseas comprar esto por {NUMS} Piezas de jade?
-
-[SUMMER_MEMORIES_HEAD_ID_25811]
-Suerte a la puerta
-
-[SUMMER_MEMORIES_HEAD_DES_ID_25811]
-A los jugadores que viajaron a la Dimensión del Recuerdo en la temporada 29
-
-[UNCHARTED_MAUSOLEUM_ID_25809]
-Pirmer conquistador
-
-[UNCHARTED_MAUSOLEUM_DES_ID_25809]
-A quienes reunieron todas las Estrellas en Tierras ocultas: Mausoleo de Qin
-
-[NUMBERLOGINS_HEAD_ID_25812]
-Diamante rosa
-
-[NUMBERLOGINS_HEAD_DES_ID_25812]
-A quienes jugaron por 1314 días seguidos
-
-[NUMBERLOGINS_HEAD_ID_25813]
-Cetro de jade
-
-[NUMBERLOGINS_HEAD_DES_ID_25813]
-A quienes jugaron por 1666 días seguidos
-
-[LEVEL_EDITOR_HEAD_ID_25815]
-Aspectos destacados
-
-[LEVEL_EDITOR_HEAD_DES_ID_25815]
-Las plantas de Nivel 5 son tu mayor fortaleza.
-
-[LEVEL_EDITOR_HEAD_ID_25814]
-Paisaje de la fortuna
-
-[LEVEL_EDITOR_HEAD_DES_ID_25814]
-Obtuviste esto en la 2da temporada del evento: Personalización colorida
-
-[NARRATIVE_PVZ1_S29_1_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Y otro año que llega a su fin... ¡Feliz Año Nuevo, Penny!
-
-[NARRATIVE_PVZ1_S29_1_H_INTRO_2]
-{SAY:winnie}No celebres todavía. Detecto una presencia hostil que intenta arruinar nuestro festival.
-
-[NARRATIVE_PVZ1_S29_1_H_INTRO_3]
-{SAY:crazydave}¡Lo veo! ¡Ese cascanueces gigante viene directo hacia nosotros! ¡Lo detendré!
-
-[NARRATIVE_PVZ1_S29_2_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Nuestra fiesta de Año Nuevo se está haciendo pedazos. Literalmente.
-
-[NARRATIVE_PVZ1_S29_2_H_INTRO_2]
-{SAY:winnie}No debería haber más anomalías en esta realidad... salvo el meteorito que se dirige hacia nosotros.
-
-[NARRATIVE_PVZ1_S29_2_H_INTRO_3]
-{SAY:winnie}Debemos regresar a nuestra época en cuanto antes.
-
-[NARRATIVE_PVZ1_S29_3_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Los zombis sacaron sus disfraces de Halloween... aunque ya no es Halloween.
-
-[NARRATIVE_PVZ1_S29_3_H_INTRO_2]
-{SAY:winnie}Alerta: intrusos detectados en el espacio aéreo.
-
-[NARRATIVE_PVZ1_S29_3_H_INTRO_3]
-{PLAYFUL:winnie}¡Escuadrón aéreo a la acción! Objetivo: destruir todo lo que vuele, ya sean cuervos o zombis.
-
-[NARRATIVE_PVZ1_S29_4_H_INTRO_1]
-{NPC_ENTER:zombossicon}{PLAYFUL:zombossicon}Veamos quién manda en esta carrera por los cielos.
-
-[NARRATIVE_PVZ1_S29_4_H_INTRO_2]
-{EXCITED:zombossicon}¡Mis zombis voladores de élite te darán caza sin descanso! ¡MUAJAJAJAJA!
-
-[NARRATIVE_PVZ1_S29_4_H_INTRO_3]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Quizás no podamos quedarnos aquí por más tiempo.
-
-[NARRATIVE_PVZ1_S29_4_H_INTRO_4]
-{SAY:crazydave}Sip. Totalmente de acuerdo.
-
-[NARRATIVE_PVZ1_S29_5_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Los zombis se están amontonando. Si siguen así, dejarán el patio patas arriba.
-
-[NARRATIVE_PVZ1_S29_5_H_INTRO_2]
-{SAY:crazydave}¡No si los atrapo primero!
-
-[NARRATIVE_PVZ1_S29_6_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Los zombis nos han invitado a una batalla amistosa!
-
-[NARRATIVE_PVZ1_S29_6_H_INTRO_2]
-{SAY:winnie}Si por "batalla amistosa" te refieres a comer cerebros, sí, estás en lo correcto.
-
-[NARRATIVE_PVZ1_S29_7_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}La cubierta estaba demasiado llena, así que moví las Papapúm de lugar.
-
-[NARRATIVE_PVZ1_S29_7_H_INTRO_2]
-{TIRED:winnie}No me parece una buena idea. Si las Papapúm explotan, nuestro barco se hundirá.
-
-[NARRATIVE_PVZ1_S29_8_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ya tengo listos los fuegos artificiales para Año Nuevo, usuario Dave.
-
-[NARRATIVE_PVZ1_S29_8_H_INTRO_2]
-{EXCITED:crazydave}¡Genial! ¡A festejar!
-
-[NARRATIVE_PVZ1_S29_9_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Tengo la sensación de que ya hemos estado aquí antes...
-
-[NARRATIVE_PVZ1_S29_9_H_INTRO_2]
-{SAY:winnie}Espero que no hayas cometido el mismo error dos veces.
-
-[NARRATIVE_PVZ1_S29_9_H_INTRO_3]
-{SAY:crazydave}No te preocupes, esta vez traje mis tacos.
-
-[NARRATIVE_PVZ1_S29_10_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Un círculo mágico súper maligno se apoderó de nuestro jardín!
-
-[NARRATIVE_PVZ1_S29_10_H_INTRO_2]
-{SAY:winnie}Parece un ritual místico que invoca un vórtice temporal.
-
-[NARRATIVE_PVZ1_S29_10_H_INTRO_3]
-{PLAYFUL:winnie}Quizás podamos usarlo para romper esta formación.
-
-[NARRATIVE_PVZ1_S29_11_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Hemos llegado al punto más lejano del pasado en nuestro viaje.
-
-[NARRATIVE_PVZ1_S29_11_H_INTRO_2]
-{SAY:winnie}Nos quedan aproximadamente 150 millones de años antes de regresar con éxito al 2026.
-
-[NARRATIVE_PVZ1_S29_11_H_INTRO_3]
-{SAY:crazydave}Parece que el tiempo se acaba... y al mismo tiempo, que sobra.
-
-[NARRATIVE_PVZ1_S29_12_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Los zombis también han conseguido algunos barriles de pólvora. Creen que pueden volar las puertas.
-
-[NARRATIVE_PVZ1_S29_12_H_INTRO_2]
-{EXCITED:crazydave} ¡Ja, ja! Parece que no tienen ni idea del peligroso cargamento que están escoltando.
-
-[NARRATIVE_PVZ1_S29_12_H_INTRO_3]
-{SAY:crazydave} ¡Para ellos, es una auténtica bomba de relojería!
-
-[NARRATIVE_PVZ1_S29_13_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Parece que los zombis han conseguido barriles de pólvora, otra vez...
-
-[NARRATIVE_PVZ1_S29_13_H_INTRO_2]
-{PLAYFUL:crazydave}¡Ja! Parece que no tienen ni idea de lo peligroso que es lo que están cargando.
-
-[NARRATIVE_PVZ1_S29_14_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Quedan aproximadamente 2,85 millones de años hasta llegar al 2026.
-
-[NARRATIVE_PVZ1_S29_14_H_INTRO_2]
-{SAY:winnie}Una paradoja temporal nos impide usar las plantas recolectadas después de salir del lugar.
-
-[NARRATIVE_PVZ1_S29_14_H_INTRO_3]
-{SAY:crazydave}Pero juraría que aquí hace más frío que cuando llegamos.
-
-[NARRATIVE_PVZ1_S29_15_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Según la historia del cultivo de alcachofas en el antiguo Egipto, solo nos separan unos 4000 años de la era moderna.
-
-[NARRATIVE_PVZ1_S29_15_H_INTRO_2]
-{SAY:crazydave}Aquí no hay zombis, solo un montón de camellos rarísimos.
-
-[NARRATIVE_PVZ1_S29_15_H_INTRO_3]
-{SAY:winnie}Se trata de una emboscada. Los disfraces no engañan a un maestro del dardo.
-
-[NARRATIVE_PVZ1_S29_16_H_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Tras cargar con el peso de 365 días, solo la noche logra calmar mi brillante mente agotada.
-
-[NARRATIVE_PVZ1_S29_16_H_INTRO_2]
-{SAY:zombossicon}¡Abandona toda esperanza del mañana! ¡Olvida llegar con vida al Año Nuevo!
-
-[NARRATIVE_PVZ1_S29_16_H_INTRO_3]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Pero aún me faltan nuevos tacos por probar! ¡Así no se vale!
-
-[NARRATIVE_PVZ1_S29_16_H_INTRO_4]
-{SAY:winnie}Si nos quedamos atrapados en el pasado, perderemos todas las posibilidades del futuro.
-
-[DEFEAT_X_ENDLESSWEALTH]
-Derrota al Dios de las Riquezas {NUMBER} veces
-
-[DEFEAT_X_FEASTIVUS_SWASHBUCKLER]
-Derrota {NUMBER} Ladrones de regalos
-
-[DEFEAT_X_LUNARZOMBIES]
-Derrota {NUMBER} Zombis de Año Nuevo
-
-[CHALLENGE_DESTROY_PIGGYBANK]
-Destruye {GRID_ITEMS} huchas
-
-[STARCHALLENGE_DESTROY_X_ARMRACKS]
-Destruye {GRID_ITEMS} estantes de armas
-
-[STARCHALLENGE_DEFEAT_X_CURES]
-Rompe el escudo de oro del Maestro de Qigong {NUMBER} veces
-
-[STARCHALLENGE_DEFEAT_X_KOONGFU_ROCKET]
-Derrota {NUMBER} Zombiditos tigre
-
-[STARCHALLENGE_DEFEAT_X_KOONGFU_MONKS]
-Derrota {NUMBER} Shaolines monje
-
-[STARCHALLENGE_HELICONIAGUNNER_DEFEAT_X_ZOMBIES]
-Derrota a {NUMBER} zombis con Heliconia
-
-[STARCHALLENGE_FLAMELADY_DEFEAT_X_ZOMBIES]
-Derrota a {NUMBER} zombis con Reina flor de fuego
-
-[STARCHALLENGE_DEFEAT_X_SKYCITY_BASICS]
-Derrota {NUMBER} Zombis piloto
-
-[STARCHALLENGE_LAVAGUAVA_DEFEAT_X_ZOMBIES]
-Derrota a {NUMBER} zombis con Guayalava
-
-[SLIMED]
-Embabado
-
-[S29_MEMORY_LEVEL_NAME_001]
-T29-01: Explosión total
-
-[S29_MEMORY_LEVEL_NAME_002]
-T29-02: Maestro de la magia
-
-[S29_MEMORY_LEVEL_NAME_003]
-T29-03: Escuadrón ninja
-
-[S29_MEMORY_LEVEL_NAME_004]
-T29-04: Un poco mareado
-
-[S29_MEMORY_LEVEL_NAME_005]
-T29-05: Guardián ecológico
-
-[S29_MEMORY_LEVEL_NAME_006]
-T29-06: Joven artístico
-
-[S29_MEMORY_LEVEL_NAME_007]
-T29-07: Armas de energía
-
-[S29_MEMORY_LEVEL_NAME_008]
-T29-08: Arsenal
-
-[S29_MEMORY_LEVEL_NAME_009]
-T29-09: Resurrección
-
-[S29_MEMORY_LEVEL_NAME_010]
-T29-10: Corazón de niño
-
-[S29_MEMORY_LEVEL_NAME_011]
-T29-11: Aventura al Oeste
-
-[S29_MEMORY_LEVEL_NAME_012]
-T29-12: Caos espacio-temporal
-
-[S29_MEMORY_LEVEL_NAME_013]
-T29-13: Era de hielo
-
-[S29_MEMORY_LEVEL_NAME_014]
-T29-14: Cantando y bailando
-
-[S29_MEMORY_LEVEL_NAME_015]
-T29-15: Castillo en el cielo
-
-[S29_MEMORY_LEVEL_NAME_016]
-T29-16: Bestia veloz
-
-[S29_MEMORY_LEVEL_NAME_017]
-T29-17: Tecnología del futuro
-
-[S29_MEMORY_LEVEL_NAME_018]
-T29-18: Cien mil voltios
-
-[S29_MEMORY_LEVEL_NAME_019]
-T29-19: Rey del triple
-
-[S29_MEMORY_LEVEL_NAME_020]
-T29-20: Guisante de élite
-
-[S29_MEMORY_LEVEL_NAME_021]
-T29-21: Hongo pisa-zombis
-
-[S29_MEMORY_LEVEL_NAME_022]
-T29-22: Fuego a máxima potencia
-
-[S29_MEMORY_LEVEL_NAME_023]
-T29-23: Cuenta a diez
-
-[S29_MEMORY_LEVEL_NAME_024]
-T29-24: Grito aterrador
-
-[S29_MEMORY_LEVEL_NAME_025]
-T29-25: Ataque pirata
-
-[S29_MEMORY_LEVEL_NAME_026]
-T29-26: Bosque de niebla
-
-[S29_MEMORY_LEVEL_NAME_027]
-T29-27: Crisis empresarial
-
-[S29_MEMORY_LEVEL_NAME_028]
-T29-28: Fiesta en la playa
-
-[S29_MEMORY_LEVEL_NAME_029]
-T29-29: Fiesta de Halloween
-
-[S29_MEMORY_LEVEL_NAME_030]
-T29-30: Devorado por agujeros negros
-
-[S29_MEMORY_LEVEL_NAME_031]
-T29-31: Invasión romana
-
-[S29_MEMORY_LEVEL_NAME_032]
-T29-32: Regreso a casa
-
-[S29_MEMORY_LEVEL_NAME_033]
-T29-33: Ejército Qin
-
-[S29_MEMORY_LEVEL_NAME_034]
-T29-34: Frente a frente
-
-[S29_MEMORY_LEVEL_NAME_035]
-T29-35: Tropas falsas
-
-[S29_MEMORY_LEVEL_NAME_036]
-T29-36: Resurrección impura
-
-[S29_MEMORY_LEVEL_NAME_037]
-T29-37: El tributo de Jing Ke
-
-[S29_MEMORY_LEVEL_NAME_038]
-T29-38: Animales enloquecidos
-
-[S29_MEMORY_LEVEL_NAME_039]
-T29-39: Ataque del general
-
-[S29_MEMORY_LEVEL_NAME_040]
-T29-40: El emperador aparece
-
-[S29_MEMORY_LEVEL_NAME_041]
-T29-41: Dragón en los cielos
-
-[S29_MEMORY_LEVEL_NAME_042]
-T29-42: Pinchazo interminable
-
-[S29_MEMORY_LEVEL_NAME_043]
-T29-43: Pequeñas chispas
-
-[S29_MEMORY_LEVEL_NAME_044]
-T29-44: Avalancha imparable
-
-[S29_MEMORY_LEVEL_NAME_045]
-T29-45: La fuerza de la multitud
-
-[S29_MEMORY_LEVEL_NAME_046]
-T29-46: Bombardeo continuo
-
-[S29_MEMORY_LEVEL_NAME_047]
-T29-47: Rápido como un rayo
-
-[S29_MEMORY_LEVEL_NAME_048]
-T29-48: Paso tambaleante
-
-[S29_MEMORY_LEVEL_NAME_1]
-T29-1: El lobo feroz avanza
-
-[S29_MEMORY_LEVEL_NAME_2]
-T29-2: Cinturón de asteroides
-
-[S29_MEMORY_LEVEL_NAME_3]
-T29-3: Cuervo en avión
-
-[S29_MEMORY_LEVEL_NAME_4]
-T29-4: Tornado F5
-
-[S29_MEMORY_LEVEL_NAME_5]
-T29-5: Movimiento parabólico
-
-[S29_MEMORY_LEVEL_NAME_6]
-T29-6: Hito fronterizo
-
-[S29_MEMORY_LEVEL_NAME_7]
-T29-7: Enemigo formidable
-
-[S29_MEMORY_LEVEL_NAME_8]
-T29-8: Brillo en conjunto
-
-[S29_MEMORY_LEVEL_NAME_9]
-T29-9: Línea defensiva
-
-[S29_MEMORY_LEVEL_NAME_10]
-T29-10: Atado de pies y manos
-
-[S29_MEMORY_LEVEL_NAME_11]
-T29-11: Cresta del dragón
-
-[S29_MEMORY_LEVEL_NAME_12]
-T29-12: Bomba de tiempo
-
-[S29_MEMORY_LEVEL_NAME_13]
-T29-13: Los mil artilugios
-
-[S29_MEMORY_LEVEL_NAME_14]
-T29-14: Córtalo de raíz
-
-[S29_MEMORY_LEVEL_NAME_15]
-T29-15: Dando al blanco
-
-[S29_MEMORY_LEVEL_NAME_16]
-T29-16: Reyes y generales
-
-[S29_MEMORY_LEVEL_NAME_17]
-T29-17: Aliento letal
-
-[S29_MEMORY_LEVEL_NAME_BOSS_1]
-T29: Maestro del Qigong
-
-[S29_MEMORY_LEVEL_NAME_BOSS_2]
-T29: Cabeza de pólvora
-
-[S29_MEMORY_LEVEL_NAME_BOSS_3]
-T29: Cabeza de pólvora II
-
-[S29_MEMORY_LEVEL_NAME_BOSS_4]
-T29: Héroe espadachín
-
-[S29_MEMORY_LEVEL_NAME_BOSS_5]
-T29: Buitre de guerra
-
-[S29_MEMORY_LEVEL_NAME_BOSS_6]
-T29: Góndola aerostática
-
-[S29_MEMORY_LEVEL_NAME_BOSS_7]
-T29: Universo paralelo
-
-[S29_MEMORY_LEVEL_NAME_BOSS_8]
-T29: Bólidus
-
-[PVZ1MODE_IPLANT]
-Yo, planta
-
-[PVZ1MODE_IPLANT_NORMAL_DESC]
-Planta con antelación para destruir a los zombis
-
-[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT1]
-1. Disponibilidad
-
-[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT2]
-Este evento estará disponible a partir del 12 de febrero.
-
-[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT3]
-2. Contenido del nivel
-
-[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT4]
-La fuerza de los zombis es 1, el número aumenta en el Modo difícil según los objetivos seleccionados.
-
-[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT5]
-3. Objetivos del nivel
-
-[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT6]
-Cada nivel tiene objetivos específicos que se pueden completar para obtener recompensas.
-
-[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT7]
-4. Recompensas por objetivos
-
-[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT8]
-Las recompensas no son repetibles.
-
-[TIMESPACE_MAUSOLEUM_MODE_HARD_LOCKED_CLICKED_HINT]
-Disponible el 12 de febrero al completar el Modo fácil.
-
-[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
-
-[PVZ2_UNCHARTED_MAUSOLEUM_TIPS_DESC_UNCHARTED]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
-
-[PVZ2_UNCHARTED_MODE_MODE_TITLE_TUNNEL]
-Trincheras
-
-[PVZ2_UNCHARTED_MODE_MODE_DESC_TUNNEL]
-Los zombis caminan por trincheras donde no se puede plantar
-
-[NOQIN_LEVEL_NAME_01]
-Mausoleo de Qin - Día 1
-
-[NOQIN_LEVEL_NAME_02]
-Mausoleo de Qin - Día 2
-
-[NOQIN_LEVEL_NAME_03]
-Mausoleo de Qin - Día 3
-
-[NOQIN_LEVEL_NAME_04]
-Mausoleo de Qin - Día 4
-
-[NOQIN_LEVEL_NAME_05]
-Mausoleo de Qin - Día 5
-
-[NOQIN_LEVEL_NAME_06]
-Mausoleo de Qin - Día 6
-
-[NOQIN_LEVEL_NAME_07]
-Mausoleo de Qin - Día 7
-
-[NOQIN_LEVEL_NAME_08]
-Mausoleo de Qin - Día 8
-
-[NOQIN_LEVEL_NAME_09]
-Mausoleo de Qin - Día 9
-
-[NOQIN_LEVEL_NAME_10]
-Mausoleo de Qin - Día 10
-
-[NOQIN_LEVEL_NAME_01_H]
-Mausoleo de Qin - Día 1 (Difícil)
-
-[NOQIN_LEVEL_NAME_02_H]
-Mausoleo de Qin - Día 2 (Difícil)
-
-[NOQIN_LEVEL_NAME_03_H]
-Mausoleo de Qin - Día 3 (Difícil)
-
-[NOQIN_LEVEL_NAME_04_H]
-Mausoleo de Qin - Día 4 (Difícil)
-
-[NOQIN_LEVEL_NAME_05_H]
-Mausoleo de Qin - Día 5 (Difícil)
-
-[NOQIN_LEVEL_NAME_06_H]
-Mausoleo de Qin - Día 6 (Difícil)
-
-[NOQIN_LEVEL_NAME_07_H]
-Mausoleo de Qin - Día 7 (Difícil)
-
-[NOQIN_LEVEL_NAME_08_H]
-Mausoleo de Qin - Día 8 (Difícil)
-
-[NOQIN_LEVEL_NAME_09_H]
-Mausoleo de Qin - Día 9 (Difícil)
-
-[NOQIN_LEVEL_NAME_10_H]
-Mausoleo de Qin - Día 10 (Difícil)
-
-[NOQIN_LEVEL_NAME_DANGERROOM]
-Mausoleo perpetuo
-
-[PLAYERS_TRIP_TO_QIN]
-¡El viaje de {PLAYER} al Mausoleo de Qin!
-
-[NEW_PLANT_UI_TEAM_EDIT_DELETE_CONFIRM_TITLE]
-¿Borrar formación?
-
-[NEW_PLANT_UI_TEAM_EDIT_DELETE_CONFIRM_TEXT]
-¿Seguro que deseas borrar la formación de plantas actual?
-¡Esto es irreversible!
-
-[NEW_PLANT_UI_TEAM_EDIT_DELETE_CONFIRM_OK]
-ACEPTAR
-
-[NEW_PLANT_UI_TEAM_EDIT_DELETE_CONFIRM_CANCEL]
-CANCELAR
-
-[REPEATER_NEW_SKILL_LEVEL5_DES]
-Dispara proyectiles que se dividen en las diagonales hasta 3 veces al golpear un objetivo.
-
-[NFS_LINKAGE_TAB2_7]
-Cazalingotes
-
-[NFSLINKAGE_DESCRIPTION_TITLE_7]
-Descripción
-
-[NFSLINKAGE_DESCRIPTION_7]
-1. Inicia sesión durante 14 días para recibir recompensas en el Calendario.
-2. Completa misiones para conseguir Lingotes de oro (las hay diarias y especiales).
-3. Usa los Lingotes en la Tienda para comprar artículos antes de que termine el evento.
-
-[NFSLINKAGE_TITLE_7]
-Caza de lingotes
-
-[MAT_NFSLINKAGE_TICKET_7]
-Lingote de oro
-
-[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_7]
-Inicia sesión 14 días para obtener recompensas. Completa tareas para obtener lingotes que pueden canjearse en la Tienda.
-
-[PVZ_ERROR_76042]
-El evento estará disponible de 8:00 a 24:00
-Completa los desafíos dentro de ese horario.
-
-[PVZ_ERROR_76043]
-Intentos agotados, ¡ve y apoya a tus equipos!
-
-[PVZ_ERROR_76044]
-Formación incompleta, ¡elige tus plantas antes de empezar!
-
-[PVZ_ERROR_76045]
-Puntuación anormal. Se te vetará por 30 días si se detecta que has hecho trampa.
-
-[PVP_ERROR_76045]
-Se detectó el uso de trampas, has sido vetado del evento por 30 d
-
-[PVZ_ERROR_76046]
-El jefe no ha sido derrotado aún, no se puede modificar la formación.
-
-[PVZ_ERROR_75700]
-¡La sala no existe!
-
-[PVZ_ERROR_75701]
-¡Ya estás en una sala!
-
-[PVZ_ERROR_75702]
-No existe información para esta sala.
-
-[PVZ_ERROR_75703]
-No existe información sobre los miembros de la sala.
-
-[PVZ_ERROR_75704]
-No hay suficientes miembros en la sala.
-
-[PVZ_ERROR_75705]
-Acceso denegado.
-
-[PVZ_ERROR_75707]
-¡La sala está llena!
-
-[PVZ_ERROR_76047]
-Faltan plantas.
-
-[PVZ_ERROR_76048]
-Esas plantas no están permitidas
-
-[PVZ_ERROR_76049]
-Asegurate de que hayas seleccionado todas tus plantas
-
-[MAUSOLEUMHARD_HOWTOPLAY_1_DESCRIPTION]
-Las plantas derrotadas cuentan como bajas (a excepción del césped)
-
-[MAUSOLEUMHARD_HOWTOPLAY_2_DESCRIPTION]
-No puedes colocar a las plantas que se hayan dado de baja
-
-[MAUSOLEUMHARD_HOWTOPLAY_3_DESCRIPTION]
-Tampoco puedes escoger semillas de las plantas caídas en el menu
-
-[MAUSOLEUMHARD_HOWTOPLAY_4_DESCRIPTION]
-Las plantas instantáneas no cuentan como bajas pero su recarga es más lenta
-
-[MAUSOLEUMHARD_HOWTOPLAY_5_DESCRIPTION]
-Quitar una planta con la pala no cuenta como baja, la pala es de uso limitado
-
-[MAUSOLEUMHARD_HOWTOPLAY_6_DESCRIPTION]
-Si pierdes, volverás al Nivel 1 del modo difícil y recuperarás tus plantas caídas
-
-[MAUSOLEUMDANGERROOM_HOWTOPLAY_1_DESCRIPTION]
-No puedes usar Nutrientes en la Zona de infinito
-
-[MAUSOLEUMDANGERROOM_HOWTOPLAY_2_DESCRIPTION]
-El coste de las plantas moradas aumenta en 50 puntos por cada una plantada
-
-[MAUSOLEUMDANGERROOM_HOWTOPLAY_3_DESCRIPTION]
-Pelea de jefe cada 9 Niveles
-
-[MAUSOLEUMDANGERROOM_HOWTOPLAY_4_DESCRIPTION]
-Mantienes tu formación, soles y plantas seleccionadas entre cada fase
-
-[MAUSOLEUMDANGERROOM_HOWTOPLAY_5_DESCRIPTION]
-Tu progreso se guarda si abandonas la partida, y se restaura al regresar.
-
-[MAUSOLEUMDANGERROOM_HOWTOPLAY_6_DESCRIPTION]
-Si pierdes o te retiras, recibirás Monedas de cobre y Jade como premio final (máx. 500 de Jade a la semana)
-
-[MAT_MAUSOLEUM_NORMAL_COIN]
-Moneda de bronce
-
-[MAT_MAUSOLEUM_HARD_COIN]
-Jade
-
-[MAT_MAUSOLEUM_BASIC_SUN1]
-Reserva solar
-
-[MAT_MAUSOLEUM_BASIC_SUN2]
-Reserva solar II
-
-[MAT_MAUSOLEUM_BASIC_SUN3]
-Reserva solar III
-
-[MAT_MAUSOLEUM_POWERUP1]
-Reserva de Nutrientes
-
-[MAT_MAUSOLEUM_POWERUP2]
-Reserva de Nutrientes II
-
-[MAT_MAUSOLEUM_ATK1]
-Potenciador de ataques
-
-[MAT_MAUSOLEUM_ATK2]
-Potenciador de ataques II
-
-[MAT_MAUSOLEUM_ATK3]
-Potenciador de ataques III
-
-[MAT_MAUSOLEUM_HEAL1]
-Curación
-
-[MAT_MAUSOLEUM_HEAL2]
-Curación II
-
-[MAT_MAUSOLEUM_HEAL3]
-Curación III
-
-[MAT_MAUSOLEUM_COOLDOWN1]
-Recarga reducida
-
-[MAT_MAUSOLEUM_COOLDOWN2]
-Recarga reducida II
-
-[MAT_MAUSOLEUM_COOLDOWN3]
-Recarga reducida III
-
-[SUPER_AVATAR_SELECT_TITLE]
-Selección de super-atuendos
-
-[SUPER_AVATAR_SELECT_DESCRIPTION]
-Escoge el super-atuendo de tu elección.
-
-[NEWYEAR_GIFT_HEAD_ID_25817]
-Cielo iluminado
-
-[NEWYEAR_GIFT_HEAD_DES_ID_25817]
-A quienes recargaron durante los eventos de Año Nuevo 2025-2026 y quedaron en 1er lugar
-
-[AVATARCOLLECTIONS_HEAD_ID_25807]
-Invierno glacial
-
-[AVATARCOLLECTIONS_HEAD_DES_ID_25807]
-Completaste la colección de atuendos: Invierno glacial
-
-[AVATARCOLLECTIONS_HEAD_ID_25808]
-Festival de primavera
-
-[AVATARCOLLECTIONS_HEAD_DES_ID_25808]
-Completaste la colección de atuendos: Festival de primavera
-
-[AVATARCOLLECTIONS_THEME_TITLE18]
-Invierno glacial
-
-[AVATARCOLLECTIONS_THEME_DES18]
-Un invierno frío y gris.
-
-[AVATARCOLLECTIONS_THEME_TITLE19]
-Festival de primavera
-
-[AVATARCOLLECTIONS_THEME_DES19]
-Una nueva primavera llega, con buenas fortunas
-
-[TOYS_HEAD_ID_25810]
-Alianza Transformers
-
-[TOYS_HEAD_DES_ID_25810]
-A quienes participaron en la temporada 12 del evento: Fiesta de disfraces
-
-[TIANGONG_HEAD_ID_25816]
-Cien escrituras
-
-[TIANGONG_HEAD_DES_ID_25816]
-A quienes participaron en la temporada 10 del evento: El Tesoro celestial.
-
-[SPACETIMERIFT_TITLE]
-Cofre espacio-temporal
-
-[UI_SPACETIMERIFT_DAMAGEREWARD_TITLE_NAME_1]
-1. Puntos de temporada: {NUM} DPS
-
-[UI_SPACETIMERIFT_DAMAGEREWARD_TITLE_NAME_2]
-2. Puntos diarios: {NUM} DPS
-
-[UI_SPACETIMERIFT_DAMAGEREWARD_TITLE_NAME_3]
-3. Intentos esta temporada: {NUM}
-
-[SPACETIMERIFT_DES_DESCRIPTION]
-• Recompensas de temporada:
-
-ARTÍCULO                  CANTIDAD
-----------------------------------
-Joyas                           99
-Cupón de Atuendos              399
-Poción dorada                    5
-Avatar exclusivo                 1
-Gen universal                  100
-Boleto secreto                   1
-
-• Recompensas diarias:
-
-ARTÍCULO                  CANTIDAD
-----------------------------------
-Joyas                           50
-Cupón de misiones                1
-Esencia genética                 2
-Casia dorada: Piezas             7
-Joyas                          100
-Boleto secreto                   1
-
-• Recompensas de apoyo:
-
-ARTÍCULO                  CANTIDAD
-----------------------------------
-Monedas                     50.000
-Cupón de misiones                3
-Esencia genética                 2
-Casia dorada: Piezas            10
-Avatar exclusivo                 1
-
-[SPACETIMERIFT_DES_TITLE]
-TABLA DE PREMIOS
-
-[UNCHARTED_PHATBEET]
-Remolacha trememenda
-
-[UNCHARTED_PHATBEET_TOOLTIP]
-Inflige daño cada pocos segundos
-
-[UNCHARTED_CARROTLAUNCHER]
-Zanahortillería
-
-[UNCHARTED_CARROTLAUNCHER_TOOLTIP]
-Dispara misiles a los zombis en la retaguardia
-
-[UNCHARTED_HAYSTACK]
-Césped
-
-[UNCHARTED_HAYSTACK_DESCRIPTION]
-{KEYWORD}Especial: {STAT}permite plantar en trincheras
-{KEYWORD}Características de la planta: {STAT}planta verde, de baja estatura
-
-{FLAVOR}Crecer en trincheras no era el plan, pero el césped se adapta a todo. Literalmente.
-
-[UNCHARTED_HAYSTACK_DESCRIPTION_HEADER]
-El césped te permite plantar sobre el terreno fangoso del Mausoleo de Qin.
-
-[UNCHARTED_HAYSTACK_TOOLTIP]
-Permite plantar sobre terreno fangoso
-
-[BONUS_CARD_PIECE_UNCHARTED_HAYSTACK]
-Césped: Piezas
-
-[BONUS_CARD_PIECE_UNCHARTED_HAYSTACK_DESCRIPTION]
-Consigue Piezas para Césped:
-
-[PLANTING_NEED_UNCHARTED_HAYSTACK_FIRST]
-Pon césped primero
-
-[PLANTING_UNCHARTED_HAYSTACK_ON_UNCHARTED_HAYSTACK]
-Ya hay césped ahí
-
-[PLANTING_NOT_ON_UNCHARTED_HAYSTACK]
-No puedes colocar a {PLANT_NAME} sobre césped
-
-[PLANTING_UNCHARTED_HAYSTAC_ONLY_TUNNEL]
-El césped solo se coloca en trincheras
-
-[SPACETIMERIFT_BOSSTIPE_DES_DESCRIPTION]
-Debilidad: fuego
-
-[SPACETIMERIFT_BOSSTIPE_DES_TITLE]
-Jefe de temporada: Bestia rugiente
-
-[MAT_SUPER_AVATAR_TICKET_A]
-Super-cupón de Atuendos
-
-[MAT_SUPER_AVATAR_TICKET_A_USE]
-Te permite seleccionar el Super-atuendo de tu elección
-
-[MAT_SUPER_AVATAR_TICKET_A_GOT_WAY]
-Tierras ocultas
-
-[SPACETIMERIFT_MAIN_DES_TITLE]
-¿CÓMO JUGAR?
-
-[SPACETIMERIFT_MAIN_DES_DESCRIPTION]
-1. Horario: 13/2/2026 - 19/2/2026
-2. Recibes 3 intentos diarios de desafío, haz la mayor cantidad de daño para clasificarte en la tabla y obtener premios.
-3. Al día siguiente, se evaluarán los resultados de clasificación de 00:00 a 08:00. En ese periodo no se puede jugar.
-4. Al final de cada periodo, se le otorgará un Premio especial a un jugador al azar. ¡Buena suerte!
-
-[SPACETIMERIFT_CHEAT_DES_DESCRIPTION]
-Se te ha vetado temporalmente de este modo por hacer trampas.
-Si se trata de un error, ponte en contacto con servicio al cliente.
-
-[SPACETIMERIFT_CHEAT_DES_TITLE]
-Trampas detectadas
-
-[ADVICE_SEED_REFRESH_MAUSOLEUM]
-Tus plantas han sido derrotadas
-
-[END_BUTTON]
-FINALIZAR
-
-[EXIT_DANGER_ROOM_HEADER_MAUSOLEUM]
-SALIR
-
-[EXIT_DANGER_ROOM_BODY_MAUSOLEUM]
-¿Seguro que quieres salir? Si lo haces, finalizará la partida.
-
-[SPACETIMERIFT_LUCKYREWARD]
-Premio de suerte
-
-[SPACETIMERIFT_RANKREWARD]
-Premio por clasificación
-
-[SPACETIMERIFT_RANKINFO_TITLE]
-RECOMPENSAS POR CLASIFICACIÓN
-
-[SPACETIMERIFT_RANKINFO_TEXT]
-• Premios por puesto fijo:
-
-PUESTO               PREMIO
----------------------------------------------------------
-1-10                 Joyas x588, Casia dorada: Piezas x40
-11-50                Joyas x399, Casia dorada: Piezas x30
-50-100               Joyas x288, Casia dorada: Piezas x20
-
-• Premios por puesto relativo:
-
-PUESTO               PREMIO
----------------------------------------------------------
-Top 1%               Joyas x199, Casia dorada: Piezas x10
-Top 5%               Joyas x166, Casia dorada: Piezas x8
-Top 55%              Joyas x99, Casia dorada: Piezas x5
-Top 99%              Joyas x66, Casia dorada: Piezas x1
-
-[TIME_SPACE_HEAD_ID_25818]
-Cuchilla doble
-
-[TIME_SPACE_HEAD_DES_ID_25818]
-A quienes unieron fuerzas en la 1ra temporada del evento: Fisura temporal
-
-[MAUSOLEUM_TASKDESCRIPTION]
-Alcanza el Nivel {NUMBER}
-
-[MAUSOLEUM_TASKDESCRIPTION_TITLE]
-Misiones de infinito
-
 [ACCESSORY_BOOST_DES_1]
 Efectos: Salud +10%
 
@@ -2556,6 +900,9 @@ Inicia sesión 14 días para obtener recompensas. Completa tareas para obtener p
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_6]
 Inicia sesión 14 días para obtener recompensas. Completa tareas para obtener bastones que pueden canjearse en la Tienda.
 
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_7]
+Inicia sesión 14 días para obtener recompensas. Completa tareas para obtener lingotes que pueden canjearse en la Tienda.
+
 [ACTIVITY_NOT_OPEN]
 Aún no abierto
 
@@ -3199,6 +1546,9 @@ No puedes plantar Banananguilas en Nenúfares.
 [ADVICE_PLANT_FOOD_NOT_SIMULTANEOUS]
 Con los Nutrientes se crearían demasiadas plantas
 
+[ADVICE_PLANT_HAYSTACK_ON_HAYSTACK]
+Ya hay césped ahí
+
 [ADVICE_PLANT_LEVEL_UP]
 ¡Intenta mejorar la planta!
 
@@ -3411,6 +1761,9 @@ La semilla necesita tiempo para recargarse
 
 [ADVICE_SEED_REFRESH_IZOMBIE]
 Los zombis necesitan un tiempo para recuperarse
+
+[ADVICE_SEED_REFRESH_MAUSOLEUM]
+Tus plantas han sido derrotadas
 
 [ADVICE_SKILL_LOCK]
 Habilidad no desbloqueada
@@ -5564,7 +3917,7 @@ Nivel 4
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_1]
 Elige un tamaño de zombi y absórbelos por 5 s. Cada 10 zombis genera una poción para potenciar plantas.
-^D22808^Capacidad: 10 zombis pequeños, 6 medianos o 2 grandes.^oldclr^ 
+^D22808^Capacidad: 10 zombis pequeños, 6 medianos o 2 grandes.^oldclr^
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_2]
 ^98FB98^Efecto pasivo:^oldclr^ aumenta el daño y la defensa de las plantas Kung Fu en un {PassiveField1_1}%
@@ -6063,6 +4416,36 @@ Aplica descargas eléctricas a los zombis del área. Combinar cargas activa efec
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_4]
 ^98FB98^Efecto pasivo:^oldclr^ cuando un zombi es derrotado, existe un {PassiveField3_1}% de que 1-2 zombis alrededor, reciban efectos aleatorios de carga durante 20 s
+
+[ARTIFACT_LIONDANCE]
+Decreto del león
+
+[ARTIFACT_LIONDANCE_DESCRIPTION]
+Invoca Leones bailarines a tu servicio
+
+[ARTIFACT_LIONDANCE_SKILL_1]
+Nivel 1
+
+[ARTIFACT_LIONDANCE_SKILL_2]
+Nivel 2
+
+[ARTIFACT_LIONDANCE_SKILL_3]
+Nivel 3
+
+[ARTIFACT_LIONDANCE_SKILL_4]
+Nivel 4
+
+[ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_1]
+Invoca a un león bailarín que salta a un área 3x3 donde haya más zombis. Les quita un {MainField_2}% de su salud máx, o los derrota si tienen menos de un {MainField_3}% de salud, y derriba al resto. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_5}^oldclr^
+
+[ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_2]
+^98FB98^Efecto pasivo:^oldclr^ aumenta el daño y la defensa de las plantas incineradoras en un {PassiveField1_1}%
+
+[ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_3]
+^98FB98^Efecto pasivo:^oldclr^ cada {PassiveField2_1} s, aparece un pequeño león que prioriza la casilla con más zombis. Les quita un {PassiveField2_3} % de su salud máx, o los derrota si tienen menos de un {PassiveField2_4} % de salud.
+
+[ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_4]
+^98FB98^Efecto activo:^oldclr^ ruge para derribar a los zombis cercanos 4 casillas (priorizando a los más grandes). El salto letal prioriza a los 4 zombis con menor salud.
 
 [ARTIFACT_MAGICBEANS]
 Enredaderas mágicas
@@ -6922,6 +5305,12 @@ Completaste la colección de atuendos: Niñez inquebrantable
 [AVATARCOLLECTIONS_HEAD_DES_ID_25775]
 Completaste la colección de atuendos: Viaje interdimensional
 
+[AVATARCOLLECTIONS_HEAD_DES_ID_25807]
+Completaste la colección de atuendos: Invierno glacial
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25808]
+Completaste la colección de atuendos: Festival de primavera
+
 [AVATARCOLLECTIONS_HEAD_ID_25657]
 Niñez inquebrantable
 
@@ -6954,6 +5343,12 @@ Evolución definitiva
 
 [AVATARCOLLECTIONS_HEAD_ID_25775]
 Viaje interdimensional
+
+[AVATARCOLLECTIONS_HEAD_ID_25807]
+Invierno glacial
+
+[AVATARCOLLECTIONS_HEAD_ID_25808]
+Festival de primavera
 
 [AVATARCOLLECTIONS_NOT_EXIST]
 No desbloqueado
@@ -7015,6 +5410,12 @@ Atraviesa los confines del multiverso
 [AVATARCOLLECTIONS_THEME_DES17]
 Explora un sin fin de estrellas
 
+[AVATARCOLLECTIONS_THEME_DES18]
+Un invierno frío y gris.
+
+[AVATARCOLLECTIONS_THEME_DES19]
+Una nueva primavera llega, con buenas fortunas
+
 [AVATARCOLLECTIONS_THEME_TITLE0]
 Feliz Navidad
 
@@ -7068,6 +5469,12 @@ El multiverso
 
 [AVATARCOLLECTIONS_THEME_TITLE17]
 La galaxia
+
+[AVATARCOLLECTIONS_THEME_TITLE18]
+Invierno glacial
+
+[AVATARCOLLECTIONS_THEME_TITLE19]
+Festival de primavera
 
 [AVATARCOLLECTIONS_TITLE]
 Catálogo de Atuendos
@@ -7864,16 +6271,6 @@ Libro de avances          Variable               0,06%
 3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
 4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
-[BATTLE_ORDER_DESCRIPTION_GIFTER]
-• Reglas del Evento - Buen regalo:
-
-1. Solo participan los primeros 500 jugadores que compren beneficios prémium.
-2. La recompensa inicial es de 400 Joyas. La cantidad aumenta en 40 por cada participante.
-3. Los primeros 50 compradores recibirán el 0,5% de las recompensas acumuladas, lo que suma un 25%
-4. los primeros 150 compradores recibirán el 0,25% de las recompensas acumuladas, para un total del 25%
-5. Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, para un total del 30%
-6. Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
-
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1]
 BATTLE_ORDER_DESCRIPTION_GIFTER
 
@@ -7892,6 +6289,12 @@ BATTLE_ORDER_DESCRIPTION
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_WINTER]
 BATTLE_ORDER_DESCRIPTION
 
+[BATTLE_ORDER_DESCRIPTION_ANDROID_2]
+BATTLE_ORDER_DESCRIPTION_DRAW
+
+[BATTLE_ORDER_DESCRIPTION_AUTUMN]
+BATTLE_ORDER_DESCRIPTION
+
 [BATTLE_ORDER_DESCRIPTION_DRAW]
 • Reglas del Evento - Gran sorteo:
 
@@ -7902,11 +6305,15 @@ Si sorteas el segundo premio 2 veces, recibirás el 10% de las recompensas acumu
 Si sorteas el tercer premio 4 veces, recibirás el 5% de las recompensas acumuladas, para un total del 20%.
 Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
 
-[BATTLE_ORDER_DESCRIPTION_ANDROID_2]
-BATTLE_ORDER_DESCRIPTION_DRAW
+[BATTLE_ORDER_DESCRIPTION_GIFTER]
+• Reglas del Evento - Buen regalo:
 
-[BATTLE_ORDER_DESCRIPTION_AUTUMN]
-BATTLE_ORDER_DESCRIPTION
+1. Solo participan los primeros 500 jugadores que compren beneficios prémium.
+2. La recompensa inicial es de 400 Joyas. La cantidad aumenta en 40 por cada participante.
+3. Los primeros 50 compradores recibirán el 0,5% de las recompensas acumuladas, lo que suma un 25%
+4. los primeros 150 compradores recibirán el 0,25% de las recompensas acumuladas, para un total del 25%
+5. Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, para un total del 30%
+6. Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1]
 BATTLE_ORDER_DESCRIPTION_GIFTER
@@ -9367,6 +7774,12 @@ Birasol: Piezas
 
 [BONUS_CARD_PIECE_TWINSUNFLOWER_DESCRIPTION]
 Consigue Piezas para Birasol:
+
+[BONUS_CARD_PIECE_UNCHARTED_HAYSTACK]
+Césped: Piezas
+
+[BONUS_CARD_PIECE_UNCHARTED_HAYSTACK_DESCRIPTION]
+Consigue Piezas para Césped:
 
 [BONUS_CARD_PIECE_WALLNUT]
 Nuez: Piezas
@@ -11982,6 +10395,9 @@ Destruye {GRID_ITEMS} bastones de sanador
 
 [CHALLENGE_DESTROY_ICEBLOCKS]
 Destruye {GRID_ITEMS} bloques de hielo
+
+[CHALLENGE_DESTROY_PIGGYBANK]
+Destruye {GRID_ITEMS} huchas
 
 [CHALLENGE_DESTROY_PUMPKINSCARECROWS]
 Destruye {GRID_ITEMS} espantapájaros
@@ -17977,6 +16393,12 @@ Derrota a {NUMBER} Consultoras de ZCorp.
 [DEFEAT_X_DANCERS]
 Derrota a {NUMBER} Zombis bailones.
 
+[DEFEAT_X_ENDLESSWEALTH]
+Derrota al Dios de las Riquezas {NUMBER} veces
+
+[DEFEAT_X_FEASTIVUS_SWASHBUCKLER]
+Derrota {NUMBER} Ladrones de regalos
+
 [DEFEAT_X_FISHERMEN]
 Derrota a {NUMBER} Pescadores
 
@@ -18000,6 +16422,9 @@ Derrota a {NUMBER} Zombis bufones
 
 [DEFEAT_X_KINGS]
 Derrota a {NUMBER} Reyes zombi.
+
+[DEFEAT_X_LUNARZOMBIES]
+Derrota {NUMBER} Zombis de Año Nuevo
 
 [DEFEAT_X_OCTOPUS]
 Derrota {NUMBER} Pulpozombis
@@ -20443,6 +18868,9 @@ Nivel 3
 [ENDURIAN_TOOLTIP]
 Defiende e inflige daño a los zombis que la atacan.
 
+[END_BUTTON]
+FINALIZAR
+
 [ENERGY_TRACK1_TEST3]
 ENERGY_TRACK1_TEST3
 
@@ -22310,8 +20738,14 @@ SALIR
 [EXIT_DANGER_ROOM_BODY]
 ¿Seguro que quieres salir? Si lo haces, finalizará la partida.
 
+[EXIT_DANGER_ROOM_BODY_MAUSOLEUM]
+¿Seguro que quieres salir? Si lo haces, finalizará la partida.
+
 [EXIT_DANGER_ROOM_HEADER]
 ¿Salir de la Zona de infinito?
+
+[EXIT_DANGER_ROOM_HEADER_MAUSOLEUM]
+SALIR
 
 [EXIT_GAME]
 Salir del juego
@@ -26545,7 +24979,7 @@ Las Secuencias repetidas se han convertido en Esencias genéticas
 Las Escencias que sobraron se conviertieron en Genes universales
 
 [GENE_SEQUENCE_EFFECT]
-Efectos: 
+Efectos:
 
 [GENE_SEQUENCE_GROUP]
 : Secuencias genéticas
@@ -27066,6 +25500,63 @@ Proporciona una ráfaga de soles instantánea.
 
 [GOLDBLOOM_TOOLTIP]
 Proporciona una ráfaga de soles instantánea
+
+[GOLDENCASSIA]
+Casia dorada
+
+[GOLDENCASSIA_AVATAR_NAME]
+Arreglo floral
+
+[GOLDENCASSIA_AVATAR_PLANTFOOD_DESCRIPTION]
+Vuelve inmunes a las plantas de un área 3x3 alrededor mientras el efecto dure.
+
+[GOLDENCASSIA_DESCRIPTION]
+{KEYWORD}Especial: {STAT}renace tras ser derrotada
+{KEYWORD}Características de la planta: {STAT}planta amarilla
+
+{FLAVOR}Su aroma es tan fuerte que incluso los zombis se detienen a olfatearla.
+
+[GOLDENCASSIA_DESCRIPTION_HEADER]
+Casia dorada atrae a los zombis cercanos y bloquea su avance. Puede volver a crecer cuando es comida.
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL1_DES]
+Atrae zombis de un área 2x3 y los bloquea, renace al cabo de 15 s cuando es destruida.
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL2_DES]
+El brote dejado puede atraer zombis por 7.5 s
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL3_DES]
+El brote dejado puede atraer zombis por 15 s
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL4_DES]
+Gana un X% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
+
+[GOLDENCASSIA_NEW_SKILL_LEVEL5_DES]
+Atrae a los zombis mago de su alcance y les impide lanzar hechizos.
+
+[GOLDENCASSIA_PLANTFOOD_DESCRIPTION]
+Amplia su área de efecto durante 6 segundos
+
+[GOLDENCASSIA_SKILL_LEVEL1]
+Nivel 2
+
+[GOLDENCASSIA_SKILL_LEVEL1_DES]
+^4DD4DB^Brote aromático:^oldclr^ el brote dejado puede atraer zombis por 7.5 s
+
+[GOLDENCASSIA_SKILL_LEVEL2]
+Nivel 3
+
+[GOLDENCASSIA_SKILL_LEVEL2_DES]
+^A048CF^Atracción irresistible:^oldclr^ mejora los efectos del Nvl. 2 al doble.
+
+[GOLDENCASSIA_SKILL_LEVEL5]
+Nivel 5
+
+[GOLDENCASSIA_SKILL_LEVEL5_DES]
+^DB8117^Hechizo de restricción:^oldclr^ atrae a los zombis mago de su alcance y les impide lanzar hechizos.
+
+[GOLDENCASSIA_TOOLTIP]
+Atrae y bloquea zombis, renace al ser destruida
 
 [GOLDENEGG_TASK_NAME_1]
 Completa un Nivel de la Dimensión del Recuerdo.
@@ -28143,6 +26634,9 @@ Tira su sombrero que rebota y a veces rebobina zombis
 [HAUNTED]
 Encantar
 
+[HAYSTACK_PRODUCT_SHORT_DESC]
+Permite plantar sobre terreno fangoso
+
 [HEADBUTTERLETTUCE]
 Lechuga mantecosa
 
@@ -28594,6 +27088,30 @@ Efectos: Daño +30% | Recarga rápida +30% | ^DB8117^Despertar +15%^oldclr^
 
 [HERO_CAPE_1_DES]
 Una capa usada por un héroe famoso, aun conserva su poder
+
+[HERO_CROWN]
+Corona de héroe
+
+[HERO_CROWN_BOOST_DES]
+Efectos: Daño inicial +20% (+10 % tras 3 s; dura 10 s) | Recarga rápida +12%
+
+[HERO_CROWN_BOOST_DES_1]
+Efectos: Daño inicial +30% (+15 % tras 3 s; dura 10 s) | Recarga rápida +15%
+
+[HERO_CROWN_BOOST_DES_2]
+Efectos: Daño inicial +40% (+20 % tras 3 s; dura 10 s) | Recarga rápida +18%
+
+[HERO_CROWN_BOOST_DES_3]
+Efectos: Daño inicial +50% (+25 % tras 3 s; dura 10 s) | Recarga rápida +20% | ^DB8117^Coste -25^oldclr^
+
+[HERO_CROWN_BOOST_DES_4]
+Efectos: Daño inicial +60% (+30 % tras 3 s; dura 10 s) | Recarga rápida +25% | ^DB8117^Coste -30^oldclr^
+
+[HERO_CROWN_BOOST_DES_5]
+Efectos: Daño inicial +70% (+35 % tras 3 s; dura 10 s) | Recarga rápida +30% | ^DB8117^Coste -35^oldclr^
+
+[HERO_CROWN_DES]
+Le pertenecía a un antiguo cazador de demonios.
 
 [HES_GOT_YOUR_BACK]
 Te cubre la espalda... ¡y la cara!
@@ -31478,6 +29996,16 @@ SALIR DEL NIVEL
 [LEAVE_GAME_HEADER]
 ¿Salir del nivel?
 
+[LEAVE_MAUSOLEUM_ENDLESS_MAX_PROGRESS]
+Récord: {NUM}
+
+[LEAVE_MAUSOLEUM_ENDLESS_PROGRESS]
+Nivel: {NUM}
+
+[LEAVE_MAUSOLEUM_GAME_BODY]
+¿Abandonar al desafío?
+Si abandonas este desafío, se te contará como una derrota y tendrás que reiniciar este nivel.
+
 [LEAVE_WORLDCUP_GAME_BODY]
 ¿Seguro que quieres salir del nivel?
 Los boletos se consumirán y se reiniciarán tus progresos de este evento.
@@ -31695,6 +30223,12 @@ Obtuviste esto en: Personalización colorida
 [LEVEL_EDITOR_HEAD_DES_ID_25805]
 Disfruta del juego, cada movimiento trae nuevas delicias.
 
+[LEVEL_EDITOR_HEAD_DES_ID_25814]
+Obtuviste esto en la 2da temporada del evento: Personalización colorida
+
+[LEVEL_EDITOR_HEAD_DES_ID_25815]
+Las plantas de Nivel 5 son tu mayor fortaleza.
+
 [LEVEL_EDITOR_HEAD_ID_25343]
 Medalla del Creador
 
@@ -31760,6 +30294,12 @@ Galaxia iluminada
 
 [LEVEL_EDITOR_HEAD_ID_25805]
 Tardes de ajedrez
+
+[LEVEL_EDITOR_HEAD_ID_25814]
+Paisaje de la fortuna
+
+[LEVEL_EDITOR_HEAD_ID_25815]
+Aspectos destacados
 
 [LEVEL_EDITOR_NAME_SET]
 Nombre del Nivel
@@ -32311,6 +30851,66 @@ Premios diarios
 
 [LOGIN_REWARD_BODY]
 ¡Inicia sesión los 360 días del año y consigue premios alucinantes!
+
+[LONGMALILY]
+Loto blanco
+
+[LONGMALILY_AVATAR_NAME]
+Flor de loto
+
+[LONGMALILY_AVATAR_PLANTFOOD_DESCRIPTION]
+El efecto libera una onda adicional que congela zombis por 4 s
+
+[LONGMALILY_DESCRIPTION]
+{KEYWORD}Especial: {STAT}planta a Kiwimono en la misma casilla para unir fuerzas
+{KEYWORD}Características de la planta: {STAT}planta blanca
+
+{FLAVOR}"¿Soy un dragón? ¿Un caballo? ¿O una flor?" se pregunta constantemente.
+
+[LONGMALILY_DESCRIPTION_HEADER]
+Loto blanco golpea al suelo de un cabezazo, creando una fisura que explota al golpear al primer zombi, y lanzando al resto por los aires.
+
+[LONGMALILY_NEW_SKILL_LEVEL1_DES]
+Da cabezazos que agrietan el suelo y lanzan zombis por los aires.
+^E2725B^Forma fusionada: se transforma en dragón, Kiwimono gana un 30% de daño y un 20% de velocidad^oldclr^
+
+[LONGMALILY_NEW_SKILL_LEVEL2_DES]
+Los cabezazos de ambas formas tienen un 20% de afectar zombis de un área 3x3 por 1 s
+
+[LONGMALILY_NEW_SKILL_LEVEL3_DES]
+Duplica la probabilidad de los efectos del Nvl. 2 (ahora es de un 40%)
+
+[LONGMALILY_NEW_SKILL_LEVEL4_DES]
+Gana un X% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
+
+[LONGMALILY_NEW_SKILL_LEVEL5_DES]
+Sus ataques evolucionan a la forma dragón, atravesando todas las filas y generando ondas de choque.
+^E2725B^Ondas de choque: 100% probable en el primer objetivo^oldclr^
+
+[LONGMALILY_PLANTFOOD_DESCRIPTION]
+Asciende a la forma dragón, vuela y cae en picada, golpeando un área 3x3 y dejando una zona ralentizante.
+^E2725B^Forma fusionada: vuela con Kiwimono, lanzando un pilar que daña todos los zombi del patio^oldclr^
+
+[LONGMALILY_SKILL_LEVEL1]
+Nivel 2
+
+[LONGMALILY_SKILL_LEVEL1_DES]
+^4DD4DB^Cabezazo estruendoso:^oldclr^ los cabezazos de ambas formas tienen la posibilidad de afectar zombis de un área mayor.
+
+[LONGMALILY_SKILL_LEVEL2]
+Nivel 3
+
+[LONGMALILY_SKILL_LEVEL2_DES]
+^A048CF^Onda de choque:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+
+[LONGMALILY_SKILL_LEVEL5]
+Nivel 5
+
+[LONGMALILY_SKILL_LEVEL5_DES
+^DB8117^Ascenso del dragón:^oldclr^ sus ataques evolucionan a la forma dragón, atravesando todas las filas y generando ondas de choque.
+
+[LONGMALILY_TOOLTIP]
+Da cabezazos que agrietan el suelo
 
 [LOOK_MONTHLY_CARD]
 Ver Tarjeta Mensual
@@ -33949,6 +32549,54 @@ El Tesoro de la Suerte, Paquetes del 11mo Aniversario.
 [MAT_LUCKYCHEST_USE]
 Ábrelo y consigue una recompensa aleatoria, puedes mejorarlo hasta 3 veces.
 
+[MAT_MAUSOLEUM_ATK1]
+Potenciador de ataques
+
+[MAT_MAUSOLEUM_ATK2]
+Potenciador de ataques II
+
+[MAT_MAUSOLEUM_ATK3]
+Potenciador de ataques III
+
+[MAT_MAUSOLEUM_BASIC_SUN1]
+Reserva solar
+
+[MAT_MAUSOLEUM_BASIC_SUN2]
+Reserva solar II
+
+[MAT_MAUSOLEUM_BASIC_SUN3]
+Reserva solar III
+
+[MAT_MAUSOLEUM_COOLDOWN1]
+Recarga reducida
+
+[MAT_MAUSOLEUM_COOLDOWN2]
+Recarga reducida II
+
+[MAT_MAUSOLEUM_COOLDOWN3]
+Recarga reducida III
+
+[MAT_MAUSOLEUM_HARD_COIN]
+Jade
+
+[MAT_MAUSOLEUM_HEAL1]
+Curación
+
+[MAT_MAUSOLEUM_HEAL2]
+Curación II
+
+[MAT_MAUSOLEUM_HEAL3]
+Curación III
+
+[MAT_MAUSOLEUM_NORMAL_COIN]
+Moneda de bronce
+
+[MAT_MAUSOLEUM_POWERUP1]
+Reserva de Nutrientes
+
+[MAT_MAUSOLEUM_POWERUP2]
+Reserva de Nutrientes II
+
 [MAT_MEDAL]
 Medallas
 
@@ -34023,6 +32671,9 @@ Piedra
 
 [MAT_NFSLINKAGE_TICKET_6]
 Bastón de caramelo
+
+[MAT_NFSLINKAGE_TICKET_7]
+Lingote de oro
 
 [MAT_NO42_UNIVERSE_BASIC_SUN]
 Sol inicial
@@ -34252,6 +32903,15 @@ Se usa para Mejorar tus Colgantes hasta el Nivel 2.
 [MAT_SPRINGFESTIVAL_CURRENCY]
 Monedas de desafío
 
+[MAT_SUPER_AVATAR_TICKET_A]
+Super-cupón de Atuendos
+
+[MAT_SUPER_AVATAR_TICKET_A_GOT_WAY]
+Tierras ocultas
+
+[MAT_SUPER_AVATAR_TICKET_A_USE]
+Te permite seleccionar el Super-atuendo de tu elección
+
 [MAT_TOURISM_OCTOBER]
 Monedas de la amistad
 
@@ -34408,6 +33068,48 @@ Batallaz.
 [MAT_ZMATCH_TICKET_USE]
 Se usa para canjear artículos en las Tiendaz.
 
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_1_DESCRIPTION]
+No puedes usar Nutrientes en la Zona de infinito
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_2_DESCRIPTION]
+El coste de las plantas moradas aumenta en 50 puntos por cada una plantada
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_3_DESCRIPTION]
+Pelea de jefe cada 9 Niveles
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_4_DESCRIPTION]
+Mantienes tu formación, soles y plantas seleccionadas entre cada fase
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_5_DESCRIPTION]
+Tu progreso se guarda si abandonas la partida, y se restaura al regresar.
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_6_DESCRIPTION]
+Si pierdes o te retiras, recibirás Monedas de cobre y Jade como premio final (máx. 500 de Jade a la semana)
+
+[MAUSOLEUMHARD_HOWTOPLAY_1_DESCRIPTION]
+Las plantas derrotadas cuentan como bajas (a excepción del césped)
+
+[MAUSOLEUMHARD_HOWTOPLAY_2_DESCRIPTION]
+No puedes colocar a las plantas que se hayan dado de baja
+
+[MAUSOLEUMHARD_HOWTOPLAY_3_DESCRIPTION]
+Tampoco puedes escoger semillas de las plantas caídas en el menu
+
+[MAUSOLEUMHARD_HOWTOPLAY_4_DESCRIPTION]
+Las plantas instantáneas no cuentan como bajas pero su recarga es más lenta
+
+[MAUSOLEUMHARD_HOWTOPLAY_5_DESCRIPTION]
+Quitar una planta con la pala no cuenta como baja, la pala es de uso limitado
+
+[MAUSOLEUMHARD_HOWTOPLAY_6_DESCRIPTION]
+Si pierdes, volverás al Nivel 1 del modo difícil y recuperarás tus plantas caídas
+
+[MAUSOLEUM_TASKDESCRIPTION]
+Alcanza el Nivel {NUMBER}
+
+[MAUSOLEUM_TASKDESCRIPTION_TITLE]
+Misiones de infinito
+
 [MAX_LEVEL_QUEST_DESC]
 ¡Alucina con algunos Lanzaguisantes que no son tan simples!
 
@@ -34546,6 +33248,9 @@ Las Mega Guisantralladoras disparan cuatro guisantes a la vez, planta guisantes 
 
 [MEGAGATLING_DESCRIPTION_PLANTFOOD]
 {KEYWORD}Nutrientes: {STAT}Dispara un gran número de guisantes que infligen grandes daños. El ataque normal lanzará siempre cinco guisantes en lugar de cuatro.
+
+[MEGAGATLING_KILL_TIPS]
+Zombis eliminados: {NUM}
 
 [MEGAGATLING_NEW_SKILL_LEVEL1_DES]
 Dispara 4 guisantes a la vez, con un 2% de usar Nutrientes por ataque
@@ -35843,6 +34548,28 @@ Hipnomorfosis Zombistein
 
 [MORPH_TO_GARG]
 Convertirse en Zombistein
+
+[MOTON]
+Vid rayo
+
+[MOTON_AVATAR_PLANTFOOD_DESCRIPTION]
+Los orbes del efecto aturden zombis durante 5 s
+
+[MOTON_DESCRIPTION]
+{KEYWORD}Especial: {STAT}hace el doble de daño a zombis blindados
+{KEYWORD}Características de la planta: {STAT}planta verde
+
+{FLAVOR}Apodada como "la enredadera mágica" por sus compañeras, pero se enfada cuando la comparan con cosas que dan pesadillas.
+
+[MOTON_DESCRIPTION_HEADER]
+Vid rayo dispara un orbe eléctrico para dañar a los zombis de la línea, haciendo mayor daño a los que llevan armaduras.
+
+[MOTON_NEW_SKILL_LEVEL1_DES]
+Dispara orbes, hace grandes daños a zombis blindados
+^E2725B^Daño a armaduras: x2^oldclr^
+
+[MOTON_TOOLTIP]
+Dispara orbes, hace grandes daños a zombis blindados
 
 [MULBERRY]
 Baya artillera
@@ -43439,6 +42166,81 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 [NARRATIVE_MAP_PVP_INTRO_4]
 {EXCITED:crazydave}Quiero ver esos gusanos, ¡vamos!
 
+[NARRATIVE_MAUSOLEUM_1_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Wow, qué lugar tan majestuso! ¿Dónde estamos exactamente?
+
+[NARRATIVE_MAUSOLEUM_1_INTRO_2]
+{SAY:winnie}Estamos en el Mausoleo de Qin Shi Huang, también conocido como el Palacio subterráneo.
+
+[NARRATIVE_MAUSOLEUM_1_INTRO_3]
+{SAY:crazydave}No sé quién es ese tal Qin, pero se nota que tenía sus influencias.
+
+[NARRATIVE_MAUSOLEUM_1_INTRO_4]
+{SAY:winnie}Así es, fue el primer emperador de China.
+
+[NARRATIVE_MAUSOLEUM_1_INTRO_5]
+{PLAYFUL:crazydave}Por cierto... ¿sabes si hay tacos por aquí?
+
+[NARRATIVE_MAUSOLEUM_1_INTRO_6]
+{TIRED:winnie}En esta época todavía no se había descubierto el maíz, usuario Dave.
+
+[NARRATIVE_MAUSOLEUM_1_INTRO_7]
+{SPECIAL12:crazydave}¡TACOS!
+
+[NARRATIVE_MAUSOLEUM_2_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Estos túneles se ven sospechosos... demasiado sospechosos.
+
+[NARRATIVE_MAUSOLEUM_2_INTRO_2]
+{SAY:winnie}En realidad son trincheras, su terreno fangoso impiden el plantado.
+
+[NARRATIVE_MAUSOLEUM_2_INTRO_3]
+{SAY:winnie}Ten cuidado: los zombis pueden caminar por ellas sin problema.
+
+[NARRATIVE_MAUSOLEUM_3_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Trincheras y más trincheras... esto empieza a ser personal.
+
+[NARRATIVE_MAUSOLEUM_3_INTRO_2]
+{PLAYFUL:winnie}Tenemos césped especial. Plántalo ahí y podrás colocar plantas encima.
+
+[NARRATIVE_MAUSOLEUM_5_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}¡Precaución! He detectado tiradores enemigos en la retaguardia.
+
+[NARRATIVE_MAUSOLEUM_5_INTRO_2]
+{SPECIAL9:crazydave}¿Tiradores? ¡Nuestras cabezas están en peligro! ¿Qué hacemos?
+
+[NARRATIVE_MAUSOLEUM_5_INTRO_3]
+{SAY:winnie}Plantemos a Zanahortillería para atacar a los zombis más atrás de la fila.
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Mira esas estatuas! ¡Tienen pinta de que se mueven cuando no las miras!
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_2]
+{SAY:winnie}Son Guerreros de terracota, una de las grandes maravillas del mundo antiguo.
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_3]
+{SAY:winnie}Pero algo no encaja. Estas estatuas están imbuidas de una magia anómala.
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_4]
+{EXCITED:crazydave}¿Magia? ¿Algo como convertir plantas en ovejas?
+
+[NARRATIVE_MAUSOLEUM_7_INTRO_5]
+{SAY:winnie}Peor. Pueden despertar como zombis auténticos. Usa a Vid rayo antes de que eso ocurra.
+
+[NARRATIVE_MAUSOLEUM_10_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Una poderosa aura emana de esta cámara.
+
+[NARRATIVE_MAUSOLEUM_10_INTRO_2]
+{SAY:winnie}Se trata del mismísimo emperador Qin. Él dirige todo este ejército desde las sombras.
+
+[NARRATIVE_MAUSOLEUM_10_INTRO_3]
+{EXCITED:crazydave}¡Bah! ¡Mi Mega Guisantralladora nunca pierde!
+
+[NARRATIVE_MAUSOLEUM_10_INTRO_4]
+{TIRED:winnie}...
+
+[NARRATIVE_MAUSOLEUM_10_INTRO_5]
+{SAY:crazydave}Vale... es demasiado tarde para huir, ¿cierto?
+
 [NARRATIVE_MEGAGATLING_EQ_1]
 {NPC_ENTER:winnie}{SAY:winnie}Planta Mega Guisantralladoras para disparar 4 guisantes a la vez.
 
@@ -45659,6 +44461,138 @@ B. Viajar al pasado y colocar tus trampas
 
 [NARRATIVE_PVZ1_S28_16_H_INTRO_6]
 {SAY:crazydave}Oh, dulce primavera... ¿dónde estás?
+
+[NARRATIVE_PVZ1_S29_1_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Y otro año que llega a su fin... ¡Feliz Año Nuevo, Penny!
+
+[NARRATIVE_PVZ1_S29_1_H_INTRO_2]
+{SAY:winnie}No celebres todavía. Detecto una presencia hostil que intenta arruinar nuestro festival.
+
+[NARRATIVE_PVZ1_S29_1_H_INTRO_3]
+{SAY:crazydave}¡Lo veo! ¡Ese cascanueces gigante viene directo hacia nosotros! ¡Lo detendré!
+
+[NARRATIVE_PVZ1_S29_2_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Nuestra fiesta de Año Nuevo se está haciendo pedazos. Literalmente.
+
+[NARRATIVE_PVZ1_S29_2_H_INTRO_2]
+{SAY:winnie}No debería haber más anomalías en esta realidad... salvo el meteorito que se dirige hacia nosotros.
+
+[NARRATIVE_PVZ1_S29_2_H_INTRO_3]
+{SAY:winnie}Debemos regresar a nuestra época en cuanto antes.
+
+[NARRATIVE_PVZ1_S29_3_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Los zombis sacaron sus disfraces de Halloween... aunque ya no es Halloween.
+
+[NARRATIVE_PVZ1_S29_3_H_INTRO_2]
+{SAY:winnie}Alerta: intrusos detectados en el espacio aéreo.
+
+[NARRATIVE_PVZ1_S29_3_H_INTRO_3]
+{PLAYFUL:winnie}¡Escuadrón aéreo a la acción! Objetivo: destruir todo lo que vuele, ya sean cuervos o zombis.
+
+[NARRATIVE_PVZ1_S29_4_H_INTRO_1]
+{NPC_ENTER:zombossicon}{PLAYFUL:zombossicon}Veamos quién manda en esta carrera por los cielos.
+
+[NARRATIVE_PVZ1_S29_4_H_INTRO_2]
+{EXCITED:zombossicon}¡Mis zombis voladores de élite te darán caza sin descanso! ¡MUAJAJAJAJA!
+
+[NARRATIVE_PVZ1_S29_4_H_INTRO_3]
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Quizás no podamos quedarnos aquí por más tiempo.
+
+[NARRATIVE_PVZ1_S29_4_H_INTRO_4]
+{SAY:crazydave}Sip. Totalmente de acuerdo.
+
+[NARRATIVE_PVZ1_S29_5_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Los zombis se están amontonando. Si siguen así, dejarán el patio patas arriba.
+
+[NARRATIVE_PVZ1_S29_5_H_INTRO_2]
+{SAY:crazydave}¡No si los atrapo primero!
+
+[NARRATIVE_PVZ1_S29_6_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Los zombis nos han invitado a una batalla amistosa!
+
+[NARRATIVE_PVZ1_S29_6_H_INTRO_2]
+{SAY:winnie}Si por "batalla amistosa" te refieres a comer cerebros, sí, estás en lo correcto.
+
+[NARRATIVE_PVZ1_S29_7_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}La cubierta estaba demasiado llena, así que moví las Papapúm de lugar.
+
+[NARRATIVE_PVZ1_S29_7_H_INTRO_2]
+{TIRED:winnie}No me parece una buena idea. Si las Papapúm explotan, nuestro barco se hundirá.
+
+[NARRATIVE_PVZ1_S29_8_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Ya tengo listos los fuegos artificiales para Año Nuevo, usuario Dave.
+
+[NARRATIVE_PVZ1_S29_8_H_INTRO_2]
+{EXCITED:crazydave}¡Genial! ¡A festejar!
+
+[NARRATIVE_PVZ1_S29_9_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Tengo la sensación de que ya hemos estado aquí antes...
+
+[NARRATIVE_PVZ1_S29_9_H_INTRO_2]
+{SAY:winnie}Espero que no hayas cometido el mismo error dos veces.
+
+[NARRATIVE_PVZ1_S29_9_H_INTRO_3]
+{SAY:crazydave}No te preocupes, esta vez traje mis tacos.
+
+[NARRATIVE_PVZ1_S29_10_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Un círculo mágico súper maligno se apoderó de nuestro jardín!
+
+[NARRATIVE_PVZ1_S29_10_H_INTRO_2]
+{SAY:winnie}Parece un ritual místico que invoca un vórtice temporal.
+
+[NARRATIVE_PVZ1_S29_10_H_INTRO_3]
+{PLAYFUL:winnie}Quizás podamos usarlo para romper esta formación.
+
+[NARRATIVE_PVZ1_S29_11_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Hemos llegado al punto más lejano del pasado en nuestro viaje.
+
+[NARRATIVE_PVZ1_S29_11_H_INTRO_2]
+{SAY:winnie}Nos quedan aproximadamente 150 millones de años antes de regresar con éxito al 2026.
+
+[NARRATIVE_PVZ1_S29_11_H_INTRO_3]
+{SAY:crazydave}Parece que el tiempo se acaba... y al mismo tiempo, que sobra.
+
+[NARRATIVE_PVZ1_S29_12_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Parece que los zombis han conseguido barriles de pólvora, otra vez...
+
+[NARRATIVE_PVZ1_S29_12_H_INTRO_2]
+{PLAYFUL:crazydave}¡Ja! Parece que no tienen ni idea de lo peligroso que es lo que están cargando.
+
+[NARRATIVE_PVZ1_S29_13_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Esas tiendas de campaña están generando demasiados zombis. Debemos destruirlas cuanto antes.
+
+[NARRATIVE_PVZ1_S29_13_H_INTRO_2]
+{EXCITED:crazydave}¡No te preocupes, Penny! ¡Las volaré en pedazos!
+
+[NARRATIVE_PVZ1_S29_14_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Quedan aproximadamente 2,85 millones de años hasta llegar al 2026.
+
+[NARRATIVE_PVZ1_S29_14_H_INTRO_2]
+{SAY:winnie}Una paradoja temporal nos impide usar las plantas recolectadas después de salir del lugar.
+
+[NARRATIVE_PVZ1_S29_14_H_INTRO_3]
+{SAY:crazydave}Pero juraría que aquí hace más frío que cuando llegamos.
+
+[NARRATIVE_PVZ1_S29_15_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Según la historia del cultivo de alcachofas en el antiguo Egipto, solo nos separan unos 4000 años de la era moderna.
+
+[NARRATIVE_PVZ1_S29_15_H_INTRO_2]
+{SAY:crazydave}Aquí no hay zombis, solo un montón de camellos rarísimos.
+
+[NARRATIVE_PVZ1_S29_15_H_INTRO_3]
+{SAY:winnie}Se trata de una emboscada. Los disfraces no engañan a un maestro del dardo.
+
+[NARRATIVE_PVZ1_S29_16_H_INTRO_1]
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Tras cargar con el peso de 365 días, solo la noche logra calmar mi brillante mente agotada.
+
+[NARRATIVE_PVZ1_S29_16_H_INTRO_2]
+{SAY:zombossicon}¡Abandona toda esperanza del mañana! ¡Olvida llegar con vida al Año Nuevo!
+
+[NARRATIVE_PVZ1_S29_16_H_INTRO_3]
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Pero aún me faltan nuevos tacos por probar! ¡Así no se vale!
+
+[NARRATIVE_PVZ1_S29_16_H_INTRO_4]
+{SAY:winnie}Si nos quedamos atrapados en el pasado, perderemos todas las posibilidades del futuro.
 
 [NARRATIVE_PYREVINE_EQ_1]
 {NPC_ENTER:winnie}{SAY:winnie}Las Enredaderas son plantas especiales que se pueden plantar por encima de otras plantas.
@@ -48575,6 +47509,9 @@ A quienes recargaron durante los eventos de Año Nuevo 2024-2025 y quedaron en 2
 [NEWYEAR_GIFT_HEAD_DES_ID_25801]
 A quienes recargaron durante los eventos de Año Nuevo 2024-2025 y quedaron en 3er lugar
 
+[NEWYEAR_GIFT_HEAD_DES_ID_25817]
+A quienes recargaron durante los eventos de Año Nuevo 2025-2026 y quedaron en 1er lugar
+
 [NEWYEAR_GIFT_HEAD_ID_25632]
 Año próspero
 
@@ -48598,6 +47535,9 @@ Poción mística
 
 [NEWYEAR_GIFT_HEAD_ID_25801]
 Reunión familiar
+
+[NEWYEAR_GIFT_HEAD_ID_25817]
+Cielo iluminado
 
 [NEWYEAR_GOODS]
 Super Elección
@@ -48727,8 +47667,17 @@ Vel. de movimiento +20%
 [NEW_AVATAR_DESCRIPTION_ALOES_3]
 Tiempo de recuperación -10%
 
+[NEW_AVATAR_DESCRIPTION_ALOES_4]
+Aumenta los efectos de mejora en las plantas en un 20%
+
+[NEW_AVATAR_DESCRIPTION_ALOES_5]
+Efectos visuales solamente.
+
 [NEW_AVATAR_DESCRIPTION_ANIMNUTS_1]
 Coste -50
+
+[NEW_AVATAR_DESCRIPTION_ANIMNUTS_2]
+Coste -25
 
 [NEW_AVATAR_DESCRIPTION_APPLEMORTAR_1]
 Recarga rápida +10%
@@ -48759,6 +47708,9 @@ Daño +20%
 
 [NEW_AVATAR_DESCRIPTION_BIRTHSUNFLOWER_1]
 Vel. de producción +10%
+
+[NEW_AVATAR_DESCRIPTION_BIRTHSUNFLOWER_4]
+Aumenta los efectos del canto potenciador en un 10%
 
 [NEW_AVATAR_DESCRIPTION_BLOOMERANG_1]
 Daño +15%
@@ -48886,11 +47838,17 @@ Vel. de ataque +10%
 [NEW_AVATAR_DESCRIPTION_CYPRIPEDIUM_2]
 Daño +10%
 
+[NEW_AVATAR_DESCRIPTION_DANDELION_1]
+Vel. de ataque +10%
+
 [NEW_AVATAR_DESCRIPTION_DEODARCEDAR_1]
 Daño +20%
 
 [NEW_AVATAR_DESCRIPTION_DEVILSFLOWER_1]
 Daño +20%
+
+[NEW_AVATAR_DESCRIPTION_DOOMSHROOM_1]
+Recarga rápida +10%
 
 [NEW_AVATAR_DESCRIPTION_DRACAENA_1]
 Daño +20%
@@ -49099,6 +48057,9 @@ Daño +20%
 [NEW_AVATAR_DESCRIPTION_ICEWEED_2]
 Recarga rápida +20%
 
+[NEW_AVATAR_DESCRIPTION_ICYCURRANT_1]
+Prolonga la duración de la congelación en 1 s
+
 [NEW_AVATAR_DESCRIPTION_IMPPEAR_1]
 Recarga rápida +10%
 
@@ -49201,6 +48162,9 @@ Coste -15
 [NEW_AVATAR_DESCRIPTION_MEGAGATLING_1]
 Daño +25%
 
+[NEW_AVATAR_DESCRIPTION_MEGAGATLING_2]
+Coste -150
+
 [NEW_AVATAR_DESCRIPTION_MELONPULT_1]
 Vel. de ataque +20%
 
@@ -49285,6 +48249,9 @@ Vel. de ataque +20%
 [NEW_AVATAR_DESCRIPTION_PEASHOOTER_2]
 Gana un 10% de probabilidad de disparar 2 guisantes a la vez.
 
+[NEW_AVATAR_DESCRIPTION_PEONYCHI_1]
+Salud +10%
+
 [NEW_AVATAR_DESCRIPTION_PHATBEET_1]
 Daño +10%
 
@@ -49302,6 +48269,9 @@ Daño venenoso +10%
 
 [NEW_AVATAR_DESCRIPTION_POKRA_1]
 Aumenta la probabilidad de los efectos del Nvl. 2 en un 10%
+
+[NEW_AVATAR_DESCRIPTION_POKRA_2]
+Daño venenoso +25%
 
 [NEW_AVATAR_DESCRIPTION_POTATOMINE_1]
 Daño explosivo +20%
@@ -49359,6 +48329,9 @@ Vel. de ataque +10%
 
 [NEW_AVATAR_DESCRIPTION_REPEATER_2]
 Vel. de ataque +15%
+
+[NEW_AVATAR_DESCRIPTION_REPEATER_3]
+Aumenta el daño y velocidad de ataque en un 5%
 
 [NEW_AVATAR_DESCRIPTION_RHEUMNOBILE_1]
 Coste -50
@@ -49477,6 +48450,9 @@ Reduce el tiempo de producción solar en 4 s
 [NEW_AVATAR_DESCRIPTION_SUNSHROOM_1]
 Producción solar +25
 
+[NEW_AVATAR_DESCRIPTION_SUNSHROOM_2]
+Vel. de producción +20%
+
 [NEW_AVATAR_DESCRIPTION_TALLNUT_1]
 Salud +20%
 
@@ -49519,6 +48495,9 @@ Producción solar +25
 [NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_2]
 Gana un 15% de probabilidad de dar 100 monedas al producir soles.
 
+[NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_3]
+Efectos visuales solamente.
+
 [NEW_AVATAR_DESCRIPTION_VANILLA_1]
 Aumenta la probabilidad de los efectos del Nvl. 2 en un 10%
 
@@ -49542,6 +48521,9 @@ Intervalo de ataque -20%
 
 [NEW_AVATAR_DESCRIPTION_WINTERSWEET_1]
 Daño +10%
+
+[NEW_AVATAR_DESCRIPTION_WINTERSWEET_2]
+Daño +20%
 
 [NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_1]
 Daño +10%
@@ -49600,8 +48582,17 @@ Moño de aniversario
 [NEW_AVATAR_SHORT_DESCRIPTION_ALOES_3]
 DJ Aloe
 
+[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_4]
+Prosperidad
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ALOES_5]
+Prosperidad copiosa
+
 [NEW_AVATAR_SHORT_DESCRIPTION_ANIMNUTS_1]
 Tetera
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ANIMNUTS_2]
+Hydra
 
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_1]
 Traje de algodón
@@ -49638,6 +48629,9 @@ Grandes aros
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
 Medalla Z
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_4]
+Dulce pastel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BLOOMERANG_1]
 Sombrero
@@ -49774,6 +48768,9 @@ Sombrero de bufón
 [NEW_AVATAR_SHORT_DESCRIPTION_CYPRIPEDIUM_2]
 Pañuelo de cocina
 
+[NEW_AVATAR_SHORT_DESCRIPTION_DANDELION_1]
+Arco
+
 [NEW_AVATAR_SHORT_DESCRIPTION_DAZEYCHAIN_1]
 Gafas locas
 
@@ -49782,6 +48779,9 @@ Plataforma
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DEVILSFLOWER_1]
 Orejas de gato
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DOOMSHROOM_1]
+Dr. Doom
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_1]
 Traje de Chenwu
@@ -50026,6 +49026,9 @@ Cuernos demoniacos
 [NEW_AVATAR_SHORT_DESCRIPTION_ICEWEED_2]
 Bufanda
 
+[NEW_AVATAR_SHORT_DESCRIPTION_ICYCURRANT_1]
+Gafas
+
 [NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_1]
 Cinta año del Conejo
 
@@ -50149,6 +49152,9 @@ Capa roja
 [NEW_AVATAR_SHORT_DESCRIPTION_MEGAGATLING_1]
 Gran soldado
 
+[NEW_AVATAR_SHORT_DESCRIPTION_MEGAGATLING_2]
+Viajero
+
 [NEW_AVATAR_SHORT_DESCRIPTION_MELONPULT_1]
 Sombrero de marinero
 
@@ -50251,6 +49257,9 @@ Traje navideño
 [NEW_AVATAR_SHORT_DESCRIPTION_PEASHOOTER_3]
 Gorra hacia atrás
 
+[NEW_AVATAR_SHORT_DESCRIPTION_PEONYCHI_1]
+Traje de combate
+
 [NEW_AVATAR_SHORT_DESCRIPTION_PHATBEET_1]
 Bufanda año del Conejo
 
@@ -50268,6 +49277,9 @@ Máscara
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POKRA_1]
 Peluca de muñeca
+
+[NEW_AVATAR_SHORT_DESCRIPTION_POKRA_2]
+Atuendo invernal
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POTATOMINE_1]
 Ojos locos
@@ -50328,6 +49340,9 @@ Sombrero de mapache
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_2]
 Casco vikingo
+
+[NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_3]
+Arquero
 
 [NEW_AVATAR_SHORT_DESCRIPTION_RHEUMNOBILE_1]
 Torre adornada
@@ -50461,6 +49476,9 @@ Cinta de regalo
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNSHROOM_1]
 Tang Monk
 
+[NEW_AVATAR_SHORT_DESCRIPTION_SUNSHROOM_2]
+Orejas de conejo
+
 [NEW_AVATAR_SHORT_DESCRIPTION_TALLNUT_1]
 Barba DRP
 
@@ -50512,6 +49530,9 @@ Sombreros de copa
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSUNFLOWER_2]
 Birasol infernal
 
+[NEW_AVATAR_SHORT_DESCRIPTION_TWINSUNFLOWER_3]
+Estrella púrpura
+
 [NEW_AVATAR_SHORT_DESCRIPTION_VANILLA_1]
 Sombrero de fiesta
 
@@ -50538,6 +49559,9 @@ Zinturón dorado
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_1]
 Gauze
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_2]
+Velo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_1]
 Gafas corazón
@@ -50712,6 +49736,19 @@ Atributos
 
 [NEW_PLANT_UI_TEAM_CHOOSER_TITLE]
 Formación
+
+[NEW_PLANT_UI_TEAM_EDIT_DELETE_CONFIRM_CANCEL]
+CANCELAR
+
+[NEW_PLANT_UI_TEAM_EDIT_DELETE_CONFIRM_OK]
+ACEPTAR
+
+[NEW_PLANT_UI_TEAM_EDIT_DELETE_CONFIRM_TEXT]
+¿Seguro que deseas borrar la formación de plantas actual?
+¡Esto es irreversible!
+
+[NEW_PLANT_UI_TEAM_EDIT_DELETE_CONFIRM_TITLE]
+¿Borrar formación?
 
 [NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_NAME_CONFIRM]
 GUARDAR
@@ -51541,6 +50578,11 @@ SIGUIENTE
 2. Completa misiones para conseguir Bastones de caramelo (las hay diarias y especiales).
 3. Usa los Bastones en la Tienda para comprar artículos antes de que termine el evento.
 
+[NFSLINKAGE_DESCRIPTION_7]
+1. Inicia sesión durante 14 días para recibir recompensas en el Calendario.
+2. Completa misiones para conseguir Lingotes de oro (las hay diarias y especiales).
+3. Usa los Lingotes en la Tienda para comprar artículos antes de que termine el evento.
+
 [NFSLINKAGE_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
 
@@ -51554,6 +50596,9 @@ Descripción
 Descripción
 
 [NFSLINKAGE_DESCRIPTION_TITLE_6]
+Descripción
+
+[NFSLINKAGE_DESCRIPTION_TITLE_7]
 Descripción
 
 [NFSLINKAGE_TASK_NAME_1]
@@ -51598,6 +50643,9 @@ Explorando Hemudu
 [NFSLINKAGE_TITLE_6]
 Batalla navideña
 
+[NFSLINKAGE_TITLE_7]
+Caza de lingotes
+
 [NFS_LINKAGE_TAB1]
 Calendario
 
@@ -51615,6 +50663,9 @@ Hemudu
 
 [NFS_LINKAGE_TAB2_6]
 Navidad
+
+[NFS_LINKAGE_TAB2_7]
+Cazalingotes
 
 [NFS_LINKAGE_TAB3]
 Tienda
@@ -51844,6 +50895,69 @@ Ronda 2: {NUM} ptos
 
 [NONE_DATA]
 Sin datos.
+
+[NOQIN_LEVEL_NAME_01]
+Mausoleo de Qin - Día 1
+
+[NOQIN_LEVEL_NAME_01_H]
+Mausoleo de Qin - Día 1 (Difícil)
+
+[NOQIN_LEVEL_NAME_02]
+Mausoleo de Qin - Día 2
+
+[NOQIN_LEVEL_NAME_02_H]
+Mausoleo de Qin - Día 2 (Difícil)
+
+[NOQIN_LEVEL_NAME_03]
+Mausoleo de Qin - Día 3
+
+[NOQIN_LEVEL_NAME_03_H]
+Mausoleo de Qin - Día 3 (Difícil)
+
+[NOQIN_LEVEL_NAME_04]
+Mausoleo de Qin - Día 4
+
+[NOQIN_LEVEL_NAME_04_H]
+Mausoleo de Qin - Día 4 (Difícil)
+
+[NOQIN_LEVEL_NAME_05]
+Mausoleo de Qin - Día 5
+
+[NOQIN_LEVEL_NAME_05_H]
+Mausoleo de Qin - Día 5 (Difícil)
+
+[NOQIN_LEVEL_NAME_06]
+Mausoleo de Qin - Día 6
+
+[NOQIN_LEVEL_NAME_06_H]
+Mausoleo de Qin - Día 6 (Difícil)
+
+[NOQIN_LEVEL_NAME_07]
+Mausoleo de Qin - Día 7
+
+[NOQIN_LEVEL_NAME_07_H]
+Mausoleo de Qin - Día 7 (Difícil)
+
+[NOQIN_LEVEL_NAME_08]
+Mausoleo de Qin - Día 8
+
+[NOQIN_LEVEL_NAME_08_H]
+Mausoleo de Qin - Día 8 (Difícil)
+
+[NOQIN_LEVEL_NAME_09]
+Mausoleo de Qin - Día 9
+
+[NOQIN_LEVEL_NAME_09_H]
+Mausoleo de Qin - Día 9 (Difícil)
+
+[NOQIN_LEVEL_NAME_10]
+Mausoleo de Qin - Día 10
+
+[NOQIN_LEVEL_NAME_10_H]
+Mausoleo de Qin - Día 10 (Difícil)
+
+[NOQIN_LEVEL_NAME_DANGERROOM]
+Mausoleo perpetuo
 
 [NORMAL_DRUM]
 Cubo desgastado
@@ -52329,6 +51443,12 @@ A quienes jugaron por 600 días seguidos
 [NUMBERLOGINS_HEAD_DES_ID_25593]
 A quienes jugaron por 999 días seguidos
 
+[NUMBERLOGINS_HEAD_DES_ID_25812]
+A quienes jugaron por 1314 días seguidos
+
+[NUMBERLOGINS_HEAD_DES_ID_25813]
+A quienes jugaron por 1666 días seguidos
+
 [NUMBERLOGINS_HEAD_ID_25590]
 Jugador leal
 
@@ -52340,6 +51460,12 @@ Fan dorado
 
 [NUMBERLOGINS_HEAD_ID_25593]
 Diamante milenario
+
+[NUMBERLOGINS_HEAD_ID_25812]
+Diamante rosa
+
+[NUMBERLOGINS_HEAD_ID_25813]
+Cetro de jade
 
 [NUMBER_FORMAT_SEPARATOR]
 ,
@@ -52705,6 +51831,9 @@ Pantalla completa
 
 [OPTIONS_MUSIC_LABEL]
 Música
+
+[OPTIONS_SKIPANIMS]
+Omitir animaciones
 
 [OPTIONS_SOUNDFX]
 Efectos
@@ -56153,6 +55282,9 @@ No se pueden crear agujeros negros ahí
 [PLANTING_ARTIFACT_EVOLUTION_NOT_ON_THIS]
 No se puede usar el Evolucionador de plantas ahí
 
+[PLANTING_ARTIFACT_LIONDANCE_NOT_ON_THIS]
+No puedes usar el Decreto de león ahí
+
 [PLANTING_ARTIFACT_SILVERKEY_NOT_ON_THIS]
 No se pueden crear portales interdimensionales ahí
 
@@ -56212,6 +55344,9 @@ Intenta no superar el límite superior del número de plantas.
 
 [PLANTING_NEED_FLOWERPOT_FIRST]
 Pon antes una Maceta
+
+[PLANTING_NEED_UNCHARTED_HAYSTACK_FIRST]
+Pon césped primero
 
 [PLANTING_NOT_IN_KELPGUARD]
 No puedes plantar en barreras de algas
@@ -56315,8 +55450,14 @@ No puedes plantar en sushi
 [PLANTING_NOT_ON_SWORDFISH]
 No puedes plantar en un pez espada
 
+[PLANTING_NOT_ON_TERRACOTTA]
+No puedes plantar sobre guerreros de terracota
+
 [PLANTING_NOT_ON_TRAIN]
 No puedes plantar sobre trenes
+
+[PLANTING_NOT_ON_UNCHARTED_HAYSTACK]
+No puedes colocar a {PLANT_NAME} sobre césped
 
 [PLANTING_NOT_ON_VAN_MIST]
 No se puedes plantar en casillas en llamas
@@ -56326,6 +55467,12 @@ No puedes plantar sobre lingotes de oro.
 
 [PLANTING_ON_BESIEGE_BOX]
 Solo puedes plantar sobre algunas cajas
+
+[PLANTING_UNCHARTED_HAYSTACK_ON_UNCHARTED_HAYSTACK]
+Ya hay césped ahí
+
+[PLANTING_UNCHARTED_HAYSTAC_ONLY_TUNNEL]
+El césped solo se coloca en trincheras
 
 [PLANTING_VINE_CAN_NOT_PLANT_ON_COBCANNON]
 No puedes plantar enredaderas sobre Mazorcañón
@@ -58232,6 +57379,9 @@ Ezcape del vacío
 [PLAYERS_TRIP_TO_PREVIEW]
 ¡El parque botánico de {PLAYER}!
 
+[PLAYERS_TRIP_TO_QIN]
+¡El viaje de {PLAYER} al Mausoleo de Qin!
+
 [PLAYERS_TRIP_TO_RENAI]
 ¡El viaje de {PLAYER} a la Era del Renacimiento!
 
@@ -58255,6 +57405,9 @@ Destructores
 
 [PLAYERS_TRIP_TO_SUMMEREVENT]
 ¡El viaje de {PLAYER} al Festival de verano!
+
+[PLAYERS_TRIP_TO_TIMESPACE]
+¡El viaje espacio-temporal de {PLAYER}!
 
 [PLAYERS_TRIP_TO_WEST]
 ¡El viaje de {PLAYER} al Salvaje Oeste!
@@ -65100,6 +64253,9 @@ El código de descuento ha sido usado.
 [PVP_ERROR_76030]
 Detectado el uso de trampas.
 
+[PVP_ERROR_76045]
+Se detectó el uso de trampas, has sido vetado del evento por 30 d
+
 [PVP_ERROR_ACHIEVEMENT_REWARD_ALREADY_GOT]
 Ya has reclamado esta recompensa, inténtalo de nuevo mañana.
 
@@ -65291,6 +64447,12 @@ Planea tus defensas contra los zombis
 
 [PVZ1MODE_INFO_BANNED_LIST]
 Plantas que no puedes usar
+
+[PVZ1MODE_IPLANT]
+Yo, planta
+
+[PVZ1MODE_IPLANT_NORMAL_DESC]
+Planta con antelación para destruir a los zombis
 
 [PVZ1MODE_IZOMBIE]
 Guerra de zombis
@@ -65824,6 +64986,12 @@ Jugador vetado por hacer trampas. No puedes acceder con esta cuenta.
 Jugador vetado por hacer trampas. No puedes acceder con esta cuenta.
 ¿Se trata de un error? Contáctate al soporte en QQ: 4008932088
 
+[PVZ2_MAUSOLEUM_MODE_SHOP_BUY_HARD_CONFIRM]
+¿Deseas comprar esto por {NUMS} Piezas de jade?
+
+[PVZ2_MAUSOLEUM_MODE_SHOP_BUY_NORMAL_CONFIRM]
+¿Deseas comprar esto por {NUMS} Monedas de cobre?
+
 [PVZ2_NSCALENDARSUSAGEDESCRIPTION]
 Esta aplicación quiere acceder a tu calendario para mostrar anuncios interactivos.
 
@@ -65866,6 +65034,11 @@ Insignia de pase
 
 [PVZ2_UNCHARTED_LEVLPASS_TITLE]
 Tarjeta del pase
+
+[PVZ2_UNCHARTED_MAUSOLEUM_TIPS_DESC_UNCHARTED]
+1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
+2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
+3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
 
 [PVZ2_UNCHARTED_MODE_END_PLAY_LOSS]
 No alcanzaste todos los Objetivos del Nivel.
@@ -66007,6 +65180,9 @@ Esta niebla malvada proporciona un fuerte escudo a los zombis
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_SNOWBALL]
 Aparecen bolas de nieve que pueden ser empujadas por los zombis. ¡Derrítelas con fuego!
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_TUNNEL]
+Los zombis caminan por trincheras donde no se puede plantar
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP1]
 ¡Cuidado con los zombis de ZCorp!
@@ -66155,6 +65331,9 @@ Neblina abrumadora
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_SNOWBALL]
 Bolas de nieve
 
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_TUNNEL]
+Trincheras
+
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP1]
 Invasión de ZCorp
 
@@ -66235,6 +65414,11 @@ Completa los niveles anteriores.
 3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ICEAGE_202411]
+1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
+2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
+3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM]
 1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
 2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
 3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
@@ -66402,8 +65586,29 @@ Condiciones no cumplidas
 [PVZ_ERROR_75512]
 Solo puedes reclamar esto una vez.
 
+[PVZ_ERROR_75700]
+¡La sala no existe!
+
+[PVZ_ERROR_75701]
+¡Ya estás en una sala!
+
+[PVZ_ERROR_75702]
+No existe información para esta sala.
+
+[PVZ_ERROR_75703]
+No existe información sobre los miembros de la sala.
+
+[PVZ_ERROR_75704]
+No hay suficientes miembros en la sala.
+
+[PVZ_ERROR_75705]
+Acceso denegado.
+
 [PVZ_ERROR_75706]
 La partida ya ha comenzado.
+
+[PVZ_ERROR_75707]
+¡La sala está llena!
 
 [PVZ_ERROR_75720]
 No se pudieron reclamar las recompensas, verifica que estés en línea.
@@ -66425,6 +65630,31 @@ Has sido suspendido de los eventos por 30 días por hacer trampas.
 
 [PVZ_ERROR_76041]
 Detectado el uso de trampas, se te ha suspendido de eventos por 30 días. Se te vetará si continua este comportamiento.
+
+[PVZ_ERROR_76042]
+El evento estará disponible de 8:00 a 24:00
+Completa los desafíos dentro de ese horario.
+
+[PVZ_ERROR_76043]
+Intentos agotados, ¡ve y apoya a tus equipos!
+
+[PVZ_ERROR_76044]
+Formación incompleta, ¡elige tus plantas antes de empezar!
+
+[PVZ_ERROR_76045]
+Puntuación anormal. Se te vetará por 30 días si se detecta que has hecho trampa.
+
+[PVZ_ERROR_76046]
+El jefe no ha sido derrotado aún, no se puede modificar la formación.
+
+[PVZ_ERROR_76047]
+Faltan plantas.
+
+[PVZ_ERROR_76048]
+Esas plantas no están permitidas
+
+[PVZ_ERROR_76049]
+Asegurate de que hayas seleccionado todas tus plantas
 
 [PVZ_ERROR_90000]
 Error en la sincronización con la nube.
@@ -67338,6 +66568,12 @@ Recompensa clasificatoria de la temporada 40 de Dueloz
 [RANK_AVATAR_CONTENT_CONTENT_61054]
 Para aquellos que participaron en el evento Feliz 2026
 
+[RANK_AVATAR_CONTENT_CONTENT_61055]
+Recompensa clasificatoria de la temporada 41 de Dueloz
+
+[RANK_AVATAR_CONTENT_CONTENT_61056]
+Para quienes participaron en la 1ra tempora del evento: Fisura temporal
+
 [RANK_AVATAR_CONTENT_CONTENT_61500]
 ¡Dame dulces o te haré una travesura!
 
@@ -67349,6 +66585,9 @@ En homenaje "So Young"
 
 [RANK_AVATAR_CONTENT_CONTENT_61503]
 Un cielo lleno de estrellas.
+
+[RANK_AVATAR_CONTENT_CONTENT_61504]
+¡Llega el Escuadrón de Aventuras de Año Nuevo!
 
 [RANK_AVATAR_CONTENT_TITLE]
 Primer patio
@@ -67518,6 +66757,12 @@ La Gran Masacre
 [RANK_AVATAR_CONTENT_TITLE_61054]
 Regalos navideños
 
+[RANK_AVATAR_CONTENT_TITLE_61055]
+La ira del emperador
+
+[RANK_AVATAR_CONTENT_TITLE_61056]
+Año de abundancia
+
 [RANK_AVATAR_CONTENT_TITLE_61500]
 Dulce o truco
 
@@ -67529,6 +66774,9 @@ Vigor juvenil
 
 [RANK_AVATAR_CONTENT_TITLE_61503]
 Cielo estrellado
+
+[RANK_AVATAR_CONTENT_TITLE_61504]
+Escuadrón rígido
 
 [RANK_AVATAR_DIY_1]
 Maestro de la Creación
@@ -68511,6 +67759,9 @@ Gana un 32% de probabilidad de disparar un guisante de hielo o de fuego, y un 16
 [REPEATER_NEW_SKILL_LEVEL4_DES]
 Gana un 70% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse
 
+[REPEATER_NEW_SKILL_LEVEL5_DES]
+Dispara proyectiles que se dividen en las diagonales hasta 3 veces al golpear un objetivo.
+
 [REPEATER_PLANTFOOD_DESCRIPTION]
 Dispara una ráfaga de 60 guisantes seguida de uno enorme que hace 400 DPS
 
@@ -68528,6 +67779,9 @@ Nivel 3
 
 [REPEATER_SKILL1_LEVEL2_DES]
 ^A048CF^Elementalista:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2; gana la probabilidad de disparar fuego azul.
+
+[REPEATER_SKILL1_LEVEL5]
+Nivel 5
 
 [REPEATER_TOOLTIP]
 Lanza dos guisantes al enemigo
@@ -74573,6 +73827,225 @@ T28-63: Brindis de Año Nuevo
 [S28_MEMORY_LEVEL_NAME_064]
 T28-64: Risas entre nubes
 
+[S29_MEMORY_LEVEL_NAME_1]
+T29-1: El lobo feroz avanza
+
+[S29_MEMORY_LEVEL_NAME_001]
+T29-01: Explosión total
+
+[S29_MEMORY_LEVEL_NAME_2]
+T29-2: Cinturón de asteroides
+
+[S29_MEMORY_LEVEL_NAME_002]
+T29-02: Maestro de la magia
+
+[S29_MEMORY_LEVEL_NAME_3]
+T29-3: Cuervo en avión
+
+[S29_MEMORY_LEVEL_NAME_003]
+T29-03: Escuadrón ninja
+
+[S29_MEMORY_LEVEL_NAME_4]
+T29-4: Tornado F5
+
+[S29_MEMORY_LEVEL_NAME_004]
+T29-04: Un poco mareado
+
+[S29_MEMORY_LEVEL_NAME_5]
+T29-5: Movimiento parabólico
+
+[S29_MEMORY_LEVEL_NAME_005]
+T29-05: Guardián ecológico
+
+[S29_MEMORY_LEVEL_NAME_6]
+T29-6: Hito fronterizo
+
+[S29_MEMORY_LEVEL_NAME_006]
+T29-06: Joven artístico
+
+[S29_MEMORY_LEVEL_NAME_7]
+T29-7: Enemigo formidable
+
+[S29_MEMORY_LEVEL_NAME_007]
+T29-07: Armas de energía
+
+[S29_MEMORY_LEVEL_NAME_8]
+T29-8: Brillo en conjunto
+
+[S29_MEMORY_LEVEL_NAME_008]
+T29-08: Arsenal
+
+[S29_MEMORY_LEVEL_NAME_9]
+T29-9: Línea defensiva
+
+[S29_MEMORY_LEVEL_NAME_009]
+T29-09: Resurrección
+
+[S29_MEMORY_LEVEL_NAME_10]
+T29-10: Atado de pies y manos
+
+[S29_MEMORY_LEVEL_NAME_010]
+T29-10: Corazón de niño
+
+[S29_MEMORY_LEVEL_NAME_11]
+T29-11: Cresta del dragón
+
+[S29_MEMORY_LEVEL_NAME_011]
+T29-11: Aventura al Oeste
+
+[S29_MEMORY_LEVEL_NAME_12]
+T29-12: Bomba de tiempo
+
+[S29_MEMORY_LEVEL_NAME_012]
+T29-12: Caos espacio-temporal
+
+[S29_MEMORY_LEVEL_NAME_13]
+T29-13: Los mil artilugios
+
+[S29_MEMORY_LEVEL_NAME_013]
+T29-13: Era de hielo
+
+[S29_MEMORY_LEVEL_NAME_14]
+T29-14: Córtalo de raíz
+
+[S29_MEMORY_LEVEL_NAME_014]
+T29-14: Cantando y bailando
+
+[S29_MEMORY_LEVEL_NAME_15]
+T29-15: Dando al blanco
+
+[S29_MEMORY_LEVEL_NAME_015]
+T29-15: Castillo en el cielo
+
+[S29_MEMORY_LEVEL_NAME_16]
+T29-16: Reyes y generales
+
+[S29_MEMORY_LEVEL_NAME_016]
+T29-16: Bestia veloz
+
+[S29_MEMORY_LEVEL_NAME_17]
+T29-17: Aliento letal
+
+[S29_MEMORY_LEVEL_NAME_017]
+T29-17: Tecnología del futuro
+
+[S29_MEMORY_LEVEL_NAME_018]
+T29-18: Cien mil voltios
+
+[S29_MEMORY_LEVEL_NAME_019]
+T29-19: Rey del triple
+
+[S29_MEMORY_LEVEL_NAME_020]
+T29-20: Guisante de élite
+
+[S29_MEMORY_LEVEL_NAME_021]
+T29-21: Hongo pisa-zombis
+
+[S29_MEMORY_LEVEL_NAME_022]
+T29-22: Fuego a máxima potencia
+
+[S29_MEMORY_LEVEL_NAME_023]
+T29-23: Cuenta a diez
+
+[S29_MEMORY_LEVEL_NAME_024]
+T29-24: Grito aterrador
+
+[S29_MEMORY_LEVEL_NAME_025]
+T29-25: Ataque pirata
+
+[S29_MEMORY_LEVEL_NAME_026]
+T29-26: Bosque de niebla
+
+[S29_MEMORY_LEVEL_NAME_027]
+T29-27: Crisis empresarial
+
+[S29_MEMORY_LEVEL_NAME_028]
+T29-28: Fiesta en la playa
+
+[S29_MEMORY_LEVEL_NAME_029]
+T29-29: Fiesta de Halloween
+
+[S29_MEMORY_LEVEL_NAME_030]
+T29-30: Devorado por agujeros negros
+
+[S29_MEMORY_LEVEL_NAME_031]
+T29-31: Invasión romana
+
+[S29_MEMORY_LEVEL_NAME_032]
+T29-32: Regreso a casa
+
+[S29_MEMORY_LEVEL_NAME_033]
+T29-33: Ejército Qin
+
+[S29_MEMORY_LEVEL_NAME_034]
+T29-34: Frente a frente
+
+[S29_MEMORY_LEVEL_NAME_035]
+T29-35: Tropas falsas
+
+[S29_MEMORY_LEVEL_NAME_036]
+T29-36: Resurrección impura
+
+[S29_MEMORY_LEVEL_NAME_037]
+T29-37: El tributo de Jing Ke
+
+[S29_MEMORY_LEVEL_NAME_038]
+T29-38: Animales enloquecidos
+
+[S29_MEMORY_LEVEL_NAME_039]
+T29-39: Ataque del general
+
+[S29_MEMORY_LEVEL_NAME_040]
+T29-40: El emperador aparece
+
+[S29_MEMORY_LEVEL_NAME_041]
+T29-41: Dragón en los cielos
+
+[S29_MEMORY_LEVEL_NAME_042]
+T29-42: Pinchazo interminable
+
+[S29_MEMORY_LEVEL_NAME_043]
+T29-43: Pequeñas chispas
+
+[S29_MEMORY_LEVEL_NAME_044]
+T29-44: Avalancha imparable
+
+[S29_MEMORY_LEVEL_NAME_045]
+T29-45: La fuerza de la multitud
+
+[S29_MEMORY_LEVEL_NAME_046]
+T29-46: Bombardeo continuo
+
+[S29_MEMORY_LEVEL_NAME_047]
+T29-47: Rápido como un rayo
+
+[S29_MEMORY_LEVEL_NAME_048]
+T29-48: Paso tambaleante
+
+[S29_MEMORY_LEVEL_NAME_BOSS_1]
+T29: Maestro del Qigong
+
+[S29_MEMORY_LEVEL_NAME_BOSS_2]
+T29: Cabeza de pólvora
+
+[S29_MEMORY_LEVEL_NAME_BOSS_3]
+T29: Cabeza de pólvora II
+
+[S29_MEMORY_LEVEL_NAME_BOSS_4]
+T29: Héroe espadachín
+
+[S29_MEMORY_LEVEL_NAME_BOSS_5]
+T29: Buitre de guerra
+
+[S29_MEMORY_LEVEL_NAME_BOSS_6]
+T29: Góndola aerostática
+
+[S29_MEMORY_LEVEL_NAME_BOSS_7]
+T29: Universo paralelo
+
+[S29_MEMORY_LEVEL_NAME_BOSS_8]
+T29: Bólidus
+
 [SALES_BUY_SUCCESS_TITLE]
 ¡Compra exitosa!
 
@@ -76166,6 +75639,9 @@ Escuadrón aéreo
 [SKYCITY_ZOMBIE_DESCRIPTION]
 Duplica la salud de los Pilotos gemelos y aumenta su velocidad en un 50%
 
+[SLIMED]
+Embabado
+
 [SLINGPEA]
 Tiraguisantes
 
@@ -76601,6 +76077,112 @@ Aturde zombis que soltarán soles
 
 [SOLD_OUT]
 Vendido
+
+[SPACETIMERIFT_BOSSTIPE_DES_DESCRIPTION]
+Debilidad: fuego
+
+[SPACETIMERIFT_BOSSTIPE_DES_TITLE]
+Jefe de temporada: Bestia rugiente
+
+[SPACETIMERIFT_CHEAT_DES_DESCRIPTION]
+Se te ha vetado temporalmente de este modo por hacer trampas.
+Si se trata de un error, ponte en contacto con servicio al cliente.
+
+[SPACETIMERIFT_CHEAT_DES_TITLE]
+Trampas detectadas
+
+[SPACETIMERIFT_DES_DESCRIPTION]
+• Recompensas de temporada:
+
+ARTÍCULO                  CANTIDAD
+----------------------------------
+Joyas                           99
+Cupón de Atuendos              399
+Poción dorada                    5
+Avatar exclusivo                 1
+Gen universal                  100
+Boleto secreto                   1
+
+• Recompensas diarias:
+
+ARTÍCULO                  CANTIDAD
+----------------------------------
+Joyas                           50
+Cupón de misiones                1
+Esencia genética                 2
+Casia dorada: Piezas             7
+Joyas                          100
+Boleto secreto                   1
+
+• Recompensas de apoyo:
+
+ARTÍCULO                  CANTIDAD
+----------------------------------
+Monedas                     50.000
+Cupón de misiones                3
+Esencia genética                 2
+Casia dorada: Piezas            10
+Avatar exclusivo                 1
+
+[SPACETIMERIFT_DES_TITLE]
+TABLA DE PREMIOS
+
+[SPACETIMERIFT_LUCKYREWARD]
+Premio de suerte
+
+[SPACETIMERIFT_MAIN_DES_DESCRIPTION]
+1. Horario: 13/2/2026 - 19/2/2026
+2. Recibes 3 intentos diarios de desafío, haz la mayor cantidad de daño para clasificarte en la tabla y obtener premios.
+3. Al día siguiente, se evaluarán los resultados de clasificación de 00:00 a 08:00. En ese periodo no se puede jugar.
+4. Al final de cada periodo, se le otorgará un Premio especial a un jugador al azar. ¡Buena suerte!
+
+[SPACETIMERIFT_MAIN_DES_TITLE]
+¿CÓMO JUGAR?
+
+[SPACETIMERIFT_RANKINFO_TEXT]
+• Premios por puesto fijo:
+
+PUESTO               PREMIO
+---------------------------------------------------------
+1-10                 Joyas x588, Casia dorada: Piezas x40
+11-50                Joyas x399, Casia dorada: Piezas x30
+50-100               Joyas x288, Casia dorada: Piezas x20
+
+• Premios por puesto relativo:
+
+PUESTO               PREMIO
+---------------------------------------------------------
+Top 1%               Joyas x199, Casia dorada: Piezas x10
+Top 5%               Joyas x166, Casia dorada: Piezas x8
+Top 55%              Joyas x99, Casia dorada: Piezas x5
+Top 99%              Joyas x66, Casia dorada: Piezas x1
+
+[SPACETIMERIFT_RANKINFO_TITLE]
+RECOMPENSAS POR CLASIFICACIÓN
+
+[SPACETIMERIFT_RANKREWARD]
+Premio por clasificación
+
+[SPACETIMERIFT_TITLE]
+Cofre espacio-temporal
+
+[SPACETIMETEAR_CURRENT_RANK]
+Clasificación
+
+[SPACETIMETEAR_PERSONAL_SETTLEMENT]
+Daño en solo
+
+[SPACETIMETEAR_SETTLEMENT]
+Sobre el desafío
+
+[SPACETIMETEAR_TEAM_SETTLEMENT]
+Daño grupal
+
+[SPACETIMETEAR_WAIT_TEAMMATE]
+Esperando compañeros...
+
+[SPACETIMETEAR_WAIT_TEAMMATE_LOSTNET]
+Tu compañero perdió la conexión, saliendo...
 
 [SPACETIME_KEY_INFO_TEXT_1]
 1. ¿Cómo se usan?
@@ -78131,6 +77713,21 @@ Edad Oscura - Noche Final
 [STARCHALLENGE_DEFAULT_DEFEAT_ZOMBIES]
 ¡Derrota a los zombis!
 
+[STARCHALLENGE_DEFEAT_X_CURES]
+Rompe el escudo de oro del Maestro de Qigong {NUMBER} veces
+
+[STARCHALLENGE_DEFEAT_X_KOONGFU_MONKS]
+Derrota {NUMBER} Shaolines monje
+
+[STARCHALLENGE_DEFEAT_X_KOONGFU_ROCKET]
+Derrota {NUMBER} Zombiditos tigre
+
+[STARCHALLENGE_DEFEAT_X_SKYCITY_BASICS]
+Derrota {NUMBER} Zombis piloto
+
+[STARCHALLENGE_DESTROY_X_ARMRACKS]
+Destruye {GRID_ITEMS} estantes de armas
+
 [STARCHALLENGE_DEVIL]
 Derrota al Zomboss cabeza de pólvora
 
@@ -78200,6 +77797,9 @@ Utiliza los cañones para derribar a los zombis y alcanza la puntuación objetiv
 [STARCHALLENGE_FISH_NAME]
 Cacería de zombis
 
+[STARCHALLENGE_FLAMELADY_DEFEAT_X_ZOMBIES]
+Derrota a {NUMBER} zombis con Reina flor de fuego
+
 [STARCHALLENGE_FUTURE_CONVEYOR]
 Sobrevive al ataque zombi en el Futuro lejano con las plantas de la cinta transportadora
 
@@ -78214,6 +77814,9 @@ Evita que Guacadrilo choque con los obstáculos y sobrevive al ataque zombi
 
 [STARCHALLENGE_GUACODILE_NAME]
 Guacadrilo voraz
+
+[STARCHALLENGE_HELICONIAGUNNER_DEFEAT_X_ZOMBIES]
+Derrota a {NUMBER} zombis con Heliconia
 
 [STARCHALLENGE_HIDDEN]
 En desarrollo
@@ -78283,6 +77886,9 @@ El último batallón
 
 [STARCHALLENGE_LASTSTAND_NAME]
 El último batallón
+
+[STARCHALLENGE_LAVAGUAVA_DEFEAT_X_ZOMBIES]
+Derrota a {NUMBER} zombis con Guayalava
 
 [STARCHALLENGE_LAWN_MOWER_WARNING]
 No utilices ninguna cortadora de césped para completar el objetivo
@@ -80120,6 +79726,9 @@ Paquete clonador
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_26]
 Paquete clonador II
 
+[STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_27]
+Paquete del león
+
 [STORE_CATEGORY_NAME_AVATARS]
 Atuendos
 
@@ -81686,6 +81295,12 @@ Se reduce la recarga del paquete de semillas en un 20%.
 [STORE_PRODUCT_AVATAR_GOLDBLOOM_TITLE]
 Malcom
 
+[STORE_PRODUCT_AVATAR_GOLDENCASSIA]
+Vuelve inmunes a las plantas de alrededor mientras el efecto dure.
+
+[STORE_PRODUCT_AVATAR_GOLDENCASSIA_TITLE]
+Arreglo floral
+
 [STORE_PRODUCT_AVATAR_GOLDLEAF]
 Se reduce la recarga de su Paquete de semillas en un 20%.
 
@@ -81998,6 +81613,12 @@ Crea clones de si misma en un área de 3x3.
 [STORE_PRODUCT_AVATAR_LILYPAD_TITLE]
 Flor de lila
 
+[STORE_PRODUCT_AVATAR_LONGMALILY]
+El efecto libera una onda adicional que congela zombis por un tiempo
+
+[STORE_PRODUCT_AVATAR_LONGMALILY_TITLE]
+Flor de loto
+
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER]
 Lanza gotas de agua tóxicas junto con las normales.
 
@@ -82105,6 +81726,12 @@ La onda sónica producida por su efecto de Nutrientes ahora es 2 veces más gran
 
 [STORE_PRODUCT_AVATAR_MORNINGGLORY_TITLE]
 Lentes de DJ
+
+[STORE_PRODUCT_AVATAR_MOTON]
+Los orbes del efecto aturden zombis durante unos segundos.
+
+[STORE_PRODUCT_AVATAR_MOTON_TITLE]
+Atuendo X
 
 [STORE_PRODUCT_AVATAR_MULBERRY]
 Lanzará una baya explosiva gigante al final de su efecto de Nutrientes ordinario, la cual, explotará en un área de 3x3.
@@ -83549,6 +83176,9 @@ A los jugadores que viajaron a la Dimensión del Recuerdo en la temporada 21
 [SUMMER_MEMORIES_HEAD_DES_ID_25759]
 A los jugadores que viajaron a la Dimensión del Recuerdo durante la temporada 27
 
+[SUMMER_MEMORIES_HEAD_DES_ID_25811]
+A los jugadores que viajaron a la Dimensión del Recuerdo en la temporada 29
+
 [SUMMER_MEMORIES_HEAD_ID_25337]
 Sol veraniego
 
@@ -83614,6 +83244,9 @@ Noche de paz
 
 [SUMMER_MEMORIES_HEAD_ID_25759]
 Momentos retro
+
+[SUMMER_MEMORIES_HEAD_ID_25811]
+Suerte a la puerta
 
 [SUMMER_PURPLE_LEVEL1]
 Fiebre del Jefe: Edición del mal rígido - Fase 1
@@ -83935,6 +83568,12 @@ La producción solar se reduce en un 70%
 
 [SUPER_ACCESSORY_STEADY_DES_TITLE]
 Mejorar Colgantes
+
+[SUPER_AVATAR_SELECT_DESCRIPTION]
+Escoge el super-atuendo de tu elección.
+
+[SUPER_AVATAR_SELECT_TITLE]
+Selección de super-atuendos
 
 [SUPER_BOSS_COMING_SOON]
 Reúne todas las Estrellas de los niveles anteriores para desbloquear el Día Final.
@@ -85235,6 +84874,73 @@ Completa la Era del Vapor - Día 9 (Difícil)
 [TASK_WORLDTASK_STEAM3]
 Completa la Era del Vapor - Día Final
 
+[TEAM_BOSS_CHALLENGE_INFO_TEXT]
+Desafíos res.: ^ffff00^{VALUE}/{MAX_VALUE}^oldclr^
+
+[TEAM_BOSS_DAMAGE_INFO_TEXT]
+Daño al jefe: ^ffff00^{VALUE}^oldclr^
+
+[TEAM_BOSS_HEALTH_INFO_TEXT]
+Salud del jefe: {VALUE}
+
+[TEAM_BOSS_HEALTH_PERCENT_TEXT]
+100%
+
+[TEAM_BOSS_MVP_TEXT]
+Estelar
+
+[TEAM_BOSS_OVERVIEW_TEXT]
+1. Forma tu equipo e inflige daño a los jefes, haz mucho daño para ganar recompensas.
+2. Cada jugador puede armar una formación de 6 plantas, la 7ma planta es compartida entre el escuadrón.
+3. Completa partidas de apoyo para obtener recompensas al alcanzar cierto progreso.
+
+[TEAM_BOSS_OVERVIEW_TITLE]
+¿CÓMO JUGAR?
+
+[TEAM_BOSS_PLAY_MAIN_BTN_FREE_PLAY]
+EQUIPO
+
+[TEAM_BOSS_PLAY_MAIN_BTN_MATCH_PLAY]
+EMPAREJAR
+
+[TEAM_BOSS_PLAY_MAIN_TITLE]
+Elegir un equipo
+
+[TEAM_BOSS_PLAY_MODE_BTN_FIGHT]
+LUCHAR
+
+[TEAM_BOSS_PLAY_MODE_BTN_SUPPORT]
+APOYO
+
+[TEAM_BOSS_PLAY_MODE_INFO_TEXT]
+Info
+
+[TEAM_BOSS_PLAY_MODE_INFO_TITLE]
+Las puntuaciones individuales no cuentan para clasificatoria.
+Jugar en equipo consume intentos de desafío.
+
+[TEAM_BOSS_PLAY_MODE_TITLE]
+Selección de modo
+
+[TEAM_BOSS_SKILL_DES_0]
+^DB8117^Invocación^oldclr^
+Ruge para activar un satélite, el cual envía zombis a la tierra.
+
+[TEAM_BOSS_SKILL_DES_1]
+^DB8117^Fuegos artificiales^oldclr^
+Lanza dos proyectiles que detonan tras 4 s, eliminando plantas de un área 3x3
+
+[TEAM_BOSS_SKILL_DES_2]
+^DB8117^Apetito voraz^oldclr^
+Absorbe y devora a 3 filas enteras de plantas.
+
+[TEAM_BOSS_SKILL_DES_3]
+^DB8117^Ignición^oldclr^
+Mejora sus habilidades e invoca un zombi poderoso cada 4 s
+
+[TEAM_BOSS_SKILL_TITLE_TEXT]
+Habilidades
+
 [TEAM_PLANT]
 Formación de plantas
 
@@ -85881,6 +85587,9 @@ A quienes participaron en la temporada 8 del evento: El Tesoro celestial.
 [TIANGONG_HEAD_DES_ID_25806]
 A quienes participaron en la temporada 9 del evento: El Tesoro celestial.
 
+[TIANGONG_HEAD_DES_ID_25816]
+A quienes participaron en la temporada 10 del evento: El Tesoro celestial.
+
 [TIANGONG_HEAD_ID_25698]
 Rey de lingotes
 
@@ -85910,6 +85619,9 @@ Melocotón jugoso
 
 [TIANGONG_HEAD_ID_25806]
 Esmeralda carmesí
+
+[TIANGONG_HEAD_ID_25816]
+Cien escrituras
 
 [TICKETS_PURCHASE_CONFIRMATION]
 Confirmar compra
@@ -86030,6 +85742,12 @@ Ruge para aturdir zombis, luego, los ataca a arañazos
 [TIMESPACESECRET]
 Tierras ocultas
 
+[TIMESPACE_LEVEL_NAME]
+Fisura temporal
+
+[TIMESPACE_MAUSOLEUM_MODE_HARD_LOCKED_CLICKED_HINT]
+Disponible el 12 de febrero al completar el Modo fácil.
+
 [TIMESPACE_UNCHARTED_MODE_HARD_LOCKED_CLICKED_HINT]
 Completa el Modo Normal para desbloquear esta dificultad.
 
@@ -86074,6 +85792,12 @@ Tiempo res.:
 
 [TIME_ENERGY_ADVICE_WORM_HOLE]
 ¡Agujero de gusano!
+
+[TIME_SPACE_HEAD_DES_ID_25818]
+A quienes unieron fuerzas en la 1ra temporada del evento: Fisura temporal
+
+[TIME_SPACE_HEAD_ID_25818]
+Cuchilla doble
 
 [TIME_SUMMON_HEAD_DES_ID_25373]
 Para el jugador que ganó el primer lugar en el evento Peticiones por tiempo limitado.
@@ -86574,6 +86298,9 @@ A quienes participaron en la temporada 10 del evento: Fiesta de disfraces
 [TOYS_HEAD_DES_ID_25790]
 A quienes participaron en la temporada 11 del evento: Fiesta de disfraces
 
+[TOYS_HEAD_DES_ID_25810]
+A quienes participaron en la temporada 12 del evento: Fiesta de disfraces
+
 [TOYS_HEAD_ID_25327]
 Dragón hambriento
 
@@ -86606,6 +86333,9 @@ Mar de estrellas
 
 [TOYS_HEAD_ID_25790]
 Montaña blanca
+
+[TOYS_HEAD_ID_25810]
+Alianza Transformers
 
 [TOY_NIGHT_CHANCE_TABLE]
 • Bolsa de premios:
@@ -87733,6 +87463,15 @@ Mecánicas de la temporada
 [UI_SOCIAL_FRIEND_PICKER_TITLE]
 Elegir amigos
 
+[UI_SPACETIMERIFT_DAMAGEREWARD_TITLE_NAME_1]
+1. Puntos de temporada: {NUM} DPS
+
+[UI_SPACETIMERIFT_DAMAGEREWARD_TITLE_NAME_2]
+2. Puntos diarios: {NUM} DPS
+
+[UI_SPACETIMERIFT_DAMAGEREWARD_TITLE_NAME_3]
+3. Intentos esta temporada: {NUM}
+
 [UI_ZENGARDEN_BAG_DESC]
 Uso: {DESC}
 
@@ -88009,6 +87748,12 @@ A quienes reunieron todas las Estrellas en Tierras ocultas: 12° Aniversario
 
 [UNCHARTED_BIRTHDAY_ID_25745]
 12° Aniversario
+
+[UNCHARTED_CARROTLAUNCHER]
+Zanahortillería
+
+[UNCHARTED_CARROTLAUNCHER_TOOLTIP]
+Dispara misiles a los zombis en la retaguardia
 
 [UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25547]
 A quienes reunieron todas las Estrellas en Tierras ocultas: Patio de juegos
@@ -88334,6 +88079,9 @@ A quienes reunieron todas las Estrellas en Tierras ocultas: Festivus
 [UNCHARTED_CHRISTMAS_ID_25791]
 Dulce Navidad
 
+[UNCHARTED_DANGERROOM_OPEN]
+¿Deseas ir a la Zona de infinito?
+
 [UNCHARTED_ENTRY_DESCRIPTION]
 1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para desbloquear el Modo difícil.
 2. Tras completar un nivel por primera vez, recibirás recompensas por ello.
@@ -88352,6 +88100,21 @@ A quienes reunieron todas las Estrellas en Tierras ocultas: Patio de la perdici�
 
 [UNCHARTED_HALLOWEEN_ID_25776]
 Conquistador de Halloween
+
+[UNCHARTED_HAYSTACK]
+Césped
+
+[UNCHARTED_HAYSTACK_DESCRIPTION]
+{KEYWORD}Especial: {STAT}permite plantar en trincheras
+{KEYWORD}Características de la planta: {STAT}planta verde, de baja estatura
+
+{FLAVOR}Crecer en trincheras no era el plan, pero el césped se adapta a todo. Literalmente.
+
+[UNCHARTED_HAYSTACK_DESCRIPTION_HEADER]
+El césped te permite plantar sobre el terreno fangoso del Mausoleo de Qin.
+
+[UNCHARTED_HAYSTACK_TOOLTIP]
+Permite plantar sobre terreno fangoso
 
 [UNCHARTED_ICEAGE_HEAD_DES_ID_25390]
 A quienes reunieron todas las Estrellas en Tierras ocultas: Cuevas escalofriantes
@@ -88515,6 +88278,36 @@ Alcanza 6 estrellas como récord histórico.
 [UNCHARTED_ICEAGE_TASK_NAME_10_5]
 Alcanza 10 estrellas como récord histórico.
 
+[UNCHARTED_MAUSOLEUM_DES_ID_25809]
+A quienes reunieron todas las Estrellas en Tierras ocultas: Mausoleo de Qin
+
+[UNCHARTED_MAUSOLEUM_ID_25809]
+Pirmer conquistador
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT1]
+1. Disponibilidad
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT2]
+Este evento estará disponible a partir del 12 de febrero.
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT3]
+2. Contenido del nivel
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT4]
+La fuerza de los zombis es 1, el número aumenta en el Modo difícil según los objetivos seleccionados.
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT5]
+3. Objetivos del nivel
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT6]
+Cada nivel tiene objetivos específicos que se pueden completar para obtener recompensas.
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT7]
+4. Recompensas por objetivos
+
+[UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT8]
+Las recompensas no son repetibles.
+
 [UNCHARTED_MODE_HOWTOPLAY_1_DESCRIPTION]
 Las plantas héroe requieren sol y de un tiempo para plantarse
 
@@ -88571,6 +88364,12 @@ Puedes obtener Fichas especiales al completar niveles por primera vez y Fichas n
 
 [UNCHARTED_NO42_UNIVERSE_WORLD_DIFFICULTY_DESC_4]
 Canjea fichas por artículos en la tienda. Solo podrás usar los artículos comunes en este mundo.
+
+[UNCHARTED_PHATBEET]
+Remolacha trememenda
+
+[UNCHARTED_PHATBEET_TOOLTIP]
+Inflige daño cada pocos segundos
 
 [UNCHARTED_SPRING_FESTIVAL_2024_KEY_INFO_TEXT_1]
 1. Disponibilidad
@@ -88670,6 +88469,9 @@ Perderás el progreso de la ronda y volverás a empezar desde el primer nivel. �
 
 [UNCHARTED_WORLD_LEVEL_RESET_LEVEL_1_DESC]
 Aún no has completado el resto de niveles para aplicar el reinicio
+
+[UNCHARTED_WORLD_RESET_HARD_MODE]
+¿Deseas resetear el progreso de este nivel?
 
 [UNCHARTED_WORLD_SPRING_FESTIVAL_2024_COMPLETE]
 Ya has completado este nivel, reinicialo para jugarlo de nuevo
@@ -95810,6 +95612,17 @@ Refuerzo zombi III
 [ZOMBIE_LEVEL_DIFFICULTY_3_DESCRIPTION]
 La fuerza de los zombis aumenta en 3 Niveles
 
+[ZOMBIE_LION_DANCE]
+León bailarín
+
+[ZOMBIE_LION_DANCE_DESCRIPTION]
+{KEYWORD}Alcance: {STAT}3 casillas al frente
+
+{FLAVOR}Se disfrazó de león porque le hace parecer más "feroz"
+
+[ZOMBIE_LION_DANCE_DESCRIPTION_HEADER]
+Escupe llamas que achicharran a las plantas cercanas.
+
 [ZOMBIE_LNY]
 Zombi de Año Nuevo
 
@@ -96031,6 +95844,103 @@ Cazador de reliquias encontró algunas reliquias alucinantes cuando estaba en ac
 
 [ZOMBIE_LOSTCITY_RELICHUNTER_DESCRIPTION_HEADER]
 Atraviesa defensas balanceándose.
+
+[ZOMBIE_MAUSOLEUM_ARCHER]
+Zombi shèshou
+
+[ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION]
+Su puntería es mala y aún así fue reclutado, pero no lo culpen, es que sufre de estrabismo.
+
+[ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION_HEADER]
+Tirador del ejército Qin, apunta con su arco y flecha a la planta más cercana de su fila.
+
+[ZOMBIE_MAUSOLEUM_ARMOR1]
+Bing caracuenco
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_DESCRIPTION]
+Pasó de servir té en la corte a servir miedo en las calles.
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_DESCRIPTION_HEADER]
+Su cuenco lo hace dos veces más resistente que el Zombi bing básico.
+
+[ZOMBIE_MAUSOLEUM_ARMOR2]
+Bing con casco
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION]
+Los bing usan el casco de hierro para cargar agua. Nadie sabe por qué, pero claramente no es por tener más cerebro.
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION_HEADER]
+Su casco de infantería lo hace tres veces más resistente que el Zombi bing básico.
+
+[ZOMBIE_MAUSOLEUM_BASIC]
+Zombi bing
+
+[ZOMBIE_MAUSOLEUM_BASIC_DESCRIPTION]
+Aún cree que su condena es temporal. Doce años más, según los arqueólogos. La muerte no le avisó lo contrario.
+
+[ZOMBIE_MAUSOLEUM_BASIC_DESCRIPTION_HEADER]
+Zombi básico del Imperio Qin.
+
+[ZOMBIE_MAUSOLEUM_CAVALRY]
+Zombi qíbing
+
+[ZOMBIE_MAUSOLEUM_CAVALRY_DESCRIPTION]
+{KEYWORD}Especial: {STAT}camina trincheras a pie
+
+{FLAVOR}Había sido un simple soldado de infantería. Recibió su "caballo" como condecoración por sus victorias, es todo un veterano de guerra.
+
+[ZOMBIE_MAUSOLEUM_CAVALRY_DESCRIPTION_HEADER]
+Soldado de caballería del ejército Qin, se mece sobre su caballo de madera como todo un loco.
+
+[ZOMBIE_MAUSOLEUM_FLAG]
+Zombi bing abanderado
+
+[ZOMBIE_MAUSOLEUM_FLAG_DESCRIPTION]
+Corta madera para armas, levanta postes como estandartes y corre como un loco hacia... tu cerebro.
+
+[ZOMBIE_MAUSOLEUM_FLAG_DESCRIPTION_HEADER]
+Su bandera anuncia la gran llegada de soldados del Imperio Qin.
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR]
+Zombistein jiangjun
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta plantas con su palo de terracota
+{KEYWORD}Especial: {STAT}lanza al Zombidito xiaowei cuando sufre daño
+
+{FLAVOR}Como principal artífice de la conquista de los seis reinos, gozaba del gran favor del emperador y se aseguró su lugar en la sucesión desde muy temprano.
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_DESCRIPTION_HEADER]
+General del ejército Qin, con un espíritu conquistador y una fuerza descomunal.
+
+[ZOMBIE_MAUSOLEUM_IMP]
+Zombidito xiaowei
+
+[ZOMBIE_MAUSOLEUM_IMP_DESCRIPTION]
+Se ganó una posición privilegiada en el ejército, y todo gracias a la estética del palacio subterráneo. Sin dudas es muy buen arquitecto.
+
+[ZOMBIE_MAUSOLEUM_IMP_DESCRIPTION_HEADER]
+Oficial menor del ejército Qin. Es lanzado por encima de tus defensas para sortearlas.
+
+[ZOMBIE_MAUSOLEUM_PIGGY]
+Lechón zombi
+
+[ZOMBIE_MAUSOLEUM_PIGGY_DESCRIPTION]
+¡Oink, oink!
+
+[ZOMBIE_MAUSOLEUM_PIGGY_DESCRIPTION_HEADER]
+Se mueve a toda velocidad una vez es liberado.
+
+[ZOMBIE_MAUSOLEUM_VENDOR]
+Zombi tanfàn
+
+[ZOMBIE_MAUSOLEUM_VENDOR_DESCRIPTION]
+{KEYWORD}Especial: {STAT}suelta al Lechón zombi de vez en cuando
+
+{FLAVOR}Se supone que vende lechones, pero primero hay que preguntarle si ya se los comió.
+
+[ZOMBIE_MAUSOLEUM_VENDOR_DESCRIPTION_HEADER]
+Un vendedor ambulante que atraviesa trincheras con una carreta llena de lechones.
 
 [ZOMBIE_MECH_CONE]
 Zombi robocono
@@ -97098,6 +97008,41 @@ Le encanta correr riesgos. Después de todo, ¿de qué sirve estar muerto si no 
 
 [ZOMBIE_PVZ1_BUNGEE_DESCRIPTION_HEADER]
 Ataca desde arriba para robar tus plantas.
+
+[ZOMBIE_QIN_JINGKE]
+Zombi jingke
+
+[ZOMBIE_QIN_JINGKE_DESCRIPTION]
+{KEYWORD}Especial: {STAT}se mueve a la columna más a la izquierda del patio cuando su mapa es destruido
+{KEYWORD}Debilidad: {STAT}Magneto-seta puede desarmarlo de su daga
+
+{FLAVOR}Intentó matar al emperador, ahora intenta matar plantas. No ha cambiado mucho que digamos.
+
+[ZOMBIE_QIN_JINGKE_DESCRIPTION_HEADER]
+Un sicario enviado contra el emperador Qin... y tus plantas.
+
+[ZOMBIE_QIN_SHIELD_SEGMENT]
+Zombi dunwei
+
+[ZOMBIE_QIN_SHIELD_SEGMENT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}puede aparecer en formación de 3 o más
+
+{FLAVOR}Cuenta la leyenda que los escudos Qin podían detener flechas de ballesta, aunque resultó que las puntas eran solo hojas de col.
+
+[ZOMBIE_QIN_SHIELD_SEGMENT_DESCRIPTION_HEADER]
+Escudero del ejército Qin, su escudo le proporciona una alta defensa.
+
+[ZOMBIE_QIN_TAOIST]
+Zombi fangshì
+
+[ZOMBIE_QIN_TAOIST_DESCRIPTION]
+{KEYWORD}Especial: {STAT}convierte zombis en Guerreros de terracota
+{KEYWORD}Especial: {STAT}revive a los Guerreros de terracota
+
+{FLAVOR}Siente una inexplicable afinidad por las estatuas... y los zombis lo saben.
+
+[ZOMBIE_QIN_TAOIST_DESCRIPTION_HEADER]
+Taoísta de la dinastía Qin, usa una magia extraña para moldear terracota.
 
 [ZOMBIE_RA]
 Zombi Ra
@@ -98684,6 +98629,49 @@ Zombot locomotora de vapor
 [ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION_HEADER]
 La mayor maquinaría de la Era del Vapor.
 
+[ZOMBIE_ZOMBOSS_QINSHIHUANG]
+Primer Emperador Zomboss
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_BIG_SKILL_WARNING]
+MANDATO DEL CIELO: ¡derrota al emperador ahora!
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_DESCRIPTION]
+^E2725B^Habilidades^oldclr^
+
+^DB8117^Invocación:^oldclr^ ^A0522D^invoca zombis, el área de invocación se expande hacia la izquierda^oldclr^
+
+^DB8117^Rugido:^oldclr^ ^A0522D^ruge para acelerar a los zombis del campo de batalla^oldclr^
+
+^DB8117^Abran paso:^oldclr^ ^A0522D^crea una trinchera y destruye plantas a su paso^oldclr^
+
+^DB8117^Expansión de dominio:^oldclr^ ^A0522D^destruye el suelo delante de él para ampliar aún más su dominio^oldclr^
+
+^DB8117^Aliento elemental:^oldclr^ ^A0522D^escupe bolas de hielo o fuego gigantes que bloquean proyectiles y aplastan plantas a su paso^oldclr^
+
+^DB8117^Formación terracota:^oldclr^ ^A0522D^invoca Generales de terracota junto a escuderos^oldclr^
+
+^DB8117^Sello de jade: ^A0522D^arroja un sello que aplasta plantas de un área 2x3, y luego, bloquea proyectiles hasta que es destruido^oldclr^
+
+^DB8117^Mandato del Cielo:^oldclr^ ^A0522D^carga un ataque letal mientras los escuderos lo protegen, derrótalo antes de que lo lance o perderás^oldclr^
+
+{FLAVOR}Unificó China, y ahora también intenta unir zombis bajo su mando. Sus guerreros deben pagarle cerebros como tributo.
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_DESCRIPTION_HEADER]
+El primer emperador de China, señor del Palacio subterráneo.
+
+[ZOMBIE_ZOMBOSS_TEAMBOSS]
+Bestia rugiente Zombot
+
+[ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION]
+{KEYWORD}Especial: {STAT}la turbina de la boca puede atraer plantas
+{KEYWORD}Especial: {STAT}dispara fuegos artificiales en un alcance amplio
+{KEYWORD}Debilidades: {STAT}las plantas de fuego bloquean su turbina, las explosivas redirigen fuegos artificiales
+
+{FLAVOR}Parece que alguien no se tomó vacaciones este Año Nuevo...
+
+[ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION_HEADER]
+Creación festiva del Dr. Zombi, asola todo en una gran explosión.
+
 [ZOMBIE_ZOYBEANPOD_ARMOR1]
 Zomboide carazanahoria
 
@@ -99831,11 +99819,20 @@ La Gran Masacre
 [rank_avatar_diy_57]
 Regalos navideños
 
+[rank_avatar_diy_58]
+La ira del emperador
+
+[rank_avatar_diy_59]
+Año de abundancia
+
 [rank_avatar_diy_100]
 Vigor juvenil
 
 [rank_avatar_diy_101]
 Cielo estrellado
+
+[rank_avatar_diy_102]
+Escuadrón rígido
 
 [replay]
 REPETIR
