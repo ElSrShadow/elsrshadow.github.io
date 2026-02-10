@@ -5208,37 +5208,37 @@ Cosecha de otoño
 : Atuendo
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25657]
-Completaste la colección de atuendos: Niñez inquebrantable
+Completaste la colección de atuendos: Día del Niño
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25658]
-Completaste la colección de atuendos: Tecnología moderna
+Completaste la colección de atuendos: Ciberplantas
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25679]
-Completaste la colección de atuendos: Fiesta infantil
+Completaste la colección de atuendos: Diversión infantil
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25680]
 Completaste la colección de atuendos: Los poderosos
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25681]
-Completaste la colección de atuendos: Héroes del cielo
+Completaste la colección de atuendos: Palacio celestial
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25682]
-Completaste la colección de atuendos: 2 + 2 = ?
+Completaste la colección de atuendos: Los bromistas
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25683]
-Completaste la colección de atuendos: Los místicos
+Completaste la colección de atuendos: Fuerza mística
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25715]
-Completaste la colección de atuendos: Hologramas
+Completaste la colección de atuendos: Fiesta de verano
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25716]
-Completaste la colección de atuendos: Viaje a la Atlántida
+Completaste la colección de atuendos: Mundo submarino
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25774]
-Completaste la colección de atuendos: Niñez inquebrantable
+Completaste la colección de atuendos: Evolución definitiva
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25775]
-Completaste la colección de atuendos: Viaje interdimensional
+Completaste la colección de atuendos: El multiverso
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25807]
 Completaste la colección de atuendos: Invierno glacial
@@ -5247,97 +5247,97 @@ Completaste la colección de atuendos: Invierno glacial
 Completaste la colección de atuendos: Festival de primavera
 
 [AVATARCOLLECTIONS_HEAD_ID_25657]
-Niñez inquebrantable
+Narciso juguetón
 
 [AVATARCOLLECTIONS_HEAD_ID_25658]
-Tecnología moderna
+Ilán del futuro
 
 [AVATARCOLLECTIONS_HEAD_ID_25679]
-Fiesta infantil
+Anguila divertida
 
 [AVATARCOLLECTIONS_HEAD_ID_25680]
-Los poderosos
+El botín del cactus
 
 [AVATARCOLLECTIONS_HEAD_ID_25681]
-Héroes del cielo
+Rey del Oeste
 
 [AVATARCOLLECTIONS_HEAD_ID_25682]
-La escuelita
+Oliva bromista
 
 [AVATARCOLLECTIONS_HEAD_ID_25683]
-Los místicos
+Guisante sobrecargado
 
 [AVATARCOLLECTIONS_HEAD_ID_25715]
-Hologramas
+Puño verde
 
 [AVATARCOLLECTIONS_HEAD_ID_25716]
-Viaje a la Atlántida
+Cactus oceánico
 
 [AVATARCOLLECTIONS_HEAD_ID_25774]
-Evolución definitiva
+Monstruos del infierno
 
 [AVATARCOLLECTIONS_HEAD_ID_25775]
-Viaje interdimensional
+Tomillo interdimensional
 
 [AVATARCOLLECTIONS_HEAD_ID_25807]
-Invierno glacial
+Manzana de invierno
 
 [AVATARCOLLECTIONS_HEAD_ID_25808]
-Festival de primavera
+Caballo dragón
 
 [AVATARCOLLECTIONS_NOT_EXIST]
-No desbloqueado
+Bloqueado
 
 [AVATARCOLLECTIONS_PROGRESS]
 Atuendos: {NUMBER1}/{NUMBER2}
 
 [AVATARCOLLECTIONS_THEME_DES0]
-Vive una alegre Navidad, bien abrigadito con estos atuendos calientitos
+Abrígate con estos atuendos calientitos
 
 [AVATARCOLLECTIONS_THEME_DES1]
 Celebra el Festival de Primavera con estos disfraces tradicionales
 
 [AVATARCOLLECTIONS_THEME_DES2]
-La infancia nunca se olvida teniendo estos Atuendos tan monos
+Todo niño sueña con estos disfraces
 
 [AVATARCOLLECTIONS_THEME_DES3]
-Siente el terror con estos Atuendos de Halloween, ¡dulce o truco!
+Siente el terror con estos atuendos
 
 [AVATARCOLLECTIONS_THEME_DES4]
-Las plantas del futuro se visten con la tecnología más moderna
+Plantas con la tecnología más moderna
 
 [AVATARCOLLECTIONS_THEME_DES5]
-Dale un toque elegante a tus plantas con estos trajes de tela fina
+Trajes con un toque elegante
 
 [AVATARCOLLECTIONS_THEME_DES6]
-¡Los juguetes de la infancia son los más divertidos!
+Convierte tus plantas en juguetes
 
 [AVATARCOLLECTIONS_THEME_DES7]
-Atuendos para los más refinados.
+Atuendos para los más refinados
 
 [AVATARCOLLECTIONS_THEME_DES8]
 ¡Mil años de unidad!
 
 [AVATARCOLLECTIONS_THEME_DES9]
-2 + 2 = ?
+¿A quién no les gusta las bromas?
 
 [AVATARCOLLECTIONS_THEME_DES10]
-Con estos héroes, no hay nada que temer.
+Héroes del Lejano Oriente
 
 [AVATARCOLLECTIONS_THEME_DES11]
-En honor a nuestra juventud perdida.
+En honor a nuestra juventud perdida
 
 [AVATARCOLLECTIONS_THEME_DES12]
-¡Reunir! ¡Evolucionar! ¡Electrocutar!
+Magia y cosas raras
 
 [AVATARCOLLECTIONS_THEME_DES13]
-El calor es sofocante en pleno verano.
+El calor es sofocante en pleno verano
 
 [AVATARCOLLECTIONS_THEME_DES14]
-Sumergidos entre el infinito mar azul.
+Sumergidos entre el infinito mar azul
 
 [AVATARCOLLECTIONS_THEME_DES15]
-Libérate de las cadenas, el linaje se desata
+Que salvajes
 
 [AVATARCOLLECTIONS_THEME_DES16]
 Atraviesa los confines del multiverso
@@ -5346,10 +5346,10 @@ Atraviesa los confines del multiverso
 Explora un sin fin de estrellas
 
 [AVATARCOLLECTIONS_THEME_DES18]
-Un invierno frío y gris.
+Un invierno frío y gris
 
 [AVATARCOLLECTIONS_THEME_DES19]
-Una nueva primavera llega, con buenas fortunas
+Una nueva primavera llega con buenas fortunas
 
 [AVATARCOLLECTIONS_THEME_TITLE0]
 Feliz Navidad
@@ -5373,13 +5373,13 @@ Elegancia fina
 Diversión infantil
 
 [AVATARCOLLECTIONS_THEME_TITLE7]
-Plantas y efectivo
+Los poderosos
 
 [AVATARCOLLECTIONS_THEME_TITLE8]
 Artistas marciales
 
 [AVATARCOLLECTIONS_THEME_TITLE9]
-Sabiduría joven
+Los bromistas
 
 [AVATARCOLLECTIONS_THEME_TITLE10]
 Palacio celestial
@@ -6257,6 +6257,11 @@ Si sorteas el tercer premio 4 veces, recibirás el 5% de las recompensas acumula
 Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
 
 [BATTLE_ORDER_DESCRIPTION_AUTUMN]
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+
 Temporada: Otoño dorado
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1]
@@ -6295,12 +6300,27 @@ Si sorteas el tercer premio 4 veces, recibirás el 5% de las recompensas acumula
 Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
+1. Gana experiencia completando misiones. Subes de Nivel cada 500 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+
 Temporada: Verde primavera
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
+1. Gana experiencia completando misiones. Subes de Nivel cada 500 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+
 Temporada: Festival chino
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+
 Temporada: Verano anaranjado
 
 [BATTLE_ORDER_DESCRIPTION_TITLE]
@@ -6322,6 +6342,11 @@ SOBRE EL PASE DE VERANO
 SOBRE EL PASE DE INVIERNO
 
 [BATTLE_ORDER_DESCRIPTION_WINTER]
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+
 Temporada: Invierno gris
 
 [BATTLE_ORDER_EXP]
@@ -6367,19 +6392,23 @@ La cantidad de Joyas aumenta en 100 por cada participante
 Esmeralda
 
 [BATTLE_ORDER_INTERGAL_TIPS]
-Tienes {NUM} Esmeraldas
+^98FB98^Esmeraldas: {NUM}^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_1]
-^E8DCC8^El primer premio es para 1 persona. El ganador recibe hasta un ^08FF20^20% del total^oldclr^ ^E8DCC8^de recompensas^oldclr^
+^E6E6E6^El primer premio es para 1 persona.^oldclr^
+^E6E6E6^El ganador recibe hasta un ^08FF20^20% del total^oldclr^ ^E6E6E6^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_2]
-^E8DCC8^El segundo premio es para 2 personas. Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^E8DCC8^de recompensas^oldclr^
+^E6E6E6^El segundo premio es para 2 personas.^oldclr^
+^E6E6E6^Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^E6E6E6^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_3]
-^E8DCC8^El tercer premio es para 4 personas. Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^E8DCC8^de recompensas^oldclr^
+^E6E6E6^El tercer premio es para 4 personas.^oldclr^
+^E6E6E6^Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^E6E6E6^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_4]
-^E8DCC8^El premio final es para 100 personas. Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^E8DCC8^de recompensas^oldclr^
+^E6E6E6^El premio final es para 100 personas.^oldclr^
+^E6E6E6^Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^E6E6E6^de recompensas^oldclr^
 
 [BATTLE_ORDER_MULTIREWARD_LIST]
 • Recompensas de selección múltiple:
@@ -6730,10 +6759,10 @@ Las cajas de madera pueden ser removidas por la pala
 Toca en la pala
 
 [BIG_BAG_TICKET]
-Cupón de Bolsas grandes
+Tesoro de cupones
 
 [BIG_PACKET_TICKET]
-Cupón de Paquetes grandes
+Bolsa de cupones
 
 [BIND_UNIQUE_ID_CLEAR_PROFILE]
 Hemos detectado que tu cuenta actual no coincide con la cuenta local. Toca en "Aceptar" para borrar el archivo local.
@@ -8409,7 +8438,7 @@ Medalla cavernaria
 Medalla de piloto
 
 [BOSS_CHALLENGE_HEAD_ID_25190]
-Medalla del cazatesoros
+Medalla de Ciudad perdida
 
 [BOSS_CHALLENGE_HEAD_ID_25200]
 Medalla del ochentero
@@ -9922,6 +9951,9 @@ Carnaval de ofertas
 1. Disponible de 20:00 a 22:00, compra diferentes artículos con Cupones de carnaval.
 2. Los Cupones de carnaval se obtienen con dinero real en la Tienda del evento.
 3. Cada compra aumenta la probabilidad de obtener recompensas adicionales.
+
+[CARNIVAL_DESCRIPTION_2]
+
 
 [CARNIVAL_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
@@ -15262,16 +15294,16 @@ Encontraste esta reliquia en los Cofre de Tesoros de Dave. ¡Estupendo!
 Encontraste esta reliquia en los Cofre de Tesoros de Dave. ¡Fantástico!
 
 [DAVE_TREASURE_HEAD_ID_25307]
-Medalla de cazatesoros I
+Medalla del cazatesoros I
 
 [DAVE_TREASURE_HEAD_ID_25308]
-Medalla de cazatesoros II
+Medalla del cazatesoros II
 
 [DAVE_TREASURE_HEAD_ID_25316]
-Medalla de cazatesoros III
+Medalla del cazatesoros III
 
 [DAVE_TREASURE_HEAD_ID_25368]
-Medalla de cazatesoros IV
+Medalla del cazatesoros IV
 
 [DAVE_TREASURE_NORMALDRAW_15]
 Gira la ruleta 15 veces.
@@ -17329,10 +17361,10 @@ COMPRAR
 ¡{COUNT} joyas!
 
 [DRAW_ONCE]
-Una vez
+x1
 
 [DRAW_ONCECOSTNUW]
-1 por ^FF0000 {NUM} ^oldclr
+1 ^FF0000^x{NUM}^oldclr^
 
 [DRAW_TEN]
 x10
@@ -26781,10 +26813,9 @@ Premios por invitación
 Invencible
 
 [INVITATION_MAIN_TIPS_INFO]
-1. El evento empieza el 8 de julio y terminar el 31 de agosto.
-2. Consigue fichas al completar misiones o invitar amigos, y úsalas para participar en el sorteo.
-3. Solo puedes invitar hasta 100 personas, sus cuentas deben ser nuevas (a partir de Antiguo Egipto - Día 6).
-4. Los códigos de Android o iOS son exclusivos. No puedes invitar personas de otras plataformas.
+1. Consigue fichas al completar misiones o invitar amigos, y úsalas para participar en el sorteo.
+2. Solo puedes invitar hasta 100 personas, sus cuentas deben ser nuevas (a partir de Antiguo Egipto - Día 6).
+3. Los códigos de Android o iOS son exclusivos. No puedes invitar personas de otras plataformas.
 
 [ITEM_SOLD_OUT]
 Artículo agotado
@@ -30677,31 +30708,31 @@ Monedas de amatista insuficientes.
 Se usa para canjear artículos en la Tienda de Dueloz
 
 [MAT_NEW_YEAR_CHESTS_BIG]
-Superbolsa próspero
+Superbolsa próspera
 
 [MAT_NEW_YEAR_CHESTS_BIG_GOT_WAY]
-Comprando paquetes de Año Nuevo.
+Comprando bolsas de Año Nuevo.
 
 [MAT_NEW_YEAR_CHESTS_BIG_USE]
-Ábrelo y elige una gran cantidad de Piezas del Atuendo de tu preferencia.
+Ábrela y elige una gran cantidad de Piezas del Atuendo de tu preferencia.
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE]
 Bolsa próspera
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE_GOT_WAY]
-Comprando paquetes de Año Nuevo.
+Comprando bolsas de Año Nuevo.
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE_USE]
-Ábrelo y elige una cantidad mediana de Piezas del Atuendo de tu preferencia.
+Ábrela y elige una cantidad mediana de Piezas del Atuendo de tu preferencia.
 
 [MAT_NEW_YEAR_CHESTS_SMALL]
 Minibolsa próspera
 
 [MAT_NEW_YEAR_CHESTS_SMALL_GOT_WAY]
-Comprando paquetes de Año Nuevo.
+Comprando bolsas de Año Nuevo.
 
 [MAT_NEW_YEAR_CHESTS_SMALL_USE]
-Ábrelo y elige una pequeña cantidad de Piezas del Atuendo de tu preferencia.
+Ábrela y elige una pequeña cantidad de Piezas del Atuendo de tu preferencia.
 
 [MAT_NFSLINKAGE_INTEGRAL]
 Puntos de carrera
@@ -31943,20 +31974,11 @@ Nivel 5
 [METEORFLOWER_TOOLTIP]
 Conjura meteoritos que dejan casillas abrasadoras
 
-[MGP_MEGA_BUNDLE]
-Megalote de Evento invernal
-
-[MGP_MINI_BUNDLE]
-Minilote de Evento invernal
-
-[MGP_SUPER_BUNDLE]
-Superlote de Evento invernal
-
 [MID_BAG_TICKET]
-Cupón de bolsas
+Caja de cupones
 
 [MID_PACKET_TICKET]
-Cupón de paquetes
+Bolsita de cupones
 
 [MINECART_TUTORIAL_1]
 Arrastra el carro de mina a una nueva ubicación
@@ -32456,7 +32478,7 @@ A los jugadores que obtuvieron la recompensa final comprando Lotes de crecimient
 Obtuviste esto en un Lote de crecimiento.
 
 [MONTHLY_POINT_HEAD_ID_25327]
-Coleccionista de Frijoles Mágicos
+Medalla de crecimiento
 
 [MONTHLY_POINT_HEAD_ID_25694]
 Jugador florecido
@@ -43413,7 +43435,7 @@ Carta
 NUEVO USUARIO
 
 [NEW_YEAR_PACK_BUNDLE_LIMIT]
-Límite de compra diario: ^FF0000^{NUM}^oldclr^
+Límite de compra: ^FF0000^{NUM}^oldclr^
 
 [NEXT_BUTTON]
 SIGUIENTE
@@ -43425,7 +43447,7 @@ PRÓXIMO DESAFÍO
 Próx. efecto:
 
 [NEXT_FLASH_SALE]
-Hasta la próxima venta
+Próx. venta en
 
 [NEXT_LEVEL]
 Siguiente nivel
@@ -49890,7 +49912,7 @@ Piezas de plantas comunes
 A quienes participaron en el evento del Día del Árbol
 
 [PLANT_TREE_HEAD_ID_25384]
-Arbol de la sabiduría
+Árbol alegre
 
 [PLANT_UNLOCK]
 Desbloquear
@@ -66861,43 +66883,127 @@ Cambiar nombre gratis
 Cambia tu nombre gratis
 
 [SETTINGS_ABOUT_PROMPT]
-Nombre del juego: Plants vs Zombies 2
-Tipo de juego: Estrategias, defensa y acción
-Nombre de la empresa: TalkWeb Games
-QQ de servicio al cliente: 4008932088
-Página de servicio al cliente: kf.qq.com
-Correo de servicio al cliente: csonline@139.com | 2050745471@qq.com (iOS)
-Teléfono de servicio al cliente: 400-893-7288
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución: TalkWeb Games
+
+Servicio al cliente QQ: 4008932088
+Correo servicio al cliente: csonline@139.com
 Horario del servicio: 8:30 AM - 10:00 PM (China)
+
 Versión actual: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_HD]
-{SETTINGS_ABOUT_PROMPT}
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución: TalkWeb Games
+Plataforma: HD
+
+Servicio al cliente QQ: 4008932088
+Correo servicio al cliente: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM (China)
+
+Versión actual: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_HD_A]
-{SETTINGS_ABOUT_PROMPT_HD}
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución: TalkWeb Games
+Plataforma: Android HD
+
+Servicio al cliente QQ: 4008932088
+Correo servicio al cliente: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM (China)
+
+Versión actual: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_HUAWEI]
-{SETTINGS_ABOUT_PROMPT}
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución: TalkWeb Games
+Plataforma: Huawei (AppGallery)
+
+Versión actual: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_IOS]
-{SETTINGS_ABOUT_PROMPT}
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución: TalkWeb Games
+Plataforma: iOS (Apple Store)
+
+Servicio al cliente QQ: 4008932088
+Correo servicio al cliente: 2050745471@qq.com
+Horario del servicio: 8:30 AM - 10:00 PM (China)
+
+Versión actual: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_JINLI]
-{SETTINGS_ABOUT_PROMPT}
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución: TalkWeb Games
+Plataforma: Gionee App Store
+
+Correo servicio al cliente: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM (China)
+
+Versión actual: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_JINLIHD]
-{SETTINGS_ABOUT_PROMPT_JINLI}
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución:  TalkWeb Games
+Plataforma: Gionee App Store (HD)
+
+Correo servicio al cliente: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM (China)
+
+Versión actual: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_QQ]
-{SETTINGS_ABOUT_PROMPT}
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución: TalkWeb Games
+Plataforma: QQ (Tencent MyApp)
+
+Página de servicio al cliente: kf.qq.com
+
+Versión actual: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_TELECOM]
-{SETTINGS_ABOUT_PROMPT}
-Descargo de responsabilidad: los derechos de autor de este juego pertenecen a TalkWeb Games Los textos, imágenes y otro contenido del juego son las actitudes o posiciones personales de los titulares de los derechos de autor del juego. China Telecom no asume ninguna responsabilidad legal por esto.
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución: TalkWeb Games
+Plataforma: China Telecom
+
+Descargo de responsabilidad: China Telecom no asume responsabilidad sobre el contenido del juego
+
+Servicio al cliente QQ: 4008932088
+Correo servicio al cliente: csonline@139
+Horario del servicio: 8:30 AM - 10:00 PM (China)
+
+Versión actual: {VersionName}
 
 [SETTINGS_ABOUT_PROMPT_TELECOM_HD]
-{SETTINGS_ABOUT_PROMPT_TELECOM}
+Juego: Plants vs. Zombies 2
+Género: Estrategia
+Autor: PopCap Games (sede Shangai)
+Distribución: TalkWeb Games
+Plataforma: China Telecom (HD)
+
+Descargo de responsabilidad: China Telecom no asume responsabilidad sobre el contenido del juego
+
+Servicio al cliente QQ: 4008932088
+Correo servicio al cliente: csonline@139
+Horario del servicio: 8:30 AM - 10:00 PM (China)
 
 [SETTINGS_ABOUT_TEXT]
 Aquí puedes ver toda la información sobre el juego.
@@ -66918,10 +67024,10 @@ Versión de la compilación
 Contacto de Servicio al Cliente
 
 [SETTINGS_CONTRACT_EMAIL]
-Correo electrónico de servicio al cliente: 2059044571@qq.com
+Correo: 2059044571@qq.com
 
 [SETTINGS_CONTRACT_PHONE]
-Teléfono de servicio al cliente: 400-893-7288
+Teléfono: 400-893-7288
 
 [SETTINGS_CONTRACT_PROMPT]
 Información de servicio al cliente:
@@ -67822,32 +67928,14 @@ Efectos: Daño +24% | Potencia acumulada +6% / 5 s (máx. 60%) | ^DB8117^Devolve
 [SLINGSHOT_2_DES]
 El mango de madera tiene un agarre cómodo.
 
-[SLING_PEA_BIG]
-Lote 2 de Tiraguisantes
-
-[SLING_PEA_CONSUME]
-Lote de Tiraguisantes
-
-[SLING_PEA_SEED]
-Paquetes de semillas
-
-[SLING_PEA_SEED_BIG]
-Paquetes de semillas
-
-[SLING_PEA_SEED_SUPER]
-Paquetes de semillas
-
-[SLING_PEA_SUPER]
-Tiraguisantes 2
-
 [SLOT_UNLOCKED]
 ¡Tienes disponible una nueva maceta para brotes!
 
 [SMALL_BAG_TICKET]
-Cupón de bolsitas
+Bolsita de cupones
 
 [SMALL_PACKET_TICKET]
-Cupón de paqueticos
+Sobre de cupones
 
 [SNAKE_ADD_TIP]
 ¡Conseguiste otro Guacadrilo!
