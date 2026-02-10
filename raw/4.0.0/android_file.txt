@@ -5836,13 +5836,13 @@ Acabaste con el corsario Zombot del Dr. Zombi.
 Trofeo de los Mares piratas
 
 [A_PILE_SNOWMEN1_TITLE]
-Prueba de fuego - Nivel 1
+Prueba de fuego - Fase 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Prueba de fuego - Nivel 2
+Prueba de fuego - Fase 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Prueba de fuego - Nivel 3
+Prueba de fuego - Fase 3
 
 [BACKUP_REWARD_TITLE]
 Premio:
@@ -6232,34 +6232,19 @@ Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, p
 Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_AUTUMN]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Cosecha copiosa
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_SPRING]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Primavera floresciente
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_SPRINGFESTIVAL]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Año de abundancia
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_SUMMER]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Verano divertido
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_WINTER]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Invierno generoso
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_2]
 • Reglas del Evento - Gran sorteo:
@@ -6272,10 +6257,7 @@ Si sorteas el tercer premio 4 veces, recibirás el 5% de las recompensas acumula
 Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
 
 [BATTLE_ORDER_DESCRIPTION_AUTUMN]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Temporada: Otoño dorado
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1]
 • Reglas del Evento - Buen regalo:
@@ -6288,34 +6270,19 @@ Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, p
 Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Cosecha copiosa
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SPRING]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Primavera floresciente
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SPRINGFESTIVAL]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Año de abundancia
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SUMMER]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Verano divertido
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_WINTER]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Regalo de esta temporada: Invierno generoso
 
 [BATTLE_ORDER_DESCRIPTION_IOS_2]
 • Reglas del Evento - Gran sorteo:
@@ -6328,22 +6295,13 @@ Si sorteas el tercer premio 4 veces, recibirás el 5% de las recompensas acumula
 Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
-1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Temporada: Verde primavera
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
-1. Gana experiencia completando misiones. Subes de Nivel cada 500 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Temporada: Festival chino
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
-1. Gana experiencia completando misiones. Subes de Nivel cada 500 puntos de Experiencia.
-2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+Temporada: Verano anaranjado
 
 [BATTLE_ORDER_DESCRIPTION_TITLE]
 SOBRE EL PASE DE BATALLA
@@ -6364,13 +6322,13 @@ SOBRE EL PASE DE VERANO
 SOBRE EL PASE DE INVIERNO
 
 [BATTLE_ORDER_DESCRIPTION_WINTER]
-BATTLE_ORDER_DESCRIPTION
+Temporada: Invierno gris
 
 [BATTLE_ORDER_EXP]
 EXP: {NUM}/1.000
 
 [BATTLE_ORDER_GET_REWARD_LEAST]
-Consigues al menos {NUM} Recompensas
+^87CEFA^Recompensas garantizadas: {NUM}^oldclr^
 
 [BATTLE_ORDER_GIFT_REWARD_ADD_UP]
 La cantidad de Joyas aumenta en 40 por cada participante
@@ -6412,16 +6370,16 @@ Esmeralda
 Tienes {NUM} Esmeraldas
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_1]
-^D22808^El primer premio es para 1. Los ganadores reciben hasta un ^08FF20^20% del total^oldclr^ ^D22808^de recompensas^oldclr^
+^E8DCC8^El primer premio es para 1 persona. El ganador recibe hasta un ^08FF20^20% del total^oldclr^ ^E8DCC8^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_2]
-^D22808^El segundo premio es para 2. Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^D22808^de recompensas^oldclr^
+^E8DCC8^El segundo premio es para 2 personas. Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^E8DCC8^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_3]
-^D22808^El tercer premio es para 4. Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^D22808^de recompensas^oldclr^
+^E8DCC8^El tercer premio es para 4 personas. Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^E8DCC8^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_4]
-^D22808^El premio final es para 100. Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^D22808^de recompensas^oldclr^
+^E8DCC8^El premio final es para 100 personas. Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^E8DCC8^de recompensas^oldclr^
 
 [BATTLE_ORDER_MULTIREWARD_LIST]
 • Recompensas de selección múltiple:
@@ -11894,167 +11852,11 @@ Objetivo: {NUMBER} compras
 [COLOR_STAT]
 ^ff0000^
 
-[COMING_SOON_DESCRIPTION_ADV-PIRATE]
-¿Cómo sobreviven los zombis en el mar? Han vuelto a tierra firme y quieren comerse tu cerebro. ¡Corre a salvar el patio! ¡Piensa en Dave!
-
-[COMING_SOON_DESCRIPTION_ADV_MGP]
-Prepárate para responder a la llamada de la aventura. ¡La aventura de Megaguisantralladora estará disponible en breve!
-
-[COMING_SOON_DESCRIPTION_BEACH]
-¡Es hora de surfear... y los zombis se apuntan! ¡La Gran pelea playera está a punto de golpear la orilla!
-
-[COMING_SOON_DESCRIPTION_BIRTHDAY]
-¡Feliz 13.º cumpleaños, Plants vs. Zombies! ¡Celebramos nuestro cumpleaños con un evento de tomillo tiempillo nuevo (con muchoz nivelez), ofertas exclusivas en la tienda y, por supuesto, tartatanque!
-
-[COMING_SOON_DESCRIPTION_BIRTHDAYZ]
-¡Ven a celebrar el decimotercer cumpleaños de PvZ con 31 divertidos niveles de tiempo limitado!
-
-[COMING_SOON_DESCRIPTION_CARNIVAL]
-¡Se acercan zombis nuevos (literalmente)! ¡Defiende y protege tu patio! El carnaval solo está disponible por un período limitado de tiempo, así que lucha contra ellos antes de que se marchen a otro patio.
-
-[COMING_SOON_DESCRIPTION_FEASTIVUS]
-El lucerito mañanero ilumina sus cerebroz. ¡Festivus empieza pronto!
-
-[COMING_SOON_DESCRIPTION_FOODFIGHT]
-Pon la mesa y saca brillo a los cubiertos. Es Pelea de comida, donde el menú incluye de todo, ¡hasta cerebroz!
-
-[COMING_SOON_DESCRIPTION_HARVEST]
-No hay una cosecha igual. ¡Únete al Festival de la cosecha y diviértete!
-
-[COMING_SOON_DESCRIPTION_HARVESTFESTIVAL]
-No hay una cosecha igual. ¡Únete al Festival de la cosecha y diviértete!
-
-[COMING_SOON_DESCRIPTION_LAWNBOWL]
-¡Las plantas y los zombis suman fuerzas una vez al año para pelear por el Trofeo del Taco Dorado! ¡¿Conseguirás ganarlo?!
-
-[COMING_SOON_DESCRIPTION_LAWNOFDOOM]
-¡Prepárate para apisonar zombis con calabazas en el Patio de la perdición!
-
-[COMING_SOON_DESCRIPTION_LUCKOTHEZOMBIE]
-¡¿Por qué tienen tanta suerte los zombis?! Acaba con ellos y defiende tu patio en el nuevo evento por tiempo limitado La suerte del zombi. Dave te está esperando, ¡eres su amuleto!
-
-[COMING_SOON_DESCRIPTION_LUNARNEWYEAR]
-Hierba tigre te espera este año. ¡Nuevos niveles llenos de diversión y desafíos!
-
-[COMING_SOON_DESCRIPTION_POTW]
-Incluso las plantas necesitan entrenar. ¡Prepárate para el próximo plan de Dr. Zombi consultando la planta de la semana!
-
-[COMING_SOON_DESCRIPTION_ROMANWORLD]
-¡Que empiecen los "experimentos"! Pelea contra oleadas de zombis para poder enfrentarte a las últimas creaciones de Dr. Zombi.
-
-[COMING_SOON_DESCRIPTION_SPRINGENING]
-¡Solo tú puedes derrotar a estos zombis con orejas de conejo! ¡Tenemos un nuevo evento de tomillo tiempillo para la llegada de la primavera!
-
-[COMING_SOON_DESCRIPTION_SUMMERNIGHTS]
-¡Tenemos listo un soleado evento de tomillo tiempillo! ¡Prepara el bañador, las chanclas y a tu equipo de plantas para enfrentarte a los zombis!
-
-[COMING_SOON_DESCRIPTION_TOMBASTIC]
-Desciende a la tumba para explorar habitaciones oculta y secretas y encontrar tesoros que el tiempo olvidó. ¿Qué emocionantes aventuras les aguardan a nuestros héroes? ¡Descúbrelo en el evento Aventuras tumbásticas!
-
-[COMING_SOON_DESCRIPTION_TOMBTANGLER]
-Llega una nueva planta al patio. ¡Veamos de lo que es capaz Zampatumbas! ¿Puedes superar este evento de tomillo tiempillo con su ayuda?
-
-[COMING_SOON_DESCRIPTION_TRIGGER]
-Aprende más sobre tus semillas en el nuevo vivero y ayuda a las plantas a convertirse en poderosas aliadas.
-
-[COMING_SOON_DESCRIPTION_ZCORP]
-Dominación ZCorp: porque los zombis tienen que diversificar sus inversiones.
-
-[COMING_SOON_TAGLINE_ADV-PIRATE]
-¿Es un barco eso que ve en el horizonte? ¡No! ¡Son piratas!
-
-[COMING_SOON_TAGLINE_ADV_MGP]
-¡Vive una vida de aventuras con la Megaguisantralladora!
-
-[COMING_SOON_TAGLINE_BEACH]
-¡Se avecinan problemas porque viene una marea de zombis!
-
-[COMING_SOON_TAGLINE_BIRTHDAY]
-¡Feliz cumpleaños, Dr. Zombi!
-
-[COMING_SOON_TAGLINE_BIRTHDAYZ]
-¡Feliz cumpleaños a nosotros! ¡Feliz mes de cumpleaños a nosotros!
-
-[COMING_SOON_TAGLINE_CARNIVAL]
-¡Pasen y vean, no se pierdan el evento de carnaval Circo del patio!
-
-[COMING_SOON_TAGLINE_FEASTIVUS]
-La alegría en este patio hay que festejar. ¡En Festivus!
-
-[COMING_SOON_TAGLINE_FOODFIGHT]
-Próximamente, en un patio cercano, llega Pelea de comida. ¿Quién conquistará la victoria?
-
-[COMING_SOON_TAGLINE_HARVEST]
-¡Cosecha de cucurbitáceas! Próximamente.
-
-[COMING_SOON_TAGLINE_HARVESTFESTIVAL]
-¡Cosecha de cucurbitáceas! Próximamente.
-
-[COMING_SOON_TAGLINE_LAWNBOWL]
-¡Juega a la pelota! ¡Te damos la bienvenida al Patiobol!
-
-[COMING_SOON_TAGLINE_LAWNOFDOOM]
-¡Necrobuenos momentos estará disponible próximamente!
-
-[COMING_SOON_TAGLINE_LUCKOTHEZOMBIE]
-¡¿Eso es un trébol de cuatro hojas?! ¡Ya casi está aquí La suerte del zombi!
-
-[COMING_SOON_TAGLINE_LUNARNEWYEAR]
-¡Año Zoolunar empezará pronto! ¡Vuelve para ver lo que te espera!
-
-[COMING_SOON_TAGLINE_POTW]
-No hay tiempo que perder; ¡prepárate para la planta de esta semana!
-
-[COMING_SOON_TAGLINE_ROMANWORLD]
-¡Enfréntate a las últimas creaciones de Dr. Zombi en el Zombiseo!
-
-[COMING_SOON_TAGLINE_SPRINGENING]
-¿Esos zombis van disfrazados de conejo? ¡Exacto!
-
-[COMING_SOON_TAGLINE_SUMMERNIGHTS]
-¡Vacaciones activadas! ¡Un poco de relax y de pelea contra zombis!
-
-[COMING_SOON_TAGLINE_TOMBASTIC]
-¡Prepárate para adentrarte en la tumba!
-
-[COMING_SOON_TAGLINE_TOMBTANGLER]
-¡Es la hora de Zampatumbas!
-
-[COMING_SOON_TAGLINE_TRIGGER]
-Ayuda a tus semillas a crecer en el nuevo vivero.
-
-[COMING_SOON_TAGLINE_ZCORP]
-¿Currículums listos? ¡Dominación ZCorp busca nuevos cerebroz!
-
 [COMMIT_BUTTON]
 ENVIAR
 
 [COMMON]
 Normal
-
-[COMMUNITY_QUEST_DESC_FEASTIVUS_1]
-¡Los Yetis del tesoro están invadiendo Festivus! ¡Derrótalos para ganar 100 paquetes de semillas de plantas gélidas y participa en el reto de comunidad!
-
-[COMMUNITY_QUEST_GRAPESHOT_DESC_60]
-¡Juega con Uva de racimo para ganar 60 paquetes de semillas de Uva de racimo y participa en el reto de comunidad!
-
-[COMMUNITY_QUEST_GRAPESHOT_TITLE]
-Misión épica del reto de comunidad: ¡Uva de racimo!
-
-[COMMUNITY_QUEST_INZANITY_DESC]
-¡Juega nuevos niveles frescos de cultivo ecológico y participa en el reto de comunidad!
-
-[COMMUNITY_QUEST_INZANITY_TITLE]
-Misión épica del reto de comunidad: ¡Inzania!
-
-[COMMUNITY_QUEST_TITLE]
-¡Misión del reto de comunidad!
-
-[COMMUNITY_QUEST_TOADSTOOL_DESC_60]
-¡Juega con Hongo para ganar 60 paquetes de semillas de Hongo y participa en el reto de comunidad!
-
-[COMMUNITY_QUEST_TOADSTOOL_TITLE]
-Misión épica del reto de comunidad: ¡Hongo!
 
 [COMPEN_OBTAIN]
 RECIBIR
@@ -12205,13 +12007,13 @@ Joyas x{GEM}
 Recoger recompensas
 
 [CONSUMPTION_NOTIFY_1]
-Horario: 29 de Octubre - 07 de Noviembre
+Horario: 29 de octubre - 07 de noviembre
 
 [CONSUMPTION_NOTIFY_2]
-Horario: 07 de Noviembre - 15 de noviembre
+Horario: 07 de noviembre - 15 de noviembre
 
 [CONSUMPTION_NOTIFY_OVER]
-Por el consumo de {GEM_COST} Joyas, ¡has recibido recompensas!
+Obtuviste premios al gastar {GEM_COST} Joyas, ¡disfrútalo!
 
 [CONSUMPTION_REWARD_FAILED]
 ¡Se ha producido un error!
@@ -12220,13 +12022,13 @@ Por el consumo de {GEM_COST} Joyas, ¡has recibido recompensas!
 Estatuas del Renacimiento x{NUM}
 
 [CONSUMPTION_STATUE2019_REWARD_1]
-Estátuas x{NUM}
+Estatuas x{NUM}
 
 [CONSUMPTION_TIPS_ING]
-Has consumido {GEM_COST} Joyas; actualmente, se necesitan consumir {GEM_NEED} Joyas para recibir la siguiente recompensa.
+Has consumido {GEM_COST} Joyas. Gasta {GEM_NEED} para recibir la siguiente recompensa.
 
 [CONSUMPTION_TIPS_ING1]
-Has consumido {NUMBER1} Joyas; actualmente, se necesitan consumir {NUMBER2} Joyas para recibir la siguiente recompensa.
+Has consumido {NUMBER1} Joyas. Gasta {NUMBER2} para recibir la siguiente recompensa.
 
 [CONSUMPTION_TIPS_OVER]
 Has consumido {GEM_COST} Joyas, ¡recibe esto como recompensa!
@@ -12359,13 +12161,13 @@ Recibes una llave de mundo por tu progreso en el juego, ¡úsala para desbloquea
 ¡Desbloquea un nuevo mundo!
 
 [CONVEYER_BELT1_TITLE]
-Prueba de precisión - Nivel 1
+Prueba de precisión - Fase 1
 
 [CONVEYER_BELT2_TITLE]
-Prueba de precisión - Nivel 2
+Prueba de precisión - Fase 2
 
 [CONVEYER_BELT3_TITLE]
-Prueba de precisión - Nivel 3
+Prueba de precisión - Fase 3
 
 [COPA_PICTURE_WARNING]
 Tu foto será guardada solo en este dispositivo.
@@ -23549,22 +23351,22 @@ Válido por ^FF0000^{NUM}^oldclr^ días
 ¿CÓMO JUGAR?
 
 [GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
-Los muñecos de nieve se dividen en 3 más pequeños al ser dañados
+Los objetivos se dividen en 3 más pequeños al ser dañados
 
 [GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
-Los muñecos pequeños no otorgan puntos al ser destruidos
+Los objetivos pequeños no otorgan puntos al ser destruidos
 
 [GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
-Los muñecos de nieve pequeños apilados alrededor otorgan reducción de daño al muñeco grande
+Los objetivos pequeños apilados alrededor otorgan reducción de daño al objetivo principal
 
 [GINGLEBELL_HOWTOPLAY_4_DESCRIPTION]
-Modificador: aparecen estacas de madera
+Modificador: aparecen objetivos fijos
 
 [GINGLEBELL_HOWTOPLAY_5_DESCRIPTION]
-Modificador 2: aparecen estacas de madera móviles, su velocidad aumenta cuando las atacan
+Modificador 2: aparecen objetivos móviles, su velocidad aumenta cuando los atacan
 
 [GINGLEBELL_HOWTOPLAY_6_DESCRIPTION]
-Modificador 3: aparecen estacas de madera, reaparecen en otra casilla al ser dañadas
+Modificador 3: aparecen objetivos fijos, reaparecen en otra casilla al ser dañados
 
 [GINGLEBELL_PARTIC_NUM]
 Participantes: {NUMBER}
@@ -30875,7 +30677,7 @@ Monedas de amatista insuficientes.
 Se usa para canjear artículos en la Tienda de Dueloz
 
 [MAT_NEW_YEAR_CHESTS_BIG]
-Supercofre próspero
+Superbolsa próspero
 
 [MAT_NEW_YEAR_CHESTS_BIG_GOT_WAY]
 Comprando paquetes de Año Nuevo.
@@ -30884,7 +30686,7 @@ Comprando paquetes de Año Nuevo.
 Ábrelo y elige una gran cantidad de Piezas del Atuendo de tu preferencia.
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE]
-Cofre próspero
+Bolsa próspera
 
 [MAT_NEW_YEAR_CHESTS_MIDDLE_GOT_WAY]
 Comprando paquetes de Año Nuevo.
@@ -30893,7 +30695,7 @@ Comprando paquetes de Año Nuevo.
 Ábrelo y elige una cantidad mediana de Piezas del Atuendo de tu preferencia.
 
 [MAT_NEW_YEAR_CHESTS_SMALL]
-Minicofre próspero
+Minibolsa próspera
 
 [MAT_NEW_YEAR_CHESTS_SMALL_GOT_WAY]
 Comprando paquetes de Año Nuevo.
@@ -40463,19 +40265,21 @@ El girasol en la esquina superior izquierda es tu fuente de producción solar, g
 A medida que aumente el número de turnos, se desbloquearán zombis más poderosos y habilidades mejoradas
 
 [NEWYEARPACK_DESCRIPTION]
-1. Recibes Joyas al comprar paquetes, con la probabilidad de obtener un Cofre de Atuendos.
-2. La décima compra de un Paquete de Año Nuevo garantiza que obtengas un Cofre de Atuendos.
+1. Recibes Joyas al comprar paquetes, con la probabilidad de obtener una Bolsa de Atuendos.
+2. La décima compra de un Paquete de Año Nuevo garantiza que obtengas una Bolsa de Atuendos.
 3. El límite de compra de los paquetes se reinicia diariamente, la garantía de compra es acumulativa.
-4. Los Cofres de Año nuevo se guardan en tu Mochila. Ábrelos para obtener el Atuendo de tu preferencia.
+4. Las bolsas se guardan en tu Mochila. Ábrelas para obtener el Atuendo de tu preferencia.
 5. Las recargas que hagas en cualquier parte del juego se sumarán al progreso acumulativo de este evento.
 
 [NEWYEARPACK_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
 
 [NEWYEARPACK_MAIN_TIPS_INFO]
-• Minicofre próspero: contiene el Atuendo festivo de Lanzaguisantes, Papapum, Remolacha tremenda, Agave y Coltapulta.
-• Cofre próspero: contiene el Atuendo festivo de Girasol cantante, Hierbaterista (Año del conejo), Piñón pistolero (Año del conejo), Remolacha tremenda (Año del conejo), Planta carnívora y Bonk Choi (disfraz clásico y Año del buey).
-• Supercofre próspero: contiene el Atuendo festivo de Lanzaguisantes primitivo, Pera Zombidita (Año del conejo), Manzana mortero, Bocadragón eléctrico (Año del conejo y del dragón), Boca de dragón (Año del dragón), Bocadragón gélido (Año del dragón) y Bardana de béisbol (Año del tigre).
+^DB8117^• Bolsa pequeña:^oldclr^ contiene el Atuendo festivo de Lanzaguisantes, Papapum, Remolacha tremenda, Agave y Coltapulta.
+
+^DB8117^• Bolsa mediana:^oldclr^ contiene el Atuendo festivo de Girasol cantante, Hierbaterista (Año del conejo), Piñón pistolero (Año del conejo), Remolacha tremenda (Año del conejo), Planta carnívora y Bonk Choi (disfraz clásico y Año del buey).
+
+^DB8117^• Bolsa grande:^oldclr^ contiene el Atuendo festivo de Lanzaguisantes primitivo, Pera Zombidita (Año del conejo), Manzana mortero, Bocadragón eléctrico (Año del conejo y del dragón), Boca de dragón (Año del dragón), Bocadragón gélido (Año del dragón) y Bardana de béisbol (Año del tigre).
 
 [NEWYEARREDPACKETE_TAB0]
 Ruleta
@@ -54441,9 +54245,9 @@ Lote de nuevo usuario
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
 • Regalo diario: contiene 15 Joyas
-• Paquete de 2 元: contiene 30 Joyas y un 10% de probabilidad de obtener un Minicofre
-• Paquete de 3 元: contiene 90 Joyas y un 10% de probabilidad de obtener un Cofre normal
-• Paquete de 6 元: contiene 180 Joyas y un 10% de probabilidad de obtener un Supercofre
+• Paquete de 2 元: contiene 30 Joyas y un 10% de probabilidad de obtener una Bolsa pequeña
+• Paquete de 3 元: contiene 90 Joyas y un 10% de probabilidad de obtener una Bolsa mediana
+• Paquete de 6 元: contiene 180 Joyas y un 10% de probabilidad de obtener una Bolsa grande
 
 [PRODUCT_NEW_YEAR_PACK_3_SHORTDESC]
 Paquete de 3 元
@@ -58672,13 +58476,13 @@ Poción de rabia
 Se puede lanzar en cualquier parte del patio, doblando el poder y la velocidad de las unidades aliadas de 1 casilla
 
 [RANDOM_SNOWMEN1_TITLE]
-Prueba táctica - I
+Prueba táctica - Fase 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Prueba táctica - II
+Prueba táctica - Fase 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Prueba táctica - III
+Prueba táctica - Fase 3
 
 [RANGE_0]
 Fila al frente
@@ -66581,7 +66385,7 @@ Emite una potente luz que aturde zombis
 Nivel 2
 
 [SAUCER_SKILL_LEVEL1_DES]
-^4DD4DB^Aducción extraterrestre:^oldclr^ gana la habilidad de capturar zombis con una salud baja.
+^4DD4DB^Abducción:^oldclr^ gana la habilidad de capturar zombis con una salud baja.
 
 [SAUCER_SKILL_LEVEL2]
 Nivel 3
@@ -68229,16 +68033,16 @@ Descripción de Guisante carnívoro
 Guisante carnívoro
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Prueba de fuego - Nivel {LEVEL_NUMBER}
+Prueba de fuego - Fase {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE2_LEVEL_NAME]
 12° aniversario - Fiesta {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE2_LEVEL_NAME]
-Prueba de precisión - Nivel {LEVEL_NUMBER}
+Prueba de precisión - Fase {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Prueba de táctica - Nivel {LEVEL_NUMBER}
+Prueba de táctica - Fase {LEVEL_NUMBER}
 
 [SNOWPEA]
 Hielaguisantes
@@ -68406,18 +68210,12 @@ Premio de suerte
 ¿CÓMO JUGAR?
 
 [SPACETIMERIFT_RANKINFO_TEXT]
-• Premios por puesto fijo:
 
 PUESTO               PREMIO
 ---------------------------------------------------------
 1-10                 Joyas x588, Casia dorada: Piezas x40
 11-50                Joyas x399, Casia dorada: Piezas x30
 50-100               Joyas x288, Casia dorada: Piezas x20
-
-• Premios por puesto relativo:
-
-PUESTO               PREMIO
----------------------------------------------------------
 Top 1%               Joyas x199, Casia dorada: Piezas x10
 Top 5%               Joyas x166, Casia dorada: Piezas x8
 Top 55%              Joyas x99, Casia dorada: Piezas x5
@@ -72863,7 +72661,7 @@ La onda de choque se propaga en 3 direcciones
 Sombrero de guerrero
 
 [STORE_PRODUCT_AVATAR_AKEE]
-Gana la probabilidad de disparar semillas de akee explosivas o congeladas.
+Puede disparar semillas explosivas o congeladas con Nutrientes
 
 [STORE_PRODUCT_AVATAR_AKEE_TITLE]
 Casco
@@ -72875,7 +72673,7 @@ El meteoro deja un nodo de energía en un área 3x3 durante 5 s
 Cinta roja
 
 [STORE_PRODUCT_AVATAR_ALOES]
-Al crearse, sus charcos curativos congelan a los zombis que los pisen
+Al crearse, los charcos curativos del efecto congelan a los zombis que los pisen
 
 [STORE_PRODUCT_AVATAR_ALOES_TITLE]
 Banderín de L.E.A.F
@@ -73028,7 +72826,7 @@ Máscara
 Los guisantes bateados por su efecto de Nutrientes se dividen en 3
 
 [STORE_PRODUCT_AVATAR_BURDOCKBATTER_TITLE]
-Uniforme de béisbol
+Uniforme
 
 [STORE_PRODUCT_AVATAR_BUTTERCUP]
 Los charcos de mantequilla dejados por su efecto inmovilizan a 1 zombi adicional y duran más
@@ -73094,7 +72892,7 @@ Lentes y sombreros
 Invoca una gran castaña adicional que hace mucho daño
 
 [STORE_PRODUCT_AVATAR_CHESTNUT_TITLE]
-Moñito rojo
+Moño rojo
 
 [STORE_PRODUCT_AVATAR_CHILIBEAN]
 Crea 1 clon adicional
@@ -73127,7 +72925,7 @@ La tusa se convierte en un misil teledirigido que daña zombis de un área media
 Boina roja
 
 [STORE_PRODUCT_AVATAR_COCONUTCANNON]
-Lanza una bala gigante que aturde zombis cuando explota
+Dispara una bala gigante que aturde zombis cuando explota
 
 [STORE_PRODUCT_AVATAR_COCONUTCANNON_TITLE]
 Casco de constructor
@@ -73139,7 +72937,7 @@ Recarga rápida
 Antenas
 
 [STORE_PRODUCT_AVATAR_COLDSNAPDRAGON]
-Congea a todos los zombis en pantalla al usar Nutrientes
+Congela a todos los zombis en pantalla al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_COLDSNAPDRAGON_TITLE]
 Cubo de hielo
@@ -73625,7 +73423,7 @@ Coste -25
 Cola de zorro
 
 [STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER]
-Aumentan los efectos de mejora en las plantas, en especial en musicales
+Con Nutrientes, aumenta los efectos de mejora en las plantas, en especial, musicales
 
 [STORE_PRODUCT_AVATAR_HYDROCOTYLEDRUMMER_TITLE]
 Gafas de músico
@@ -73643,7 +73441,7 @@ Arroja bolas de nieve al final de su efecto de Nutrientes
 Orejeras de invierno
 
 [STORE_PRODUCT_AVATAR_ICELOTUS]
-Los charcos del efecto congela a los zombis que los pisen
+Los charcos del efecto congelan a los zombis que los pisen
 
 [STORE_PRODUCT_AVATAR_ICELOTUS_TITLE]
 Bufanda amarilla
@@ -73679,7 +73477,7 @@ Dispara más proyectiles al usar Nutrientes, estos se dispersan a otras líneas
 Gafas rosadas
 
 [STORE_PRODUCT_AVATAR_IMPPEAR]
-Convertirá a 2 zombis adicionales en zombiditos.
+Convertirá a 2 zombis adicionales en Zombiditos
 
 [STORE_PRODUCT_AVATAR_IMPPEAR_TITLE]
 Bigote
@@ -73697,7 +73495,7 @@ Coste -25
 Espejo frontal
 
 [STORE_PRODUCT_AVATAR_JACKFRUIT]
-Su salud aumenta cada vez que bloquea pasadizos secretos.
+Su salud aumenta cada vez que bloquea pasadizos secretos
 
 [STORE_PRODUCT_AVATAR_JACKFRUIT_TITLE]
 Rey de las frutas
@@ -73733,7 +73531,7 @@ Lanza mantequilla en llamas que hace más daño
 Bandana japonesa
 
 [STORE_PRODUCT_AVATAR_KIWIBEAST]
-Sus golpetazos ahora empujan zombis
+Los golpetazos del efecto derriban y aturden zombis
 
 [STORE_PRODUCT_AVATAR_KIWIBEAST_TITLE]
 Trenzas
@@ -73787,13 +73585,13 @@ El hielo del efecto congela zombis por un tiempo
 Corbata verde
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER]
-Puede disparar gotas de agua tóxicas cuando usa Nutrientes
+Puede disparar gotas tóxicas cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER_TITLE]
 Máscara antigas
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOWER]
-Sus proyectiles ahora infligen daño en un área 3x3
+Los proyectiles del efecto hacen daño por salpicadura en un área mediana
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOWER_TITLE]
 Cadena de oro
@@ -73805,7 +73603,7 @@ Ya no invoca zombis básicos al usar Nutrientes
 Corbatín rojo
 
 [STORE_PRODUCT_AVATAR_MAGNETSHROOM]
-Lanza los objetos metálicos atraídos a todos los zombis del patio
+Con Nutrientes, devuelve los objetos metálicos atraídos por todo el patio
 
 [STORE_PRODUCT_AVATAR_MAGNETSHROOM_TITLE]
 Capa de magneto
@@ -73826,7 +73624,7 @@ Gafas anaranjadas
 El campo se contrae infligiendo daño por 2da vez, y dejando un campo más pequeño
 
 [STORE_PRODUCT_AVATAR_MANGOSTEEN_TITLE]
-Monóculo espía
+Monóculo
 
 [STORE_PRODUCT_AVATAR_MAPLEBLADE]
 Los zombis alcanzados por su efecto también son ralentizados
@@ -73835,7 +73633,7 @@ Los zombis alcanzados por su efecto también son ralentizados
 Traje negro
 
 [STORE_PRODUCT_AVATAR_MARIGOLD]
-Produce 1 moneda adicional
+Produce 1 moneda de oro al final del efecto
 
 [STORE_PRODUCT_AVATAR_MARIGOLD_TITLE]
 Sombrero de copa
@@ -73898,7 +73696,7 @@ Lentes de DJ
 Los orbes del efecto aturden zombis durante unos segundos
 
 [STORE_PRODUCT_AVATAR_MOTON_TITLE]
-Bufanda
+Bufanda azul
 
 [STORE_PRODUCT_AVATAR_MULBERRY]
 Lanza una baya al final del efecto, la cual explota en un área mediana
@@ -73970,7 +73768,7 @@ Alga demoniaca
 Su efecto de Nutrientes también hace daño por salpicadura
 
 [STORE_PRODUCT_AVATAR_PAMEGRANATE_TITLE]
-Gorrito navideño
+Gorro navideño
 
 [STORE_PRODUCT_AVATAR_PAPHIOPEDILUM]
 Lanza más artículos al usar Nutrientes
@@ -74057,7 +73855,7 @@ Dispara bolas de fuego púrpuras que hacen más daño junto a daño de área
 Vaquero
 
 [STORE_PRODUCT_AVATAR_PINKSTARFRUIT]
-Dispara estrellas rojas y azules al usar Nutrientes
+Puede disparar estrellas rojas y azules al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_PINKSTARFRUIT_TITLE]
 Aureola
@@ -74099,7 +73897,7 @@ Recarga rápida +20%
 Lentes
 
 [STORE_PRODUCT_AVATAR_POWERPLANT]
-Cambia la apariencia de las casillas potenciadoras generadas al plantarse.
+Cambia la apariencia de las casillas potenciadoras generadas al plantarse
 
 [STORE_PRODUCT_AVATAR_POWERPLANT_TITLE]
 Unicornio
@@ -74144,7 +73942,7 @@ Pantalones
 Los proyectiles del efecto hacen más daño
 
 [STORE_PRODUCT_AVATAR_PUFFSHROOM_TITLE]
-Cuernos de toro
+Cuernos
 
 [STORE_PRODUCT_AVATAR_PUMPKIN]
 Obtiene una armadura más fuerte al usar Nutrientes
@@ -74201,7 +73999,7 @@ Aumenta la duración del efecto de Nutrientes en 1 s
 Falda de hierba
 
 [STORE_PRODUCT_AVATAR_RIFLEBAMBOO]
-Sus balas ralentizan por más tiempo, hacen más daño y aturden zombis al explotar
+Sus super-balas ralentizan por más tiempo, hacen más daño y aturden zombis al explotar
 
 [STORE_PRODUCT_AVATAR_RIFLEBAMBOO_TITLE]
 Pañuelo rojo
@@ -74243,7 +74041,7 @@ Recarga rápida +20%
 Gorro de mapache
 
 [STORE_PRODUCT_AVATAR_SEASHOOTER]
-Aumenta la cantidad de proyectiles disparados por el efecto.
+Aumenta la cantidad de proyectiles disparados por el efecto
 
 [STORE_PRODUCT_AVATAR_SEASHOOTER_TITLE]
 Lazo
@@ -74285,7 +74083,7 @@ Los zombis reducidos por su efecto serán el doble de pequeños y se moverán m�
 Zapatillas rojas
 
 [STORE_PRODUCT_AVATAR_SLINGPEA]
-Gana un 50% de disparar bolas de fuego rojas o azules al usar Nutrientes
+Puede disparar bolas de fuego rojas o azules al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_SLINGPEA_TITLE]
 Diseño de carreras
@@ -74309,7 +74107,7 @@ Dispara una ráfaga de 3 enormes guisantes congelados
 Sombrero invernal
 
 [STORE_PRODUCT_AVATAR_SPARTANBAMBOO]
-Las ondas espansivas generan ondas más poderosas
+Las ondas expansivas generan ondas más poderosas
 
 [STORE_PRODUCT_AVATAR_SPARTANBAMBOO_TITLE]
 Capa roja
@@ -74375,7 +74173,7 @@ Al usar Nutrientes, las hojas lanzadas se prenden en llamas e infligen más dañ
 Kurobuta
 
 [STORE_PRODUCT_AVATAR_STICKYBOMBRICE]
-Cuando usa Nutreintes, arroja arroz negro que se acumula 3 veces y derriba zombis
+Cuando usa Nutrientes, arroja arroz negro que se acumula 3 veces y derriba zombis
 
 [STORE_PRODUCT_AVATAR_STICKYBOMBRICE_TITLE]
 Gafas de abuelita
@@ -74387,7 +74185,7 @@ El fruto gigante se divide en 3 más pequeños que hacen daño en un área menor
 Fedora
 
 [STORE_PRODUCT_AVATAR_STREETLAMP]
-Aturde a todos los zombis del mapa al usar Nutrientes.
+Aturde a todos los zombis del mapa cuando usa Nutrientes
 
 [STORE_PRODUCT_AVATAR_STREETLAMP_TITLE]
 Hechicero
@@ -74489,7 +74287,7 @@ Su efecto de Nutrientes ahora dura 2 s más, hace más daño y recupera más sal
 Músico
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER]
-Las hojas lanzadas por el efecto se queda clavadas en el suelo, dañando a los zombis que las pisen por un tiempo
+Las hojas lanzadas por el efecto se quedan clavadas por un tiempo, dañando a los zombis que las pisen
 
 [STORE_PRODUCT_AVATAR_TUPISTRASTALKER_TITLE]
 Pañuelo marrón
@@ -74507,7 +74305,7 @@ Crea 1 clon adicional
 Sombrero tradicional
 
 [STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE]
-La explosión del efecto libera el mismo número de estrellas de fuego y hielo que en el ataque
+La explosión del efecto libera el mismo número de estrellas de fuego y hielo que en el ataque normal
 
 [STORE_PRODUCT_AVATAR_TWINSHONEYSUCKLE_TITLE]
 Cuernos astrales
@@ -76877,19 +76675,19 @@ Jugar en equipo consume intentos de desafío.
 Selección de modo
 
 [TEAM_BOSS_SKILL_DES_0]
-^DB8117^Invocación^oldclr^
+Invocación
 Ruge para activar un satélite, el cual envía zombis a la tierra.
 
 [TEAM_BOSS_SKILL_DES_1]
-^DB8117^Fuegos artificiales^oldclr^
+Fuegos artificiales
 Lanza dos proyectiles que detonan tras 4 s, eliminando plantas de un área 3x3
 
 [TEAM_BOSS_SKILL_DES_2]
-^DB8117^Apetito voraz^oldclr^
+Apetito voraz
 Absorbe y devora a 3 filas enteras de plantas.
 
 [TEAM_BOSS_SKILL_DES_3]
-^DB8117^Ignición^oldclr^
+Ignición
 Mejora sus habilidades e invoca un zombi poderoso cada 4 s
 
 [TEAM_BOSS_SKILL_TITLE_TEXT]
@@ -83764,7 +83562,7 @@ Límite de compra: ^FF0000 1 ^oldclr
 Carnaval zombi
 
 [ZOMBIEREMOVAL]
-Elimación de zombis
+Eliminación de zombis
 
 [ZOMBIEREMOVAL_AFK_LEVEL]
 Nvl. AFK: {NUM}
@@ -83787,7 +83585,7 @@ Puntuación: {NUM}
 3. Las recompensas mejoran conforme más puntos obtengas, ¡elimina tantos zombis como puedas!
 
 [ZOMBIEREMOVAL_DESCRIPTION_TITLE]
-Elimación de zombis
+¿CÓMO JUGAR?
 
 [ZOMBIEREMOVAL_NEXT_LEVEL]
 Sigte. Nvl. en: {NUM} ptos.
@@ -85938,7 +85736,7 @@ Frankenstein
 {KEYWORD}Daño: {STAT}aplasta plantas con su terrorífico poste
 {KEYWORD}Especial: {STAT}lanza a la Novia de Frankenstein cuando sufre daño
 
-{FLAVOR}Un tipo fortachón, grandulón y aterrador. Tiene todo lo que se necesita como para asustar a tanta gente en las calles.
+{FLAVOR}¡ESTÁ VIVO! ¡ESTÁ VIVO!
 
 [ZOMBIE_HALLOWEEN_GARGANTUAR_DESCRIPTION_HEADER]
 Un tipo colosal y aterrador que machaca plantas y las deja petrificadas del miedo.
