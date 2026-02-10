@@ -6190,13 +6190,13 @@ Activar prémium
 Pase de otoño
 
 [BATTLE_ORDER_BUTTON_DESC]
-Completar x{NUMS}
+Compl. x{NUMS}
 
 [BATTLE_ORDER_BUTTON_NOT_ENOUGH_DESC]
 Tiques insuficientes.
 
 [BATTLE_ORDER_BUTTON_TIPS_DESC]
-Tienes ^98FB98^{ALLNUMS}^oldclr^ tiques.
+Tienes ^397F24^{ALLNUMS}^oldclr^ tiques de temporada.
 Se necesitan ^FF0000^{NUMS}^oldclr^ para completar la misión, ¿seguro?
 
 [BATTLE_ORDER_BUY_LEVEL]
@@ -6392,23 +6392,23 @@ La cantidad de Joyas aumenta en 100 por cada participante
 Esmeralda
 
 [BATTLE_ORDER_INTERGAL_TIPS]
-^98FB98^Esmeraldas: {NUM}^oldclr^
+^397F24^Esmeraldas: {NUM}^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_1]
-^E6E6E6^El primer premio es para 1 persona.^oldclr^
-^E6E6E6^El ganador recibe hasta un ^08FF20^20% del total^oldclr^ ^E6E6E6^de recompensas^oldclr^
+^C4C4C4^El primer premio es para 1 persona.^oldclr^
+^C4C4C4^El ganador recibe hasta un ^08FF20^20% del total^oldclr^ ^C4C4C4^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_2]
-^E6E6E6^El segundo premio es para 2 personas.^oldclr^
-^E6E6E6^Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^E6E6E6^de recompensas^oldclr^
+^C4C4C4^El segundo premio es para 2 personas.^oldclr^
+^C4C4C4^Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^C4C4C4^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_3]
-^E6E6E6^El tercer premio es para 4 personas.^oldclr^
-^E6E6E6^Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^E6E6E6^de recompensas^oldclr^
+^C4C4C4^El tercer premio es para 4 personas.^oldclr^
+^E6E6E6^Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^C4C4C4^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_4]
-^E6E6E6^El premio final es para 100 personas.^oldclr^
-^E6E6E6^Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^E6E6E6^de recompensas^oldclr^
+^C4C4C4^El premio final es para 100 personas.^oldclr^
+^C4C4C4^Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^C4C4C4^de recompensas^oldclr^
 
 [BATTLE_ORDER_MULTIREWARD_LIST]
 • Recompensas de selección múltiple:
@@ -20604,8 +20604,7 @@ Premio de primera limpieza:
 Primer premio
 
 [FIRST_RECHARGE_EXTRA_BONUS_CHOOSE_DESC]
-¡Esta es tu primera vez recargando 元 y has conseguido recompensas por ello!
-Elige una planta épica de Nvl. 1 de tu preferencia y llévatela a tu arsenal.
+Premio por primera recarga: elección épica
 
 [FIRST_RECHARGE_EXTRA_BONUS_CHOOSE_TITLE]
 ¡Bonus desbloqueado!
@@ -20617,8 +20616,8 @@ Elige una planta épica de Nvl. 1 de tu preferencia y llévatela a tu arsenal.
 Ya has recibido la recompensa de hoy, ¡vuelve mañana!
 
 [FIRST_RECHARGE_EXTRA_TIPS]
-Completa el objetivo de recarga e inicia sesión durante tres días para conseguir recompensas.
-El importe se contabilizará a las 11:00 del 31 de enero de 2024.
+Recarga por primera vez comprando Joyas con dinero real.
+Inicia sesión durante tres días para conseguir recompensas.
 
 [FIRST_RECHARGE_HEAD_DES_ID_25391]
 ¡Disfruta de los beneficios que tiene recargar, esta medalla es uno de ellos!
@@ -59504,15 +59503,13 @@ Has conseguido 30 Piezas de Petacereza por la recarga de 元
 Recarga legendaria de Nvl. 3
 
 [RECHARGE_REWARD_PLANT_SELECT_ORANGE_3_1_DES]
-¡Haz recargado suficientes 元 para reclamar esta recompensa!
-A continuación, elige una planta legendaria de Nvl. 3
+Premio por recarga: elección legendaria
 
 [RECHARGE_REWARD_PLANT_SELECT_PURPLE_3_1]
 Recarga épica de Nvl. 3
 
 [RECHARGE_REWARD_PLANT_SELECT_PURPLE_3_1_DES]
-¡Haz recargado suficientes 元 para reclamar esta recompensa!
-A continuación, elige una planta épica de Nvl. 3
+Premio por recarga: elección épica
 
 [RECHARGE_REWARD_SPEEDUP]
 Desbloqueaste el Botón turbo por la recarga de 20 元
@@ -59629,46 +59626,46 @@ Paquete de Año Nuevo
 Jugador: ^FFFF00^{NAME}^oldclr^
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_0]
-¡^FFFF00^{NAME}^oldclr^ ganó el GRAN premio de Año Nuevo!
+^FFFF00^{NAME}^oldclr^ ganó el GRAN premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]
-^FFFF00^{NAME}^oldclr^ ganó el premio gordo de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el premio gordo de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]
-^FFFF00^{NAME}^oldclr^ ganó el 1er premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 1er premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_3]
-^FFFF00^{NAME}^oldclr^ ganó el 2do premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 2do premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_4]
-^FFFF00^{NAME}^oldclr^ ganó el 3er premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 3er premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_5]
-^FFFF00^{NAME}^oldclr^ ganó el 4to premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 4° premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_6]
-^FFFF00^{NAME}^oldclr^ ganó el 5to premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 5° premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_7]
-^FFFF00^{NAME}^oldclr^ ganó el 6to premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 6° premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
-^FFFF00^{NAME}^oldclr^ ganó el 7mo premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 7° premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]
-^FFFF00^{NAME}^oldclr^ ganó el 8vo premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 8° premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_10]
-^FFFF00^{NAME}^oldclr^ ganó el 9no premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 9° premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_11]
-^FFFF00^{NAME}^oldclr^ ganó el 10mo premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 10° premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_12]
-^FFFF00^{NAME}^oldclr^ ganó el 11er premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 11° premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_13]
-^FFFF00^{NAME}^oldclr^ ganó el 12do premio de Año Nuevo
+^FFFF00^{NAME}^oldclr^ ganó el 12° premio de Año Nuevo: 
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]
 ^0775F7^{ITEM}^oldclr^ x{NUMS}
@@ -66889,10 +66886,11 @@ Autor: PopCap Games (sede Shangai)
 Distribución: TalkWeb Games
 
 Servicio al cliente QQ: 4008932088
-Correo servicio al cliente: csonline@139.com
-Horario del servicio: 8:30 AM - 10:00 PM (China)
+Correo: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM
 
-Versión actual: {VersionName}
+{VersionName}
+
 
 [SETTINGS_ABOUT_PROMPT_HD]
 Juego: Plants vs. Zombies 2
@@ -66902,10 +66900,11 @@ Distribución: TalkWeb Games
 Plataforma: HD
 
 Servicio al cliente QQ: 4008932088
-Correo servicio al cliente: csonline@139.com
-Horario del servicio: 8:30 AM - 10:00 PM (China)
+Correo: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM
 
-Versión actual: {VersionName}
+{VersionName}
+
 
 [SETTINGS_ABOUT_PROMPT_HD_A]
 Juego: Plants vs. Zombies 2
@@ -66915,10 +66914,11 @@ Distribución: TalkWeb Games
 Plataforma: Android HD
 
 Servicio al cliente QQ: 4008932088
-Correo servicio al cliente: csonline@139.com
-Horario del servicio: 8:30 AM - 10:00 PM (China)
+Correo: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM
 
-Versión actual: {VersionName}
+{VersionName}
+
 
 [SETTINGS_ABOUT_PROMPT_HUAWEI]
 Juego: Plants vs. Zombies 2
@@ -66927,7 +66927,8 @@ Autor: PopCap Games (sede Shangai)
 Distribución: TalkWeb Games
 Plataforma: Huawei (AppGallery)
 
-Versión actual: {VersionName}
+{VersionName}
+
 
 [SETTINGS_ABOUT_PROMPT_IOS]
 Juego: Plants vs. Zombies 2
@@ -66937,10 +66938,11 @@ Distribución: TalkWeb Games
 Plataforma: iOS (Apple Store)
 
 Servicio al cliente QQ: 4008932088
-Correo servicio al cliente: 2050745471@qq.com
-Horario del servicio: 8:30 AM - 10:00 PM (China)
+Correo: 2050745471@qq.com
+Horario del servicio: 8:30 AM - 10:00 PM
 
-Versión actual: {VersionName}
+{VersionName}
+
 
 [SETTINGS_ABOUT_PROMPT_JINLI]
 Juego: Plants vs. Zombies 2
@@ -66949,10 +66951,11 @@ Autor: PopCap Games (sede Shangai)
 Distribución: TalkWeb Games
 Plataforma: Gionee App Store
 
-Correo servicio al cliente: csonline@139.com
-Horario del servicio: 8:30 AM - 10:00 PM (China)
+Correo: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM
 
-Versión actual: {VersionName}
+{VersionName}
+
 
 [SETTINGS_ABOUT_PROMPT_JINLIHD]
 Juego: Plants vs. Zombies 2
@@ -66961,10 +66964,11 @@ Autor: PopCap Games (sede Shangai)
 Distribución:  TalkWeb Games
 Plataforma: Gionee App Store (HD)
 
-Correo servicio al cliente: csonline@139.com
-Horario del servicio: 8:30 AM - 10:00 PM (China)
+Correo: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM
 
-Versión actual: {VersionName}
+{VersionName}
+
 
 [SETTINGS_ABOUT_PROMPT_QQ]
 Juego: Plants vs. Zombies 2
@@ -66973,9 +66977,10 @@ Autor: PopCap Games (sede Shangai)
 Distribución: TalkWeb Games
 Plataforma: QQ (Tencent MyApp)
 
-Página de servicio al cliente: kf.qq.com
+Portal servicio al cliente: kf.qq.com
 
-Versión actual: {VersionName}
+{VersionName}
+
 
 [SETTINGS_ABOUT_PROMPT_TELECOM]
 Juego: Plants vs. Zombies 2
@@ -66987,10 +66992,11 @@ Plataforma: China Telecom
 Descargo de responsabilidad: China Telecom no asume responsabilidad sobre el contenido del juego
 
 Servicio al cliente QQ: 4008932088
-Correo servicio al cliente: csonline@139
-Horario del servicio: 8:30 AM - 10:00 PM (China)
+Correo: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM
 
-Versión actual: {VersionName}
+{VersionName}
+
 
 [SETTINGS_ABOUT_PROMPT_TELECOM_HD]
 Juego: Plants vs. Zombies 2
@@ -67002,8 +67008,11 @@ Plataforma: China Telecom (HD)
 Descargo de responsabilidad: China Telecom no asume responsabilidad sobre el contenido del juego
 
 Servicio al cliente QQ: 4008932088
-Correo servicio al cliente: csonline@139
-Horario del servicio: 8:30 AM - 10:00 PM (China)
+Correo: csonline@139.com
+Horario del servicio: 8:30 AM - 10:00 PM
+
+{VersionName}
+
 
 [SETTINGS_ABOUT_TEXT]
 Aquí puedes ver toda la información sobre el juego.
