@@ -142,7 +142,7 @@ No iniciaste sesión
 Inicio de sesión acumulativo
 
 [ACCUMULATE_RECHARGE_REWARD]
-Acumula {NUM} Fragmentos de mapas para reclamar premios, recarga hasta 30元 por día para obtener más.
+Acumula {NUM} Fragmentos de mapas para reclamar premios, recarga hasta 30 元 por día para obtener más.
 
 [ACCUMU_GIFT]
 Donaciones acumuladas
@@ -766,8 +766,8 @@ Aprueba lecciones en El Aula de Penny y gana puntos que se pueden usar para canj
 2. Los aspectos cromáticos requieren al Atuendo para equiparse.
 
 [ACTIVITY_DOUBLE_COINS]
-¡A acumular y recargar 元!
-¡Consigue el potenciador Monedas x2!
+Multiplicador de Monedas x4 activo
+¡Consigue 4 veces más monedas!
 
 [ACTIVITY_DRAGONT_REASURE_SHORT_DESCRIPTION]
 Compra Paquetes de Regalo, obtén Cristales para canjearlos y participar en sorteos.
@@ -846,7 +846,7 @@ DESCRIPCIÓN DEL EVENTO
 DESCRIPCIÓN DEL EVENTO
 
 [ACTIVITY_NEW_PIGGY_BANK_BTN]
-Comprar x30元
+Comprar x30 元
 
 [ACTIVITY_NEW_PIGGY_BANK_DESC]
 Compra una hucha y ahorra hasta un ^ff0000^99%^oldclr^ al comprar Joyas. Aplica para un máx. de ^ff0000^2.970^oldclr^ Joyas
@@ -910,8 +910,8 @@ Aún no abierto
 Tarea pasada, refresca la interfaz del evento
 
 [ACTIVITY_RECHARGE_URFOLD_COINS]
-¡Potenciador Monedas x2 coseguido en el evento y por recargar 元!
-¡Ahora consigue x4 Monedas al final de un nivel!
+Multiplicador de monedas x4 activo
+¡Consigue 4 veces más monedas!
 
 [ACTIVITY_REFRESH]
 Refrescar
@@ -1347,7 +1347,7 @@ Las Raíces de escape no pueden intercambiarse con una planta que utilice Nutrie
 Las Raíces de escape no pueden intercambiarse con esa planta.
 
 [ADVICE_FIRST_RECHARGE]
-¡Ahora puedes conseguir el Paquete de Regalo por la Primera Recarga de 元 que hagas!
+Recarga 元 por primera vez para obtener un regalo especial
 
 [ADVICE_GENE]
 ¡Potenciador de genes desbloqueado!
@@ -1941,7 +1941,7 @@ Toca en el botón para empezar.
 Los zombis solo pueden colocarse en el lado derecho del patio
 
 [AD_FREE_BUY]
-18元
+18 元
 
 [AD_FREE_BUY_SUCCESS_TEXT]
 ¡Los anuncios se han ido para siempre!
@@ -1954,8 +1954,9 @@ Compra exitosa
 
 [AD_FREE_REWARD]
 Obtienes:
-Joyas x300
-Quitar anuncios para siempre
+
+300 Joyas 300
+Sin anuncios de por vida.
 
 [AD_FREE_TITLE]
 Quitar anuncios
@@ -5144,75 +5145,6 @@ La Atlántida - Día Final
 [ATLANTIS_LEVEL_NAME]
 La Atlántida - Día {LEVEL_NUMBER}
 
-[AUTHENTICATION_AUTH]
-Certificación:
-
-[AUTHENTICATION_CARDID]
-No. de ID:
-
-[AUTHENTICATION_DES]
-De acuerdo con los requisitos nacionales, los usuarios del juego deben autentificarse con su nombre real.
-Estamos comprometidos a proteger estrictamente la seguridad, tanto de tu información personal como la de los demás.
-
-[AUTHENTICATION_ERROR1]
-Verifica haber llenado todos los datos solicitados y que éstos sean válidos.
-
-[AUTHENTICATION_ERROR2]
-Introduce la información solicitada correctamente:
-El nombre debe estar escrito en caracteres chinos.
-El número de ID escrito debe ser no más ni menos que de 18 dígitos.
-
-[AUTHENTICATION_ERROR3]
-Error de validación: introduce la información de identificación correcta.
-
-[AUTHENTICATION_NAME]
-Nombre:
-
-[AUTHENTICATION_PLACE_CARDID]
-¡Introduce tu número de ID!
-
-[AUTHENTICATION_PLACE_NAME]
-¡Introduce tu nombre real!
-
-[AUTHENTICATION_SUC]
-¡Certificación del usuario completada con éxito!
-
-[AUTHENTICATION_TITLE]
-Certificación del usuario
-
-[AUTHENTICATION_TITLE_REWARD]
-Recompensas por certificación del usuario
-
-[AUTH_AWARD_BODY]
-¡Todos los perfiles de tu cuenta recibieron un premio por registrar la cuenta!
-
-[AUTH_AWARD_HEADER]
-Premio por perfil registrado
-
-[AUTH_AWARD_TITLE]
-¡Conseguiste {NUMBER} JOYAS!
-
-[AUTH_LIMIT_DESC]
-Has alcanzado el tiempo máximo de juego hoy (3 horas por día en días festivos y 1,5 horas de lunes a viernes) o entre las 22:00 y las 8:00 ahora. De acuerdo con las reglas contra la adicción, no podrás seguir accediendo al juego hoy.
-
-[AUTH_LIMIT_TITLE]
-Aviso contra la adicción
-
-[AUTH_LOGIN_ERROR_TEXT]
-La conexión a Internet es inestable, toca para volver a iniciar el juego más tarde.
-
-[AUTH_PAYMENT_PER_LIMIT_DESC]
-De acuerdo con las leyes y regulaciones pertinentes, tu monto único de recarga no debe pasar de los {PRICE} 元.
-
-[AUTH_PAYMENT_PER_LIMIT_TITLE]
-Limite de recarga de 元
-
-[AUTH_PAYMENT_TOTAL_LIMIT_DESC]
-Cada mes puedes recargar {PRICE} 元. Después de esta recarga, la cantidad de 元 acumulados excederá el límite superior, de acuerdo con las leyes y regulaciones pertinentes, en ese tiempo no se podrá recargar.
-
-[AUTH_PAYMENT_TOTAL_LIMIT_TITLE]
-Límite de recarga acumulada
-
 [AUTUMN_HARVEST_BONUS_CHOOSE_TITLE]
 Elegir recompensas
 
@@ -6222,25 +6154,40 @@ Activar prémium
 4. Consigues 150 Joyas al activar el pase.
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_AUTUMN]
-BATTLE_ORDER_ACTIVITY_DESCRIPTION
+1. Desbloquea las Recompensas del pase prémium.
+2. Alcanzas el Nivel 10 al instante.
+3. Obtienes una bonificación del 20% de los puntos conseguidos al completar misiones.
+4. Consigues 150 Joyas al activar el pase.
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SPRING]
-BATTLE_ORDER_ACTIVITY_DESCRIPTION
+1. Desbloquea las Recompensas del pase prémium.
+2. Alcanzas el Nivel 10 al instante.
+3. Obtienes una bonificación del 20% de los puntos conseguidos al completar misiones.
+4. Consigues 150 Joyas al activar el pase.
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SPRINGFESTIVAL]
-BATTLE_ORDER_ACTIVITY_DESCRIPTION
+1. Desbloquea las Recompensas del pase prémium.
+2. Alcanzas el Nivel 10 al instante.
+3. Obtienes una bonificación del 20% de los puntos conseguidos al completar misiones.
+4. Consigues 150 Joyas al activar el pase.
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_SUMMER]
-BATTLE_ORDER_ACTIVITY_DESCRIPTION
+1. Desbloquea las Recompensas del pase prémium.
+2. Alcanzas el Nivel 10 al instante.
+3. Obtienes una bonificación del 20% de los puntos conseguidos al completar misiones.
+4. Consigues 150 Joyas al activar el pase.
 
 [BATTLE_ORDER_ACTIVITY_DESCRIPTION_WINTER]
-BATTLE_ORDER_ACTIVITY_DESCRIPTION
+1. Desbloquea las Recompensas del pase prémium.
+2. Alcanzas el Nivel 10 al instante.
+3. Obtienes una bonificación del 20% de los puntos conseguidos al completar misiones.
+4. Consigues 150 Joyas al activar el pase.
 
 [BATTLE_ORDER_ACTIVITY_TITLE]
 Activar prémium
 
 [BATTLE_ORDER_AUTUMN]
-Festival de otoño
+Pase de otoño
 
 [BATTLE_ORDER_BUTTON_DESC]
 Completar x{NUMS}
@@ -6249,7 +6196,7 @@ Completar x{NUMS}
 Tiques insuficientes.
 
 [BATTLE_ORDER_BUTTON_TIPS_DESC]
-Tienes ^FF0000^{ALLNUMS}^oldclr^ tiques.
+Tienes ^98FB98^{ALLNUMS}^oldclr^ tiques.
 Se necesitan ^FF0000^{NUMS}^oldclr^ para completar la misión, ¿seguro?
 
 [BATTLE_ORDER_BUY_LEVEL]
@@ -6275,30 +6222,46 @@ Libro de avances          Variable               0,06%
 4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1]
-BATTLE_ORDER_DESCRIPTION_GIFTER
+• Reglas del Evento - Buen regalo:
+
+Solo participan los primeros 500 jugadores que compren beneficios prémium.
+La recompensa inicial es de 400 Joyas. La cantidad aumenta en 40 por cada participante.
+Los primeros 50 compradores recibirán el 0,5% de las recompensas acumuladas, lo que suma un 25%
+Los primeros 150 compradores recibirán el 0,25% de las recompensas acumuladas, para un total del 25%
+Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, para un total del 30%
+Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_AUTUMN]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_SPRING]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_SPRINGFESTIVAL]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_SUMMER]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_WINTER]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_2]
-BATTLE_ORDER_DESCRIPTION_DRAW
-
-[BATTLE_ORDER_DESCRIPTION_AUTUMN]
-BATTLE_ORDER_DESCRIPTION
-
-[BATTLE_ORDER_DESCRIPTION_DRAW]
 • Reglas del Evento - Gran sorteo:
 
 Participan todos los jugadores que hayan comprado beneficios prémium.
@@ -6308,45 +6271,79 @@ Si sorteas el segundo premio 2 veces, recibirás el 10% de las recompensas acumu
 Si sorteas el tercer premio 4 veces, recibirás el 5% de las recompensas acumuladas, para un total del 20%.
 Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
 
-[BATTLE_ORDER_DESCRIPTION_GIFTER]
-• Reglas del Evento - Buen regalo:
-
-1. Solo participan los primeros 500 jugadores que compren beneficios prémium.
-2. La recompensa inicial es de 400 Joyas. La cantidad aumenta en 40 por cada participante.
-3. Los primeros 50 compradores recibirán el 0,5% de las recompensas acumuladas, lo que suma un 25%
-4. los primeros 150 compradores recibirán el 0,25% de las recompensas acumuladas, para un total del 25%
-5. Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, para un total del 30%
-6. Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
+[BATTLE_ORDER_DESCRIPTION_AUTUMN]
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1]
-BATTLE_ORDER_DESCRIPTION_GIFTER
+• Reglas del Evento - Buen regalo:
+
+Solo participan los primeros 500 jugadores que compren beneficios prémium.
+La recompensa inicial es de 400 Joyas. La cantidad aumenta en 40 por cada participante.
+Los primeros 50 compradores recibirán el 0,5% de las recompensas acumuladas, lo que suma un 25%
+Los primeros 150 compradores recibirán el 0,25% de las recompensas acumuladas, para un total del 25%
+Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, para un total del 30%
+Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SPRING]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SPRINGFESTIVAL]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_SUMMER]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_WINTER]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_IOS_2]
-BATTLE_ORDER_DESCRIPTION_DRAW
+• Reglas del Evento - Gran sorteo:
+
+Participan todos los jugadores que hayan comprado beneficios prémium.
+La recompensa inicial es de 14.000 Joyas. La cantidad aumenta en 14 por cada participante.
+Al final del evento, se sorteará un primer premio y recibirán el 20% del total de las recompensas acumuladas.
+Si sorteas el segundo premio 2 veces, recibirás el 10% de las recompensas acumuladas, para un total del 20%.
+Si sorteas el tercer premio 4 veces, recibirás el 5% de las recompensas acumuladas, para un total del 20%.
+Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 500 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
-BATTLE_ORDER_DESCRIPTION
+1. Gana experiencia completando misiones. Subes de Nivel cada 500 puntos de Experiencia.
+2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
+3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
 
 [BATTLE_ORDER_DESCRIPTION_TITLE]
 SOBRE EL PASE DE BATALLA
@@ -6376,37 +6373,37 @@ EXP: {NUM}/1.000
 Consigues al menos {NUM} Recompensas
 
 [BATTLE_ORDER_GIFT_REWARD_ADD_UP]
-La cantidad de Joyas aumenta en 40 por cada jugador que participe en el evento.
+La cantidad de Joyas aumenta en 40 por cada participante
 
 [BATTLE_ORDER_GIFT_REWARD_ADD_UP_ANDROID]
-BATTLE_ORDER_GIFT_REWARD_ADD_UP
+La cantidad de Joyas aumenta en 40 por cada participante
 
 [BATTLE_ORDER_GIFT_REWARD_ADD_UP_IOS]
-BATTLE_ORDER_GIFT_REWARD_ADD_UP
+La cantidad de Joyas aumenta en 100 por cada participante
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_1]
-Del 1 al 50: {NUM} Joyas
+1-50 lugar: {NUM} Joyas
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_2]
-Del 51 al 150: {NUM} Joyas
+51-150 lugar: {NUM} Joyas
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_3]
-Del 151 al 300: {NUM} Joyas
+151-300 lugar: {NUM} Joyas
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_4]
-Del 301 al 500: {NUM} Joyas
+301-500 lugar: {NUM} Joyas
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_1]
-Puedes recibir hasta un ^08FF20^0.5% del total^oldclr^ de las recompensas acumuladas.
+^FFA500^Recibes hasta un ^08FF20^0.5% del total^oldclr^ ^FFA500^de recompensas acumuladas^oldclr^
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_2]
-Puedes recibir hasta un ^08FF20^0.25% del total^oldclr^ de las recompensas acumuladas.
+^FFA500^Recibes hasta un ^08FF20^0.25% del total^oldclr^ ^FFA500^de recompensas acumuladas^oldclr^
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_3]
-Puedes recibir hasta un ^08FF20^0.2% del total^oldclr^ de las recompensas acumuladas.
+^FFA500^Recibes hasta un ^08FF20^0.2% del total^oldclr^ ^FFA500^de recompensas acumuladas^oldclr^
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_4]
-Puedes recibir hasta un ^08FF20^0.1% del total^oldclr^ de las recompensas acumuladas.
+^FFA500^Recibes hasta un ^08FF20^0.1% del total^oldclr^ ^FFA500^de recompensas acumuladas^oldclr^
 
 [BATTLE_ORDER_INTERGAL]
 Esmeralda
@@ -6415,16 +6412,16 @@ Esmeralda
 Tienes {NUM} Esmeraldas
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_1]
-El primer premio es para 1 persona. Si ganas, puedes recibir hasta un 20% del total de las recompensas acumuladas.
+^D22808^El primer premio es para 1. Los ganadores reciben hasta un ^08FF20^20% del total^oldclr^ ^D22808^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_2]
-El segundo premio es para 2 personas. Si ganas, puedes recibir hasta un 10% del total de las recompensas acumuladas.
+^D22808^El segundo premio es para 2. Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^D22808^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_3]
-El tercero premio es para 4 personas. Si ganas, puedes recibir hasta un 5% del total de las recompensas acumuladas.
+^D22808^El tercer premio es para 4. Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^D22808^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_4]
-La recompensa final es para 100 personas. Si ganas, puedes recibir hasta un 0.4% del total de las recompensas acumuladas.
+^D22808^El premio final es para 100. Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^D22808^de recompensas^oldclr^
 
 [BATTLE_ORDER_MULTIREWARD_LIST]
 • Recompensas de selección múltiple:
@@ -6474,13 +6471,13 @@ Seleccionar piezas
 Seleccionar piezas
 
 [BATTLE_ORDER_SPRING]
-Primavera floreada
+Pase de primavera
 
 [BATTLE_ORDER_SPRINGFESTIVAL]
-Festival chino
+Pase lunar
 
 [BATTLE_ORDER_SUMMER]
-Campamento de verano
+Pase de verano
 
 [BATTLE_ORDER_TAB1]
 Premios
@@ -6507,13 +6504,13 @@ Gran sorteo
 Gran sorteo
 
 [BATTLE_ORDER_TAB5_SUMMER]
-Verano anaranjado
+Gran sorteo
 
 [BATTLE_ORDER_TAB5_WINTER]
 Gran sorteo
 
 [BATTLE_ORDER_WINTER]
-Festival de Invierno
+Pase de invierno
 
 [BATTLE_PLANE_ZOMBIE]
 Zombidito luchador piloto
@@ -9429,12 +9426,6 @@ Nivel 5
 [BYTTNERIAMETEORHAMMER_TOOLTIP]
 Golpea a los zombis con su mazo; carga ataques potentes mientras no ataca
 
-[Bundleproduct_bundle_levitater_upg_consume_t15]
-200 paquetes de semillas de Levitadora + 50 joyas + 5000 monedas
-
-[Bundleproduct_bundle_megagatling_upg_consume_t15]
-200 paquetes de semillas de Mega Guisantralladora + 50 joyas + 5000 monedas.
-
 [CABBAGEPULT]
 Coltapulta
 
@@ -9442,7 +9433,7 @@ Coltapulta
 Lanza coles electrificados que infligen mayor daño. ^D22808^Daño: 300 - Nvl. 5: 1.600 (x2)^oldclr^
 
 [CABBAGEPULT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}los coles pueden sobrevolar los obstáculos del patio
+{KEYWORD}Especial: {STAT}los coles pueden sobrevolar obstáculos del patio
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora, familia de armas
 
 {FLAVOR}Coltapulta realizó su doctorado en la Universidad Cosechense. Sabe un par de cosas acerca de catapultarse a lo más alto. También se le da bien cocinar sopa.
@@ -11069,10 +11060,10 @@ La explosión de Chile gélido es tan destructiva como su frialdad. Inflige gran
 Explota y deja varias líneas congeladas
 
 [CHNAGE_SPEED_TIPS]
-Recarga 20元 para desbloquear el Botón turbo.
+Recarga 20 元 para desbloquear el Botón turbo.
 
 [CHNAGE_SPEED_TIPS_QQ]
-Recarga 20元 para desbloquear el Botón turbo.
+Recarga 20 元 para desbloquear el Botón turbo.
 
 [CHOMPER]
 Planta carnívora
@@ -11208,7 +11199,7 @@ Si este mensaje aparece más de una vez, conéctate a Internet o desactiva el Ce
 Obteniendo info de recompensas...
 
 [CHRISTMAS_GOLDEN_EGG_HAMMERS_INFO]
-Por la recarga diaria de {RMB}元, todos los usuarios obtienen {HAMMERS} Martilllos.
+Todos los dias recibes {HAMMERS} Martilllos de oro por la recarga diaria de {RMB} 元
 
 [CHRISTMAS_GOLDEN_EGG_NOT_BUY_BUTTON]
 CANCELAR
@@ -11794,16 +11785,16 @@ Nivel 5
 Exhala una niebla fría en el área que tiene delante
 
 [COLLECTABLE_AD_TITLE]
-Objetos Coleccionables por 元
+Coleccionables por 元
 
 [COLLECTED_LEVEL]
 Guardado a favoritos
 
 [COLLECTION_FAIRYTALE_DESCRIPTION]
-Todas las plantas del patio tienen un {STUFF_1}% de probabilidad de entrar en un estado de ataque preciso que dura {STUFF_2} segundos. En el estado de ataque preciso, cada planta inflige un {STUFF_4}% adicional de daño e ignora las armaduras (efectos no válidos para el Patio de la Creatividad).
+Las plantas del patio tienen un {STUFF_1}% de probabilidad de activar un ataque preciso durante {STUFF_2} s, en el que infligen {STUFF_4}% más daño e ignoran armaduras.
 
 [COLLECTION_FAIRYTALE_DESCRIPTION1]
-Todas las plantas del patio tienen un 2% de probabilidad de entrar en un estado de ataque preciso que dura 10 segundos. En el estado de ataque preciso, cada planta inflige un 30% adicional de daño e ignora las armaduras (efectos no válidos para el Patio de la Creatividad).
+Las plantas del patio tienen un 2% de probabilidad de activar un ataque preciso durante 10 s, en el que infligen 30% más daño e ignoran armaduras
 
 [COLLECTION_FAIRYTALE_GOT_WAY]
 Tierras ocultas - Bosque encantado
@@ -11821,28 +11812,19 @@ Reina roja
 Bosque encantado - Modo díficil
 
 [COLLECTION_USE]
-Todas las plantas del patio tienen un 3% de probabilidad de entrar en un estado de ataque preciso que dura 5 segundos. En el estado de ataque preciso, cada planta inflige un 20% adicional de daño e ignora las armaduras (efectos no válidos para el Patio de la Creatividad).
+Las plantas del patio tienen un 3% de probabilidad de activar un ataque preciso durante 5 s, en el que infligen 20% más daño e ignoran armaduras
 
 [COLLECT_LEVEL]
 Guardar a favoritos
 
 [COLLECT_NOT_ENOUGH_TEXT]
-El número de Monedas conmemorativas no es suficiente.
+Monedas conmemorativas insuficientes.
 
 [COLLECT_NOT_ENOUGH_TITLE]
 No se puede canjear
 
 [COLLECT_PRIZES_BUTTON]
 Recoger
-
-[COLLECT_SEED_PACKETS_COUNT_LABEL]
-¡{ACTIONS_LEFT} paquetes de semillas restantes!
-
-[COLLECT_SEED_PACKETS_DESC]
-¡Reúne {COUNT} paquetes de semillas!
-
-[COLLECT_SEED_PACKETS_TITLE]
-¡Reúne paquetes de semillas!
 
 [COLORCUSTOMIZATION]
 Personalización colorida
@@ -14743,10 +14725,10 @@ Paquetes de Regalo del Infinito
 Paquete especial de la Zona del Infinito
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-Descuento: {NUMBER}元
+Descuento: {NUMBER} 元
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-Precio inicial: {NUMBER}元
+Precio inicial: {NUMBER} 元
 
 [DANGERROOM_START_FAILED]
 No se puede iniciar la Zona de infinito
@@ -15434,7 +15416,7 @@ Derrota a cualquier Jefe 3 veces.
 Comprado
 
 [DAVE_TREASURE_BUY_1]
-Comprar por ^FFFF00 60 ^oldclr 元
+Comprar x ^FFFF00^60 元^oldclr^
 
 [DAVE_TREASURE_BUY_2]
 Activar prémium
@@ -15443,12 +15425,12 @@ Activar prémium
 Comprar Fragmentos de mapas
 
 [DAVE_TREASURE_CHECK_PRIVILEGE]
-Comprueba si tienes los privilegios o actualiza la interfaz activa.
+Comprueba si tienes los privilegios o refresca la pestaña
 
 [DAVE_TREASURE_DESCRIPTION]
-Por cada recarga de ^FFFF00 元 ^oldclr obtendrás ^FFFF00 Fragmentos de mapas ^oldclr.
-Además podrás obtener dichos fragmentos al completar misiones.
-(Al comprar Fragmentos prémium, no se contarán como Fragmentos para la colección de recompensas ordinarias).
+Obtén ^FFFF00^Fragmentos de mapa^FFFF00^ completando misiones.
+También puedes conseguir más al recargar 元
+(Los fragmentos especiales son exclusivos del pase prémium)
 
 [DAVE_TREASURE_ENDLESSBEATBOSS_5]
 Derrota a un Jefe en la Zona del Infinito 5 veces.
@@ -18773,7 +18755,7 @@ Al enfrentarse a 3 o más enemigos, recuperará 1.500 PS por segundo. Puede bloq
 Cubre de pinchos un área 3x3 al frente, derribando y ^848484^aturdiendo^oldclr^ zombis por 5 s. ^D22808^Daño: 150^oldclr^
 
 [ENTS_PRODUCT_SHORT_DESC]
-Defiende tus plantas mientras ataca a los zombis cercanos; recupera su salud durante un tiempo
+Bloquea y ataca zombis cercanos, recupera salud con el tiempo
 
 [ENTS_SKILL_LEVEL1]
 Nivel 2
@@ -18794,22 +18776,10 @@ Nivel 5
 ^DB8117^Árbol resistente:^oldclr^ la salud recuperada por segundo aumenta aún más. Puede bloquear dos ataques del Zombistein.
 
 [ENTS_TOOLTIP]
-Defiende tus plantas mientras ataca a los zombis cercanos; recupera su salud con el tiempo
+Bloquea y ataca zombis cercanos, recupera salud con el tiempo
 
 [EPIC]
 Épica
-
-[EPICQUEST_BUFFZ&BRUISEZ01_DESC]
-Combate con zombis que sean DÉBILES al daño de las plantas de la familia de Fila-menta.
-
-[EPICQUEST_BUFFZ&BRUISEZ02_DESC]
-Combate con zombis que sean RESISTENTES a las plantas de la familia de Fila-menta.
-
-[EPICQUEST_BUFFZ&BRUISEZ03_DESC]
-Combate con zombis que sean INMUNES al daño de las plantas de la familia de Fila-menta.
-
-[EPICQUEST_BUFZ&BRUISEZ_TITLE]
-Misión épica: Fortalezas y debilidades
 
 [EPIC_CLOCK]
 Despertador inteligente
@@ -19017,7 +18987,7 @@ Casilla legendaria
 Al caer en uno de éstos, ¡recibirás un Cofre de Atuendos con Piezas dentro!
 
 [EVENT6_HEADER]
-Casilla dee Atuendos
+Casilla de Atuendos
 
 [EVENT7_DES]
 Al caer en una de éstas, se te retará a jugar un nivel aleatorio a cambio de Monedas de teatro (Podrás aceptar o cancelar el desafío).
@@ -19652,7 +19622,7 @@ Completa el día 16 del Salvaje Oeste para ir a la Búsqueda de Penny
 Reventón de petardos
 
 [FESTIVAL2019_ONEYUAN_TITLE]
-Premios por un 元
+Premios por 1 元
 
 [FESTIVAL2019_REDPACLET_DIAMOND]
 Joyas
@@ -29059,7 +29029,7 @@ No tienes Boletos suficientes para participar en el Sorteo. ¿Deseas gastar {NUM
 No tienes suficientes Boletos para participar en los Sorteos. ¿Deseas gastar {NUMBER} Joyas para completar los que faltan?
 
 [LIMIT_LOTTERY_PACKETS_BIG]
-25元 ^FF0000^(Límite de compra: 5)^oldclr^
+25 元 ^FF0000^(Límite de compra: 5)^oldclr^
 
 [LIMIT_LOTTERY_PACKETS_DESCRIPTION]
 Gasta ^FF0000^6.000^oldclr^ Monedas púrpuras y obtén ^FFFF00^60^oldclr^ como regalo.
@@ -29067,10 +29037,10 @@ Las Monedas púrpuras se utilizan para girar la ruleta.
 Puedes conseguir ^ef7600^Plantas legendarias^oldclr^ con Trofeos dorados.
 
 [LIMIT_LOTTERY_PACKETS_SMALL]
-6元 ^FF0000^(Límite de compra: 1)^oldclr^
+6 元 ^FF0000^(Límite de compra: 1)^oldclr^
 
 [LIMIT_LOTTERY_PACKETS_SUPER_BIG]
-328元 ^FF0000^(Límite de compra: 66)^oldclr^
+328 元 ^FF0000^(Límite de compra: 66)^oldclr^
 
 [LIMIT_TIMES_NOT_ENOUGH]
 Agotado el número de intentos.
@@ -29133,10 +29103,10 @@ Premios diarios
 Loto blanco
 
 [LONGMALILY_AVATAR_NAME]
-Flor de loto
+Corbata verde
 
 [LONGMALILY_AVATAR_PLANTFOOD_DESCRIPTION]
-El efecto libera una onda adicional que congela zombis por 5 s
+El hielo del efecto congela zombis por 4 s
 
 [LONGMALILY_DESCRIPTION]
 {KEYWORD}Especial: {STAT}planta a Kiwimono en la misma casilla para unir fuerzas
@@ -29214,7 +29184,7 @@ Ahorra hasta un {PERCENT}%
 Burbujas del ahorro
 
 [LOST_NETWORK_ACTIVE_BUY_BUTTON]
-{COST}元
+{COST} 元
 
 [LOST_NETWORK_ACTIVE_OLD_COST_1]
 Costo:
@@ -32641,19 +32611,19 @@ GRATIS
 ^FF0000^———^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE0]
-^FF0000^0元^oldclr^
+^FF0000^GRATIS^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE1]
-^FF0000^12.5元^oldclr^
+^FF0000^12.5 元^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE2]
-^FF0000^50元^oldclr^
+^FF0000^50 元^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE3]
-^FF0000^150元^oldclr^
+^FF0000^150 元^oldclr^
 
 [MONTHLY_CARD_PRICE]
-{NUM}元
+{NUM} 元
 
 [MONTHLY_CARD_QUERY_FAILED]
 No se pudo comprar la tarjeta
@@ -32926,7 +32896,7 @@ Nivel 5
 Lanza bayas que dañan a los zombis de un área pequeña
 
 [MULTIPLE_CHALLENGE_CONNECTOR]
-{CHALLENGE_ONE} ^C8C8C8 和 ^oldclr {CHALLENGE_TWO}
+{CHALLENGE_ONE} | {CHALLENGE_TWO}
 
 [MULTIPLE_QUEST_ROLLUP_AWARD_DESCRIPTION]
 ¡Has completado un montón de misiones!¡Toma un montón de premios!
@@ -40414,7 +40384,7 @@ Introduce el código para restaurar tu Bolso de regalos.
 Restaurar bolsos
 
 [NEWER_PRESENT_ADVANCE_DES]
-Recarga ^FF0000^12元^oldclr^ para conseguir a ^00FF00^Hielaguisantes^oldclr^, ^DB8117^Monedas^oldclr^ y ^4DD4DB^Joyas^oldclr^
+Recarga ^FF0000^12 元^oldclr^ para conseguir a ^00FF00^Hielaguisantes^oldclr^, ^DB8117^Monedas^oldclr^ y ^4DD4DB^Joyas^oldclr^
 (Recibes ^4DD4DB^155 Joyas^oldclr^ extra)
 
 [NEWER_PRESENT_ADVANCE_TITLE]
@@ -40424,18 +40394,18 @@ Regalo platino
 RECARGAR
 
 [NEWER_PRESENT_DES]
-Recarga ^FF0000^12元^oldclr^ para conseguir a ^00FF00^Repetidora^oldclr^, ^DB8117^Monedas^oldclr^ y ^4DD4DB^Joyas^oldclr^
+Recarga ^FF0000^12 元^oldclr^ para conseguir a ^00FF00^Repetidora^oldclr^, ^DB8117^Monedas^oldclr^ y ^4DD4DB^Joyas^oldclr^
 (Recibes ^4DD4DB^30 Joyas^oldclr^ extra)
 
 [NEWER_PRESENT_FIRSTRECHARGE_DES]
-Compra un paquete de Joyas por tan solo ^FF0000^2元^oldclr^
-(Recibes ^4DD4DB^155 Joyas^oldclr^ extra)
+Compra un paquete de Joyas por tan solo ^FF0000^2 元^oldclr^
+(Recibes ^4DD4DB^155^oldclr^ extra)
 
 [NEWER_PRESENT_FIRSTRECHARGE_TITLE]
 Lotes por primera recarga
 
 [NEWER_PRESENT_FOR_CHINAMOBILEMM_DES]
-Compra artículos en la Tienda por tan solo 0.1元.
+Compra artículos en la Tienda por tan solo 0.1 元
 ¡Oportunidades limitadas, aprovéchalas!
 
 [NEWER_PRESENT_NEW_TITLE]
@@ -44866,7 +44836,7 @@ Se ha alcanzado el límite de dispositivos vinculados. ^ff0000^(Solo se permiten
 Se ha producido un error al enlazar el archivo. ^ff0000^(Solo se puede enlazar 3 veces)^oldclr^
 
 [ONEYUAN_SHOR_DESCRIPTION]
-Abre huevos por tan solo un 元, podrás conseguir plantas épicas y legendarias en ellos.
+Abre huevos por tan solo 1 元, podrás conseguir plantas épicas y legendarias en ellos.
 
 [ONE_CLICK_TO_RECEIVE]
 Toca para recibir
@@ -45975,12 +45945,6 @@ EN PAUSA
 
 [PAUSE_MENU_BONUS_PREFIX]
 Objetivo extra:
-
-[PAY_CHECK_DIALOG_CONTENT]
-¡Tu recarga acumulada ha excedido los 1000元, necesitamos tu certificación con nombre real!
-
-[PAY_CHECK_DIALOG_TITLE]
-AVISOS
 
 [PAY_CONFIRM_BUTTON]
 Confirmar pago
@@ -48642,22 +48606,22 @@ Los primeros 3 Búmerans no cuestan soles, ¡disfrúta del show!
 Da rápidos puñetazos a los enemigos que tiene delante y detrás
 
 [PLANTTRIAL_BUY_BUTTON_NAME_1]
-{NUMBER}元
+{NUMBER} 元
 
 [PLANTTRIAL_BUY_BUTTON_NAME_2]
 {NUMBER} Joyas
 
 [PLANTTRIAL_BUY_DIALOG_NAME_1]
-Gasta {COST_NUM}元, para comprar {COIN_NUM} Monedas y a {PLANT_NAME} al Nvl. {PLANT_LEVEL}
+¿Deseas gastar {COST_NUM} 元 para obtener: {COIN_NUM} Monedas y {PLANT_NAME} al Nvl. {PLANT_LEVEL}?
 
 [PLANTTRIAL_BUY_DIALOG_NAME_2]
-Gasta {COST_NUM} Joyas, para comprar {COIN_NUM} Monedas y a {PLANT_NAME} al Nvl. {PLANT_LEVEL}
+¿Deseas gastar {COST_NUM} Joyas para obtener: {COIN_NUM} Monedas y {PLANT_NAME} al Nvl. {PLANT_LEVEL}?
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_1]
-¡Gasta {COST_NUM}元 para conseguir a {PLANT_NAME} al Nvl. {PLANT_LEVEL} y {COIN_NUM} Monedas como regalo!
+¿Deseas comprar: {PLANT_NAME} al Nvl. {PLANT_LEVEL} + {COIN_NUM} Monedas por {COST_NUM} 元?
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_2]
-¡Gasta {COST_NUM}元 para conseguir a {PLANT_NAME} al Nvl. {PLANT_LEVEL} y {COIN_NUM} Monedas como regalo!
+¿Deseas comprar: {PLANT_NAME} al Nvl. {PLANT_LEVEL} + {COIN_NUM} Monedas por {COST_NUM} Joyas?
 
 [PLANTTRIAL_BUY_DIALOG_TITLE]
 Compra de plantas
@@ -49253,16 +49217,16 @@ Paquete de regalo de plantas
 Toca para ver el paquete de regalo
 
 [PLANT_BAG_REWARD]
-Lotes por tiempo limitado, al recargar 1000元
+Lotes por tiempo limitado, al recargar 1000 元
 
 [PLANT_BAG_REWARD_COINS]
 Como tienes todas las plantas en la tienda, ¡obtienes 60.000 Monedas como recompensa!
 
 [PLANT_BAG_REWARD_TIPS]
-Recarga 10元 para recibir una planta fuerte al azar.
+Recarga 10 元 para recibir una planta fuerte al azar.
 
 [PLANT_BAG_REWARD_TIPS_QQ]
-Recarga 10元 para recibir una planta fuerte al azar.
+Recarga 10 元 para recibir una planta fuerte al azar.
 
 [PLANT_BUY_FULL_PIECE]
 Desbloquear
@@ -49966,10 +49930,10 @@ Vista previa
 Plantas por tiempo limitado
 
 [PLANT_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-Descuento: 68元
+Descuento: 68 元
 
 [PLANT_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-Precio inicial: 198元
+Precio inicial: 198 元
 
 [PLANT_SPECIAL_TAG_1]
 Quemar
@@ -50762,7 +50726,7 @@ Atuendos
 
 [POSEIDON_DESCRIPTION]
 1. Compra Lotes para obtener fichas de Poseidón y usarlas en los sorteos.
-2. Por cada compra de 100元, recibes un Cofre de Poseidón como cortesía.
+2. Por cada compra de 100 元, recibes un Cofre de Poseidón como cortesía.
 3. Obtienes un 6.6% de descuento al participar en el primer sorteo.
 4. Las fichas y cofres se convierten en Monedas y Joyas al final del evento, ¡úsalas cuanto antes!
 
@@ -52826,7 +52790,7 @@ Obtuviste {GEMS} Joyas
 Activar
 
 [PRODUCT_DIAMONDS_REWARD_CLOSED]
-Los eventos de compra por 1元 no están disponibles, vuelve más tarde.
+Los eventos de compra por 1 元 no están disponibles, vuelve más tarde.
 
 [PRODUCT_DIAMONDS_REWARD_CLOSED_TITLE]
 ¡El evento no está disponible!
@@ -53473,7 +53437,7 @@ Regalos Aduaneros
 Premios aduaneros
 
 [PRODUCT_GEM_REWARD]
-1元 pagado en los eventos de devoluciones
+1 元 pagado en los eventos de devoluciones
 
 [PRODUCT_GEM_REWARD_GET_FAILED]
 Se produjo un error en la recepción de regalos, verifica tu conexión a Internet e inténtalo de nuevo más tarde.
@@ -54274,49 +54238,46 @@ Piñata - Tiempos modernos
 Tiempos modernos
 
 [PRODUCT_MONTHLY_CARD]
-Comprar Tarjeta Mensual por 30元
+Tarjeta mensual de 30 元
 
 [PRODUCT_MONTHLY_CARD_CM]
-Tarjeta Mensual VIP
+Tarjeta mensual VIP
 
 [PRODUCT_MONTHLY_CARD_CM_SHORTDESC]
-Compra una Tarjeta Mensual VIP
+Compra una Tarjeta VIP
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP]
-Comprar Tarjeta Épica
+Tarjeta épica
 
 [PRODUCT_MONTHLY_CARD_MAKE_UP_SHORTDESC]
-Compra una Tarjeta Épica
+Compra una Tarjeta épica
 
 [PRODUCT_MONTHLY_CARD_SHORTDESC]
-Compra una Tarjeta Mensual por 30元
+Compra una Tarjeta de 30 元
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_01]
-Súper-Tarjeta Mesual de 7 días
+Súper-tarjeta semanal
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_01_SHORTDESC]
-¡Obtén Súper-Privilegios durante 7 días!
+¡Obtén Súper-privilegios durante 7 días!
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_02]
-Súper-Tarjeta Mesual de 30 días
+Súper-tarjeta de 30 días
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_02_SHORTDESC]
-¡Obtén Súper-Privilegios durante 30 días!
+¡Obtén Súper-privilegios durante 30 días!
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_03]
-Súper-Tarjeta Mesual de 90 días
+Súper-tarjeta de 90 días
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_03_SHORTDESC]
 ¡Obtén Súper-Privilegios durante 90 días!
 
 [PRODUCT_MONTHLY_CARD_SUPER]
-Tarjeta Mensual Prémium
+Tarjeta prémium
 
 [PRODUCT_MONTHLY_CARD_SUPER_SHORTDESC]
-Compra una Tarjeta Mensual Prémium
-
-[PRODUCT_MOONFLOWER_SEEDS]
-Semillas de Flor lunar
+Compra una Tarjeta prémium
 
 [PRODUCT_MURKADAMIA_DESCRIPTION]
 ¡La oscuridad potenciada inflige daño a los zombis!
@@ -54480,15 +54441,15 @@ Lote de nuevo usuario
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
 • Regalo diario: contiene 15 Joyas
-• Paquete de 2元: contiene 30 Joyas y un 10% de probabilidad de obtener un Minicofre
-• Paquete de 3元: contiene 90 Joyas y un 10% de probabilidad de obtener un Cofre normal
-• Paquete de 6元: contiene 180 Joyas y un 10% de probabilidad de obtener un Supercofre
+• Paquete de 2 元: contiene 30 Joyas y un 10% de probabilidad de obtener un Minicofre
+• Paquete de 3 元: contiene 90 Joyas y un 10% de probabilidad de obtener un Cofre normal
+• Paquete de 6 元: contiene 180 Joyas y un 10% de probabilidad de obtener un Supercofre
 
 [PRODUCT_NEW_YEAR_PACK_3_SHORTDESC]
-Paquete de 3元
+Paquete de 3 元
 
 [PRODUCT_NEW_YEAR_PACK_6_SHORTDESC]
-Paquete de 6元
+Paquete de 6 元
 
 [PRODUCT_NIGHTCAP_DESCRIPTION]
 ¡Dispara estrellas venenosas!
@@ -59503,7 +59464,7 @@ Por favor lea y acepte el acuerdo
 No.: {NUMBER}
 
 [RECALL_OFFER_BANK_BUY]
-18元
+18 元
 
 [RECALL_OFFER_BANK_SELECT_CONFIRM_1]
 Las plantas seleccionadas en el paquete determinan las Piezas a recibir. ¡Son todas Piezas!
@@ -59521,7 +59482,7 @@ Las plantas seleccionadas en el paquete determinan las Piezas de la planta que r
 Paquetes diarios de Piezas épicas
 
 [RECALL_OFFER_BEAR_BUNDLE_BUY]
-128元
+128 元
 
 [RECALL_OFFER_BEAR_BUY]
 Compra cualquiera de los Paquetes anteriores
@@ -59609,7 +59570,7 @@ Precio inicial
 Precio:
 
 [RECHARGEBUNDLE_REFRESH_BUNDLE]
-Refrescar paquete
+Nuevos lotes
 
 [RECHARGEBUNDLE_TITLE]
 Lotes por tiempo limitado
@@ -59662,8 +59623,7 @@ Duplicador de Monedas activo.
 Conseguir VIP
 
 [RECHARGE_GIFT_ACTIVITY_DESC]
-Durante este evento, participar te da ^FF0000 4 ^oldclr veces más la garantía de recompensas lujosas.
-Obtienes a {NAME} al ^019d01 Nvl. 3 + Atuendo ^oldclr, con el límite de compra de una vez por día.
+DESCRIPCIÓN DEL EVENTO: recarga para conseguir a ^019d01^{NAME} al Nvl. 3 + Atuendo^oldclr^
 
 [RECHARGE_GIFT_DATA]
 Fecha del Evento
@@ -59672,17 +59632,17 @@ Fecha del Evento
 Ocultar
 
 [RECHARGE_NOTICE_DESC]
-2元: Duplicador de Monedas
-10元: Planta aleatoria
-20元: Botón turbo
-30元: Petacereza
+2 元: Duplicador de Monedas
+10 元: Planta aleatoria
+20 元: Botón turbo
+30 元: Petacereza
 
 [RECHARGE_NOTICE_DESC_FOR_LOTTERY]
-2元: Duplicador de Monedas
-6元: Boletos diarios para Lotería
-10元: Planta aleatoria
-20元: Botón turbo
-30元: Petacereza
+2 元: Duplicador de Monedas
+6 元: Boletos diarios para Lotería
+10 元: Planta aleatoria
+20 元: Botón turbo
+30 元: Petacereza
 
 [RECHARGE_NOTICE_TITLE]
 Premios por recarga acumulativa
@@ -59694,25 +59654,25 @@ Paquete de primera recarga
 Paquete de Recarga
 
 [RECHARGE_PIECE]
-¡Felicidades, has conseguido 30 Piezas de Petacereza por recargar 元!
+Conseguiste 30 Piezas de Petacereza por la recarga de 元
 
 [RECHARGE_PROGRESS]
 Progreso acumulado
 
 [RECHARGE_REWARD_BAG]
-¡Felicidades, has conseguido una planta al azar!
+Conseguiste una planta al azar por la recarga de 10 元
 
 [RECHARGE_REWARD_BOMB]
-¡Felicidades, has desbloqueado a Petacereza!
+Desbloqueaste a Petacereza por la recarga de 30 元
 
 [RECHARGE_REWARD_COIN]
-¡Felicidades, has conseguido el Duplicador de Monedas!
+Desbloqueaste el Duplicador de Monedas por la recarga de 2 元
 
 [RECHARGE_REWARD_LOTTERY]
-¡Felicidades, conseguiste 2 Boletos de Lotería!
+Conseguiste 2 Boletos de Lotería por la recarga de 6 元
 
 [RECHARGE_REWARD_PLANT_PIECES]
-¡Felicidades, has conseguido 30 Piezas de Petacereza!
+Has conseguido 30 Piezas de Petacereza por la recarga de 元
 
 [RECHARGE_REWARD_PLANT_SELECT_ORANGE_3_1]
 Recarga legendaria de Nvl. 3
@@ -59729,7 +59689,7 @@ Recarga épica de Nvl. 3
 A continuación, elige una planta épica de Nvl. 3
 
 [RECHARGE_REWARD_SPEEDUP]
-¡Felicidades, has conseguido el Botón turbo!
+Desbloqueaste el Botón turbo por la recarga de 20 元
 
 [RECHARGE_REWARD_TITLE]
 Recarga de {RECHARGE_COUNT} 元
@@ -59741,7 +59701,7 @@ Mostrar
 {NUMBER}元 recargados
 
 [RECHARGE_TOTAL_NUM_INVISIBLE]
-*****元 recargados
+***元 recargados
 
 [RECONSTRUCTION]
 La Gran Reforma
@@ -66909,7 +66869,7 @@ Tienda oculta
 Límite de compra: {NUMBER}
 
 [SECRET_BUY_STR]
-{NUMBER}元
+{NUMBER} 元
 
 [SECRET_BUY_STR_FREE]
 GRATIS
@@ -69262,7 +69222,7 @@ Genera nuevas Setas esporadas de los zombis derrotados
 Recarga diaria
 
 [SPRINGACTIVITYREWARDDES]
-Puedes recargar hasta 30元 por hoy para conseguir una recompensa.
+Recarga hasta 30 元 hoy para conseguir premios especiales
 
 [SPRINGACTIVITYREWARDERROR]
 Tus recargas se han agotado. Vuelve mañana para más.
@@ -69470,10 +69430,10 @@ Durante el evento, ¡los jugadores pueden obtener plantas y trajes raros!
 ¡Fecha de la actividad: ^ff0000 del 1 al 7 de julio ^oldclr!
 
 [SPRING_GIFT_ACTIVITY_REWARD]
-¡Has conseguido recompensas por recargar 元!
+Recarga de primavera
 
 [SPRING_GIFT_ACTIVITY_REWARD_DES]
-Hoy puedes recargar hasta 30元, para más recompensas.
+Recarga hasta 30 元 para obtener premios lujosos
 
 [SPRING_GIFT_DES]
 ¡Has conseguido a ^ffff00 {PLANT_NAME} ^oldclr al ^ff0000 Nvl. 3 ^oldclr!
@@ -72873,7 +72833,7 @@ Comprar
 LO MÁS POPULAR
 
 [STORE_PRODUCT_ACTIVITY_DES]
-DESCRIPCIÓN DEL EVENTO: ¡recarga hasta {NUM}元 para obtener ^FF0000^Atuendos^oldclr^ exclusivos!
+DESCRIPCIÓN DEL EVENTO: recarga hasta {NUM} 元 para obtener ^FF0000^Atuendos exclusivos^oldclr^
 
 [STORE_PRODUCT_ACTIVITY_ONLYONCE]
 Solo una vez
@@ -73821,10 +73781,10 @@ Crea clones de si misma en un área 3x3
 Flor de lila
 
 [STORE_PRODUCT_AVATAR_LONGMALILY]
-El efecto libera una onda adicional que congela zombis por un tiempo
+El hielo del efecto congela zombis por un tiempo
 
 [STORE_PRODUCT_AVATAR_LONGMALILY_TITLE]
-Flor de loto
+Corbata verde
 
 [STORE_PRODUCT_AVATAR_LOTUSSHOOTER]
 Puede disparar gotas de agua tóxicas cuando usa Nutrientes
@@ -74673,22 +74633,13 @@ La niebla del efecto aturde zombis
 Serpiente celestial
 
 [STORE_PRODUCT_CHARGECANAWARD]
-Puedes recibir premios por la recarga de {NUM}元
+Puedes recibir premios por la recarga de {NUM} 元
 
 [STORE_PRODUCT_CHARGE_ACCUMULATE]
-Recarga acumulada: {NUM}元
+Recarga acumulada: {NUM} 元
 
 [STORE_PRODUCT_CHARGE_TITLE]
-Gran Oferta de Atuendos por Recarga
-
-[STORE_PRODUCT_LONG_DESCRIPTION_PINATA_GUARANTEED]
-Paquetes de semillas garantizados:
-
-[STORE_PRODUCT_LONG_DESCRIPTION_PINATA_MORE]
-... Y más
-
-[STORE_PRODUCT_LONG_DESCRIPTION_PINATA_PACKETS]
-Puede contener paquetes de semillas:
+Atuendos por recarga
 
 [STORE_PROMO]
 OFERTA
@@ -86410,13 +86361,13 @@ Crea un campo de ocultación, el cual, hace invisibles a los zombis detrás de �
 Zombi oriental
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR]
-Zombi blister
+Zombi atleta imperial
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION]
-En China los deportes son un arte que se ha ido perfeccionando desde tiempos inmemoriables, este zombi sin duda no ha perdido la escencia.
+En China, la disciplina física es un arte ancestral. Este zombi aún conserva esa fuerza y determinación.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION_HEADER]
-Tiene una dureza alta, y carga a gran velocidad contra tus plantas.
+Tiene una dureza alta, embiste plantas a gran velocidad.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1]
 Zombi caracesta
@@ -86431,7 +86382,7 @@ Su cesta de bambú lo hace dos veces más resistente que los orientales normales
 Zombi caracuenco
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION]
-Los otros zombis tienen miedo de enviarlo a la batalla. Todos están hartos de sus constantes quejas. "Uno se rompió, otro se rompió..."
+Nadie quiere mandarlo al frente de batalla. Sus interminables reclamos sobre cuencos rotos ya agotaron a todos.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION_HEADER]
 Su cuenco de porcelana es sorprendentemente difícil de romper.
@@ -86448,18 +86399,16 @@ Zombi farolito
 Flota por encima de casi todo en una linterna de papel extrañamente resistente.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT]
-Zombi vendedor
+Zombi catapulta de oriente
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}lanza panes de carne a tus plantas
-
-{FLAVOR}Su nueva estrategia para ganar sobre la competencia es crear una catapulta que lance carne directamente a los hogares de los clientes, eliminando por completo cualquier tiempo de entrega requerido.
+Su catapulta es fruto de una antigua tradición, perfeccionada para aplastar plantas desde la distancia.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION_HEADER]
-Ofrece su producto de la manera más directa posible.
+Lanza enormes rocas contra tus plantas desde lejos.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
-Los tiempos son difíciles para el ancestro chino de los zombis. Acaba de enterarse de que lo despidieron de su antiguo trabajo y lo obligaron a trabajar para el ejército del nuevo Emperador.
+Los tiempos son difíciles para el ancestro chino de los zombis. Acaba de enterarse de que lo despidieron de su antiguo trabajo y lo obligaron a trabajar para el ejército del nuevo emperador.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
 Zombi común de jardín, ahora con un toque oriental.
@@ -86468,35 +86417,35 @@ Zombi común de jardín, ahora con un toque oriental.
 Zombi oriental abanderado
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION]
-Le gustaba diseñar patrones de banderas únicos y llamativos. Realmente le gustó uno que hizo hace un tiempo con bordes negros y púas. Seguro que está increíblemente decepcionado de que lo obliguen a usar este aburrido.
+"En oriente, la bandera siempre marcha antes que el ejército."
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION_HEADER]
-Marca la llegada de una gran "oleada" de zombis orientales.
+Marca la llegada de una gran oleada de zombis orientales.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
-Zombistein animador
+Zombistein coloso imperial
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
-Ser un vigilante de la Gran Muralla es francamente un trabajo bastante aburrido, resulta que un muro interminable es una táctica de intimidación, hasta el punto de que nadie quiere acercarse.
+Vigilar la Gran Muralla durante siglos vuelve a cualquiera brutalmente fuerte. Cuando nadie se atreve a cruzar, él cruza primero.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
-Son tan poderosos que no necesitan de la ayuda de los Zombiditos.
+Tan poderoso que no necesita lanzar Zombiditos.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI]
 Rey de cejas amarillas
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION]
-^E2725B^Habilidades^oldclr^
+^E2725B^• Habilidades^oldclr^
 
-^DB8117^Vara de oro:^oldclr^ ^A0522D^invoca zombis occidentales para que ataquen^oldclr^
+^DB8117^- Vara de oro:^oldclr^ ^A0522D^invoca zombis a su servicio^oldclr^
 
-^DB8117^Nube voladora:^oldclr^ ^A0522D^inmune al daño mientras esta montado en su nube^oldclr^
+^DB8117^- Nube voladora:^oldclr^ ^A0522D^inmune al daño mientras esta montado en su nube^oldclr^
 
-^DB8117^Cambio de línea:^oldclr^ ^A0522D^cambia de línea cada cierto tiempo^oldclr^
+^DB8117^- Cambio de línea:^oldclr^ ^A0522D^cambia de línea cada cierto tiempo^oldclr^
 
-^DB8117^Plato de oro:^oldclr^ ^A0522D^lanza su platillo dorado para aplastar plantas en un área 2x2^oldclr^
+^DB8117^- Plato de oro:^oldclr^ ^A0522D^lanza su platillo dorado para aplastar plantas en un área 2x2^oldclr^
 
-^DB8117^Saco de semillas:^oldclr^ ^A0522D^lanza un saco enorme que aplasta plantas en su camino, puede ser destruido por plantas explosivas^oldclr^
+^DB8117^- Saco de semillas:^oldclr^ ^A0522D^lanza un saco enorme que aplasta plantas en su camino, puede ser destruido por plantas explosivas^oldclr^
 
 {FLAVOR}Zomboss sabía que lo que parecía un simple sirviente de piedra necesitaba mucho más para ser un peón digno. Así que le hizo creer que era el mismísimo Buda y le entregó algunos tesoros que robó para que los protegiera.
 
@@ -86523,19 +86472,19 @@ Zombi poncho de oriente
 Aprendió la tradición de forjar armaduras en metal, el poncho es una de ellas.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION_HEADER]
-A veces esconde una placa tradicionl de blindaje.
+A veces esconde una placa tradicional de blindaje.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY]
 Niño Rojo
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION]
-^E2725B^Habilidades^oldclr^
+^E2725B^• Habilidades^oldclr^
 
-^DB8117^Aliento de fuego:^oldclr^ ^A0522D^dispara bolas de fuego por la línea constantemente^oldclr^
+^DB8117^- Aliento de fuego:^oldclr^ ^A0522D^dispara bolas de fuego por la línea constantemente^oldclr^
 
-^DB8117^Fuego concentrado:^oldclr^ ^A0522D^a veces, dispara una gran bola de fuego que daña plantas en un área 3x3^oldclr^
+^DB8117^- Fuego concentrado:^oldclr^ ^A0522D^a veces, dispara una gran bola de fuego que daña plantas en un área 3x3^oldclr^
 
-^DB8117^Cambio de línea:^oldclr^ ^A0522D^cambia de línea cada cierto tiempo^oldclr^
+^DB8117^- Cambio de línea:^oldclr^ ^A0522D^cambia de línea cada cierto tiempo^oldclr^
 
 {KEYWORD}Debilidad: {STAT}Nuez cascarrabias resiste al fuego, las plantas de hielo apagan las bolas de fuego gigantes
 
@@ -86831,21 +86780,17 @@ Lanza todo tipo de explosivos y zombis.
 Zomboss Maestro del Qigong
 
 [ZOMBIE_KONGFU_ZOMBOSS_QIGONG_DESCRIPTION]
-^E2725B^Habilidades^oldclr^
+^E2725B^• Habilidades^oldclr^
 
-^DB8117^Invocación:^oldclr^ ^A0522D^invoca zombis y estantes de armas^oldclr^
+^DB8117^- Qigong pasivo:^oldclr^ ^A0522D^lanza cuchillas de Qi, arrastra una fila de plantas^oldclr^
 
-^DB8117^Cambio de línea:^oldclr^ ^A0522D^cambia de línea cada cierto tiempo^oldclr^
+^DB8117^- Agujero negro:^oldclr^ ^A0522D^crea un agujero negro que absorbe dos filas de plantas^oldclr^
 
-^DB8117^Qigong pasivo:^oldclr^ ^A0522D^lanza cuchillas de Qi, arrastra una fila de plantas^oldclr^
+^DB8117^- Onda vital:^oldclr^ ^A0522D^dispara una onda destructiva que arrasa con dos filas enteras^oldclr^
 
-^DB8117^Agujero negro:^oldclr^ ^A0522D^crea un agujero negro que absorbe dos filas de plantas^oldclr^
+^DB8117^- Escudo de oro:^oldclr^ ^A0522D^absorbe daño, se vuelve resistente al fuego o hielo y recupera salud lentamente^oldclr^
 
-^DB8117^Onda vital:^oldclr^ ^A0522D^dispara una onda destructiva que arrasa con dos filas enteras^oldclr^
-
-^DB8117^Escudo de oro:^oldclr^ ^A0522D^absorbe daño, se vuelve resistente al fuego o hielo y recupera salud lentamente^oldclr^
-
-^DB8117^Iluminación de Buda:^oldclr^ ^A0522D^sella a todas las plantas del patio para que no ataquen, luego, lanza una oleada de energía que refleja el daño e impulsa zombis hacia el frente^oldclr^
+^DB8117^- Iluminación de Buda:^oldclr^ ^A0522D^sella a todas las plantas del patio para que no ataquen, luego, lanza una oleada de energía que refleja el daño e impulsa zombis hacia el frente^oldclr^
 
 {KEYWORD}Debilidad: {STAT}Rábano blanco resiste al Qigong y a los agujeros negros
 
@@ -88287,13 +88232,13 @@ Cuando no hay plantas en su línea, se vuelve invisible y flota hacia la planta 
 Samhain
 
 [ZOMBIE_PUMPKIN_NECROMANCER_DESCRIPTION]
-^E2725B^Habilidades^oldclr^
+^E2725B^• Habilidades^oldclr^
 
-^DB8117^Hipnosis de ultratumba:^oldclr^ ^A0522D^duerme plantas y las arrastra bajotierra, Grano de café contrarresta esta habilidad^oldclr^
+^DB8117^- Hipnosis de ultratumba:^oldclr^ ^A0522D^duerme plantas y las arrastra bajotierra, Grano de café contrarresta esta habilidad^oldclr^
 
-^DB8117^Conjuro zombi:^oldclr^ ^A0522D^convoca las almas de los zombis derrotados^oldclr^
+^DB8117^- Conjuro zombi:^oldclr^ ^A0522D^convoca las almas de los zombis derrotados^oldclr^
 
-^DB8117^Escudo mágico:^oldclr^ ^A0522D^absorbe daño de plantas no mágicas^oldclr^
+^DB8117^- Escudo mágico:^oldclr^ ^A0522D^absorbe daño de plantas no mágicas^oldclr^
 
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques mágicos
 
@@ -88814,29 +88759,17 @@ Aparecen en grupo de cuatro y se deslizan sobre el hielo.
 [ZOMBIE_SLED_DESCRIPTION_HEADER]
 Aparecen en grupos de cuatro y se deslizan con un trineo sobre el hielo.
 
-[ZOMBIE_SLIMES]
-Zombi limo
-
-[ZOMBIE_SLIMES_DESCRIPTION]
-{KEYWORD}Especial: {STAT}tiende a dividirse en más limos cuando es derrotado
-{KEYWORD}Debilidad: {STAT}la mantequilla de Bad'ah bum impide que se divida
-
-{FLAVOR}Se dice que es peligroso usar shampoo para el pelo frente a estos zombis. ¿Será porque lo odia o porque acelera su reproducción? Nadie sabe.
-
-[ZOMBIE_SLIMES_DESCRIPTION_HEADER]
-Un zombi cubierto de baba, cuidado con él ya que le gusta multiplicarse a montones.
-
 [ZOMBIE_SLIMES_GARGANTUAR]
-Zombistein limo
+Zombi limo
 
 [ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Especial: {STAT}tiende a dividirse en más limos cuando es derrotado
-{KEYWORD}Debilidad: {STAT}la mantequilla de Bad'ah bum impide que se divida
+{KEYWORD}Debilidad: {STAT}la mantequilla impide que se divida
 
-{FLAVOR}Este zombi al igual que el resto de su tipo desprecia con toda su alma el shampoo y la mantequilla. ¡Ni se te ocurra hablar de eso delante de él!
+{FLAVOR}Se dice que es peligroso usar shampoo para el pelo frente a estos zombis. ¿Será porque lo odia o porque acelera su reproducción? Nadie sabe.
 
 [ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]
-Un zombi enorme cubierto de baba, cuidado con él ya que le gusta multiplicarse a montones.
+Un zombi cubierto de baba, cuidado con él ya que le gusta multiplicarse a montones.
 
 [ZOMBIE_SNOW_BALLROLLER]
 Zombi avalancha
@@ -89949,23 +89882,19 @@ Primer Emperador Zomboss
 MANDATO DEL CIELO: ¡derrota al emperador ahora!
 
 [ZOMBIE_ZOMBOSS_QINSHIHUANG_DESCRIPTION]
-^E2725B^Habilidades^oldclr^
+^E2725B^• Habilidades^oldclr^
 
-^DB8117^Invocación:^oldclr^ ^A0522D^invoca zombis, el área de invocación se expande hacia la izquierda^oldclr^
+^DB8117^- Rugido:^oldclr^ ^A0522D^ruge para acelerar a los zombis del campo de batalla^oldclr^
 
-^DB8117^Rugido:^oldclr^ ^A0522D^ruge para acelerar a los zombis del campo de batalla^oldclr^
+^DB8117^- Abran paso:^oldclr^ ^A0522D^crea una trinchera y destruye plantas a su paso^oldclr^
 
-^DB8117^Abran paso:^oldclr^ ^A0522D^crea una trinchera y destruye plantas a su paso^oldclr^
+^DB8117^- Expansión de dominio:^oldclr^ ^A0522D^destruye el suelo delante de él para ampliar aún más su dominio^oldclr^
 
-^DB8117^Expansión de dominio:^oldclr^ ^A0522D^destruye el suelo delante de él para ampliar aún más su dominio^oldclr^
+^DB8117^- Aliento elemental:^oldclr^ ^A0522D^escupe bolas de hielo o fuego gigantes que bloquean proyectiles y aplastan plantas a su paso^oldclr^
 
-^DB8117^Aliento elemental:^oldclr^ ^A0522D^escupe bolas de hielo o fuego gigantes que bloquean proyectiles y aplastan plantas a su paso^oldclr^
+^DB8117^- Sello de jade: ^A0522D^arroja un sello que aplasta plantas de un área 2x3, y luego, bloquea proyectiles hasta que es destruido^oldclr^
 
-^DB8117^Formación terracota:^oldclr^ ^A0522D^invoca Generales de terracota junto a escuderos^oldclr^
-
-^DB8117^Sello de jade: ^A0522D^arroja un sello que aplasta plantas de un área 2x3, y luego, bloquea proyectiles hasta que es destruido^oldclr^
-
-^DB8117^Mandato del Cielo:^oldclr^ ^A0522D^carga un ataque letal mientras los escuderos lo protegen, derrótalo antes de que lo lance o perderás^oldclr^
+^DB8117^- Mandato del Cielo:^oldclr^ ^A0522D^carga un ataque letal mientras los escuderos lo protegen, derrótalo antes de que lo lance o perderás^oldclr^
 
 {FLAVOR}Unificó China, y ahora también intenta unir zombis bajo su mando. Sus guerreros deben pagarle cerebros como tributo.
 
@@ -90172,10 +90101,10 @@ Comprar
 Tienda de Guanteletes
 
 [ZSHOP_CHALLENGE_ONE_PRICE]
-1元
+1 元
 
 [ZSHOP_CHALLENGE_TEN_PRICE]
-6元
+6 元
 
 [ZSHOP_GET_CHALLENGE_ONE_CHANCE]
 ^FF0000 1 ^oldclr partida para Batallaz.
