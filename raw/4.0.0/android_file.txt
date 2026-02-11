@@ -6218,18 +6218,20 @@ Libro de avances          Variable               0,06%
 [BATTLE_ORDER_DESCRIPTION]
 1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
 2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+3. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+4. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+5. Buen regalo: los primeros jugadores que compren el pase recibirán Joyas de recompensa
+6. Gran sorteo: participan todos los jugadores que hayan comprado el pase, los ganadores obtendrán Joyas como premio
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1]
 • Reglas del Evento - Buen regalo:
 
-Solo participan los primeros 500 jugadores que compren beneficios prémium.
-La recompensa inicial es de 400 Joyas. La cantidad aumenta en 40 por cada participante.
-Los primeros 50 compradores recibirán el 0,5% de las recompensas acumuladas, lo que suma un 25%
-Los primeros 150 compradores recibirán el 0,25% de las recompensas acumuladas, para un total del 25%
-Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, para un total del 30%
-Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
+A. Solo participan los primeros 500 jugadores que compren beneficios prémium.
+B. La recompensa inicial es de 400 Joyas. La cantidad aumenta en 40 por cada participante.
+C. Los primeros 50 compradores recibirán el 0,5% de las recompensas acumuladas, lo que suma un 25%
+D. Los primeros 150 compradores recibirán el 0,25% de las recompensas acumuladas, para un total del 25%
+E. Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, para un total del 30%
+F. Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
 
 [BATTLE_ORDER_DESCRIPTION_ANDROID_1_AUTUMN]
 Regalo de esta temporada: Cosecha copiosa
@@ -6249,30 +6251,32 @@ Regalo de esta temporada: Invierno generoso
 [BATTLE_ORDER_DESCRIPTION_ANDROID_2]
 • Reglas del Evento - Gran sorteo:
 
-Participan todos los jugadores que hayan comprado beneficios prémium.
-La recompensa inicial es de 14.000 Joyas. La cantidad aumenta en 14 por cada participante.
-Al final del evento, se sorteará un primer premio y recibirán el 20% del total de las recompensas acumuladas.
-Si sorteas el segundo premio 2 veces, recibirás el 10% de las recompensas acumuladas, para un total del 20%.
-Si sorteas el tercer premio 4 veces, recibirás el 5% de las recompensas acumuladas, para un total del 20%.
-Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
+A. Participan todos los jugadores que hayan comprado beneficios prémium.
+B. La recompensa inicial es de 14.000 Joyas. La cantidad aumenta en 14 por cada participante.
+C. Al final del evento, se sorteará un primer premio y recibirán el 20% del total de las recompensas acumuladas.
+D. Si ganas el 2do premio 2 veces, recibirás el 10% de las recompensas acumuladas, para un total del 20%.
+E. Si ganas el 3er premio 4 veces, recibirás el 5% de las recompensas acumuladas, para un total del 20%.
+F. Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
 
 [BATTLE_ORDER_DESCRIPTION_AUTUMN]
 1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
 2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+3. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+4. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+5. Buen regalo: los primeros jugadores que compren el pase recibirán Joyas de recompensa
+6. Gran sorteo: participan todos los jugadores que hayan comprado el pase, obtendrán Joyas como premio
 
-Temporada: Otoño dorado
+^DB8117^Temporada: Otoño dorado^oldclr^
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1]
 • Reglas del Evento - Buen regalo:
 
-Solo participan los primeros 500 jugadores que compren beneficios prémium.
-La recompensa inicial es de 400 Joyas. La cantidad aumenta en 40 por cada participante.
-Los primeros 50 compradores recibirán el 0,5% de las recompensas acumuladas, lo que suma un 25%
-Los primeros 150 compradores recibirán el 0,25% de las recompensas acumuladas, para un total del 25%
-Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, para un total del 30%
-Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
+A. Solo participan los primeros 500 jugadores que compren beneficios prémium.
+B. La recompensa inicial es de 400 Joyas. La cantidad aumenta en 40 por cada participante.
+C. Los primeros 50 compradores recibirán el 0,5% de las recompensas acumuladas, lo que suma un 25%
+D. Los primeros 150 compradores recibirán el 0,25% de las recompensas acumuladas, para un total del 25%
+E. Los primeros 300 compradores recibirán el 0,2% de las recompensas acumuladas, para un total del 30%
+F. Los primeros 500 compradores recibirán el 0,1% de las recompensas acumuladas, lo que suma un 20%
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
 Regalo de esta temporada: Cosecha copiosa
@@ -6292,36 +6296,42 @@ Regalo de esta temporada: Invierno generoso
 [BATTLE_ORDER_DESCRIPTION_IOS_2]
 • Reglas del Evento - Gran sorteo:
 
-Participan todos los jugadores que hayan comprado beneficios prémium.
-La recompensa inicial es de 14.000 Joyas. La cantidad aumenta en 14 por cada participante.
-Al final del evento, se sorteará un primer premio y recibirán el 20% del total de las recompensas acumuladas.
-Si sorteas el segundo premio 2 veces, recibirás el 10% de las recompensas acumuladas, para un total del 20%.
-Si sorteas el tercer premio 4 veces, recibirás el 5% de las recompensas acumuladas, para un total del 20%.
-Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
+A. Participan todos los jugadores que hayan comprado beneficios prémium.
+B. La recompensa inicial es de 14.000 Joyas. La cantidad aumenta en 14 por cada participante.
+C. Al final del evento, se sorteará un primer premio y recibirán el 20% del total de las recompensas acumuladas.
+D. Si ganas el 2do premio 2 veces, recibirás el 10% de las recompensas acumuladas, para un total del 20%.
+E. Si ganas el 3er premio 4 veces, recibirás el 5% de las recompensas acumuladas, para un total del 20%.
+F. Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas acumuladas, para un total del 40%.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
-1. Gana experiencia completando misiones. Subes de Nivel cada 500 puntos de Experiencia.
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
 2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+3. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+4. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+5. Buen regalo: los primeros jugadores que compren el pase recibirán Joyas de recompensa
+6. Gran sorteo: participan todos los jugadores que hayan comprado el pase, obtendrán Joyas como premio
 
-Temporada: Verde primavera
+^397F24^Temporada: Verde primavera^oldclr^
 
 [BATTLE_ORDER_DESCRIPTION_SPRINGFESTIVAL]
-1. Gana experiencia completando misiones. Subes de Nivel cada 500 puntos de Experiencia.
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
 2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+3. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+4. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+5. Buen regalo: los primeros jugadores que compren el pase recibirán Joyas de recompensa
+6. Gran sorteo: participan todos los jugadores que hayan comprado el pase, obtendrán Joyas como premio
 
-Temporada: Festival chino
+^D22808^Temporada: Festival chino^oldclr^
 
 [BATTLE_ORDER_DESCRIPTION_SUMMER]
 1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
 2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+3. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+4. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+5. Buen regalo: los primeros jugadores que compren el pase recibirán Joyas de recompensa
+6. Gran sorteo: participan todos los jugadores que hayan comprado el pase, obtendrán Joyas como premio
 
-Temporada: Verano anaranjado
+^FFA500^Temporada: Verano anaranjado^oldclr^
 
 [BATTLE_ORDER_DESCRIPTION_TITLE]
 SOBRE EL PASE DE BATALLA
@@ -6344,10 +6354,12 @@ SOBRE EL PASE DE INVIERNO
 [BATTLE_ORDER_DESCRIPTION_WINTER]
 1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de Experiencia.
 2. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Esmeraldas.
-3. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
-4. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+3. Usa tus Esmeraldas en la Ruleta. Podrás adquirir todos los premios al alcanzar el Nvl. 50 (requiere prémium).
+4. Activa el pase prémium para conseguir beneficios como experiencia o Esmeraldas adicionales.
+5. Buen regalo: los primeros jugadores que compren el pase recibirán Joyas de recompensa
+6. Gran sorteo: participan todos los jugadores que hayan comprado el pase, obtendrán Joyas como premio
 
-Temporada: Invierno gris
+^4DD4DB^Temporada: Invierno gris^oldclr^
 
 [BATTLE_ORDER_EXP]
 EXP: {NUM}/1.000
@@ -6365,16 +6377,16 @@ La cantidad de Joyas aumenta en 40 por cada participante
 La cantidad de Joyas aumenta en 100 por cada participante
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_1]
-1-50 lugar: {NUM} Joyas
+Puesto 1-50: {NUM} Joyas
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_2]
-51-150 lugar: {NUM} Joyas
+Puesto 51-150: {NUM} Joyas
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_3]
-151-300 lugar: {NUM} Joyas
+Puesto 151-300: {NUM} Joyas
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_4]
-301-500 lugar: {NUM} Joyas
+Puesto 301-500: {NUM} Joyas
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_1]
 ^FFA500^Recibes hasta un ^08FF20^0.5% del total^oldclr^ ^FFA500^de recompensas acumuladas^oldclr^
@@ -6395,20 +6407,20 @@ Esmeralda
 ^397F24^Esmeraldas: {NUM}^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_1]
-^C4C4C4^El primer premio es para 1 persona.^oldclr^
-^C4C4C4^El ganador recibe hasta un ^08FF20^20% del total^oldclr^ ^C4C4C4^de recompensas^oldclr^
+^F5F5F5^El primer premio es para 1 persona.^oldclr^
+^F5F5F5^El ganador recibe hasta un ^08FF20^20% del total^oldclr^ ^F5F5F5^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_2]
-^C4C4C4^El segundo premio es para 2 personas.^oldclr^
-^C4C4C4^Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^C4C4C4^de recompensas^oldclr^
+^F5F5F5^El segundo premio es para 2 personas.^oldclr^
+^F5F5F5^Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^F5F5F5^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_3]
-^C4C4C4^El tercer premio es para 4 personas.^oldclr^
-^E6E6E6^Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^C4C4C4^de recompensas^oldclr^
+^F5F5F5^El tercer premio es para 4 personas.^oldclr^
+^F5F5F5^Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^F5F5F5^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_4]
-^C4C4C4^El premio final es para 100 personas.^oldclr^
-^C4C4C4^Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^C4C4C4^de recompensas^oldclr^
+^F5F5F5^El premio final es para 100 personas.^oldclr^
+^F5F5F5^Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^F5F5F5^de recompensas^oldclr^
 
 [BATTLE_ORDER_MULTIREWARD_LIST]
 • Recompensas de selección múltiple:
