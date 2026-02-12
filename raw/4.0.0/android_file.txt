@@ -12518,13 +12518,13 @@ La traca derriba y ^848484^aturde^oldclr^ a los zombis que la pisen durante 2 s 
 
 [CRACKER_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}al contacto
-{KEYWORD}Especial: {STAT}tras explotar, puede expulsar zombis
-{KEYWORD}Características de la planta: {STAT}planta verde, planta anciana, de apariencia malévola, planta explosiva, destructora, familia explosiva
+{KEYWORD}Especial: {STAT}tras explotar, puede expulsar zombis de salud baja
+{KEYWORD}Características de la planta: {STAT}planta verde, anciana
 
 {FLAVOR}Vive en una casa grande al oeste del pueblo. Parece mala persona, pero en realidad, es un anciano amoroso. Traerá petardos para los niños de la ciudad en el Festival de Primavera, esperando que pasen un feliz año nuevo. Lo que más desea este año es que su nieto, Raíz de bambú, lo visitara algun día.
 
 [CRACKER_DESCRIPTION_HEADER]
-Bambú explosivo explota al contacto, causa daño a los zombis cercanos y los expulsa.
+Bambú explosivo se activa al contacto, dañando a los zombis cercanos o expulsándolos si su salud es baja.
 
 [CRACKER_NEW_SKILL_LEVEL1_DES]
 Explota al contacto, causando daño a los zombis cercanos. Si su salud es baja, los expulsa.
@@ -12563,7 +12563,7 @@ Nivel 3
 Nivel 5
 
 [CRACKER_SKILL_LEVEL5_DES]
-^DB8117^Fuegos artificiales:^oldclr^ después de que explote, caerán fuegos artificiales, los cuales, infligen un daño ligero a los zombis cercanos.
+^DB8117^Fuegos artificiales:^oldclr^ después de que explote, caerán fuegos artificiales que dañan zombis cercanos.
 
 [CRACKER_TOOLTIP]
 Explota al contacto, causa daño a los zombis cercanos y los expulsa
@@ -12572,11 +12572,12 @@ Explota al contacto, causa daño a los zombis cercanos y los expulsa
 Gelatinadora
 
 [CRANJELLY_DESCRIPTION]
+{KEYWORD}Especial: {STAT}deja atrás un charco de pringue ácido que ralentiza y daña a los zombis cuando un zombi sea aplastado
 
 {FLAVOR}Gelatinadora es capaz de conseguir cualquier forma: cubos, conos piramidales, icosaedros... Todas. Pero hay pocas formas que sean tan estructuralmente fuertes o que ofrezcan tanto poder de aplastamiento de zombis como el cilindro. Por no decir que le permite ir muy rápido.
 
 [CRANJELLY_DESCRIPTION_HEADER]
-Planta instantánea que aplasta a los zombis de su línea utilizando su gran masa gelatinosa. Deja atrás un charco de pringue ácido que ralentiza y daña a los zombis cuando un zombi sea aplastado.
+Planta instantánea que aplasta a los zombis de su línea utilizando su gran masa gelatinosa.
 
 [CRANJELLY_DESCRIPTION_PLANTFOOD]
 {KEYWORD}Nutrientes: {STAT}sin efecto de Nutrientes.
@@ -42566,7 +42567,7 @@ Defensa
 Solar
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_5]
-Única
+Singular
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_0]
 Común
@@ -42684,7 +42685,7 @@ Efectos del Atuendo
 No hay Atuendos equipados
 
 [NEW_PLANT_UI_VALUE_DETAIL_BTN_TEXT]
-DETALLES
+STATS
 
 [NEW_PVP_AREA_GUIDE_DOOR_DESCRIPTION]
 Aparecen pasadizos secretos que guian zombis hacia tu cerebro
@@ -42822,7 +42823,7 @@ Olla de gran maestro
 AVISOS
 
 [NEW_PVP_FREE_TO_PLAY_AREA_CONFIRM]
-Confirmar
+CONFIRMAR
 
 [NEW_PVP_FREE_TO_PLAY_AREA_TITLE]
 Selecciona una temática
@@ -49065,7 +49066,7 @@ El daño de las plantas se reduce en un 60%
 CONTINUAR
 
 [PLANT_DETAILS]
-Detalles
+Estadísticas de la planta
 
 [PLANT_FAMILT_BOOST_RESEARCH]
 Próximamente...
@@ -55562,7 +55563,7 @@ Da sol al instante o con el paso del tiempo
 Apoyo
 
 [PROFESSION_SUPPORTER_DESCRIPTION]
-Da mejoras o eliminar los efectos negativos de sus compañeros
+Da mejoras o elimina los efectos adversos de sus compañeros
 
 [PROFESSION_WARRIOR]
 Guerrero
@@ -69806,10 +69807,10 @@ Guacadrilo voraz
 Derrota a {NUMBER} zombis con Heliconia
 
 [STARCHALLENGE_HIDDEN]
-En desarrollo
+Consulta las novedades de esta actualización
 
 [STARCHALLENGE_HIDDEN_NAME]
-Noticias
+Novedades
 
 [STARCHALLENGE_HYPNOSHROOM]
 Utiliza Hipnosetas para derrotar a los zombis
