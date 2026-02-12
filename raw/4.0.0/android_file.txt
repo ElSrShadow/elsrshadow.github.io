@@ -24816,8 +24816,8 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por FranZ y ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 1.0.0^oldclr^
-^87CEFA^Última actualización: 9/2/2026^oldclr^
+^FF9E6B^Versión del parche: 1.0.9^oldclr^
+^87CEFA^Última actualización: 11/2/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_3_1]
 HEALTH_NOTICE_CONTENT_3
@@ -49615,7 +49615,7 @@ Nivel 5
 ^DB8117^Guerrero experto:^oldclr^ gana otro 50% más de poder de ataque y salud. (300% en total)
 
 [PLANT_PROPERTY_BASE]
-Habilidades
+Nivel 1
 
 [PLANT_SEED_IN_ZEN_GARDEN]
 ¡Planta una semilla en el Jardín Zen!
@@ -49624,7 +49624,7 @@ Habilidades
 RECLAMAR
 
 [PLANT_SKILL]
-Habilidades
+Habilidades de la planta
 
 [PLANT_SPECIAL_LEFT_TIME]
 Tiempo res.: {TIME}
@@ -67657,7 +67657,7 @@ Nivel de habilidad
 La base necesita el Nivel {COUNT} para desbloquear
 
 [SKILL_PREVIEW]
-Habilidades
+HABILIDADES
 
 [SKILL_UPGRADE_TIME]
 Se mejora en {TIME}
