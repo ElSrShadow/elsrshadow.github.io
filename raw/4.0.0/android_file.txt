@@ -16457,7 +16457,7 @@ Detalles
 Área
 
 [DETAIL_ATTACK_INTERVAL]
-Tiempo entre ataques
+Intervalo
 
 [DETAIL_COOLDOWN]
 Recarga
@@ -24816,7 +24816,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por FranZ y ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 1.1.0^oldclr^
+^FF9E6B^Versión del parche: 1.0.12^oldclr^
 ^87CEFA^Última actualización: 11/2/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_3_1]
