@@ -314,7 +314,7 @@ Comprar x30 元
 Compra una hucha y ahorra hasta un ^ff0000^99%^oldclr^ al comprar Joyas. Aplica para un máx. de ^ff0000^2.970^oldclr^ Joyas
 
 [ACTIVITY_NEW_PIGGY_BANK_LOGIN_TEXT]
-Día   #
+Día 
 
 [ACTIVITY_NEW_PIGGY_BANK_TITLE]
 Hucha de ahorros
@@ -385,16 +385,16 @@ Obtén recompensas exclusivas como el disfraz de soldado de Mega Guisantrallador
 JUGAR
 
 [ACTIVITY_SUMMERY_CHALLENGE_NUM]
-Desafío ^FFF000 {NUMBER} ^oldclr veces
+Intentos res.: ^FFF000^{NUMBER}^oldclr^
 
 [ACTIVITY_SUMMERY_DRAW_DESC]
 ¡Gira la ruleta y obtén premios raros!
 
 [ACTIVITY_SUMMERY_END_HOUR_TIPS]
-^000000 Faltan^FF3000 {NUMBER}^000000 horas para que finalice el evento.
+^000000^Termina en:^oldclr^ ^FF3000^{NUMBER} h^oldclr^
 
 [ACTIVITY_SUMMERY_END_TIPS]
-^000000 Faltan ^FF3000 {NUMBER}^000000 días para que finalice el evento.
+^000000^Termina en:^oldclr^ ^FF3000^{NUMBER} d^oldclr^
 
 [ACTIVITY_SUMMERY_FIRE_COST]
 Costo: {COUNT}
@@ -409,7 +409,7 @@ Costo: {COUNT}
 Ya has alcanzado el límite de niveles de hoy, ¡vuelve mañana por más diversión!
 
 [ACTIVITY_SUMMERY_LEVEL_ERROR_DESC]
-Si se produce un error en tu conexión a Internet, juega los eventos en un buena conexión de red para evitar la pérdida de recompensas.
+Asegúrate de jugar en una buena conexión de red para evitar la pérdida de recompensas.
 
 [ACTIVITY_SUMMERY_PLANT_BTN]
 Mej. al Nvl. {NUMBER}
@@ -434,8 +434,8 @@ Fiebre del Jefe
 
 [ACTIVITY_SUMMERY_ZOMBIEBOSS_DESC]
 ¡Derrota a los Jefes y obtén Cristales mientras lo haces!
-Los cristales sirven para obtener premios raros en la ruleta.
-(Recibes el doble de Cristales los fines de semana)
+Usa cristales para girar la Ruleta.
+^E2725B^(Recibes el doble de Cristales los fines de semana)^oldclr^
 
 [ACTIVITY_TIME_DOWN]
 Tiempo restante
@@ -448,139 +448,139 @@ Derrota zombis y gana premios mientras lo haces.
 VENTAJA!
 
 [ADVENTURE_FLAGS_ACHIVED_COLOR_PRE]
-^00FF00
+^00FF00^
 
 [ADVENTURE_FLAGS_DESACHIVED_COLOR_END]
-^oldclr
+^oldclr^
 
 [ADVENTURE_FLAGS_DES_AHOGE]
-Planta con cabello opaco x1
+De cabello opaco
 
 [ADVENTURE_FLAGS_DES_AQUATIC]
-Planta acuática x1
+Acuática
 
 [ADVENTURE_FLAGS_DES_ATTACK]
-destructora x1
+Destructora
 
 [ADVENTURE_FLAGS_DES_BLACK]
-Planta negra x1
+Planta negra
 
 [ADVENTURE_FLAGS_DES_BLUE]
-Planta azul x1
+Planta azul
 
 [ADVENTURE_FLAGS_DES_BOMB]
-Planta explosiva x1
+Explosiva
 
 [ADVENTURE_FLAGS_DES_BROTHERS]
-Hermanos planta x1
+Hermanos
 
 [ADVENTURE_FLAGS_DES_BROWN]
-Planta marrón x1
+Planta marrón
 
 [ADVENTURE_FLAGS_DES_BURN]
-Planta de fuego x1
+Fuego
 
 [ADVENTURE_FLAGS_DES_DEFENCE]
-Defensa x1
+Defensa
 
 [ADVENTURE_FLAGS_DES_ELECTRIC]
-Planta eléctrica x1
+Eléctrica
 
 [ADVENTURE_FLAGS_DES_ET]
-Planta extraterrestre x1
+Extraterrestre
 
 [ADVENTURE_FLAGS_DES_FIREBOMB]
-Llena de ira x1
+Llena de ira
 
 [ADVENTURE_FLAGS_DES_FIRMTEETH]
-Planta con dientes firmes x1
+Con dientes firmes
 
 [ADVENTURE_FLAGS_DES_FLY]
-Planta voladora x1
+Voladora
 
 [ADVENTURE_FLAGS_DES_GAGTOOTH]
-Planta con dientes enormes x1
+Dentuda
 
 [ADVENTURE_FLAGS_DES_GREEN]
-Planta verde x1
+Planta verde
 
 [ADVENTURE_FLAGS_DES_ILLLOOKING]
-De apariencia malévola x1
+Malévola
 
 [ADVENTURE_FLAGS_DES_KONGFU]
-Practicante de artes marciales x1
+Artista marcial
 
 [ADVENTURE_FLAGS_DES_LEVEL2]
-Planta al Nvl. 2 x1
+De Nvl. 2
 
 [ADVENTURE_FLAGS_DES_LEVEL3]
-Planta al Nvl. 3 x1
+De Nvl. 3
 
 [ADVENTURE_FLAGS_DES_LEVEL4]
-Planta al Nvl. 4 x1
+De Nvl. 4
 
 [ADVENTURE_FLAGS_DES_MAGE]
-Planta mágica x1
+Mágica
 
 [ADVENTURE_FLAGS_DES_OLD]
-Planta anciana x1
+Anciana
 
 [ADVENTURE_FLAGS_DES_ORANGE]
-Planta anaranjada x1
+Planta anaranjada
 
 [ADVENTURE_FLAGS_DES_PEA]
-Familia de guisantes x1
+Familia de guisantes
 
 [ADVENTURE_FLAGS_DES_PEANUT]
-Ataque y defensa x1
+Ataque y defensa
 
 [ADVENTURE_FLAGS_DES_PRODUCT]
-Planta productora x1
+Productora
 
 [ADVENTURE_FLAGS_DES_PURPLE]
-Planta púrpura x1
+Planta púrpura
 
 [ADVENTURE_FLAGS_DES_RED]
-Planta roja x1
+Planta roja
 
 [ADVENTURE_FLAGS_DES_ROTATION]
-Familia de tornados x1
+Familia de tornados
 
 [ADVENTURE_FLAGS_DES_SHORT]
-Planta baja x1
+De baja estatura
 
 [ADVENTURE_FLAGS_DES_SHROOM]
-Familia de setas x1
+Familia de setas
 
 [ADVENTURE_FLAGS_DES_SKILL]
-Planta hábil x1
+Hábil
 
 [ADVENTURE_FLAGS_DES_SKY]
-Planta aérea x1
+Aérea
 
 [ADVENTURE_FLAGS_DES_SUN]
-Productora de soles x1
+Productora de soles
 
 [ADVENTURE_FLAGS_DES_TALL]
-Planta alta x1
+De alta estatura
 
 [ADVENTURE_FLAGS_DES_TWINS]
-Hermanos gemelos x1
+Gemelos
 
 [ADVENTURE_FLAGS_DES_WATER]
-Planta de agua x1
+Agua
 
 [ADVENTURE_FLAGS_DES_WEAPON]
-Familia de armas x1
+Familia de armas
 
 [ADVENTURE_FLAGS_DES_WHITE]
-Planta blanca x1
+Planta blanca
 
 [ADVENTURE_FLAGS_DES_YELLOW]
-Planta amarilla x1
+Planta amarilla
 
 [ADVENTURE_FLAGS_UNACHIVED_COLOR_PRE]
-^FF0000
+^FF0000^
 
 [ADVENTURE_NAME]
 Aventura
@@ -13160,35 +13160,23 @@ Nivel 5
 [CYPRIPEDIUM_TOOLTIP]
 Prepara y arroja sopa para dañar y causar disgusto culinario en los zombis
 
-[Coinsproduct_bundle_levitater_supg_consume_t40]
-400 paquetes de semillas de Levitadora + 100 joyas + 10.000 monedas
-
-[Coinsproduct_bundle_megagatling_supg_consume_t40]
-400 paquetes de semillas de Mega Guisantralladora + 100 joyas + 10.000 monedas
-
-[Coinsproduct_sg_levitater_consume_g]
-10 paquetes de semillas de Levitadora + 10 semillas de la familia de Deteni-menta
-
-[Coinsproduct_sg_megagatling_consume_g]
-10 paquetes de semillas de Mega Guisantralladora + 10 semillas de la familia de Deteni-menta
-
 [DAILYSIGN_ADVERTISEMENT]
-Firmar 1 vez
+VER
 
 [DAILYSIGN_SUPPLEMENTARY_SIGN_BUTTON]
-Volver a firmar
+EXTRA
 
 [DAILYSIGN_SUPPLYMENTARY_ALL_BUTTON]
-Firmar todo
+TODO
 
 [DAILYSIGN_SUPPLYMENTARY_DESCRIPTION]
-¿Deseas gastar Joyas para ^00FF00^ volver a firmar^?
+¿Deseas gastar Joyas para ^00FF00^reclamar^oldclr^ otro premio?
 
 [DAILYSIGN_SUPPLYMENTARY_ONE_BUTTON]
-Refirmar un día
+1 EXTRA
 
 [DAILYSIGN_SUPPLYMENTARY_TEXT1]
-Este mes puede ser
+Este mes:
 
 [DAILYSIGN_SUPPLYMENTARY_TEXT2]
 {NUM}
@@ -13200,10 +13188,10 @@ Introduce el código:
 Canjear código de activación
 
 [DAILYSIGN_TW4399_TIME]
-Hora del evento:
+Horario:
 
 [DAILYSIGN_TW4399_TITLE]
-Premios diarios - 4399
+Premios diarios
 
 [DAILY_2_ADVENTURE]
 ¡Supera 2 niveles de Aventura!
@@ -13214,174 +13202,17 @@ Supera 2 niveles del Lejano Oeste
 [DAILY_5_ADVENTURE]
 ¡Supera 5 niveles de Aventura!
 
-[DAILY_ACHIEVEMENT_CONTENT_1]
-Obtén Piezas de plantas x{NUMBER} en el mismo día de hoy.
-
-[DAILY_ACHIEVEMENT_CONTENT_2]
-Obtén Piezas de colgantes x{NUMBER} en el mismo día de hoy.
-
-[DAILY_ACHIEVEMENT_CONTENT_3]
-Obtén Piezas de Atuendos x{NUMBER} en el mismo día de hoy.
-
-[DAILY_ACHIEVEMENT_CONTENT_4]
-Consigue {NUMBER} boleto (s) para jugar el evento Locuras de Yeti del Reto diario.
-
-[DAILY_ACHIEVEMENT_CONTENT_5]
-Consigue {NUMBER} boleto (s) para jugar el evento Crisis Zombistein del Reto diario.
-
-[DAILY_ACHIEVEMENT_CONTENT_6]
-Consigue {NUMBER} boleto (s) para jugar el evento Invasión polvorienta del Reto diario.
-
-[DAILY_ACHIEVEMENT_CONTENT_7]
-Consigue {NUMBER} Estrellas a las que alcanzar.
-
-[DAILY_ACHIEVEMENT_CONTENT_8]
-Gana {NUMBER} batalla en Guerras de jardín.
-
-[DAILY_ACHIEVEMENT_CONTENT_9]
-Entrena a {NUMBER} Zombis en Guerras de jardín.
-
-[DAILY_ACHIEVEMENT_CONTENT_10]
-Alquila {NUMBER} territorio (s) en Guerras de jardín.
-
-[DAILY_ACHIEVEMENT_CONTENT_11]
-Consume {NUMBER} Monedas estelares para entrenar zombis en Guerras de jardín.
-
-[DAILY_ACHIEVEMENT_CONTENT_12]
-Consigue {NUMBER} Copas en Guerras de jardín.
-
-[DAILY_ACHIEVEMENT_CONTENT_13]
-Consigue {NUMBER} Medallas en Guerras de jardín.
-
-[DAILY_ACHIEVEMENT_CONTENT_14]
-Consigue {NUMBER} Modenas estelares en Guerras de jardín.
-
-[DAILY_ACHIEVEMENT_CONTENT_15]
-Completa cualquier nivel {NUMBER} veces en el modo difícil.
-
-[DAILY_ACHIEVEMENT_CONTENT_16]
-Completa cualquier nivel {NUMBER} veces.
-
-[DAILY_ACHIEVEMENT_CONTENT_17]
-Alcanza el Nivel {NUMBER} en la Zona del Infinito.
-
-[DAILY_ACHIEVEMENT_CONTENT_18]
-Supera la oleada {NUMBER} en el modo infinito.
-
-[DAILY_ACHIEVEMENT_CONTENT_20151001]
-^FF0000 Consejos del Evento: ^oldclr
-Las Piezas de plantas pueden obtenerse a través de la Tienda de Penny, Cofres, Desafíos, etc.
-El número de recompensas recogidas en esta pestaña no cuenta para el número alcanzado.
-^FF0000 Nota: los logros se actualizan a las 12:00 AM todos los días. ^oldclr
-
-[DAILY_ACHIEVEMENT_CONTENT_20151002]
-^FF0000 Consejos del Evento: ^oldclr
-Las Piezas de Atuendos pueden obtenerse a través de la Tienda de Penny, Cofres, Eventos, etc.
-El número de recompensas recogidas en esta pestaña no cuenta para el número alcanzado.
-^FF0000 Nota: los logros se actualizan a las 12:00 AM todos los días. ^oldclr
-
-[DAILY_ACHIEVEMENT_CONTENT_20151003]
-^FF0000 Consejos del Evento: ^oldclr
-Las Piezas de colgantes pueden obtenerse a través de Cofres y Eventos.
-El número de recompensas recogidas en esta pestaña no cuenta para el número alcanzado.
-^FF0000 Nota: los logros se actualizan a las 12:00 AM todos los días. ^oldclr
-
-[DAILY_ACHIEVEMENT_CONTENT_20151004]
-^FF0000 Consejos del Evento: ^oldclr
-Las Estrellas se consiguen al final de un nivel; completa un nivel que ya has jugado anteriormente, para jugarlo en el Modo Difícil y así ganar 2 Estrellas.
-^FF0000 Nota: los logros se actualizan a las 12:00 AM todos los días. ^oldclr
-
-[DAILY_ACHIEVEMENT_CONTENT_20151005]
-^FF0000 Consejos del Evento: ^oldclr
-Las Piezas de Atuendos pueden obtenerse a través de la Tienda de Penny, Cofres, Eventos, etc.
-El número de recompensas recogidas en esta pestaña no cuenta para el número alcanzado.
-^FF0000 Nota: los logros se actualizan a las 12:00 AM todos los días. ^oldclr
-
-[DAILY_ACHIEVEMENT_CONTENT_20151006]
-^FF0000 Consejos del Evento: ^oldclr
-Toca en el botón "Reto diario" de la interfaz para participar en eventos tales como: Crisis Zombistein, Invasión polvorienta o Locuras de Yeti.
-^FF0000 Nota: los logros se actualizan a las 12:00 AM todos los días. ^oldclr
-
-[DAILY_ACHIEVEMENT_CONTENT_20151007]
-^FF0000 Consejos del Evento: ^oldclr
-Completar cualquier nivel de cualquier mundo y en cualquier modo de juego puede dar como válido y completado el desafío de hoy, ¡estupendo!
-^FF0000 Nota: los logros se actualizan a las 12:00 AM todos los días. ^oldclr
-
-[DAILY_ACHIEVEMENT_CONTENT_PVP]
-^FF0000 Consejos del Evento: ^oldclr
-Completar el Antiguo Egipto - Día 8 desbloquea Guerras de jardín.
-^FF0000 Nota: los logros se actualizan a las 12:00 AM todos los días. ^oldclr
-
-[DAILY_ACHIEVEMENT_GOT]
-Obtuviste:
-
-[DAILY_ACHIEVEMENT_OBTAIN]
-Obtienes:
-
-[DAILY_ACHIEVEMENT_TITLE]
-Logros diarios
-
-[DAILY_ACTIVITIES_APP_UPDATE]
-¡Huy! Actualiza la aplicación para seguir teniendo acceso a las actividades diarias.
-
-[DAILY_ACTIVITIES_DESC]
-¡Completa actividades diarias para obtener premios fructíferos!
-
-[DAILY_ACTIVITIES_DOWN_FOR_MAINTENANCE]
-¡Huy! ¡Las actividades diarias no están disponibles por mantenimiento! ¡Vuelve en 5 o 10 minutos!
-
-[DAILY_ACTIVITIES_TITLE]
-¡Completa actividades diarias!
-
 [DAILY_ALREADY_LOGIN]
-Ya has ^3AAD14 iniciado ^oldclr sesión.
+Ya has ^3AAD14^iniciado sesión^oldclr^
 
 [DAILY_BUNDLE_OFFER]
 Paquete diario
 
-[DAILY_COMPLETE_ALL]
-¡Completa todas las actividades diarias!
-
 [DAILY_GIFT_REFRESH]
-Refrescar paquete
+Nuevo regalo
 
 [DAILY_LIST]
 Lista diaria
-
-[DAILY_QUEST_COMPLETED]
-¡Se han completado todos los objetivos diarios! ¡Buen trabajo!
-
-[DAILY_QUEST_COMPLETED_TIMER]
-Se desbloquearán nuevos objetivos diarios en {VARIABLE HOURS} h {VARIABLE MINUTES} min
-
-[DAILY_QUEST_REMAINING_TIME]
-Las actividades diarias se actualizan en {DURATION}
-
-[DAILY_REWARD_COMPENSATION_CONTENT]
-Estimados jugadores:
-
-Hemos corregido algunos errores en los Premios diarios para febrero,
-llegaron tarde en el horario acordado de la nueva actualización %>_<%
-
-Acepten estas recompensas como disculpa:
-
-• 100 Joyas
-• Piezas de Boniato x10
-
-Gracias por su apoyo a PvZ 2, ¡que tengan unas vacaciones agradables!
-
-[DAILY_REWARD_COMPENSATION_CONTENT_SPECIAL]
-Queridos jugadores:
-
-Hemos corregido algunos errores en los Premios diarios para febrero,
-no llegaron en el tiempo acordado para esta actualización :/
-
-Como compensación les preparamos algo:
-
-• 100 Joyas
-• Boniato: Piezas x10
-
-Gracias por su apoyo a Plants vs. Zombies 2, ¡feliz año!
 
 [DAILY_REWARD_CONFIG_ERROR_CONTENT]
 Error de configuración. Reinicia el juego e ingresa con una conexión estable.
@@ -13399,10 +13230,10 @@ Error de conexión
 Disponible: {ITEM}
 
 [DAILY_SIGN_CONFIRM_AD]
-¿Deseas ver un anuncio para ^FF0000^registrarte un día^oldclr^ en los Premios diarios?
+¿Deseas ver un anuncio para obtener ^FF0000^otro premio^oldclr^ hoy?
 
 [DAILY_SIGN_ERROR_DESC]
-Se ha producido un error en el registro diario de sesión.
+No se pudo obtener el premio de hoy, ¡inténtalo otra vez!
 
 [DAILY_SIGN_ERROR_TITLE]
 ¡Se ha producido un error!
@@ -19883,8 +19714,8 @@ Premio por primera recarga: elección épica
 Ya has recibido la recompensa de hoy, ¡vuelve mañana!
 
 [FIRST_RECHARGE_EXTRA_TIPS]
-Recarga por primera vez comprando Joyas con dinero real.
-Inicia sesión durante tres días para conseguir recompensas.
+1. Recarga por primera vez comprando Joyas con dinero real.
+2. Inicia sesión durante tres días para conseguir recompensas.
 
 [FIRST_RECHARGE_HEAD_DES_ID_25391]
 ¡Disfruta de los beneficios que tiene recargar, esta medalla es uno de ellos!
@@ -28045,7 +27876,7 @@ Peticiones hechas: {NUM}
 Has hecho {NUM} peticiones
 
 [LIMITED_SUMMON_DESCRIPTION_TITLE]
-¿CÓMO JUGAR?
+REGLAS DEL EVENTO
 
 [LIMITED_SUMMON_RANK_REWARD]
 Recompensas por Clasificación
@@ -28069,34 +27900,34 @@ Peticiones por tiempo limitado
 Duración del VIP
 
 [LIMITED_SUMMON_WISH_DESCRIPTION]
-1. Los jugadores pueden usar Cupones de petición para hacer sus peticiones durante un tiempo limitado.
-2. Aparecerán nuevas plantas después de realizar 20 peticiones.
-3. Puedes obtener Cupones de petición comprando Paquetes de regalo o activando Privilegios VIP.
-4. Privilegios VIP: inicia sesión durante 3 días consecutivos para recibir Cupones de petición.
-5. Piezas universales: puedes reemplazar las Piezas de una planta existente por Piezas universales que pueden usarse en Plantas de Nivel 2 y superior.
+1. Obtén cupones comprando Paquetes o activando Privilegios VIP y úsalos para peticionar tus plantas preferidas.
+2. Privilegios VIP: inicia sesión durante 3 días consecutivos para recibir Cupones de petición.
+3. Clasificaciones: los jugadores se clasifican en una lista según el número de peticiones realizadas.
 
 [LIMITED_SUMMON_WISH_DESCRIPTION_2]
-6. Clasificaciones: los jugadores se clasifican en una lista según el número de peticiones realizadas.
-
 • Lista diaria:
 
-1° lugar → 50 peticiones
-2° lugar → 40 peticiones
-3° lugar → 30 peticiones
-4° - 10° lugar → 20 peticiones
-11° - 50° lugar → 10 peticones
-51° - 100° lugar → 5 peticiones
-101° lugar en adelante → 1 petición
+PUESTO                  PETICIONES
+----------------------------------
+1                               50
+2                               40
+3                               30
+4-10                            20
+11-50                           10
+51-100                           5
+101+                             1
 
 • Lista general: 
 
-1° lugar → 350 peticiones
-2° lugar → 280 peticiones
-3° lugar → 210 peticiones
-4° - 10° lugar → 140 peticiones
-11° - 50° lugar → 70 peticones
-51° - 100° lugar → 35 peticiones
-101° lugar en adelante → 7 peticiones
+PUESTO                  PETICIONES
+----------------------------------
+1                              350
+2                              280
+3                              210
+4-10                           140
+11-50                           70
+51-100                          35
+101+                             7
 
 Si se produce algún empate, entonces, se clasifican ambos jugadores en orden cronológico.
 
@@ -30250,7 +30081,7 @@ Completando misiones en Viaje otoñal
 Se usan para canjear artículos en la Tienda de Viaje otoñal
 
 [MAT_TOY_CLOCKWORK]
-Moneda de cuerda
+Moneda de super-atuendo
 
 [MAT_TOY_CLOCKWORK_GOT_WAY]
 Tienda de disfraces
@@ -30259,7 +30090,7 @@ Tienda de disfraces
 Se usa para participar en sorteos en el evento Fiesta de disfraces.
 
 [MAT_TOY_PARTS]
-Piezas de juguetes
+Cristal de super-atuendo
 
 [MAT_TOY_PARTS_GOT_WAY]
 Participando en el Sorteo de la Fiesta de disfraces.
@@ -39483,7 +39314,7 @@ DESCARTAR
 Regalo bienvenida
 
 [NEWER_PRESENT_UNLOCK_TIP]
-Puedes desbloquear el siguiente paquete de regalo después de haber comprado el paquete anterior.
+Puedes desbloquear el siguiente paquete después de comprar el anterior
 
 [NEWPLAYER_COLLECTION_ACTIVITY_DISCOUNTSHOP_UNLOCK_DESC]
 Se desbloquea al completar Antiguo Egipto - Día 2
@@ -42838,10 +42669,10 @@ Registro de sorteos
 Obtendrás un premio mayor en {NUMS} sorteos.
 
 [NIGHTTHETOY_SHOP]
-Tienda de piezas
+Tienda
 
 [NIGHTTHETOY_TASK]
-Misiones del evento
+Misiones
 
 [NIGHTTHETOY_TIP]
 Tienda de piezas
@@ -42850,10 +42681,10 @@ Tienda de piezas
 No hay suficientes boletos.
 
 [NIGHT_THE_TOY_REWARD_PLAYER_DESC]
-^FFFF00^{NAME}^oldclr^ obtuvo ^0000FF {ITEM} ^oldclr en el sorteo.
+^FFFF00^{NAME}^oldclr^ obtuvo ^0000FF^{ITEM}^oldclr^
 
 [NIGHT_THE_TOY_REWARD_PLAYER_WITH_ITEMCOUNT_DESC]
-^FFFF00^{NAME}^oldclr^ obtuvo ^0775F7 {ITEM} ^oldclr x{NUMS} en el sorteo.
+^FFFF00^{NAME}^oldclr^ obtuvo ^0775F7^{ITEM}^oldclr^ x{NUMS}
 
 [NINJAJUMP_TIP_LETS_PLAY]
 ¡Muy bien, empecemos! Evita los obstáculos y usa ayuda al ninja a cruzar la meta
@@ -47999,12 +47830,10 @@ Aventura extra
 Tus plantas no cumplen con las condiciones de exploración.
 
 [PLANT_ADVENTURE_BONUS_AD_AFTER_WATCH]
-Tu recompensa se duplicó.
-Tiempo res.:
+Tu recompensa se duplicó. ^FF0000^Anuncios res.: 
 
 [PLANT_ADVENTURE_BONUS_AD_BEFORE_WATCH]
-Mira anuncios para obtener el doble de premios.
-Tiempo rest.:
+Ve anuncios para obtener el doble de premios. ^FF0000^Res.: 
 
 [PLANT_ADVENTURE_BONUS_BUTTON_FINISHED]
 COMPLETAR
@@ -48013,13 +47842,13 @@ COMPLETAR
 Bonus
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_LIMIT_TEXT]
-Alcanzado el límite semanal de Rubíes misteriosos.
+^FF0000^Alcanzado el límite semanal de Rubíes^oldclr^
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_TEXT]
 Bonus misterioso:
 
 [PLANT_ADVENTURE_BONUS_HINT]
-Las plantas han regresado de su aventura en ^00FF00^{DUNGEON}^oldclr^
+Las plantas han regresado de su aventura en ^DB8117^{DUNGEON}^oldclr^
 Después de una batalla cuesta arriba, encontraron esto:
 
 [PLANT_ADVENTURE_BONUS_TITLE]
@@ -48047,10 +47876,10 @@ Obtienes:
 Res.: {CHANCES}
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED]
-Disponible al completar {DUNGEON}
+Disponible al completar: ^DB8117^{DUNGEON}
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED_HARD]
-Se activa al completar el ^FF0000^Modo Difícil^oldclr^ de {DUNGEON}.
+Se activa al completar el ^FF0000^Modo difícil^oldclr^ de ^DB8117^{DUNGEON}^oldclr^
 
 [PLANT_ADVENTURE_DUNGEON_SKIP]
 TERMINAR
@@ -48114,7 +47943,7 @@ GRATIS
 NO ABRIR
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_OPEN]
-x{GEMS} Joyas
+  x{GEMS}
 
 [PLANT_ADVENTURE_SURPRISE_HINT]
 Informe: conocimos a un hombre de negocios, ¡tenía algo especial en la bolsa!
@@ -48135,11 +47964,12 @@ ACEPTAR
 Selección automática
 
 [PLANT_ADVENTURE_TEAMEDITOR_NEEDPLANTS]
-Se necesitan {PLANTS} plantas
-para crear el equipo
+  Se necesitan ^397F24^{PLANTS} plantas^oldclr^
+  para crear el equipo
 
 [PLANT_ADVENTURE_TEAMEDITOR_PLANTTYPE]
-Características de la planta:
+  Características
+  específicas:
 
 [PLANT_ADVENTURE_TEAMEDITOR_START_BUTTON]
 COMENZAR
@@ -53227,49 +53057,22 @@ Compra un paquete superior de EXP
 Paquete superior de EXP
 
 [PRODUCT_NEW_PVP_CHEST_3]
-Cofre de temporada
+Compra el Cofre de temporada
 
 [PRODUCT_NEW_PVP_CHEST_3_SHORTDESC]
-Cofre del cofre de temporada
+Cofre de temporada
 
 [PRODUCT_NEW_PVP_CHEST_4]
-Compra el cofre legendario de temporada
+Compra el Cofre legendario de temporada
 
 [PRODUCT_NEW_PVP_CHEST_4_SHORTDESC]
 Cofre legendario de temporada
 
 [PRODUCT_NEW_PVP_CHEST_5]
-Consigue un Cofre legendario
+Compra un Cofre legendario
 
 [PRODUCT_NEW_PVP_CHEST_5_SHORTDESC]
 Cofre legendario
-
-[PRODUCT_NEW_PVP_COIN_1_DESC]
-¡5000 Monedas Estelares!
-
-[PRODUCT_NEW_PVP_COIN_1_SHORT_DESC]
-Monedas Estelares x5000
-
-[PRODUCT_NEW_PVP_COIN_2_DESC]
-¡20000 Monedas Estelares!
-
-[PRODUCT_NEW_PVP_COIN_2_SHORT_DESC]
-Monedas Estelares x20000
-
-[PRODUCT_NEW_PVP_COIN_3_DESC]
-¡75000 Monedas Estelares!
-
-[PRODUCT_NEW_PVP_COIN_3_SHORT_DESC]
-Monedas Estelares x75000
-
-[PRODUCT_NEW_USER_BUNDLE_DESCRIPTION]
-¡Ponle picante a nuevos retos con Jalapeño, 50 Joyas y 5000 Monedas!
-
-[PRODUCT_NEW_USER_BUNDLE_NAME]
-Lote - Nuevo usuario
-
-[PRODUCT_NEW_USER_BUNDLE_SHORT_DESCRIPTION]
-Lote de nuevo usuario
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
 • Regalo diario: contiene 15 Joyas
@@ -53289,17 +53092,11 @@ Paquete de 6 元
 [PRODUCT_NIGHTCAP_NAME]
 Planta – Gorro de noche
 
-[PRODUCT_NIGHTCAP_SEEDS]
-Semillas de Gorro de noche
-
 [PRODUCT_NIGHTCAP_SHORT_DESCRIPTION]
 Gorro de noche
 
-[PRODUCT_NIGHTSHADE_SEEDS]
-Semillas de Solanácea
-
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-Paquete de juguetes
+Fiesta de disfraces
 
 [PRODUCT_NOCTARINE_DESCRIPTION]
 ¡Explota para generar una nube de gas!
@@ -53307,47 +53104,14 @@ Paquete de juguetes
 [PRODUCT_NOCTARINE_NAME]
 Planta – Noctarina
 
-[PRODUCT_NOCTARINE_SEEDS]
-Semillas de Noctarina
-
 [PRODUCT_NOCTARINE_SHORT_DESCRIPTION]
 Noctarina
-
-[PRODUCT_NOSTALGIA_BUNDLE]
-Lote nostálgico
-
-[PRODUCT_NOSTALGIA_ELITE_PINATA]
-Piñata nostálgica de élite
-
-[PRODUCT_NOSTALGIA_EXCLUSIVE]
-Exclusivo nostálgico
-
-[PRODUCT_NOSTALGIA_MEGA]
-Megalote nostálgico
-
-[PRODUCT_NOSTALGIA_PINATA]
-Piñata nostálgica
-
-[PRODUCT_NOSTALGIA_SUPER]
-Superlote nostálgico
-
-[PRODUCT_NUTPINATA_DESCRIPTION]
-¡50 paquetes de semillas de frutos secos planta!
-
-[PRODUCT_NUTPINATA_NAME]
-Piñata - Frutos secos planta
-
-[PRODUCT_NUTPINATA_SHORT_DESCRIPTION]
-Frutos secos planta
 
 [PRODUCT_OLIVEPIT_DESCRIPTION]
 ¡Engulle múltiples zombis!
 
 [PRODUCT_OLIVEPIT_NAME]
 Planta – Pozoliva
-
-[PRODUCT_OLIVEPIT_SEEDS]
-Semillas de Pozoliva
 
 [PRODUCT_OLIVEPIT_SHORT_DESCRIPTION]
 Pozoliva
@@ -53357,9 +53121,6 @@ Pozoliva
 
 [PRODUCT_PARSNIP_NAME]
 Planta - Podarrábano
-
-[PRODUCT_PARSNIP_SEEDS]
-Semillas de Podarrábano
 
 [PRODUCT_PARSNIP_SHORT_DESCRIPTION]
 Podarrábano
@@ -53986,40 +53747,13 @@ Semillas de Calabaza
 Calabaza
 
 [PRODUCT_PVINE_DESCRIPTION]
-¡Mejora a las plantas de Apacigua-menta!
+¡Mejora a las plantas guisante!
 
 [PRODUCT_PVINE_NAME]
 Planta – Enredadera guisante
 
-[PRODUCT_PVINE_SEEDS]
-Semillas de Enredadera guisante
-
 [PRODUCT_PVINE_SHORT_DESCRIPTION]
 Enredadera guisante
-
-[PRODUCT_PVP_COIN_1_DESC]
-¡500 Monedas Estelares!
-
-[PRODUCT_PVP_COIN_1_SHORT_DESC]
-Monedas Estelares x500
-
-[PRODUCT_PVP_COIN_2_DESC]
-¡2000 Monedas Estelares!
-
-[PRODUCT_PVP_COIN_2_SHORT_DESC]
-Monedas Estelares x2000
-
-[PRODUCT_PVP_COIN_3_DESC]
-¡7500 Monedas Estelares!
-
-[PRODUCT_PVP_COIN_3_SHORT_DESC]
-Monedas Estelares x7500
-
-[PRODUCT_PVP_COIN_4_DESC]
-¡40000 Monedas Estelares!
-
-[PRODUCT_PVP_COIN_4_SHORT_DESC]
-Monedas Estelares x40000
 
 [PRODUCT_PYREVINE_DESCRIPTION]
 ¡Calienta y lanza llamas!
@@ -54033,25 +53767,6 @@ Semillas de Enredadera candelera
 [PRODUCT_PYREVINE_SHORT_DESCRIPTION]
 Enredadera candelera
 
-[PRODUCT_PYRE_VINE_SEEDS]
-Semillas de Enredadera candelera
-
-[PRODUCT_REDSTINGER_SEEDS]
-Semillas de Aguijón rojo
-
-[PRODUCT_RED_STINGER_SEEDS]
-Semillas de Aguijón rojo
-
-[PRODUCT_REFORESTATION_DESCRIPTION]
-¡Planta un bosque y frena zombis con Lanzasavia, 10000 Monedas y 5 Brotes!
-
-[PRODUCT_REFORESTATION_NAME]
-Lote de reforestación de Lanzasavia
-
-[PRODUCT_REFORESTATION_SHORT_DESCRIPTION]
-Lote de reforestación de Lanzasavia
-
-
 [PRODUCT_RHUBARBARIAN_DESCRIPTION]
 ¡Aturde y expulsa de un puñetazo a los zombis del tablero!
 
@@ -54063,8 +53778,6 @@ Ruibárbaro
 
 [PRODUCT_SAPFLING_DESCRIPTION]
 ¡Ralentiza zombis con charcos de savia!
-
-[PRODUCT_SAPFLING_LRG]
 
 [PRODUCT_SAPFLING_NAME]
 Planta - Lanzasavia
@@ -57785,7 +57498,7 @@ Serpiente de oro
 Duelista sabio
 
 [RANK_AVATAR_SELECT_TITLE]
-Medallas
+Banners
 
 [RANK_LIST]
 Lista de clasificaciones
@@ -57793,20 +57506,14 @@ Lista de clasificaciones
 [RANK_NEED_TIMES]
 Se debe cumplir con un cierto número de peticiones para ser clasificado.
 
-[RANK_PTS_AWARD_HEADER]
-¡Tienes {NUMBER} puntos de rango!
-
-[RANK_PTS_AWARD_HEADER_SINGLE]
-¡Tienes 1 punto de rango!
-
 [RANK_TEXT]
-Clasificación: {RANK_COUNT}
+Puesto: {RANK_COUNT}
 
 [RANK_TEXT_MINIGAME]
-Clasificación {RANK_START}/{RANK_END}
+Puesto: {RANK_START}/{RANK_END}
 
 [RANK_TEXT_OUTORDER]
-Clasificación {RANK_COUNT} fuera del orden
+Puesto: {RANK_COUNT} (no rango)
 
 [RANK_UP]
 ¡Eficacia mejorada!
@@ -58734,9 +58441,6 @@ REINICIAR NIVEL
 
 [RESTART_LEVEL_HEADER]
 ¿Reiniciar nivel?
-
-[RESTART_LEVEL_USE_STAMINA]
-¿Está seguro que quieres reiniciar este nivel? Se necesita un poco de Estamina para empezar de nuevo.
 
 [RESTORE_LOST_ERROR_BODY]
 Este pedido no se puede completar, por favor inténtalo de nuevo la próxima vez que inicies sesión en el juego.
@@ -68348,15 +68052,6 @@ Nivel 3
 [STALLIA_TOOLTIP]
 Ralentiza zombis de líneas cercanas
 
-[STAMINA_NOT_ENOUGH_DIALOG_TEXT]
-¿Comprar más Estamina?
-
-[STAMINA_NOT_ENOUGH_DIALOG_TITLE]
-Estamina insuficiente
-
-[STAMINA_STORE]
-Estamina
-
 [STARCHALLENGE_25_BEACH_FINALE_NAME]
 Playa de la Gran Ola - Día Final
 
@@ -70627,13 +70322,10 @@ La Tienda de Piedra
 Compra un paquete de plantas
 
 [STORE_CATEGORY_NAME_PLANT_SPECIAL_OFFER_SHORT_DESC]
-Paquete de plantas
-
-[STORE_CATEGORY_NAME_PVP_COINS]
-Monedas Estelares
+: Paquete de plantas
 
 [STORE_CATEGORY_NAME_PVZ1MODE_TIME_ENERGY]
-Estabilizador del espacio-tiempo
+: Estabilizador temporal
 
 [STORE_CATEGORY_NAME_REDPACK]
 : Sobres rojos
@@ -70705,16 +70397,13 @@ Paquete Top
 Mapa del tesoro prémium
 
 [STORE_CATEGORY_NAME_SECRET_TREASURE_SHORT_DESC_6]
-Compra el mapa del tesoro prémium para obtener permisos avanzados de recompensas por tiempo limitado.
-
-[STORE_CATEGORY_NAME_STAMINA]
-Estamina
+Compra el mapa del tesoro prémium para obtener privilegios exclusivos
 
 [STORE_CATEGORY_NAME_SUNS]
 Soles
 
 [STORE_CATEGORY_NAME_TREASURE_DESC]
-: Tesoro de Penny
+Tesoro de Penny
 
 [STORE_CATEGORY_NAME_TREASURE_SHORT_DESC]
 Es posible obtener todas las plantas aquí.
@@ -76681,7 +76370,7 @@ Consigue el Súper-Atuendo de la planta destacada
 Colecciona todos los Atuendos de la planta destacada
 
 [TOYNIGHT_TITLE]
-Fiesta de disfraces
+Paquete de juguetes
 
 [TOYS_HEAD_DES_ID_25327]
 A quienes participaron en la 1ra temporada del evento: Fiesta de disfraces
@@ -76758,33 +76447,33 @@ Alianza Transformers
 [TOY_NIGHT_CHANCE_TABLE]
 • Bolsa de premios:
 
-ARTÍCULO                  CANTIDAD              PROBABILIDAD
-------------------------------------------------------------
-Súper-atuendo             1                     2,22%
-Piezas de juguete         1.300                 2,78%
-Piezas de juguete         700                   5,55%
-Piezas de juguete         500                   11,10%
-Joyas                     1.888                 39,18%
-Boleto de Penny           10                    39,18%
+ARTÍCULO                       CANTIDAD             PROBABILIDAD
+----------------------------------------------------------------
+Súper-atuendo                        1                 2,22%
+Cristal de super-atuendo         1.300                 2,78%
+Cristal de super-atuendo           700                 5,55%
+Cristal de super-atuendo           500                11,10%
+Joyas                            1.888                39,18%
+Boleto de Penny                     10                39,18%
 
 [TOY_NIGHT_CHANCE_TABLE2]
 • Tabla de recompensas:
 
-ARTÍCULO                  CANTIDAD              PROBABILIDAD
-------------------------------------------------------------
-Súper-atuendo             1                     0,17%
-Piezas de juguete         1.300                 0,21%
-Piezas de juguete         700                   0,43%
-Piezas de juguete         500                   0,85%
-Piezas de juguete         100                   3,00%
-Piezas de juguete         50                    5,00%
-Piezas de juguete         20                    12,00%
-Piezas de juguete         10                    36,00%
-Insignia                  1                     2.09%
-Atuendo                   1                     2.00%
-Cupón de Atuendos         500                   2.50%
-Cupón de Atuendos         100                   15,75%
-Boleto de Penny           1                     20,00%
+ARTÍCULO                      CANTIDAD              PROBABILIDAD
+----------------------------------------------------------------
+Súper-atuendo                        1                 0,17%
+Cristal de super-atuendo         1.300                 0,21%
+Cristal de super-atuendo           700                 0,43%
+Cristal de super-atuendo           500                 0,85%
+Cristal de super-atuendo           100                 3,00%
+Cristal de super-atuendo            50                 5,00%
+Cristal de super-atuendo            20                12,00%
+Cristal de super-atuendo            10                36,00%
+Insignia                             1                 2.09%
+Atuendo                              1                 2.00%
+Cupón de Atuendos                  500                 2.50%
+Cupón de Atuendos                  100                15,75%
+Boleto de Penny                      1                20,00%
 
 [TOY_NIGHT_EXPIRED]
 Los premios han expirado.
