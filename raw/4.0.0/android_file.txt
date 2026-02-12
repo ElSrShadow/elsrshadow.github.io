@@ -5301,7 +5301,7 @@ Celebra el Festival de Primavera con estos disfraces tradicionales
 Todo niño sueña con estos disfraces
 
 [AVATARCOLLECTIONS_THEME_DES3]
-Siente el terror con estos atuendos
+Siente el terror
 
 [AVATARCOLLECTIONS_THEME_DES4]
 Plantas con la tecnología más moderna
@@ -5316,7 +5316,7 @@ Convierte tus plantas en juguetes
 Atuendos para los más refinados
 
 [AVATARCOLLECTIONS_THEME_DES8]
-¡Mil años de unidad!
+Expertos en combate
 
 [AVATARCOLLECTIONS_THEME_DES9]
 ¿A quién no les gusta las bromas?
@@ -5325,25 +5325,25 @@ Atuendos para los más refinados
 Héroes del Lejano Oriente
 
 [AVATARCOLLECTIONS_THEME_DES11]
-En honor a nuestra juventud perdida
+Los jóvenes son el futuro
 
 [AVATARCOLLECTIONS_THEME_DES12]
 Magia y cosas raras
 
 [AVATARCOLLECTIONS_THEME_DES13]
-El calor es sofocante en pleno verano
+Para el calor de verano
 
 [AVATARCOLLECTIONS_THEME_DES14]
-Sumergidos entre el infinito mar azul
+Sumergidos en el mar azul
 
 [AVATARCOLLECTIONS_THEME_DES15]
-Que salvajes
+Surtido de disfraces
 
 [AVATARCOLLECTIONS_THEME_DES16]
-Atraviesa los confines del multiverso
+Explora el universo
 
 [AVATARCOLLECTIONS_THEME_DES17]
-Explora un sin fin de estrellas
+Maestros del difraz
 
 [AVATARCOLLECTIONS_THEME_DES18]
 Un invierno frío y gris
@@ -5397,13 +5397,13 @@ Fiesta de verano
 Mundo submarino
 
 [AVATARCOLLECTIONS_THEME_TITLE15]
-Evolución definitiva
+Miscelánea
 
 [AVATARCOLLECTIONS_THEME_TITLE16]
 El multiverso
 
 [AVATARCOLLECTIONS_THEME_TITLE17]
-La galaxia
+Fiesta de difraces
 
 [AVATARCOLLECTIONS_THEME_TITLE18]
 Invierno glacial
@@ -5423,7 +5423,7 @@ Catálogo de Atuendos
 SOBRE ESTA FUNCIÓN
 
 [AVATAR_BUTTON_CONTENT]
-Más Atuendos próximamente...
+Más atuendos próximamente...
 
 [AVATAR_ICONS_BASICS]
 Toca para seleccionar
@@ -5493,7 +5493,7 @@ Plantas legendarias: 400
 Plantas legendarias de tiempo limitado: 800
 
 [AVATAR_TICKET_TITLE]
-SOBRE LOS CUPONES DE EVENTO
+SOBRE LOS CUPONES DE ATUENDOS
 
 [AWAITING_AGE_VERIFICATION]
 ¡Sincronizando datos!
@@ -5526,10 +5526,10 @@ Lanza 10 jarrones que pueden contener Zombis con Nutrientes, Semillas de Plantas
 Lanzajarrones
 
 [AWARD_SCREEN_AVATAR_PLANT_LOCKED]
-La planta correspondiente a este Atuendo no se ha desbloqueado, ¡Así que ve y desbloquéala!
+La planta correspondiente a este Atuendo no se ha desbloqueado
 
 [AWARD_SCREEN_COSTUME_DESCRIPTION]
-¡Tu {PLANT} tiene un nuevo Atuendo!
+¡Tu {PLANT} tiene un NUEVO atuendo!
 
 [AWARD_SCREEN_DANGER_ROOM]
 ¡Zona de infinito activada!
@@ -6407,20 +6407,20 @@ Esmeralda
 ^397F24^Esmeraldas: {NUM}^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_1]
-^F5F5F5^El primer premio es para 1 persona.^oldclr^
-^F5F5F5^El ganador recibe hasta un ^08FF20^20% del total^oldclr^ ^F5F5F5^de recompensas^oldclr^
+^F2F2F2^El primer premio es para 1 persona.^oldclr^
+^F2F2F2^El ganador recibe hasta un ^08FF20^20% del total^oldclr^ ^F2F2F2^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_2]
-^F5F5F5^El segundo premio es para 2 personas.^oldclr^
-^F5F5F5^Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^F5F5F5^de recompensas^oldclr^
+^F2F2F2^El segundo premio es para 2 personas.^oldclr^
+^F2F2F2^Los ganadores reciben hasta un ^08FF20^10% del total^oldclr^ ^F2F2F2^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_3]
-^F5F5F5^El tercer premio es para 4 personas.^oldclr^
-^F5F5F5^Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^F5F5F5^de recompensas^oldclr^
+^F2F2F2^El tercer premio es para 4 personas.^oldclr^
+^F2F2F2^Los ganadores reciben hasta un ^08FF20^5% del total^oldclr^ ^F2F2F2^de recompensas^oldclr^
 
 [BATTLE_ORDER_LUCKY_REWARD_STRIP_4]
-^F5F5F5^El premio final es para 100 personas.^oldclr^
-^F5F5F5^Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^F5F5F5^de recompensas^oldclr^
+^F2F2F2^El premio final es para 100 personas.^oldclr^
+^F2F2F2^Los ganadores reciben hasta un ^08FF20^0.4% del total^oldclr^ ^F2F2F2^de recompensas^oldclr^
 
 [BATTLE_ORDER_MULTIREWARD_LIST]
 • Recompensas de selección múltiple:
@@ -13555,7 +13555,8 @@ Motívate y crea
 Tienda del Editor
 
 [CUSTOM_LEVEL_MOTIVATE_DESCRIPTION]
-Para obtener más información sobre los Puntos de la Creatividad, visita el Patio de la Creatividad. Puedes canjear dichos puntos por grandes premios, incluidas recompensas físicas.
+Para obtener más información sobre los Puntos de la Creatividad, visita el Patio de la Creatividad.
+Puedes canjear dichos puntos por grandes premios, incluidas recompensas físicas.
 
 [CUSTOM_LEVEL_MOTIVATE_GO_BUTTON]
 IR AL CREADOR
@@ -13567,8 +13568,7 @@ IR AL CREADOR
 No me gusta
 
 [CUSTOM_LEVEL_NO_REWARD]
-El tiempo de despacho es inferior a los 30 segundos.
-No puedes obtener más Monedas de Jugador por hoy.
+Ya obtuviste todas tus Monedas hoy.
 
 [CUSTOM_LEVEL_PLAY_COIN_FULL]
 Ya no puedes obtener más Monedas del Jugador por hoy.
@@ -13675,13 +13675,13 @@ Activar
 Desactivar
 
 [CUSTOM_LEVEL_SETTING_UNDER_REVIEW_TIPS]
-La certificación ha sido enviada. Espera pacientemente al resultado de la certificación.
+La certificación ha sido enviada. Espera el resultado pacientemente.
 
 [CUSTOM_LEVEL_SETTING_VERIFIED]
 (Usuario verificado)
 
 [CUSTOM_LEVEL_SHOP_BUY_CONFIRM1]
-¿Deseas gastar {NUMS} Monedas de la Creatividad para comprar este Artículo?
+¿Deseas gastar {NUMS} Monedas del Creador para comprar este Artículo?
 
 [CUSTOM_LEVEL_SHOP_BUY_CONFIRM2]
 ¿Deseas gastar {NUMS} Monedas del Jugador para comprar este Artículo?
@@ -23595,7 +23595,7 @@ Proporciona una ráfaga de soles instantánea
 Casia dorada
 
 [GOLDENCASSIA_AVATAR_NAME]
-Arreglo floral
+Velo de nubes
 
 [GOLDENCASSIA_AVATAR_PLANTFOOD_DESCRIPTION]
 Vuelve inmunes a las plantas de un área 3x3 alrededor mientras el efecto dure.
@@ -27433,29 +27433,12 @@ Perdiste, pero ¡todavía puedes guardar tu racha de premio para el siguiente en
 [JOUST_REWARD_STREAK_RETENTION_TITLE]
 ¡Guarda tu racha de premio!
 
-[JOUST_SEASON_CURRENT_EVENT]
-Torneo actual
-
-[JOUST_SEASON_FEATURED_PLANT]
-Planta destacada
-
-[JOUST_SEASON_FUTURE_EVENT]
-Hasta el comienzo del torneo.
-
-[JOUST_SEASON_MATCH_ATTRIBUTES]
-Atributos de partida
-
-[JOUST_SEASON_NEXT_EVENT]
-Siguiente torneo
-
-[JOUST_SEASON_PREV_EVENT]
-¡Gracias por jugar!
-
 [JOUST_SELECT_TUTORIAL_1]
 Toca en "Jugar" para iniciar una partida
 
 [JOUST_STORE_REFRESH_AD]
-¿Deseas gastar {NUMBER} Monedas o ver un anuncio para ^FF0000 refrescar la Tienda ^oldclr? Te quedan {LEFT} anuncios por ver en el día de hoy.
+¿Deseas gastar {NUMBER} Monedas o ver un anuncio para ^FF0000^refrescar la Tienda^oldclr^?
+Te quedan {LEFT} anuncios por ver en el día de hoy.
 
 [JOUST_TOURNAMENT_ENDED]
 Torneo finalizado
@@ -27491,7 +27474,7 @@ Premios máximos de torneo por liga
 Sin premios
 
 [JOUST_TOURNAMENT_PLACEMENT_RESULT]
-Resultado del torneo
+Resultados: 
 
 [JOUST_TOURNAMENT_PLACEMENT_RESULT_FTUE]
 ¡Tienes 5 guanteletes para que empieces con buen pie!
@@ -28199,9 +28182,8 @@ RECARGAR
 Déjame pensarlo
 
 [LEVELEDITOR_SHOP_TIPS_DESC]
-1. Las Monedas de la Creatividad pueden obtenerse creando Niveles. Por cada 10 me gusta o 100 Reproducciones de un Nivel creado, recibirás 1 Moneda de la Creación, con un máximo de 20 Monedas por día.
-2. Las Monedas del Jugador pueden obtenerse jugando Niveles. Por cada Nivel superado, recibirás 6 Monedas del Jugador, con un máximo de 30 Monedas por día.
-3. Todos los días a las 12:00 AM se darán Monedas a los jugadores (se necesita estar conectado a Internet).
+1. Crea o juega Niveles para obtener Monedas que pueden canjearse en la tienda.
+2. También recibes monedas diarias, al calificar niveles o con reproducciones de nivel
 
 [LEVEL_EDITOR_ALL_ZOMBIE_LEVEL]
 Fuerza general de los Zombis
@@ -30107,10 +30089,10 @@ Se usa para añadir efectos adicionales a un Artefactos.
 Cubo de Energía
 
 [MAT_ARTIFACT_CUBE2]
-Cubo de Energía
+Cubo de Energía II
 
 [MAT_ARTIFACT_CUBE3]
-Cubo de Energía
+Cubo de Energía III
 
 [MAT_ARTIFACT_CUBE_GOT_WAY]
 Tienda de Intercambios de Penny, comprando Paquetes de Artefactos.
@@ -30122,10 +30104,10 @@ Se usa para Mejorar la Eficacia de los Artefactos.
 Tanque de Energía
 
 [MAT_ARTIFACT_VIAL2]
-Tanque de Energía
+Tanque de Energía II
 
 [MAT_ARTIFACT_VIAL3]
-Tanque de Energía
+Tanque de Energía III
 
 [MAT_ARTIFACT_VIAL_GOT_WAY]
 Tienda de Intercambios de Penny, comprando Paquetes de Artefactos.
@@ -30164,7 +30146,7 @@ Tienda de Atuendos.
 Se usa para canjear Atuendos de diferentes plantas en la Tienda.
 
 [MAT_BATTLE_ORDER_BLUE_ACCE0]
-Colgante raro x5
+Ficha de Colgante raro: x5
 
 [MAT_BATTLE_ORDER_BLUE_ACCE0_GOT_WAY]
 Campamento de verano.
@@ -30173,7 +30155,7 @@ Campamento de verano.
 Úsalos para canjear 5 Piezas de un Colgante raro de tu elección
 
 [MAT_BATTLE_ORDER_BLUE_ACCE1]
-Colgante raro x15
+Ficha de Colgante raro: x15
 
 [MAT_BATTLE_ORDER_BLUE_ACCE1_GOT_WAY]
 Campamento de verano.
@@ -30182,7 +30164,7 @@ Campamento de verano.
 Úsalos para canjear 15 Piezas de un Colgante raro de tu elección
 
 [MAT_BATTLE_ORDER_BLUE_PLANT0]
-Pieza rara x2
+Ficha de Planta rara: x2
 
 [MAT_BATTLE_ORDER_BLUE_PLANT0_GOT_WAY]
 Campamento de verano.
@@ -30191,7 +30173,7 @@ Campamento de verano.
 Úsalos para canjear 2 Piezas de una planta especial de tu elección
 
 [MAT_BATTLE_ORDER_BLUE_PLANT1]
-Pieza rara x6
+Ficha de Planta rara: x6
 
 [MAT_BATTLE_ORDER_BLUE_PLANT1_GOT_WAY]
 Campamento de verano.
@@ -30200,7 +30182,7 @@ Campamento de verano.
 Úsalos para canjear 6 Piezas de una planta rara de tu elección
 
 [MAT_BATTLE_ORDER_BLUE_PLANT2]
-Pieza rara x3
+Ficha de Planta rara: x3
 
 [MAT_BATTLE_ORDER_BLUE_PLANT2_GOT_WAY]
 Campamento de verano.
@@ -30209,7 +30191,7 @@ Campamento de verano.
 Úsalos para canjear 3 Piezas de una planta rara de tu elección
 
 [MAT_BATTLE_ORDER_BLUE_PLANT3]
-Pieza rara x9
+Ficha de Planta rara: x9
 
 [MAT_BATTLE_ORDER_BLUE_PLANT3_GOT_WAY]
 Campamento de verano.
@@ -30218,7 +30200,7 @@ Campamento de verano.
 Úsalos para canjear 9 Piezas de una planta especial de tu elección
 
 [MAT_BATTLE_ORDER_GREEN_PLANT0]
-Pieza especial x2
+Ficha de Planta especial: x2
 
 [MAT_BATTLE_ORDER_GREEN_PLANT0_GOT_WAY]
 Campamento de verano.
@@ -30227,7 +30209,7 @@ Campamento de verano.
 Úsalos para canjear 2 Piezas de una planta especial de tu elección
 
 [MAT_BATTLE_ORDER_GREEN_PLANT1]
-Pieza especial x6
+Ficha de Planta especial: x6
 
 [MAT_BATTLE_ORDER_GREEN_PLANT1_GOT_WAY]
 Campamento de verano.
@@ -30236,7 +30218,7 @@ Campamento de verano.
 Úsalos para canjear 6 Piezas de una planta especial de tu elección
 
 [MAT_BATTLE_ORDER_GREEN_PLANT2]
-Pieza especial x3
+Ficha de Planta especial: x3
 
 [MAT_BATTLE_ORDER_GREEN_PLANT2_GOT_WAY]
 Campamento de verano.
@@ -30245,7 +30227,7 @@ Campamento de verano.
 Úsalos para canjear 3 Piezas de una planta especial de tu elección
 
 [MAT_BATTLE_ORDER_GREEN_PLANT3]
-Pieza especial x9
+Ficha de Planta especial: x9
 
 [MAT_BATTLE_ORDER_GREEN_PLANT3_GOT_WAY]
 Campamento de verano.
@@ -30254,7 +30236,7 @@ Campamento de verano.
 Úsalos para canjear 9 Piezas de una planta especial de tu elección
 
 [MAT_BATTLE_ORDER_ORANGE_ACCE0]
-Colgante legendario x5
+Ficha de Colgante legendario: x5
 
 [MAT_BATTLE_ORDER_ORANGE_ACCE0_GOT_WAY]
 Campamento de verano.
@@ -30263,7 +30245,7 @@ Campamento de verano.
 Úsalos para canjear 5 Piezas de un Colgante legendario de tu elección
 
 [MAT_BATTLE_ORDER_ORANGE_ACCE1]
-Colgante legendario x15
+Ficha de Colgante legendario: x15
 
 [MAT_BATTLE_ORDER_ORANGE_ACCE1_GOT_WAY]
 Campamento de verano.
@@ -30272,7 +30254,7 @@ Campamento de verano.
 Úsalos para canjear 15 Piezas de un Colgante legendario de tu elección
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT0]
-Pieza legendaria
+Ficha de Planta legendaria
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT0_GOT_WAY]
 Campamento de verano.
@@ -30281,7 +30263,7 @@ Campamento de verano.
 Úsalos para canjear 1 Pieza de una planta legendaria de tu elección
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT1]
-Pieza legendaria x3
+Ficha de Planta legendaria: x3
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT1_GOT_WAY]
 Campamento de verano.
@@ -30290,16 +30272,16 @@ Campamento de verano.
 Úsalos para canjear 3 Piezas de una planta legendaria de tu elección
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT2]
-Pieza prémium
+Ficha de Planta exclusiva
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT2_GOT_WAY]
 Campamento de verano.
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT2_USE]
-Úsalos para canjear 1 Pieza de una planta legendaria principal
+Úsalos para canjear 1 Pieza de una planta de tiempo limitado
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT3]
-Pieza prémium x3
+Ficha de Planta exclusiva: x3
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT3_GOT_WAY]
 Campamento de verano.
@@ -30308,7 +30290,7 @@ Campamento de verano.
 Úsalos para canjear 3 Piezas de una planta legendaria principal
 
 [MAT_BATTLE_ORDER_POT_ACCE0]
-Maceta x5
+Ficha de Maceta: x5
 
 [MAT_BATTLE_ORDER_POT_ACCE0_GOT_WAY]
 Campamento de verano.
@@ -30317,7 +30299,7 @@ Campamento de verano.
 Úsalos para canjear 5 Piezas de una Maceta de tu elección
 
 [MAT_BATTLE_ORDER_POT_ACCE1]
-Maceta x15
+Ficha de Maceta: x15
 
 [MAT_BATTLE_ORDER_POT_ACCE1_GOT_WAY]
 Campamento de verano.
@@ -30326,7 +30308,7 @@ Campamento de verano.
 Úsalos para canjear 15 Piezas de una Maceta de tu elección
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE0]
-Colgante épico x5
+Ficha de Colgante épico: x5
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE0_GOT_WAY]
 Campamento de verano.
@@ -30335,7 +30317,7 @@ Campamento de verano.
 Úsalos para canjear 5 Piezas de un Colgante épico de tu elección
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE1]
-Colgante épico x15
+Ficha de Colgante épico: x15
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE1_GOT_WAY]
 Campamento de verano.
@@ -30344,7 +30326,7 @@ Campamento de verano.
 Úsalos para canjear 15 Piezas de un Colgante épico de tu elección
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT0]
-Pieza épica x2
+Ficha de Planta épica: x2
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT0_GOT_WAY]
 Campamento de verano.
@@ -30353,7 +30335,7 @@ Campamento de verano.
 Úsalos para canjear 2 Piezas de una planta épica de tu elección
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT1]
-Pieza épica x6
+Ficha de Planta épica: x6
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT1_GOT_WAY]
 Campamento de verano.
@@ -30362,7 +30344,7 @@ Campamento de verano.
 Úsalos para canjear 6 Piezas de una planta épica de tu elección
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT2]
-Pieza épica x3
+Ficha de Planta épica: x3
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT2_GOT_WAY]
 Campamento de verano.
@@ -30371,7 +30353,7 @@ Campamento de verano.
 Úsalos para canjear 3 Piezas de una planta épica de tu elección
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT3]
-Pieza épica x9
+Ficha de Planta épica: x9
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT3_GOT_WAY]
 Campamento de verano.
@@ -30380,7 +30362,7 @@ Campamento de verano.
 Úsalos para canjear 9 Piezas de una planta épica de tu elección
 
 [MAT_BATTLE_ORDER_SUPER_ACCE0]
-Super-colgante x5
+Ficha de Super-colgante: x5
 
 [MAT_BATTLE_ORDER_SUPER_ACCE0_GOT_WAY]
 Campamento de verano.
@@ -30389,7 +30371,7 @@ Campamento de verano.
 Úsalos para canjear 5 Piezas de un Súper-colgante de tu elección
 
 [MAT_BATTLE_ORDER_SUPER_ACCE1]
-Super-colgante x15
+Ficha de Super-colgante: x15
 
 [MAT_BATTLE_ORDER_SUPER_ACCE1_GOT_WAY]
 Campamento de verano.
@@ -30401,10 +30383,10 @@ Campamento de verano.
 Tique de temporada
 
 [MAT_BATTLE_ORDER_TICKET_GOT_WAY]
-Inicio de sesión diario, Tarjetas mensuales, Tronco de viaje
+Premios diarios, Tarjetas mensuales, Pase de batalla, Dueloz: Misiones de campaña
 
 [MAT_BATTLE_ORDER_TICKET_USE]
-Úsalos para completar misiones del Pase de Batalla.
+Úsalos para completar misiones del Pase de batalla.
 
 [MAT_BOSSRUSH_CRYSTAL]
 Cristal azul
@@ -30503,7 +30485,7 @@ Monedas de la Suerte insuficientes.
 Se usa para abrir Cofres en la Cornucopia.
 
 [MAT_CUSTOMLEVEL_CREATE_COIN]
-Monedas de la Creatividad
+Monedas del Creador
 
 [MAT_CUSTOMLEVEL_PLAY_COIN]
 Monedas del Jugador
@@ -30707,13 +30689,13 @@ Piezas nacionales
 Medalla nacional
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN]
-Moneda de amatista
+Moneda de amatizta
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN_GOT_WAY]
 Dueloz.
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN_NOT_ENOUGH]
-Monedas de amatista insuficientes.
+Monedaz de amatista insuficientes.
 
 [MAT_NEW_PVP_PURPLE_GOLD_COIN_USE]
 Se usa para canjear artículos en la Tienda de Dueloz
@@ -30893,7 +30875,7 @@ Dimensión del Recuerdo.
 Se usa para canjear artículos especiales en La Tienda del Recuerdo.
 
 [MAT_PVZ1MODE_COIN_NOT_ENOUGH]
-Monedas del Recuerdo
+Monedas del Recuerdo insuficientes
 
 [MAT_PVZ1MODE_COIN_USE]
 Se usa para canjear artículos en La Tienda del Recuerdo.
@@ -30962,10 +30944,10 @@ Se usa para abrir Cofres en El Tesoro Secreto.
 Cristal del espacio-tiempo
 
 [MAT_SPACE_TIME_CRYSTAL2]
-Cristal del espacio-tiempo
+Cristal del espacio-tiempo II
 
 [MAT_SPACE_TIME_CRYSTAL3]
-Cristal del espacio-tiempo
+Cristal del espacio-tiempo III
 
 [MAT_SPACE_TIME_CRYSTAL_GOT_WAY]
 La Guía de Penny, Búsqueda de Penny, Tienda de Intercambios de Penny.
@@ -31151,7 +31133,7 @@ Jardín Zen.
 Plántalo para germinar una planta rara al azar.
 
 [MAT_ZMATCH_TICKET]
-Guanteletes
+Moneda Z
 
 [MAT_ZMATCH_TICKET_GOT_WAY]
 Batallaz.
@@ -32031,10 +32013,10 @@ Arrastra el carro de mina a una nueva ubicación
 El evento ha terminado.
 
 [MINIGAME_COLLECTION_HARD_LEVEL]
-Modo difícil
+Difícil
 
 [MINIGAME_COLLECTION_NORMAL_LEVEL]
-Modo normal
+Normal
 
 [MINIGAME_COLLECTION_SHORT_DESCRIPTION]
 ¡Compite jugando minijuegos divertidos y gana muchas recompensas!
@@ -32061,28 +32043,22 @@ Maratón de minijuegos
 El nivel está bloqueado
 
 [MINIGAME_ENTRANCE_TITLE]
-Juega a los eventos diarios del Festival de Minijuegos y obtén ^FFB400 Minimonedas que pueden canjearse en la ^27A800 Minitienda.
+Juega a los Minijuegos y obtén ^FFB400^Monedas^oldclr^ que pueden ^27A800^canjearse^oldclr^ en la Tienda
 
 [MINIGAME_HELP]
 Ayuda
 
-[MINIGAME_IMITATER]
-Adivina quien soy
-
-[MINIGAME_IMITATER_TOOLTIP]
-
-
 [MINIGAME_PERK_BOWLING]
-Añade 5 nueces al usarse y da más Nueces o Explotonueces durante 10 segundos. Se puede usar {NUMBER} veces.
+Añade 5 nueces al usarse y da más Nueces o Explotonueces durante 10 s. Usos: {NUMBER}
 
 [MINIGAME_PERK_GAME_COIN_INCREASED]
-Aumenta la energía de refuerzo obtenida al final del nivel en un {NUMBER}%.
+Aumenta las Monedas obtenidas al final del nivel en un {NUMBER}%
 
 [MINIGAME_PERK_GAME_DURATION_INCREASED]
-La partida dura {NUMBER} segundos más.
+La partida dura {NUMBER} segundos más
 
 [MINIGAME_PERK_KILL_ALL_ZOMBIE_DESCRIPTION]
-Elimina a todos los zombis del patio. Se puede usar {NUMBER} veces.
+Elimina a todos los zombis del patio. Usos: {NUMBER}
 
 [MINIGAME_PERK_PLANTS_STATS_INCREASED_DESCRIPTION]
 Aumenta los atributos de las plantas en un {NUMBER3}%
@@ -32091,35 +32067,34 @@ Aumenta los atributos de las plantas en un {NUMBER3}%
 La velocidad de los zombis se reduce en un {NUMBER}%
 
 [MINIGAME_PERK_REFRESH_CARD]
-Reinicia el plantado y hace que el sombrero solo de plantas durante 10 segundos. Se puede usar {NUMBER} veces.
+Reinicia el plantado y hace que el sombrero solo de plantas por 10 s. Usos: {NUMBER}
 
 [MINIGAME_PERK_STUCK_ALL_ZOMBIE_DESCRIPTION]
-Cada 20 segundos, aturde a todos los zombis durante {NUMBER} segundos
+Cada 20 s, aturde a todos los zombis durante {NUMBER} s
 
 [MINIGAME_PERK_TEAM_SKY]
 Desbloquea nuevos escuadrones de plantas
 
 [MINIGAME_PERK_TIME_BACK]
-Retrocede el tiempo, revirtiendo 5 pasos. Se puede usar {NUMBER} veces.
+Retrocede el tiempo, revirtiendo 5 pasos. Usos: {NUMBER}
 
 [MINIGAME_PERK_XRAY]
-Revela todos los paneles de los Camellos durante 10 segundos. Se puede usar {NUMBER} veces.
+Revela todos los paneles de los Camellos durante 10 s. Usos: {NUMBER}
 
 [MINIGAME_RANK_NOTOPEN]
-Aún no te has clasificado en un Ranking.
+Sin clasificación
 
 [MINIGAME_RESULT]
 Ver resultados
 
 [MINIGAME_REWARD_RANK_TIP]
-¡Felicitaciones te has clasificadoo en el Ranking ^FF0000^ {RANK}^oldclr^ en el evento Festival de minijuegos!
+Tu clasificación: ^FF0000^{RANK}^oldclr^
 Como recompensa obtienes:
 
 [MINIGAME_RULE_TXT]
-1. El concurso de diversión está abierto de acuerdo con la hora del evento, por lo general 7 días por un período, circunstancias especiales se ajustarán para el primer período de tiempo.
-2. Durante el evento, a cada jugador se le darán 6 Boletos de desafío gratis y hasta 4 veces para el desafío.
-3. Tras completar el desafío, cada jugador obtendrá Minimonedas, las cuales, pueden ser canjeadas por Artículos en la Tienda de Minimonedas
-4. Los niveles de juego divertidos son el mundo actual del modo de juego pequeño, el pequeño juego original de accesorios se guardará en el divertido modo de competición.
+1. Diviértete jugando minijuegos y gana puntos mientras lo haces.
+2. Alcanza hitos mientras más puntos acumules para obtener Energía.
+3. Usa la energía obtenida para canjear premios en la Tienda.
 
 [MINIGAME_RULE_TXT2]
 Recompensas por clasificación
@@ -32134,7 +32109,7 @@ Festival de Minijuegos
 Ventaja - Muerte instantánea
 
 [MINI_GAME_PERK_NAME_MINI_GAME_COIN_INCREASED]
-Ventaja - Reserva energética
+Ventaja - Reserva de oro
 
 [MINI_GAME_PERK_NAME_MINI_GAME_DURATION_INCREASED]
 Ventaja - Tiempo extra
@@ -32164,25 +32139,25 @@ Ventaja - Aturdir zombis
 Ventaja - Lento pero seguro
 
 [MINI_GAME_T1]
-Antiguo Egipto - Memoria de momia
+Memoria de momia
 
 [MINI_GAME_T2]
-Mares Piratas - Cañones fuera
+Cañones fuera
 
 [MINI_GAME_T3]
-Ciudad Aérea - Cacería de zombis
+Cacería de zombis
 
 [MINI_GAME_T4]
-Futuro Lejano - Todos para uno
+Todos para uno
 
 [MINI_GAME_T5]
-Edad Oscura - Teatro del terror
+Teatro del terror
 
 [MINI_GAME_T6]
-Playa de la Gran Ola - Guacadrilo voráz
+Guacadrilo voráz
 
 [MINI_GAME_T7]
-Ciudad Perdida - Rompejarrones
+Rompejarrones
 
 [MINUTES]
 m
@@ -41481,10 +41456,10 @@ Atuendos
 Alo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_1]
-Sombrero de Año Nuevo
+Gorro próspero
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AGAVE_2]
-Sombrero a rayas
+Sombrero formal
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AKEE_1]
 Pañuelo púrpura
@@ -41493,7 +41468,7 @@ Pañuelo púrpura
 Banderín de flores
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ALOES_2]
-Moño de aniversario
+Moño verde
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ALOES_3]
 DJ Aloe
@@ -41508,7 +41483,7 @@ Prosperidad copiosa
 Tetera
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ANIMNUTS_2]
-Hydra
+Lazo rojo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_APPLEMORTAR_1]
 Traje de algodón
@@ -41541,13 +41516,13 @@ Perlas negras
 Bufanda colorida
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_2]
-Grandes aros
+Aretes grandes
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_3]
 Medalla Z
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BIRTHSUNFLOWER_4]
-Dulce pastel
+Girasol de pastel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BLOOMERANG_1]
 Sombrero
@@ -41556,13 +41531,13 @@ Sombrero
 Rasta
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BLOOMINGHEARTS_1]
-Banda púrpura
+Bandana púrpura
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_1]
-Cinturón de Año Nuevo
+Pechera tigre
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_2]
-Sombrero de las Riquezas
+Sombrero mandarín
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_3]
 Vendaje de momia
@@ -41589,16 +41564,16 @@ Vestido
 Vestido radiante
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_1]
-Casco de béisbol
+Casco
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_2]
-Atuendo cómico
+Comediantes
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_3]
 Demonios del Oeste
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CABBAGEPULT_1]
-Gorra de Año Nuevo
+Gorro festivo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CABBAGEPULT_2]
 Banda colorida
@@ -41655,7 +41630,7 @@ Sombrero de copa
 Cono de helado
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_2]
-Año del Bocadragón Gélido
+Nudo chino
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COLDSNAPDRAGON_3]
 Traje invernal
@@ -41697,10 +41672,10 @@ Plataforma
 Orejas de gato
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DOOMSHROOM_1]
-Dr. Doom
+Lentes y toga
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_1]
-Traje de Chenwu
+Chenwu
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRACAENA_2]
 Chaqueta estrella
@@ -41721,7 +41696,7 @@ Barba blanca
 Maestro
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DRAGONROAR_1]
-Antenas
+Tapones
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DUSKLOBBER_1]
 Sombrero elegante
@@ -41730,7 +41705,7 @@ Sombrero elegante
 Visor cinturado
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EAGLECLAW_2]
-Pila energética
+Batería
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EGGPLANTNINJA_1]
 Corona navideña
@@ -41742,7 +41717,7 @@ Curita
 Ninja urbano
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_1]
-Corona de rey
+Reina del bádminton
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELAEOCARPUS_2]
 Corona de flores
@@ -41757,7 +41732,7 @@ Tomacorrientes
 Bombilla azul
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEASHOOTER_1]
-Audífonos Guisante
+Audífonos guisante
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEASHOOTER_2]
 Gafa futurista
@@ -41796,7 +41771,7 @@ Gafas de fiesta
 Diosa serpiente
 
 [NEW_AVATAR_SHORT_DESCRIPTION_EYWA_2]
-Serpiente marina
+Flor amarilla
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FIRECRACKERFLOWER_1]
 Petardos de reserva
@@ -41823,10 +41798,10 @@ Guantes
 Sombrero de pájaro
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_1]
-Gorra de Subway Surfers
+Gorra de Jake
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_2]
-Gato mecánico
+Cibergato
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_3]
 Auriculares
@@ -41835,13 +41810,13 @@ Auriculares
 Alquimista de metal
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GERANIIFENCER_1]
-Traje Menshen
+Menshen
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GHOSTPEPPER_1]
 Linterna china
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_1]
-Caja enojada
+Caja de cartón
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_2]
 Dragón de juguete
@@ -41850,10 +41825,10 @@ Dragón de juguete
 Caballo blanco
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_1]
-Gorra de aniversario
+Gorra colorida
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GOLDBLOOM_2]
-Bola
+Pompones dorados
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GRAPESHOT_1]
 Globos de fiesta
@@ -41901,13 +41876,13 @@ Piñata colorida
 Tarta y velas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HORSEBEAN_1]
-Abanico de juguete
+Railete
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HORSEBEAN_2]
-Placa Need for Speed
+Placa NFS
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HORSEBEAN_3]
-Traje de pirata
+Bandera pirata
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HOYACORDATA_1]
 Gorra de Santa
@@ -41946,10 +41921,10 @@ Bufanda
 Gafas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_1]
-Cinta año del Conejo
+Talismán
 
 [NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_2]
-Pera exorcista
+Vara ritual
 
 [NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_1]
 Gafas de carnaval
@@ -41970,10 +41945,10 @@ Cinta girasol
 Reloj y cadena
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KERNELPULT_1]
-Traje elegante negro
+Traje negro
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KERNELPULT_2]
-Bandita roja
+Bandana roja
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIBEAST_1]
 Corona
@@ -41988,13 +41963,13 @@ Corona de globos
 Bufanda roja
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_3]
-Sun Wukong
+Traje de Tambor
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
 Rey Mono
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LANCERHOYA_1]
-Traje Menshen
+Menshen
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LANCERHOYA_2]
 Ñiño Rojo
@@ -42003,19 +41978,19 @@ Traje Menshen
 Cadenas de oro
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_2]
-Sombrero de juguete
+Sombrero hélice
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_3]
-Sombrero de aniversario
+Gorro de fiesta
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LASER_BEAN_4]
 Frijol demoniaco
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LAVAGUAVA_1]
-Flores hawaianas
+Lei
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LEMON_1]
-Muérdago con cuernos
+Rodolfo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_1]
 Orejitas de conejo
@@ -42024,7 +41999,7 @@ Orejitas de conejo
 Sombrero
 
 [NEW_AVATAR_SHORT_DESCRIPTION_LILYPAD_1]
-Disfraz de rana
+Rana
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MAGNETSHROOM_1]
 Sinan
@@ -42036,31 +42011,31 @@ Sombrero de copa
 Corona de juguete
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_1]
-Casco de bádminton
+Casco rosa
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_2]
-Traje de deportes
+Ciclista
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_1]
 Gorro punteado
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_2]
-Señal energética
+Señal de carreras
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_3]
 Traje elegante
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_4]
-Señal de tránsito
+Meca
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_1]
 Katana
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_2]
-Gorro de espadachín
+Cinta negra
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MAPLEBLADE_3]
-Gafas de sol
+Gafas retro
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MATCHFLOWER_1]
 Capa roja
@@ -42069,10 +42044,10 @@ Capa roja
 Gran soldado
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MEGAGATLING_2]
-Viajero
+Jugador retro
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MELONPULT_1]
-Sombrero de marinero
+Marinero
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MELONPULT_2]
 Caja de juguete
@@ -42084,7 +42059,7 @@ Sombrero negro
 Bufanda
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MISSILETOE_2]
-Trenzas de aniversario
+Trenzas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MISSILETOE_3]
 Bruja del hielo
@@ -42108,7 +42083,7 @@ Gafas chistosas
 Parche pirata
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_3]
-Disfraz de pirata
+Bucanero
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MULBERRY_4]
 Gólem de lava
@@ -42129,7 +42104,7 @@ Capa morada
 Mochila
 
 [NEW_AVATAR_SHORT_DESCRIPTION_NUKELAUNCHER_1]
-Señal de construcción
+Valla de seguridad
 
 [NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_1]
 Diadema de pluma
@@ -42138,7 +42113,7 @@ Diadema de pluma
 Gafas locas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ORCHIDMAGE_1]
-Corona de reina
+Reina del vacío
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ORCHIDMAGE_2]
 Capa mágica
@@ -42153,7 +42128,7 @@ Kongming
 Mostacho
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PARSNIP_1]
-Atuendo de Cangrejo
+Disfraz de cangrejo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEACH_1]
 Flor cascabel
@@ -42165,22 +42140,22 @@ Gafas 3D
 Gorro de felpa
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEASHOOTER_1]
-Gorro de Año Nuevo
+Gorro lunar
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEASHOOTER_2]
 Traje navideño
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEASHOOTER_3]
-Gorra hacia atrás
+Gorra P
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PEONYCHI_1]
 Traje de combate
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PHATBEET_1]
-Bufanda año del Conejo
+Bufanda lunar
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PINECONE_1]
-Gorra año del Conejo
+Gorra festiva
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_1]
 Monóculo
@@ -42204,7 +42179,7 @@ Ojos locos
 Petardo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POWERLILY_1]
-Flores de aniversario
+Flores
 
 [NEW_AVATAR_SHORT_DESCRIPTION_POWERPLANT_1]
 Rábano cósmico
@@ -42213,7 +42188,7 @@ Rábano cósmico
 Gorro de ducha
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_2]
-Gorro de Año Nuevo
+Gorro lunar
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_3]
 Jarra
@@ -42222,13 +42197,13 @@ Jarra
 Jinyiwei
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_1]
-Cinta de policía
+Cinta policial
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALSUNFLOWER_1]
-Sombrero de dinosaurio
+Dinosaurio
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALSUNFLOWER_2]
-Maceta prehistorica
+Maceta prehistórica
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALWALLNUT_1]
 Traje de nadador
@@ -42243,13 +42218,13 @@ Helado derretido
 Telaraña
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUMPKINWITCH_2]
-Hombre de gengibre
+Hombre de jengibre
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PUMPKIN_1]
 Disfraz egipcio
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REDSTINGER_1]
-Sombrero militar
+Gorra militar
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_1]
 Sombrero de mapache
@@ -42261,7 +42236,7 @@ Casco vikingo
 Arquero
 
 [NEW_AVATAR_SHORT_DESCRIPTION_RHEUMNOBILE_1]
-Torre adornada
+Árbol navideño
 
 [NEW_AVATAR_SHORT_DESCRIPTION_RHEUMNOBILE_2]
 Guardián de la torre
@@ -42279,10 +42254,10 @@ Aros de oro
 Gafas triangulares
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SCAREDYSHROOM_1]
-Sombrero azul
+Gorro verde
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SEADERRIS_1]
-Sombrero marino
+Gorro de ducha
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SEADERRIS_2]
 Auriculares
@@ -42294,10 +42269,10 @@ Orejas de conejo
 Ornitorrinco
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SEASHROOM_1]
-Sombrero
+Sombrero de campo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_1]
-Sombrero de hechicería
+Sombrero de bruja
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_2]
 Sombrero amarillo
@@ -42318,7 +42293,7 @@ Casco vikingo
 Sombrero de copa
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNAPDRAGON_4]
-Año del Bocadragón
+Ruyi
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNAPDRAGON_5]
 Sombrero pirata
@@ -42330,16 +42305,16 @@ Orejeras de fiesta
 Bufanda
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_1]
-Sombrero de Trampero
+Trampero
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_2]
 Sombrero de invierno
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SNOWPEA_3]
-Sombrero Naraka
+Naraka
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPARTANBAMBOO_1]
-Estilo Espartano
+Traje lunar
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPIKEROCK_1]
 Lentes de sombra
@@ -42357,7 +42332,7 @@ Pañuelo rojo
 Barquito de papel
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPRINGBEAN_1]
-Vestimenta hawaiana
+Falda hawaiana
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SQUASH_1]
 Cinta verde
@@ -42366,7 +42341,7 @@ Cinta verde
 Banderín
 
 [NEW_AVATAR_SHORT_DESCRIPTION_STALLIA_1]
-Atuendo de tigre
+Disfraz de tigre
 
 [NEW_AVATAR_SHORT_DESCRIPTION_STARFRUIT_1]
 Afro
@@ -42384,10 +42359,10 @@ Corona de rosas
 Sombrero de bruja
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNFLOWER_4]
-Cinta navideña
+Cinta de regalo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNFLOWER_5]
-Cinta de regalo
+Trickie
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SUNSHROOM_1]
 Tang Monk
@@ -42405,19 +42380,19 @@ Traje de buzo
 Ollas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THREEPEATER_2]
-Sombreros de pingüinos
+Pingüinos
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_1]
-Cuernos año del Conejo
+Auriculares rayo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_THUNDERSNAPDRAGON_2]
-Año del Bocadragón Eléctrico
+Cuernos
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TIGERSTOOL_1]
 Delantal
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TIGERSTOOL_2]
-Imperio del dragón
+Caballero
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TOADSTOOL_1]
 Afro
@@ -42447,16 +42422,16 @@ Sombreros de copa
 Birasol infernal
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSUNFLOWER_3]
-Estrella púrpura
+Demonio púrpura
 
 [NEW_AVATAR_SHORT_DESCRIPTION_VANILLA_1]
 Sombrero de fiesta
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_1]
-Gorro navideño
+Barba de Santa
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_2]
-Barba de Santa
+Vendaje de momia
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_3]
 Patas de cangrejo
@@ -42483,22 +42458,22 @@ Velo
 Gafas corazón
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_2]
-Gelsemio tradicional
+Flecha de neón
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_3]
 Molino de viento
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_4]
-Molino de oro
+Molino oscuro
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WITCHHAZEL_1]
-Sombrero nocturno
+Gorro de siesta
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIZARDTHORNS_1]
-Flor de sombrero
+Flor rosa
 
 [NEW_AVATAR_SHORT_DESCRIPTION_XSHOT_1]
-Gafas binoculares
+Binoculares
 
 [NEW_AVATAR_SOURCE_ACTIVITY]
 Eventos
@@ -42576,22 +42551,22 @@ Filtro
 Confirmar selección
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_0]
-Distancia
+Tirador
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_1]
-Antigüedad
+Guerrero
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_2]
 Apoyo
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_3]
-Dureza
+Defensa
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_4]
-Soles
+Solar
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_5]
-Asesino
+Única
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_0]
 Común
@@ -42600,13 +42575,13 @@ Común
 Especial
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_2]
-Raro
+Rara
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_3]
-Épico
+Épica
 
 [NEW_PLANT_UI_SORT_BY_TYPE_RARE_4]
-Legendario
+Legendaria
 
 [NEW_PLANT_UI_SORT_BY_VALUE_BTN_TEXT]
 Ordenar
@@ -42636,7 +42611,7 @@ Nivel
 ¿Seguro que quieres volver a la interfaz nueva?
 
 [NEW_PLANT_UI_SWITCH_TO_OLD]
-¿Seguro que quieres volver a la interfaz anterior?
+¿Seguro que quieres volver a la interfaz antigua?
 
 [NEW_PLANT_UI_TAB_ACCESSORY_TEXT]
 Colgante
@@ -42712,64 +42687,64 @@ No hay Atuendos equipados
 DETALLES
 
 [NEW_PVP_AREA_GUIDE_DOOR_DESCRIPTION]
-Aparecerán varios túneles en el jardín, si un zombi entra, saldrá directamente en el otro lado.
+Aparecen pasadizos secretos que guian zombis hacia tu cerebro
 
 [NEW_PVP_AREA_GUIDE_DOOR_NAME]
-Escenario con túneles
+Pasadizos secretos
 
 [NEW_PVP_AREA_MERGE_DESCRIPTION]
-Cuando aparecen 3 o más zombis del mismo tipo en el patio, se fusionarán en uno más grande con más salud y daño.
+Tres zombis del mismo tipo se fusionan en uno grande con más salud y daño
 
 [NEW_PVP_AREA_MERGE_NAME]
-Escenario de fusión
+Fusión MEGA
 
 [NEW_PVP_AREA_MIST_DESCRIPTION]
-El jardín se encuentra cubierto en niebla, la cual esconderá la ubicación de zombis y plantas.
+Una niebla espesa dificulta la visión para zombis y plantas
 
 [NEW_PVP_AREA_MIST_NAME]
-Escenario nublado
+Niebla de batalla
 
 [NEW_PVP_AREA_NONE_DESCRIPTION]
-No hay ningún obstaculo adicional
+No hay cambios
 
 [NEW_PVP_AREA_NONE_NAME]
-Escenario predeterminado
+Normal
 
 [NEW_PVP_AREA_SLIDER_DESCRIPTION]
-Aparecerán baldosas con flotadores que deslizarán a los zombis en la dirección indicada.
+Aparecerán balsodas que desplazan zombis en la dirección indicada
 
 [NEW_PVP_AREA_SLIDER_NAME]
-Escenario con baldosas deslizantes
+Baldosas flotantes
 
 [NEW_PVP_AREA_SUN_TILE_DESCRIPTION]
-Aparecen casillas doradas por el patio.
+Aparecen casillas doradas por el patio
 
 [NEW_PVP_AREA_SUN_TILE_NAME]
-Casilla dorada
+Casillas doradas
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_0]
 Escoge las Piezas de Atuendos
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_1]
-Paquete de Atuendo - Calabaza
+Caja: Calabaza
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_2]
-Paquete de Atuendo - Enredadera poderosa
+Caja: Enredadera poderosa
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_3]
-Paquete de Atuendo - Enredadera guisante
+Caja: Enredadera guisante
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_4]
-Paquete de Atuendo - Enredadera reluciente
+Caja: Enredadera reluciente
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_5]
-Paquete de Atuendo - Enredadera candelera
+Caja: Enredadera candelera
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_6]
-Paquete de Atuendo - Enredaderas
+Caja de Enredaderas
 
 [NEW_PVP_BATTLE_PASS_REWARD_BOX_7]
-Paquete de Atuendos - Enredaderas II
+Caja de Enredaderas II
 
 [NEW_PVP_BATTLE_PASS_SELECT_CONFIRM]
 ¿Seguro que quieres seleccionar esta recompensa?
@@ -42778,7 +42753,7 @@ Paquete de Atuendos - Enredaderas II
 ¡Elige una de las siguientes Piezas!
 
 [NEW_PVP_BATTLE_PASS_SELECT_TITLE]
-Paquete de enredaderas
+Caja de enredaderas
 
 [NEW_PVP_CHEST_REWARD_TITLE_DAILY]
 ¡Consigue cofres diarios!
@@ -42799,7 +42774,7 @@ Abrir
 4. El progreso de temporada se restablece, reclama tus premios cuanto antes.
 
 [NEW_PVP_DUAN_INFO_TITLE]
-Sobre los torneos
+SOBRE LOS TORNEOS
 
 [NEW_PVP_DUAN_RANDOM_1]
 Pieza de Colgante épico
@@ -42826,7 +42801,7 @@ Olla de cuarzo
 Olla de gran maestro
 
 [NEW_PVP_DUAN_TIPS]
-¡Completa ^ff0000^{NUM}^oldclr^ partidas esta temporada para desbloquear recompensas!
+¡Completa ^ff0000^{NUM}^oldclr^ partidas esta temporada para ganar premios!
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_1]
 ¡La sala no existe!
@@ -42850,22 +42825,22 @@ AVISOS
 Confirmar
 
 [NEW_PVP_FREE_TO_PLAY_AREA_TITLE]
-Selección del mundo
+Selecciona una temática
 
 [NEW_PVP_FREE_TO_PLAY_JOIN_CONFIRM]
-Unirse
+UNIRSE
 
 [NEW_PVP_FREE_TO_PLAY_JOIN_TITLE]
 Unirse a una sala
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM]
-Crear sala
+NUEVA
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_CREATE_ROOM_TITLE]
-Crear una sala
+Crear o unirse a una sala
 
 [NEW_PVP_FREE_TO_PLAY_MAIN_JOIN_ROOM]
-Unirse a sala
+UNIRSE
 
 [NEW_PVP_FREE_TO_PLAY_MATCHING_SCREEN_BTN_COPY]
 COPIAR
@@ -42886,25 +42861,25 @@ Editar
 EXPULSAR
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE]
-^oldclr ^00FF00 Preparándose ^oldclr
+^oldclr^ ^00FF00^Preparándose^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_HOST]
-El anfitrión^oldclr ^00FF00 está preparándose ^oldclr
+El anfitrión^oldclr^ ^00FF00^está preparándose^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_OPPONENT]
-El invitado^oldclr ^00FF00 está preparándose ^oldclr
+El invitado^oldclr^ ^00FF00^está preparándose^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY]
-^oldclr ^00FF00 Listo ^oldclr
+^oldclr^ ^00FF00^Listo^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_HOST]
-El anfitrión^oldclr ^00FF00 está listo ^oldclr
+El anfitrión^oldclr ^00FF00^está listo^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_OPPONENT]
-El invitado^oldclr ^00FF00 está listo ^oldclr
+El invitado^oldclr ^00FF00^está listo^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_WAITING]
-^00FF00 En espera ^oldclr
+^00FF00^En espera^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_TITLE_GUEST]
 Invitado
@@ -42913,19 +42888,19 @@ Invitado
 Anfitrión
 
 [NEW_PVP_IN_GAME_PLANT_UNLOCKED_TIPS]
-¡Se desbloqueará en el turno {NUMBER}!
+Se desbloquea en el turno {NUMBER}
 
 [NEW_PVP_LEVEL_NAME]
 Dueloz
 
 [NEW_PVP_MAIN_VIEW_AREA_HOW_TO_PLAY_TITLE]
-Descripción del tema
+TEMÁTICAS
 
 [NEW_PVP_MAIN_VIEW_CANCEL_MATCHING]
-Cancelar
+CANCELAR
 
 [NEW_PVP_MAIN_VIEW_COMPETITIVE_MODE_BTN]
-Emparejamiento Competitivo
+VERSUS
 
 [NEW_PVP_MAIN_VIEW_COUNTDOWN_TEXT]
 {TIME}
@@ -42934,11 +42909,10 @@ Emparejamiento Competitivo
 La temporada ha terminado
 
 [NEW_PVP_MAIN_VIEW_DISCONNECT_TEXT]
-Error de conexión: no se ha podido conectar con el servidor.
-Comprueba tu conexión a Internet.
+No se pudo conectar con los servidores, comprueba tu conexión a Internet.
 
 [NEW_PVP_MAIN_VIEW_DISCONNECT_TITLE]
-Consejos
+¡Sin conexión a Internet!
 
 [NEW_PVP_MAIN_VIEW_ESTIMATED_QUEUEING_TIME]
 Tiempo estimado: {TIME}
@@ -42947,40 +42921,41 @@ Tiempo estimado: {TIME}
 Tiempo estimado: {TIME}
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT]
-Oponente encontrado
+Oponente
+encontrado
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_1]
-¡Puedes mejorar tu producción solar!
+Mejora tu produción solar
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_2]
-El segundo campo es del oponente
+Defiende tu patio
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_3]
-Solo puedes plantar en tu propio campo
+No olvides poner tus plantas
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_4]
-¡Recuerda seguir usando habilidades para mejora tus zombis!
+Puedes mejorar a tus zombis
 
 [NEW_PVP_MAIN_VIEW_FOUND_OPPOENT_TIPS_DEFAULT]
-¡Recuerda seguir lanzando zombis a tus oponentes!
+Abruma a tus oponentes con zombis
 
 [NEW_PVP_MAIN_VIEW_FPS]
 FPS: {NUM}
 
 [NEW_PVP_MAIN_VIEW_FPS_LAST_GAME_INVALID_WARNING]
-^FF0000 Tus FPS fueron muy bajos en multiples partidas recientes, por lo que descontamos esta partida^oldclr^
-Limpia o cambia tu dispositivo.
+Tus FPS fueron muy bajos en las últimas partidas, por lo que descontamos esta.
+^D22808^Limpia o cambia tu dispositivo.^oldclr^
 
 [NEW_PVP_MAIN_VIEW_FPS_LAST_GAME_WARNING]
-^FF0000 Tus FPS fueron muy bajos en tu última partida^oldclr^
-Limpia o cambia tu dispositivo.
+Tus FPS fueron muy bajos en tu última partida.
+^D22808^Limpia o cambia tu dispositivo.^oldclr^
 
 [NEW_PVP_MAIN_VIEW_FPS_WARNING]
-^FF0000 Los FPS del juego son demasiado bajos, no es posible jugar en línea^oldclr^
-Limpia o cambia tu dispositivo.
+Los FPS del juego son demasiado bajos, no es posible jugar
+^D22808^Limpia o cambia tu dispositivo.^oldclr^
 
 [NEW_PVP_MAIN_VIEW_LEISURE_MODE_BTN]
-Emparejamiento Casual
+CASUAL
 
 [NEW_PVP_MAIN_VIEW_MATCHING_OPPOENT]
 Buscando oponente: {TIME}
@@ -42989,7 +42964,7 @@ Buscando oponente: {TIME}
 Error al buscar partida
 
 [NEW_PVP_MAIN_VIEW_MATCHING_RESULT_TEXT_1]
-La última partida no terminó normalmente, espera a que el juego cargue y continue con normalidad.
+La última partida no terminó correctamente, espera a que el juego cargue y continue con normalidad.
 
 [NEW_PVP_MAIN_VIEW_MATCHING_RESULT_TEXT_2]
 Servidor en mantenimiento
@@ -42998,7 +42973,7 @@ Servidor en mantenimiento
 No se encuentra en partida
 
 [NEW_PVP_MAIN_VIEW_NOT_ENOUGH_SELECTED_PLANT]
-¡Selecciona al menos una planta para comenzar a emparejar!
+¡Selecciona al menos una planta para comenzar!
 
 [NEW_PVP_MAIN_VIEW_OVERVIEW_TEXT]
 Info
@@ -43010,40 +42985,41 @@ Info
 Demasiadas partidas, se pondrá en lista de espera
 
 [NEW_PVP_MAIN_VIEW_QUEUEING_TITLE]
-Consejo
+Esperando...
 
 [NEW_PVP_MAIN_VIEW_QUEUEING_WAITED_TIME]
-En espera: {TIME}
+Tiempo estimado: {TIME}
 
 [NEW_PVP_MAIN_VIEW_REPORT_BTN_OK]
-Reportar
+REPORTAR
 
 [NEW_PVP_MAIN_VIEW_REPORT_SUCCESS]
-Informe realizado correctamente
+Jugador reportado
 
 [NEW_PVP_MAIN_VIEW_REPORT_TEXT]
-¿Estás seguro de que el oponente está haciendo trampa en el juego?
+¿Deseas reportar a este jugador por hacer trampas?
 
 [NEW_PVP_MAIN_VIEW_REPORT_TITLE]
-Denunciar
+Reportar a un jugador
 
 [NEW_PVP_MAIN_VIEW_RETRY_MATCHING]
-Volver a emparejar
+Reintentar
 
 [NEW_PVP_MAIN_VIEW_SEASON_END_TIPS]
 La temporada actual ha terminado, espera a que comience la próxima.
 
 [NEW_PVP_MAIN_VIEW_START_MATCHING]
-Comenzar
+COMENZAR
 
 [NEW_PVP_MAIN_VIEW_SURRENDER_BTN_OK]
-Rendirse
+RENDIRSE
 
 [NEW_PVP_MAIN_VIEW_SURRENDER_TEXT]
-¿Quieres abandonar la partida?
+¿Seguro que quieres rendirte?
+Si abandonas la partida, contará como derrota.
 
 [NEW_PVP_MAIN_VIEW_SURRENDER_TITLE]
-Rendirse
+¿Rendirse?
 
 [NEW_PVP_MAIN_VIEW_THIRD_SEASON_TIPS]
 La temporada 3 ya está aquí, ¡estad atentos!
@@ -43070,170 +43046,71 @@ Ronda {NUMBER}
 Tienda de Dueloz
 
 [NEW_PVP_SHOP_BUY_CONFIRM]
-¿Quieres gastar {NUMS} Monedaz en este artículo?
+¿Quieres gastar {NUMS} Monedaz de Amatista en este artículo?
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_1]
-Carta Zombi Legendaria Aleatoria
+Cartas legendarias
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_2]
-Carta Zombi Rara Aleatoria
+Cartas raras
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_3]
-Carta Zombi Común Aleatoria
+Cartas comunes
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_4]
-Monedaz
+Monedaz de amatista
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_5]
-Diamantes
+Joyas
 
 [NEW_PVP_SHOP_INFO_DETAIL]
-Los artículols de la tienda se renuevan diariamente a las 00:00 (Hora China) y se restablece el límite de compra.
-Las Monedaz pueden obtenerse a través de cofres diarios y semanales, estas se pueden utilizar para comprar artículos de la tienda.
-Los cofres (normales y legendarios) de temporada suelen contener a los nuevos zombis de la temporada.
-Las recompensas del Cofre legendario de temporada son 310 cartas por un único Zombie común aleatorio, 100 cartas por un único Zombie raro, 5 cartas por un único Zombie legendario y 10 MonedaZ en las posibles recompensas.
-El cofre común de temporada recompensa con 50 cartas de un único zombi común aleatorio, 15 cartas de un único zombi raro, 3 Monedaz y 60 diamantes.
+1. Los artículos de la tienda se renuevan diariamente a las 00:00
+2. Las Monedaz de amatista se obtienen en cofres diarios y semanales, úsalas para canjear artículos
+3. Los cofres de temporada suelen contener a los nuevos zombis agregados en la temporada actual.
 
 [NEW_PVP_SHOP_INFO_TITLE]
-Reglas de las tienda de Dueloz
+SOBRE LA TIENDA DE DUELOZ
 
 [NEW_PVP_SHOP_ITEM_BUY_LIMIT]
-^ffff00^Límite:^oldclr^{NUM1}/{NUM2}
+Límite: ^ffff00^{NUM1}/{NUM2}^oldclr^
 
 [NEW_PVP_SHOP_ITEM_LOCK_DESCRIPTION]
 Bloqueado
 
 [NEW_PVP_SHOP_RECHARGE_CONFIRM]
-¿Gastar {NUMS} para comprar?
+¿Deseas comprar eso por {NUMS}?
 
 [NEW_PVP_SHOP_RESET_TIMER]
-Tiempo restante para reestablecer la tienda
+Se refresca en
 
 [NEW_PVP_TASK]
-Misión
+Misiones de campaña
 
 [NEW_PVP_TASK1]
-Actividad
+Campaña
 
 [NEW_PVP_TASK_DESCRIPTION]
-Reglas de la actividad:
+1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de EXP
+2. Las misiones diarias se refrescan al completarse, las mensuales se desbloquean con el tiempo.
+3. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Monedas VS.
+4. Las Monedas VS sirven para girar la Ruleta. Expiran en la próxima temporada, ¡úsalas cuanto antes!
+5. Podrás adquirir todos los premios de la ruleta al alcanzar el Nvl. 50 (requiere prémium).
+6. Activa el pase prémium para conseguir beneficios como experiencia, Monedas adicionales o plantas destacadas.
 
-[NEW_PVP_TASK_DESCRIPTION_19]
-Los jugadores obtienen EXP completantando desafíos diarios y semanales. Cada 1000 EXP se puede obtener el siguiente nivel, para así obtener más recompensas.
-Hay 3 desafíos diarios por día, solo se renovaran cuando se hayan completado.
-Las misisiones de 3, 4 semanas se desbloquean con el pasar del tiempo, pueden completarse hasta que termine la temporada.
-A medida que subas de nivel, las recompensas mejorarán. Los primeros 50 niveles poseen monedas de Dueloz. Después del nivel 50, puedes seguir subiendo para obtener más recompensas. Las recompensas se fijan en un ciclo de 10 niveles y luego no se obtendrán más monedas de Dueloz. Las monedas de Dueloz solo pueden utilizarse en la temporada actual, no se mantendrán para la próxima.
-Si posees beneficios premium, desbloquearas las recompensas premium, la EXP diaria y semanal aumenta en un 20% y obtendras 270 monedas de Dueloz y plantas de la temporada al instante.
-Utiliza tus monedas de Dueloz en la "Ruleta de la suerte" para obtener recompensas. A partir del nivel 50 (con beneficios premium), se puede obtener todo el contenido de la ruleta para un total de 20 objetos.
-Las recompensas de la ruleta solo pueden reclamarse una vez. Cuando se obtenga una recompensa, la probabilidad que tenía se asignará a otars no obtenidas. Las probabilidades de cada premio son:
-Oro 22.67%, Diamante 22.66%, Colgante 19.26%, Plantas Comúnes 11.33%, Plantas Raras 7.93%, Plantas Súper Raras 11.33%, Plantas Legendarias 2.49%, Súper Colgante 2.04%, Caja de enredaderas y trajes 0.23%, Libro Avanzado 0.06%.
+[NEW_PVP_TASK_DESCRIPTION_40]
+Temporada actual: 40
 
-[NEW_PVP_TASK_DESCRIPTION_20]
-Los jugadores obtienen EXP completantando desafíos diarios y semanales. Cada 1000 EXP se puede obtener el siguiente nivel, para así obtener más recompensas.
-Hay 3 desafíos diarios por día, solo se renovaran cuando se hayan completado.
-Las misisiones de 3, 4 semanas se desbloquean con el pasar del tiempo, pueden completarse hasta que termine la temporada.
-A medida que subas de nivel, las recompensas mejorarán. Los primeros 50 niveles poseen monedas de Dueloz. Después del nivel 50, puedes seguir subiendo para obtener más recompensas. Las recompensas se fijan en un ciclo de 10 niveles y luego no se obtendrán más monedas de Dueloz. Las monedas de Dueloz solo pueden utilizarse en la temporada actual, no se mantendrán para la próxima.
-Si posees beneficios premium, desbloquearas las recompensas premium, la EXP diaria y semanal aumenta en un 20% y obtendras 270 monedas de Dueloz y plantas de la temporada al instante.
-Utiliza tus monedas de Dueloz en la "Ruleta de la suerte" para obtener recompensas. A partir del nivel 50 (con beneficios premium), se puede obtener todo el contenido de la ruleta para un total de 20 objetos.
-Las recompensas de la ruleta solo pueden reclamarse una vez. Cuando se obtenga una recompensa, la probabilidad que tenía se asignará a otars no obtenidas. Las probabilidades de cada premio son:
-Oro 22.67%, Diamante 22.66%, Colgante 19.26%, Plantas Comúnes 11.33%, Plantas Raras 7.93%, Plantas Súper Raras 11.33%, Plantas Legendarias 2.49%, Súper Colgante 2.04%, Caja de enredaderas y trajes 0.23%, Libro Avanzado 0.06%.
-
-[NEW_PVP_TASK_DESCRIPTION_21]
-Los jugadores obtienen EXP completantando desafíos diarios y semanales. Cada 1000 EXP se puede obtener el siguiente nivel, para así obtener más recompensas.
-Hay 3 desafíos diarios por día, solo se renovaran cuando se hayan completado.
-Las misisiones de 3, 4 semanas se desbloquean con el pasar del tiempo, pueden completarse hasta que termine la temporada.
-A medida que subas de nivel, las recompensas mejorarán. Los primeros 50 niveles poseen monedas de Dueloz. Después del nivel 50, puedes seguir subiendo para obtener más recompensas. Las recompensas se fijan en un ciclo de 10 niveles y luego no se obtendrán más monedas de Dueloz. Las monedas de Dueloz solo pueden utilizarse en la temporada actual, no se mantendrán para la próxima.
-Si posees beneficios premium, desbloquearas las recompensas premium, la EXP diaria y semanal aumenta en un 20% y obtendras 270 monedas de Dueloz y plantas de la temporada al instante.
-Utiliza tus monedas de Dueloz en la "Ruleta de la suerte" para obtener recompensas. A partir del nivel 50 (con beneficios premium), se puede obtener todo el contenido de la ruleta para un total de 20 objetos.
-Las recompensas de la ruleta solo pueden reclamarse una vez. Cuando se obtenga una recompensa, la probabilidad que tenía se asignará a otars no obtenidas. Las probabilidades de cada premio son:
-Oro 22.67%, Diamante 22.66%, Colgante 19.26%, Plantas Comúnes 11.33%, Plantas Raras 7.93%, Plantas Súper Raras 11.33%, Plantas Legendarias 2.49%, Súper Colgante 2.04%, Caja de enredaderas y trajes 0.23%, Libro Avanzado 0.06%.
-
-[NEW_PVP_TASK_DESCRIPTION_22]
-Los jugadores obtienen EXP completantando desafíos diarios y semanales. Cada 1000 EXP se puede obtener el siguiente nivel, para así obtener más recompensas.
-Hay 3 desafíos diarios por día, solo se renovaran cuando se hayan completado.
-Las misisiones de 3, 4 semanas se desbloquean con el pasar del tiempo, pueden completarse hasta que termine la temporada.
-A medida que subas de nivel, las recompensas mejorarán. Los primeros 50 niveles poseen monedas de Dueloz. Después del nivel 50, puedes seguir subiendo para obtener más recompensas. Las recompensas se fijan en un ciclo de 10 niveles y luego no se obtendrán más monedas de Dueloz. Las monedas de Dueloz solo pueden utilizarse en la temporada actual, no se mantendrán para la próxima.
-Si posees beneficios premium, desbloquearas las recompensas premium, la EXP diaria y semanal aumenta en un 20% y obtendras 270 monedas de Dueloz y plantas de la temporada al instante.
-Utiliza tus monedas de Dueloz en la "Ruleta de la suerte" para obtener recompensas. A partir del nivel 50 (con beneficios premium), se puede obtener todo el contenido de la ruleta para un total de 20 objetos.
-Las recompensas de la ruleta solo pueden reclamarse una vez. Cuando se obtenga una recompensa, la probabilidad que tenía se asignará a otars no obtenidas. Las probabilidades de cada premio son:
-Oro 22.67%, Diamante 22.66%, Colgante 19.26%, Plantas Comúnes 11.33%, Plantas Raras 7.93%, Plantas Súper Raras 11.33%, Plantas Legendarias 2.49%, Súper Colgante 2.04%, Caja de enredaderas y trajes 0.23%, Libro Avanzado 0.06%.
-
-[NEW_PVP_TASK_DESCRIPTION_23]
-Los jugadores obtienen EXP completantando desafíos diarios y semanales. Cada 1000 EXP se puede obtener el siguiente nivel, para así obtener más recompensas.
-Hay 3 desafíos diarios por día, solo se renovaran cuando se hayan completado.
-Las misisiones de 3, 4 semanas se desbloquean con el pasar del tiempo, pueden completarse hasta que termine la temporada.
-A medida que subas de nivel, las recompensas mejorarán. Los primeros 50 niveles poseen monedas de Dueloz. Después del nivel 50, puedes seguir subiendo para obtener más recompensas. Las recompensas se fijan en un ciclo de 10 niveles y luego no se obtendrán más monedas de Dueloz. Las monedas de Dueloz solo pueden utilizarse en la temporada actual, no se mantendrán para la próxima.
-Si posees beneficios premium, desbloquearas las recompensas premium, la EXP diaria y semanal aumenta en un 20% y obtendras 270 monedas de Dueloz y plantas de la temporada al instante.
-Utiliza tus monedas de Dueloz en la "Ruleta de la suerte" para obtener recompensas. A partir del nivel 50 (con beneficios premium), se puede obtener todo el contenido de la ruleta para un total de 20 objetos.
-Las recompensas de la ruleta solo pueden reclamarse una vez. Cuando se obtenga una recompensa, la probabilidad que tenía se asignará a otars no obtenidas. Las probabilidades de cada premio son:
-Oro 22.67%, Diamante 22.66%, Colgante 19.26%, Plantas Comúnes 11.33%, Plantas Raras 7.93%, Plantas Súper Raras 11.33%, Plantas Legendarias 2.49%, Súper Colgante 2.04%, Caja de enredaderas y trajes 0.23%, Libro Avanzado 0.06%.
-
-[NEW_PVP_TASK_DESCRIPTION_24]
-Los jugadores obtienen EXP completantando desafíos diarios y semanales. Cada 1000 EXP se puede obtener el siguiente nivel, para así obtener más recompensas.
-Hay 3 desafíos diarios por día, solo se renovaran cuando se hayan completado.
-Las misisiones de 3, 4 semanas se desbloquean con el pasar del tiempo, pueden completarse hasta que termine la temporada.
-A medida que subas de nivel, las recompensas mejorarán. Los primeros 50 niveles poseen monedas de Dueloz. Después del nivel 50, puedes seguir subiendo para obtener más recompensas. Las recompensas se fijan en un ciclo de 10 niveles y luego no se obtendrán más monedas de Dueloz. Las monedas de Dueloz solo pueden utilizarse en la temporada actual, no se mantendrán para la próxima.
-Si posees beneficios premium, desbloquearas las recompensas premium, la EXP diaria y semanal aumenta en un 20% y obtendras 270 monedas de Dueloz y plantas de la temporada al instante.
-Utiliza tus monedas de Dueloz en la "Ruleta de la suerte" para obtener recompensas. A partir del nivel 50 (con beneficios premium), se puede obtener todo el contenido de la ruleta para un total de 20 objetos.
-Las recompensas de la ruleta solo pueden reclamarse una vez. Cuando se obtenga una recompensa, la probabilidad que tenía se asignará a otars no obtenidas. Las probabilidades de cada premio son:
-Oro 22.67%, Diamante 22.66%, Colgante 19.26%, Plantas Comúnes 11.33%, Plantas Raras 7.93%, Plantas Súper Raras 11.33%, Plantas Legendarias 2.49%, Súper Colgante 2.04%, Caja de enredaderas y trajes 0.23%, Libro Avanzado 0.06%.
-
-[NEW_PVP_TASK_DESCRIPTION_25]
-Los jugadores obtienen EXP completando desafíos diarios y semanales. Cada 1000 EXP se puede obtener el siguiente nivel, para así obtener más recompensas.
-Hay 3 desafíos diarios por día, solo se renovaran cuando se hayan completado.
-Las misisiones de 3, 4 semanas se desbloquean con el pasar del tiempo, pueden completarse hasta que termine la temporada.
-A medida que subas de nivel, las recompensas mejorarán. Los primeros 50 niveles poseen monedas de Dueloz. Después del nivel 50, puedes seguir subiendo para obtener más recompensas. Las recompensas se fijan en un ciclo de 10 niveles y luego no se obtendrán más monedas de Dueloz. Las monedas de Dueloz solo pueden utilizarse en la temporada actual, no se mantendrán para la próxima.
-Si posees beneficios premium, desbloquearas las recompensas premium, la EXP diaria y semanal aumenta en un 20% y obtendras 270 monedas de Dueloz y plantas de la temporada al instante.
-Utiliza tus monedas de Dueloz en la "Ruleta de la suerte" para obtener recompensas. A partir del nivel 50 (con beneficios premium), se puede obtener todo el contenido de la ruleta para un total de 20 objetos.
-Las recompensas de la ruleta solo pueden reclamarse una vez. Cuando se obtenga una recompensa, la probabilidad que tenía se asignará a otars no obtenidas. Las probabilidades de cada premio son:
-Oro 22.67%, Diamante 22.66%, Colgante 19.26%, Plantas Comúnes 11.33%, Plantas Raras 7.93%, Plantas Súper Raras 11.33%, Plantas Legendarias 2.49%, Súper Colgante 2.04%, Caja de enredaderas y trajes 0.23%, Libro Avanzado 0.06%.
-
-[NEW_PVP_TASK_DESCRIPTION_26]
-1. Los jugadores obtienen experiencia completando los desafíos diarios y las tareas de los 4 desafíos semanales. Cada 1.000 puntos de experiencia acumulados permiten subir al siguiente nivel y recibir las recompensas correspondientes.
-
-[NEW_PVP_TASK_DESCRIPTION_27]
-2. El límite de tareas diarias es de 3. Cada día se añaden 3 nuevas tareas, siempre que haya espacios libres disponibles. Las tareas añadidas no afectan el progreso de las tareas ya existentes.
-3. Las tareas semanales se desbloquean a lo largo de las 4 semanas del evento y pueden completarse en cualquier momento antes de que termine la temporada.
-
-[NEW_PVP_TASK_DESCRIPTION_28]
-4. Las recompensas se vuelven más generosas a medida que se sube de nivel. Las recompensas de los primeros 50 niveles incluyen monedas de duelo. Después de alcanzar el nivel 50, es posible seguir subiendo niveles, pero las recompensas se ajustan a un ciclo de 10 niveles y ya no incluyen monedas de duelo. Estas monedas solo pueden usarse durante la temporada actual y no se transfieren a la siguiente.
-5. Al activar los beneficios premium, se desbloquea la capacidad de reclamar recompensas avanzadas, se incrementa en un 20% la experiencia obtenida en las tareas diarias y semanales, y se reciben inmediatamente 270 monedas de duelo y la planta destacada de la temporada.
-
-[NEW_PVP_TASK_DESCRIPTION_29]
-6. Las monedas de duelo pueden usarse para participar en el "Ruleta de la suerte" y obtener valiosas recompensas. Al alcanzar el nivel 50 y activar los beneficios premium, es posible vaciar completamente el contenido de la ruleta del tesoro, que incluye 20 artículos en total.
-7. Cada recompensa de la ruleta del tesoro solo puede obtenerse una vez. Una vez que se obtiene una recompensa, su probabilidad se redistribuye entre las restantes.
-
-[NEW_PVP_TASK_DESCRIPTION_30]
-Cuando las 20 recompensas aún no han sido reclamadas, las probabilidades de obtención son:
-
-Monedas ----> 22.67%
-Joyas ----> 22.66%
-Colgantes ----> 19.26%
-Planta especial ----> 11.33%
-Planta rara ----> 7.93%
-Planta épica ----> 11.33%
-Planta legendaria ----> 2.49%
-Super-Colgantes ----> 2.04%
-Caja de Enredaderas ----> 0.23%
-Libro de avances ----> 0.06%
-
-[NEW_PVP_TASK_DESCRIPTION_31]
-{NEW_PVP_TASK_DESCRIPTION_30}
-
-[NEW_PVP_TASK_DESCRIPTION_32]
-{NEW_PVP_TASK_DESCRIPTION_31}
-
-[NEW_PVP_TASK_DESCRIPTION_33]
-{NEW_PVP_TASK_DESCRIPTION_32}
+[NEW_PVP_TASK_DESCRIPTION_41]
+Temporada actual: 41
 
 [NEW_PVP_TASK_DESCRIPTION_TITLE]
-SOBRE LAS MISIONES
+SOBRE LAS MISIONES DE CAMPAÑA
 
 [NEW_PVP_TASK_INTERGAL]
-Monedas de Dueloz
+Moneda VS
 
 [NEW_PVP_TASK_INTERGAL_TIPS]
-Tienes {NUM} Monedas de Dueloz
+^DB8117^Monedas VS: {NUM}^oldclr^
 
 [NEW_PVP_TASK_NAME_1_1]
 Juega 2 partidas
@@ -43311,7 +43188,7 @@ Coloca 40 plantas de Nivel 5
 Despliega 75 zombis con velocidad
 
 [NEW_PVP_TASK_NAME_2_11]
-Se el primero en dañar la base enemiga en 20 partidas.
+Se el primero en dañar la base enemiga en 20 partidas
 
 [NEW_PVP_TASK_NAME_2_12]
 Gana 5 partidas
@@ -43329,7 +43206,7 @@ Despliega 50 zombis con más salud
 Despliega 30 zombis en una sola partida
 
 [NEW_PVP_TASK_NAME_2_17]
-Consume 40000 soles
+Gasta 40.000 soles
 
 [NEW_PVP_TASK_NAME_2_18]
 Sube el nivel de tu girasol 40 veces
@@ -43341,52 +43218,52 @@ Coloca 50 plantas de nivel 1
 Despliega 25 zombis con estado descontrolado
 
 [NEW_PVP_TASK_TAB1]
-Desafíos de misión
+Misiones
 
 [NEW_PVP_TASK_TAB2]
-Nivel de actividad
+Premios
 
 [NEW_PVP_TASK_TAB3]
-Ruleta de la fortuna
+Ruleta
 
 [NEW_PVP_TRAINING_EDIT_NOT_UNLOCKED_TEXT]
-¡Esta tarjeta aún no se ha desbloqueado!
+¡Esta carta no se ha desbloqueado aún!
 
 [NEW_PVP_TRAINING_EDIT_NOT_UNLOCKED_TITLE]
 Bloqueado
 
 [NEW_PVP_TRAINING_LEVELUP_BATTLE_LABEL]
-Rareza: {RARE}   Tipo: {BATTLE_TYPE}
+Calidad: {RARE}            Tipo: {BATTLE_TYPE}
 
 [NEW_PVP_TRAINING_LEVELUP_BTN]
-Mejorar
+MEJORAR
 
 [NEW_PVP_TRAINING_LEVELUP_BTN_MAX]
-Nivel Máximo
+AL MÁX.
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_INSTANT_KILL]
-Eliminación instantánea
+Instantáneo
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_ATTACK_LABEL]
-Potencia de ataque
+Daño
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_COST_LABEL]
-Consumir soles
+Coste
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_HP_LABEL]
 Salud
 
 [NEW_PVP_TRAINING_LEVELUP_STATS_SPEED_LABEL]
-Velocidad de movimiento
+Velocidad
 
 [NEW_PVP_TRAINING_LEVELUP_TITLE]
-Mejora zombi
+Mejorar zombis
 
 [NEW_PVP_TRAINING_LEVELUP_UNLOCK_BTN]
-Desbloquear
+DESBLOQUEAR
 
 [NEW_PVP_TRAINING_LOWER_BACKGROUND_TITLE]
-Alineación de zombis
+Cartas zombi
 
 [NEW_PVP_TRAINING_PACKET_LEVEL_STR]
 Nvl. {NUMBER}
@@ -43398,13 +43275,13 @@ Nvl. {NUMBER}
 Guardado con éxito
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_BTN]
-Editar alineación
+EDITAR
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_SAVE_BTN]
-Guardar
+GUARDAR
 
 [NEW_PVP_TRAINING_UPPERBACKGROUND_TITLE]
-Lucha contra zombis
+Formación zombi
 
 [NEW_PVP_TUTORIAL_STEP_4]
 Planta un Junco eléctrico
@@ -43413,34 +43290,34 @@ Planta un Junco eléctrico
 Envía zombis a atacar
 
 [NEW_PVP_TUTORIAL_STEP_10]
-Activa la habilidad Aceleración Zombi
+Activa la Aceleración zombi
 
 [NEW_PVP_TUTORIAL_STEP_11]
 Envía Zombis mejorados
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_ATTACK]
-Ataque
+ATAQUE
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_HP]
-Salud
++ PS
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_INVISIBLE]
-Invisibilidad
+FURTIVO
 
 [NEW_PVP_UPGRADE_TEST_BUTTON_SPEED_UP]
-Acelerar
++ VEL.
 
 [NEW_PVP_UPGRADE_TIP_0]
-Los zombis aumentan su velocidad en un 50%.
+Los zombis aumentan su velocidad en un 50%
 
 [NEW_PVP_UPGRADE_TIP_1]
-Los zombis aumentan su PS en un 100%.
+Los zombis aumentan su salud en un 100%
 
 [NEW_PVP_UPGRADE_TIP_2]
-Los zombis son inmunes al control.
+Los zombis son inmunes a los efectos de control
 
 [NEW_PVP_ZOMBIE_CARD]
-Carta
+: Cartas
 
 [NEW_USER]
 NUEVO USUARIO
@@ -49739,12 +49616,6 @@ Nivel 5
 [PLANT_PROPERTY_BASE]
 Habilidades
 
-[PLANT_REACHED_LEVEL]
-¡{PLANT} alcanzó el nivel {LEVEL_NUMBER}!
-
-[PLANT_REACHED_MASTERY_LEVEL]
-¡{PLANT} alcanzó el nivel de maestría {LEVEL_NUMBER}!
-
 [PLANT_SEED_IN_ZEN_GARDEN]
 ¡Planta una semilla en el Jardín Zen!
 
@@ -49818,19 +49689,19 @@ Sanador
 Apoyo
 
 [PLANT_TAG_3]
-Reducir
+Debuf
 
 [PLANT_TAG_4]
-Rayo
+Solar
 
 [PLANT_TAG_6]
 Guisante
 
 [PLANT_TAG_7]
-Solar
+Producir
 
 [PLANT_TAG_8]
-Ataque grupal
+Grupal
 
 [PLANT_TAG_9]
 Fuego
@@ -49848,7 +49719,7 @@ Manual
 Explosiva
 
 [PLANT_TAG_14]
-Hacer cenizas
+Incinerar
 
 [PLANT_TAG_15]
 Sombra
@@ -49860,10 +49731,10 @@ Hielo
 Invocar
 
 [PLANT_TAG_19]
-Instantánea
+Instant
 
 [PLANT_TAG_20]
-Control
+Encantar
 
 [PLANT_TAG_21]
 Voladora
@@ -49878,22 +49749,22 @@ Baja
 Alta
 
 [PLANT_TAG_25]
-Enredadera
+Vid
 
 [PLANT_TAG_27]
-Electrocutar
+Electrizar
 
 [PLANT_TAG_28]
 Defensiva
 
 [PLANT_TAG_29]
-Desacelerar
+Letargo
 
 [PLANT_TAG_30]
 Desplazar
 
 [PLANT_TAG_31]
-Control total
+Control
 
 [PLANT_TAG_33]
 Física
@@ -61010,10 +60881,10 @@ Tablas de Clasificación
 Liga actual
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL2]
-Liga próxima
+Liga anterior
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL3]
-Liga postpróxima
+Liga tras-anterior
 
 [RIFT_LEADERBOARD_SEASON_REWARD_HEADER]
 Recompensas por temporada
@@ -61653,7 +61524,7 @@ Viaje a las grietas
 (Promovido a otra Liga)
 
 [RIFT_TOURNAMENT_LEAGUE_RESULT_STAY]
-(Mantenido en la misma Liga)
+(Misma liga)
 
 [RIFT_TOURNAMENT_PLACEMENT_RANK]
 {NUMBER}°
@@ -70586,46 +70457,41 @@ Horario de ventas
 Sobrevive al ataque zombi con las plantas de la cinta transportadora
 
 [STAR_CONVERT_INFO]
-Se acumulará la cantidad de Estrellas obtenidas después de completar los Niveles en cada Mundo. Cuando se alcance el número especificado, recibirás la recompensa correspondiente a dicha cantidad de Estrellas.
+1. Completa Niveles en el modo fácil y difícil para conseguir Estrellas.
+2. Recolecta estrellas suficientes para reclamar las recompensas (no repetibles).
 
 [STAR_CONVERT_INFO_TITLE]
-¿CÓMO CANJEAR ESTRELLAS?
+SOBRE LOS PREMIOS ESTELARES
 
 [STAR_CONVERT_PLANT_LEVEL1]
-^4FC148 {PLANT} al Nvl. 1^oldclr^
+^4FC148^{PLANT} al Nvl. 1^oldclr^
 
 [STAR_CONVERT_PLANT_LEVEL2]
-^4FC148 {PLANT} al Nvl. 2^oldclr^
+^4FC148^{PLANT} al Nvl. 2^oldclr^
 
 [STAR_CONVERT_PLANT_LEVEL3]
-^4FC148 {PLANT} al Nvl. 3^oldclr^
+^4FC148^{PLANT} al Nvl. 3^oldclr^
 
 [STAR_CONVERT_PLANT_LEVEL4]
-^4FC148 {PLANT} al Nvl. 4^oldclr^
+^4FC148^{PLANT} al Nvl. 4^oldclr^
 
 [STAR_CONVERT_PLANT_LEVEL5]
-^4FC148 {PLANT} al Nvl. 5^oldclr^
+^4FC148^{PLANT} al Nvl. 5^oldclr^
 
 [STAR_CONVERT_SUCCESS]
-¡Felicidades, has conseguido: ^4FC148 {REWARD}^oldclr^!
+Tu premio: ^4FC148^{REWARD}^oldclr^
 
 [STAR_CONVERT_SUCCESS_TITLE]
 ¡Reclamado!
 
 [STAR_CONVERT_TITLE]
-Premios Estelares
+Premios estelares
 
 [STAR_CONVERT_TOTAL]
 Estrellas
 
 [STAR_CONVERT_TUTORIAL_SLOT]
 Toca aquí para obtener recompensas
-
-[STAR_GATE]
-Puerta estelar
-
-[STAR_GATE_DESCRIPTION]
-¡Permitir el acceso al mundo %s!
 
 [STAR_PLANT_DESC_1]
 Planta:
@@ -72791,7 +72657,7 @@ Banderín de L.E.A.F
 Aumenta los atributos del efecto de Nutrientes de las criaturas-planta
 
 [STORE_PRODUCT_AVATAR_ANIMNUTS_TITLE]
-Visor
+Gorra roja
 
 [STORE_PRODUCT_AVATAR_ANTHURIUM]
 Los rayos infligen daño por salpicadura en un área pequeña
@@ -72971,7 +72837,7 @@ Bandera de Inglaterra
 Existe un 50% de probabilidad de que arroje a 1 zombi adicional
 
 [STORE_PRODUCT_AVATAR_CAULIPOWER_TITLE]
-Grimonio
+Grimorio
 
 [STORE_PRODUCT_AVATAR_CELERYSTALKER]
 Crea 1 clon adicional
@@ -73379,7 +73245,7 @@ Malcom
 Vuelve inmunes a las plantas de alrededor mientras el efecto dure
 
 [STORE_PRODUCT_AVATAR_GOLDENCASSIA_TITLE]
-Arreglo floral
+Velo de nubes
 
 [STORE_PRODUCT_AVATAR_GOLDLEAF]
 Recarga rápida +20%
@@ -73649,7 +73515,7 @@ Trenzas
 Aplasta a los zombis dos veces y los entierra por un tiempo
 
 [STORE_PRODUCT_AVATAR_KIWIFRUIT_TITLE]
-Rey Mono
+Corona oriental
 
 [STORE_PRODUCT_AVATAR_LANCERHOYA]
 El rango de acción de su efecto es más grande, golpea el suelo para hacer daño extra al final
@@ -74513,7 +74379,7 @@ Sombrero de hechicería
 El número de manojos de espina aumenta en 5
 
 [STORE_PRODUCT_AVATAR_WIZARDTHORNS_TITLE]
-Flor madura
+Grimorio
 
 [STORE_PRODUCT_AVATAR_XSHOT]
 Los nabos del efecto son más grandes y hacen más daño
@@ -74966,7 +74832,8 @@ USAR
 USAR
 
 [SUMMARY_USE_OLDER_DATA_BODY]
-¿Seguro que deseas reemplazar los datos de la nube con los datos locales? Los datos de la nube generalmente no guardan tu progreso más reciente.
+¿Seguro que deseas reemplazar los datos de la nube con los datos locales? 
+^E2725B^Los datos de la nube generalmente guardan tu progreso más reciente.^oldclr^
 
 [SUMMARY_USE_OLDER_DATA_HEADER]
 Confirmar selección de datos
@@ -82781,7 +82648,7 @@ Transforma zombis en Setas desesporadas
 Mago espinoso
 
 [WIZARDTHORNS_AVATAR_NAME]
-Flor madura
+Grimorio
 
 [WIZARDTHORNS_AVATAR_PLANTFOOD_DESCRIPTION]
 Aumenta el número de manojos liberados en 5
@@ -90014,28 +89881,59 @@ Tienda de Guanteletes
 6 元
 
 [ZSHOP_GET_CHALLENGE_ONE_CHANCE]
-^FF0000 1 ^oldclr partida para Batallaz.
+^FF0000^1^oldclr^ partida para Batallaz.
 
 [ZSHOP_GET_CHALLENGE_TEN_CHANCE]
-^FF0000 10 ^oldclr partidas para Batallaz.
+^FF0000^10^oldclr^ partidas para Batallaz.
 
 [ZSHOP_ITEM_LOCK_ALERT]
 Imposible comprar el objeto, verifica que cumplas con las condiciones establecidas.
 
 [ZSHOP_ITEM_UNLOCK_1]
-^FF0000 Se desbloquea en Liga Hierro ^oldclr
+^FF0000^Se desbloquea en Liga Hierro^oldclr^
 
 [ZSHOP_ITEM_UNLOCK_2]
-^FF0000 Se desbloquea en Liga Bronce ^oldclr
+^FF0000^Se desbloquea en Liga Bronce^oldclr^
 
 [ZSHOP_ITEM_UNLOCK_3]
-^FF0000 Se desbloquea en Liga Plata ^oldclr
+^FF0000^Se desbloquea en Liga Plata ^oldclr^
 
 [ZSHOP_ITEM_UNLOCK_4]
-^FF0000 Se desbloquea en Liga Oro ^oldclr
+^FF0000^Se desbloquea en Liga Oro^oldclr^
 
 [ZSHOP_ITEM_UNLOCK_5]
-^FF0000 Se desbloquea en Liga Jade ^oldclr
+^FF0000^Se desbloquea en Liga Jade^oldclr^
+
+[ZSHOP_TITLE]
+Tiendaz
+
+[PVP_EXCHANGE_CONFIRM_1]
+ACEPTAR
+
+[PVP_EXCHANGE_CONFIRM_2]
+Material insuficiente
+
+[PVP_EXCHANGE_CONFIRM_3]
+¡Juega más partidas y consigue más material para canjear esto!
+
+[PVP_EXCHANGE_CONFIRM_BUY_END]
+¿Deseas comprar {NAME} por {NUMBER}?
+
+[PVP_EXCHANGE_CONFIRM_END]
+¿Deseas gastar {NUMBER} para refrescar la Tienda?
+
+[PVP_EXCHANGE_CONFIRM_END_AD]
+¿Deseas gastar {NUMBER} Monedas o ver un anuncio para ^FF0000^refrescar la Tienda^oldclr^?
+Te quedan {LEFT} anuncios por ver en el día de hoy.
+
+[PVP_EXCHANGE_CONFIRM_HEAD]
+Refrescar Tienda
+
+[PVP_EXCHANGE_REFRESH]
+Refrescar
+
+[PVP_EXCHANGE_TITLE]
+Tienda de Intercambios
 
 [Z_ATTACK_DIFFICULTY_1]
 Velocidad-Z
