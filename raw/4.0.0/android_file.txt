@@ -24816,7 +24816,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por FranZ y ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 1.0.9^oldclr^
+^FF9E6B^Versión del parche: 1.1.0^oldclr^
 ^87CEFA^Última actualización: 11/2/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_3_1]
@@ -49624,7 +49624,7 @@ Nivel 1
 RECLAMAR
 
 [PLANT_SKILL]
-Habilidades de la planta
+Habilidades
 
 [PLANT_SPECIAL_LEFT_TIME]
 Tiempo res.: {TIME}
@@ -74833,11 +74833,11 @@ USAR
 USAR
 
 [SUMMARY_USE_OLDER_DATA_BODY]
-¿Seguro que deseas reemplazar los datos de la nube con los datos locales? 
-^E2725B^Los datos de la nube generalmente guardan tu progreso más reciente.^oldclr^
+¿Seguro que deseas usar estos datos?
+^FF0000^Se perderá el progreso más reciente guardado.^oldclr^
 
 [SUMMARY_USE_OLDER_DATA_HEADER]
-Confirmar selección de datos
+Confirmar uso de datos
 
 [SUMMEREVENTGAMEMODE_DAYS_TITLE]
 Festival Veraniego - Día {DAY}
