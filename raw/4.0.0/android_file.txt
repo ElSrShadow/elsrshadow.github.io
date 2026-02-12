@@ -1,23 +1,17 @@
 ﻿[#OF#]
 # de #
 
-[ACCESSORY_BOOST_DES_1]
-Efectos: Salud +10%
-
-[ACCESSORY_DES_1]
-Las viejas macetas que salieron del garaje de Dave no parecen especiales.
-
 [ACCESSORY_EXCHANGE_FAILED]
-Error en el intercambio de colgantes
+Error en el intercambio
 
 [ACCESSORY_EXCHANGE_FAILED_TEXT]
 Puede ser que no tienes las suficientes Piezas o porque no hay conexión a Internet.
 
 [ACCESSORY_FULL_MESSAGE]
-Tu espacio para Colgantes ya está lleno, vende los que no necesites para hacer espacio.
+Vende los Colgantes que no necesites para hacer espacio.
 
 [ACCESSORY_FULL_TITLE]
-Espacio para Colgantes lleno
+Espacio lleno
 
 [ACCESSORY_NAME_1]
 Botiquín universal
@@ -29,7 +23,7 @@ Colgantes
 Precio de venta: {PRICE}
 
 [ACCESSORY_STEADY_SUCCESS_INFO]
-¡^FF0000 {NAME} ^oldclr ha alcanzado el Nvl. ^FF0000 {LEVEL} ^oldclr!
+¡^FF0000^{NAME}^oldclr^ ha alcanzado el Nvl. ^FF0000^{LEVEL}^oldclr^!
 
 [ACCESSORY_STEADY_SUCCESS_TITLE]
 ¡Sube de Nivel!
@@ -40,103 +34,42 @@ Equipado por: {PLANT}
 [ACCOUNT_BIND_TITLE_REWARD]
 Recompensas por Vinculación de Cuentas
 
-[ACCOUNT_DELETION]
-Eliminación de cuenta
-
-[ACCOUNT_DELETION_BUTTON_CANCEL]
-CANCELAR
-
-[ACCOUNT_DELETION_BUTTON_DELETE]
-ELIMINAR
-
-[ACCOUNT_DELETION_BUTTON_OK]
-ACEPTAR
-
-[ACCOUNT_DELETION_FAILURE_DESCRIPTION]
-Hubo un error mientras se procesaba tu solicitud. Inténtalo más tarde.
-
-[ACCOUNT_DELETION_FAILURE_TITLE]
-Error
-
-[ACCOUNT_DELETION_HELP_URL]
-https://help.ea.com/mx/help/account/close-ea-account/
-
-[ACCOUNT_DELETION_SUCCESS_DESCRIPTION]
-Tu cuenta, tus perfiles y tus progresos en el juego de Plants vs. Zombies 2 se borraron. Puedes cerrar la app.
-Si juegas en otros dispositivos, desinstala la app en cada uno de ellos para borrar tu cuenta por completo.
-
-[ACCOUNT_DELETION_SUCCESS_TITLE]
-Cuenta eliminada
-
-[ACCOUNT_DELETION_YES_NO_CLICKABLE_DESCRIPTION_B]
-Más información aquí.
-
-[ACCOUNT_DELETION_YES_NO_DESCRIPTION_A]
-Si pulsas aquí, iniciarás la eliminación permanente de tu cuenta de Plants vs. Zombies 2, incluidos todos los perfiles y el progreso en el juego en todas las plataformas.
-
-[ACCOUNT_DELETION_YES_NO_DESCRIPTION_B]
-¿Confirmas que quieres eliminar de manera permanente tu cuenta de Plants vs Zombies 2, incluidos todos los perfiles y el progreso del juego en todas las plataformas?
-
-[ACCOUNT_DELETION_YES_NO_TITLE_A]
-Eliminar mi cuenta
-
-[ACCOUNT_DELETION_YES_NO_TITLE_B]
-¡ESTO NO PUEDE DESHACERSE!
-
-[ACCOUNT_LINKED]
-¡REGISTRADA!
-
-[ACCOUNT_LINK_DESCRIPTION]
-Registra tu cuenta personal con tu perfil del juego para guardar tus progresos en el juego y poder jugar en varios dispositivos.
-
 [ACCOUNT_REMOVE_CONTENT_1]
 Estás a punto de eliminar tu cuenta, lo cual significa que:
 
 1. Se eliminarán los recursos como Joyas o Monedas y otros artículos.
 2. Perderás el progreso como niveles completados, plantas o Atuendos desbloqueados.
 
-NOTA: una vez borrada la cuenta, no se podrá recuperar. Si fue un error, toca en la esquina superior derecha para cerrar esta pestaña y conservar los datos del juego.
+^FF0000^NOTA: una vez borrada la cuenta, no se podrá recuperar. Si fue un error, toca en la esquina superior derecha para cerrar esta pestaña y conservar los datos del juego.^oldclr^
 
 [ACCOUNT_REMOVE_CONTENT_2]
 Tu cuenta entrará en un período de inactividad de 10 días.
-Puedes cancelar la desactivación de tu cuenta después de iniciar sesión dentro del plazo establecido.
+
+^E2725B^Puedes cancelar la desactivación de tu cuenta después de iniciar sesión dentro del plazo establecido.^oldclr^
 
 [ACCOUNT_REMOVE_CONTENT_3]
 1. Después de eliminar la cuenta, los datos de nivel y los accesorios virtuales del juego se eliminarán por completo.
 2. Una vez eliminada, no podrás usar esta cuenta para volver a iniciar sesión en el juego.
 
-Cuando hayas leído las advertencias, toca en ELIMINAR CUENTA. Una vez que se envía la solicitud de eliminación de cuenta, no se puede retirar. Nuestro personal eliminará la cuenta después de enviar la solicitud, ¡sé paciente!
+^E2725B^Cuando hayas leído las advertencias, toca en ELIMINAR CUENTA. Una vez que se envía la solicitud de eliminación de cuenta, no se puede retirar. Nuestro personal eliminará la cuenta después de procesar la solicitud, ¡sé paciente!^oldclr^
 
 [ACCOUNT_REMOVE_CONTENT_4]
-Tu cuenta: {ACCOUNT}
-Haz solicitado eliminar esta cuenta a las {TIME} y la eliminaremos dentro de 30 días.
+Solicitud de eliminación de cuenta
+
+Cuenta: {ACCOUNT}  
+Hora de solicitud: {TIME}
+
+^FF0000^La cuenta será eliminada de forma permanente en un plazo de 30 días.^oldclr^
 
 [ACCOUNT_REMOVE_CONTENT_5]
 Haz deshabilitado esta cuenta: {ACCOUNT}
+
 Su eliminación esta programada para realizarse a las {TIME}
 
-Si fue un error, toca en RESTAURAR CUENTA para volver a ingresar al juego.
+^E2725B^Si fue un error, toca en RESTAURAR CUENTA para volver a ingresar al juego.^oldclr^
 
 [ACCOUNT_REMOVE_CONTENT_6]
 Tu cuenta ha sido eliminada, crea una nueva para comenzar el juego.
-
-[ACCOUNT_SIGN_IN_BENEFITS_ACHIEVEMENTS]
-Obtener logros
-
-[ACCOUNT_SIGN_IN_BENEFITS_CLOUD_SAVE]
-Guardar tus progresos para recuperarlos o utilizarlos en otro dispositivo
-
-[ACCOUNT_SIGN_IN_BENEFITS_HEADER]
-Iniciar sesión te permite:
-
-[ACCOUNT_SIGN_IN_BENEFITS_LEADERBOARDS]
-Ver los marcadores
-
-[ACCOUNT_SIGN_IN_BUTTON]
-INICIAR
-
-[ACCOUNT_SIGN_IN_TITLE]
-No iniciaste sesión
 
 [ACCUMULATED_LOGIN_TITLE]
 Inicio de sesión acumulativo
@@ -147,482 +80,11 @@ Acumula {NUM} Fragmentos de mapas para reclamar premios, recarga hasta 30 元 po
 [ACCUMU_GIFT]
 Donaciones acumuladas
 
-[ACHIEVEMENT]
-Logro
-
-[ACHIEVEMENT_99_UNDEAD_BALLOONS_DESC]
-Impide que los Zombis con globo pasen de la 5.ª columna
-
-[ACHIEVEMENT_99_UNDEAD_BALLOONS_TITLE]
-99 globos muertos vivientes
-
-[ACHIEVEMENT_BASH_POTATO_DESC]
-Derrota a 7 zombis con una sola Papapúm primitiva
-
-[ACHIEVEMENT_BASH_POTATO_HEADER]
-Golpe de papa
-
-[ACHIEVEMENT_CANT_STOP_THE_ROCK_DESC]
-Derrota a 5 zombis con una sola trampa de roca
-
-[ACHIEVEMENT_CANT_STOP_THE_ROCK_HEADER]
-Todo por la roca
-
-[ACHIEVEMENT_DINOS_SORE_DESC]
-Impide que todos los dinosaurios de un nivel interactúen con algún zombi
-
-[ACHIEVEMENT_DINOS_SORE_HEADER]
-Dinosaurio airado
-
-[ACHIEVEMENT_DOWN_WITH_THE_SICKNESS_DESC]
-Haz que un Zombi contagioso extienda veneno a 5 zombis más
-
-[ACHIEVEMENT_DOWN_WITH_THE_SICKNESS_TITLE]
-Abajo la enfermedad
-
-[ACHIEVEMENT_HOT_OFF_THE_PRESSES_DESC]
-Prende fuego al periódico de un Zombi lector
-
-[ACHIEVEMENT_HOT_OFF_THE_PRESSES_TITLE]
-Enciendan las rotativas
-
-[ACHIEVEMENT_HUNGRY_HUNGRY_DINOS_DESC]
-Completa un nivel en el que los T. Rex engullan 10 zombis
-
-[ACHIEVEMENT_HUNGRY_HUNGRY_DINOS_HEADER]
-Dinosaurios muy hambrientos
-
-[ACHIEVEMENT_LOST_AND_FOUND_DESC]
-Completa la Ciudad perdida
-
-[ACHIEVEMENT_LOST_AND_FOUND_HEADER]
-Objetos perdidos
-
-[ACHIEVEMENT_MARTIAL_MARSH_MASHER_DESC]
-Desata a Zombistein del Pantano del Jurásico
-
-[ACHIEVEMENT_MARTIAL_MARSH_MASHER_HEADER]
-Bestia del Pantano Jurásico
-
-[ACHIEVEMENT_METEOR_RIGHT_DESC]
-Completa Pantano del Jurásico
-
-[ACHIEVEMENT_METEOR_RIGHT_HEADER]
-Así que un meteorito, ¿eh?
-
-[ACHIEVEMENT_MODERN_GARGANTUAR_DESC]
-Desata el Zombistein de los Tiempos modernos
-
-[ACHIEVEMENT_MODERN_GARGANTUAR_TITLE]
-Zombisteins y gárgaras
-
-[ACHIEVEMENT_PORTER_THWARTER_DESC]
-Desata al Zombistein de la Ciudad perdida
-
-[ACHIEVEMENT_PORTER_THWARTER_HEADER]
-Avasallador de porteadores
-
-[ACHIEVEMENT_PRESENT_PERFECT_DESC]
-Completa los Tiempos modernos.
-
-[ACHIEVEMENT_PRESENT_PERFECT_TITLE]
-El presente es futuro
-
-[ACHIEVEMENT_RAGWEEDS_DESC]
-Crea 5 nuevas casillas de oro en un solo nivel con Hoja dorada
-
-[ACHIEVEMENT_RAGWEEDS_HEADER]
-Plantar riqueza
-
-[ACHIEVEMENT_SHADOW_FAMILY_DESC]
-Completa un nivel con 20 plantas sombrías potenciadas
-
-[ACHIEVEMENT_SHADOW_FAMILY_TITLE]
-La familia sombría
-
-[ACHIEVEMENT_SHOVEL_OFF_DESC]
-Completa un nivel en el que Zombi excavador no extraiga plantas
-
-[ACHIEVEMENT_SHOVEL_OFF_HEADER]
-Palas fuera
-
-[ACHIEVEMENT_SPAWN_CAMPING_DESC]
-Supera un nivel en el que 3 Zombiditos porteadores monten campamentos
-
-[ACHIEVEMENT_SPAWN_CAMPING_HEADER]
-Acampadas por doquier
-
-[ACHIEVEMENT_TERROR_REDACTYLED_DESC]
-Usa una Seta perfumada en un Pterodáctilo que lleve un zombi hacia tu casa
-
-[ACHIEVEMENT_TERROR_REDACTYLED_HEADER]
-Terror retráctil
-
-[ACHIEVEMENT_TIME_TRAVELER_DESC]
-Completa un nivel en el que cada una de tus plantas sea de un mundo distinto
-
-[ACHIEVEMENT_TIME_TRAVELER_TITLE]
-Viajero del tiempo
-
-[ACHIEVEMENT_UNWELCOME_MAT_DESC]
-Ten 10 Aguijones rojos en las dos columnas más cercanas a tu casa
-
-[ACHIEVEMENT_UNWELCOME_MAT_HEADER]
-Mala bienvenida
-
-[ACHIEVEMENT_YOURE_AN_ALLSTAR_DESC]
-Completa un nivel en el que los zombis All-Star no plaquen ninguna planta
-
-[ACHIEVEMENT_YOURE_AN_ALLSTAR_TITLE]
-¿Eres un All-Star?
-
-[ACHIEVE_ALL_IN_JEST_DESC]
-Completa un nivel sin que los Zombis bufones devuelvan proyectiles.
-
-[ACHIEVE_ALL_IN_JEST_TITLE]
-Bufón total
-
-[ACHIEVE_BANANA_STORM_DESC]
-Completa un nivel de Playa usando solo Lanzaplátanos para destruir zombis.
-
-[ACHIEVE_BANANA_STORM_TITLE]
-Tormenta de plátanos
-
-[ACHIEVE_BIG_KAHUNKA_DESC]
-Derrota a los Zombisteins de las profundidades para recoger su llave de mundo.
-
-[ACHIEVE_BIG_KAHUNKA_TITLE]
-Gran Kahunka
-
-[ACHIEVE_BROADSIDE_DESC]
-Usa un Cococañón para destruir un Cañón zombidito
-
-[ACHIEVE_BROADSIDE_TITLE]
-Cañones fuera
-
-[ACHIEVE_COWBOY_STARS_DESC]
-Completa el Salvaje Oeste
-
-[ACHIEVE_COWBOY_STARS_TITLE]
-¡Yiiiija!
-
-[ACHIEVE_DOG_WHISPERER_DESC]
-Destruye un Zombi levantatumbas antes de que levante una tumba
-
-[ACHIEVE_DOG_WHISPERER_TITLE]
-Visto y Anubis-to
-
-[ACHIEVE_DRAGON_AGE_DESC]
-Planta 10 Bocas de dragón en un solo nivel
-
-[ACHIEVE_DRAGON_AGE_TITLE]
-La Era Del Dragón
-
-[ACHIEVE_EGYPT_STARS_DESC]
-Completa el Antiguo Egipto
-
-[ACHIEVE_EGYPT_STARS_TITLE]
-Nuezankamón
-
-[ACHIEVE_EIGHTIES_BACK_FROM_THE_FUTURE_3_DESC]
-Planta a Tomillo tiempillo tres veces en el mismo nivel.
-
-[ACHIEVE_EIGHTIES_BACK_FROM_THE_FUTURE_3_TITLE]
-Regreso al futuro 3
-
-[ACHIEVE_EIGHTIES_BEET_IT_DESC]
-Completa un nivel utilizando únicamente Remolachas tremendas para derrotar a los zombis.
-
-[ACHIEVE_EIGHTIES_BEET_IT_TITLE]
-Con toda la remolacha
-
-[ACHIEVE_EIGHTIES_BREAKING_IT_OFF_DESC]
-Derrota a un Zombi radiocasetero antes de que exprese sus sentimientos con el poder de la música.
-
-[ACHIEVE_EIGHTIES_BREAKING_IT_OFF_TITLE]
-Rómpelo
-
-[ACHIEVE_EIGHTIES_DROP_THE_MIC_DESC]
-Completa Vueltacasete de neón, cara B.
-
-[ACHIEVE_EIGHTIES_DROP_THE_MIC_TITLE]
-Tira el micro
-
-[ACHIEVE_EIGHTIES_HEAD_BANGER_DESC]
-Utiliza una magnetoseta en un Zombi punk.
-
-[ACHIEVE_EIGHTIES_HEAD_BANGER_TITLE]
-Mueve la cabeza
-
-[ACHIEVE_EIGHTIES_VOLUME_GOES_TO_SIXTEEN_DESC]
-Derrota al Zombistein Heavy Metal.
-
-[ACHIEVE_EIGHTIES_VOLUME_GOES_TO_SIXTEEN_TITLE]
-Volumen al dieciséis
-
-[ACHIEVE_FLY_FISHING_FAIL_DESC]
-Completa un nivel en el que los pescadores no pesquen tus plantas.
-
-[ACHIEVE_FLY_FISHING_FAIL_TITLE]
-Pesca fallida
-
-[ACHIEVE_FRIED_CHICKEN_DESC]
-Usa el Junco Eléctrico para electrocutar una gallina zombi
-
-[ACHIEVE_FRIED_CHICKEN_TITLE]
-Pollo frito
-
-[ACHIEVE_FUNGUS_HUMONGOUS_DESC]
-Activa 20 Setas desesporadas con una unidad de Nutrientes.
-
-[ACHIEVE_FUNGUS_HUMONGOUS_TITLE]
-Hongo descomunal
-
-[ACHIEVE_FUTURE_COMPLETE_DESC]
-Completa el Futuro Lejano.
-
-[ACHIEVE_FUTURE_COMPLETE_TITLE]
-Contra el jefe
-
-[ACHIEVE_FUTURE_GARGANTUAR_DESC]
-Suelta al Zombistein del Futuro Lejano.
-
-[ACHIEVE_FUTURE_GARGANTUAR_TITLE]
-Motor primario
-
-[ACHIEVE_FUTURE_GRASS_EFFECT_DESC]
-Dispara 500 soles a con una Hierba lupa.
-
-[ACHIEVE_FUTURE_GRASS_EFFECT_TITLE]
-Grass Effect
-
-[ACHIEVE_FUTURE_JETTISONS_DESC]
-Usa el Trebolador para acabar con 30 Zombis propulsados en un nivel.
-
-[ACHIEVE_FUTURE_JETTISONS_TITLE]
-Supersónicos
-
-[ACHIEVE_FUTURE_RERESPAWN_DESC]
-Planta una Nuez infinita que caiga y se regenere dos veces.
-
-[ACHIEVE_FUTURE_RERESPAWN_TITLE]
-Regeneración
-
-[ACHIEVE_FUTURE_SUN_DAMAGED_DESC]
-Activa una Bomba sol que destruya un Cono mecanizado.
-
-[ACHIEVE_FUTURE_SUN_DAMAGED_TITLE]
-Sol dañado
-
-[ACHIEVE_FUTURE_TILE_DENIAL_DESC]
-Completa un nivel del Futuro sin plantar casillas potenciadoras.
-
-[ACHIEVE_FUTURE_TILE_DENIAL_TITLE]
-Casilla negada
-
-[ACHIEVE_GIDDYUP_DESC]
-Suelta al Zombistein del Salvaje Oeste
-
-[ACHIEVE_GIDDYUP_TITLE]
-¡Arre!
-
-[ACHIEVE_HAMMER_TIME_DESC]
-Desata al Zombistein de la Edad Oscura.
-
-[ACHIEVE_HAMMER_TIME_TITLE]
-Hora del martillo
-
-[ACHIEVE_HIGH_FIVE_DESC]
-Planta cinco Nueces cáscara-rabias y usa Nutrientes en todas ellas
-
-[ACHIEVE_HIGH_FIVE_TITLE]
-Choca esos cinco
-
-[ACHIEVE_ICEAGE_BARRAGE_DESC]
-Derrota a los Zombisteins perezosos para recoger su llave de mundo.
-
-[ACHIEVE_ICEAGE_BARRAGE_TITLE]
-Descarga a tres
-
-[ACHIEVE_ICEAGE_ICEBLOCKADE_DESC]
-En un nivel con Troglobocados, no dejes que los Troglobocados empujen ningún bloque de hielo más allá de la 6.ª columna.
-
-[ACHIEVE_ICEAGE_ICEBLOCKADE_TITLE]
-Barricada de hielo
-
-[ACHIEVE_ICEAGE_KNOCKEMDEAD_DESC]
-Echa hacia atrás a 6 zombis con un golpe de Guardacelga.
-
-[ACHIEVE_ICEAGE_KNOCKEMDEAD_TITLE]
-¡Déjalos muertos!
-
-[ACHIEVE_ICEAGE_MELTDOWN_DESC]
-Completa las Cuevas congeladas.
-
-[ACHIEVE_ICEAGE_MELTDOWN_TITLE]
-¡Fusión!
-
-[ACHIEVE_ICEAGE_RUNWEASLEY_DESC]
-En un nivel con Comadrejeras, no dejes que las Comadrejas salten a los deslizadores.
-
-[ACHIEVE_ICEAGE_RUNWEASLEY_TITLE]
-Comadreja saltarina
-
-[ACHIEVE_ICEAGE_SOTHAWFUL_DESC]
-Descongela 13 bloques de hielo en un mismo nivel.
-
-[ACHIEVE_ICEAGE_SOTHAWFUL_TITLE]
-Deshielo
-
-[ACHIEVE_ICEBERG_DESC]
-Congela 20 zombis con una única Lechuga iceberg
-
-[ACHIEVE_ICEBERG_TITLE]
-20 bajo cero
-
-[ACHIEVE_KING_NUT_DESC]
-Suelta al Zombistein de Egipto
-
-[ACHIEVE_KING_NUT_TITLE]
-Nuezertiti
-
-[ACHIEVE_MAGICAL_FRUIT_DESC]
-Aturde a 10 zombis con un Frijol
-
-[ACHIEVE_MAGICAL_FRUIT_TITLE]
-Frijoles con amor
-
-[ACHIEVE_MUTINY_DESC]
-Mata al Zombie pirata antes que su loro vuele
-
-[ACHIEVE_MUTINY_TITLE]
-Motín
-
-[ACHIEVE_NOT_BAAAD_DESC]
-Completa un nivel sin que los Magos transformen plantas en ovejas.
-
-[ACHIEVE_NOT_BAAAD_TITLE]
-No está maaaaal
-
-[ACHIEVE_NO_SMOKING_DESC]
-Extingue la antorcha de un Zombie explorador
-
-[ACHIEVE_NO_SMOKING_TITLE]
-No fumar
-
-[ACHIEVE_OFF_THE_GREEN_DESC]
-Completa el tutorial
-
-[ACHIEVE_OFF_THE_GREEN_TITLE]
-Ya no estás tan verde
-
-[ACHIEVE_OUT_OF_DARKNESS_DESC]
-Completa la Edad Oscura.
-
-[ACHIEVE_OUT_OF_DARKNESS_TITLE]
-Sin oscuridad
-
-[ACHIEVE_PAT_THE_BIRDY_DESC]
-Échale mantequilla a un Zombi con gaviota
-
-[ACHIEVE_PAT_THE_BIRDY_TITLE]
-¡Ay, pájaro!
-
-[ACHIEVE_PIRATE_STARS_DESC]
-Completa los Mares Piratas
-
-[ACHIEVE_PIRATE_STARS_TITLE]
-Botín Pirata
-
-[ACHIEVE_POD_SQUAD_DESC]
-Planta una Vaina completa en los carros de mina
-
-[ACHIEVE_POD_SQUAD_TITLE]
-¡A toda Vaina!
-
-[ACHIEVE_SASQUASH_DESC]
-Destruye un Yeti
-
-[ACHIEVE_SASQUASH_TITLE]
-¡A por el Yeti!
-
-[ACHIEVE_SHELL_ON_WHEELS_DESC]
-Planta una nuez en un carro de mina
-
-[ACHIEVE_SHELL_ON_WHEELS_TITLE]
-Cáscara sobre ruedas
-
-[ACHIEVE_SPUDOW_DESC]
-Mata a un zombie con una Papapúm
-
-[ACHIEVE_SPUDOW_TITLE]
-¡Spudow!
-
-[ACHIEVE_SUN_CATCHER_DESC]
-Consigue 10 soles de un único Zombie Ra
-
-[ACHIEVE_SUN_CATCHER_TITLE]
-Agarra esos soles
-
-[ACHIEVE_TEN_PIN_KAPOW_DESC]
-Destruye 10 zombis con un solo bulbo de Bulbo de bolera.
-
-[ACHIEVE_TEN_PIN_KAPOW_TITLE]
-Pleno al diez
-
-[ACHIEVE_UNDERTOW_DESC]
-Derrota a 10 zombis con Zampalga en un solo nivel.
-
-[ACHIEVE_UNDERTOW_TITLE]
-Resaca
-
-[ACHIEVE_VASEBREAKER_DAVYJONESVASE_DESC]
-Completa el Sobre Desafío Mares piratas.
-
-[ACHIEVE_VASEBREAKER_DAVYJONESVASE_NAME]
-Jarrón de Davy Jones
-
-[ACHIEVE_VASEBREAKER_POTTERYTRAINED_DESC]
-upera la oleada 30 en Rompejarrones infinito.
-
-[ACHIEVE_VASEBREAKER_POTTERYTRAINED_NAME]
-Conocimientos de alfarería
-
-[ACHIEVE_VASEBREAKER_TOMBBREAKER_DESC]
-Completa el paquete Desafío egipcio.
-
-[ACHIEVE_VASEBREAKER_TOMBBREAKER_NAME]
-Rompetumbas
-
-[ACHIEVE_VASEBREAKER_VASEWRANGLER_DESC]
-Completa el Sobre Desafío Salvaje Oeste.
-
-[ACHIEVE_VASEBREAKER_VASEWRANGLER_NAME]
-Jarrones del Oeste
-
-[ACHIEVE_WAVE_GOODBYE_DESC]
-Completa la Playa de la gran ola.
-
-[ACHIEVE_WAVE_GOODBYE_TITLE]
-A la playa
-
-[ACHIEVE_YARR_MATEY_DESC]
-Suelta al Zombistein pirata
-
-[ACHIEVE_YARR_MATEY_TITLE]
-Arr, marinero
-
-[ACHIEVE_YOUR_HAT_SIR_DESC]
-Destruye un zombi solamente con los daños infligidos por una Magnetoseta.
-
-[ACHIEVE_YOUR_HAT_SIR_TITLE]
-¡Su sombrero, señor!
-
 [ACORN]
 Torbellota
 
 [ACORN_AVATAR_NAME]
-Pico de ornitorrinco
+Ornitorrinco
 
 [ACORN_AVATAR_PLANTFOOD_DESCRIPTION]
 Golpea a los zombis de las líneas adyacentes, expulsándolos si su salud es baja. ^D22808^Daño: 2.700^oldclr^
@@ -776,10 +238,10 @@ Compra Paquetes de Regalo, obtén Cristales para canjearlos y participar en sort
 El evento ha terminado.
 
 [ACTIVITY_GROUP_BUY_DESCRIPTION]
-1. Inicia a las 9:00 AM y finaliza a las 9:00 del día siguiente. El último día finaliza a las 24h.
-2. Durante el evento, los jugadores pueden gastar Joyas para comprar artículos y recibir un jugoso descuento.
-3. Se pueden conseguir Cupones por la recarga de 元. Los Cupones se usan para canjear artículos.
-4. Las plantas que se pueden adquirir son de Nvl. 2 ó 3, y se convierten en Piezas si el jugador ya las posee.
+1. Horario: 9:00 AM - 9:00 PM del dia siguiente. El último día finaliza a las 24h
+2. Gasta Joyas durante el evento para comprar artículos y recibir un jugoso descuento.
+3. Se pueden conseguir Cupones por la recarga de 元. Los Cupones se usan para canjear artículos especiales.
+4. Las plantas que se pueden adquirir son de Nvl. 2 ó 3, se convierten en Piezas si ya las posees.
 
 [ACTIVITY_GROUP_BUY_TITLE]
 DESCRIPCIÓN DEL EVENTO
@@ -2251,7 +1713,8 @@ La cabeza de flecha (Sagittaria sagittifolia) es una planta acuática de hojas e
 Originaria de Eurasia, fue usada tradicionalmente en Asia por su tubérculo nutritivo. También es valorada por su forma estética en jardines acuáticos. Su nombre alude a la forma característica de sus hojas, que recuerdan a una punta de flecha.
 
 [ALARMSAGITTIFOLIA_PLANTFOOD_DESCRIPTION]
-Lanza un meteoro que cae al centro del patio y ^ff9600^aturde^oldclr^ a los zombis de un área de 5x5 durante 2 segundos. ^D22808^Daño: 1.800^oldclr^
+Lanza un meteoro que cae al centro del patio y ^ff9600^aturde^oldclr^ a los zombis de un área de 5x5 durante 2 s
+^D22808^Daño: 1.800^oldclr^
 
 [ALARMSAGITTIFOLIA_SKILL_LEVEL1]
 Nivel 2
@@ -5508,19 +4971,19 @@ Intentando verificar dirección de correo electrónico...
 Recompensas adicionales
 
 [AWARD_SCREEN_ALL_STARS]
-¡Tienes todas las Estrellas!
+¡Tienes TODAS LAS ESTRELLAS!
 
 [AWARD_SCREEN_AND]
 y
 
 [AWARD_SCREEN_ARTIFACT_CURE_DESCRIPTION]
-Cura todas las plantas del patio y las vuelve invencibles durante un tiempo.
+Cura todas las plantas del patio y las vuelve invencibles
 
 [AWARD_SCREEN_ARTIFACT_CURE_TITLE]
 Bastón sanador
 
 [AWARD_SCREEN_ARTIFACT_VASE_DESCRIPTION]
-Lanza 10 jarrones que pueden contener Zombis con Nutrientes, Semillas de Plantas o Sol.
+Lanza 10 jarrones con sorpresas dentro
 
 [AWARD_SCREEN_ARTIFACT_VASE_TITLE]
 Lanzajarrones
@@ -5531,47 +4994,14 @@ La planta correspondiente a este Atuendo no se ha desbloqueado
 [AWARD_SCREEN_COSTUME_DESCRIPTION]
 ¡Tu {PLANT} tiene un NUEVO atuendo!
 
-[AWARD_SCREEN_DANGER_ROOM]
-¡Zona de infinito activada!
-
-[AWARD_SCREEN_DANGER_ROOM_BEACH]
-¡Accede a la Tikitorcha!
-
-[AWARD_SCREEN_DANGER_ROOM_COWBOY]
-¡Acceso al Páramo del gran mal!
-
-[AWARD_SCREEN_DANGER_ROOM_DARKAGES]
-Accede al reto de Arturo
-
-[AWARD_SCREEN_DANGER_ROOM_EGYPT]
-¡Acceso a la Pirámide de la perdición!
-
-[AWARD_SCREEN_DANGER_ROOM_GENERIC]
-Sobrevive a los niveles llenos de ataques zombis. Pon a prueba tus habilidades en la Zona de infinito.
-
-[AWARD_SCREEN_DANGER_ROOM_ICEAGE]
-¡Acceso al Campo de batalla helado!
-
-[AWARD_SCREEN_DANGER_ROOM_MODERN]
-¡Acceso a la autopista a la sala del peligro!
-
-[AWARD_SCREEN_DANGER_ROOM_PIRATE]
-¡Acceso al Botín del muerto!
-
 [AWARD_SCREEN_FINALDAY_COMPLETE]
-¡Día Final completado!
-
-[AWARD_SCREEN_FIRSTKEY_DESCRIPTION]
-Es una llave ancestral. Ahora necesitas una cerradura igual de antigua.
-
-[AWARD_SCREEN_FIRSTKEY_TITLE]
-¡Llave de Egipto!
+¡Día final completado!
 
 [AWARD_SCREEN_GIFTBOX_TITLE]
 Regalo misterioso
 
 [AWARD_SCREEN_GOAL_FAILED]
-^ff0000 Objetivo no conseguido
+^ff0000^Objetivo no conseguido^oldclr^
 
 [AWARD_SCREEN_LAWN_MOWER_TRIGGERED]
 ¡Se activaron una o más cortadoras!
@@ -5610,7 +5040,7 @@ Es mejor una moneda en una bolsa que buscar un regalo zombi en la boca.
 ¡Tienes un nuevo ATUENDO!
 
 [AWARD_SCREEN_NEW_BONUS]
-Obtener recompensas
+¡Tienes RECOMPENSAS!
 
 [AWARD_SCREEN_NEW_PLANT]
 ¡Tienes una nueva PLANTA!
@@ -5643,12 +5073,6 @@ Consigue más completando niveles, abriendo Cofres o jugando eventos.
 [AWARD_SCREEN_PIECE_GRAVEBUSTER_TITLE]
 ¡Piezas de Comepiedras!
 
-[AWARD_SCREEN_POWERUPGADGET_DESCRIPTION]
-Para emergencias. No utilizar si el sello de calidad está roto.
-
-[AWARD_SCREEN_POWERUP_TITLE]
-El bote de Dave el loco de poderes en conserva
-
 [AWARD_SCREEN_POWERUP_VASEBREAKERBUTTER_DESCRIPTION]
 Echa mantequilla a un solo zombi en Rompejarrones
 
@@ -5667,17 +5091,11 @@ Revela los contenidos de un jarrón en Rompejarrones
 [AWARD_SCREEN_POWERUP_VASEBREAKERREVEAL_TITLE]
 Potenciador Revelar jarrón
 
-[AWARD_SCREEN_POWERUP_WIZARDFINGER_DESCRIPTION]
-¡Toca en un zombi para electrocutarlo!
-
 [AWARD_SCREEN_PRIZE]
 ¡Tienes un PREMIO!
 
-[AWARD_SCREEN_RETURN_WORLDKEY_DESCRIPTION]
-¡Obtén las llaves de mundo para desbloquear nuevos mundos y viajar a otras épocas!
-
 [AWARD_SCREEN_STAR]
-¡Tienes una estrella!
+¡Tienes una ESTRELLA!
 
 [AWARD_SCREEN_STARKEY_DESCRIPTION]
 El premio se ha desbloqueado
@@ -5689,151 +5107,7 @@ Objetivo: {CHALLENGE}
 {LEVEL}
 
 [AWARD_SCREEN_TREASURE_CHEST_DESCRIPTION]
-10000 monedas
-
-[AWARD_SCREEN_WORLDKEY_BEACH]
-Obtuviste acceso a la fiesta costera de la Playa de la gran ola.
-
-[AWARD_SCREEN_WORLDKEY_BEACH_TITLE]
-Llave de la Playa de la gran ola
-
-[AWARD_SCREEN_WORLDKEY_COWBOY]
-Obtuviste acceso a la llanura sin ley del Salvaje Oeste.
-
-[AWARD_SCREEN_WORLDKEY_COWBOY_TITLE]
-Llave del Salvaje Oeste
-
-[AWARD_SCREEN_WORLDKEY_DARK]
-Obtuviste acceso a la barbarie feudal de la Edad Oscura.
-
-[AWARD_SCREEN_WORLDKEY_DARK_TITLE]
-Llave de la Edad Oscura
-
-[AWARD_SCREEN_WORLDKEY_DESCRIPTION]
-¡Utilízalas para desbloquear nuevos mundos y viajar a otras épocas!
-
-[AWARD_SCREEN_WORLDKEY_DINO]
-Obtuviste acceso al peligro saurio del Pantano del Jurásico.
-
-[AWARD_SCREEN_WORLDKEY_DINO_TITLE]
-Llave del Pantano del Jurásico
-
-[AWARD_SCREEN_WORLDKEY_EIGHTIES]
-Obtuviste acceso a los ritmos urgentes de Vueltacasete de neón.
-
-[AWARD_SCREEN_WORLDKEY_EIGHTIES_TITLE]
-Llave de Vueltacasete de neón
-
-[AWARD_SCREEN_WORLDKEY_FUTURE]
-Obtuviste acceso al enigma tecnológico del Futuro lejano.
-
-[AWARD_SCREEN_WORLDKEY_FUTURE_TITLE]
-Llave del Futuro lejano
-
-[AWARD_SCREEN_WORLDKEY_ICEAGE]
-Obtuviste acceso al escalofriante ambiente de las Cuevas congeladas.
-
-[AWARD_SCREEN_WORLDKEY_ICEAGE_TITLE]
-Llave de las Cuevas congeladas
-
-[AWARD_SCREEN_WORLDKEY_LOSTCITY]
-Obtuviste acceso a la recóndita maravilla de la Ciudad perdida.
-
-[AWARD_SCREEN_WORLDKEY_LOSTCITY_TITLE]
-Llave de la Ciudad perdida
-
-[AWARD_SCREEN_WORLDKEY_MODERN]
-Obtuviste acceso al terror mundano de los Tiempos modernos.
-
-[AWARD_SCREEN_WORLDKEY_MODERN_TITLE]
-Llave de los Tiempos modernos
-
-[AWARD_SCREEN_WORLDKEY_PIRATE]
-Obtuviste acceso al vandalismo acuático de los Mares piratas.
-
-[AWARD_SCREEN_WORLDKEY_PIRATE_TITLE]
-Llave de los Mares piratas
-
-[AWARD_SCREEN_WORLDKEY_STAR_TITLE]
-Llave estrella
-
-[AWARD_SCREEN_WORLDKEY_TITLE]
-Llaves de mundo
-
-[AWARD_SCREEN_WORLDSTARUNLOCK_TITLE]
-¡Conseguiste una llave estrella!
-
-[AWARD_SCREEN_WORLDTROPHY]
-¡Ganaste un TROFEO!
-
-[AWARD_SCREEN_WORLDTROPHY_BEACH]
-Acabaste con la creación del Dr. Zombi, el Zombot subtiburotrónico.
-
-[AWARD_SCREEN_WORLDTROPHY_BEACH_TITLE]
-Trofeo de la Playa de la gran ola
-
-[AWARD_SCREEN_WORLDTROPHY_COWBOY]
-Acabaste con el carro blindado Zombot del Dr. Zombi.
-
-[AWARD_SCREEN_WORLDTROPHY_COWBOY_TITLE]
-Trofeo del Salvaje Oeste
-
-[AWARD_SCREEN_WORLDTROPHY_DARK]
-Acabaste con la creación del Dr. Zombi, el Zombot dragón oscuro.
-
-[AWARD_SCREEN_WORLDTROPHY_DARK_TITLE]
-Trofeo de la Edad Oscura
-
-[AWARD_SCREEN_WORLDTROPHY_DINO]
-Acabaste con la creación del Dr. Zombi, el Zombot dinotrónico mechasaurio.
-
-[AWARD_SCREEN_WORLDTROPHY_DINO_TITLE]
-Trofeo de Pantano del Jurásico
-
-[AWARD_SCREEN_WORLDTROPHY_EGYPT]
-Acabaste con la esfinge letal Zombot del Dr. Zombi.
-
-[AWARD_SCREEN_WORLDTROPHY_EGYPT_TITLE]
-Trofeo del Antiguo Egipto
-
-[AWARD_SCREEN_WORLDTROPHY_EIGHTIES]
-Has derrotado la creación del Dr. Zombi, Zombot machacante multiescenario.
-
-[AWARD_SCREEN_WORLDTROPHY_EIGHTIES_TITLE]
-Trofeo de Vueltacasete de neón
-
-[AWARD_SCREEN_WORLDTROPHY_FUTURE]
-Acabaste con la creación del Dr. Zombi, el Zombot Mañanatrón.
-
-[AWARD_SCREEN_WORLDTROPHY_FUTURE_TITLE]
-Trofeo del Futuro lejano
-
-[AWARD_SCREEN_WORLDTROPHY_ICEAGE]
-Acabaste con la creación del Dr. Zombi, el Zombot Maestro del colmillo 10000 A. C.
-
-[AWARD_SCREEN_WORLDTROPHY_ICEAGE_TITLE]
-Trofeo de las Cuevas congeladas
-
-[AWARD_SCREEN_WORLDTROPHY_KONGFU]
-¡Haz desbloqueado la parte 2 dla Dinastía del Kung Fu!
-
-[AWARD_SCREEN_WORLDTROPHY_LOSTCITY]
-Acabaste con la creación del Dr. Zombi, el Zombot góndola aerostática.
-
-[AWARD_SCREEN_WORLDTROPHY_LOSTCITY_TITLE]
-Trofeo de la Ciudad perdida
-
-[AWARD_SCREEN_WORLDTROPHY_MODERN]
-¡Conseguiste un taco con un gofre dentro!
-
-[AWARD_SCREEN_WORLDTROPHY_MODERN_TITLE]
-Taco con un gofre dentro
-
-[AWARD_SCREEN_WORLDTROPHY_PIRATE]
-Acabaste con el corsario Zombot del Dr. Zombi.
-
-[AWARD_SCREEN_WORLDTROPHY_PIRATE_TITLE]
-Trofeo de los Mares piratas
+¡10000 MONEDAS!
 
 [A_PILE_SNOWMEN1_TITLE]
 Prueba de fuego - Fase 1
@@ -5865,26 +5139,6 @@ SALIR A LA TIENDA
 [BAMBOO]
 Raíz de bambú
 
-[BAMBOOSPARTAN]
-Bambú espartano
-
-[BAMBOOSPARTAN_DESCRIPTION]
-{KEYWORD}Especial: {STAT}cuando se le rompe el escudo, Bambú espartano entra en un Trance de batalla y aumenta su daño.
-
-{FLAVOR}"¡Por los tacos y la libertad! O mejor... ¡¡POR LOS TACOS!!"
-
-[BAMBOOSPARTAN_DESCRIPTION_HEADER]
-Un feroz guerrero de bambú que puede soportar grandes daños. Cuando se le rompe el escudo, sus ataques infligen aún más daño.
-
-[BAMBOOSPARTAN_DESCRIPTION_HINT]
-Bambú espartano puede infligir y sufrir muchos daños, por lo que es una buena planta de primera línea.
-
-[BAMBOOSPARTAN_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}da un golpetazo con su lanza para empujar a los zombis varias veces.
-
-[BAMBOOSPARTAN_TOOLTIP]
-Resiste y golpea a los zombis que se encuentren a 2 casillas
-
 [BAMBOO_AVATAR_PLANTFOOD_DESCRIPTION]
 Ataca a 2 objetivos adicionales al usar Nutrientes (6 en total).
 
@@ -5897,7 +5151,7 @@ Ataca a 2 objetivos adicionales al usar Nutrientes (6 en total).
 Raíz de bambú se mueve hacia adelante y hacia atrás por el suelo, perforando a los zombis que lo pisen.
 
 [BAMBOO_FAMILY]
-Poaceae (Gramíneas)
+Poaceae
 
 [BAMBOO_GENUS]
 Diversos
@@ -7081,7 +6335,7 @@ El Trebolador expulsa a todos los zombis que están en el aire.
 {KEYWORD}Nutrientes: {STAT}Sin efecto de Nutrientes.
 
 [BLOVER_FAMILY]
-Fabaceae (Leguminosae)
+Fabaceae
 
 [BLOVER_GENUS]
 Trifolium
@@ -7177,7 +6431,7 @@ Bonk Choi da rápidos puñetazos a los enemigos que tiene delante y detrás
 {KEYWORD}Nutrientes: {STAT}Da puñetazos rápidos en una zona de 3x3 a su alrededor, infligiendo grandes daños.
 
 [BONKCHOY_FAMILY]
-Brassicaceae (Cruciferae)
+Brassicaceae
 
 [BONKCHOY_GENUS]
 Brassica
@@ -8963,7 +8217,7 @@ Expulsa a los zombis pequeños o medianos. Los guisantes bateados por su efecto 
 Bardana de béisbol golpea a los zombis cercanos. También batea los guisantes de su alcance, provocando que inflijan mayor daño o que aturdan zombis.
 
 [BURDOCKBATTER_FAMILY]
-Asteraceae (Compositae)
+Asteraceae
 
 [BURDOCKBATTER_GENUS]
 Arctium
@@ -9169,7 +8423,7 @@ Tiempo restante:
 {NUMBER} restante (s)
 
 [BUY_AVATAR_DESC]
-Tienes: ^00FF00^{MAX_COUNT} Piezas de Atuendo^oldclr^.
+Tienes: ^00FF00^{MAX_COUNT} Piezas^oldclr^ de Atuendo.
 Se necesitan: ^FF0000^{NEED_COUNT} Piezas^oldclr^. ¿Comprar más?
 
 [BUY_AVATAR_TITLE]
@@ -9999,7 +9253,7 @@ Zanahortillería dispara misiles de zanahoria a los zombis atacantes, infligiend
 Daucus
 
 [CARROTLAUNCHER_GENUS]
-Apiaceae (Umbelliferae)
+Apiaceae
 
 [CARROTLAUNCHER_NEW_SKILL_LEVEL1_DES]
 Dispara misiles de zanahora que infligen daño masivo. Tras disparar 4 misiles, debe descansar.
@@ -16481,10 +15735,10 @@ Recuperación
 Coste
 
 [DETAIL_YIELD]
-Producción solar
+Producción
 
 [DETAIL_YIELD_INTERVAL]
-Tiempo entre prod.
+Intervalo
 
 [DEVILINVADE_EASY]
 Invasión polvorienta - Fácil
@@ -16944,7 +16198,7 @@ Al usar Nutrientes, lanza 20 espadas adicionales hacia arriba y abajo (70 en tot
 Drácena es un maestro de la espada, utiliza la energía de sus ataques para dañar a los zombis de la línea.
 
 [DRACAENA_FAMILY]
-Asparagaceae (Nolinoideae)
+Asparagaceae
 
 [DRACAENA_GENUS]
 Dracaena
@@ -25836,7 +25090,7 @@ Mejora a todas las plantas en un 25% y en un 40% para las musicales cuando usa N
 Hierbaterista mejora a tutiplén a las plantas que tiene a su alrededor, pero en especial a las que tocan música.
 
 [HYDROCOTYLEDRUMMER_FAMILY]
-Apiaceae (Araliaceae)
+Apiaceae
 
 [HYDROCOTYLEDRUMMER_GENUS]
 Hydrocotyle
@@ -27572,7 +26826,7 @@ El Lanzamaíz catapulta maíz y mantequilla a los zombis.
 {KEYWORD}Nutrientes: {STAT}Invoca una tormenta de mantequilla que aturde a todos los zombis del patio durante unos segundos.
 
 [KERNELPULT_FAMILY]
-Poaceae (Gramíneas)
+Poaceae
 
 [KERNELPULT_GENUS]
 Zea
@@ -28610,7 +27864,7 @@ Junco eléctrico dispara un rayo al zombi más cercano a una línea de distancia
 {KEYWORD}Nutrientes: {STAT}Crea una tormenta que inflige daño a zombis aleatorios del patio.
 
 [LIGHTNINGREED_FAMILY]
-Poaceae (Gramíneas)
+Poaceae
 
 [LIGHTNINGREED_GENUS]
 Phragmites
@@ -45870,7 +45124,7 @@ Los Lanzaguisantes son tu primera línea defensiva. Disparan guisantes a los zom
 {KEYWORD}Nutrientes: {STAT}Dispara una ráfaga de guisantes rápidos.
 
 [PEASHOOTER_FAMILY]
-Fabáceas
+Fabaceae
 
 [PEASHOOTER_GENUS]
 Pisum
@@ -51870,26 +51124,10 @@ Caja mediana de Cupones
 Caja grande de Atuendo
 
 [PRODUCT_AVATAR_TICKET_AD_DESC]
-Ve anuncios y consigue
-^FF0000 Cupónes de Atuendo
+Ve anuncios para ^FF0000^Cupones^oldclr^ gratis
 
 [PRODUCT_AVATAR_TICKET_AD_SHORT_DESC]
-Cupones de Atuendo gratis
-
-[PRODUCT_BAMBOOSPARTAN_DESCRIPTION]
-Volveré con mi escudo... ¡o encima de él! Aunque prefiero que sea con él.
-
-[PRODUCT_BAMBOOSPARTAN_NAME]
-Planta – Bambú espartano
-
-[PRODUCT_BAMBOOSPARTAN_SEEDS]
-Semillas de Bambú espartano
-
-[PRODUCT_BAMBOOSPARTAN_SHORT_DESCRIPTION]
-Bambú espartano
-
-[PRODUCT_BANANA_LAUNCHER_SEEDS]
-Semillas de Lanzaplátanos
+Cupones gratis
 
 [PRODUCT_BATTLE_ORDER_6]
 Paquete especial de Experiencia
@@ -52390,8 +51628,7 @@ Monedas x25000
 Monedas x40000
 
 [PRODUCT_COIN_AD_DESC]
-Mira el anuncio para
-conseguir ^FF0000 Monedas ^oldclr gratis
+Ve anuncios para ^FF0000^Monedas^oldclr^ gratis
 
 [PRODUCT_COIN_AD_SHORT_DESC]
 Monedas gratis
@@ -52745,8 +51982,7 @@ Combustible x30
 45 de combustible
 
 [PRODUCT_FUEL_AD_DESC]
-Mira el anuncio para
-conseguir ^FF0000 Combustibles ^oldclr gratis
+Ve anuncios para ^FF0000^Combustible^oldclr^ gratis
 
 [PRODUCT_FUEL_AD_SHORT_DESC]
 Combustibles gratis
@@ -53115,8 +52351,7 @@ Joyas x8468
 Paquete - Platino extremo
 
 [PRODUCT_GEM_AD_DESC_IOS]
-Mira el anuncio para
-conseguir ^FF0000 Joyas ^oldclr gratis
+Ve anuncios para ^FF0000^Joyas^oldclr^ gratis
 
 [PRODUCT_GEM_AD_REWARD_DESC_FUEL]
 Mira el anuncio y consigue 5 Combustibles.
@@ -53802,44 +53037,8 @@ Compra una bolsa de petardos grande.
 [PRODUCT_LION_DANCE_04_SHORTDESC]
 Bolsa de petardos grande
 
-[PRODUCT_LOSTCITYPINATA_DESCRIPTION]
-¡50 paquetes de semillas de la Ciudad perdida!
-
-[PRODUCT_LOSTCITYPINATA_NAME]
-Piñata - Ciudad perdida
-
-[PRODUCT_LOSTCITYPINATA_SHORT_DESCRIPTION]
-Ciudad perdida
-
-[PRODUCT_LOTZ_PINATA]
-Piñata de La suerte del zombi
-
-[PRODUCT_LOTZ_SEED_BUNDLE]
-Lote de La suerte del zombi
-
 [PRODUCT_LUCKYCHEST_SHORTDESC]
 Paquete de Aniversario
-
-[PRODUCT_LUNARZOOYEAR_BUNDLE_LRG]
-Paquete Año Zoolunar
-
-[PRODUCT_LUNARZOOYEAR_BUNDLE_LRG_DESC]
-Oferta paquete Año Zoolunar
-
-[PRODUCT_LUNARZOOYEAR_BUNDLE_SML]
-Lote Año Zoolunar
-
-[PRODUCT_LUNARZOOYEAR_BUNDLE_SML_DESC]
-Ofertas Año Zoolunar
-
-[PRODUCT_LUNARZOOYEAR_PINATA]
-Piñata de Año Zoolunar
-
-[PRODUCT_MAGNET_SHROOM_SEEDS]
-Semillas de Magnetoseta
-
-[PRODUCT_MAGNIFYING_GRASS_SEEDS]
-Semillas de Hierba lupa
 
 [PRODUCT_MAINTENANCE_FREE]
 Lote de Mantenimiento
@@ -53850,23 +53049,14 @@ Lote de Mantenimiento
 [PRODUCT_MANGOFIER_NAME]
 Planta - Mangólvora
 
-[PRODUCT_MANGOFIER_SEEDS]
-Semillas de Mangólvora
-
 [PRODUCT_MANGOFIER_SHORT_DESCRIPTION]
 Mangólvora
-
-[PRODUCT_MARIGOLD_SEEDS]
-Semillas de Margarita
 
 [PRODUCT_MAYBEE_DESCRIPTION]
 Mis campanillas atraen a las abejas al patio.
 
 [PRODUCT_MAYBEE_NAME]
 Planta - Melífera
-
-[PRODUCT_MAYBEE_SEEDS]
-Semillas de Melífera
 
 [PRODUCT_MAYBEE_SHORT_DESCRIPTION]
 Melífera
@@ -53877,14 +53067,8 @@ Melífera
 [PRODUCT_MEGAGATLING_NAME]
 Planta - Megaguisantralladora
 
-[PRODUCT_MEGAGATLING_SEEDS]
-Semillas de Megaguisantralladora
-
 [PRODUCT_MEGAGATLING_SHORT_DESCRIPTION]
 Megaguisantralladora
-
-[PRODUCT_MELON_PULT_SEEDS]
-Semillas de Melonpulta
 
 [PRODUCT_METEORFLOWER_DESCRIPTION]
 ¡Trae el magnífico caos abrasador!
@@ -53892,65 +53076,20 @@ Semillas de Melonpulta
 [PRODUCT_METEORFLOWER_NAME]
 Planta - Flor meteoro
 
-[PRODUCT_METEORFLOWER_SEEDS]
-Semillas de Flor meteoro
-
 [PRODUCT_METEORFLOWER_SHORT_DESCRIPTION]
 Flor meteoro
-
-[PRODUCT_MGP_CHAMPIONS_LARGE]
-Lote Campeones de Megaguisantralladora
-
-[PRODUCT_MGP_CHAMPIONS_SMALL]
-Sobre de Megaguisantralladora
-
-[PRODUCT_MGP_CHAMPIONS_UNLOCK]
-Lote de desbloqueo de Megaguisantralladora
-
-[PRODUCT_MGP_SYNERGY_BUNDLE]
-Lote sinergia de Megaguisantralladora
-
-[PRODUCT_MGP_WINTER_PINATA]
-Piñata del evento invernal
 
 [PRODUCT_MISSILETOE_DESCRIPTION]
 ¡Lanza ráfagas congelantes!
 
-[PRODUCT_MISSILETOE_LRG]
-Superlote de Muérdago misil
-
-[PRODUCT_MISSILETOE_LRG_DESC]
-Lote semillas súper sub. niv. Muérdago misil
-
 [PRODUCT_MISSILETOE_NAME]
 Planta - Muérdago misil
-
-[PRODUCT_MISSILETOE_SEEDS]
-Semillas de Muérdago misil
-
-[PRODUCT_MISSILETOE_SHORT_DESCRIPTION]
-Muérdago misil
-
-[PRODUCT_MISSILETOE_SML]
-Lote sub. nivel Muérdago misil
-
-[PRODUCT_MISSILETOE_SML_DESC]
-Lote semillas subida nivel de Muérdago misil
-
-[PRODUCT_MODERNPINATA_DESCRIPTION]
-¡50 paquetes de semillas de los Tiempos modernos!
-
-[PRODUCT_MODERNPINATA_NAME]
-Piñata - Tiempos modernos
-
-[PRODUCT_MODERNPINATA_SHORT_DESCRIPTION]
-Tiempos modernos
 
 [PRODUCT_MONTHLY_CARD]
 Tarjeta mensual de 30 元
 
 [PRODUCT_MONTHLY_CARD_CM]
-Tarjeta mensual VIP
+Tarjeta VIP
 
 [PRODUCT_MONTHLY_CARD_CM_SHORTDESC]
 Compra una Tarjeta VIP
@@ -53980,7 +53119,7 @@ Súper-tarjeta de 30 días
 Súper-tarjeta de 90 días
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_03_SHORTDESC]
-¡Obtén Súper-Privilegios durante 90 días!
+¡Obtén Súper-privilegios durante 90 días!
 
 [PRODUCT_MONTHLY_CARD_SUPER]
 Tarjeta prémium
@@ -53994,54 +53133,38 @@ Compra una Tarjeta prémium
 [PRODUCT_MURKADAMIA_NAME]
 Planta – Nuez de Macadabria
 
-[PRODUCT_MURKADAMIA_SEEDS]
-Semillas de Nuez de Macadabria
-
 [PRODUCT_MURKADAMIA_SHORT_DESCRIPTION]
 Nuez de Macadabria
 
-[PRODUCT_MUSHROOMPINATA_DESCRIPTION]
-¡50 paquetes de semillas de setas!
-
-[PRODUCT_MUSHROOMPINATA_NAME]
-Piñata - Setas
-
-[PRODUCT_MUSHROOMPINATA_SHORT_DESCRIPTION]
-Setas
-
 [PRODUCT_MYSTERY_AD_DESC]
-Mira el anuncio para
-conseguir ^FF0000 Rubíes ^oldclr gratis
+Ve anuncios para ^FF0000^Rubíes^oldclr^ gratis
 
 [PRODUCT_MYSTERY_AD_SHORT_DESC]
 Rubíes gratis
 
 [PRODUCT_MYSTERY_CRYSTAL_1000_DESC]
-¡^FF0000 6000 ^oldclr Rubíes misteriosos!
+^FF0000^6.000^oldclr^ Rubíes
 
 [PRODUCT_MYSTERY_CRYSTAL_1000_SHORT_DESC]
-Rubí misterioso x6000
+Rubí misterioso x6.000
 
 [PRODUCT_MYSTERY_CRYSTAL_5000_DESC]
-¡Compra ^FF0000 30000 ^oldclr Rubíes misteriosos y recibe ^FF0000 6000+ ^oldclr!
+Compra ^FF0000^30.000 Rubíes^oldclr^ y recibe ^FF0000^6.000+^oldclr^
 
 [PRODUCT_MYSTERY_CRYSTAL_5000_SHORT_DESC]
-Rubí misterioso x30000
+Rubí misterioso x30.000
 
 [PRODUCT_MYSTERY_CRYSTAL_10000_DESC]
-¡Compra ^FF0000 68000 ^oldclr Rubíes misteriosos y recibe ^FF0000 16000+ ^oldclr!
+Compra ^FF0000^68.000 Rubíes^oldclr^ y recibe ^FF0000^16.000+^oldclr^
 
 [PRODUCT_MYSTERY_CRYSTAL_10000_SHORT_DESC]
-Rubí misterioso x68000
+Rubí misterioso x68.000
 
 [PRODUCT_MYSTERY_CRYSTAL_FREE_DESC]
-¡Consigue ^FF0000 1000 ^oldclr Rubíes misteriosos!
+¡^FF0000^1.000^oldclr^ Rubíes gratis!
 
 [PRODUCT_MYSTERY_CRYSTAL_FREE_SHORT_DESC]
-Rubí misterioso gratuito
-
-[PRODUCT_NEWPLAYER_SEEDS_BUNDLE]
-Sobre de inicio ¡Te damos la bienvenida al barrio!
+Rubí gratis
 
 [PRODUCT_NEWYEARGOODS_6_SHORTDESC]
 Bolsa de regalos pequeña
@@ -55131,8 +54254,7 @@ Lluvia de Soles
 Bóveda de Soles
 
 [PRODUCT_SUN_AD_DESC]
-Mira el anuncio para
-conseguir ^FF0000 Monedas ^oldclr gratis
+Ve anuncios para ^FF0000^Soles^oldclr^ gratis
 
 [PRODUCT_SUN_AD_SHORT_DESC]
 Soles gratis
@@ -55155,66 +54277,6 @@ Planta – Teletranspapum
 [PRODUCT_TELEPORTATOMINE_SHORT_DESCRIPTION]
 Teletranspapum
 
-[PRODUCT_TICKET_CONSUME_G5]
-Ticket
-
-[PRODUCT_TICKET_CONSUME_G5_S]
-Ticket
-
-[PRODUCT_TICKET_CONSUME_G20]
-4 guanteletes
-
-[PRODUCT_TICKET_CONSUME_G20_S]
-Guanteletes para Arena
-
-[PRODUCT_TICKET_CONSUME_G75]
-16 guanteletes
-
-[PRODUCT_TICKET_CONSUME_G75_S]
-Bolsa de guanteletes para Arena
-
-[PRODUCT_TICKET_CONSUME_G150]
-36 guanteletes
-
-[PRODUCT_TICKET_CONSUME_G150_S]
-Tonel de guanteletes para Arena
-
-[PRODUCT_TICKET_CONSUME_T5]
-¡5 entradas para Arena!
-
-[PRODUCT_TICKET_CONSUME_T5_S]
-5 guanteletes
-
-[PRODUCT_TICKET_CONSUME_T10]
-¡10 entradas para Arena!
-
-[PRODUCT_TICKET_CONSUME_T10_S]
-Guanteletes
-
-[PRODUCT_TICKET_CONSUME_T15]
-¡15 entradas para Arena!
-
-[PRODUCT_TICKET_CONSUME_T15_S]
-Paquete de guanteletes: 15
-
-[PRODUCT_TICKET_STOREFRONT_CONSUME_G20]
-¡4 entradas para Arena!
-
-[PRODUCT_TICKET_STOREFRONT_CONSUME_G20_S]
-4 guanteletes
-
-[PRODUCT_TICKET_STOREFRONT_CONSUME_G75]
-¡Lo más popular! ¡16 entradas para Arena!
-
-[PRODUCT_TICKET_STOREFRONT_CONSUME_G75_S]
-16 guanteletes
-
-[PRODUCT_TICKET_STOREFRONT_CONSUME_G150]
-¡Mejor calidad precio! ¡36 entradas para Arena!
-
-[PRODUCT_TICKET_STOREFRONT_CONSUME_G150_S]
-36 guanteletes
-
 [PRODUCT_TIGERGRASS_DESCRIPTION]
 ¡Hace aparecer tigres de hierba!
 
@@ -55225,25 +54287,25 @@ Planta – Hierba tigre
 Hierba tigre
 
 [PRODUCT_TIME_ENERGY_5_DESC]
-¡Consigue ^FF0000 1 ^oldclr Estabilizador del espacio-tiempo!
+^FF0000^1^oldclr^ Estabilizador temporal
 
 [PRODUCT_TIME_ENERGY_5_SHORT_DESC]
 Paquete pequeño de Estabilizadores
 
 [PRODUCT_TIME_ENERGY_15_DESC]
-¡Consigue ^FF0000 4 ^oldclr Estabilizadores del espacio-tiempo!
+^FF0000^4^oldclr^ Estabilizadores temporales
 
 [PRODUCT_TIME_ENERGY_15_SHORT_DESC]
 Paquete mediano de Estabilizadores
 
 [PRODUCT_TIME_ENERGY_30_DESC]
-¡Consigue ^FF0000 8 ^oldclr Estabilizador del espacio-tiempo!
+^FF0000^8^oldclr^ Estabilizadores temporales
 
 [PRODUCT_TIME_ENERGY_30_SHORT_DESC]
 Paquete grande de Estabilizadores
 
 [PRODUCT_TIME_ENERGY_FREE_DESC]
-¡Consigue ^FF0000 1 ^oldclr Estabilizador del espacio-tiempo!
+¡^FF0000^1^oldclr^ Estabilizador gratis!
 
 [PRODUCT_TIME_ENERGY_FREE_SHORT_DESC]
 Estabilizadores gratis
@@ -55254,9 +54316,6 @@ Estabilizadores gratis
 [PRODUCT_TOADSTOOL_NAME]
 Planta - Hongo
 
-[PRODUCT_TOADSTOOL_SEEDS]
-Semillas de Hongo
-
 [PRODUCT_TOADSTOOL_SHORT_DESCRIPTION]
 Hongo
 
@@ -55266,41 +54325,23 @@ Hongo
 [PRODUCT_TOMBTANGLER_NAME]
 Planta - Zampatumbas
 
-[PRODUCT_TOMBTANGLER_PINATA]
-Piñata Zampatumbas
-
-[PRODUCT_TOMBTANGLER_SEEDS]
-Semillas de Zampatumbas
-
 [PRODUCT_TOMBTANGLER_SHORT_DESCRIPTION]
 Zampatumbas
 
-[PRODUCT_TORCHWOOD_SEEDS]
-Semillas de Plantorcha
-
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Paquete pequeño de juguetes
+Paquete pequeño de fichas
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Paquete mediano de juguetes
+Paquete mediano de fichas
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
-Paquete limitado de juguetes
+Paquete limitado de fichas
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Paquete premium de juguetes
+Paquete premium de fichas
 
 [PRODUCT_TOY_NIGHT_198_SHORTDESC]
-Paquete lujoso de juguetes
-
-[PRODUCT_TRANSFORMATION_BUNDLE_DESCRIPTION]
-¡Bruja avellana, Hongo e Hipnoseta!
-
-[PRODUCT_TRANSFORMATION_BUNDLE_NAME]
-Lote - Lote Transformación
-
-[PRODUCT_TRANSFORMATION_BUNDLE_SHORT_DESCRIPTION]
-Lote Transformación
+Paquete lujoso de fichas
 
 [PRODUCT_TREASURE_PAVILION]
 Paquete del cazatesoros
@@ -55317,23 +54358,11 @@ Paquete grande del cazatesoros
 [PRODUCT_TREASURE_PAVILION_648_SHORTDESC]
 Paquete extragrande del cazatesoros
 
-[PRODUCT_TRICKS_AND_TREATS_BUNDLE_DESCRIPTION]
-¡Bruja avellana y Chile fantasma tienen muchos trucos!
-
-[PRODUCT_TRICKS_AND_TREATS_BUNDLE_NAME]
-Lote - Lote Trucos y tratos
-
-[PRODUCT_TRICKS_AND_TREATS_BUNDLE_SHORT_DESCRIPTION]
-Lote Trucos y tratos
-
 [PRODUCT_TUMBLEWEED_DESCRIPTION]
 ¡Rebota por la línea!
 
 [PRODUCT_TUMBLEWEED_NAME]
 Planta – Rodadora
-
-[PRODUCT_TUMBLEWEED_SEEDS]
-Semillas de Rodadora
 
 [PRODUCT_TUMBLEWEED_SHORT_DESCRIPTION]
 Rodadora
@@ -55344,14 +54373,8 @@ Rodadora
 [PRODUCT_TURKEYPULT_NAME]
 Planta: Pavopulta
 
-[PRODUCT_TURKEYPULT_SEEDS]
-Semillas de Pavopulta
-
 [PRODUCT_TURKEYPULT_SHORT_DESCRIPTION]
 Pavopulta
-
-[PRODUCT_TWIN_SUNFLOWER_SEEDS]
-Semillas de Birasol
 
 [PRODUCT_ULTOMATO_DESCRIPTION]
 ¡Se recarga y lanza un rayo!
@@ -55359,23 +54382,11 @@ Semillas de Birasol
 [PRODUCT_ULTOMATO_NAME]
 Planta: Tomate definitivo
 
-[PRODUCT_ULTOMATO_SEEDS]
-Semillas de Tomate definitivo
-
 [PRODUCT_ULTOMATO_SHORT_DESCRIPTION]
 Tomate definitivo
 
 [PRODUCT_UNCHARTED_FESTIVAL_REWARD_ACTIVATE_SHORTDESC]
 Activar premios ocultos
-
-[PRODUCT_VALENBRAINZ_PINATA]
-Piñata de Valencerebroz
-
-[PRODUCT_VALENBRAINZ_UNLOCK_LRG]
-Lote de Valencerebroz
-
-[PRODUCT_VALENBRAINZ_UNLOCK_LRG_DESC]
-Ofertas de plantas de Valencerebroz
 
 [PRODUCT_VAMPORCINI_DESCRIPTION]
 ¡Una defensa capaz de drenar salud a los zombis!
@@ -55383,41 +54394,8 @@ Ofertas de plantas de Valencerebroz
 [PRODUCT_VAMPORCINI_NAME]
 Planta - Vampoletus
 
-[PRODUCT_VAMPORCINI_SEEDS]
-Semillas de Vampoletus
-
 [PRODUCT_VAMPORCINI_SHORT_DESCRIPTION]
 Vampoletus
-
-[PRODUCT_VINE_SYNERGY_MEGA_BUNDLE]
-Megalote Sinergia de enerdaderas
-
-[PRODUCT_VINE_SYNERGY_MINI_BUNDLE]
-Minilote Sinergia de enerdaderas
-
-[PRODUCT_WALLNUT_SEEDS]
-Semillas de Nuez
-
-[PRODUCT_WALL_NUT_SEEDS]
-Semillas de Nuez
-
-[PRODUCT_WASABIWHIP_2000_BUNDLE_DESCRIPTION]
-¡Da latigazos a esos zombis con 20000 Monedas!
-
-[PRODUCT_WASABIWHIP_2000_BUNDLE_NAME]
-Lote - Látigo wasabi
-
-[PRODUCT_WASABIWHIP_2000_BUNDLE_SHORT_DESCRIPTION]
-Lote Látigo wasabi
-
-[PRODUCT_WASABIWHIP_5000_BUNDLE_DESCRIPTION]
-¡Potencia tu Látigo wasabi con 50000 Monedas!
-
-[PRODUCT_WASABIWHIP_5000_BUNDLE_NAME]
-Lote - Poder de Látigo wasabi
-
-[PRODUCT_WASABIWHIP_5000_BUNDLE_SHORT_DESCRIPTION]
-Lote Poder de Látigo wasabi
 
 [PRODUCT_WASABIWHIP_DESCRIPTION]
 ¡Da latigazos por delante y por detrás!
@@ -55425,14 +54403,8 @@ Lote Poder de Látigo wasabi
 [PRODUCT_WASABIWHIP_NAME]
 Planta - Látigo wasabi
 
-[PRODUCT_WASABIWHIP_SEEDS]
-Semillas de Látigo wasabi
-
 [PRODUCT_WASABIWHIP_SHORT_DESCRIPTION]
 Látigo wasabi
-
-[PRODUCT_WASABI_WHIP_SEEDS]
-Semillas de Látigo wasabi
 
 [PRODUCT_WATERRABBIT_DESCRIPTION]
 El cuerpo es agua (en un 90%), pero el chi es inmortal.
@@ -55440,14 +54412,8 @@ El cuerpo es agua (en un 90%), pero el chi es inmortal.
 [PRODUCT_WATERRABBIT_NAME]
 Planta - Con Chi
 
-[PRODUCT_WATERRABBIT_SEEDS]
-Semillas de Con Chi
-
 [PRODUCT_WATERRABBIT_SHORT_DESCRIPTION]
 Con Chi
-
-[PRODUCT_WINTER_MELON_SEEDS]
-Semillas de Melonpulta congelada
 
 [PRODUCT_WISHINGPOOL_6_SHORTDESC]
 Paquete del deseo pequeño
@@ -55467,14 +54433,8 @@ Paquete del deseo especial
 [PRODUCT_WITCHHAZEL_NAME]
 Planta - Bruja avellana
 
-[PRODUCT_WITCHHAZEL_SEEDS]
-Semillas de Bruja avellana
-
 [PRODUCT_WITCHHAZEL_SHORT_DESCRIPTION]
 Bruja avellana
-
-[PRODUCT_WITCH_HAZEL_SEEDS]
-Semillas de Bruja avellana
 
 [PRODUCT_WORLD_LEVEL_PACKAGE_0_SHORTDESC]
 Paquete pequeño de mundo
@@ -55488,49 +54448,32 @@ Paquete grande de mundo
 [PRODUCT_ZOMBOSS_GIFT]
 ¡Del Dr. Zombi!
 
-[PRODUCT_ZOYBEANPOD_BUNDLE]
-Lote mejora de Vaina de zoja
-
-[PRODUCT_ZOYBEANPOD_BUNDLE_DESC]
-Oferta de mejora de Vaina de zoja
-
 [PRODUCT_ZOYBEANPOD_DESCRIPTION]
 ¡Germina zomboides útiles!
 
 [PRODUCT_ZOYBEANPOD_NAME]
 Planta – Vaina de zoja
 
-[PRODUCT_ZOYBEANPOD_SEEDS]
-Semillas de Vaina de zoja
-
 [PRODUCT_ZOYBEANPOD_SHORT_DESCRIPTION]
 Vaina de zoja
 
-[PRODUCT_ZOYBEANPOD_UNLOCK]
-Lote desbloqueo Vaina de zoja
-
-[PRODUCT_ZOYBEANPOD_UNLOCK_DESC]
-Oferta de desbloqueo de Vaina de zoja
-
 [PRODUCT_Z_AD_DESC]
-Mira el anuncio para
-conseguir ^FF0000 Guanteletes ^oldclr gratis
+Ve anuncios para ^FF0000^Guanteletes^oldclr^ gratis
 
 [PRODUCT_Z_AD_SHORT_DESC]
 Guanteletes gratis
 
 [PRODUCT_Z_NUM_1_DESC]
-Consigue ^FF0000 1 ^oldclr Guantelete.
+Compra ^FF0000^1^oldclr^ Guantelete
 
 [PRODUCT_Z_NUM_1_GEM_DESC]
-Consigue ^FF0000 1 ^oldclr Guantelete.
-Límite de compra: ^FF0000 1 ^oldclr vez.
+^FF0000^1^oldclr Guantelete por Joyas (máx 1 Compra)
 
 [PRODUCT_Z_NUM_1_SHORT_DESC]
 Lote pequeño de Guanteletes
 
 [PRODUCT_Z_NUM_10_DESC]
-Consigue ^FF0000 10 ^oldclr Guanteletes.
+Consigue ^FF0000^10^oldclr^ Guanteletes.
 
 [PRODUCT_Z_NUM_10_SHORT_DESC]
 Lote grande de Guanteletes
@@ -55571,174 +54514,11 @@ Guerrero
 [PROFESSION_WARRIOR_DESCRIPTION]
 Realiza ataques cuerpo a cuerpo en un alcance corto
 
-[PROFILE_ADD_PHOTO]
-Añadir foto
-
 [PROFILE_DEFAULT_NAME]
 Usuario Dave
 
 [PROFILE_ERROR]
 No se pudo crear una nueva partida
-
-[PROGRESSIVE_REGISTRATION_BUTTON_CHANGE_EMAIL]
-Editar correo electrónico
-
-[PROGRESSIVE_REGISTRATION_BUTTON_CONFIRM]
-CONTINUAR
-
-[PROGRESSIVE_REGISTRATION_BUTTON_RESEND_CODE]
-Volver a enviar el código
-
-[PROGRESSIVE_REGISTRATION_BUTTON_VERIFY_CODE]
-VERIFICAR
-
-[PROGRESSIVE_REGISTRATION_CODE_TEXT_ENTRY_HINT]
-ESCR. CÓDIGO
-
-[PROGRESSIVE_REGISTRATION_EMAIL_TEXT_ENTRY_HINT]
-ESCRIBE TU CORREO ELECTRÓNICO
-
-[PROGRESSIVE_REGISTRATION_ERROR_BUTTON_OK]
-ACEPTAR
-
-[PROGRESSIVE_REGISTRATION_ERROR_EXPIRED_AUTHORIZATION_CODE]
-Tu código de autorización caducó. Regresa y vuelve a escribir tu correo electrónico para conseguir un código nuevo.
-
-[PROGRESSIVE_REGISTRATION_ERROR_GENERIC]
-Error en el registro. Vuelve a intentarlo más tarde.
-
-[PROGRESSIVE_REGISTRATION_ERROR_INVALID_EMAIL_FORMAT]
-Tu correo electrónico no es válido.
-
-[PROGRESSIVE_REGISTRATION_ERROR_INVALID_PHONE_NUMBER]
-Tu número de teléfono no es válido.
-
-[PROGRESSIVE_REGISTRATION_ERROR_SEND_CODE_FAILED]
-No pudimos enviar un mensaje a tu dirección de correo electrónico.
-
-[PROGRESSIVE_REGISTRATION_ERROR_TITLE]
-Error en el registro
-
-[PROGRESSIVE_REGISTRATION_ERROR_TOO_MANY_ATTEMPTS]
-No pudimos enviar un mensaje a tu dirección de correo electrónico.
-
-[PROGRESSIVE_REGISTRATION_LINK_PERSONAL_INFO]
-Ver nuestra política de privacidad y directiva de cookies
-
-[PROGRESSIVE_REGISTRATION_LINK_TITLE]
-Registrar correo electrónico
-
-[PROGRESSIVE_REGISTRATION_NOTE_CODE_SENT]
-Te enviamos un correo con un código único.
-Escribe el código en el campo que tienes arriba para verificar tu correo electrónico.
-
-[PROGRESSIVE_REGISTRATION_NOTE_CODE_TO_YOU]
-Te enviaremos un código único al correo electrónico que escribas encima.
-
-[PROGRESSIVE_REGISTRATION_NOTE_PERSONAL_INFO]
-No compartimos tu información personal.
-
-[PROGRESSIVE_REGISTRATION_SUCCESS_BUTTON_CONFIRM]
-CONTINUAR
-
-[PROGRESSIVE_REGISTRATION_SUCCESS_NOTE]
-Tu correo electrónico se registró correctamente y se vinculó a tu perfil de juego.
-
-[PROGRESSIVE_REGISTRATION_SUCCESS_TITLE]
-¡Completado!
-
-[PROGRESSIVE_REGISTRATION_VERIFIED]
-¡Verificado!
-
-[PROGRESSIVE_REGISTRATION_VERIFY_TITLE]
-Escribe tu código de verificación de correo electrónico
-
-[PROGRESS_BEACH_DANGER_DESC]
-Esta fiesta no termina nunca. ¡Ten cuidado de no extinguirte!
-
-[PROGRESS_BEACH_DANGER_TITLE]
-¡Enfréntate a la Tikitorcha!
-
-[PROGRESS_COWBOY_DANGER_DESC]
-Un fiestón infinito. ¿Puedes con él?
-
-[PROGRESS_COWBOY_DANGER_TITLE]
-¡Enfréntate al Páramo del gran mal!
-
-[PROGRESS_DARK_DANGER_DESC]
-Demuestra tu valía en una batalla oscura. ¡De la Edad Oscura!
-
-[PROGRESS_DARK_DANGER_TITLE]
-¡Enfréntate al reto de Arturo!
-
-[PROGRESS_DINO_DANGER_DESC]
-¡Es un pantano marcial infinito! ¡Sobrevive!
-
-[PROGRESS_DINO_DANGER_TITLE]
-¡Enfréntate a Los pozos de Cere-brea!
-
-[PROGRESS_EGYPT_DANGER_DESC]
-En esa pirámide hay mucho zombi para tan poca venda. ¿Puedes con ella?
-
-[PROGRESS_EGYPT_DANGER_TITLE]
-¡Enfréntate a la Pirámide de la perdición!
-
-[PROGRESS_EIGHTIES_DANGER_DESC]
-¡Unos zombis de los eternos años 80 te asaltan! ¡No podrás resistir!
-
-[PROGRESS_EIGHTIES_DANGER_TITLE]
-¡Enfréntate a los Grandes éxitos!
-
-[PROGRESS_FUTURE_DANGER_DESC]
-Vive hoy el Terror del mañana. ¡Hora del combate!
-
-[PROGRESS_FUTURE_DANGER_TITLE]
-¡Enfréntate al Terror del mañana!
-
-[PROGRESS_ICEAGE_DANGER_DESC]
-¡En este tumulto helado, congela o te congelarán!
-
-[PROGRESS_ICEAGE_DANGER_TITLE]
-¡Enfréntate al Campo de batalla helado!
-
-[PROGRESS_ITEM_HIGHEST_CHALLENGE_BEACH]
-Tikitorcha = {NUMBER}
-
-[PROGRESS_ITEM_HIGHEST_CHALLENGE_COWBOY]
-Páramo del gran mal = {NUMBER}
-
-[PROGRESS_ITEM_HIGHEST_CHALLENGE_EGYPT]
-Pirámide de la perdición = {NUMBER}
-
-[PROGRESS_ITEM_HIGHEST_CHALLENGE_LEVEL]
-Zona de infinito: Puntuación más alta
-
-[PROGRESS_ITEM_HIGHEST_CHALLENGE_PIRATE]
-Botín del muerto = {NUMBER}
-
-[PROGRESS_ITEM_KEYGATES_UNLOCKED]
-{NUMBER} Puertas cerradas abiertas
-
-[PROGRESS_ITEM_STARS_EARNED]
-{NUMBER} Estrellas obtenidas
-
-[PROGRESS_LOSTCITY_DANGER_DESC]
-Un sin fin de Zombis quieren arruinarte el día. ¡No pierdas el camino!
-
-[PROGRESS_LOSTCITY_DANGER_TITLE]
-¡Enfréntate al Templo marchito!
-
-[PROGRESS_MODERN_DANGER_DESC]
-Son los zombis de hoy, de antes y de después, ¡todos al mismo tiempo! ¡PERDICIÓOOON!
-
-[PROGRESS_MODERN_DANGER_TITLE]
-¡Enfréntate a la Autopista a la sala del peligro!
-
-[PROGRESS_PIRATE_DANGER_DESC]
-¡Atrás malditos! ¿Cuánto eres capaz de durar?
-
-[PROGRESS_PIRATE_DANGER_TITLE]
-¡Enfréntate al Botín del muerto!
 
 [PROGRESS_TIP]
 AVISOS
@@ -67150,19 +65930,18 @@ Vincular dispositivo
 [SETTINGS_UUID_UNBIND_TITLE]
 Desvincular dispositivo
 
-[SETTINGS_WWF_URL]
-https://www.ea.com/wwf
-
 [SETTING_LOGOUT_TEXT]
-Como este juego es un juego de tipo independiente, los jugadores no tienen permitido cerrar sesión en sus respectivas cuentas de usuario.
-Si hay alguna necesidad revelante de cancelación de tu cuenta, ponte en contacto con el Servicio al Cliente de QQ: 4008932088.
+Debes enviar una solicitud a soporte para eliminar tu cuenta y los datos asociados.
+
+^DB8117^Servicio al Cliente de QQ: 4008932088^oldclr^
 
 [SETTING_LOGOUT_TEXT_A]
 {SETTING_LOGOUT_TEXT}
+
 El personal se pondrá en contacto contigo en un plazo de 3-5 días laborales
 
 [SETTING_LOGOUT_TITLE]
-Cancelar cuenta
+Eliminar cuenta
 
 [SETTING_SUCCESS]
 ¡Nivel configurado con éxito!
@@ -74736,7 +73515,7 @@ Caña de azúcar bloquea y retiene a los zombis atacantes. Puede recuperar salud
 Saccharum
 
 [SUGARCANE_GENUS]
-Poaceae (Gramíneas)
+Poaceae
 
 [SUGARCANE_NEW_SKILL_LEVEL1_DES]
 Bloquea y retiene zombis, empujándolos 0,5 casillas hacia atrás.
@@ -74812,7 +73591,7 @@ Datos locales
 AVISOS
 
 [SUMMARY_STAR]
-Estrellas:
+*
 
 [SUMMARY_START]
 Comenzar
@@ -74821,7 +73600,7 @@ Comenzar
 {STAR_COUNT}
 
 [SUMMARY_TITLE]
-Datos de Progreso del Jugador
+Tu progreso
 
 [SUMMARY_UPLOAD_OK]
 Progreso subido con éxito
@@ -75166,7 +73945,7 @@ Los Girasoles son esenciales para producir sol extra. ¡Intenta plantar tantos c
 Helianthus
 
 [SUNFLOWER_GENUS]
-Asteraceae (Compositae)
+Asteraceae
 
 [SUNFLOWER_HEAD_DES]
 ¡La medalla de Girasol, símbolo de grandeza!
@@ -81724,21 +80503,6 @@ Nivel 5
 
 [WASABIWHIP_TOOLTIP]
 Da latigazos por delante y por detrás
-
-[WATCH_1_AD_DESC]
-¡Más bien una misión "anuncinante"! ¡Ves un anuncio y te dan cosas!
-
-[WATCH_1_AD_TITLE]
-¡Misión de anuncio!
-
-[WATCH_AD_FOR_POWERUP]
-OBTENER POTENCIADOR
-
-[WATCH_MULTIPLE_ADS_DESC]
-¡Ve algunos anuncios, obtén cosas, vuelve y consigue algunas cosas más! ¡Es genial!
-
-[WATCH_MULTIPLE_ADS_TITLE]
-¡Misión de anuncios!
 
 [WATER]
 Regar
@@ -89909,10 +88673,10 @@ Imposible comprar el objeto, verifica que cumplas con las condiciones establecid
 Tiendaz
 
 [PVP_EXCHANGE_CONFIRM_1]
-ACEPTAR
+Material
 
 [PVP_EXCHANGE_CONFIRM_2]
-Material insuficiente
+insuficiente
 
 [PVP_EXCHANGE_CONFIRM_3]
 ¡Juega más partidas y consigue más material para canjear esto!
@@ -89924,17 +88688,14 @@ Material insuficiente
 ¿Deseas gastar {NUMBER} para refrescar la Tienda?
 
 [PVP_EXCHANGE_CONFIRM_END_AD]
-¿Deseas gastar {NUMBER} Monedas o ver un anuncio para ^FF0000^refrescar la Tienda^oldclr^?
-Te quedan {LEFT} anuncios por ver en el día de hoy.
+¿Deseas ^FF0000^gastar {NUMBER} Monedas^oldclr^ o ^FF0000^ver un anuncio^oldclr^ para refrescar la Tienda?
+Anuncios res.: {LEFT}
 
 [PVP_EXCHANGE_CONFIRM_HEAD]
-Refrescar Tienda
+Refrescar tienda
 
 [PVP_EXCHANGE_REFRESH]
 Refrescar
-
-[PVP_EXCHANGE_TITLE]
-Tienda de Intercambios
 
 [Z_ATTACK_DIFFICULTY_1]
 Velocidad-Z
@@ -89951,359 +88712,12 @@ Los zombis se mueven un 50% más rápido.
 [Z_SPEED_DIFFICULTY_2_DIFFICULTY_2]
 Los zombis se mueven un 100% más rápido.
 
-[achieve_all_in_jest_desc]
-Completa un nivel sin que los Zombis bufones devuelvan proyectiles
-
-[achieve_all_in_jest_title]
-Bufón total
-
-[achieve_banana_storm_desc]
-Completa un nivel de Playa usando solo plátanos para destruir zombis
-
-[achieve_banana_storm_title]
-Tormenta de plátanos
-
-[achieve_big_kahunka_desc]
-Derrota a los Zombisteins de las profundidades para conseguir su llave de mundo
-
-[achieve_big_kahunka_title]
-Gran Kahunka
-
-[achieve_broadside_desc]
-Usa un Cococañón para destruir un Cañón zombidito
-
-[achieve_broadside_title]
-Cañones fuera
-
-[achieve_cowboy_stars_desc]
-Completa el Salvaje Oeste
-
-[achieve_cowboy_stars_title]
-¡Yiiija!
-
-[achieve_dog_whisperer_desc]
-Destruye un Zombi levantatumbas antes de que levante una tumba
-
-[achieve_dog_whisperer_title]
-Visto y Anubis-to
-
-[achieve_dragon_age_desc]
-Planta 10 Bocas de dragón en un solo nivel
-
-[achieve_dragon_age_title]
-Dragon Age
-
-[achieve_egypt_stars_desc]
-Completa el Antiguo Egipto
-
-[achieve_egypt_stars_title]
-Nuezankamón
-
-[achieve_eighties_back_from_the_future_3_desc]
-Planta a Tomillo tiempillo tres veces en el mismo nivel
-
-[achieve_eighties_back_from_the_future_3_title]
-Regreso al futuro 3
-
-[achieve_eighties_beet_it_desc]
-Completa un nivel utilizando únicamente Remolachas tremendas para derrotar a los zombis
-
-[achieve_eighties_beet_it_title]
-Con toda la remolacha
-
-[achieve_eighties_breaking_it_off_desc]
-Derrota a un Zombi radiocasetero antes de que exprese sus sentimientos con el poder de la música
-
-[achieve_eighties_breaking_it_off_title]
-Rómpelo
-
-[achieve_eighties_drop_the_mic_desc]
-Completa Vueltacasete de neón, cara B
-
-[achieve_eighties_drop_the_mic_title]
-Tira el micro
-
-[achieve_eighties_head_banger_desc]
-Utiliza una magnetoseta en un Zombi punk
-
-[achieve_eighties_head_banger_title]
-Mueve la cabeza
-
-[achieve_eighties_volume_goes_to_sixteen_desc]
-Derrota al Zombistein Heavy Metal
-
-[achieve_eighties_volume_goes_to_sixteen_title]
-Volumen al dieciséis
-
-[achieve_fly_fishing_fail_desc]
-Completa un nivel en el que los pescadores no pesquen tus plantas
-
-[achieve_fly_fishing_fail_title]
-Pesca fallida
-
-[achieve_fried_chicken_desc]
-Usa el Junco eléctrico en una gallina
-
-[achieve_fried_chicken_title]
-Pollo frito
-
-[achieve_fungus_humongous_desc]
-Activa 20 Setas desesporadas con una unidad de Nutrientes
-
-[achieve_fungus_humongous_title]
-Hongo descomunal
-
-[achieve_future_complete_desc]
-Completa el Futuro lejano
-
-[achieve_future_complete_title]
-Contra el jefe
-
-[achieve_future_gargantuar_desc]
-Suelta al Zombistein del Futuro lejano
-
-[achieve_future_gargantuar_title]
-Motor primario
-
-[achieve_future_grass_effect_desc]
-Dispara 500 soles a con una Hierba lupa
-
-[achieve_future_grass_effect_title]
-Grass Effect
-
-[achieve_future_jettisons_desc]
-Usa el Trebolador para acabar con 30 Zombis propulsados en un nivel
-
-[achieve_future_jettisons_title]
-Supersónicos
-
-[achieve_future_rerespawn_desc]
-Planta una Nuez infinita que caiga y se regenere dos veces
-
-[achieve_future_rerespawn_title]
-Regeneración
-
-[achieve_future_sun_damaged_desc]
-Activa una Bomba sol que destruya un Cono mecanizado
-
-[achieve_future_sun_damaged_title]
-Sol dañado
-
-[achieve_future_tile_denial_desc]
-Completa un nivel del Futuro sin plantar casillas potenciadoras
-
-[achieve_future_tile_denial_title]
-Casilla negada
-
-[achieve_giddyup_desc]
-Suelta al Zombistein del Salvaje oeste
-
-[achieve_giddyup_title]
-¡Arre!
-
-[achieve_hammer_time_desc]
-Desata al Zombistein de la Edad Oscura
-
-[achieve_hammer_time_title]
-Hora del martillo
-
-[achieve_high_five_desc]
-Planta cinco Nueces cáscara-rabias y usa Nutrientes en todas ellas
-
-[achieve_high_five_title]
-Choca esos cinco
-
-[achieve_iceage_barrage_desc]
-Derrota a los Zombisteins perezosos para conseguir su llave de mundo
-
-[achieve_iceage_barrage_title]
-Descarga a tres
-
-[achieve_iceage_iceblockade_desc]
-En un nivel con Troglobocados, no dejes que los Troglobocados empujen ningún bloque de hielo más allá de la 6.ª columna
-
-[achieve_iceage_iceblockade_title]
-Barricada de hielo
-
-[achieve_iceage_knockemdead_desc]
-Echa hacia atrás a 6 zombis con un golpe de Guardacelga
-
-[achieve_iceage_knockemdead_title]
-¡Déjalos muertos!
-
-[achieve_iceage_meltdown_desc]
-Completa las Cuevas congeladas
-
-[achieve_iceage_meltdown_title]
-¡Fusión!
-
-[achieve_iceage_runweasley_desc]
-En un nivel con Comadrejeras, no dejes que las Comadrejas salten a los deslizadores
-
-[achieve_iceage_runweasley_title]
-Comadreja saltarina
-
-[achieve_iceage_sothawful_desc]
-Descongela 13 bloques de hielo en un mismo nivel
-
-[achieve_iceage_sothawful_title]
-Deshielo
-
-[achieve_iceberg_desc]
-Congela 20 zombis con una única Lechuga iceberg
-
-[achieve_iceberg_title]
-20 bajo cero
-
-[achieve_king_nut_desc]
-Suelta al Zombistein de Egipto
-
-[achieve_king_nut_title]
-Nuezertiti
-
-[achieve_magical_fruit_desc]
-Aturde a 10 zombis con un Frijol
-
-[achieve_magical_fruit_title]
-Frijoles con amor
-
-[achieve_mutiny_desc]
-Destruye a un Zombi capitán pirata antes de que su loro pueda volar
-
-[achieve_mutiny_title]
-Motín
-
-[achieve_no_smoking_desc]
-Extingue la antorcha de un Zombi explorador
-
-[achieve_no_smoking_title]
-No fumar
-
-[achieve_not_baaad_desc]
-Completa un nivel sin que los Magos transformen plantas en ovejas
-
-[achieve_not_baaad_title]
-No está maaaaal
-
-[achieve_off_the_green_desc]
-Completa el tutorial
-
-[achieve_off_the_green_title]
-Ya no estás tan verde
-
-[achieve_out_of_darkness_desc]
-Completa la Edad Oscura
-
-[achieve_out_of_darkness_title]
-Sin oscuridad
-
-[achieve_pat_the_birdy_desc]
-Pon mantequilla en el Zombi gaviotero
-
-[achieve_pat_the_birdy_title]
-Ay, pájaro
-
-[achieve_pirate_stars_desc]
-Completa los Mares piratas
-
-[achieve_pirate_stars_title]
-Botín pirata
-
-[achieve_pod_squad_desc]
-Aumenta al máximo una Vaina en un carro de mina
-
-[achieve_pod_squad_title]
-A toda vaina
-
-[achieve_sasquash_desc]
-Destruye un Yeti
-
-[achieve_sasquash_title]
-¡A por el Yeti!
-
-[achieve_shell_on_wheels_desc]
-Planta una Nuez en un carro de mina
-
-[achieve_shell_on_wheels_title]
-Cáscara sobre ruedas
-
-[achieve_spudow_desc]
-Explota un zombi con una Papapúm
-
-[achieve_spudow_title]
-¡SPUDOW!
-
-[achieve_sun_catcher_desc]
-Consigue 10 soles de un único Zombi Ra
-
-[achieve_sun_catcher_title]
-Agarra esos soles
-
-[achieve_ten_pin_kapow_desc]
-Destruye 10 zombis con un solo bulbo de Bulbo de bolera
-
-[achieve_ten_pin_kapow_title]
-Pleno al diez
-
-[achieve_undertow_desc]
-Derrota a 10 zombis con Zampalga en un solo nivel
-
-[achieve_undertow_title]
-Resaca
-
-[achieve_vaquero_stars_desc]
-Completa el Salvaje Oeste
-
-[achieve_vaquero_stars_title]
-¡Yiiija!
-
-[achieve_vasebreaker_PotteryTrained_desc]
-Supera la oleada 30 en Rompejarrones infinito
-
-[achieve_vasebreaker_PotteryTrained_name]
-Conocimientos de alfarería
-
-[achieve_vasebreaker_TombBreaker_desc]
-Completa el paquete Desafío egipcio
-
-[achieve_vasebreaker_TombBreaker_name]
-Rompetumbas
-
-[achieve_vasebreaker_davyjonesvase_desc]
-Completa el Sobre Desafío Mares piratas
-
-[achieve_vasebreaker_davyjonesvase_name]
-Jarrón de Davy Jones
-
-[achieve_vasebreaker_vasewrangler_desc]
-Completa el Sobre Desafío Salvaje Oeste
-
-[achieve_vasebreaker_vasewrangler_name]
-Cowboy de jarrones
-
-[achieve_wave_goodbye_desc]
-Completa la Playa de la gran ola
-
-[achieve_wave_goodbye_title]
-A la playa
-
-[achieve_yarr_matey_desc]
-Suelta al Zombistein pirata
-
-[achieve_yarr_matey_title]
-Arr, marinero
-
-[achieve_your_hat_sir_desc]
-Destruye un zombi solamente con los daños infligidos por una Magnetoseta
-
-[achieve_your_hat_sir_title]
-¡Su sombrero, señor!
-
 [birthdayz_surprise]
 ¡Sorpresa de cumpleañoz!
 
 [bloominghearts_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza proyectiles de corazón extragrandes que infligen mayor daño. ^D22808^Daño: 400 (aumenta en 40/impacto, max. 600)^oldclr^
+Lanza proyectiles de corazón extragrandes que infligen mayor daño.
+^D22808^Daño: 400 (aumenta en 40/impacto, max. 600)^oldclr^
 
 [bloominghearts_NEW_SKILL_LEVEL1_DES]
 Lanza proyectiles que obsesionan zombis. ^D22808^Daño: aumenta en 10 por impacto (máx. 50)^oldclr^
