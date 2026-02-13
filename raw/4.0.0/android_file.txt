@@ -463,10 +463,10 @@ Acuática
 Destructora
 
 [ADVENTURE_FLAGS_DES_BLACK]
-Planta negra
+Negra
 
 [ADVENTURE_FLAGS_DES_BLUE]
-Planta azul
+Azul
 
 [ADVENTURE_FLAGS_DES_BOMB]
 Explosiva
@@ -475,7 +475,7 @@ Explosiva
 Hermanos
 
 [ADVENTURE_FLAGS_DES_BROWN]
-Planta marrón
+Marrón
 
 [ADVENTURE_FLAGS_DES_BURN]
 Fuego
@@ -502,7 +502,7 @@ Voladora
 Dentuda
 
 [ADVENTURE_FLAGS_DES_GREEN]
-Planta verde
+Verde
 
 [ADVENTURE_FLAGS_DES_ILLLOOKING]
 Malévola
@@ -526,7 +526,7 @@ Mágica
 Anciana
 
 [ADVENTURE_FLAGS_DES_ORANGE]
-Planta anaranjada
+Anaranjada
 
 [ADVENTURE_FLAGS_DES_PEA]
 Familia de guisantes
@@ -538,10 +538,10 @@ Ataque y defensa
 Productora
 
 [ADVENTURE_FLAGS_DES_PURPLE]
-Planta púrpura
+Púrpura
 
 [ADVENTURE_FLAGS_DES_RED]
-Planta roja
+Roja
 
 [ADVENTURE_FLAGS_DES_ROTATION]
 Familia de tornados
@@ -574,10 +574,10 @@ Agua
 Familia de armas
 
 [ADVENTURE_FLAGS_DES_WHITE]
-Planta blanca
+Blanca
 
 [ADVENTURE_FLAGS_DES_YELLOW]
-Planta amarilla
+Amarilla
 
 [ADVENTURE_FLAGS_UNACHIVED_COLOR_PRE]
 ^FF0000^
@@ -592,13 +592,13 @@ Obtuviste esta medalla al quitar la publicidad de por vida.
 Tiempo fugaz
 
 [ADVERTISEMENT_WATCH]
-Ver anuncios
+VER ANUNCIO
 
 [ADVERTISEMENT_WATCH_REWARD]
 ¡Gana Recompensas por ver Anuncios!
 
 [ADVERTISEMENT_WATCH_TIMES]
-Ver anuncio ({NUMBER} disponibles)
+Ver anuncio ^FF0000^(res.: {NUMBER})^oldclr^
 
 [ADVICE_ABOUT_PLANT_ARMORFLAME]
 La Estrella infernal requiere 2 casillas para plantarse
@@ -719,43 +719,10 @@ Te esperará en tu Jardín Zen.
 Después de colocar el Sombrero mágico, puede aparecer cualquier planta o zombi, ¡ten cuidado!
 
 [ADVICE_DANGERROOM]
-¡Desbloquea la Zona del Infinito y múestranos hasta dónde puedes llegar!
-
-[ADVICE_DANGER_ROOM_BEACH_UNLOCKED]
-¡Tikitorcha disponible!
-
-[ADVICE_DANGER_ROOM_COWBOY_UNLOCKED]
-¡Ya disponible el Páramo del gran mal!
-
-[ADVICE_DANGER_ROOM_DARK_UNLOCKED]
-¡Ya disponible el reto de Arturo!
-
-[ADVICE_DANGER_ROOM_DINO_UNLOCKED]
-¡Ya disponibles Los pozos de Cere-brea!
-
-[ADVICE_DANGER_ROOM_EGYPT_UNLOCKED]
-¡Ya disponible la Pirámide de la perdición!
-
-[ADVICE_DANGER_ROOM_EIGHTIES_UNLOCKED]
-¡Ya disponibles los Grandes éxitos!
-
-[ADVICE_DANGER_ROOM_FUTURE_UNLOCKED]
-¡Ya está disponible el Terror del mañana!
-
-[ADVICE_DANGER_ROOM_ICEAGE_UNLOCKED]
-¡Campo de batalla helado disponible!
-
-[ADVICE_DANGER_ROOM_LOSTCITY_UNLOCKED]
-¡Ya disponible el Templo marchito!
-
-[ADVICE_DANGER_ROOM_MODERN_UNLOCKED]
-¡Autopista a la sala del peligro disponible!
-
-[ADVICE_DANGER_ROOM_PIRATE_UNLOCKED]
-¡Ya disponible el Botín del muerto!
+¡Desbloquea la Zona de Infinito y múestranos hasta dónde puedes llegar!
 
 [ADVICE_DANGER_ROOM_UNLOCKED]
-¡Zona del Infinito desbloqueada!
+¡Zona de Infinito desbloqueada!
 
 [ADVICE_DEFEND_BEFORE_MINES_GONE]
 Las Papapúms son potentes explosivos que necesitan tiempo para prepararse. ¡Pruébalas!
@@ -822,10 +789,10 @@ Mejora los genes de tus plantas para aumentar su poder de combate.
 ¡Echa un vistazo al almanaque!
 
 [ADVICE_GOTO_DANGERROOM]
-Nuevo modo Zona del Infinito: hay un sinfín de desafíos, echémosle un vistazo...
+Nuevo modo Zona de Infinito: hay un sinfín de desafíos, echémosle un vistazo...
 
 [ADVICE_GOTO_DANGER_ROOM]
-Ir a Zona del Infinito
+Ir a Zona de Infinito
 
 [ADVICE_GOTO_GACHA]
 ¡Ya puedes abrir el tesoro de Penny!
@@ -2944,7 +2911,7 @@ Paquetes
 3. Tu progreso en este evento se irá acumulando con cada riego, el equipo de Plantas contra Zombis 2 plantará árboles reales de acuerdo con el progreso final.
 
 [ARBORDAY_DESCRIPTION_TITLE]
-¿CÓMO JUGAR?
+REGLAS DEL EVENTO
 
 [ARBORDAY_FULL]
 El árbol ya ha producido todos sus frutos, reclama las recompensas primero para seguir regándolo y obtener más.
@@ -5137,18 +5104,18 @@ SALIR A LA TIENDA
 ¡Sustituye a los ezcorpiones romanos en el nivel!
 
 [BAMBOO]
-Raíz de bambú
+Brote de bambú
 
 [BAMBOO_AVATAR_PLANTFOOD_DESCRIPTION]
 Ataca a 2 objetivos adicionales al usar Nutrientes (6 en total).
 
 [BAMBOO_DESCRIPTION]
-{KEYWORD}Características de la planta: {STAT}planta verde, de baja estatura, destructora, familia perforante
+{KEYWORD}Características de la planta: {STAT}planta verde, de baja estatura
 
-{FLAVOR}Raíz de bambú aprendió la técnica de excavación en el suelo de Tuxing Sun, y, junto con su profunda determinación, finalmente obtuvo su licenciatura en el Colegio de Ingeniería de Excavación Profesional.
+{FLAVOR}Brote de bambú aprendió la técnica de excavación en el suelo de Tuxing Sun, y, junto con su profunda determinación, finalmente obtuvo su licenciatura en el Colegio de Ingeniería de Excavación Profesional.
 
 [BAMBOO_DESCRIPTION_HEADER]
-Raíz de bambú se mueve hacia adelante y hacia atrás por el suelo, perforando a los zombis que lo pisen.
+Brote de bambú se mueve hacia adelante y hacia atrás por el suelo, perforando a los zombis que lo pisen.
 
 [BAMBOO_FAMILY]
 Poaceae
@@ -5312,7 +5279,7 @@ Completa 5 Niveles en la Búsqueda de Penny esta semana.
 Gana 2 partidas en Batallaz esta semana.
 
 [BATTLEORDER_TASK_NAME_2_7]
-Alcanza el Nivel 35 en la Zona del Infinito esta semana.
+Alcanza el Nivel 35 en la Zona de Infinito esta semana.
 
 [BATTLEORDER_TASK_NAME_2_8]
 Publica 2 Niveles en el Patio de la Creatividad esta semana.
@@ -5366,7 +5333,7 @@ Consigue 300 Piezas de plantas este mes.
 Consigue 150 Piezas de Colgantes o de Súper-colgantes este mes.
 
 [BATTLEORDER_TASK_NAME_3_11]
-Alcanza el Nivel 120 en la Zona del Infinito este mes.
+Alcanza el Nivel 120 en la Zona de Infinito este mes.
 
 [BATTLEORDER_TASK_NAME_3_12]
 Publica 10 Niveles en el Patio de la Creatividad este mes.
@@ -6597,10 +6564,10 @@ Llave pirata
 Consigue 1 llave para: Mares piratas
 
 [BONUS_CARD_PIECE_BAMBOO]
-Raíz de bambú: Piezas
+Brote de bambú: Piezas
 
 [BONUS_CARD_PIECE_BAMBOO_DESCRIPTION]
-Consigue Piezas para Raíz de bambú:
+Consigue Piezas para Brote de bambú:
 
 [BONUS_CARD_PIECE_BANANA]
 Lanzaplátanos: Piezas
@@ -6849,10 +6816,10 @@ Piezas de Roble arquero
 ¡Consigue algunas Piezas de Roble arquero!
 
 [BONUS_CARD_PIECE_PAMEGRANATE]
-Piezas de Granada escupidora
+Piezas de Granada metralla
 
 [BONUS_CARD_PIECE_PAMEGRANATE_DESCRIPTION]
-¡Consigue algunas Piezas de Granada escupidora!
+¡Consigue algunas Piezas de Granada metralla!
 
 [BONUS_CARD_PIECE_PEACH]
 Piezas de Durazno celestial
@@ -8885,12 +8852,12 @@ Los Paquetes especiales pueden comprarse hasta 3 veces durante el evento.
 Los Paquetes normales solo pueden comprarse una vez al día.
 
 [CALL_OF_WISH_DESCRIPTION]
-1. Los jugadores pueden elegir la planta que deseen de la Lista de plantas.
-2. Los jugadores pueden usar Joyas o Boletos del deseo para pedir plantas.
+1. Elige la planta que desees de la Lista de plantas.
+2. Gasta Joyas o Boletos del deseo para pedir plantas.
 3. Los Boletos del deseo se pueden obtener comprando Paquetes de Regalo o completando misiones.
 
 [CALL_OF_WISH_DESCRIPTION_TITLE]
-¿CÓMO JUGAR?
+REGLAS DEL EVENTO
 
 [CALL_OF_WISH_INTEGRAL]
 Puntos
@@ -10349,7 +10316,7 @@ Nepenthaceae
 Nepenthes
 
 [CHOMPER_NEW_SKILL_LEVEL1_DES]
-Devora un zombi y después lo mastica un rato.
+Devora un zombi y después lo mastica durante 10 s
 ^D22808^Límite: zombis grandes o de mayor nivel^oldclr^
 
 [CHOMPER_NEW_SKILL_LEVEL2_DES]
@@ -10929,23 +10896,11 @@ Despierta a las plantas cercanas
 [COFFEEBEAN_TOOLTIP]
 Despierta a las plantas cercanas
 
-[COINSPRODUCT_BUNDLE_LEVITATER_SUPG_CONSUME_T40]
-400 paquetes de semillas de Levitadora + 100 joyas + 10.000 monedas
-
-[COINSPRODUCT_BUNDLE_MEGAGATLING_SUPG_CONSUME_T40]
-400 paquetes de semillas de Megaguisantralladora + 100 joyas + 10.000 monedas
-
-[COINSPRODUCT_SG_LEVITATER_CONSUME_G]
-10 paquetes de semillas de Levitadora + 10 semillas de la familia de Deteni-menta
-
-[COINSPRODUCT_SG_MEGAGATLING_CONSUME_G]
-10 paquetes de semillas de Megaguisantralladora + 10 semillas de la familia de Deteni-menta
-
 [COINSTORE_AD_LEFT]
-Cosas gratis (anuncios restantes: {NUMBER})
+Cosas gratis ^FF0000^(anuncios restantes: {NUMBER})^oldclr^
 
 [COINSTORE_AD_LEFT_SUN]
-Soles gratis (anuncios restantes: {NUMBER})
+Soles gratis ^FF0000^(anuncios restantes: {NUMBER})^oldclr^
 
 [COIN_AWARD_HEADER1]
 ¡Conseguiste {NUMBER} monedas!
@@ -11775,7 +11730,7 @@ La traca derriba y ^848484^aturde^oldclr^ a los zombis que la pisen durante 2 s 
 {KEYWORD}Especial: {STAT}tras explotar, puede expulsar zombis de salud baja
 {KEYWORD}Características de la planta: {STAT}planta verde, anciana
 
-{FLAVOR}Vive en una casa grande al oeste del pueblo. Parece mala persona, pero en realidad, es un anciano amoroso. Traerá petardos para los niños de la ciudad en el Festival de Primavera, esperando que pasen un feliz año nuevo. Lo que más desea este año es que su nieto, Raíz de bambú, lo visitara algun día.
+{FLAVOR}Vive en una casa grande al oeste del pueblo. Parece mala persona, pero en realidad, es un anciano amoroso. Traerá petardos para los niños de la ciudad en el Festival de Primavera, esperando que pasen un feliz año nuevo. Lo que más desea este año es que su nieto, Brote de bambú, lo visitara algun día.
 
 [CRACKER_DESCRIPTION_HEADER]
 Bambú explosivo se activa al contacto, dañando a los zombis cercanos o expulsándolos si su salud es baja.
@@ -12484,7 +12439,7 @@ Trofeo dorado
 Tienda de Trofeos
 
 [CURRENCY_STRING]
-{CURRENCY_SYMBOL}{AMOUNT}
+{CURRENCY_SYMBOL} {AMOUNT}
 
 [CURRENCY_SYMBOL]
 $
@@ -12493,7 +12448,7 @@ $
 Efecto actual:
 
 [CURRENT_PLANTS_LEVEL_IS_LOW]
-Este nivel tiene zombis de Nvl. {ZOMBIE_LEVEL}, y necesitas plantas de Nvl. {PLANT_LEVEL} para completarlo,  ¿seguro que quieres continuar?
+Necesitas ^D22808^plantas de Nvl. {PLANT_LEVEL}^oldclr^ para completar este nivel,  ¿seguro que quieres continuar?
 
 [CURRENT_SCORE]
 Pts. actuales: {NUM}
@@ -12532,10 +12487,10 @@ Filtros
 FILTRAR
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_GUESS_LIKE]
-También te puede interesar
+Recomendados
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_HAS_FAVOR_NUM]
-Valoración: {NUMS}/100
+Favoritos: {NUMS}/100
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_LIKE_DESC]
 {NUMS}/10000
@@ -12556,16 +12511,16 @@ Favoritos
 Más nuevo
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_0]
-Clasificación general
+Clasif. general
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_1]
-Clasificación mensual
+Clasif. mensual
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_2]
-Clasificación semanal
+Clasif. semanal
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_REFRESH_COOL_DOWN_DESC]
-Tiempo de reutilización
+¡La lista de niveles se refrescó con éxito!
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_SEARCH]
 Buscar
@@ -12628,7 +12583,7 @@ Filtrar por Modos
 Filtrar por Mundos
 
 [CUSTOM_LEVEL_INVALID_LEVEL_ID]
-No se pudo encontrar el Nivel, vuelve a ingresar el ID del Nivel.
+No se pudo encontrar el Nivel, vuelve a ingresar el ID
 
 [CUSTOM_LEVEL_LEADER_BOARD_TITLE]
 Tabla de Clasificación
@@ -12637,7 +12592,7 @@ Tabla de Clasificación
 JUGAR
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_COPYCHANGE]
-Permite que otros jugadores modifiquen tus Niveles.
+Permitir cambios
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_DELETE]
 ELIMINAR
@@ -12680,7 +12635,7 @@ Habilitar copia
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_DELETE_HINT]
 Si eliminas este Nivel, se borrarán todos sus datos, incluyendo su historial.
-Una vez borrado, no podrás recuperar el Nivel, ¿seguro que deseas continuar?
+^FF0000^Una vez borrado, no podrás recuperar el Nivel, ¿seguro que deseas continuar?^oldclr^
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_DISABLE_COPY_TITLE]
 Deshabilitar copia
@@ -12737,7 +12692,7 @@ Cambiar nombre
 Nombre del Nivel: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_PLAY_STYLE]
-Modo de Juego:  ^356D14 {NAME} ^oldclr
+Modo de Juego:  ^356D14^{NAME}^oldclr^
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_UPDATE_DATE]
 Última modificación: {NAME}
@@ -12749,17 +12704,17 @@ Fecha de carga: {NAME}
 Mundo: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TITLE]
-Detalles del Nivel
+Detalles del nivel
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_UPLOAD_LEVELNAME_TOO_LONG_DESC]
-El nombre del Nivel es muy largo.
+El nombre del nivel es muy largo.
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_UPLOAD_NOT_FINISH_LEVEL_DESC]
-Primero completa el Nivel.
+Primero completa el nivel.
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_UPLOAD_SUCCESS_DESC]
-¡Has publicado tu Nivel con éxito!
-ID del Nivel: {NUMS}
+¡Has publicado tu nivel con éxito!
+^DB8117^ID del Nivel: {NUMS}^oldclr^
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_UPLOAD_SUCCESS_TITLE]
 ¡Publicación exitosa!
@@ -12792,7 +12747,7 @@ Todos para uno
 Rompejarrones
 
 [CUSTOM_LEVEL_LINKED_SUCCESS]
-El número de teléfono se vinculo correctamente.
+El número de teléfono se vinculó correctamente.
 
 [CUSTOM_LEVEL_MAINMENU_TITLE]
 Editor de Niveles
@@ -12811,7 +12766,8 @@ Tienda del Editor
 
 [CUSTOM_LEVEL_MOTIVATE_DESCRIPTION]
 Para obtener más información sobre los Puntos de la Creatividad, visita el Patio de la Creatividad.
-Puedes canjear dichos puntos por grandes premios, incluidas recompensas físicas.
+
+^E2725B^Puedes canjear dichos puntos por grandes premios, incluidas recompensas físicas.^oldclr^
 
 [CUSTOM_LEVEL_MOTIVATE_GO_BUTTON]
 IR AL CREADOR
@@ -12835,10 +12791,10 @@ Monedas del Jugador: {NUM1}/{NUM2}
 Nivel reportado
 
 [CUSTOM_LEVEL_REPORT_SURE]
-¿Seguro que deseas reportar este Nivel?
+¿Seguro que deseas reportar este Nivel por uso de hacks o exploits?
 
 [CUSTOM_LEVEL_REPORT_TIPS]
-Reportar Nivel
+Reportar nivel
 
 [CUSTOM_LEVEL_REWARED]
 Ya has recibido Monedas del Jugador en este Nivel.
@@ -12853,13 +12809,17 @@ Ingresa el ID del Nivel
 Activar derechos de creador
 
 [CUSTOM_LEVEL_SETTING_ACTIVATION_DESCRIPTION]
-Los derechos de creador aún no se han activado. Vincula tu dispositivo e inicia sesión en la Plataforma de Creación para solicitar la Función de Incentivo a la Creación. Usando dicha función, podrás establecer Accesorios de Incentivo para tu Nivel e invitar a tus amigos a que jueguen tus Niveles y usen los Accesorios.
+Los derechos de creador aún no se han activado. Vincula tu dispositivo e inicia sesión en la Plataforma de Creación para solicitar la función de Incentivo a la Creación.
+
+Usando dicha función, podrás establecer Accesorios de Incentivo para tu Nivel e invitar a tus amigos a que jueguen tus Niveles y usen los Accesorios.
 
 [CUSTOM_LEVEL_SETTING_CERTIFICATION]
 Verificar usuario
 
 [CUSTOM_LEVEL_SETTING_CERTIFICATION_DESCRIPTION]
-Conviértete en un creador certificado y consigue Monedas de la Creatividad creando niveles de calidad. Puedes canjear tus Monedas por Recompensas en la Plataforma de Creadores.
+Conviértete en un creador certificado y consigue Monedas de la Creatividad creando niveles de calidad. 
+
+^E2725B^Puedes canjear tus Monedas por Recompensas en la Plataforma de Creadores.^oldclr^
 
 [CUSTOM_LEVEL_SETTING_CERTIFICATION_HINT]
 Se ha aplicado la certificación, espera la revisión pacientemente.
@@ -12877,7 +12837,7 @@ Desactivar recomendaciones
 Ir a la plataforma
 
 [CUSTOM_LEVEL_SETTING_HINT_DESC]
-Si desactivas la función "Recomendado para ti", perderás la oportunidad de descubrir niveles nuevos e interesantes.
+^FF0000^Si desactivas la función "Recomendado para ti", perderás la oportunidad de descubrir niveles nuevos e interesantes.^oldclr^
 
 [CUSTOM_LEVEL_SETTING_HINT_TITLE]
 Deshabilitar avisos
@@ -12886,9 +12846,11 @@ Deshabilitar avisos
 (Ya vinculado)
 
 [CUSTOM_LEVEL_SETTING_LINKED_DESCRIPTION]
-Puedes iniciar sesión en la Plataforma de Creadores y usar la Función de Incentivo a la Creación una vez vincules tu teléfono.
-Solo se admiten números de teléfonos de China continental (+86). Una vez vinculado el dispositivo, recibirás grandes premios.
-^FF0000^ Puedes volver a vincular tu número de teléfono cada 60 días.^oldclr^
+Puedes iniciar sesión en la Plataforma de Creadores y usar la función de Incentivo a la Creación una vez vincules tu teléfono.
+
+^FF0000^Solo se admiten números de teléfonos de China continental (+86)^oldclr^
+
+^E2725B^Puedes volver a vincular tu número cada 60 días.^oldclr^
 
 [CUSTOM_LEVEL_SETTING_MUST_LINKED]
 (Requiere vincular el dispositivo)
@@ -12906,22 +12868,26 @@ Solo se admiten números de teléfonos de China continental (+86). Una vez vincu
 Vincular teléfono
 
 [CUSTOM_LEVEL_SETTING_PHONE_DESCRIPTION]
-Tras vincular tu teléfono, podrás iniciar sesión en la Plataforma de Creadores y solicitar la función de Incentivo del Creador. La primera vez que vincules tu dispositivo con éxito, ¡obtendrás Recompensas geniales!
+Tras vincular tu teléfono, podrás iniciar sesión en la Plataforma de Creadores y solicitar la función de Incentivo del Creador. 
+
+^E2725B^Obtienes recompensas la primera vez que vincules tu dispositivo.^oldclr^
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT1]
-Tu teléfono no está vinculado. Vincúlalo para obtener recompensas geniales.
+Número no vinculado. ^E2725B^Vincúlalo para obtener recompensas.^oldclr^
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT2]
-El número de teléfono {NUMBER1} se ha vinculado con éxito. Este puede volver a vincularse en {NUMBER2} días.
+Número vinculado: {NUMBER1} ^FF0000^(se puede volver a usar en {NUMBER2} d)^oldclr^
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT3]
-El número de teléfono {NUMBER1} se ha vinculado con éxito. Este puede volver a vincularse ahora.
+Número vinculado: {NUMBER1} ^FF0000^(se puede volver a usar ahora)^oldclr^
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND]
 Recomendaciones
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_DESCRIPTION]
-Aquí puedes activar o desactivar las recomendaciones de la página de inicio. Si desactivas la función "Recomendado para ti", perderás la oportunidad de descubrir niveles nuevos e interesantes.
+Aquí puedes activar o desactivar las recomendaciones de la página de inicio.
+
+Si desactivas la función "Recomendado para ti", perderás la oportunidad de descubrir niveles nuevos e interesantes.
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND_DISABLE]
 Activar
@@ -12942,7 +12908,7 @@ La certificación ha sido enviada. Espera el resultado pacientemente.
 ¿Deseas gastar {NUMS} Monedas del Jugador para comprar este Artículo?
 
 [CUSTOM_LEVEL_SINGLE_HANDED_LEVELUP_TITLE]
-Puntuación objetivo
+Planta evolucionada
 
 [CUSTOM_LEVEL_SUPPORT_APPRAISE]
 Comentar y me gusta
@@ -12957,16 +12923,16 @@ Me gusta
 Objetivos del Nivel
 
 [CUSTOM_LEVEL_TOWER_DEFEND_SWITCH_PLANT_EDITOR_TITLE]
-Editor de Plantas
+Editor de plantas
 
 [CUSTOM_LEVEL_TOWER_DEFEND_SWITCH_ZOMBIE_EDITOR_TITLE]
-Editor de Zombis
+Editor de zombis
 
 [CUSTOM_LEVEL_TUTORIAL_1]
 La creación comienza con la modificación, empezemos editando un Nivel
 
 [CUSTOM_LEVEL_TUTORIAL_2]
-Toca en "Editar" para editar el Nivel
+Toca en "Editar" para modificar el Nivel
 
 [CUSTOM_LEVEL_TUTORIAL_3]
 Agreguemos una Planta al Nivel
@@ -13060,7 +13026,7 @@ Selecciona una cantidad
 Número de Jarrones
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER_HINT]
-El número de Jarrones solo puede ser un múltiplo de 5.
+El número de Jarrones solo puede ser un múltiplo de 5
 
 [CUSTOM_LEVEL_VASE_BREAKER_ZOMBIE_TITLE]
 Zombis
@@ -13097,6 +13063,9 @@ Dave el malvado
 
 [CUSTOM_LEVEL_WORLD_TYPE_10]
 Teatro del terror
+
+[LANTERN_RIDDLES_PRIZE]
+Premios
 
 [CYPRIPEDIUM]
 Orquídea chef
@@ -13463,7 +13432,7 @@ Conectando al servidor...
 ¿Te quedaste sin plantas? Juegas más niveles para conseguir Piezas y mejorar tus plantas.
 
 [DANGERROOM_MAIN_SCORE]
-Tu puntuación:
+Rango:
 
 [DANGERROOM_MAX_SCORE]
 Puntuación más alta:
@@ -13532,7 +13501,7 @@ Recompensas por puntos
 Recompensas de infinito
 
 [DANGERROOM_REWARD_RANK_TIP]
-Recibiste esta recompensa en la Zona del Infinito:
+Recibiste esta recompensa en la Zona de Infinito:
 
 [DANGERROOM_RULE_BTN_TXT]
 REGLAS
@@ -13654,7 +13623,7 @@ Se desbloquea en el Nivel {NUMS}
 Paquetes de Regalo del Infinito
 
 [DANGERROOM_SPECIAL_OFFER_TITLE]
-Paquete especial de la Zona del Infinito
+Paquete especial de la Zona de Infinito
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
 Descuento: {NUMBER} 元
@@ -13699,10 +13668,10 @@ Mundo seleccionado: {NAME}
 ENTRENAR
 
 [DANGERROOM_TRAINING_NOTICE_1]
-Cuando entrenas, no acumulas puntos ni consigues Medallas del Infinito.
+Cuando entrenas, no acumulas puntos ni consigues Reliquias de infinito
 
 [DANGERROOM_TRAINING_NOTICE_2]
-El número de veces que se pueden jugar, se actualizan de jueves a domingo a las 10 AM.
+El número de veces que se pueden jugar se actualiza de jueves a domingo a las 10 AM
 
 [DANGERROOM_TRAINING_QUIT_HINT_TEXT]
 ¿Seguro que quieres terminar tu entrenamiento? Tus progresos en cada Mundo se restablecerán al salir.
@@ -13723,13 +13692,15 @@ Entrenamiento del Infinito
 ¡Haz empezado el Entrenamiento del Infinito!
 
 [DANGERROOM_USER_SCORE]
-Tu puntuación:
+Tu puntuación: 
 
 [DANGERROOM_WORLD_TRAVEL]
 Viajar a {WORLDNAME}
 
 [DANGER_ROOM_ACCOUNT_DESC]
-¡Has completado el ^00e46e Nivel {LEVEL_COUNT} ^oldclr y conseguiste ^00e46e {SCORE_COUNT} puntos ^oldclr; tu título actual es: ^00e46e {ACCOUNT_NAME} ^oldclr!
+^00e46e^¡Nivel {LEVEL_COUNT} completado!^oldclr^
+Tu puntuación: ^00e46e^{SCORE_COUNT}^oldclr^
+Título: ^00e46e^{ACCOUNT_NAME}^oldclr^
 
 [DANGER_ROOM_ATLANTIS_LEVEL_NAME]
 Profundidades eternas - Nivel {LEVEL_NUMBER}
@@ -13804,16 +13775,16 @@ Grandes Éxitos - Nivel {LEVEL_NUMBER}
 ¡Bienvenido a los Grandes Éxitos!
 
 [DANGER_ROOM_FESTIVAL_LEVEL_FOUR_TITLE_WELCOME]
-Bienvenido a la Zona del Infinito
+Bienvenido a la Zona de Infinito
 
 [DANGER_ROOM_FESTIVAL_LEVEL_ONE_TITLE_WELCOME]
-Bienvenido a la Zona del Infinito
+Bienvenido a la Zona de Infinito
 
 [DANGER_ROOM_FESTIVAL_LEVEL_THREE_TITLE_WELCOME]
-Bienvenido a la Zona del Infinito
+Bienvenido a la Zona de Infinito
 
 [DANGER_ROOM_FESTIVAL_LEVEL_TWO_TITLE_WELCOME]
-Bienvenido a la Zona del Infinito
+Bienvenido a la Zona de Infinito
 
 [DANGER_ROOM_FUTURE_LEVEL_NAME]
 Terror del Mañana - Nivel {LEVEL_NUMBER}
@@ -14303,10 +14274,10 @@ Completa 2 Niveles en La Búsqueda de Penny o en La Dimensión del Recuerdo.
 Completa 6 Niveles en La Búsqueda de Penny o en La Dimensión del Recuerdo.
 
 [DAVE_KITCHEN_TASK_NAME_3]
-Completa 2 Niveles en la Zona del Infinito o gana 2 Dueloz.
+Completa 2 Niveles en la Zona de Infinito o gana 2 Dueloz.
 
 [DAVE_KITCHEN_TASK_NAME_4]
-Completa 6 Niveles en la Zona del Infinito o gana 6 Dueloz.
+Completa 6 Niveles en la Zona de Infinito o gana 6 Dueloz.
 
 [DAVE_KITCHEN_TASK_NAME_5]
 Completa 2 Niveles del Patio de la Creatividad
@@ -14365,16 +14336,16 @@ También puedes conseguir más al recargar 元
 (Los fragmentos especiales son exclusivos del pase prémium)
 
 [DAVE_TREASURE_ENDLESSBEATBOSS_5]
-Derrota a un Jefe en la Zona del Infinito 5 veces.
+Derrota a un Jefe en la Zona de Infinito 5 veces.
 
 [DAVE_TREASURE_ENDLESS_1]
-Completa 1 partida en la Zona del Infinito.
+Completa 1 partida en la Zona de Infinito.
 
 [DAVE_TREASURE_ENDLESS_5]
-Completa 5 partidas en la Zona del Infinito.
+Completa 5 partidas en la Zona de Infinito.
 
 [DAVE_TREASURE_ENDLESS_7]
-Completa 7 partidas en la Zona del Infinito.
+Completa 7 partidas en la Zona de Infinito.
 
 [DAVE_TREASURE_EXTINGUISHFIRE_15]
 Apaga la antorcha de 15 zombis en cualquier nivel.
@@ -16808,10 +16779,10 @@ Memoria de momia {LEVEL_NUMBER}
 Entrega especial
 
 [EGYPT_DANGER_ROOM_NAME]
-Pirámide de la perdición
+Zona de Infinito
 
 [EGYPT_DANGER_ROOM_TRAINING_NAME]
-Entrenamiento del Infinito
+ENTRENAR
 
 [EGYPT_EVENT_LEVEL_NAME]
 Antiguo Egipto - Evento {LEVEL_NUMBER}
@@ -17544,7 +17515,7 @@ Inutiliza todas las máquinas de un área
 Inutiliza todas las máquinas de un área
 
 [ENDLESS_CATEGORY_NAME_PLANT_SPECIAL_OFFER_DESC]
-Compra un Paquete de Regalo de la Zona del Infinito
+Compra un Paquete de Regalo de la Zona de Infinito
 
 [ENDLESS_CATEGORY_NAME_PLANT_SPECIAL_OFFER_SHORT_DESC]
 Paquete del Infinito
@@ -18697,7 +18668,7 @@ Quinto premio             1                     22.64%
 4. El número de Matillos de oro se reinicia al final del evento, ¡úsalos cuanto antes!
 
 [FESTIVAL_GOLDENEGG_DESCRIPTION_TITLE]
-¿CÓMO JUGAR?
+REGLAS DEL EVENTO
 
 [FESTIVAL_GOLDENEGG_HAMMER_CONFIRM]
 ¿Deseas gastar {NUM} Martillos de Oro para romper el huevo?
@@ -20832,10 +20803,10 @@ Cadete espárrago + Atuendo
 Cadete espárrago al Nvl. 3 + Atuendo
 
 [GEMS_RESTORE_CODE_RECHARGE_BAMBOO_LV0_SUCCEED_CONTENT]
-Raíz de bambú + Atuendo
+Brote de bambú + Atuendo
 
 [GEMS_RESTORE_CODE_RECHARGE_BAMBOO_LV3_SUCCEED_CONTENT]
-Raíz de bambú al Nvl. 3 + Atuendo
+Brote de bambú al Nvl. 3 + Atuendo
 
 [GEMS_RESTORE_CODE_RECHARGE_BANANA_LV0_SUCCEED_CONTENT]
 Lanzaplátanos + Atuendo
@@ -21279,10 +21250,10 @@ Roble arquero + Atuendo
 Roble arquero al Nvl. 3 + Atuendo
 
 [GEMS_RESTORE_CODE_RECHARGE_PAMEGRANATE_LV0_SUCCEED_CONTENT]
-Granada escupidora + Atuendo
+Granada metralla + Atuendo
 
 [GEMS_RESTORE_CODE_RECHARGE_PAMEGRANATE_LV3_SUCCEED_CONTENT]
-Granada escupidora al Nvl. 3 + Atuendo
+Granada metralla al Nvl. 3 + Atuendo
 
 [GEMS_RESTORE_CODE_RECHARGE_PEACH_LV0_SUCCEED_CONTENT]
 Durazno celestial + Atuendo
@@ -21705,7 +21676,7 @@ Al Nvl. 5, Manzana mortero tiene un {Param_1}% de disparar una supermanzana dora
 El tiempo de recuperación de Cadete espárrago se reduce un {Param_1}%
 
 [GENE_DESCRIPTION_BAMBOO]
-Raíz de bambú inflige un {Param_1}% más de daño
+Brote de bambú inflige un {Param_1}% más de daño
 
 [GENE_DESCRIPTION_BEANCHEMIST]
 Existe un {Param_1}% de que Boticaria de guisantes aplique Nutrientes a su poción azul o morada
@@ -21933,7 +21904,7 @@ Los pinchos de Rabo de gato tienen un {Param_1}% de atravesar zombis
 Reduce el tiempo de digestión de Pozoliva en {Param_1} segundo (s)
 
 [GENE_DESCRIPTION_PAMEGRANATE]
-La velocidad de Granada escupidora aumenta un {Param_1}%
+La velocidad de Granada metralla aumenta un {Param_1}%
 
 [GENE_DESCRIPTION_PEACH]
 El escudo de Durazno celestial dura {Param_1} segundo (s) más
@@ -22261,7 +22232,7 @@ Salta hacia adelante y hacia atrás, esquivando al Zombistein
 ¡Nueva bonificación!
 
 [GET_AD_BUTTON]
-VER ANUNCIO
+ANUNCIO
 
 [GET_CRYSTAL]
 Consigue {ITEM}
@@ -22361,7 +22332,7 @@ Completa 1 Aventura de plantas
 Gana 1 partida en Batallaz
 
 [GIFT_FOR_RETURN_TASK_NAME_7]
-Completa 1 Nivel en la Zona del Infinito
+Completa 1 Nivel en la Zona de Infinito
 
 [GIFT_FOR_RETURN_TASK_NAME_8]
 Completa 1 Nivel en la Dimensión del Recuerdo
@@ -23591,21 +23562,27 @@ Nivel 5
 Produce soles al inicio, repele zombis a otras líneas cuando crece
 
 [HAPPY_VASE_BREAKER_ADVENTURE]
-Completa {NUM} aventura de plantas.
+Completa {NUM} aventura (s) de plantas
 
 [HAPPY_VASE_BREAKER_AVATAR_TRANSGENIS]
-Fusiona {NUM} veces en Transgénesis en la sección "Atuendos".
+Fusiona {NUM} veces en Transgénesis en la sección "Atuendos"
 
 [HAPPY_VASE_BREAKER_BATTLEZ]
-Gana {NUM} partida (s) de Batallaz.
+Gana {NUM} partida (s) de Batallaz
 
 [HAPPY_VASE_BREAKER_CHALLENGE]
-Completa los {NUM} desafíos próximos.
+Completa {NUM} Retos diarios
 
 [HAPPY_VASE_BREAKER_CHARGE_GEM]
-Acumula {NUM} Joya (s) recargadas.
+Recarga {NUM} Joyas
 
 [HAPPY_VASE_BREAKER_DESCRIPTION]
+1. Gana premios rompiendo Jarrones de Oro. Se necesitan martillos para eso, consíguelos haciendo misiones o comprando Joyas.
+2. Puedes restablecer los Jarrones rotos con Joyas o esperar un tiempo (una vez se rompan todos).
+3. Los martillos se reinician al final del evento, úsalos cuanto antes.
+
+[HAPPY_VASE_BREAKER_CHANCE_TABLE]
+• Probabilidades de recompensas según clases:
 
 1ra clase → 2.33%
 2da clase → 4.65%
@@ -23614,25 +23591,26 @@ Acumula {NUM} Joya (s) recargadas.
 5ta clase → 46.51%
 
 [HAPPY_VASE_BREAKER_DES_TITLE]
-¿CÓMO JUGAR?
+REGLAS DEL EVENTO
 
 [HAPPY_VASE_BREAKER_GEM_CONSUME]
-Gasta {NUM} Joyas.
+Gasta {NUM} Joyas
 
 [HAPPY_VASE_BREAKER_HAMMER_CONFIRM]
 ¿Deseas usar {NUM} Martillo (s) de oro para romper ese Jarrón?
 
 [HAPPY_VASE_BREAKER_HAMMER_ERROR]
-¡Se ha producido un error desconocido! Comprueba tu conexión a Internet o reinicia el juego y vuelve a abrir el evento.
+¡Se ha producido un error desconocido!
+Comprueba tu conexión a Internet o reinicia el juego y vuelve a abrir el evento.
 
 [HAPPY_VASE_BREAKER_HAMMER_OBTAIN]
 ¡Conseguiste {NUM} Martillo (s) de oro!
 
 [HAPPY_VASE_BREAKER_LOGIN]
-Inicia sesión
+Inicia sesión hoy
 
 [HAPPY_VASE_BREAKER_MINIGAME]
-Completa {NUM} partida (s) en los Minijuegos.
+Completa {NUM} partida (s) en los Minijuegos
 
 [HAPPY_VASE_BREAKER_NOT_ENOUGH]
 Martillos insuficientes.
@@ -23645,10 +23623,10 @@ Vista previa
 de premios
 
 [HAPPY_VASE_BREAKER_PVP]
-Gana {NUM} partida (s) en Guerras de jardín.
+Gana {NUM} partida (s) en Dueloz
 
 [HAPPY_VASE_BREAKER_PVP_CHANGE]
-Juega {NUM} partida (s) en Batallaz.
+Juega {NUM} partida (s) en Batallaz
 
 [HAPPY_VASE_BREAKER_RESET]
 Restablecer
@@ -23675,13 +23653,10 @@ Rompejarrones de Oro
 Fusiona {NUM} veces en Transgénesis
 
 [HAPPY_VASE_BREAKER_WINNIE]
-Has abierto {NUM} Cofres secretos
+Abre {NUM} Cofres secretos
 
 [HAPPY_VASE_BREAKER_winnie]
-Abre {NUM} Cofre (s) en la Tienda.
-
-[HARDWARE_ACCELERATION_NOT_SUPPORTED]
-Este dispositivo no puede usar la aceleración de hardware por bajos requisitos de hardware.
+Abre {NUM} Cofres en la Tienda
 
 [HARVEST]
 Cosechar
@@ -26241,7 +26216,7 @@ Buscando un oponente
 Partida gratis
 
 [JOUST_FREE_TICKETS]
-Tiendaz
+TIENDA
 
 [JOUST_HOWTOPLAY_1_DESCRIPTION]
 Derrota zombis para ganar puntos. ¡Consigue más que tu oponente antes de que se acabe el tiempo para alzarte con la victoria!
@@ -27461,13 +27436,13 @@ Paisaje de la fortuna
 Aspectos destacados
 
 [LEVEL_EDITOR_NAME_SET]
-Nombre del Nivel
+Nombre del nivel
 
 [LEVEL_EDITOR_NAME_SET_WARNNING]
 El nombre ingresado contiene caracteres inválidos, ingresa otro.
 
 [LEVEL_EDITOR_PLANT_LEVEL_SETTING]
-Nivel de las Plantas
+Nivel de las plantas
 
 [LEVEL_EDITOR_PLANT_LEVEL_SETTING_DES]
 Configura el nivel de las plantas.
@@ -27476,16 +27451,16 @@ Configura el nivel de las plantas.
 Se cambiará el nivel de las plantas a {NUM}, ¿estás seguro?
 
 [LEVEL_EDITOR_PLANT_SELECT]
-Selección de Plantas
+Selección de plantas
 
 [LEVEL_EDITOR_SANDSTORM]
 Tormenta de arena
 
 [LEVEL_EDITOR_SELECT_RARE]
-Rareza de las Plantas
+Rareza de las plantas
 
 [LEVEL_EDITOR_SELECT_ZOMBIE]
-Selección de Zombis
+Selección de zombis
 
 [LEVEL_EDITOR_SENCE]
 Escenarios
@@ -27494,28 +27469,28 @@ Escenarios
 Tienda de la Creación
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_1]
-Plantas iniciales
+Semilla 1
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_2]
-Plantas de Nivel 1
+Semilla 2
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_3]
-Plantas de Nivel 2
+Semilla 3
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_4]
-Plantas de Nivel 3
+Semilla 4
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_5]
-Plantas de Nivel 4
+Semilla 5
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_6]
-Plantas de Nivel 5
+Semilla 6
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_7]
-Plantas de Nivel 6
+Semilla 7
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_8]
-Plantas de Nivel 7
+Semilla 8
 
 [LEVEL_EDITOR_SINGLE_HANDED_SLIDER_TITLE]
 Zombis por evolución
@@ -27602,7 +27577,7 @@ Número de zombis
 Incursión
 
 [LEVEL_EDITOR_WAVE_EVENT_SELECT]
-Selección de Eventos
+Selección de eventos
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_BTN_LEFT]
 Intervalo entre columnas
@@ -27611,7 +27586,7 @@ Intervalo entre columnas
 Número de zombis
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_TEXT]
-Los Zombichos aparecen cada 1 segundo, mientras que, todos los demás zombis aparecen después de 4 segundos.
+Los Zombichos aparecen cada 1 s, el resto aparece después de 4 s
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_TITLE]
 Enjambre de robots
@@ -27623,28 +27598,13 @@ Zombis a aparecer
 Peso
 
 [LEVEL_EDITOR_ZOMBIE_LEVEL_SET]
-Fuerza de los Zombis
+Fuerza de los zombis
 
 [LEVEL_EDITOR_ZOMBIE_WAVE_NUM]
-Oleadas: {NUM}
+Oleada: {NUM}
 
 [LEVEL_INDEX]
 Nivel {NUMBER}
-
-[LEVEL_MASTERY_LONG_NUMBER]
-Maestría {NUMBER}
-
-[LEVEL_MASTERY_NUMBER]
-M. {LEVEL}
-
-[LEVEL_NUMBER]
-NVL {LEVEL}
-
-[LEVEL_OF_PLANT]
-{PLANTNAME} de Nvl. {PLANT_LEVEL}
-
-[LEVEL_OF_THE_DAY_NOT_ACCESSIBLE]
-Tienes que completar Antiguo Egipto - Día 5, antes de empezar el evento.
 
 [LEVEL_PASS_TOGAL]
 Objetivos
@@ -27873,7 +27833,7 @@ Cofres limitados
 Peticiones hechas: {NUM}
 
 [LIMITED_SUMMON_CUMULATIVE]
-Has hecho {NUM} peticiones
+Haz {NUM} peticiones
 
 [LIMITED_SUMMON_DESCRIPTION_TITLE]
 REGLAS DEL EVENTO
@@ -35734,7 +35694,7 @@ desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
 {SAY:winnie}Has resistido bien la energía del Qigong, usuario Dave. Y como recompensa, hemos desbloqueado una nueva planta.
 
 [NARRATIVE_KONGFU_OUTRO_QIGONG_3]
-{SAY:winnie}Raíz de bambú: ataca desde el subsuelo y daña a los zombis que tiene delante.
+{SAY:winnie}Brote de bambú: ataca desde el subsuelo y daña a los zombis que tiene delante.
 
 [NARRATIVE_KONGFU_OUTRO_QIGONG_4]
 {PLAYFUL:crazydave}¿Subsuelo? ¡Espero que no se me meta en los zapatos!
@@ -39210,7 +39170,7 @@ Torneo terminado
 Conéctate a una conexión a Internet e inténtalo de nuevo más tarde.
 
 [NETWORK_NOT_CONNECTED_DANGERROOM_UPLOAD_FAILED]
-Se produjo un error en la red y no se pudo cargar tu puntuación de la Zona del Infinito.
+Se produjo un error en la red y no se pudo cargar tu puntuación de la Zona de Infinito.
 Conéctate a Internet de nuevo, y la puntuación se volverá a cargar en la tabla de clasificación.
 
 [NETWORK_NOT_CONNECTED_ON_FIRST_LOGIN]
@@ -42987,7 +42947,7 @@ Desconectado
 No puede estar vacío
 
 [NOT_ENOUGH_LIFE_SOLD_OUT]
-Los desafíos de la Zona del Infinito de hoy se han agotado. ¡Tómate un descanso y vuelve mañana!
+Los desafíos de la Zona de Infinito de hoy se han agotado. ¡Tómate un descanso y vuelve mañana!
 
 [NOT_ENOUGH_LIFE_TEXT]
 ¿Deseas gastar 50 Joyas para un boleto para el desafío?
@@ -43017,7 +42977,7 @@ No se ha cumplido
 AHORA NO
 
 [NOT_ON_RANK]
-Fuera de la clasificación
+^FF0000^No aplica^oldclr^
 
 [NOT_REMIND_TODAY]
 No recordar hoy
@@ -43083,7 +43043,7 @@ Completa Mares Piratas - Día 10.
 Recolecta 20 Estrellas.
 
 [NOVICESEVENDAYS_TASK_NAME_15]
-Alcanza el Nivel 1 en la Zona del Infinito.
+Alcanza el Nivel 1 en la Zona de Infinito.
 
 [NOVICESEVENDAYS_TASK_NAME_16]
 Juega una partida en La Búsqueda de Penny.
@@ -43116,7 +43076,7 @@ Mejora tu Base al Nvl. 3 en el Laboratorio de Jardinería.
 Juega 5 partidas en la Dimensión del Recuerdo.
 
 [NOVICESEVENDAYS_TASK_NAME_24]
-Alcanza el Nivel 25 en la Zona del Infinito.
+Alcanza el Nivel 25 en la Zona de Infinito.
 
 [NOVICESEVENDAYS_TASK_NAME_25]
 Canjea un artículo en las Tiendaz de Intercambioz.
@@ -43140,7 +43100,7 @@ Juega 3 partidas en Batallaz.
 Juega 5 partidas en La Búsqueda de Penny.
 
 [NOVICESEVENDAYS_TASK_NAME_31]
-Alcanza el Nivel 50 en la Zona del Infinito.
+Alcanza el Nivel 50 en la Zona de Infinito.
 
 [NOVICESEVENDAYS_TASK_NAME_32]
 Recolecta 45 Estrellas.
@@ -43228,7 +43188,7 @@ Sin permisos autorizados
 No cumples con las condiciones para participar.
 
 [NO_RANK_TEXT]
-Actualmente no hay clasificación para tí, juega algunas partidas en la Zona del Infinito y asegúrate de que tengas un acceso a una conexión a Internet estable.
+Actualmente no hay clasificación para tí, juega algunas partidas en la Zona de Infinito y asegúrate de que tengas un acceso a una conexión a Internet estable.
 
 [NO_RANK_TITLE]
 Sin clasificación
@@ -43945,7 +43905,7 @@ Efectos: Cura 220 PS / 3 s | Recarga rápida +20% | ^DB8117^Escudo de 30% / 500 
 De uso no recetado.
 
 [PAMEGRANATE]
-Granada escupidora
+Granada metralla
 
 [PAMEGRANATE_AVATAR_NAME]
 Sombrero navideño
@@ -43957,10 +43917,10 @@ Las semillas infligen daño por salpicadura en un área 2x1. ^D22808^Daño de á
 {KEYWORD}Información de alcance: {STAT}por delante (área de 3x2)
 {KEYWORD}Características de la planta: {STAT}planta anaranjada, dientes grandes, destructora, familia de armas
 
-{FLAVOR}Cuando Granada escupidora fue a la biblioteca de la escuela, accidentalmente leyó un libro titulado "1000 maneras de comer granadas", en la página del título había una cita que cambió su vida, "No importa cómo te las comas, siempre escupirás sus semillas". Luego se unió al ejército y se convirtió en un artillero con puntería extrañamente mala. Y luego fue dado de alta, y se convirtió en un propietario que escupe semillas y toma el sol todos los días. ¿Y entonces? ¿No ves a ese tipo de allá que abrió la boca para escupirte?
+{FLAVOR}Cuando Granada metralla fue a la biblioteca de la escuela, accidentalmente leyó un libro titulado "1000 maneras de comer granadas", en la página del título había una cita que cambió su vida, "No importa cómo te las comas, siempre escupirás sus semillas". Luego se unió al ejército y se convirtió en un artillero con puntería extrañamente mala. Y luego fue dado de alta, y se convirtió en un propietario que escupe semillas y toma el sol todos los días. ¿Y entonces? ¿No ves a ese tipo de allá que abrió la boca para escupirte?
 
 [PAMEGRANATE_DESCRIPTION_HEADER]
-Granada escupidora ataca a escupitajos a los zombis que tiene al frente, dispersando semillas en un área amplia. Les inflige más daño de cerca.
+Granada metralla ataca a escupitajos a los zombis que tiene al frente, dispersando semillas en un área amplia. Les inflige más daño de cerca.
 
 [PAMEGRANATE_FAMILY]
 Lythraceae
@@ -47842,10 +47802,10 @@ COMPLETAR
 Bonus
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_LIMIT_TEXT]
-^FF0000^Alcanzado el límite semanal de Rubíes^oldclr^
+^A048CF^Límite semanal alcanzado^oldclr^
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_TEXT]
-Bonus misterioso:
+^D22808^Rubíes misteriosos: 
 
 [PLANT_ADVENTURE_BONUS_HINT]
 Las plantas han regresado de su aventura en ^DB8117^{DUNGEON}^oldclr^
@@ -47873,7 +47833,7 @@ Tus plantas están cansadas, ¿deseas gastar ^ff0000^{GEMS} Joyas^oldclr^ para r
 Obtienes:
 
 [PLANT_ADVENTURE_DUNGEON_CHANCES_LEFT]
-Res.: {CHANCES}
+^FFA500^Aventuras res.: {CHANCES}^oldclr^
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED]
 Disponible al completar: ^DB8117^{DUNGEON}
@@ -47897,7 +47857,7 @@ Equipos: {ILDE}/{MAX}
 Duración:
 
 [PLANT_ADVENTURE_DUNGEON_TIME_LEFT]
-Tiempo res.:
+^A0522D^Tiempo res.:
 
 [PLANT_ADVENTURE_DUNGEON_TITLE]
 Explorar: {DUNGEON}
@@ -47958,24 +47918,24 @@ ACEPTAR
 ¿Suspender aventura?
 
 [PLANT_ADVENTURE_SUSPEND_TITLE_DES]
-¿Deseas suspender la aventura? No recibirás ninguna recompensa a cambio.
+¿Deseas suspender la aventura?
+^FF0000^No recibirás ninguna recompensa a cambio.^oldclr^
 
 [PLANT_ADVENTURE_TEAMEDITOR_AUTO_BUTTON]
 Selección automática
 
 [PLANT_ADVENTURE_TEAMEDITOR_NEEDPLANTS]
-  Se necesitan ^397F24^{PLANTS} plantas^oldclr^
-  para crear el equipo
+Se necesitan ^98FB98^{PLANTS} plantas^oldclr^
+para crear el equipo
 
 [PLANT_ADVENTURE_TEAMEDITOR_PLANTTYPE]
-  Características
-  específicas:
+Características:
 
 [PLANT_ADVENTURE_TEAMEDITOR_START_BUTTON]
 COMENZAR
 
 [PLANT_ADVENTURE_UNCONNECTED]
-Aún no estás conectado a Internet
+No estás conectado a Internet
 
 [PLANT_ADVENTURE_UNINITED]
 Hubo un error en el archivo
@@ -47985,14 +47945,6 @@ Hubo un error en el archivo
 
 [PLANT_ADV_BUY_GEM_FINISH_COUNT]
 {GEM_COUNT} Joyas
-
-[PLANT_AVATAR_COMPENSATION_CONTENT]
-Estimados jugadores:
-
-Estamos reparando los Retos diarios debido a unas fallas técnicas.
-Les informamos que serán rembolsadas 100 Joyas a los jugadores que compraron Boletos para el evento.
-
-¡Gracias por su comprensión!
 
 [PLANT_AVATAR_PIECE]
 Pieza del Atuendo de {NAME}
@@ -54180,13 +54132,13 @@ Guanteletes gratis
 Compra ^FF0000^1^oldclr^ Guantelete
 
 [PRODUCT_Z_NUM_1_GEM_DESC]
-^FF0000^1^oldclr Guantelete por Joyas (máx 1 Compra)
+^FF0000^1^oldclr^ Guantelete por Joyas ^FF0000^(máx. 1 Compra)^oldclr^
 
 [PRODUCT_Z_NUM_1_SHORT_DESC]
 Lote pequeño de Guanteletes
 
 [PRODUCT_Z_NUM_10_DESC]
-Consigue ^FF0000^10^oldclr^ Guanteletes.
+Compra ^FF0000^10^oldclr^ Guanteletes
 
 [PRODUCT_Z_NUM_10_SHORT_DESC]
 Lote grande de Guanteletes
@@ -54237,7 +54189,7 @@ No se pudo crear una nueva partida
 AVISOS
 
 [PROGRESS_TIP_TEXT]
-¿Deseas reiniciar tu progreso de la Zona del Infinito? Podrás recuperarlo en una serie de segmentos pero por Joyas.
+¿Deseas reiniciar tu progreso de la Zona de Infinito? Podrás recuperarlo en una serie de segmentos pero por Joyas.
 
 [PROMPT_FOR_APP_TRACKING]
 El rastreo posibilita los inicios de sesión de terceros, nos permite ofrecerte anuncios relevantes y bonificados más a menudo y nos ayuda a mejorar la aplicación. Si se desactiva, los inicios de sesión de terceros no funcionarán y los anuncios que veas serán menos relevantes para ti. Sea cual sea la opción que elijas, ¡estamos muy contentos de que uses el juego!
@@ -55415,7 +55367,7 @@ Completa 32 Niveles con un 50% o más de Energía temporal.
 3. El progreso no se restablece por temporada.
 
 [PVZ1_ACHIEVEMENT_INFO_BTN_TITLE]
-Sobre los Logros
+SOBRE LOS LOGROS
 
 [PVZ1_ACHIEVEMENT_INTEGRAL]
 Puntos de Logro
@@ -55976,8 +55928,8 @@ Robots e impresoras II
 Asalto final
 
 [PVZ2_UNCHARTED_MODE_NO42_UNIVERSE_TIPS_DESC]
-1. La Zona del Infinito se desbloquea tras superar el último nivel del Modo Difícil.
-2. Hay 100 oleadas en la Zona del Infinito, con zombis aleatorios cuyo número aumenta gradualmente.
+1. La Zona de Infinito se desbloquea tras superar el último nivel del Modo Difícil.
+2. Hay 100 oleadas en la Zona de Infinito, con zombis aleatorios cuyo número aumenta gradualmente.
 3. El avatar conmemorativo mostrará el mayor número de oleadas superadas.
 
 [PVZ2_UNCHARTED_MODE_SHOP_TIPS_DESC]
@@ -56123,7 +56075,7 @@ El evento ya ha finalizado.
 No hay suficientes desafíos.
 
 [PVZ_ERROR_40024]
-Los datos de la Zona del Infinito son inválidos.
+Los datos de la Zona de Infinito son inválidos.
 
 [PVZ_ERROR_40025]
 Imposible saltar nivel, solo se puede omitir desde el jefe anterior haste nivel más alto jugado.
@@ -56135,10 +56087,10 @@ Reliquias del Tiempo-espacio insuficientes.
 Artículo no disponible, actualiza la Tienda del Infinito.
 
 [PVZ_ERROR_40028]
-Ya recibiste tus recompensas por clasificación de la Zona del Infinito.
+Ya recibiste tus recompensas por clasificación de la Zona de Infinito.
 
 [PVZ_ERROR_40029]
-Recompensas por clasificación de la Zona del Infinito no disponibles.
+Recompensas por clasificación de la Zona de Infinito no disponibles.
 
 [PVZ_ERROR_40031]
 Imposible recibir el bono del sorteo.
@@ -56147,13 +56099,13 @@ Imposible recibir el bono del sorteo.
 Evento no activado.
 
 [PVZ_ERROR_40036]
-Alcanzado el límite de reiniciar los progresos de la Zona del Infinito.
+Alcanzado el límite de reiniciar los progresos de la Zona de Infinito.
 
 [PVZ_ERROR_40037]
-Alcanzado el límite de compra de soles en la Zona del Infinito.
+Alcanzado el límite de compra de soles en la Zona de Infinito.
 
 [PVZ_ERROR_40038]
-Error al sincronizar el progreso con el servidor, no se puede restablecer los niveles de la Zona del Infinito.
+Error al sincronizar el progreso con el servidor, no se puede restablecer los niveles de la Zona de Infinito.
 
 [PVZ_ERROR_45032]
 El evento ha finalizado.
@@ -56500,7 +56452,7 @@ Defensa: ^00e46e^4/5^oldclr^
 Dureza: ^00e46e^5/5^oldclr^
 
 [PVZ_WORLDCUP_TEAM4_DES_5]
-^ffed86^Equipo armado:^oldclr^ contiene a Tiraguisantes, Granada escupidora y Piñón pistolero
+^ffed86^Equipo armado:^oldclr^ contiene a Tiraguisantes, Granada metralla y Piñón pistolero
 
 [PVZ_WORLDCUP_TEAM4_DES_6]
 
@@ -57651,7 +57603,7 @@ Nunca
 Puntuar
 
 [REACH_DANGER_ROOM_LIMIT]
-Ya has alcanzado el Nivel máximo actual de la Zona del Infinito, ¡más Niveles estarán disponibles próximamente!
+Ya has alcanzado el Nivel máximo actual de la Zona de Infinito, ¡más Niveles estarán disponibles próximamente!
 
 [READ_AND_AGREE_PROTOCOL]
 Por favor lea y acepte el acuerdo
@@ -70087,9 +70039,6 @@ Combustible
 [STORE_CATEGORY_GACHA_BUTTON_BUY_10_TIMES]
 300 x10
 
-[STORE_CATEGORY_GAUNTLETS]
-Guanteletes
-
 [STORE_CATEGORY_GEMS]
 Joyas
 
@@ -70194,18 +70143,6 @@ Canjear Atuendos
 
 [STORE_CATEGORY_NAME_AVATAR_TICKET]
 Cupon de Atuendo
-
-[STORE_CATEGORY_NAME_BATTLEZ1_DESC]
-Compra 1 Guantelete para jugar una partida de Batallaz.
-
-[STORE_CATEGORY_NAME_BATTLEZ1_SHORT_DESC]
-Guantelete x1
-
-[STORE_CATEGORY_NAME_BATTLEZ6_DESC]
-Compra 10 Guanteletes para jugar diez partidas de Batallaz.
-
-[STORE_CATEGORY_NAME_BATTLEZ6_SHORT_DESC]
-Guantelete x10
 
 [STORE_CATEGORY_NAME_BUNDLES]
 Lotes
@@ -70442,10 +70379,7 @@ Compra 10 Pinzas
 Pinzas x10
 
 [STORE_CATEGORY_NAME_ZTICKET]
-Guanteletes
-
-[STORE_CATEGORY_PINATAS]
-Piñatas
+: Guanteletes
 
 [STORE_CATEGORY_PLANTS]
 Plantas
@@ -70545,10 +70479,10 @@ Paquete de Cadete espárrago
 Consigue a Cadete espárrago ^009900 (Por tiempo limitado) ^oldclr.
 
 [STORE_GIFT_LABORDAY_BAMBOO_GIFT]
-Paquete de Raíz de bambú
+Paquete de Brote de bambú
 
 [STORE_GIFT_LABORDAY_BAMBOO_GIFT_DESC]
-Consigue a Raíz de bambú + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
+Consigue a Brote de bambú + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
 
 [STORE_GIFT_LABORDAY_BANANA_GIFT]
 Paquete de Lanzaplátanos
@@ -70820,10 +70754,10 @@ Paquete de Melonpulta Congelada y Nuez cáscara-rabias
 Melonpulta congelada + Nuez cáscara-rabias ^009900 (Por tiempo limitado) ^oldclr.
 
 [STORE_GIFT_LABORDAY_PAMEGRANATE_GIFT]
-Paquete de Granada escupidora
+Paquete de Granada metralla
 
 [STORE_GIFT_LABORDAY_PAMEGRANATE_GIFT_DESC]
-Consigue a Granada escupidora + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
+Consigue a Granada metralla + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
 
 [STORE_GIFT_LABORDAY_PEACH_GIFT]
 Paquete de Durazno celestial
@@ -73533,16 +73467,16 @@ Momentos retro
 Suerte a la puerta
 
 [SUMMER_PURPLE_LEVEL1]
-Fiebre del Jefe: Edición del mal rígido - Fase 1
+Fiebre del Jefe: Púrpura - Fase 1
 
 [SUMMER_PURPLE_LEVEL2]
-Fiebre del Jefe: Edición del mal rígido - Fase 2
+Fiebre del Jefe: Púrpura - Fase 2
 
 [SUMMER_PURPLE_LEVEL3]
-Fiebre del Jefe: Edición del mal rígido - Fase 3
+Fiebre del Jefe: Púrpura - Fase 3
 
 [SUMMON_NOW]
-Hacer petición
+Peticionar
 
 [SUMMON_TIMES]
 Peticiones hechas
@@ -74489,43 +74423,6 @@ Espera a que se sincronicen los archivos correctamente y asegúrate de que la co
 [SYNCING_WAITING_TITLE]
 Sincronización de archivos en espera
 
-[SYNC_DATA]
-Sincronizar datos  deljugador
-
-[SYNC_DATA_INFO]
-Al registrar tu cuenta, tus datos de jugador se fusionarán con todas las ID de jugador disponibles para asegurarnos de que se mantengan todos los progresos entre dispositivos y plataformas.
-También puedes forzar la sincronización de tus datos con tu ID de jugador actual para asegurarte de estar al día con la información de nuestros servidores.
-Para ver tu ID de jugador actual, dirígete a Ajustes --> Ajustes de descarga.
-
-[SYNC_FAILED_TO_LOAD_BODY]
-No se pudieron cargar tus datos de jugador de nuestros servidores de juego.
-Busca una conexión a internet más estable o inténtalo más tarde.
-
-[SYNC_FAILED_TO_LOAD_HEADER]
-¡Error al cargar los datos de jugador!
-
-[SYNC_FAILED_TO_SAVE_BODY]
-No se pudieron guardar tus datos de jugador en nuestros servidores de juego.
-Busca una conexión a internet más estable o inténtalo más tarde.
-
-[SYNC_FAILED_TO_SAVE_HEADER]
-¡Error al guardar los datos de jugador!
-
-[SYNC_LOADING_DATA]
-Cargando datos de jugador a los servidores...
-
-[SYNC_SAVING_DATA]
-Guardando datos de jugador a los servidores...
-
-[SYNC_SUCCEEDED_BODY]
-Los datos de jugador se guardaron en los servidores del juego y se volvieron a cargar.
-
-[SYNC_SUCCEEDED_HEADER]
-¡Sincronización de datos de jugador completada!
-
-[SYNC_TIMEOUT_REACHED]
-¡Agotado el tiempo de espera en la sincronización de datos del jugador!
-
 [TACTICAL_CUKE]
 Pepino táctico
 
@@ -74721,7 +74618,7 @@ En serio ve a jugar una partida de Batallaz, ¡es divertido!
 ¡Derrota a {NUM} {ZOMBIE} (s) de {WORLDNAME} y obtén recompensas!
 
 [TASK_CHALLENGE]
-Juega 1 partida en la Zona del Infinito
+Juega 1 partida en la Zona de Infinito
 
 [TASK_CHALLENGE_DESCRIPTION]
 ¡Trae a las plantas más fuertes y desafía a los zombis más poderosos!
@@ -78200,7 +78097,7 @@ Dulce Navidad
 ¿CÓMO JUGAR?
 
 [UNCHARTED_FAIRYTALE_WORLD]
-Bosque encantado
+Tierras ocultas
 
 [UNCHARTED_HALLOWEEN_HEAD_DES_ID_25776]
 A quienes reunieron todas las Estrellas en Tierras ocultas: Patio de la perdición
@@ -82001,7 +81898,7 @@ Nvl. AFK: {NUM}
 Recompensas AFK
 
 [ZOMBIEREMOVAL_AUTO_PLAY]
-Automático
+AUTOMÁTICO
 
 [ZOMBIEREMOVAL_AUTO_PLAY_REWARD]
 Premios automáticos
@@ -82033,7 +81930,7 @@ Retos
 Premios
 
 [ZOMBIEREMOVAL_TIME_LIMIT]
-Mej. de Nvl: {TIME}
+El nivel se actualiza en {TIME}
 
 [ZOMBIERUSH_LEVEL_NAME]
 Eliminación zombi - Fase {LEVEL_NUMBER}
@@ -88316,29 +88213,14 @@ Germina zomboides útiles
 [ZPS_REWARD_TITLE]
 Premio de ZPS:
 
-[ZSHOP_BUY_BIG_KEY]
-Comprar
-
 [ZSHOP_BUY_LIMIT]
-Límite de compra: ^FF0000 1 ^oldclr
-
-[ZSHOP_BUY_LITTLE_KEY]
-Comprar
-
-[ZSHOP_BUY_TICKET_TITLE]
-Tienda de Guanteletes
+Límite de compra: ^FF0000^1^oldclr^
 
 [ZSHOP_CHALLENGE_ONE_PRICE]
 1 元
 
 [ZSHOP_CHALLENGE_TEN_PRICE]
 6 元
-
-[ZSHOP_GET_CHALLENGE_ONE_CHANCE]
-^FF0000^1^oldclr^ partida para Batallaz.
-
-[ZSHOP_GET_CHALLENGE_TEN_CHANCE]
-^FF0000^10^oldclr^ partidas para Batallaz.
 
 [ZSHOP_ITEM_LOCK_ALERT]
 Imposible comprar el objeto, verifica que cumplas con las condiciones establecidas.
@@ -88359,7 +88241,7 @@ Imposible comprar el objeto, verifica que cumplas con las condiciones establecid
 ^FF0000^Se desbloquea en Liga Jade^oldclr^
 
 [ZSHOP_TITLE]
-Tiendaz
+Tienda Z
 
 [PVP_EXCHANGE_CONFIRM_1]
 Material
@@ -88377,8 +88259,7 @@ insuficiente
 ¿Deseas gastar {NUMBER} para refrescar la Tienda?
 
 [PVP_EXCHANGE_CONFIRM_END_AD]
-¿Deseas ^FF0000^gastar {NUMBER} Monedas^oldclr^ o ^FF0000^ver un anuncio^oldclr^ para refrescar la Tienda?
-Anuncios res.: {LEFT}
+¿Deseas ^FFA500^gastar {NUMBER} Monedas^oldclr^ o ^FFA500^ver un anuncio^oldclr^ para refrescar la Tienda? ^FF0000^(Anuncios res.: {LEFT})^oldclr^
 
 [PVP_EXCHANGE_CONFIRM_HEAD]
 Refrescar tienda
