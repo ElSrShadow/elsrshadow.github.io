@@ -13314,10 +13314,10 @@ Lanza semillas explosivas a los zombis de la línea
 El evento comenzará pronto, ¿estás listo?
 
 [DANGERROOM_ACTIVITY_DESC_END]
-Termina el:
+Termina en: 
 
 [DANGERROOM_ACTIVITY_DESC_START]
-Inicia el:
+Inicia en: 
 
 [DANGERROOM_ADD_PLANTS]
 Conseguiste brotes para:
@@ -13345,7 +13345,7 @@ Fallo al comprar vidas
 COMPRAR
 
 [DANGERROOM_CHALLENGE_TIMES]
-Desafíos res. hoy:
+Reinicios restantes:
 
 [DANGERROOM_CLOSED]
 Podría ser un error en tu conexión a Internet, o el evento ya ha terminado.
@@ -13387,7 +13387,7 @@ Introduce el nivel
 Te quedaste sin plantas, ya no puedes participar.
 
 [DANGERROOM_GET_PLANT]
-Comprar
+PLANTAS
 
 [DANGERROOM_GET_REWARD]
 Toca para reclamar tu recompensa
@@ -13408,13 +13408,13 @@ Conectando al servidor...
 ¿Te quedaste sin plantas? Juegas más niveles para conseguir Piezas y mejorar tus plantas.
 
 [DANGERROOM_MAIN_SCORE]
-Rango:
+Puntuación: 
 
 [DANGERROOM_MAX_SCORE]
-Puntuación más alta:
+Mej. puntuación: 
 
 [DANGERROOM_MEDAL_DESC]
-Mantén tu posición en la tabla para obtener más Recompensas.
+Mantén tu posición en la tabla para obtener:
 
 [DANGERROOM_MEDAL_SHOP]
 TIENDA
@@ -13444,13 +13444,13 @@ MÁS TARDE
 Se necesita una conexión a Internet para Autorefrescar.
 
 [DANGERROOM_RANK_IN]
-Clasificado: {N}
+Puesto: {N}
 
 [DANGERROOM_RANK_OUT]
-Posición: {N}%
+^FF0000^Puesto: {N}%^oldclr^
 
 [DANGERROOM_RECOMMEND_PRESENT]
-Lotes del Infinito
+Lotes de Infinito
 
 [DANGERROOM_REQUEST_RANK_LIST]
 Top 50
@@ -13477,7 +13477,7 @@ Recompensas por puntos
 Recompensas de infinito
 
 [DANGERROOM_REWARD_RANK_TIP]
-Recibiste esta recompensa en la Zona de Infinito:
+Tus premios por clasificación:
 
 [DANGERROOM_RULE_BTN_TXT]
 REGLAS
@@ -13545,7 +13545,7 @@ Saltar {NUMS} Nvl
 Saltar nivel
 
 [DANGERROOM_SKIP_TXT]
-¿Deseas saltar desde el Nivel {LEVEL} hasta el {TOLEVEL}? Tus recompensas no se perderán.
+¿Deseas saltar hasta el ^D22808^Nivel {TOLEVEL}^oldclr^?
 
 [DANGERROOM_SPECIAL_OFFER_BUNDLE_NAME_600000]
 Lote de Infinito
@@ -13569,7 +13569,7 @@ Lote de Infinito 6
 Lote de Infinito 7
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_DESC]
-Los paquetes solo se compran una sola vez y se refrescan cada jueves a las 12:00.
+Los paquetes solo se compran una sola vez y se refrescan cada jueves a las 12:00
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_PRICE_DESC1]
 Se desbloquea en el Nivel 1
@@ -13614,7 +13614,7 @@ No se puede iniciar la Zona de infinito
 EMPEZAR
 
 [DANGERROOM_START_NOTICE]
-^FFFF00^Disponible de jueves a domingo
+Disponible de jueves a domingo
 
 [DANGERROOM_TASK]
 Misiones
@@ -13638,28 +13638,30 @@ Completa el Nivel 100
 Completa el Nivel 149
 
 [DANGERROOM_TRAINING_CHOOSE_WORLD_HINT]
-Mundo seleccionado: {NAME}
+^E2725B^Mundo seleccionado: {NAME}^oldclr^
 
 [DANGERROOM_TRAINING_LEVEL]
 ENTRENAR
 
 [DANGERROOM_TRAINING_NOTICE_1]
-Cuando entrenas, no acumulas puntos ni consigues Reliquias de infinito
+^A0522D^Cuando entrenas, no acumulas puntos ni consigues Reliquias de infinito^oldclr^
 
 [DANGERROOM_TRAINING_NOTICE_2]
-El número de intentos se actualiza de jueves a domingo a las 10 AM
+^D22808^El número de intentos se actualiza de jueves a domingo a las 10 AM^oldclr^
 
 [DANGERROOM_TRAINING_QUIT_HINT_TEXT]
-¿Seguro que quieres terminar tu entrenamiento? Tus progresos en cada Mundo se restablecerán al salir.
+¿Seguro que quieres terminar tu entrenamiento?
+(Tus progresos se restablecerán al salir).^oldclr^
 
 [DANGERROOM_TRAINING_QUIT_HINT_TEXT_2]
-¿Seguro que deseas elegir otro Mundo? Tus progresos en este Mundo se restablecerán al salir.
+¿Seguro que deseas elegir otro Mundo?
+(Se restablecerán los progresos de este mundo al salir).^oldclr^
 
 [DANGERROOM_TRAINING_QUIT_HINT_TITLE]
 AVISOS
 
 [DANGERROOM_TRAINING_RECORD_LEVEL]
-Entrenamiento del Infinito - Nivel {NUMBER}
+Entrenamiento - Nivel {NUMBER}
 
 [DANGERROOM_TRAINING_ROOM]
 ENTRENAR
@@ -13668,7 +13670,7 @@ ENTRENAR
 ¡Haz empezado el Entrenamiento del Infinito!
 
 [DANGERROOM_USER_SCORE]
-Tu puntuación: 
+
 
 [DANGERROOM_WORLD_TRAVEL]
 Viajar a {WORLDNAME}
@@ -27280,7 +27282,8 @@ AVISOS
 Levitadora
 
 [LEVITATER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}los zombis levitados no pueden ser trebolados.
+{KEYWORD}Uso: {STAT}los zombis levitados no pueden ser expulsados por Trebolador
+{KEYWORD}Características de la planta: {STAT}planta marrón
 
 {FLAVOR}"Soy un poco diferente de mis primas", explica Levitadora. "La principal diferencia, a mi entender, es que no exploto al contacto, o no exploto nunca. ¡Me quedo siempre por aquí!".
 
@@ -43100,9 +43103,6 @@ Aprobaste el examen de evaluación avanzada en El Aula de Penny.
 [PENNYCLASS_THIRD_HEAD_ID_25351]
 Doctor en botánica
 
-[PENNYFUEL_STORE]
-Combustible
-
 [PENNYS_PIT_STOP]
 La parada en boxes de Penny
 
@@ -46143,7 +46143,7 @@ Familias:
 VER TALENTO
 
 [PLANT_FAMILY_CUR_PROPERTY]
-^FF9E6B^Hueco 1^oldclr^
+^FFA500^Hueco 1^oldclr^
 
 [PLANT_FAMILY_DISPLAY_AVATAR]
 Atuendo
@@ -46194,7 +46194,7 @@ Mejorar el Nivel de familia aumenta los efectos de mejora.
 Talentos de familia
 
 [PLANT_FAMILY_FREE_REFRERSH]
-^D22808^Cambios gratis:
+Cambios gratis:
 
 [PLANT_FAMILY_FREE_REFRESH]
 Refrescar gratis
@@ -46206,7 +46206,7 @@ VER ANUNCIO
 ^D22808^Cambios res.: {count}^oldclr^
 
 [PLANT_FAMILY_LOCKED]
-^FF0000^Bloqueado^oldclr^
+Bloqueado
 
 [PLANT_FAMILY_LOCK_FOR_REFRESH_NOTICE]
 Las propiedades solo pueden bloquearse una vez.
@@ -46380,7 +46380,7 @@ Tienes una excelente propiedad, ¿seguro que quieres seguir actualizando la list
 x
 
 [PLANT_FAMILY_REFRESH_NOTICE_INFO2]
-  -  
+  -
 
 [PLANT_FAMILY_REFRESH_NOTICE_INFO3]
   ¿Refrescar?
@@ -46389,13 +46389,13 @@ x
 ^FF0000^Propiedades fijas, mayor costo:^oldclr^
 
 [PLANT_FAMILY_REFRESH_PROPERTY]
-^FF9E6B^Hueco 2^oldclr^
+^FFA500^Hueco 2^oldclr^
 
 [PLANT_FAMILY_SAVE]
 GUARDAR
 
 [PLANT_FAMILY_SAVE_NOTICE]
-Tu propiedad actual será reemplazada por una menos eficiente, ¿seguro que deseas continuar?
+Tu propiedad actual será reemplazada, ¿seguro que deseas continuar?
 
 [PLANT_FAMILY_SKILL_EXTRA_ATTACK]
 Daño +
@@ -48888,37 +48888,37 @@ Paquete premium de Otoño
 60 Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_6_SHORT_DESC]
-Paquete de Cupones pequeño
+Cupones de bolsillo
 
 [PRODUCT_AVATAR_TICKET_30_DESC]
 330 Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_30_SHORT_DESC]
-Paquete mediano de Cupones
+Lote de cupones
 
 [PRODUCT_AVATAR_TICKET_68_DESC]
 780 Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_68_SHORT_DESC]
-Paquete grande de Cupones
+Fajo de cupones
 
 [PRODUCT_AVATAR_TICKET_128_DESC]
-1550 Cupones de Atuendo
+1.550 Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_128_SHORT_DESC]
-Caja pequeña de Cupones
+Regalo de cupones
 
 [PRODUCT_AVATAR_TICKET_328_DESC]
-4100 Cupones de Atuendo
+4.100 Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_328_SHORT_DESC]
-Caja mediana de Cupones
+Caja de cupones
 
 [PRODUCT_AVATAR_TICKET_648_DESC]
-8450 Cupones de Atuendo
+8.450 Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_648_SHORT_DESC]
-Caja grande de Atuendo
+Tesoro de cupones
 
 [PRODUCT_AVATAR_TICKET_AD_DESC]
 Ve anuncios para ^FF0000^Cupones^oldclr^ gratis
@@ -49074,10 +49074,10 @@ Flor petaglobera
 ¡Tiende trampas e inflige daño a los zombis!
 
 [PRODUCT_BRAMBLEBUSH_NAME]
-Planta - Zarza Mora
+Planta - Zarzamora
 
 [PRODUCT_BRAMBLEBUSH_SHORT_DESCRIPTION]
-Zarza Mora
+Zarzamora
 
 [PRODUCT_BUDUHBOOM_DESCRIPTION]
 ¡Jade mantecoso, perdición de los zombis!
@@ -49238,9 +49238,6 @@ Lo llaman el congelado.
 [PRODUCT_CHILLYPEPPER_NAME]
 Planta – Chile gélido
 
-[PRODUCT_CHILLYPEPPER_SEEDS]
-Semillas de Chile gélido
-
 [PRODUCT_CHOMPER_DESCRIPTION]
 ¡Devora un zombi de un bocado!
 
@@ -49250,179 +49247,23 @@ Planta - Planta carnívora
 [PRODUCT_CHOMPER_SHORT_DESCRIPTION]
 Planta carnívora
 
-[PRODUCT_COINS_100K_CONSUME_SALE]
-¡Regalo de monedas!
-
-[PRODUCT_COINS_100K_CONSUME_SALE_S]
-¡Disfruta del doble de monedas!
-
-[PRODUCT_COINS_5000SALE_CONSUME_T1]
-¡+40% DE DESCUENTO! 5000 monedas
-
-[PRODUCT_COINS_5000_CONSUME]
-Paquete de monedas: 5000
-
-[PRODUCT_COINS_5000_CONSUME_S]
-Monedas de bolsillo
-
-[PRODUCT_COINS_5000_CONSUME_T2]
-Monedas de bolsillo
-
-[PRODUCT_COINS_5000_CONSUME_T2_S]
-Paquete de monedas: 5000
-
-[PRODUCT_COINS_10000SALE_CONSUME_T3]
-¡+40% DE DESCUENTO! 10.000 monedas
-
-[PRODUCT_COINS_10000_CONSUME]
-Paquete de monedas: 10000
-
-[PRODUCT_COINS_10000_CONSUME_S]
-Bolsito de monedas
-
-[PRODUCT_COINS_10000_CONSUME_T4]
-Bolsito de monedas
-
-[PRODUCT_COINS_10000_CONSUME_T4_S]
-Paquete de monedas: 7000
-
-[PRODUCT_COINS_15000_CONSUME]
-Paquete de monedas: 15000
-
-[PRODUCT_COINS_20000SALE_CONSUME_T5]
-¡+40% DE DESCUENTO! 20.000 monedas
-
-[PRODUCT_COINS_20000_CONSUME_T7]
-Cartera de monedas
-
-[PRODUCT_COINS_20000_CONSUME_T7_S]
-Paquete de monedas: 25000
-
-[PRODUCT_COINS_22000_CONSUME_T10]
-Paquete de monedas: 22000
-
-[PRODUCT_COINS_24000_CONSUME]
-Paquete de monedas: 24000
-
-[PRODUCT_COINS_24000_CONSUME_S]
-Cartera de monedas
-
-[PRODUCT_COINS_40000SALE_CONSUME_T10]
-¡+40% DE DESCUENTO! 40.000 monedas
-
-[PRODUCT_COINS_40000_CONSUME]
-¡Lo más popular! ¡Monedas en abundancia!
-
-[PRODUCT_COINS_50000_CONSUME_T20]
-Paquete de monedas: 50000
-
-[PRODUCT_COINS_50000_CONSUME_T20_S]
-Bolsa de monedas
-
-[PRODUCT_COINS_60000_CONSUME_T20]
-Bolsa de monedas
-
-[PRODUCT_COINS_60000_CONSUME_T20_S]
-Paquete de monedas: 50000
-
-[PRODUCT_COINS_100000_CONSUME]
-¡Soy rico!
-
-[PRODUCT_COINS_100000_CONSUME_S]
-Paquete de monedas: 100000
-
-[PRODUCT_COINS_150000_CONSUME_T36]
-¡Son un montón de monedas!
-
-[PRODUCT_COINS_150000_CONSUME_T36_S]
-Paquete de monedas: 150000
-
-[PRODUCT_COINS_150000_CONSUME_T50]
-Paquete de monedas: 150000
-
-[PRODUCT_COINS_150000_CONSUME_T50_S]
-Tonel de monedas
-
-[PRODUCT_COINS_200000SALE_CONSUME_T20]
-¡+40% DE DESCUENTO! 200.000 monedas
-
-[PRODUCT_COINS_200000_CONSUME_T45]
-Tonel de monedas
-
-[PRODUCT_COINS_200000_CONSUME_T45_S]
-Paquete de monedas: 200000
-
-[PRODUCT_COINS_350000_CONSUME_T100]
-Paquete de monedas: 350000
-
-[PRODUCT_COINS_350000_CONSUME_T100_S]
-Cofre de monedas
-
-[PRODUCT_COINS_450000SALE_CONSUME_T40]
-¡+40% DE DESCUENTO! 450.000 monedas
-
-[PRODUCT_COINS_450000_CONSUME]
-¡-60%! ¡Un montón de monedas!
-
-[PRODUCT_COINS_450000_CONSUME_S]
-Paquete de monedas: 450000
-
-[PRODUCT_COINS_450000_CONSUME_T54]
-200 paquetes de semillas de Vaina de zoja + Enredadera candelera + Enredadera explosiva + Tomate definitivo + plantas prémium +10.000 monedas. Límite de 1 por persona
-
-[PRODUCT_COINS_450000_CONSUME_T54_S]
-Lote prémium de campeones
-
-[PRODUCT_COINS_450000_CONSUME_T58]
-Cofre de monedas
-
-[PRODUCT_COINS_BIRTHDAYZ_CONSUME_T10]
-¡20.000 monedas + 20 paquetes de semillas de plantas explosivas EXTRA!
-
-[PRODUCT_COINS_BIRTHDAYZ_CONSUME_T10_S]
-Lote de 20.000 monedas
-
-[PRODUCT_COINS_BIRTHDAYZ_CONSUME_T20]
-¡50.000 monedas + 100 paquetes de semillas de plantas explosivas EXTRA!
-
-[PRODUCT_COINS_BIRTHDAYZ_CONSUME_T20_S]
-Lote de 50.000 monedas
-
-[PRODUCT_COINS_BIRTHDAYZ_CONSUME_T50]
-¡150.000 monedas + 300 paquetes de semillas de plantas explosivas EXTRA!
-
-[PRODUCT_COINS_BIRTHDAYZ_CONSUME_T50_S]
-Lote de 150.000 monedas
-
-[PRODUCT_COINS_BIRTHDAYZ_CONSUME_T100]
-¡350.000 monedas + 700 paquetes de semillas de plantas explosivas EXTRA!
-
-[PRODUCT_COINS_BIRTHDAYZ_CONSUME_T100_S]
-Lote de 350.000 monedas
-
-[PRODUCT_COINS_TEST_1000_CONSUME_T1]
-Referencia de prueba de monedas
-
-[PRODUCT_COINS_TEST_1000_CONSUME_T1_S]
-Referencia de prueba
-
 [PRODUCT_COIN_10000_DESC]
-¡10000 Monedas!
+¡10.000 Monedas!
 
 [PRODUCT_COIN_10000_SHORT_DESC]
-Monedas x10000
+Bolsito de monedas
 
 [PRODUCT_COIN_20000_DESC]
-¡25000 Monedas!
+¡25.000 Monedas!
 
 [PRODUCT_COIN_20000_SHORT_DESC]
-Monedas x25000
+Tonel de monedas
 
 [PRODUCT_COIN_40000_DESC]
-¡40000 Monedas!
+¡40.000 Monedas!
 
 [PRODUCT_COIN_40000_SHORT_DESC]
-Monedas x40000
+Cofre de monedas
 
 [PRODUCT_COIN_AD_DESC]
 Ve anuncios para ^FF0000^Monedas^oldclr^ gratis
@@ -49430,44 +49271,14 @@ Ve anuncios para ^FF0000^Monedas^oldclr^ gratis
 [PRODUCT_COIN_AD_SHORT_DESC]
 Monedas gratis
 
-[PRODUCT_COIN_BIRTHDAYZ_CONSUME_FREE1200]
-Monedas - Cumpleañoz x 1200
-
-[PRODUCT_COIN_LUCKOTHEZOMBIE_CONSUME_FREE1000]
-Monedas - La suerte del zombi x 1000
-
-[PRODUCT_COIN_SPRINGENING_CONSUME_FREE3000]
-Monedas - La Primaveridad x 3000
-
-[PRODUCT_COIN_SPRINGENING_CONSUME_FREE3000_S]
-Lote de la Primaveridad
-
-[PRODUCT_COIN_SPRINGENING_CONSUME_FREE12500]
-Monedas - La Primaveridad x 12500
-
-[PRODUCT_COLDPINATA_DESCRIPTION]
-¡50 paquetes de semillas de plantas gélidas!
-
-[PRODUCT_COLDPINATA_NAME]
-Piñata - Plantas gélidas
-
-[PRODUCT_COLDPINATA_SHORT_DESCRIPTION]
-Plantas gélidas
-
 [PRODUCT_COLDSNAPDRAGON_DESCRIPTION]
 ¡Exhala una niebla gélida en 6 casillas adyacentes!
 
 [PRODUCT_COLDSNAPDRAGON_NAME]
 Planta - Bocadragón gélido
 
-[PRODUCT_COLDSNAPDRAGON_SEEDS]
-Semillas de Bocadragón gélido
-
 [PRODUCT_COLDSNAPDRAGON_SHORT_DESCRIPTION]
 Bocadragón gélido
-
-[PRODUCT_COLD_SNAPDRAGON_SEEDS]
-Semillas de Bocadragón gélido
 
 [PRODUCT_COLOR_CUSTOMIZATION]
 Paquete colorido
@@ -49737,46 +49548,22 @@ Planta – Capota gélida
 Capota gélida
 
 [PRODUCT_FUEL_5_DESC]
-¡^FF0000 5 ^oldclr Combustibles de Penny!
+5 de Combustible
 
 [PRODUCT_FUEL_5_SHORT_DESC]
-Combustible x5
-
-[PRODUCT_FUEL_10_CONSUME_FREE]
-10 de combustible
-
-[PRODUCT_FUEL_10_CONSUME_FREE_S]
-10 de combustible
-
-[PRODUCT_FUEL_15_CONSUME_G30]
-Recarga de combustible
-
-[PRODUCT_FUEL_15_CONSUME_G30_S]
-Recarga de combustible
+Combustible de reserva
 
 [PRODUCT_FUEL_15_DESC]
-¡Consigue ^FF0000 15 ^oldclr Combustibles de Penny!
+15 de Combustible
 
 [PRODUCT_FUEL_15_SHORT_DESC]
-Combustible de Penny
-
-[PRODUCT_FUEL_20_CONSUME_FREE]
-20 de combustible
-
-[PRODUCT_FUEL_20_CONSUME_FREE_S]
-20 de combustible
+Recarga de combustible
 
 [PRODUCT_FUEL_30_DESC]
-¡^FF0000 30 ^oldclr Combustibles de Penny!
+30 de Combustible
 
 [PRODUCT_FUEL_30_SHORT_DESC]
-Combustible x30
-
-[PRODUCT_FUEL_45_CONSUME_FREE]
-45 de combustible
-
-[PRODUCT_FUEL_45_CONSUME_FREE_S]
-45 de combustible
+Arsenal de combustible
 
 [PRODUCT_FUEL_AD_DESC]
 Ve anuncios para ^FF0000^Combustible^oldclr^ gratis
@@ -51204,37 +50991,37 @@ Planta – Drosera zampona
 Drosera zampona
 
 [PRODUCT_SUN_500_DESC]
-¡^FF0000 500 ^oldclr Soles!
+500 soles
 
 [PRODUCT_SUN_500_SHORT_DESC]
-Puñado de Soles
+Puñado de soles
 
 [PRODUCT_SUN_1000_DESC]
-¡^FF0000 1000 ^oldclr Soles!
+1.000 soles
 
 [PRODUCT_SUN_1000_SHORT_DESC]
-Pila de Soles
+Pila de soles
 
 [PRODUCT_SUN_2000_DESC]
-¡^FF0000 2000 ^oldclr Soles!
+2.000 soles
 
 [PRODUCT_SUN_2000_SHORT_DESC]
-Montaña de Soles
+Montaña de soles
 
 [PRODUCT_SUN_3000_DESC]
-¡^FF0000 3000 ^oldclr Soles!
+3.000 soles
 
 [PRODUCT_SUN_3000_SHORT_DESC]
-Lluvia de Soles
+Lluvia de soles
 
 [PRODUCT_SUN_5000_DESC]
-¡^FF0000 5000 ^oldclr Soles!
+5.000 soles
 
 [PRODUCT_SUN_5000_SHORT_DESC]
-Bóveda de Soles
+Bóveda de soles
 
 [PRODUCT_SUN_AD_DESC]
-Ve anuncios para ^FF0000^Soles^oldclr^ gratis
+Ve anuncios para ^FF0000^Sol^oldclr^ gratis
 
 [PRODUCT_SUN_AD_SHORT_DESC]
 Soles gratis
@@ -56409,34 +56196,34 @@ Nivel 5
 Dispara balas que perforan y ralentizan zombis
 
 [RIFTA_SHOP_BUY_CONFIRM]
-¿Deseas gastar {NUMS} Moneda (s) del espacio-tiempo para comprar este artículo?
+¿Deseas comprar este artículo por ^D22808^{NUMS} Monedas del espacio-tiempo^oldclr^?
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_1]
-^FF0000 Se desbloquea en Liga Madera ^oldclr
+^FF0000^Se desbloquea en Liga Madera^oldclr^
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_2]
-^FF0000 Se desbloquea en Liga Ladrillo ^oldclr
+^FF0000^Se desbloquea en Liga Ladrillo^oldclr^
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_3]
-^FF0000 Se desbloquea en Liga Hierro ^oldclr
+^FF0000^Se desbloquea en Liga Hierro^oldclr^
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_4]
-^FF0000 Se desbloquea en Liga Bronce ^oldclr
+^FF0000^Se desbloquea en Liga Bronce^oldclr^
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_5]
-^FF0000 Se desbloquea en Liga Plata ^oldclr
+^FF0000^Se desbloquea en Liga Plata ^oldclr^
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_6]
-^FF0000 Se desbloquea en Liga Oro ^oldclr
+^FF0000^Se desbloquea en Liga Oro^oldclr^
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_7]
-^FF0000 Se desbloquea en Liga Jade ^oldclr
+^FF0000^Se desbloquea en Liga Jade^oldclr^
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_8]
-^FF0000 Se desbloquea en Liga Legendaria ^oldclr
+^FF0000^Se desbloquea en Liga Legendaria^oldclr^
 
 [RIFTA_SHOP_TITLE]
-Tienda de Intercambios de Penny
+Tienda del tiempo
 
 [RIFT_BOSS_DOUBLE_REWARD_CHOOSE_BTN_ONE]
 Reclamar
@@ -56611,33 +56398,31 @@ Premios de primera limpieza
 Monedas del espacio-tiempo insuficientes.
 
 [RIFT_LEADERBOARD_HEADER]
-Clasificación por puntos
+Tablas de clasificación
 
 [RIFT_LEADERBOARD_KEEP]
 Mantenido en la misma liga
 
 [RIFT_LEADERBOARD_LEAGUE_STR]
-Liga
+Liga: 
 
 [RIFT_LEADERBOARD_OVERVIEW_CONTENT]
-1. Los jugadores pueden ganar puntos completando los nivel de La Búsqueda de Penny.
-2. Se tomará el valor más alto de los puntos obtenidos por el jugador en cada nivel, y luego los puntos de todos los niveles se resumirán como sus puntos totales.
-3. Los jugadores se clasificarán en las Tablas de Clasificación por el recuento total sus puntos.
-4. Colócate en las tres últimas posiciones más altas de las Tablas de Clasificación para ascender a una liga más competitiva con mejores premios y oponentes más difíciles.
-5. Cada vez que te clasifiques en una nueva liga, recibirás Medallas como recompensa.
-6. Cada temporada de liga tiene un plazo de 7 días.
+1. Gana puntos completando niveles de La Búsqueda de Penny. Se tomará el valor más alto de cada nivel y se sumará como el promedio total.
+2. Te clasificas por el recuento total de tus puntos, trata de alcanzar la mayor puntuación posible.
+3. Colócate en las 3 últimas posiciones más altas de la tabla para ascender a una liga más competitiva con mejores premios.
+4. Cada temporada tiene un plazo de 7 días.
 
 [RIFT_LEADERBOARD_OVERVIEW_TITLE]
-Tablas de Clasificación
+SOBRE LAS TABLAS DE CLASIFICACIÓN
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL1]
 Liga actual
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL2]
-Liga anterior
+Liga 2
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL3]
-Liga tras-anterior
+Liga 3
 
 [RIFT_LEADERBOARD_SEASON_REWARD_HEADER]
 Recompensas por temporada
@@ -57271,10 +57056,10 @@ Situación vegiaguda
 Viaje a las grietas
 
 [RIFT_TOURNAMENT_LEAGUE_RESULT_DEMOTED]
-(Descendido de Liga)
+(Degradado)
 
 [RIFT_TOURNAMENT_LEAGUE_RESULT_PROMOTED]
-(Promovido a otra Liga)
+(Promovido)
 
 [RIFT_TOURNAMENT_LEAGUE_RESULT_STAY]
 (Misma liga)
@@ -57286,13 +57071,13 @@ Viaje a las grietas
 Hay disponible una nueva actualización de La Búsqueda de Penny. ¡Actualiza ahora!
 
 [RIFT_WORLD_THEME_TITLE]
-Mecánicas de esta semana:
+Mecánica de esta semana: 
 
 [RIFT_WORLD_THEME_TITLE_LEFT_TIME]
 {DURATION}
 
 [RIFT_WORLD_TITLE]
-Termina en
+Termina en: 
 
 [RIFT_ZOMBOSS_BONUS_ALERT]
 ¡FASE DE PREMIO EXTRA!
@@ -62121,7 +61906,7 @@ Nivel 5
 Dispara desde lejos y se esconde si se acerca un zombi
 
 [SCORE_RANK_LIST]
-Tabla de clasificación por puntos
+Tabla de clasificación
 
 [SEADERRIS]
 Barbasco de mar
@@ -62365,7 +62150,7 @@ DESCRIPCIÓN DEL EVENTO
 Cofre x10
 
 [SECRET_GACHA_TITLE]
-El Tesoro Secreto
+Premios
 
 [SECRET_MIDDLE_STR]
 Disponible
@@ -67490,9 +67275,6 @@ Tienes grandes probabilidades de obtener Piezas de plantas y Atuendos.
 Abre 10 Cofres.
 
 [STORE_CATEGORY_NAME_FUEL]
-Combustible
-
-[STORE_CATEGORY_NAME_FUELS]
 : Combustible de Penny
 
 [STORE_CATEGORY_NAME_GACHA]
@@ -74907,7 +74689,7 @@ Nivel 5
 Protege a las plantas cercanas de zombis y objetos arrojadizos
 
 [UNABLE_TO_SKIP_LEVEL]
-Imposible saltar el Nivel
+Sin saltos Nvl.
 
 [UNCHARTED_ANNIVERSARY_2025_CHALLENGE_TITLE]
 Objetivos opcionales
@@ -77899,13 +77681,13 @@ Planta carnívora: Piezas x10
 3. Por cada 10 sorteos ganas 1 Burbuja de premios.
 
 [WISHING_POOL_DESCRIPTION_1_VERSION2]
-WISHING_POOL_DESCRIPTION_1_VERSION1
+V2
 
 [WISHING_POOL_DESCRIPTION_2_VERSION1]
-Listado de recompensas según tipo
+
 
 [WISHING_POOL_DESCRIPTION_2_VERSION2]
-WISHING_POOL_DESCRIPTION_2_VERSION1
+V2
 
 [WISHING_POOL_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
@@ -78316,6 +78098,9 @@ Costo
 
 [WORLD_MAP_TIME_LEVEL_UNLOCK_3]
 Puedes desbloquear el nivel actual con Joyas, ¿deseas continuar?
+
+[WORLDMAP_EVENT_LOD_COUNTDOWN]
+{HOURS_LEFT}h {MINUTES_LEFT}m {SECONDS_LEFT}s
 
 [WORLD_NAME_ATLANTIS]
 La Atlántida
@@ -82030,7 +81815,7 @@ Zombi con fuegos artificiales
 Tira fuegos artificiales que lo chamuscan todo
 
 [ZOMBIE_NEW_PVP_HEIAN_NINJA]
-Zombicho ninja
+Zombidito ninja
 
 [ZOMBIE_NEW_PVP_HEIAN_NINJA_DESCRIPTION_HEADER]
 Arroja peces globo para atacar plantas
@@ -83348,7 +83133,7 @@ Marca la llegada de una gran oleada de zombis trabajadores.
 Zombistein capataz
 
 [ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta plantas con su llave inglesa gigante
+{KEYWORD}Daño: {STAT}aplasta plantas con su colosal llave inglesa
 {KEYWORD}Especial: {STAT}lanza al Zombidito industrial cuando sufre daño
 
 {FLAVOR}Zombistein capataz es el jefe de una pequeña empresa. Siempre se asegura de que la calidad de los productos sea la mejor. Aunque es duro con los trabajadores y tiene un temperamento muy fuerte, todos saben que en el fondo es un buen zombi.
@@ -83386,7 +83171,7 @@ Zombi con calderas
 {FLAVOR}Trabajar en un ambiente caluroso todo el día hace que el genio de Zombi con calderas sea muy violento, así que trata de no hacerlo enfadar. Estaría muy encantado si lo recibes con un vaso de agua fría.
 
 [ZOMBIE_STEAM_STOVE_DESCRIPTION_HEADER]
-Las temperaturas ardientes de sus calderas pueden causar daño y destrucción a las plantas cercanas a él.
+Las temperaturas ardientes de sus calderas causan destrucción a las plantas cercanas.
 
 [ZOMBIE_STEAM_WORKER]
 Zombi trabajador
@@ -83401,7 +83186,7 @@ Zombi de clase obrera.
 Caracono veraniego
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION]
-Para estar en la onda y a la defensiva, Zombi Caracono usa un par de gafas de sol y un cono, aunque discutiendo sobre lo de las gafas de sol, parece que no sabe que es una celebración por la noche.
+Para estar en la onda y a la defensiva, Zombi caracono usa un par de gafas de sol y un cono, aunque discutiendo sobre lo de las gafas de sol, parece que no sabe que es una celebración por la noche.
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION_HEADER]
 Su reluciente y colorido cono le da el doble de resistencia que el zombi básico de Noches de verano.
@@ -83427,30 +83212,8 @@ Zombi común que participa en la celebración de Noches de verano.
 [ZOMBIE_SUMMER_BUG]
 Zombicho veraniego
 
-[ZOMBIE_SUMMER_BUG_ARMOR1]
-Zombicho caracono de verano
-
-[ZOMBIE_SUMMER_BUG_ARMOR1_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su cono le otorga el doble de dureza
-
-{FLAVOR}Su cono e insecto resultaron ser sus mejores aliados en las Noches de verano.
-
-[ZOMBIE_SUMMER_BUG_ARMOR1_DESCRIPTION_HEADER]
-Bicho lleva a Zombicho caracono por encima de tus defensas.
-
-[ZOMBIE_SUMMER_BUG_ARMOR2]
-Zombicho caracubo de verano
-
-[ZOMBIE_SUMMER_BUG_ARMOR2_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su cubo le otorga el triple de dureza
-
-{FLAVOR}Su cubo e insecto resultaron ser sus mejores aliados en las Noches de verano.
-
-[ZOMBIE_SUMMER_BUG_ARMOR2_DESCRIPTION_HEADER]
-Bicho lleva a Zombicho caracubo por encima de tus defensas.
-
 [ZOMBIE_SUMMER_BUG_DESCRIPTION]
-Las noches de verano a menudo están repletas de insectos, por eso nació esta pareja con tanta naturalidad. No solo se les facilita el trabajo de saquear cerebros, sino que tener un campo de visión más alto también les es conveniente para ver mejor los fuegos artificiales.
+Las noches de verano a menudo están repletas de insectos, por eso nació esta pareja con tanta naturalidad. No solo se les facilita el trabajo de saquear cerebros, sino que tener un campo de visión más alto les permite ver mejor los fuegos artificiales.
 
 [ZOMBIE_SUMMER_BUG_DESCRIPTION_HEADER]
 Bicho lleva a Zombicho por encima de tus defensas.
@@ -83474,16 +83237,16 @@ Zombistein parrillero
 {FLAVOR}Trabaja como chef en el festival de verano. Quizá lo que le motiva seguir ahí son los hermosos fuegos artificiales, ya que, el negocio parece no ser muy bueno. El número de platos que ha servido con su espátula no ha sido tanto como la cantidad de plantas aplastadas con ella.
 
 [ZOMBIE_SUMMER_GARGANTUAR_DESCRIPTION_HEADER]
-Un zombi cocinero y grandulón que aplasta plantas con su espátula gigante y lanza Zombiditos salchicha.
+Un gran fanático de las parrilladas y las noches de verano.
 
 [ZOMBIE_SUMMER_IMP]
 Zombidito salchicha
 
 [ZOMBIE_SUMMER_IMP_DESCRIPTION]
-A este zombi le fascinan tanto las salchichas que hasta se vistió de perrito caliente una vez que fue a una fiesta. Hoy día sigue llevando puesto su disfraz a todas las fiestas donde va, quizá lo hace para no pagar las entradas o quién sabe.
+Le fascinan tanto las salchichas que hasta se disfrazó de una para irse de fiesta. Hoy día sigue llevando puesto su disfraz a todas las fiestas donde va, quizá lo hace para no pagar las entradas o quién sabe...
 
 [ZOMBIE_SUMMER_IMP_DESCRIPTION_HEADER]
-Un zombi pequeñito fanático de las salchichas, una vez lanzado, se arrastra lentamente por el patio.
+Un pequeño fanático de las salchichas. Una vez lanzado, se arrastra lentamente por el patio.
 
 [ZOMBIE_SWASHBUCKLER]
 Zombi espadachín
