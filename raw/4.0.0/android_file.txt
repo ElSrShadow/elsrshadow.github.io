@@ -3034,82 +3034,6 @@ Continuar
 [ARE_YOU_SURE]
 ¿Seguro?
 
-[ARMORFLAME]
-Estrella infernal
-
-[ARMORFLAME_TALENT_DESCRIPTION_1_0]
-^573701^Aumenta el poder de ataque de las plantas de fuego a su alrededor en un^oldclr^ ^2f8101^3%^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_1_0_PRESS]
-^573701^Aumenta el poder de ataque de las plantas de fuego a su alrededor en un^oldclr^ ^2f8101^3%^oldclr^
-^573701^(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_1_1]
-^573701^Aumenta el poder de ataque de las plantas de fuego a su alrededor en un^oldclr^ ^2f8101^6%^oldclr^
-^573701^(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_1_1_PRESS]
-^573701^Aumenta el poder de ataque de las plantas de fuego a su alrededor en un^oldclr^ ^2f8101^6%^oldclr^
-^573701^(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_1_2]
-^573701^Aumenta el poder de ataque de las plantas de fuego a su alrededor en un^oldclr^ ^2f8101^9%^oldclr^ y ^573701^su velocidad de ataque en un^oldclr^ ^2f8101^20%^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_1_2_PRESS]
-^573701^Aumenta el poder de ataque de las plantas de fuego a su alrededor en un^oldclr^ ^2f8101^9%^oldclr^ y ^573701^su velocidad de ataque en un^oldclr^ ^2f8101^20%^oldclr^
-^573701^(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_2_0]
-^573701^Aumenta el daño de sus proyectiles en un^oldclr^ ^2f8101^2.5%^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_2_0_PRESS]
-^573701^Aumenta el daño de sus proyectiles en un^oldclr^ ^2f8101^2.5%^oldclr^
-^573701^(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_2_1]
-^573701^Aumenta el daño de sus proyectiles en un^oldclr^ ^2f8101^5%^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_2_1_PRESS]
-^573701^Aumenta el daño de sus proyectiles en un^oldclr^ ^2f8101^5%^oldclr^
-^573701^(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_2_2]
-^573701^Aumenta el daño de sus proyectiles en un^oldclr^ ^2f8101^7.5%^oldclr^, ^573701^existe un^oldclr^ ^2f8101^50% de probabilidad^oldclr^ de que el primer proyectil atraviese a un zombi.
-
-[ARMORFLAME_TALENT_DESCRIPTION_2_2_PRESS]
-^573701^Aumenta el daño de sus proyectiles en un^oldclr^ ^2f8101^7.5%^oldclr^, ^573701^existe un^oldclr^ ^2f8101^50% de probabilidad^oldclr^ ^573701^de que el primer proyectil atraviese a un zombi.
-(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_3_0]
-^573701^Aumenta el multiplicador de daño de las balas en un^oldclr^ ^2f8101^20%^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_3_0_PRESS]
-^573701^Aumenta el multiplicador de daño de las balas en un^oldclr^ ^2f8101^20%^oldclr^
-^573701^(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_3_1]
-^573701^Aumenta el multiplicador de daño de las balas en un^oldclr^ ^2f8101^40%^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_3_1_PRESS]
-^573701^Aumenta el multiplicador de daño de las balas en un^oldclr^ ^2f8101^40%^oldclr^
-^573701^(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_3_2]
-^573701^Aumenta el multiplicador de daño de las balas en un^oldclr^2f8101^60%^oldclr^, ^573701^los proyectiles viajan un^oldclr^ ^2f8101^50%^oldclr^ ^573701^más rápido y perforan durante^oldclr^ ^2f8101^2 segundos^oldclr^ ^573701^adicionales^oldclr^
-
-[ARMORFLAME_TALENT_DESCRIPTION_3_2_PRESS]
-^573701^Aumenta el multiplicador de daño de las balas en un^oldclr^^2f8101^60%^oldclr^, ^573701^los proyectiles viajan un^oldclr^ ^2f8101^50%^oldclr^ ^573701^más rápido y perforan durante^oldclr^ ^2f8101^2 segundos^oldclr^ ^573701^adicionales
-(Toca para mejorar)^oldclr^
-
-[ARMORFLAME_TALENT_NAME_1]
-^2f8101^Nivel 2^oldclr^
-
-[ARMORFLAME_TALENT_NAME_2]
-^2f8101^Nivel 3^oldclr^
-
-[ARMORFLAME_TALENT_NAME_3]
-^2f8101^Nivel 4^oldclr^
-
 [ARROW_RELOAD_TIP]
 Recargando...
 
@@ -3123,7 +3047,7 @@ Artefactos
 Disolvente
 
 [ARTIFACT_ACID_DESCRIPTION]
-Crea piscinas de ácido para disolver zombis
+Crea charcos de ácido para disolver zombis
 
 [ARTIFACT_ACID_SKILL_1]
 Nivel 1
@@ -3138,7 +3062,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_1]
-Convierte una casilla en una piscina de ácido. Disuelve zombis pequeños con el tiempo. Dos piscinas juntas pueden eliminar zombis medianos y grandes. ^DB8117^Usos: {MainField_2}^oldclr^
+Convierte una casilla en un charco de ácido. Disuelve zombis pequeños con el tiempo. Dos charcos juntos pueden eliminar zombis medianos y grandes. ^DB8117^Usos: {MainField_2}^oldclr^
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_2]
 ^98FB98^Efecto pasivo:^oldclr^ aumenta el daño y la defensa de las plantas venenosas en un {PassiveField1_1}%
@@ -3253,20 +3177,27 @@ Cupones insuficientes, no puedes reclamar este Artefacto.
 
 [ARTIFACT_BLESS_DESCRIPTION]
 1. Los Cupones de mejora pueden usarse para añadir efectos adicionales a los Artefactos.
-2. Los efectos de mejora y su probabilidad según el tipo: ^777777^común^oldclr^ (54%), ^0072ff^raro^oldclr^ (30%), ^8f43f5^épico^oldclr^ (15%) o ^ec6a00^legendario^oldclr^ (1%)
-3. Los atributos épicos solo tienen efecto en el artefacto actual, los legendarios tienen efecto en todos los artefactos excepto en aquellos que son unicos. Los atributos legendarios que ya han sido obtenidos no volveran a aparecer.
+2. Los atributos épicos solo tienen efecto en el artefacto actual.
+3. Los atributos legendarios tienen efecto en todos los artefactos excepto en aquellos que son únicos. 
+
+^A0522D^• Efectos de mejora y su probabilidad según tipo^oldclr^
+
+^777777^Común: 54%^oldclr^
+^0072ff^Raro: 30%^oldclr^
+^8f43f5^Épico: 15%^oldclr^
+^ec6a00^Legendario: 1%^oldclr^
 
 [ARTIFACT_BLESS_DESCRIPTION_TITLE]
 ¿CÓMO FUNCIONAN LOS CUPONES DE ARTEFACTOS?
 
 [ARTIFACT_BLESS_LEGEND_TIPS]
-Aumenta la probabilidad de obtener Cupones avanzados durante ^ff0000^{LEFT_COUNT}^oldclr^ veces
+La probabilidad de obtener Cupones avanzados aumenta en ^ff0000^{LEFT_COUNT}^oldclr^
 
 [ARTIFACT_BLESS_MATERIAL_ADVANCE_NOT_ENOUGH]
 No tienes suficientes Cupones avanzados, ¿deseas ir a la Tienda de Artefactos?
 
 [ARTIFACT_BLESS_MATERIAL_NORMAL_NOT_ENOUGH]
-No tienes suficientes Cupones comunes, puedes conseguir más en La Tienda del Recuerdo o en otros eventos.
+No tienes suficientes Cupones, puedes conseguir más en La Tienda del Recuerdo o en otros eventos.
 
 [ARTIFACT_BLESS_NORMAL]
 Cupones comunes
@@ -4123,7 +4054,7 @@ Abre un portal que absorbe zombis pequeños y medianos en las 3 filas del extrem
 ^98FB98^Efecto activo:^oldclr^ tras absorber zombis, saldrá un Zombistein abisal que luchará de tu lado. La fuerza del Zombistein está determinada por la cantidad de zombis absorbidos.
 
 [ARTIFACT_SKATEBOARD]
-Monopatín
+Monopatín jet
 
 [ARTIFACT_SKATEBOARD_DESCRIPTION]
 Desplaza plantas al azar y golpea zombis para dañarlos
@@ -5565,7 +5496,7 @@ F. Los 100 ganadores del cuarto sorteo, recibirán el 0,4% de las recompensas ac
 5. Buen regalo: los primeros jugadores que compren el pase recibirán Joyas de recompensa
 6. Gran sorteo: participan todos los jugadores que hayan comprado el pase, obtendrán Joyas como premio
 
-^FFA500^Temporada: Verano anaranjado^oldclr^
+^FF8000^Temporada: Verano anaranjado^oldclr^
 
 [BATTLE_ORDER_DESCRIPTION_TITLE]
 SOBRE EL PASE DE BATALLA
@@ -5623,16 +5554,16 @@ Puesto 151-300: {NUM} Joyas
 Puesto 301-500: {NUM} Joyas
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_1]
-^FFA500^Recibes hasta un ^08FF20^0.5% del total^oldclr^ ^FFA500^de recompensas acumuladas^oldclr^
+^FFA500^Recibes hasta un ^08FF20^0.5% del total ^FFA500^de recompensas acumuladas^oldclr^
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_2]
-^FFA500^Recibes hasta un ^08FF20^0.25% del total^oldclr^ ^FFA500^de recompensas acumuladas^oldclr^
+^FFA500^Recibes hasta un ^08FF20^0.25% del total ^FFA500^de recompensas acumuladas^oldclr^
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_3]
-^FFA500^Recibes hasta un ^08FF20^0.2% del total^oldclr^ ^FFA500^de recompensas acumuladas^oldclr^
+^FFA500^Recibes hasta un ^08FF20^0.2% del total ^FFA500^de recompensas acumuladas^oldclr^
 
 [BATTLE_ORDER_GIFT_REWARD_STRIP_DES_4]
-^FFA500^Recibes hasta un ^08FF20^0.1% del total^oldclr^ ^FFA500^de recompensas acumuladas^oldclr^
+^FFA500^Recibes hasta un ^08FF20^0.1% del total ^FFA500^de recompensas acumuladas^oldclr^
 
 [BATTLE_ORDER_INTERGAL]
 Esmeralda
@@ -5804,7 +5735,7 @@ Reduce el tiempo entre ataques a 13 s
 
 [BEANCHEMIST_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: arroja una poción verde a los 3 zombis más cercanos. D22808^Daño: 2.400^oldclr^
+^DB8117^Nutrientes: arroja una poción verde a los 3 zombis más cercanos. ^D22808^Daño: 2.400^oldclr^
 
 [BEANCHEMIST_NEW_SKILL_LEVEL5_DES]
 Las pociones dejan una ^701edf^niebla venenosa^oldclr^ que inflige daño o transforma a los zombis que entren en contacto con esta. ^D22808^Duración: 10 s^oldclr^
@@ -8038,21 +7969,22 @@ Cylindropuntia
 Ataca con burbujas alternando de formas al tocarla. ^D22808^Daño: 40 → 120 (derriba 1 casilla) → 320^oldclr^
 
 [BUBBLECORAL_NEW_SKILL_LEVEL2_DES]
-Burbujas grandes: causan un 25% más de daño.
-Burbujas medianas: son un 25% más rápidas.
 Burbujas pequeñas: su número aumenta a 20
+^DD7ECB^Burbujas medianas: son un 25% más rápidas.^oldclr^
+^A048CF^Burbujas grandes: causan un 25% más de daño.^oldclr^
 
 [BUBBLECORAL_NEW_SKILL_LEVEL3_DES]
-Burbujas grandes: causan un 50% más de daño.
-Burbujas medianas: son un 50% más rápidas.
 Burbujas pequeñas: su número aumenta a 25
+^DD7ECB^Burbujas medianas: son un 50% más rápidas.^oldclr^
+^A048CF^Burbujas grandes: causan un 50% más de daño.^oldclr^
 
 [BUBBLECORAL_NEW_SKILL_LEVEL4_DES]
 Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 ^DB8117^Nutrientes: libera 3 burbujas enormes que disperan otras 18 más pequeñas al explotar.^oldclr^
 
 [BUBBLECORAL_NEW_SKILL_LEVEL5_DES]
-Gana un 50% de liberar burbujas ácidas que dañan la armadura de los zombis. Las medianas y grandes dejan ácido en el suelo. ^D22808^Daño ácido: 100^oldclr^
+Gana un 50% de liberar burbujas ácidas que dañan la armadura de los zombis. Las medianas y grandes dejan ácido en el suelo. 
+^D22808^Daño ácido: 100^oldclr^
 
 [BUBBLECORAL_PEDIA]
 Coral burbuja está basado en el choral (Cylindropuntia cholla), una especie de cactus con tallos cubiertos de espinas muy afiladas y difíciles de quitar. Es nativo de zonas áridas y semiáridas, principalmente en América del Norte. Produce flores rosadas, amarillas o verdosas, y frutos que son comestibles en algunas especies. Esta planta es muy resistente a la sequía y suele crecer en suelos arenosos o pedregosos.
@@ -8100,9 +8032,6 @@ Jade mantecoso
 
 [BUDUHBOOM_DESCRIPTION_HEADER]
 Un bulbo con mantequilla hirviendo a presión, explota en un área mediana dejando charcos alrededor y lanzando una lluvia pringosa por todo el patio.
-
-[BUDUHBOOM_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}sin efecto de Nutrientes.
 
 [BUDUHBOOM_FAMILY]
 Aizoaceae
@@ -8188,7 +8117,7 @@ Los guisantes bateados derriban zombis 1 casilla y los ^848484^aturden^oldclr^ d
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: hace 1.000 DPS, derriba zombis medianos y ^848484^aturde^oldclr^ a los grandes por 4 s.^oldclr^
+^DB8117^Nutrientes: hace 1.000 DPS, derriba zombis medianos y ^848484^aturde^oldclr^ a los grandes por 4 s^oldclr^
 ^D22808^Impacto mejorado: derribo o aturdimiento (guisantes).^oldclr^
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL5_DES]
@@ -8710,7 +8639,7 @@ Efecto de Nutrientes garantizado en cada plantado.
 
 [CACTUS_NEW_SKILL_LEVEL5_DES]
 Gana un 20% de lanzar un cactus pequeño que tiene 1.000 PS y hace 60 DPS/0.5 s
-^D22808^Cactus pequeño: 2/3 ataques ^ff9600^aturden^oldclr^ zombis durante 1 s^oldclr^
+^E2725B^Cactus pequeño: 2/3 ataques ^ff9600^aturden ^E2725B^zombis durante 1 s^oldclr^
 
 [CACTUS_PEDIA]
 Los cactus son plantas suculentas originarias de América, adaptadas a climas áridos y secos. Se caracterizan por sus tallos que almacenan agua y la presencia de espinas en ellos, generalmente no tienen hojas. Algunas especies producen flores y frutos comestibles, como la tuna.
@@ -9278,9 +9207,6 @@ Existe un 50% de probabilidad de que arroje a 1 zombi adicional (para un total d
 [CAULIPOWER_DESCRIPTION_HEADER]
 Colipoder usa su poder mental para hipnotizar zombis al azar para que se vuelvan en contra de sus amigos.
 
-[CAULIPOWER_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Echa a 5 zombis aleatorios del patio.
-
 [CAULIPOWER_FAMILY]
 Brassicaceae
 
@@ -9391,9 +9317,6 @@ Crea 1 clon adicional (4 en total).
 [CELERYSTALKER_DESCRIPTION_HEADER]
 Apio furtivo espera hasta que pasan los zombis, luego sale y golpea por la espalda.
 
-[CELERYSTALKER_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Se cura por completo y genera tres Apios furtivos.
-
 [CELERYSTALKER_FAMILY]
 Apiaceae
 
@@ -9459,16 +9382,16 @@ Cinta azul
 Sus ataques normales tienen un 30% de lanzar motosierras gigantes que infligen el doble de daño.
 
 [CHAINSAWBURMANNII_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}área de 3x3 a su alrededor
-{KEYWORD}Características de la planta: {STAT}planta verde, destructora
+{KEYWORD}Alcance: {STAT}área 3x3 a su alrededor
+{KEYWORD}Características de la planta: {STAT}planta verde
 
 {FLAVOR}Creció especializándose en el movimiento circular, lo que ingenuamente pensó que le ayudaría a convertirse en un genio de la física. Pero, de hecho, solo destacó en varios campeonatos mundiales de yoyó.
 
 [CHAINSAWBURMANNII_DESCRIPTION_HEADER]
-Drosera serrada lanza una motosierra que gira a su alrededor e inflige daño consecutivo a los zombis cercanos.
+Drosera serrada lanza varias motosierras que giran a su alrededor e infligen daño a los zombis cercanos.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL1_DES]
-Lanza una motosierra que daña a los zombis cercanos mientras gira. Luego debe descansar por 5 segundos.
+Lanza 3 motosierras que dañan a los zombis cercanos, luego debe descansar por 5 s. ^D22808^Duración: 10 s^oldclr^
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL2_DES]
 1/3 motosierras se prende en llamas azules y dobla el daño; su tiempo de recuperación se reduce a 2.5 s
@@ -9478,17 +9401,18 @@ Lanza una motosierra que daña a los zombis cercanos mientras gira. Luego debe d
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL4_DES]
 Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: lanza múltiples motosierras por el patio.^oldclr^
+^DB8117^Nutrientes: gira lanzando 180 motosierras por el patio. ^D22808^Duración: 3 s^oldclr^
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL5_DES]
 1/2 motosierras de llamas azules se convierte en llamas moradas y triplica el daño.
-Aumenta el alcance a un área de 5x5 y el número de motosierras a 6/ataque.
+^FF8000^Aumenta el alcance a un área de 5x5 y el número de motosierras a 6 por ataque.^oldclr^
 
 [CHAINSAWBURMANNII_PLANTFOOD_DESCRIPTION]
-Lanza múltiples motosierras por el patio, ^E2725B^el color de las llamas cambia a medida que sube de Nivel.^oldclr^
+Gira lanzando 180 motosierras por el patio. ^D22808^Duración: 3 s^oldclr^
+^E2725B^Tip: el color de las llamas cambia a medida que sube de Nivel.^oldclr^
 
 [CHAINSAWBURMANNII_PRODUCT_SHORT_DESC]
-Daña a los zombis cercanos con motosierras que infligen daño consecutivo
+Lanza motosierras que dañan a los zombis de su alrededor
 
 [CHAINSAWBURMANNII_SKILL_LEVEL1]
 Nivel 2
@@ -9509,7 +9433,7 @@ Nivel 5
 ^DB8117^Llamas púrpuras:^oldclr^ 1/2 motosierras de llamas azules se convierte en llamas moradas, triplicando el daño. Aumenta el alcance y el número de proyectiles.
 
 [CHAINSAWBURMANNII_TOOLTIP]
-Daña a los zombis cercanos con motosierras que infligen daño consecutivo
+Lanza motosierras que dañan a los zombis de su alrededor
 
 [CHALLENGE_APPLY_ZOMBIE_CONDITIONS_CHILL]
 ¡Enfría a los zombis {COUNT} veces!
@@ -10895,7 +10819,7 @@ Cubo de hielo
 Bocadragón gélido exhala una niebla fría en 6 casillas adyacentes.
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL1_DES]
-Exhala una niebla fría en el área que tiene delante. ^4DD4DB^Ralentización: dura 10 s^oldclr^
+Exhala una niebla fría en el área que tiene delante. ^0072ff^Ralentización: dura 10 s^oldclr^
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL2_DES]
 Gana un 5.5% de probabilidad de ^0072ff^congelar^oldclr^ zombis durante 2 s. ^D22808^Daño: 180^oldclr^
@@ -10905,12 +10829,10 @@ Gana un 10.5% de probabilidad de ^0072ff^congelar^oldclr^ zombis durante 3 s. ^D
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL4_DES]
 Efecto de Nutrientes garantizado en cada plantado.
-^DB8117^Nutrientes: escupe una ráfaga que ^0072ff^congela o enfría ^DB8117^zombis por 5 s.^oldclr^
-^D22808^Daño: 1.600 (área 3x3 al frente)^oldclr^
+^DB8117^Nutrientes: escupe una ráfaga que ^0072ff^congela o enfría ^DB8117^zombis por 5 s. ^D22808^Daño: 1.600 (área 3x3 al frente)^oldclr^
 
 [COLDSNAPDRAGON_NEW_SKILL_LEVEL5_DES]
-Gana un 20% de invocar un espíritu que ^0072ff^congela^0072ff^ durante 3 s y ralentiza por 7 s.
-^D22808^Daño: 3.000 (línea)^oldclr^
+Gana un 20% de invocar un espíritu que ^0072ff^congela^oldclr^ durante 3 s y ^0072ff^ralentiza^oldclr^ por 7 s. ^D22808^Daño: 3.000 (línea)^oldclr^
 
 [COLDSNAPDRAGON_PLANTFOOD_DESCRIPTION]
 Escupe una ráfaga que ^0072ff^congela o enfría^oldclr^ zombis durante 5 s en 3x3 casillas al frente. ^D22808^Daño: 1.600^oldclr^
@@ -11586,7 +11508,7 @@ El muñeco de nieve gigante rebota, infligiendo daño 2 veces.
 
 [COTTONYETI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}el muñeco de nieve rebota por la fila omitiendo las casillas impares
-{KEYWORD}Características de la planta: {STAT}planta blanca, destructora
+{KEYWORD}Características de la planta: {STAT}planta blanca
 
 {FLAVOR}Como miembro de la competencia de saltos del reino vegetal, Algodón de nieve siempre está practicando. Saltar hacia adelante ha sido uno de sus hábitos en la vida diaria, sin embargo, saltar demasiado lejos no siempre es algo bueno.
 
@@ -11610,8 +11532,7 @@ Gana un 10% de probabilidad de ^0072ff^congelar^oldclr^ zombis con sus muñecos 
 
 [COTTONYETI_NEW_SKILL_LEVEL4_DES]
 Gana un 70% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: convoca un muñeco de nieve gigante que ^0072ff^congela ^DB8117^a los zombis impactados por 3 s.^oldclr^
-^D22808^Daño: 1.200 (área 3x3)^oldclr^
+^DB8117^Nutrientes: convoca un muñeco de nieve gigante que ^0072ff^congela ^DB8117^zombis por 3 s. ^D22808^Daño: 1.200 (área 3x3)^oldclr^
 
 [COTTONYETI_PEDIA]
 El algodón (Gossypium hirsutum y otras especies) es una planta de clima cálido cultivada por sus cápsulas que liberan fibras blancas y suaves. Estas fibras vegetales son hiladas para producir tela, siendo el algodón la principal fibra textil natural del mundo.
@@ -12330,7 +12251,7 @@ El tiempo de digestión se reduce en 10 s
 [CTHULHUACTINIA_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 ^E2725B^Ojo láser: hace 100 DPS/s (máx. 1.000)^oldclr^
-^DB8117^Nutrientes: arrastra 4 zombis y golpea al resto. ^D22808^Daño: 100 (área 3x3)^oldclr^
+^DB8117^Nutrientes: arrastra 4 zombis y golpea al resto. ^D22808^Daño: 100 (área 3x3 al frente)^oldclr^
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL5_DES]
 El láser del ojo convierte a un zombi pequeño o mediano en un monje que lucha por ti.
@@ -12364,7 +12285,7 @@ Nivel 5
 Absorbe zombis para cargar un potente ataque láser
 
 [CUKEPACKAGE_1]
-Paquete de Pepinos Tácticos
+Paquete de Pepinos tácticos
 
 [CUKEPACKAGE_2]
 COMPRAR
@@ -13277,10 +13198,10 @@ Lanza semillas explosivas a los zombis de la línea
 El evento comenzará pronto, ¿estás listo?
 
 [DANGERROOM_ACTIVITY_DESC_END]
-Termina en: 
+Termina en:  
 
 [DANGERROOM_ACTIVITY_DESC_START]
-Inicia en: 
+Inicia el:  
 
 [DANGERROOM_ADD_PLANTS]
 Conseguiste brotes para:
@@ -14041,7 +13962,7 @@ Su tiempo de recuperación se reduce en un 50%
 
 [DARTICHOKE_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: dispara 10 dardos zombis aleatorios del patio.^oldclr^
+^DB8117^Nutrientes: dispara 10 dardos a zombis aleatorios del patio.^oldclr^
 
 [DARTICHOKE_NEW_SKILL_LEVEL5_DES]
 Cada 20 s, dispara dardos que priorizan aún más a los objetivos peligrosos. ^D22808^Daño: 240 (casilla)^oldclr^
@@ -14356,13 +14277,13 @@ Completa 8 Aventuras de plantas.
 Completa 30 Aventuras de plantas.
 
 [DAVE_TREASURE_PVP_1]
-Gana 1 partida en Guerras de jardín.
+Gana 1 partida en Dueloz
 
 [DAVE_TREASURE_PVP_2]
-Gana 2 partidas en Guerras de jardín.
+Gana 2 partidas en Dueloz
 
 [DAVE_TREASURE_PVP_10]
-Gana 10 partidas en Guerras de jardín.
+Gana 10 partidas en Dueloz
 
 [DAVE_TREASURE_PVZ1_1]
 Juega 1 partida en la Dimensión del Recuerdo.
@@ -14456,7 +14377,8 @@ Gana un 80% de probabilidad de ser potenciadas por el efecto de Nutrientes al pl
 ^848484^Límite: zombis de Nvl. 7 (aturdimiento)^oldclr^
 
 [DAZEYCHAIN_NEW_SKILL_LEVEL5_DES]
-Requiere 8 ataques para crecer. En su forma más poderosa, la nube de gas se quedará estática cuando entre en contacto con un zombi. ^848484^Límite: zombis de Nvl. 10 (aturdimiento)^oldclr^
+Requiere 8 ataques para crecer. En su forma más poderosa, la nube de gas se quedará estática cuando entre en contacto con un zombi. 
+^848484^Límite: zombis de Nvl. 10 (aturdimiento)^oldclr^
 
 [DAZEYCHAIN_PEDIA]
 Las Florecitas aturdidoras están basadas en la margarita común (Bellis perennis), una herbácea de bajo crecimiento, reconocida por sus flores con centro amarillo y pétalos blancos. Es resistente y se adapta bien a praderas, jardines y bordes de caminos. Florece durante gran parte del año en climas templados.
@@ -15307,7 +15229,7 @@ Es capaz de recuperar toda su salud al usar Nutrientes en el modo Defensa conjun
 {KEYWORD}Especial: {STAT}detiene los fuertes vientos del Tifón caótico
 {KEYWORD}Defensa conjunta: {STAT}planta varias en columnas adyacentes, para aumentar la salud y regenerar hojas
 {KEYWORD}Debilidad: {STAT}pierde sus hojas a causa del fuerte viento
-{KEYWORD}Características de la planta: {STAT}planta verde, hábil, defensa
+{KEYWORD}Características de la planta: {STAT}planta verde
 
 {FLAVOR}Siempre se ha adherido fuertemente a la Resitencia contra Desastres naturales, protegiendo a los que ama de los tifones y los zombis.
 
@@ -15322,10 +15244,10 @@ Dendrobium
 
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL1_DES]
 Resiste a los vientos de tifones y bloquea zombis.
-^E2725B^Defensa conjunta: regenera 1 hoja (máx. 4) + 25% salud extra^oldclr^
+^E2725B^Defensa conjunta: regenera 1 hoja (máx. 4) + 25% salud extra.^oldclr^
 
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL2_DES]
-Gana la habilidad de regenerar sus hojas después de 60 s.
+Gana la habilidad de regenerar sus hojas después de 60 s
 
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL3_DES]
 El tiempo de regeneración de sus hojas se reduce en 10 s (ahora 50).
@@ -15362,7 +15284,7 @@ Nivel 2
 Nivel 3
 
 [DENDROBIUMGUARD_SKILL_LEVEL2_DES]
-^A048CF^Recuperación extrema:^oldclr^ el tiempo de regeneración de sus hojas se reduce en 10 segundos.
+^A048CF^Recuperación extrema:^oldclr^ el tiempo de regeneración de sus hojas se reduce en 10 s
 
 [DENDROBIUMGUARD_SKILL_LEVEL5]
 Nivel 5
@@ -15374,24 +15296,24 @@ Nivel 5
 Resiste a los fuertes vientos de tifones, bloquea a los zombis atacantes
 
 [DEODARCEDAR]
-Piña de capacitancia
+Capaci-cono
 
 [DEODARCEDAR_AVATAR_NAME]
 Alas y alo
 
 [DEODARCEDAR_AVATAR_PLANTFOOD_DESCRIPTION]
-La electricidad de los rayos se propaga en un área de 3x3 para infligir daño a otros zombis. ^D22808^Daño: 80^oldclr^
+La electricidad de los rayos se propaga para infligir daño a otros zombis. ^D22808^Daño: 80 (área 3x3)^oldclr^
 
 [DEODARCEDAR_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}ataque (línea), electricidad (casilla, área 5x5)
-{KEYWORD}Especial: {STAT}almacena más energía si tiene plantas eléctricas cerca, hace más daño en un área más amplia conforme más energía acumule
+{KEYWORD}Especial: {STAT}almacena más energía si tiene plantas eléctricas cerca
 {KEYWORD}Choque eléctrico: {STAT}tiene la posibilidad de aumentar el daño con sus ataques
-{KEYWORD}Características de la planta: {STAT}planta azul, mil voltios, destructora
+{KEYWORD}Características de la planta: {STAT}planta azul, mil voltios
 
 {FLAVOR}Tiene su propia forma de manejar la electricidad: almacenarla dentro de su cuerpo. Esto se debe a su propia capacidad para retener la energía, un descubrimiento que comenzó cuando abrazó a Mangostán eléctrico, su mejor amigo.
 
 [DEODARCEDAR_DESCRIPTION_HEADER]
-Absorbe la energía eléctrica para almacenarla. Una vez condensada la energía, la dispara en forma de anillo.
+Capaci-cono absorbe energía eléctrica y la dispara en forma de cadenas de rayos después de condensarla. Hace más daño en un área más amplia conforme más energía acumule.
 
 [DEODARCEDAR_FAMILY]
 Pinaceae
@@ -15400,25 +15322,25 @@ Pinaceae
 Cedrus
 
 [DEODARCEDAR_NEW_SKILL_LEVEL1_DES]
-Absorbe energía por 4 s y la dispara después de condensarla (máx. 3 objetivos).
-^D22808^Choque eléctrico: daño x2.5 (50% probable)^oldclr^
+Absorbe energía por 4 s y la dispara después de condensarla ^FF0000^(máx. 3 objetivos)^oldclr^
+^DB8117^Choque eléctrico: daño x2.5 (50% probable)^oldclr^
 
 [DEODARCEDAR_NEW_SKILL_LEVEL2_DES]
 Mejora el poder de ataque de las plantas eléctricas alrededor en un 15% por 10 s
 
 [DEODARCEDAR_NEW_SKILL_LEVEL3_DES]
-Mejora el poder y la velocidad de ataque de las plantas eléctricas alrededor en un 30% por 10 s
+Mejora el poder y velocidad de ataque de las plantas eléctricas alrededor en un 30% por 10 s
 
 [DEODARCEDAR_NEW_SKILL_LEVEL4_DES]
 Gana un 70,001% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: dispara 3 rayos por 12 s (máx. 15) y ^ff9600^aturde^oldclr^ ^DB8117^zombis por 1 s.^oldclr^
-^D22808^Daño: 20 (máx. 60)^oldclr^
+^DB8117^Nutrientes: dispara 3 rayos por 12 s (máx. 15) que ^ff9600^aturden ^DB8117^zombis por 1 s^oldclr^
+^D22808^Daño: 20 (máx. 80), x3 si hay plantas eléctricas cerca. ^E2725B^Extra: +50 DPS por mej. de Nvl^oldclr^
 
 [DEODARCEDAR_NEW_SKILL_LEVEL5_DES]
-Los cadenas eléctricas tienen un 50% de probabilidad más daño en una misma casilla.
+Las cadenas eléctricas tienen un 50% de hacer más daño en una misma casilla.
 
 [DEODARCEDAR_PEDIA]
-Piña de capacitancia está basada en el fruto del cedro (Cedrus spp.), un árbol de gran tamaño, originario de regiones montañosas del Mediterráneo y del Himalaya. Se caracteriza por su tronco recto, hojas en forma de aguja y madera aromática y resistente. Es muy valorado en jardinería, construcción y carpintería fina.
+Capaci-cono está basada en el fruto del cedro (Cedrus spp.), un árbol de gran tamaño, originario de regiones montañosas del Mediterráneo y del Himalaya. Se caracteriza por su tronco recto, hojas en forma de aguja y madera aromática y resistente. Es muy valorado en jardinería, construcción y carpintería fina.
 
 [DEODARCEDAR_PEDIA_EXTRA]
 Desde la antigüedad, el cedro ha sido considerado un árbol sagrado en diversas culturas, como la mesopotámica y la egipcia, que lo utilizaban para templos, barcos y sarcófagos. El cedro del Líbano, es símbolo nacional de ese país y aparece en su bandera. Su durabilidad y aroma lo convirtieron en un recurso altamente apreciado a lo largo de la historia.
@@ -16646,7 +16568,7 @@ Sombrero de piloto
 Los misiles del efecto aturden a los zombis impactados durante 2 s
 
 [EGRETFLOWER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}a veces, puede disparar misiles aturdidores a larga distancia
+{KEYWORD}Especial: {STAT}libera un misil aturdidor cuando es derrotado
 {KEYWORD}Características de la planta: {STAT}planta blanca, voladora
 
 {FLAVOR}Flor de garceta es una persona firme y severa. Nunca lo verás sonreír, ni aunque sea un poco.
@@ -16656,10 +16578,10 @@ Flor de garceta ataca a los zombis cercanos con misiles. A veces, lanza misiles 
 
 [EGRETFLOWER_NEW_SKILL_LEVEL1_DES]
 Ataca a los zombis cercanos con 6 misiles, luego descansa.
-^E2725B^Misil aturdidor: se activa cada 8 s, hace 90 DPS y ^848484^aturde^oldclr^ ^E2725B^por 2 s^oldclr^
+^E2725B^Misil aturdidor: se activa cada 8 s, hace 90 DPS y ^848484^aturde ^E2725B^por 2 s^oldclr^
 
 [EGRETFLOWER_NEW_SKILL_LEVEL2_DES]
-Cada Flor de garceta en el patio aumentará el daño de las presentes en un 10% (hasta un 30% como máximo)
+Cada Flor de garceta en el patio aumentará el daño de las presentes en un 10% ^FF0000^(hasta un 30% como máximo)^oldclr^
 
 [EGRETFLOWER_NEW_SKILL_LEVEL3_DES]
 El tiempo para disparar misiles aturdidores se reduce en 2 s (ahora 6).
@@ -19169,7 +19091,7 @@ Crea pilares de llamas junto a sus llamas ordinarias, para aumentar el daño inf
 Quemaguisantes dispara guisantes en llamas en la línea.
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Lanza guisantes en llamas y ^FFA500^calienta a las plantas cercanas^oldclr^
+Lanza guisantes en llamas y ^FF8000^calienta a las plantas cercanas^oldclr^
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de probabilidad de disparar 2 guisantes en llamas a la vez.
@@ -19422,10 +19344,10 @@ Reina flor de fuego lanza bolas de fuego a los zombis de la línea. Los ataca co
 
 [FLAMELADY_NEW_SKILL_LEVEL1_DES]
 Lanza bolas de fuego que hacen daño de área.
-^FFA500^Llamaradas: se activan con zombis 3 casillas al frente, hacen 90 DPS^oldclr^
+^FF8000^Llamaradas: se activan con zombis 3 casillas al frente, hacen 90 DPS^oldclr^
 
 [FLAMELADY_NEW_SKILL_LEVEL2_DES]
-Aumenta el alcance de las llamaradas a 5 casillas (sin afectar el rango de activación).
+Aumenta el alcance de las llamaradas a 5 casillas ^FF0000^(sin afectar el rango de activación)^oldclr^
 
 [FLAMELADY_NEW_SKILL_LEVEL3_DES]
 Gana la habilidad de atacar con fuego azul que inflige un 20% más de daño adicional
@@ -19902,7 +19824,7 @@ Contiene ^D22808^1 planta^oldclr^ y de ^D22808^10-90 Piezas^oldclr^ de plantas ^
 
 [GACHA_ITEM_LEGEND_DES]
 Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas extra.
-^A0522D^Rarezas de plantas:^oldclr^ ^7300c7^épica^oldclr y ^ef7600^legendaria^oldclr^
+^A0522D^Rareza:^oldclr^ ^7300c7^épica^oldclr o ^ef7600^legendaria^oldclr^
 
 [GACHA_ITEM_LEGEND_HEADER]
 Cofre legendario
@@ -19912,7 +19834,7 @@ Cofre legendario x10
 
 [GACHA_ITEM_NORMAL_DES]
 Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas extra.
-^A0522D^Rarezas de plantas:^oldclr^ ^a3a3a3^común^oldclr^, ^4ca830^especial^oldclr^, ^3365ce^rara^oldclr^ y ^7300c7^épica^oldclr^
+^A0522D^Rareza:^oldclr^ ^a3a3a3^común^oldclr^, ^4ca830^especial^oldclr^, ^3365ce^rara^oldclr^ o ^7300c7^épica^oldclr^
 
 [GACHA_ITEM_NORMAL_HEADER]
 Cofre común
@@ -19925,7 +19847,7 @@ Vista previa
 
 [GACHA_ITEM_RARE_DES]
 Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas extra.
-^A0522D^Rarezas de plantas:^oldclr^ ^3365ce^rara^oldclr^, ^7300c7^épica^oldclr^ y ^ef7600^legendarias^oldclr^
+^A0522D^Rareza:^oldclr^ ^3365ce^rara^oldclr^, ^7300c7^épica^oldclr^ o ^ef7600^legendaria^oldclr^
 
 [GACHA_ITEM_RARE_HEADER]
 Cofre raro
@@ -23404,12 +23326,9 @@ Curación
 
 
 [HEALTH_NOTICE_CONTENT_3]
-^E2725B^Traducción al español por ^98FB98^FranZ^oldclr^ ^E2725B^y ^A048CF^ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 1.1.1^oldclr^
-^87CEFA^Última actualización: 28/2/2026^oldclr^
-
-[HEALTH_NOTICE_CONTENT_3_1]
-HEALTH_NOTICE_CONTENT_3
+^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^A048CF^ShadowVT^oldclr^
+^FF9E6B^Versión del parche: 1.1.2^oldclr^
+^87CEFA^Última actualización: 4/3/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_4]
 Derechos de autor: Electronic Arts Inc.
@@ -24487,9 +24406,6 @@ Convierte al zombi que la coma en un Zombistein.
 [HYPNOSHROOM_DESCRIPTION_HEADER]
 Cuando los zombis se comen una Hipnoseta, se dan la vuelta y luchan por ti.
 
-[HYPNOSHROOM_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Convierte a un zombi hipnotizado en un Zombistein.
-
 [HYPNOSHROOM_NEW_SKILL_LEVEL1_DES]
 ^ff4284^Hipnotiza^oldclr^ a los zombis que lo comen, haciendo que luchen por ti
 
@@ -24765,7 +24681,8 @@ Crece un 75% más rápido; gana un 15% de probabilidad de ^0072ff^congelar^oldcl
 
 [ICESHROOM_NEW_SKILL_LEVEL4_DES]
 Gana un 90% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: crece a tamaño completo y crea 2 sumideros que arrastran zombis medianos de un área 3x3. ^D22808^Duración: 7 s^oldclr^
+^DB8117^Nutrientes: crece a tamaño completo y crea 2 sumideros que arrastran zombis medianos de un área 3x3^oldclr^
+^D22808^Duración: 7 s^oldclr^
 
 [ICESHROOM_NEW_SKILL_LEVEL5_DES]
 Sus proyectiles más grandes se dividen más y dejan un tornado de hielo al impactar.
@@ -25011,7 +24928,7 @@ Impaciencia
 Gafas rosadas
 
 [IMPATIENSSHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-La cantidad de proyectiles aumenta; estos pueden dispersarse a otras líneas.
+La cantidad de proyectiles aumenta a 120; estos pueden dispersarse a otras líneas.
 
 [IMPATIENSSHOOTER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}el daño y los efectos de control aumentan en cada fase
@@ -25040,7 +24957,7 @@ Se tiñe 6 s más rápido (el tiempo ahora es de 14 s).
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL4_DES]
 Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: dispara una ráfaga de balas de tinta por su línea.^oldclr^
+^DB8117^Nutrientes: dispara una ráfaga de 75 balas de tinta por su línea.^oldclr^
 
 [IMPATIENSSHOOTER_NEW_SKILL_LEVEL5_DES]
 Se tiñe de morado como 4ta fase, con un 25% de probabilidad de disparar balas gigantes que infligen daño de área e inmovilizan por 2 s
@@ -26228,8 +26145,8 @@ Kiwibestia da golpetazos dañinos, y se vuelve más grande y poderosa cuanto má
 
 [KIWIBEAST_NEW_SKILL_LEVEL1_DES]
 Fase 1: da golpetazos dañinos que hacen 40 DPS en una casilla.
-Fase 2: se activa con 2.200 PS o menos, hace 50 DPS (área 2x2)
-Fase 3: se activa con 1.550 PS o menos, hace 70 DPS (área 3x3)
+^A0522D^Fase 2: se activa con 2.200 PS o menos, hace 50 DPS (área 2x2)^oldclr^
+^8B4513^Fase 3: se activa con 1.550 PS o menos, hace 70 DPS (área 3x3)^oldclr^
 
 [KIWIBEAST_NEW_SKILL_LEVEL2_DES]
 El coste en soles de Kiwibestia se reducirá en 10 por cada una plantada. ^D22808^Coste mínimo: 170^oldclr^
@@ -26239,7 +26156,7 @@ El coste en soles de Kiwibestia se reducirá en 20 por cada una plantada. ^D2280
 
 [KIWIBEAST_NEW_SKILL_LEVEL4_DES]
 Gana un 25% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: alcanza la fase máx y da 3 golpetazos. ^D22808^Daño: 350 (área 5x5)^oldclr^
+^DB8117^Nutrientes: alcanza la fase máxima y da 3 golpetazos. ^D22808^Daño por golpe: 350 (área 5x5)^oldclr^
 
 [KIWIBEAST_NEW_SKILL_LEVEL5_DES]
 Gana un 15% de probabilidad de derribar zombis pequeños y medianos 1 casilla en su fase máxima.
@@ -28191,9 +28108,6 @@ El rayo se amplifica y hace más daño. ^D22808^Daño: 300^oldclr^
 [MAGNIFYINGGRASS_DESCRIPTION_HEADER]
 Hierba lupa convierte el sol en un rayo de daño de colores.
 
-[MAGNIFYINGGRASS_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Dispara un rayo de energía que inflige daño a los zombis de su fila. La duración aumenta según el n.º de plantas productoras de soles del patio.
-
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL1_DES]
 Convierte el sol en un colorido rayo que daña zombis. ^D22808^Coste del ataque: 50^oldclr^
 
@@ -28657,7 +28571,7 @@ Cubo de Energía II
 Cubo de Energía III
 
 [MAT_ARTIFACT_CUBE_GOT_WAY]
-Tienda de Intercambios de Penny, comprando Paquetes de Artefactos.
+Tienda del espacio-tiempo, comprando Paquetes de Artefactos.
 
 [MAT_ARTIFACT_CUBE_USE]
 Se usa para Mejorar la Eficacia de los Artefactos.
@@ -28672,7 +28586,7 @@ Tanque de Energía II
 Tanque de Energía III
 
 [MAT_ARTIFACT_VIAL_GOT_WAY]
-Tienda de Intercambios de Penny, comprando Paquetes de Artefactos.
+Tienda del espacio-tiempo, comprando Paquetes de Artefactos.
 
 [MAT_ARTIFACT_VIAL_USE]
 Se usa para Subir los Artefactos de Nivel.
@@ -29491,7 +29405,7 @@ La Búsqueda de Penny.
 Monedas del espacio-tiempo insuficientes.
 
 [MAT_RIFT_COIN_USE]
-Se usa para canjear artículos en La Tienda de Intercambios de Penny.
+Se usa para canjear artículos en La Tienda del espacio-tiempo.
 
 [MAT_SECRET_GACHA_TICKET]
 Boleto de Penny
@@ -29512,7 +29426,7 @@ Cristal del espacio-tiempo II
 Cristal del espacio-tiempo III
 
 [MAT_SPACE_TIME_CRYSTAL_GOT_WAY]
-La Guía de Penny, Búsqueda de Penny, Tienda de Intercambios de Penny.
+La Guía de Penny, Búsqueda de Penny, Tienda del espacio-tiempo.
 
 [MAT_SPACE_TIME_CRYSTAL_USE]
 Se usa para Mejorar tus Colgantes de Nivel al Nivel 3 en adelante.
@@ -29530,7 +29444,7 @@ Polvo del espacio-tiempo
 Polvo del espacio-tiempo
 
 [MAT_SPACE_TIME_DUST_GOT_WAY]
-La Búsqueda de Penny, La Guía de Penny, La Tienda de Intercambios de Penny.
+La Búsqueda de Penny, La Guía de Penny, La Tienda del espacio-tiempo.
 
 [MAT_SPACE_TIME_DUST_USE]
 Se usa para Mejorar tus Colgantes hasta el Nivel 2.
@@ -31103,7 +31017,8 @@ Convolvulaceae
 Ipomoea
 
 [MORNINGGLORY_NEW_SKILL_LEVEL1_DES]
-Ataca con ondas sónicas, refleja ondas de ^E2725B^altavoces, Zombi metalero o Zombistein melena de metal.^oldclr^
+Ataca con ondas sonoras, refleja proyectiles sónicos.
+^E2725B^Efectiva contra: altavoces, Zombis metaleros, Zombisteins melena de metal.^oldclr^
 
 [MORNINGGLORY_NEW_SKILL_LEVEL2_DES]
 Su poder de ataque aumentará en un 15% por cada una plantada cerca ^FF0000^(máx. 2)^oldclr^
@@ -31128,7 +31043,7 @@ Originaria de México y América Central, se ha extendido mundialmente como plan
 Lanza una barrera sónica que derriba zombis y los retiene durante 6 s. ^D22808^Daño: 150^oldclr^
 
 [MORNINGGLORY_PRODUCT_SHORT_DESC]
-Ataca a los zombis con ondas sónicas, refleja ondas enemigas
+Ataca con ondas sonoras, refleja proyectiles sónicos
 
 [MORNINGGLORY_SKILL_LEVEL1]
 Nivel 2
@@ -31149,7 +31064,7 @@ Nivel 5
 ^DB8117^Ondas rítmicas:^oldclr^ gana la probabilidad de lanzar ondas potentes que infligen daño masivo a los zombis de tres filas, pero en un alcance menor.
 
 [MORNINGGLORY_TOOLTIP]
-Ataca a los zombis con ondas sónicas, refleja ondas enemigas
+Ataca con ondas sonoras, refleja proyectiles sónicos
 
 [MORPHEDTOGARGANTUAR]
 Hipnomorfosis Zombistein
@@ -40714,100 +40629,6 @@ Zombi básico
 [NORMAL_ZOMBIE_DES]
 Invoca 3 zombis básicos.
 
-[NOTICE_CONTENT_FIRST]
-• Notas de la actualización 1.7.5
-
-^E2725B^Nuevo mundo: Ciudad perdida^oldclr^
-
-¡Dave se fue de viaje a la Ciudad perdida para buscar su taco!
-En estas tierras ocultas, ¡todos los cazatesoros se han convertido en zombis!
-Pero espera... ¡el nuevo equipo de plantas está aquí para defendernos!
-¡Juega a la Ciudad perdida para saber más sobre esta nueva aventura!
-
-<image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_0 align=center width=1016 height=320>
-
-^E2725B^Nuevo modo: Guerras de jardín^oldclr^
-
-¡El nuevo modo de juego JcJ está disponible!
-Ahora podrás jugar contra otros jugadores y demostrar quien es el mejor.
-Cada victoria te dará recompensas únicas, ¡hasta 50 Joyas por día!
-
-<image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_4 align=center width=1016 height=320
-
-^E2725B^Festival de primavera^oldclr^
-
-1 - 11 de febrero: recarga 元 y obtén premios en el sorteo de los Huevos de oro.
-1 - 15 de febrero: truena los petardos y obtén plantas exclusivas. Juega a los eventos para ganar Sobres Rojos.
-1 - 22 de febrero: recarga 元 y obtén un Paquete de regalo.
-7 - 22 de febrero: responde a un Acertijo para conseguir Sobres Rojos.
-12 - 22 de febrero: habrán descuentos alucinantes al recargar 元
-
-<image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
-
-^E2725B^Premios diarios^oldclr^
-
-¡Inicia sesión para conseguir a Kiwimono y otras plantas al Nvl. 2 + Joyas!
-
-[NOTICE_CONTENT_FIRST_DEVIL_COMING]
-• Notas de la actualización 1.1.1
-
-^E2725B^Mundo del Kung Fu - Parte 2^oldclr^
-
-¡La segunda mitad del tan esperado Mundo del Kung Fu está abierta! ¡Prepara tus equipos de plantas más poderosos!
-El incomparable Héroe Espadachín y su hermano estarán esperándote en las últimas etapas del Mundo!
-
-^E2725B^Retos diarios 2.0^oldclr^
-
-El Dr. Zombi llega a los Retos diarios. ¡La dificultad será más intensa que nunca!
-Derrótalo y gana Piezas de plantas y Atuendos.
-
-[NOTICE_CONTENT_FIRST_LABORDAY]
-• Notas de la actualización 1.1.5
-
-^E2725B^Atuendos por tiempo limitado^oldclr^
-
-Compra los nuevos Atuendos por tiempo limite, estarán disponibles del 1 al 7 de mayo.
-Cada día estará disponible un nuevo paquete, ¡no te lo pierdas!
-
-[NOTICE_CONTENT_FIRST_QQ]
-• Notas de la actualización 1.1.0
-
-^E2725B^Nuevo mundo: Dinastía del Kung Fu^oldclr^
-
-Dave el loco ha cruzado a China, ¡y hasta el Héroe Espadachín quiere su cerebro!
-Te esperan nuevas plantas y zombis al estilo oriental, ¡pelea de Kung Fu!
-
-^E2725B^Nuevo modo: Retos diarios^oldclr^
-
-¡Los antiguos Zombisteins han sido convocados!
-¡Tormentas de nieve han traído un gran número de Yetis!
-Completa los Retos diarios y obtén Piezas como recompensa.
-
-^E2725B^Atuendos de plantas^oldclr^
-
-¡El nuevo sistema de atuendos hace su aparición!
-Además de añadirles una apariencia única, ¡los Atuendos desbloquean nuevas habilidades a las plantas!
-Vence al Yeti todos los días para obtener estos premios muy valiosos.
-
-[NOTICE_CONTENT_IOS]
-• Notas de la actualización 1.0.3
-
-^E2725B^Correción de errores^oldclr^
-
-Penny y el equipo de desarrollo han unido sus fuerzas para solucionar algunos problemas importantes del juego.
-Se ha puesto en vigencia nuevamente, la función de Transferencias de progresos.
-Además, la calidad del audio ha aumentado gradualmente.
-
-^E2725B^Mejores premios por Recarga de 元^oldclr^
-
-Por la recarga de 1元, consigues 105 Joyas. Barato, ¿verdad?
-Inicia sesión los 7 días de la semana para reclamarlas.
-
-<image=IMAGE_UI_DIALOG_ASSET_NOTICE_BANNER_1 align=center width=1016 height=320>
-
-[NOTICE_CONTENT_LENOVO]
-Avisos Lenovo
-
 [NOTICE_JOIN]
 Participar en un evento
 
@@ -40890,7 +40711,7 @@ Completa Antiguo Egipto - Día 10.
 Completa Antiguo Egipto - Día 15.
 
 [NOVICESEVENDAYS_TASK_NAME_7]
-Juega una partida en Guerras de jardín.
+Juega una partida en Dueloz.
 
 [NOVICESEVENDAYS_TASK_NAME_7_CHANGE]
 Juega 1 partida en la Dimensión del Recuerdo.
@@ -40923,7 +40744,7 @@ Alcanza el Nivel 1 en la Zona de Infinito.
 Juega una partida en La Búsqueda de Penny.
 
 [NOVICESEVENDAYS_TASK_NAME_17]
-Juega 2 partidas en Guerras de jardín.
+Juega 2 partidas en Dueloz.
 
 [NOVICESEVENDAYS_TASK_NAME_17_CHANGE]
 Juega 2 partidas en la Dimensión del Recuerdo.
@@ -40986,7 +40807,7 @@ Completa Antiguo Egipto - Día 8 en el Modo Difícil.
 Juega 3 partidas en los Retos diarios.
 
 [NOVICESEVENDAYS_TASK_NAME_35]
-Juega 3 partidas en Guerras de jardín.
+Juega 3 partidas en Dueloz.
 
 [NOVICESEVENDAYS_TASK_NAME_35_CHANGE]
 Derrota a 1 Zombi de élite en la Dimensión del Recuerdo.
@@ -42171,7 +41992,7 @@ Lanzaguisantes sombrío U42
 El clásico Lanzaguisantes sombrío de toda la vida, dispara guisantes oscuros a los zombis
 
 [PARALLEL_SHADOWPEASHOOTER_TOOLTIP]
-Lanza guisantes oscuros; dispara rayos ralentizadores cuando está potenciado
+Lanza guisantes oscuros, dispara rayos ralentizadores cuando está potenciado
 
 [PARALLEL_SHADOWSHROOM]
 Sombraseta U42
@@ -42277,9 +42098,6 @@ Invoca un minipodarrábano rojo que ^848484^aturde^oldclr^ zombis por 1 s. ^D228
 
 [PARSNIP_DESCRIPTION_HEADER]
 Podarrábano poda zombis y después carga en la línea en el último momento.
-
-[PARSNIP_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Empuja a todos los zombis que tiene delante y después invoca a dos minipodarrábanos que cargarán por la columna.
 
 [PARSNIP_FAMILY]
 Apiaceae
@@ -42668,9 +42486,6 @@ Gana una armadura que tiene 6.000 puntos de vida.
 
 [PEANUT_DESCRIPTION_HEADER]
 Los Cacahuates pueden disparar proyectiles y bloquear zombis.
-
-[PEANUT_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Se cura completamente, gana un casco de armadura y dispara una ráfaga de guisantes.
 
 [PEANUT_FAMILY]
 Fabaceae
@@ -44108,8 +43923,7 @@ Ataca con fuego azul, el cual, inflige un 25% de daño adicional.
 
 [PEPPERPULT_NEW_SKILL_LEVEL4_DES]
 Gana un 70% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: lanza 3 chiles enormes a objetivos aleatorios del patio.
-^D22808^Daño: 300 (área 3x3), luego 50 (1x3)^oldclr^
+^DB8117^Nutrientes: lanza 3 chiles enormes a objetivos aleatorios del patio. ^D22808^Daño: 300 (área 3x3), luego 50 (1x3)^oldclr^
 
 [PEPPERPULT_PEDIA]
 Lanzachiles está basado en el chile morrón (Capsicum annuum var. grossum), un pimiento dulce de fruto grande, carnoso y de colores brillantes como rojo, verde, amarillo o naranja. Es muy utilizado en la cocina por su sabor suave y textura crujiente. Crece bien en climas templados y cálidos.
@@ -44118,8 +43932,7 @@ Lanzachiles está basado en el chile morrón (Capsicum annuum var. grossum), un 
 Originario de América, el morrón fue domesticado hace miles de años y llegó a Europa tras la conquista. Desde entonces, se ha integrado en numerosas gastronomías mundiales. Su cultivo ha generado diversas variedades adaptadas a distintas regiones.
 
 [PEPPERPULT_PLANTFOOD_DESCRIPTION]
-Lanza 3 chiles de fuego enormes a objetivos aleatorios del patio.
-^D22808^Daño: 300 (área 3x3), luego 50 (1x3)^oldclr^
+Lanza 3 chiles de fuego enormes a objetivos aleatorios del patio. ^D22808^Daño: 300 (área 3x3), luego 50 (1x3)^oldclr^
 
 [PEPPERPULT_PRODUCT_SHORT_DESC]
 Lanza chiles en llamas y calienta a las plantas cercanas
@@ -45704,7 +45517,7 @@ Tus plantas están cansadas, ¿deseas gastar ^ff0000^{GEMS} Joyas^oldclr^ para r
 Obtienes:
 
 [PLANT_ADVENTURE_DUNGEON_CHANCES_LEFT]
-^D22808^Aventuras res.: {CHANCES}^oldclr^
+^FF0000^Aventuras: {CHANCES}^oldclr^
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED]
 Disponible al completar: ^DB8117^{DUNGEON}^oldclr^
@@ -45728,7 +45541,7 @@ Equipos: {ILDE}/{MAX}
 Duración:
 
 [PLANT_ADVENTURE_DUNGEON_TIME_LEFT]
-^FFA500^Tiempo res.:
+^00FA9A^Tiempo res.: 
 
 [PLANT_ADVENTURE_DUNGEON_TITLE]
 Explorar: {DUNGEON}
@@ -45988,7 +45801,7 @@ Familias:
 VER TALENTO
 
 [PLANT_FAMILY_CUR_PROPERTY]
-^FFA500^Hueco 1^oldclr^
+^FF8000^Tabla 1^oldclr^
 
 [PLANT_FAMILY_DISPLAY_AVATAR]
 Atuendo
@@ -46234,7 +46047,7 @@ x
 ^FF0000^Propiedades fijas, mayor costo:^oldclr^
 
 [PLANT_FAMILY_REFRESH_PROPERTY]
-^FFA500^Hueco 2^oldclr^
+^FF8000^Tabla 2^oldclr^
 
 [PLANT_FAMILY_SAVE]
 GUARDAR
@@ -47153,9 +46966,6 @@ Los pinchos del efecto dejan una niebla venenosa tras de sí.
 
 [POKRA_DESCRIPTION_HEADER]
 Pokra asesta puñetazos perforantes que ralentizan zombis y que culminan en un potente lanzamiento de pincho. Después, descansa un poco hasta volver a empezar.
-
-[POKRA_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Lanza varios pinchos potentes que perforan y ralentizan a los zombis.
 
 [POKRA_FAMILY]
 Malvaceae
@@ -51307,13 +51117,13 @@ Cucurbita
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL1_DES]
 Lanza calabazas que controlan zombis o hacen 40 DPS.
-^FFA500^Zombidito calabaza: tiene 500 PS y hace 50 de daño.^oldclr^
-^FF9E6B^Zombi calabaza: tiene 1.000 PS y 100 de daño.^oldclr^
+^FF9E6B^Zombidito calabaza: tiene 500 PS y hace 50 de daño.^oldclr^
+^FF8000^Zombi calabaza: tiene 1.000 PS y 100 de daño.^oldclr^
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL2_DES]
 La salud y el daño del zombi controlado aumenta en un 100%
-^FFA500^Zombidito calabaza: tiene 1.000 PS y hace 100 de daño.^oldclr^
-^FF9E6B^Zombi calabaza: tiene 2.000 PS y 200 de daño.^oldclr^
+^FF9E6B^Zombidito calabaza: tiene 1.000 PS y hace 100 de daño.^oldclr^
+^FF8000^Zombi calabaza: tiene 2.000 PS y 200 de daño.^oldclr^
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL3_DES]
 La salud y el daño del zombi controlado aumenta en un 150%
@@ -51323,12 +51133,12 @@ La salud y el daño del zombi controlado aumenta en un 150%
 [PUMPKINWITCH_NEW_SKILL_LEVEL4_DES]
 Gana un 80% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 ^DB8117^Nutrientes: lanza 5 calabazas a zombis aleatorios del patio.^oldclr^
-^FFA500^Zombis calabaza: son un 30% más fuertes, no se transforman de vuelta.^oldclr^
+^FF8000^Zombis calabaza: son un 30% más fuertes, no se transforman de vuelta.^oldclr^
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL5_DES]
-Gana un 30% de disparar una calabaza que convierte zombis en gólems que lanzan hechizos y suprimen la curación zombi.
-^FFA500^Minigólem de calabaza: tiene 1.500 PS, hace 100 DPS (mordida) y 120 DPS (hechizo)^oldclr^
-^FF9E6B^Gólem de calabaza: tiene 3.000 PS, hace 100 DPS (mordida) y 120 DPS (hechizo)^oldclr^
+Gana un 30% de convertir zombis en gólems que lanzan hechizos, haciendo 120 DPS y suprimiendo la curación zombi.
+^FF9E6B^Minigólem de calabaza: tiene 1.500 PS y hace 100 DPS^oldclr^
+^FF8000^Gólem de calabaza: tiene 3.000 PS y hace 100 DPS al morder^oldclr^
 
 [PUMPKINWITCH_PEDIA]
 Brujalabaza está basada en la calabaza (Cucurbita pepo), una planta trepadora originaria de Mesoamérica. Su fruto varía en forma y color según la variedad, y se usa generalmente como alimento. Además de su valor culinario, sus semillas tienen propiedades medicinales. La calabaza también se utiliza en festividades como Halloween (Día de brujas), especialmente en Europa, donde es esculpida.
@@ -51338,7 +51148,7 @@ La calabaza fue cultivada en Mesoamérica desde tiempos precolombinos. Tras el d
 
 [PUMPKINWITCH_PLANTFOOD_DESCRIPTION]
 Lanza 5 calabazas a zombis aleatorios del patio.
-^FFA500^Zombis calabaza: son un 30% más fuertes, no se transforman de vuelta.^oldclr^
+^FF8000^Zombis calabaza: son un 30% más fuertes, no se transforman de vuelta al ser derrotados.^oldclr^
 
 [PUMPKINWITCH_PRODUCT_SHORT_DESC]
 Lanza calabazas mágicas que controlan a un zombi para que luche por ti
@@ -54431,7 +54241,7 @@ Brassica
 
 [RAPEFLOWER_NEW_SKILL_LEVEL1_DES]
 Arroja semillas de aceite que prenden zombis en llamas.
-^FFA500^Semillas en llamas: ^ef0123^incendian^oldclr^ ^FFA500^zombis, haciéndoles 50 DPS por 5 s^oldclr^
+^FF8000^Semillas en llamas: ^ef0123^incendian ^FF8000^zombis, haciéndoles 50 DPS por 5 s^oldclr^
 ^E2725B^Columnas de fuego: hacen 150 de daño a zombis ya incendiados (casilla).^oldclr^
 
 [RAPEFLOWER_NEW_SKILL_LEVEL2_DES]
@@ -55043,17 +54853,17 @@ Zingiberaceae
 Etlingera
 
 [REDSTINGER_NEW_SKILL_LEVEL1_DES]
-^D22808^Forma ofensiva: tiene 300 PS y dispara 2 aguijones (primeras 3 columnas).^oldclr^
-^FF9E6B^Forma mixta: tiene 900 PS y dispara 1 aguijón (3 columnas del centro).^oldclr^
-^FFC300^Forma defensiva: tiene 1.500 PS y bloquea zombis (3 últimas columnas).^oldclr^
+^FF0000^Forma ofensiva: tiene 300 PS y dispara 2 aguijones (primeras 3 columnas).^oldclr^
+^FF8000^Forma mixta: tiene 900 PS y dispara 1 aguijón (3 columnas del centro).^oldclr^
+^FFFFCC^Forma defensiva: tiene 1.500 PS y bloquea zombis (3 últimas columnas).^oldclr^
 
 [REDSTINGER_NEW_SKILL_LEVEL2_DES]
-^D22808^Forma ofensiva: ataca un 15% más rápido.^oldclr^
-^FFC300^Forma defensiva: gana un 15% de explotar al ser destruida, haciendo 150 DPS (área 2x1)^oldclr^
+^FF0000^Forma ofensiva: ataca un 15% más rápido.^oldclr^
+^FFFFCC^Forma defensiva: gana un 15% de explotar al ser destruida, haciendo 150 DPS (área 2x1)^oldclr^
 
 [REDSTINGER_NEW_SKILL_LEVEL3_DES]
-^D22808^Forma ofensiva: ataca un 30% más rápido.^oldclr^
-^FFC300^Forma defensiva: gana un 30% de explotar al ser destruida, haciendo 200 DPS (área 2x1)^oldclr^
+^FF0000^Forma ofensiva: ataca un 30% más rápido.^oldclr^
+^FFFFCC^Forma defensiva: gana un 30% de explotar al ser destruida, haciendo 200 DPS (área 2x1)^oldclr^
 
 [REDSTINGER_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
@@ -56045,7 +55855,7 @@ Dispara balas que perforan y ralentizan zombis
 ^FF0000^Se desbloquea en Liga Legendaria^oldclr^
 
 [RIFTA_SHOP_TITLE]
-Tienda del tiempo
+Tienda del espacio-tiempo
 
 [RIFT_BOSS_DOUBLE_REWARD_CHOOSE_BTN_ONE]
 Reclamar
@@ -56363,7 +56173,7 @@ Tu puntación en este nivel: {NUMS} puntos
 Recompensas
 
 [RIFT_SEASON_END_NOTICE_CONTENT]
-1. La temporada ha terminado, y este ciclo no puede completarse otra vez, le pedimos a los jugadores que aprovechen el tiempo en la Tienda de Intercambios de Penny para canjear sus recompensas preferidas.
+1. La temporada ha terminado, y este ciclo no puede completarse otra vez, le pedimos a los jugadores que aprovechen el tiempo en la Tienda del espacio-tiempo para canjear sus recompensas preferidas.
 2. Al final de la temporada, el progreso, tanto en mejoras como en los niveles completados, se restablecerá.
 3. La nueva temporada comenzará el próximo período, ¡te esperamos allá!
 
@@ -61495,7 +61305,7 @@ Lanzasavia crea charcos de savia que ralentizan zombis.
 Crea charcos de savia que ralentizan zombis en un 50%. ^D22808^Savia: dura 7 s^oldclr^
 
 [SAPFLING_NEW_SKILL_LEVEL2_DES]
-Gana un 15% de probabilidad de que sus charcos de savia atrapen zombis en ámbar, dejándolos inmóviles por 2 segundos
+Gana un 15% de probabilidad de inmovilizar zombis con sus charcos por 2 s
 
 [SAPFLING_NEW_SKILL_LEVEL3_DES]
 Aumenta la probabilidad de los efectos del Nvl. 2 a un 30%
@@ -61535,12 +61345,12 @@ Lirio de Gorgona
 Joyería
 
 [SARRACENIA_AVATAR_PLANTFOOD_DESCRIPTION]
-La distancia de petrificación al usar Nutrientes aumenta a 13
+La distancia de petrificación al usar Nutrientes aumenta a 13 casillas
 
 [SARRACENIA_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los espíritus que pasen por plantas venenosas infligirán más daño
-{KEYWORD}Petrificación: {STAT}se cuando hay zombis cerca (o a distancia tocando en ella)
-{KEYWORD}Características de la planta: {STAT}planta verde, destructora
+{KEYWORD}Petrificación: {STAT}se activa cuando hay zombis cerca (o a distancia tocando en ella)
+{KEYWORD}Características de la planta: {STAT}planta verde
 
 {FLAVOR}"Solo quería darle un vistazo a esos tipos y todos se petrifican, eso no es divertido", dijo Lirio de Gorgona en el podio del concurso a "La planta más tenebrosa según los zombis".
 
@@ -61549,7 +61359,7 @@ Lirio de Gorgona puede petrificar a los zombis y liberar espíritus de serpiente
 
 [SARRACENIA_NEW_SKILL_LEVEL1_DES]
 ^A048CF^Espíritu pringoso: hacen 15 DPS por 5 s^oldclr^
-^979A9A^Petrificación: 80% de la salud zombi o lo aturde por 5 s (reactivación: 20 s)^oldclr^
+^979A9A^Petrificación: 80% de la salud zombi o lo aturde por 5 s ^FF0000^(reactivación: 20 s)^oldclr^
 ^D22808^Límite: zombis grandes o de Nvl. 2 (petrificación)^oldclr^
 
 [SARRACENIA_NEW_SKILL_LEVEL2_DES]
@@ -62509,9 +62319,11 @@ Debes enviar una solicitud a soporte para eliminar tu cuenta y los datos asociad
 ^DB8117^Servicio al Cliente de QQ: 4008932088^oldclr^
 
 [SETTING_LOGOUT_TEXT_A]
-{SETTING_LOGOUT_TEXT}
+Debes enviar una solicitud a soporte para eliminar tu cuenta y los datos asociados.
 
-El personal se pondrá en contacto contigo en un plazo de 3-5 días laborales
+^DB8117^Servicio al Cliente de QQ: 4008932088^oldclr^
+
+^E2725B^El personal se pondrá en contacto contigo en un plazo de 3-5 días laborales.^oldclr^
 
 [SETTING_LOGOUT_TITLE]
 Eliminar cuenta
@@ -62550,8 +62362,8 @@ Gana un 20% de probabilidad de disparar una bala sombría. ^D22808^Daño: 240^ol
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL4_DES]
 Gana un 25% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: invoca 3 bombas que hacen 500 DPS y crecen hasta 3 veces por cada Flor lunar adyacente.^oldclr^
-^D22808^Área: casilla → 3x3 → todo el patio^oldclr^
+^DB8117^Nutrientes: invoca 3 bombas que hacen 500 DPS, crecen por cada Flor lunar cercana.^oldclr^
+^D22808^Área: casilla → 3x3 → patio^oldclr^
 
 [SHADOWPEASHOOTER_NEW_SKILL_LEVEL5_DES]
 Gana un 80% de disparar un rayo ralentizador sin estar potenciado.
@@ -62563,7 +62375,7 @@ Invoca 3 bombas que hacen 500 DPS y crecen hasta 3 veces por cada Flor lunar ady
 ^D22808^Área: casilla → 3x3 → todo el patio^oldclr^
 
 [SHADOWPEASHOOTER_PRODUCT_SHORT_DESC]
-Dispara rayos perforantes ralentizadores
+Lanza guisantes oscuros, dispara rayos ralentizadores cuando está potenciado
 
 [SHADOWPEASHOOTER_SKILL_LEVEL1]
 Nivel 2
@@ -62584,7 +62396,7 @@ Nivel 5
 ^DB8117^Exceso de sombras:^oldclr^ gana la probabilidad de disprar rayos ralentizadores en su fase normal y crear agujeros negros en su fase sombría.
 
 [SHADOWPEASHOOTER_TOOLTIP]
-Lanza guisantes oscuros; dispara rayos ralentizadores cuando está potenciado
+Lanza guisantes oscuros, dispara rayos ralentizadores cuando está potenciado
 
 [SHADOWPOISONED]
 Envenenar
@@ -62606,7 +62418,7 @@ El veneno inflige más daño y ralentiza zombis. ^D22808^Daño: 54^oldclr^
 Sombraseta envenena a los zombis que la tocan, infligiéndoles daño periódico.
 
 [SHADOWSHROOM_NEW_SKILL_LEVEL1_DES]
-^701edf^Envenena^oldclr^ zombis al contacto durante 30 segundos
+^701edf^Envenena^oldclr^ zombis al contacto durante 30 s
 ^A048CF^Potenciada: el veneno se esparce a otros zombis.^oldclr^
 
 [SHADOWSHROOM_NEW_SKILL_LEVEL2_DES]
@@ -62707,54 +62519,6 @@ Nivel 5
 
 [SHADOWVANILLA_TOOLTIP]
 Lanza esferas oscuras de viento; carga sus pétalos y libera nubes que debilitan zombis
-
-[SHADOW_PEASHOOTER_2]
-Shadow_Peashooter_2
-
-[SHADOW_PEASHOOTER_CONSUME]
-Lanzaguisantes sombrío 2
-
-[SHADOW_PEASHOOTER_DESC]
-Planta y paquetes de semillas
-
-[SHADOW_PEASHOOTER_HEAD]
-Lote de Lanzaguisantes sombrío
-
-[SHADOW_PEASHOOTER_INFO]
-Descripción del Lanzaguisantes sombrío
-
-[SHADOW_PEASHOOTER_PLANT]
-Lanzaguisantes Sombrío
-
-[SHADOW_PEASHOOTER_SEED]
-Paquetes de semillas
-
-[SHARE_CANCLE]
-CANCELAR
-
-[SHARE_GET_AWARD]
-Compartir Regalos
-
-[SHARE_GET_STAR]
-Compartir Estrellas
-
-[SHARE_TO_QQ]
-Compartir con amigos de QQ
-
-[SHARE_TO_WECHAT_FRIEND]
-Compartir con amigos de WeChat
-
-[SHARE_TO_WECHAT_FRIENDS]
-Compartir con WeChat
-
-[SHARE_TO_WECHAT_TIMELINE]
-Compártelo en tu círculo de amigos
-
-[SHARE_TO_WECHAT_ZONE]
-Compartir con amigos de WeChat Zone
-
-[SHARE_UNLOCK_NEW_WORLD]
-Compartir Mundos
 
 [SHIELD_POTION]
 Poción de invencibilidad
@@ -63618,16 +63382,17 @@ Golpea zombis y resiste con su escudo de 1.400 PS
 ^E2725B^Trance de batalla: hace el triple de daño^oldclr^
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL2_DES]
-Entra en trance tras derrotar un zombi por 2.5 s, reduciendo el intervalo de ataque en 0,25 s.
-Reduce la recarga del paquete de semillas en 3 s.
+Entra en trance tras derrotar un zombi por 2.5 s, reduciendo el intervalo de ataque en 0,25 s
+^FF8000^Reduce la recarga del paquete de semillas en 3 s^oldclr^
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL3_DES]
-Entra en trance tras derrotar un zombi por 5 s, reduciendo el intervalo de ataque en 0,25 s.
-Reduce la recarga del paquete de semillas en 6 s
+Entra en trance tras derrotar un zombi por 5 s, reduciendo el intervalo de ataque en 0,25 s
+^FF8000^Reduce la recarga del paquete de semillas en 6 s^oldclr^
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL4_DES]
 Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
 ^DB8117^Nutrientes: genera 2 ondas que hacen 750 DPS en un área 3x2 y derriban zombis 1 casilla.^oldclr^
+^E2725B^Extra: +1 proyectil por mej. de Nvl^oldclr^
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL5_DES]
 Cada 6 s, arroja su lanza para dañar zombis a distancia. ^D22808^Daño: 90 (área 3x3)^oldclr^
@@ -63659,34 +63424,6 @@ Nivel 5
 
 [SPARTANBAMBOO_TOOLTIP]
 Resiste y golpea a los zombis que se encuentren a 2 casillas
-
-[SPEAKER_LENOVO_FIVE]
-^E2725B^Festival de primavera^oldclr^
-
-Los eventos del Festival de primavera empiezan el 13 de febrero.
-Desafía al Dios de las Riquezas y adivina un acertijo para ganar muchos Sobres Rojos.
-Abre los sobres, ¡puede que obtengas a Bambú explosivo, la nueva planta y otros premios alucinantes!
-
-[SPEAKER_LENOVO_FOUR]
-^E2725B^La Tienda de Penny ya abrió sus puertas^oldclr^
-
-Cada día podrás adquirir diversas Piezas de plantas y Atuendos.
-
-[SPEAKER_LENOVO_ONE]
-^E2725B^Eventos de primavera^oldclr^
-
-Toca en la esquina superior izquierda para participar en dichos eventos.
-
-[SPEAKER_LENOVO_THREE]
-^E2725B^Vueltacasete de neón ya es un éxito^oldclr^
-
-Lucha contra zombis con estilos ochenteros y una gran pasión por la música retro.
-
-[SPEAKER_LENOVO_TWO]
-^E2725B^Peluches por Joyas^oldclr^
-
-Consigue peluches de edición limitada por cada 100 Joyas que gastes.
-Evento disponible hasta el 25 de octubre.
 
 [SPECIALIST_DISABLE_PLANT_DIFFICULTY_2]
 Sin sorpresas
@@ -64594,141 +64331,192 @@ La producción solar se reduce en un 70%
 [SPRING_TIME_COUNT]
 Tiempo res.:
 
+[NOTICE_TITLE_TEXT]
+#update
+
+[NOTICE_CONTENT_FIRST]
+• Notas de la actualización 4.0.0
+
+^E2725B^- Nuevas plantas: Casia dorada y Loto blanco^oldclr^
+
+Nuevas plantas se unen a la lucha.
+¡Hazte con ellas jugando a los eventos o gastando dinero en la Tienda!
+
+^E2725B^- Nuevo modo CO-OP: Grieta temporal^oldclr^
+
+Modo cooperativo por tiempo limitado.
+¡Únete a la lucha con otros jugadores y derrota a los Jefes para ganar premios!
+
+^E2725B^- Tierras ocultas: Mausoleo de Qin^oldclr^
+
+El Mausoleo de Qin Shin Huang abre sus puertas, ¿podrás vencerlo?
+
+^E2725B^- Festival de primavera^oldclr^
+
+Huevos de Oro: obtén premios raros por tan solo 1 元.
+Sobres rojos: ábrelos para conseguir recompensas únicas.
+Cajas de atuendo: consigue atuendos exclusivos de Año Nuevo.
+Bolsas de Año Nuevo: personaliza el contenido de tus bolsas con las plantas de tu elección.
+
+[SPEAKER_LENOVO_ONE]
+^E2725B^Salón de eventos^oldclr^
+
+Toca en el banner inferior izquierdo para participar en los eventos.
+
+[SPRING_LOADING_TEXT_1]
+^E2725B^Cargando...^oldclr^
+
+[SPRING_LOADING_TEXT_2]
+^E2725B^Ordenando unos y ceros...^oldclr^
+
+[SPRING_LOADING_TEXT_3]
+^E2725B^Despertando a las plantas...^oldclr^
+
+[SPRING_LOADING_TEXT_4]
+^E2725B^Despertando a los zombis...^oldclr^
+
+[SPRING_LOADING_TEXT_5]
+^E2725B^Añadiendo belleza...^oldclr^
+
+[SPRING_LOADING_TEXT_6]
+^E2725B^Inyectando un 150% de ZAM...^oldclr^
+
 [SPRING_TIPS_1]
-^00FA9A Puedes desbloquear más Mundos con Estrellas.
-¿No tienes suficientes? ¡Inténtalo con Joyas!
+^E2725B^Puedes desbloquear más Mundos con Estrellas.
+¿No tienes suficientes? ¡Inténtalo con Joyas!^oldclr^
 
 [SPRING_TIPS_2]
-^00FA9A La dificultad de un Mundo aumenta
-conforme completes más Niveles.
+^E2725B^La dificultad de un Mundo aumenta conforme completes más Niveles.^oldclr^
 
 [SPRING_TIPS_3]
-^00FA9A Visita la Tienda de Penny todos los días,
-podrás conseguir diferentes Piezas de Plantas y Atuendos.
+^E2725B^Visita la Tienda de Penny todos los días.
+¡Podrás conseguir diferentes Piezas de Plantas y Atuendos!^oldclr^
 
 [SPRING_TIPS_4]
-^00FA9A ¡No te pierdas de los Eventos!
-¡Podrás conseguir Recompensas al participar!
+^E2725B^¡No te pierdas de los Eventos!
+¡Podrás conseguir Recompensas al participar!^oldclr^
 
 [SPRING_TIPS_5]
-^00FA9A Hay un montón de actividades interesantes en Guerras de jardín.
-¡Ve y reta a otros Jugadores!
+^E2725B^Hay un montón de actividades interesantes en Dueloz.
+¡Ve y reta a otros Jugadores!^oldclr^
 
 [SPRING_TIPS_6]
-^00FA9A Mientras más Pepinos tácticos utilices,
-más costosos y poderosos se volverán.
+^E2725B^Mientras más Pepinos tácticos utilices, más costosos y poderosos se volverán.^oldclr^
 
 [SPRING_TIPS_7]
-^00FA9A Visita la sección "Mejorar plantas" para
-darles nuevas habilidades a tus amigas botánicas.
+^E2725B^Visita la sección "Mejorar plantas" para
+darles nuevas habilidades a tus amigas verdes.
 
 [SPRING_TIPS_8]
-^00FA9A Visita la sección "Accesorios" para equipar Colgantes,
+^E2725B^Visita la sección "Accesorios" para equipar Colgantes,
 Macetas o Atuendos a tus plantas, y hacerlas más fuertes.
 
 [SPRING_TIPS_9]
-^00FA9A Reúne Estrellas para canjearlas por
-Recompensas en la sección "Premios Estelares".
+^E2725B^Reúne estrellas para canjearlas en los Premios estelares.^oldclr^
 
 [SPRING_TIPS_10]
-^00FA9A Las Pociones de Cultivo se usan para Mejorar plantas
-al Nvl. 4 en adelante, puedes conseguirlas en las Tiendas.
+^E2725B^Las Pociones de cultivo se usan para mejorar plantas al Nvl. 4 en adelante.
+Puedes conseguirlas jugando a eventos y en la tienda.^oldclr^
 
 [SPRING_TIPS_11]
-^00FA9A ¡Diviértete completando Retos diarios y 
-consigue Piezas para tus plantas y sus Atuendos!
+^E2725B^¡Diviértete completando Retos diarios y 
+consigue Piezas para tus plantas y sus Atuendos!^oldclr^
 
 [SPRING_TIPS_12]
-^00FA9A ¡Completa un Nivel en el Modo Difícil,
-¡conseguirás el resto de Estrellas y un Cofre misterioso!
+^E2725B^Completa un Nivel en el Modo difícil.
+¡Conseguirás el resto de Estrellas y un Cofre misterioso!^oldclr^
 
 [SPRING_TIPS_13]
-^00FA9A Consigue todas las Estrellas de un Mundo
-para acceder al Día Final. Complétalo, ¡y gana premios!
+^E2725B^Consigue todas las Estrellas de un mundo para acceder al Día Final.^oldclr^
 
 [SPRING_TIPS_14]
-^00FA9A Desbloquea todas las plantas de un Mundo
-para conseguir el Trofeo de Plantas.
+^E2725B^Desbloquea todas las plantas de un mundo para conseguir el Trofeo de plantas.^oldclr^
 
 [SPRING_TIPS_15]
-^00FA9A Recoleta todas las Estrellas de un Mundo
-para conseguir el Trofeo de Estrellas.
+^E2725B^Recoleta todas las Estrellas de un Mundo para conseguir el Trofeo de estrellas.^oldclr^
 
 [SPRING_TIPS_16]
-^00FA9A Derrota al Jefe de un Mundo
-para conseguir el Trofeo del Jefe.
+^E2725B^Derrota al jefe de un mundo para conseguir el Trofeo del Jefe.^oldclr^
 
 [SPRING_TIPS_17]
-^00FA9A Visita la sección "Familia de Plantas" para Mejorar
-una Familia de Plantas o Cambiar sus Atributos de Poder.
+^E2725B^Visita la sección "Familia de Plantas" para mejorar los atributos de tus plantas.^oldclr^
 
 [SPRING_TIPS_18]
-^00FA9A Compite contra otros jugadores en Batallaz y gana Premioz.
+^E2725B^Compite contra otros jugadores en Batallaz y gana Premioz.^oldclr^
 
 [SPRING_TIPS_19]
-^00FA9A Los Libros Avanzados se utilizan para
-mejor plantas sin gastar Piezas ni Monedas.
+^E2725B^Los Libros de avances se utilizan para mejorar plantas sin Piezas ni Monedas.
+¡Consíguelos en El Tesoro de Dave y otros eventos!^oldclr^
 
 [SPRING_TIPS_20]
-^00FA9A Los Libros Avanzados puenden conseguirse
-participando en "El Tesoro de Dave" y en otros eventos.
+^E2725B^¡Juega a La Búsqueda de Penny para competir contra otros jugadores y ganar premios!^oldclr^
 
 [SPRING_TIPS_21]
-^00FA9A Deja espacio en las columnas de atrás
-para las Plantas tiradoras más grandes.
+^E2725B^¿Cuánto tiempo puedes aguantar en la Zona de Infinito? 
+Acepta el desafío y acumula recompensas.^oldclr^
 
 [SPRING_TIPS_22]
-^00FA9A Planta Productoras solares a menudo y con antelación
-para aumentar la Producción de Soles en un Nivel.
+^E2725B^¡Explora las Tierras ocultas y gana premios mientras juegas!^oldclr^
 
 [SPRING_TIPS_23]
-^00FA9A Intenta plantar 2 columnas de Productoras solares
-para producir más Soles con mayor frecuencia.
+^E2725B^Nuevos desafíos te esperan en la Dimensión del Recuerdo.
+¡Complétalos para ganar premios jugosos!^oldclr^
 
 [SPRING_TIPS_24]
-^00FA9A Intenta ahorrar Soles para poder hacerte con plantas
-más caras, pero a la vez, más poderosas.
+^E2725B^¡No olvides revisar el Tronco de viaje de vez en cuando!^oldclr^
 
 [SPRING_TIPS_25]
-^00FA9A Usa Nutrientes en cualquier planta para
-poder hacer espacio a los Nutrientes flotantes.
+^E2725B^¡Completa misiones del Pase de batalla para ganar premios!^oldclr^
 
-[SPRING_TIPS_26]
-^00FA9A Una planta es invulnerable a todo tipo de daño
-durante el breve tiempo que dura su efecto de Nutrientes.
+[SPRING_NEW_TIPS_1]
+^E2725B^Deja espacio en las columnas de atrás para las tiradoras más grandes.^oldclr^
 
-[SPRING_TIPS_27]
-^00FA9A No tengas miedo de plantar en la parte derecha del patio.
+[SPRING_NEW_TIPS_2]
+^E2725B^Planta productoras solares a menudo y con antelación.^oldclr^
 
-[SPRING_TIPS_28]
-^00FA9A Toma ventaja.
+[SPRING_NEW_TIPS_3]
+^E2725B^Intenta plantar 2 columnas de productoras solares.^oldclr^
 
-[SPRING_TIPS_29]
-^00FA9A Prueba las plantas fulminantes como Frijol o Planta carnívora
-contra los zombis de alta salud o con un gran blindaje.
+[SPRING_NEW_TIPS_4]
+^E2725B^Ahorra soles para hacerte con plantas caras y poderosas.^oldclr^
 
-[SPRING_TIPS_30]
-^00FA9A Los Zombiditos lanzados suelen aterrizar en el mismo sitio.
+[SPRING_NEW_TIPS_5]
+^E2725B^Dales Nutrientes a los Girasoles para obtener sol extra.^oldclr^
 
-[SPRING_TIPS_31]
-^00FA9A Los zombis de un mundo pueden ser
-derrotados por las plantas de dicho mundo.
+[SPRING_NEW_TIPS_6]
+^E2725B^Una planta es invulnerable mientras dura el efecto de los Nutrientes.^oldclr^
 
-[SPRING_TIPS_32]
-^00FA9A Detén o ralentiza a los primeros zombis que aparezcan
-en un Nivel, y gana así, tiempo para producir Soles.
+[SPRING_NEW_TIPS_7]
+^E2725B^No tengas miedo de plantar en la parte derecha del patio.^oldclr^
 
-[SPRING_TIPS_33]
-^00FA9A Desarrolla Producción solar lo más rápido
-y con la mayor antelación posible.
+[SPRING_NEW_TIPS_8]
+^E2725B^Toma ventaja.^oldclr^
 
-[SPRING_TIPS_34]
-^00FA9A Sustituye a las productoras solares por
-plantas ofensivas cuando avances en el Nivel.
+[SPRING_NEW_TIPS_9]
+^E2725B^Prueba plantas fulminantes como Frijol o Carnívora
+contra zombis de alta salud o con gran blindaje.^oldclr^
 
-[SPRING_TIPS_35]
-^00FA9A Coloca a las plantas cuerpo a cuerpo o
-de corta distancia detrás de las plantas defensivas.
+[SPRING_NEW_TIPS_10]
+^E2725B^Los Zombiditos lanzados suelen aterrizar en el mismo sitio.^oldclr^
+
+[SPRING_NEW_TIPS_11]
+^E2725B^Algunas plantas son buenas contra ciertos zombis.
+¡Lee el Almanaque de vez en cuando!^oldclr^
+
+[SPRING_NEW_TIPS_12]
+^E2725B^Detén o ralentiza a los primeros zombis y gana tiempo para generar sol.^oldclr^
+
+[SPRING_NEW_TIPS_13]
+^E2725B^Desarrolla producción solar lo más rápido posible.^oldclr^
+
+[SPRING_NEW_TIPS_14]
+^E2725B^Cambia las productoras solares por ofensivas al avanzar en el nivel.^oldclr^
+
+[SPRING_NEW_TIPS_15]
+^E2725B^Coloca a las plantas de corta distancia detrás de las defensas.^oldclr^
+
+[SPRING_NEW_TIPS_16]
+^E2725B^¡Sigue plantando!^oldclr^
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_1]
 Refuerzo primaveral
@@ -64948,7 +64736,7 @@ Usa a Trebolador para expulsar a {COUNT} zombis que salen de toneles
 Intrusos fugitivos
 
 [STARCHALLENGE_BLOW_ZOMBIE]
-Haz explotar por los aires a {COUNT} zombis
+Expulsa a {COUNT} zombis del patio
 
 [STARCHALLENGE_BLOW_ZOMBIE_NAME]
 Volando zombis
@@ -65545,7 +65333,7 @@ Evita que los zombis se lleven a los cerditos
 Teatro del terror
 
 [STARCHALLENGE_TITLE]
-Desafío Estelar
+Desafío estelar
 
 [STARCHALLENGE_TOMBSTONES]
 Las tumbas extra complican tu plantado
@@ -65658,102 +65446,6 @@ Dispara estrellas en 5 direcciones
 
 [START]
 Comenzar
-
-[STARTER_CHOMPER_OFFER]
-¡Ñam!
-
-[STARTER_CURRENCY_NEW]
-¡Arranca!
-
-[STARTER_CURRENCY_NEW_2]
-¡La reserva de Penny!
-
-[STARTER_CURRENCY_NEW_2_DESC]
-Oferta de la reserva de Penny
-
-[STARTER_CURRENCY_NEW_DESC]
-Oferta de Arranque
-
-[STARTER_DEFENDER_OFFER]
-Sobre Defensor del patio
-
-[STARTER_DEFENDER_OFFER_DESC]
-Oferta de Defensor del patio
-
-[STARTER_ELECTRICPEASHOOTER_OFFER]
-¡Planta élite!
-
-[STARTER_GARLIC_OFFER]
-¡¿Tienes Ajo?!
-
-[STARTER_LETSGO_OFFER]
-¡Vamos!
-
-[STARTER_LIGHTNINGREED_OFFER]
-¡Un héroe electrizante!
-
-[STARTER_PACK_1]
-Plantas frescas
-
-[STARTER_PACK_1_DESC]
-Lote de plantas frescas
-
-[STARTER_PLANT_DUO]
-Doble de plantas
-
-[STARTER_PLANT_DUO_2]
-Doble de plantas 2
-
-[STARTER_PLANT_DUO_2_DESC]
-Oferta de Doble de plantas 2
-
-[STARTER_PLANT_DUO_3]
-Doble de plantas 3
-
-[STARTER_PLANT_DUO_3_DESC]
-Oferta de Doble de plantas 3
-
-[STARTER_PLANT_DUO_DESC]
-Oferta
-
-[STARTER_PLANT_OFFER_1]
-Planta inicial
-
-[STARTER_PLANT_OFFER_1_DESC]
-Oferta de Planta inicial
-
-[STARTER_PLANT_OFFER_2]
-Planta inicial 2
-
-[STARTER_PLANT_OFFER_2_DESC]
-Oferta de Planta inicial 2
-
-[STARTER_PLANT_OFFER_3]
-Planta inicial 3
-
-[STARTER_PLANT_OFFER_3_DESC]
-Oferta de Planta inicial 3
-
-[STARTER_PLANT_OFFER_4]
-Planta Inicial 4
-
-[STARTER_PLANT_OFFER_4_DESC]
-Oferta de Planta inicial 4
-
-[STARTER_PROVISIONS]
-¡Provisiones para viajar!
-
-[STARTER_PROVISIONS_DESC]
-Oferta de Provisiones para viajar
-
-[STARTER_SNOWJAL_OFFER]
-¡Hielo y picante!
-
-[STARTER_SUPERDUO_OFFER]
-¡Superdúo!
-
-[STARTER_SUPERTRIO_OFFER]
-¡Supertrío!
 
 [START_GAME_BUTTON]
 COMENZAR
@@ -66846,11 +66538,11 @@ Arroja bombas de arroz que inmovilizan zombis y explotan al cabo de 1,25 s
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL2_DES]
 Temporizador: aumenta en 1 s (ahora 2,25 s)
-Multiplicador de cadena de bombas: se mejora a un 25%
+^E2725B^Cadena de bombas: el multiplicador se mejora a un 25%^oldclr^
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL3_DES]
 Temporizador: aumenta en 2 s (ahora 3,25 s)
-Multiplicador de cadena de bombas: se mejora a un 35%
+^E2725B^Cadena de bombas: el multiplicador se mejora a un 35%^oldclr^
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL4_DES]
 Gana un 50% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
@@ -70543,8 +70235,8 @@ Las Setas solares dan soles pequeños al principio, luego normales y al final gr
 
 [SUNSHROOM_NEW_SKILL_LEVEL1_DES]
 Produce más sol con el paso del tiempo.
-^FFA500^Tamaño mediano: crece tras 18 s, da 50 soles^oldclr^
-^FFC300^Tamaño mediano: crece tras 72 s, da 75 soles^oldclr^
+^FFFFCC^Tamaño mediano: crece tras 18 s, da 50 soles^oldclr^
+^FF8000^Tamaño completo: crece tras 72 s, da 75 soles^oldclr^
 
 [SUNSHROOM_NEW_SKILL_LEVEL2_DES]
 Crece 2 veces más rápido: le toma 9 s para el tamaño medio y 36 para el máximo.
@@ -71140,69 +70832,6 @@ Apoyo lento II
 [SUPPORTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
 Las plantas de apoyo se recargan el triple de lento y no pueden usar Nutrientes
 
-[SURVEY_ANSWER_0]
-ca=15 años o menos|16-24 años|25-40 años|40 años o más|
-
-[SURVEY_ANSWER_1]
-ca=Masculino|Femenino|
-
-[SURVEY_ANSWER_2]
-ca=1 mes|1 mes - 12 meses|1 año - 3 años|3-8 años|
-
-[SURVEY_ANSWER_3]
-ca=Menos de 100 元|100-1000 元|1000-5000 元|5000 元 o más|
-
-[SURVEY_ANSWER_4]
-ca=1000 Estrellas o más|501-1000 Estrellas|101-500 Estrellas|0-100 Estrellas|
-
-[SURVEY_ANSWER_5]
-ca=Actividades operativas|Nivel de línea principal|Cómo jugar Desafíos|Guía para principiantes|
-
-[SURVEY_ANSWER_6]
-ca=Nivel 1|Nivel 2|Nivel 3|
-
-[SURVEY_ANSWER_7]
-ca=Si|No|
-
-[SURVEY_ANSWER_8]
-ca=Si|No|
-
-[SURVEY_ANSWER_9]
-ca=10000 元|5000-10000 元|1000-5000 元|0-1000 元|
-
-[SURVEY_QUESTION_0]
-1. ¿Cual es tu edad?
-
-[SURVEY_QUESTION_1]
-2. ¿Cual es tu género?
-
-[SURVEY_QUESTION_2]
-3. ¿Cuánto tiempo llevas jugando Plants vs Zombies 2?
-
-[SURVEY_QUESTION_3]
-4. ¿Cuántos 元 has recargado en este juego?
-
-[SURVEY_QUESTION_4]
-5. ¿Cuántas Estrellas has recolectado en Plants vs Zombies 2?
-
-[SURVEY_QUESTION_5]
-6. ¿Qué aspecto crees que Plants vs Zombies 2 debería mejorar?
-
-[SURVEY_QUESTION_6]
-7. ¿De qué Nivel es tu Ciudad en Guerras de jardín?
-
-[SURVEY_QUESTION_7]
-8. ¿Estás satisfecho con el diseño actual de la Interfaz principal del juego?
-
-[SURVEY_QUESTION_8]
-9. ¿Estás satisfecho con el Sistema de Artefactos en el juego actual?
-
-[SURVEY_QUESTION_9]
-10. ¿Cual es tu ingreso mensual de 元 en el juego?
-
-[SURVEY_TITLE]
-Encuesta
-
 [SURVIVE_ZOMBIE_ATTACK]
 Sobrevive al ataque zombi
 
@@ -71530,7 +71159,7 @@ Juega 1 partida en la Búsqueda de Penny
 ¡Obtén los puntajes y rangos más altos en la Búsqueda de Penny!
 
 [TASK_PVP]
-Gana 1 partida en Guerras de jardín
+Gana 1 partida en Dueloz
 
 [TASK_PVP_DESCRIPTION]
 ¿Lo sabías? Puedes obtener toda clase de recompensas alli.
@@ -71933,7 +71562,7 @@ Teletransporta zombis y explota
 La tarjeta dejará de ser válida si mejoras la planta a un nivel superior al ofrecido.
 
 [TEMPLATE_TRIAL_CARD_NAME]
-Tarjeta de {NAME} al Nvl. {NUM} (Duración: {TIME})
+Tarjeta de {NAME} al Nvl. {NUM}
 
 [TEMPLATE_TRIAL_CARD_USE]
 Al usar la tarjeta, podrás probar a {NAME} al Nvl. {NUM} por {TIME}
@@ -71944,98 +71573,14 @@ A quienes siguen este juego desde 10 años, ¡feliz aniversario!
 [TENYEAR_MEMORIES_HEAD_ID_25465]
 10mo Aniversario
 
-[TENYEAR_RECORD_INDEX1_1]
-¡Hola, vecino ^FF0000 {NAME} ^oldclr!
-
-[TENYEAR_RECORD_INDEX1_2]
-Visitaste mi patio por primera vez el ^FF0000 {TIME} ^oldclr
-
-[TENYEAR_RECORD_INDEX1_3]
-¡Nos conocemos desde hace ^FF0000 {COUNT} ^oldclr días!
-
-[TENYEAR_RECORD_INDEX1_4]
-Hemos explorado ^FF0000 {COUNT} ^oldclr mundos junto a Penny durante diez largos años.
-
-[TENYEAR_RECORD_INDEX1_5]
-Hemos recolectado ^FF0000 {COUNT} ^oldclr estrellas en el enorme universo de PvZ 2
-
-[TENYEAR_RECORD_INDEX1_6]
-¿Podremos encontrar mi taco perdido en esta aventura interminable?
-
-[TENYEAR_RECORD_INDEX2_1]
-Según el Salón de la fama:
-
-[TENYEAR_RECORD_INDEX2_2]
-Haz recolectado un total ^FF0000 {COUNT} ^oldclr plantas en estos diez años
-
-[TENYEAR_RECORD_INDEX2_3]
-Reuniste un total de ^FF0000 {COUNT} ^oldclr Atuendos
-
-[TENYEAR_RECORD_INDEX2_4]
-Desbloqueaste ^FF0000^{COUNT}^oldclr^ Familias de plantas
-
-[TENYEAR_RECORD_INDEX2_5]
-¡Conseguiste un total de ^FF0000^{COUNT}^oldclr^ Artefactos
-
-[TENYEAR_RECORD_INDEX2_6]
-^FF0000^{COUNT}^oldclr^ de tus Artefactos ha alcanzado el ^FF0000^Nivel máximo^oldclr^
-
-[TENYEAR_RECORD_INDEX2_7]
-¡Impresionante!
-
-[TENYEAR_RECORD_INDEX3_1]
-Fui secuestrado por el Dr. Zombi en 2020, ¡gracias a ti y a Penny por rescatarme!
-
-[TENYEAR_RECORD_INDEX3_2]
-El ^E2725B^Patio de la Creatividad está disponible desde el 2022
-
-[TENYEAR_RECORD_INDEX3_3]
-¡Creaste un total de ^FF0000 {COUNT} ^oldclr Niveles desde su lanzamiento!
-
-[TENYEAR_RECORD_INDEX3_4]
-Batiste ^E2725B^Dueloz^oldclr^ en vivo y en directo desde su lanzamiento en 2023
-
-[TENYEAR_RECORD_INDEX3_5]
-Esta fue tu posición: ^FF0000 {COUNT} ^oldclr lugar
-
-[TENYEAR_RECORD_INDEX4_1]
-¡Gracias por acompañarme estos diez años en esta LOOOOCAAA aventura, mi buen vecino ^FF0000 {NAME} ^oldclr!
-
-[TENYEAR_RECORD_INDEX4_2]
-Tienes una Recompensa de Aniversario, ¡date prisa y toca para reclamarla!
-
-[TENYEAR_RECORD_INDEX4_3]
-———— Atentamente, Dave el loco
-
 [TEN_THOUSAND_HEAD_DES_ID_25636]
 A quienes recargaron a montones en los eventos de Año Nuevo (2025)
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Aficionado festivo
 
-[TEN_YEAR_SHARE_BUTTON]
-COMPARTIR
-
-[TEN_YEAR_START_BUTTON]
-EMPEZAR
-
-[TEST_FEASTIVUS_QUEST_DESC]
-¡Derrota a los Yetis del tesoro antes de que invadan Festivus por completo!
-
-[TEST_FEASTIVUS_QUEST_TITLE]
-Un Festivus muy Yeti
-
-[TEST_WIN_LATEST_LEVEL]
-TestWinLatestLevelString
-
-[TEST_WIN_RIFT_LATEST_LEVEL_QUEST_DESC]
-¡Persigue al Dr. Zombi y gana Monedas en el proceso!
-
-[TEST_WIN_RIFT_LATEST_LEVEL_QUEST_TITLE]
-¡Juega el nivel más reciente de La Búsqueda de Penny!
-
 [THEATER_PACKETS_DESCRIPTION]
-A continuación, elige un ^FFFF00 Paquete de Monedas y Electronutrientes ^oldclr para poder jugar rondas en el evento y conseguir un sinfín de ^ef7600 Recompensas ^oldclr alucinantes.
+Elige un ^FFFF00^Paquete^oldclr^ para poder jugar rondas y conseguir muchas ^ef7600^Recompensas^oldclr^
 
 [THEATER_REFRESH_ADS]
 Refrecar con anuncios
@@ -72059,10 +71604,10 @@ Las plantas explosivas hacen un 100% más daño y cuestan un 50% menos
 Explosivas y letales
 
 [THEME_BALLOON_DESCRIPTION]
-Cada cierto tiempo, caerán globos del cielo.
+Flor petaglobera festeja con globos explosivos que caen cada cierto tiempo
 
 [THEME_BALLOON_NAME]
-Fiesta
+Fiesta explosiva
 
 [THEME_BLIZZARD_DESCRIPTION]
 De vez en cuando, fuertes ventiscas soplan en el patio, congelando tanto a plantas como a zombis.
@@ -72119,7 +71664,7 @@ La plantas defensivas se recargan un 50% más rápido
 Defensa rápida
 
 [THEME_FIRE_REDUCE_DESCRIPTION]
-Los zombis se vuelven inmunes a las quemaduras y reciben un 50% de daño ígneo
+Los zombis se vuelven inmunes a las quemaduras y reciben un 50% menos de daño ígneo
 
 [THEME_FIRE_REDUCE_NAME]
 Resistencia al fuego
@@ -72354,7 +71899,7 @@ Tripitidora
 El efecto de Nutrientes se extiende al triple.
 
 [THREEPEATER_DESCRIPTION]
-{KEYWORD}Información de daño: {STAT}}normal (por cada guisante)
+{KEYWORD}Información de daño: {STAT}normal (por cada guisante)
 {KEYWORD}Información de alcance: {STAT}tres líneas
 {KEYWORD}Características de la planta: {STAT}planta verde, hermanos planta, destructora
 
@@ -73658,8 +73203,8 @@ Liliaceae
 Tulipa
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL1_DES]
-^FF9E6B^Forma ofensiva: dispara notas musicales por la línea^oldclr^
-^FFC300^Forma defensiva: cura plantas de un área 3x3 alrededor, recuperándoles 100 PS^oldclr^
+^FF0000^Forma ofensiva: dispara notas musicales por la línea^oldclr^
+^FFFFCC^Forma defensiva: cura plantas de un área 3x3 alrededor, recuperándoles 100 PS^oldclr^
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de disparar una nota roja que ^ff4284^hipnotiza^oldclr^ al zombi golpeado  
@@ -74056,110 +73601,28 @@ Nivel 5
 Proporciona el doble de sol que el Girasol
 
 [TWOYEAR_CAN_GOT]
-Segundo Aniversario
-
-[TWO_YEAR_ACHIEVEMENT_CONTENT]
-^FF0000^Contenido:^oldclr^
-
-Puedes obtener un sinfín de Piezas y Monedas como recompensa.
-
-[TWO_YEAR_ACHIEVEMENT_GO]
-Retos diarios
-
-[TWO_YEAR_ACHIEVEMENT_TIME_ANDROID]
-Horario: 29 de octubre - 04 de noviembre
-
-[TWO_YEAR_ACHIEVEMENT_TIME_IOS]
-Horario: 29 de octubre - 04 de noviembre
-
-[TWO_YEAR_BIRTHDAY_CONTENT1]
-¡Feliz 2do Aniversario! Tenemos una sorpresa especial para ti.
-
-[TWO_YEAR_BIRTHDAY_CONTENT2_ANDROID]
-Horario: 29 de octubre - 15 de noviembre
-
-[TWO_YEAR_BIRTHDAY_CONTENT2_IOS]
-Horario: 29 de octubre - 15 de noviembre
-
-[TWO_YEAR_BIRTHDAY_REWARD_GOT_BTN]
-ACEPTAR
-
-[TWO_YEAR_BIRTHDAY_TIME_TIP]
-Tu tiempo de juego:
-
-[TWO_YEAR_RECORD_1]
-¡Bienvenido! ¡Esta es tu primera vez aquí!
-
-[TWO_YEAR_RECORD_2]
-En estos días has pasado por aquí ^00FF00 {COUNT} ^oldclr veces.
-
-[TWO_YEAR_RECORD_3]
-¡Luchas contra los zombis en el campo de batalla!
-
-[TWO_YEAR_RECORD_4]
-Según las estadísticas, ¡has derrotado a muchos zombis con gran esmero!
-
-[TWO_YEAR_RECORD_5]
-¡Atacaste a los zombis y nunca cesaste!
-
-[TWO_YEAR_RECORD_6]
-¡Derrotaste a ^00FF00 {COUNT} ^oldclr zombis!
-
-[TWO_YEAR_RECORD_7]
-¡Eres un verdadero asesino de zombis!
-
-[TWO_YEAR_RECORD_8]
-Sigue recogiendo esas Estrellas, ¡vamos!
-
-[TWO_YEAR_RECORD_9]
-¿Acaso no ven esos zombis de lo que eres capaz?
-
-[TWO_YEAR_RECORD_10]
-¡Has plantado ^00FF00^{COUNT}^oldclr^ veces!
-
-[TWO_YEAR_RECORD_11]
-¿Cual es tu planta de la suerte?
-
-[TWO_YEAR_RECORD_12]
-¡Los vecinos tienen plantas y los zombis son desterrados de nuevo!
-
-[TWO_YEAR_RECORD_13]
-¡Creo que ya lograste lo suficiente!
+Segundo aniversario
 
 [TWO_YEAR_SHARE_BUTTON]
-COMPARTIR
-
-[TWO_YEAR_SHARE_DESC]
-¡Comparte con tus amigos de Weixin!
-
-[TWO_YEAR_SHARE_DESC_WITH_GIFT]
-¡Comparte recompensas con tus amigos de Weixin y recibe regalos!
+Compartir
 
 [TWO_YEAR_SHARE_FAILED_NO_CONNECT]
 Se ha producido un error al compartir, ¡verifica tu conexión a Internet e inténtalo de nuevo más tarde!
-
-[TWO_YEAR_SHARE_FAILED_NO_WEIXIN]
-Error al compartir, ¡no está instalada la app Weixin!
 
 [TWO_YEAR_SHARE_SUCCESS]
 ¡Compartido con éxito!
 
 [TWO_YEAR_SHARE_SUCCESS_WITH_GIFT]
-¡Regalos por compartir!
+¡Compartido con éxito!
+
+[SHARE_CANCLE]
+Cancelar
+
+[SHARE_GET_AWARD]
+Compartir Regalos
 
 [TWO_YEAR_SIGN_GO]
 Premios diarios
-
-[TWO_YEAR_SIGN_INTROCONTENT]
-^FF0000^Contenido:^oldclr^
-
-¡Inicia sesión para conseguir a Girasol cantante, Piezas, y mucho más.
-
-[TWO_YEAR_SIGN_INTROTIME_ANDROID]
-Horario: 29 de octubre - 04 de noviembre
-
-[TWO_YEAR_SIGN_INTROTIME_IOS]
-Horario: 29 de octubre - 04 de noviembre
 
 [UIINVITATION_REWARD_BOX_0]
 Paquete de mej. Artefactos
@@ -76480,7 +75943,7 @@ Gana un 25% de probabilidad de ser potenciada por el efecto de Nutrientes al pla
 
 [WALLNUT_NEW_SKILL_LEVEL5_DES]
 Ataca a los zombis cercanos con 3 tipos de proyectiles. ^FF0000^Reactivación: 20 s^oldclr^
-^FFA500^Fuego: 90 DPS^oldclr^ | ^4DD4DB^Nieve: 60 DPS, ralentiza 10 s^oldclr^ | ^A048CF^Rayo: 60 DPS, paraliza 1,5 s^oldclr^
+^FF8000^Fuego: 90 DPS^oldclr^ | ^4DD4DB^Nieve: 60 DPS, ralentiza 10 s^oldclr^ | ^A048CF^Rayo: 60 DPS, paraliza 1,5 s^oldclr^
 
 [WALLNUT_PEDIA]
 La nuez es el fruto del nogal (Juglans regia), un árbol caducifolio originario de Asia Central y Europa. Su cáscara leñosa protege una semilla comestible, rica en aceites saludables. Es muy valorada por su sabor, textura crujiente y alto contenido en ácidos grasos omega-3.
@@ -77058,17 +76521,17 @@ Melón de sumo derriba a los zombis atacantes usando el poder de su peso, la dis
 
 [WHITEMELON_NEW_SKILL_LEVEL1_DES]
 Derriba a los zombis atacantes con el poder del sumo.
-^D22808^Distancia de empuje: 1-3 casillas según el tamaño del zombi.^oldclr^
+^D22808^Distancia de empuje: 3 casillas (zombis pequeños) - 2 (medianos) - 1 (grandes)^oldclr^
 
 [WHITEMELON_NEW_SKILL_LEVEL2_DES]
 Gana un 10% de probabilidad de empujar a 2 zombis a la vez.
 
 [WHITEMELON_NEW_SKILL_LEVEL3_DES]
-Derriba a los zombis 1 casilla más lejos (la distancia de empuje ahora es de 2-4 casillas).
+Derriba a los zombis 1 casilla más lejos.
+^D22808^Distancia de empuje: 4 casillas (zombis pequeños) - 3 (medianos) - 2 (grandes)^oldclr^
 
 [WHITEMELON_NEW_SKILL_LEVEL4_DES]
-Gana un 60% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
-^E2725B^Cuando hay zombis cerca, existe un 30% de probabilidad de liberar esta habilidad.^oldclr^
+Gana un 60% de ser potenciado por Nutrientes al plantarse, y un 30% de ser potenciado al atacar.
 ^DB8117^Nutrientes: atrae zombis de un área 2x3 al frente y los derriba 3 casillas, haciendo 180 DPS y ^848484^aturdiéndolos ^DB8117^por 2 s^oldclr^
 
 [WHITEMELON_NEW_SKILL_LEVEL5_DES]
@@ -79769,7 +79232,7 @@ Zombi caballero de escolta
 Carga hacia delante contra la primera planta que encuentre, para luego, soltar su lanza y con ella, bloquear ataques.
 
 [ZOMBIE_FAIRY_TALE_WITCH]
-Zombi hechicera
+Bruja zombi
 
 [ZOMBIE_FAIRY_TALE_WITCH_DESCRIPTION]
 {KEYWORD}Especial: {STAT}convierte a tus plantas en sapos
@@ -81550,7 +81013,7 @@ Zombi policía
 Da macanazos y lanza bombas de humo
 
 [ZOMBIE_NEW_PVP_FAIRY_TALE_WITCH]
-Zombi hechicera
+Bruja zombi
 
 [ZOMBIE_NEW_PVP_FAIRY_TALE_WITCH_DESCRIPTION_HEADER]
 Convierte plantas en sapos
@@ -82910,7 +82373,7 @@ Zombi gentil
 {FLAVOR}"Solo soy un noble caballero zombi que presta mucha atención a sus modales, suelo vestirme bien y andar con un paraguas", dice. La verdad es que lleva su paraguas todos los días con él porque tiene miedo de que la lluvia estropee su elegante traje negro.
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION_HEADER]
-Una vez que coloques tus defensas contra él, saldrá volando con su paraguas por encima de ellas.
+Una vez coloques tus defensas contra él, saldrá volando con su paraguas por encima de ellas.
 
 [ZOMBIE_STEAM_IMP]
 Zombidito industrial
@@ -82927,7 +82390,7 @@ Zombi con calderas
 [ZOMBIE_STEAM_STOVE_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}los ataques gélidos bajan las altas temperaturas de sus calderas
 
-{FLAVOR}Trabajar en un ambiente caluroso todo el día hace que el genio de Zombi con calderas sea muy violento, así que trata de no hacerlo enfadar. Estaría muy encantado si lo recibes con un vaso de agua fría.
+{FLAVOR}Trabajar en un ambiente caluroso todo el día hace que este zombi sea muy violento, así que trata de no hacerlo enfadar. Estaría muy encantado si lo recibes con un vaso de agua fría.
 
 [ZOMBIE_STEAM_STOVE_DESCRIPTION_HEADER]
 Las temperaturas ardientes de sus calderas causan destrucción a las plantas cercanas.
@@ -83282,7 +82745,7 @@ Lo lanzan por encima de todas las plantas (excepto las más altas) y después co
 Es capaz de lanzar a su Zombi jinete por encima de la mayoría de tus defensas.
 
 [ZOMBIE_WITCH]
-Bruja zombi
+Bruja calabaza
 
 [ZOMBIE_WITCH_DESCRIPTION]
 {KEYWORD}Especial: {STAT}esparce pociones que dañan plantas y potencian zombis
@@ -83801,28 +83264,28 @@ Vaina de zoja comienza siendo un pequeño brote que se convierte en una vaina co
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL1_DES]
 Germina zomboides útiles cada 15 s
-^FFA500^Zomboide: tiene 270 PS y hace 100 DPS^oldclr^
+^FF8000^Zomboide: tiene 270 PS y hace 100 DPS^oldclr^
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL2_DES]
 Gana un 50% de probabilidad de germinar Zomboides carazanahoria.
-^FFA500^Zomboide carazanahoria: tiene 640 PS y hace 130 DPS^oldclr^
+^FF8000^Zomboide carazanahoria: tiene 640 PS y hace 130 DPS^oldclr^
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL3_DES]
 Gana un 35% de probabilidad de germinar Zomboides carazanahoria y un 35% de germinar Zomboides carasandía
-^FFA500^Zomboide carasandía: tiene 1.370 PS y hace 150 DPS^oldclr^
+^FF8000^Zomboide carasandía: tiene 1.370 PS y hace 150 DPS^oldclr^
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL4_DES]
 Gana un 50% de probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
 ^DB8117^Nutrientes: crece al instante y genera un Zomboidestein que inflige grandes daños.^oldclr^
-^FFA500^Zomboidestein: tiene 3.600 PS y hace 1.500 DPS^oldclr^
+^FF8000^Zomboidestein: tiene 3.600 PS y hace 1.500 DPS^oldclr^
 
 [ZOYBEANPOD_NEW_SKILL_LEVEL5_DES]
 Gana un 15% de probabilidad de germinar Zomboides guisantralladores que disparan guisantes a distancia.
-^FFA500^Zomboide guisantrallador: tiene 640 PS, hace 252 DPS (al morder) y 20 DPS (por proyectil)^oldclr^
+^FF8000^Zomboide guisantrallador: tiene 640 PS, hace 252 DPS (al morder) y 20 DPS (por proyectil)^oldclr^
 
 [ZOYBEANPOD_PLANTFOOD_DESCRIPTION]
 Crece al instante y genera un Zomboidestein que inflige grandes daños.
-^FFA500^Zomboidestein: tiene 3.600 PS y hace 1.500 DPS^oldclr^
+^FF8000^Zomboidestein: tiene 3.600 PS y hace 1.500 DPS^oldclr^
 
 [ZOYBEANPOD_PRODUCT_SHORT_DESC]
 Germina zomboides útiles
@@ -83924,7 +83387,8 @@ Los zombis se mueven un 100% más rápido.
 ¡Sorpresa de cumpleañoz!
 
 [bloominghearts_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza proyectiles de corazón extragrandes que infligen mayor daño. ^D22808^Daño: 400 (aumenta en 40/impacto, max. 600)^oldclr^
+Lanza proyectiles de corazón extragrandes que infligen mayor daño.
+^D22808^Daño: 400 (aumenta en 40/impacto, max. 600)^oldclr^
 
 [bloominghearts_NEW_SKILL_LEVEL1_DES]
 Lanza proyectiles que obsesionan zombis. ^D22808^Daño: aumenta en 10/impacto (máx. 50)^oldclr^
