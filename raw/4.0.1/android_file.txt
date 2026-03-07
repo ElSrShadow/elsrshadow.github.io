@@ -15806,7 +15806,7 @@ Error en la descarga
 Descarga disponible
 
 [DO_NOT_NEED_TO_JUMP]
-¡Ya estás en el mundo actual donde se completa esta misión!
+¡Ya estás en el mundo donde se completa esta misión!
 
 [DRACAENA]
 Drácena
@@ -17672,9 +17672,6 @@ Explota y puede ser intercambiada con otras plantas
 
 [EULA_TXT_1]
 Las leyes aburridas de China no aplican para el resto del mundo así que no hace falta que leas todo esto, ¿o sí?
-
-[EULA_TXT_2]
-Disfruta de estas traducciones hechas por FranZ y ShadowVT. Hay otras personas que ayudaron para que este proyecto sea posible, chequea nuestro GitHub en las fuentes oficiales
 
 [EULA_TXT_TITLE]
 Acuerdo EULA
@@ -23328,7 +23325,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^A048CF^ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 1.1.4^oldclr^
+^FF9E6B^Versión del parche: 1.1.5^oldclr^
 ^87CEFA^Última actualización: 7/3/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_4]
@@ -23515,7 +23512,7 @@ Sin descuento
 Aún no tienes un cupón de descuento, compra la oferta primero
 
 [HEAVEN_TREASURE_SHOP_BUY_CONFIRM]
-¿Quieres gastar {NUMS} Monedas espirituales para comprar el cofre?
+¿Quieres abrir el cofre por ^DB8117^{NUMS} Monedas espirituales^oldclr^?
 
 [HEAVEN_TREASURE_TAB1]
 Premios
@@ -24754,7 +24751,7 @@ Gana un ^D22808^10% de probabilidad^oldclr^ de congelar zombis con sus ataques. 
 Gana un ^D22808^20% de probabilidad^oldclr^ de congelar zombis con sus ataques. ^D22808^Duración: 2 s^oldclr^
 
 [ICEWEED_NEW_SKILL_LEVEL4_DES]
-Gana un ^D22808^50% de probabilidad^oldclr^ ser potenciada por Nutrientes al plantarse.
+Gana un ^D22808^50% de probabilidad^oldclr^ de ser potenciada por Nutrientes al plantarse.
 ^DB8117^Nutrientes: atrae zombis, lanza una sierra que los derriba y congela; obtiene un 4to pincho.^oldclr^
 ^D22808^Daño: 190 (sierra), 40 (pinchos)^oldclr^
 
@@ -26526,18 +26523,6 @@ Nivel 5
 [LAVAGUAVA_TOOLTIP]
 Entra en erupción y deja un charco de lava ardiente
 
-[LEADERBOARD_QUESTS]
-Tablón de Tronco de viaje
-
-[LEAF_NOT_ENOUGH_DIALOG_TEXT]
-¿Comprar más Hojas?
-
-[LEAF_NOT_ENOUGH_DIALOG_TITLE]
-Hojas insuficientes
-
-[LEAF_NOT_ENOUGH_DIALOG_YES]
-COMPRAR
-
 [LEAVE_AND_SAVE_GAME_BUTTON]
 GUARDAR Y SALIR
 
@@ -27229,7 +27214,7 @@ CANCELAR
 ¿Deseas abrir el cofre por ^3827F5^{PRICE} Joyas^oldclr^?
 
 [LIMITED_GACHA_CONFIRM_TEXT_2]
-¿Deseas abrir el cofre ^FF8000^{PRICE} Boletos^oldclr^?
+¿Deseas abrir el cofre por ^FF8000^{PRICE} Boleto (s)^oldclr^?
 
 [LIMITED_GACHA_CONFIRM_TEXT_NEW_ONE]
 No tienes Boletos suficientes para abrir el cofre. ¿Deseas gastar ^3827F5^{NUMBER} Joyas^oldclr^ en su lugar?
@@ -39903,10 +39888,10 @@ Nivel 5:
 Ronda {NUMBER}
 
 [NEW_PVP_SHOP]
-Tienda de Dueloz
+Tienda VS
 
 [NEW_PVP_SHOP_BUY_CONFIRM]
-¿Quieres gastar {NUMS} Monedaz de Amatista en este artículo?
+¿Deseas comprar este artículo por ^DD7ECB^{NUMS} Monedaz de Amatista^oldclr^?
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_1]
 Cartas legendarias
@@ -48028,29 +48013,19 @@ Debes aceptar nuestro Acuerdo de Usuario y nuestra Política de Privacidad para 
 AVISOS
 
 [PRIVACY_RULE_BTN_TXT]
-Políticas de Privacidad
+Políticas de privacidad
 
 [PRIVACY_RULE_TXT_1]
-Los juegos chinos a menudo suelen recopilar tus datos al igual que las apps como Google para vender tu información personal a los anunciantes web. No es un misterio que todo lo que hablas es grabado y de la nada salen anuncios de ese tema en cuestión. ¿Te ha pasado?
-
-[PRIVACY_RULE_TXT_2]
-¡No temas! Nuestras traducciones vienen junto con una versión modificada para quitarle al juego los permisos que puedan comprometer tu privacidad, no tienes porqué enriquecer a la escoria que se pasa espíandote para venderte productos que no necesitas.
-
-[PRIVACY_RULE_TXT_3]
-Tips para proteger tus datos:
-
-1) Usa una VPN para protegerte cuando realizas actividades en línea
-2) Controla los permisos como el acceso al micrófono o a la cámara a ciertas apps para que no abusen de tu confianza.
-3) No divulgues tus datos en línea, cualquier persona mal intencionada podría robarlos
+Texto aburrido sobre usuarios y sus datos usados para marketing, y blah blah blah...
 
 [PRODUCT_01COLOR_CUSTOMIZATION_68_SHORTDESC]
 Contiene Joyas, recompensas electivas y Puntos cromáticos
 
-[PRODUCT_01LUCKBOX_68_SHORTDESC]
-
-
 [PRODUCT_02COLOR_CUSTOMIZATION_68_SHORTDESC]
 Contiene Joyas, recompensas electivas y Piezas arcoiris
+
+[PRODUCT_01LUCKBOX_68_SHORTDESC]
+
 
 [PRODUCT_02LUCKBOX_68_SHORTDESC]
 
@@ -48077,25 +48052,25 @@ Contiene Joyas, recompensas electivas y Piezas arcoiris
 Regadera
 
 [PRODUCT_ARBORDAYKETTLE_1_SHORTDESC]
-¡1 Regadera!
+¡^FF8000^1^oldclr^ Regadera!
 
 [PRODUCT_ARBORDAYKETTLE_6]
 Regaderas de repuesto
 
 [PRODUCT_ARBORDAYKETTLE_6_SHORTDESC]
-¡6 Regaderas!
+¡^FF8000^6^oldclr^ Regaderas!
 
 [PRODUCT_ARBORDAYKETTLE_30]
 Caja de regaderas
 
 [PRODUCT_ARBORDAYKETTLE_30_SHORTDESC]
-¡30 Regaderas!
+¡^FF8000^30^oldclr^ Regaderas!
 
 [PRODUCT_ARBORDAYKETTLE_68]
 Tesoro de regaderas
 
 [PRODUCT_ARBORDAYKETTLE_68_SHORTDESC]
-¡68 Regaderas!
+¡^FF8000^68^oldclr^ Regaderas!
 
 [PRODUCT_AUTUMN_HARVEST_6_SHORTDESC]
 Paquete básico
@@ -48113,43 +48088,43 @@ Paquete lujoso
 Paquete premium
 
 [PRODUCT_AVATAR_TICKET_6_DESC]
-60 Cupones de Atuendo
+^D22808^60^oldclr^ Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_6_SHORT_DESC]
 Cupones de bolsillo
 
 [PRODUCT_AVATAR_TICKET_30_DESC]
-330 Cupones de Atuendo
+^D22808^330^oldclr^ Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_30_SHORT_DESC]
 Lote de cupones
 
 [PRODUCT_AVATAR_TICKET_68_DESC]
-780 Cupones de Atuendo
+^D22808^780^oldclr^ Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_68_SHORT_DESC]
 Fajo de cupones
 
 [PRODUCT_AVATAR_TICKET_128_DESC]
-1.550 Cupones de Atuendo
+^D22808^1.550^oldclr^ Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_128_SHORT_DESC]
 Regalo de cupones
 
 [PRODUCT_AVATAR_TICKET_328_DESC]
-4.100 Cupones de Atuendo
+^D22808^4.100^oldclr^ Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_328_SHORT_DESC]
 Caja de cupones
 
 [PRODUCT_AVATAR_TICKET_648_DESC]
-8.450 Cupones de Atuendo
+^D22808^8.450^oldclr^ Cupones de Atuendo
 
 [PRODUCT_AVATAR_TICKET_648_SHORT_DESC]
 Tesoro de cupones
 
 [PRODUCT_AVATAR_TICKET_AD_DESC]
-Ve anuncios para ^FF0000^Cupones^oldclr^ gratis
+Ve anuncios para ^D22808^Cupones^oldclr^ gratis
 
 [PRODUCT_AVATAR_TICKET_AD_SHORT_DESC]
 Cupones gratis
@@ -48263,61 +48238,61 @@ Consigue un regalo
 
 
 [PRODUCT_CARNIVAL_6]
-¡6 Cupones de carnaval!
+¡^D22808^6^oldclr^ Cupones de carnaval!
 
 [PRODUCT_CARNIVAL_6_SHORTDESC]
 Cupones de bolsillo
 
 [PRODUCT_CARNIVAL_30]
-¡30 Cupones de carnaval!
+¡^D22808^30^oldclr^ Cupones de carnaval!
 
 [PRODUCT_CARNIVAL_30_SHORTDESC]
 Fajo de cupones
 
 [PRODUCT_CARNIVAL_68]
-¡68 Cupones de carnaval!
+¡^D22808^68^oldclr^ Cupones de carnaval!
 
 [PRODUCT_CARNIVAL_68_SHORTDESC]
 Lote de cupones
 
 [PRODUCT_CARNIVAL_128]
-¡128 Cupones de carnaval!
+¡^D22808^128^oldclr^ Cupones de carnaval!
 
 [PRODUCT_CARNIVAL_128_SHORTDESC]
 Bolsa de cupones
 
 [PRODUCT_CARNIVAL_328]
-¡328 Cupones de carnaval!
+¡^D22808^328^oldclr^ Cupones de carnaval!
 
 [PRODUCT_CARNIVAL_328_SHORTDESC]
 Regalo de cupones
 
 [PRODUCT_CARNIVAL_648]
-¡648 Cupones de carnaval!
+¡^D22808^648^oldclr^ Cupones de carnaval!
 
 [PRODUCT_CARNIVAL_648_SHORTDESC]
 Tesoro de cupones
 
 [PRODUCT_COIN_10000_DESC]
-¡10.000 Monedas!
+¡^DB8117^10.000^oldclr^ Monedas!
 
 [PRODUCT_COIN_10000_SHORT_DESC]
 Bolsito de monedas
 
 [PRODUCT_COIN_20000_DESC]
-¡25.000 Monedas!
+¡^DB8117^25.000^oldclr^ Monedas!
 
 [PRODUCT_COIN_20000_SHORT_DESC]
 Tonel de monedas
 
 [PRODUCT_COIN_40000_DESC]
-¡40.000 Monedas!
+¡^DB8117^40.000^oldclr^ Monedas!
 
 [PRODUCT_COIN_40000_SHORT_DESC]
 Cofre de monedas
 
 [PRODUCT_COIN_AD_DESC]
-Ve anuncios para ^FF0000^Monedas^oldclr^ gratis
+Ve anuncios para ^DB8117^Monedas^oldclr^ gratis
 
 [PRODUCT_COIN_AD_SHORT_DESC]
 Monedas gratis
@@ -48407,37 +48382,37 @@ Lote prémium
 
 
 [PRODUCT_FUEL_5_DESC]
-5 de Combustible
+^00FA9A^5^oldclr^ de Combustible
 
 [PRODUCT_FUEL_5_SHORT_DESC]
 Combustible de reserva
 
 [PRODUCT_FUEL_15_DESC]
-15 de Combustible
+^00FA9A^15^oldclr^ de Combustible
 
 [PRODUCT_FUEL_15_SHORT_DESC]
 Recarga de combustible
 
 [PRODUCT_FUEL_30_DESC]
-30 de Combustible
+^00FA9A^30^oldclr^ de Combustible
 
 [PRODUCT_FUEL_30_SHORT_DESC]
 Arsenal de combustible
 
 [PRODUCT_FUEL_AD_DESC]
-Ve anuncios para ^FF0000^Combustible^oldclr^ gratis
+Ve anuncios para ^00FA9A^Combustible^oldclr^ gratis
 
 [PRODUCT_FUEL_AD_SHORT_DESC]
 Combustibles gratis
 
 [PRODUCT_FUEL_FREE_DESC]
-¡Consigue 5 de Combustible!
+¡Consigue ^00FA9A^5^oldclr^ de Combustible!
 
 [PRODUCT_FUEL_FREE_SHORT_DESC]
 Combustible gratis - VIP
 
 [PRODUCT_GEM_20_DESC_ANDROID]
-¡20 Joyas!
+¡^3827F5^20^oldclr^ Joyas!
 
 [PRODUCT_GEM_20_DESC_ANDROID_EXTRA]
 20 Joyas
@@ -48464,7 +48439,7 @@ Joyas de bolsillo
 Cartera de joyas
 
 [PRODUCT_GEM_100_DESC_ANDROID]
-¡100 Joyas!
+¡^3827F5^100^oldclr^ Joyas!
 
 [PRODUCT_GEM_100_DESC_ANDROID_EXTRA]
 100 Joyas + ^FF0000^10 extra^oldclr^
@@ -48473,7 +48448,7 @@ Cartera de joyas
 Bolsa de Joyas
 
 [PRODUCT_GEM_200_DESC_ANDROID]
-¡200 Joyas!
+¡^3827F5^200^oldclr^ Joyas!
 
 [PRODUCT_GEM_200_DESC_ANDROID_EXTRA]
 200 Joyas + ^FF0000^30 extra^oldclr^
@@ -48482,7 +48457,7 @@ Bolsa de Joyas
 Cofre de Joyas
 
 [PRODUCT_GEM_300_DESC_ANDROID]
-¡300 Joyas!
+¡^3827F5^300^oldclr^ Joyas!
 
 [PRODUCT_GEM_300_DESC_ANDROID_EXTRA]
 300 Joyas + ^FF0000^60 extra^oldclr^
@@ -48629,7 +48604,7 @@ Joyas x8468
 Lote platino extremo
 
 [PRODUCT_GEM_AD_DESC_IOS]
-Ve anuncios para ^FF0000^Joyas^oldclr^ gratis
+Ve anuncios para ^3827F5^Joyas^oldclr^ gratis
 
 [PRODUCT_GEM_AD_REWARD_DESC_FUEL]
 Mira el anuncio y consigue 5 Combustibles.
@@ -49019,58 +48994,58 @@ Lote platinum
 Martillos de reserva
 
 [PRODUCT_SMASHGOLDENEGGS_6_SHORTDESC]
-¡6 Martillos de oro!
+¡^DB8117^6^oldclr^ Martillos de oro!
 
 [PRODUCT_SMASHGOLDENEGGS_30]
 Lote de martillos
 
 [PRODUCT_SMASHGOLDENEGGS_30_SHORTDESC]
-¡30 Martillos de oro!
+¡^DB8117^30^oldclr^ Martillos de oro!
 
 [PRODUCT_SMASHGOLDENEGGS_68]
 Caja de martillos
 
 [PRODUCT_SMASHGOLDENEGGS_68_SHORTDESC]
-¡68 Martillos de oro!
+¡^DB8117^68^oldclr^ Martillos de oro!
 
 [PRODUCT_SMASHGOLDENEGGS_128]
 Tesoro de martillos
 
 [PRODUCT_SMASHGOLDENEGGS_128_SHORTDESC]
-¡128 Martillos de oro!
+¡^DB8117^128^oldclr^ Martillos de oro!
 
 [PRODUCT_SUN_500_DESC]
-¡500 soles!
+¡^FFA500^500^oldclr^ soles!
 
 [PRODUCT_SUN_500_SHORT_DESC]
 Puñado de soles
 
 [PRODUCT_SUN_1000_DESC]
-¡1.000 soles!
+¡^FFA500^1.000^oldclr^ soles!
 
 [PRODUCT_SUN_1000_SHORT_DESC]
 Pila de soles
 
 [PRODUCT_SUN_2000_DESC]
-¡2.000 soles!
+¡^FFA500^2.000^oldclr^ soles!
 
 [PRODUCT_SUN_2000_SHORT_DESC]
 Montaña de soles
 
 [PRODUCT_SUN_3000_DESC]
-¡3.000 soles!
+¡^FFA500^3.000^oldclr^ soles!
 
 [PRODUCT_SUN_3000_SHORT_DESC]
 Lluvia de soles
 
 [PRODUCT_SUN_5000_DESC]
-¡5.000 soles!
+¡^FFA500^5.000^oldclr^ soles!
 
 [PRODUCT_SUN_5000_SHORT_DESC]
 Bóveda de soles
 
 [PRODUCT_SUN_AD_DESC]
-Ve anuncios para ^FF0000^Sol^oldclr^ gratis
+Ve anuncios para ^FFA500^sol^oldclr^ gratis
 
 [PRODUCT_SUN_AD_SHORT_DESC]
 Soles gratis
@@ -49130,25 +49105,25 @@ Lote especial
 Lote prémium
 
 [PRODUCT_Z_AD_DESC]
-Ve anuncios para ^FF0000^Guanteletes^oldclr^ gratis
+Ve anuncios para ^36454F^Guanteletes^oldclr^ gratis
 
 [PRODUCT_Z_AD_SHORT_DESC]
 Guanteletes gratis
 
 [PRODUCT_Z_NUM_1_DESC]
-Compra ^FF0000^1^oldclr^ Guantelete
+^36454F^1^oldclr^ entrada para Batallaz
 
 [PRODUCT_Z_NUM_1_GEM_DESC]
-^FF0000^1^oldclr^ Guantelete por Joyas ^FF0000^(máx. 1 Compra)^oldclr^
+^36454F^1^oldclr^ Guantelete por Joyas ^FF0000^(máx. 1 compra)^oldclr^
 
 [PRODUCT_Z_NUM_1_SHORT_DESC]
 Guantelete
 
 [PRODUCT_Z_NUM_10_DESC]
-Compra ^FF0000^10^oldclr^ Guanteletes
+^36454F^10^oldclr^ entradas para Batallaz
 
 [PRODUCT_Z_NUM_10_SHORT_DESC]
-Guanteletes
+Bolsa de guanteletes
 
 [PROFESSION_PROTECTOR]
 Defensor
@@ -49196,7 +49171,8 @@ No se pudo crear una nueva partida
 AVISOS
 
 [PROGRESS_TIP_TEXT]
-¿Deseas reiniciar tu progreso de la Zona de Infinito? Podrás recuperarlo en una serie de segmentos pero por Joyas.
+¿Deseas reiniciar tu progreso de la Zona de Infinito?
+^FF0000^Podrás recuperarlo en una serie de segmentos pero por Joyas.^oldclr^
 
 [PROMPT_FOR_APP_TRACKING]
 El rastreo posibilita los inicios de sesión de terceros, nos permite ofrecerte anuncios relevantes y bonificados más a menudo y nos ayuda a mejorar la aplicación. Si se desactiva, los inicios de sesión de terceros no funcionarán y los anuncios que veas serán menos relevantes para ti. Sea cual sea la opción que elijas, ¡estamos muy contentos de que uses el juego!
@@ -49278,7 +49254,7 @@ Setabejín
 [PUFFBALL_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
 {KEYWORD}Especial: {STAT}las explosiones consecutivas de Setabejín aumentan el veneno
-{KEYWORD}Características de la seta: {STAT}seta púrpura, familia de setas
+{KEYWORD}Características de la seta: {STAT}seta púrpura
 
 {FLAVOR}"¿Crees que por ser una Setabejín, por ser mullidita, suave, soy insustancial?", se enoja Setabejín. "Tienes que cambiar de forma de pensar. PERO YA".
 
@@ -49932,9 +49908,6 @@ Petardos de Año Nuevo
 [PVZ1MODE_FIRECRACKER_NORMAL_DESC]
 ¡Petardos que sirven tanto de celebración como de destrucción!
 
-[PVZ1MODE_FUEL_NOT_ENOUGH]
-Estabilizador temporal insuficiente.
-
 [PVZ1MODE_GRAVESTONES]
 Lápidas
 
@@ -50442,13 +50415,6 @@ Dimensión del Recuerdo - Nivel {NUM}
 
 [PVZ1_MODE_START_LEVEL_TIPS_TITLE]
 Recompensas
-
-[PVZ1_MODE_TIME_ENERGY_BANK_TIPS_DESC]
-1. Se requiere 1 Estabilizador para jugar Niveles, el número se restablece al día siguiente.
-2. El máximo es 4, puedes comprar más con Joyas sin importar el límite.
-
-[PVZ1_MODE_TIME_ENERGY_BANK_TIPS_TITLE]
-Estabilizador temporal
 
 [PVZ1_ZOMBIE_ZCORP_HELPDESK_DESCRIPTION_HEADER]
 Asistente de ZCorp
@@ -52960,13 +52926,13 @@ Jugador: ^FFFF00^{NAME}^oldclr^
 Elige uno de los siguientes disfraces
 
 [REDPACKETWIDGET_SELECT_TITLE]
-Selección de Atuendos
+Selección de atuendos
 
 [REDPACKET_INFO]
-Recibes ^A4FFA4^{STR}^oldclr^ ^FFCC00^Sobres rojos^oldclr^.
+Tu premio: ^D22808^Sobres rojos x{STR}^oldclr^
 
 [REDPACK_ACTIVE_TIME]
-Horario: del 13 al 24 de febrero.
+Horario: 13-24 de febrero
 
 [REDPACK_BTN_BUY]
 COMPRAR
@@ -52978,7 +52944,7 @@ COMPRAR
 Toca para abrir tus sobres.
 
 [REDPACK_DEFAULT_COUNT]
-Sobres rojos x0
+Sin sobres
 
 [REDPACK_DESC]
 ¡Recibes plantas limitadas del Festival de primavera, plantas épicas, legendarias y mucho más!
@@ -52990,16 +52956,16 @@ Descripción
 DESCRIPCIÓN DEL EVENTO
 
 [REDPACK_LEADERBOARD]
-Lista Clasif. de Sobres rojos
+Lista clasificatoria
 
 [REDPACK_LEADERBOARD_BACK]
 ATRÁS
 
 [REDPACK_LEADERBOARD_GET]
-Recoger premios
+RECLAMAR
 
 [REDPACK_LEADERBOARD_NAME]
-Jugadores
+Jugador
 
 [REDPACK_LEADERBOARD_PREVIEW]
 Ver premios
@@ -53030,7 +52996,7 @@ PUESTO           PIEZAS              COLGANTES
 501-1.000         10                 Barril de pólvora
 
 [REDPACK_LEADERBOARD_RANK]
-Clasificación
+Ranking
 
 [REDPACK_LEADERBOARD_SCORE]
 Sobres abiertos
@@ -53045,14 +53011,14 @@ Sobre rojo
 ABRIR
 
 [REDPACK_OPEN_TOTAL]
-Sobres abiertos: {REDPACK_COUNT}
+^D22808^Sobres abiertos: {REDPACK_COUNT}^oldclr^
 
 [REDPACK_PURCHASE_SUCCESS]
-¡Compra realizada con éxito!
-Obtienes {REDPACK_COUNT} Sobres rojos.
+¡Compra existosa!
+^D22808^{REDPACK_COUNT} Sobres^oldclr^ conseguidos.
 
 [REDPACK_TITLE]
-Apertura de Sobres Rojos
+Apertura de Sobres rojos
 
 [REDSTINGER]
 Aguijón rojo
@@ -53424,10 +53390,10 @@ Revisar
 Misión fallida...
 
 [REVIVE_TIP]
-REVIVIR
+AVISOS
 
 [REWARD_GET_TIP]
-PREMIOS
+AVISOS
 
 [REWARD_GET_TIP_FAILED]
 No se pudo reclamar la recompemsa
@@ -53488,16 +53454,10 @@ RANGO     PUNTUACIÓN           TITULO              PREMIO
 Reglas de recompensas:
 
 [REWARD_TYPE_COIN]
-Moneda
+Monedas
 
 [REWARD_TYPE_GEM]
-Joya
-
-[REWARD_TYPE_LEAF]
-Hojas
-
-[REWARD_TYPE_STONE]
-Reliquia del espacio-tiempo
+Joyas
 
 [REWARD_UNAVAILABLE_DIALOG_DESCRIPTION]
 Lo sentimos, en estos momentos no hay anuncios disponibles. Inténtalo más tarde.
@@ -62533,38 +62493,6 @@ La producción solar se reduce en un 70%
 [SPRING_TIME_COUNT]
 Tiempo res.:
 
-[NOTICE_TITLE_TEXT]
-#update
-
-[NOTICE_CONTENT_FIRST]
-• Notas de la actualización 4.0.0
-
-^E2725B^- Nuevas plantas: Casia dorada y Loto blanco^oldclr^
-
-Nuevas plantas se unen a la lucha.
-¡Hazte con ellas jugando a los eventos o gastando dinero en la Tienda!
-
-^E2725B^- Nuevo modo CO-OP: Grieta temporal^oldclr^
-
-Modo cooperativo por tiempo limitado.
-¡Únete a la lucha con otros jugadores y derrota a los Jefes para ganar premios!
-
-^E2725B^- Tierras ocultas: Mausoleo de Qin^oldclr^
-
-El Mausoleo de Qin Shin Huang abre sus puertas, ¿podrás vencerlo?
-
-^E2725B^- Festival de primavera^oldclr^
-
-Huevos de Oro: obtén premios raros por tan solo 1 元.
-Sobres rojos: ábrelos para conseguir recompensas únicas.
-Cajas de atuendo: consigue atuendos exclusivos de Año Nuevo.
-Bolsas de Año Nuevo: personaliza el contenido de tus bolsas con las plantas de tu elección.
-
-[SPEAKER_LENOVO_ONE]
-^E2725B^Salón de eventos^oldclr^
-
-Toca en el banner inferior izquierdo para participar en los eventos.
-
 [SPRING_LOADING_TEXT_1]
 ^00FA9A^Cargando...^oldclr^
 
@@ -64778,21 +64706,6 @@ Nivel 5
 [STICKYBOMBRICE_TOOLTIP]
 Arroja bombas de arroz pegajosas
 
-[STONE_NOT_ENOUGH_DIALOG_TEXT]
-¿Conseguir más Reliquias del espacio-tiempo?
-
-[STONE_NOT_ENOUGH_DIALOG_TITLE]
-Reliquias del espacio-tiempo insuficientes
-
-[STONE_NOT_ENOUGH_DIALOG_YES]
-Obtener reliquias del espacio-tiempo
-
-[STONE_STORE_REFRESH]
-Autorefrescar
-
-[STONE_STORE_REFRESH_IMM]
-Refrescar
-
 [STOP_HERE]
 ¡Detente!
 
@@ -64830,97 +64743,97 @@ Sin anuncios
 Quita los molestos anuncios
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_DESC]
-Compra un Paquete de Regalo de Artefactos.
+Compra un lote de Artefactos.
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC]
-Paquete de Artefactos
+Lotes de Artefactos
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_1]
-Paquete caótico
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_2]
-Paquete eléctrico
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_3]
-Paquete de Energía
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_4]
-Paquete de Energía II
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_5]
-Paquete de Energía III
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_6]
-Paquete de Pulpotech
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_7]
-Paquete espacio-temporal
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_8]
-Paquete pirotécnico
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_9]
-Paquete extraterrestre
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_10]
-Paquete degradador
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_11]
-Paquete solar
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_12]
-Paquete primitivo
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_13]
-Paquete cósmico
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_14]
-Paquete de metoros
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_15]
-Paquete mágico
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_16]
-Paquete colmena
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_17]
-Paquete de Artefactos
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_18]
-Paquete ácido
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_19]
-Paquete ventisquero
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_20]
-Paquete dimensional
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_21]
-Minilote de mej.
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_22]
-Paquete de mej.
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_23]
-Superlote de mej.
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_24]
-Paquete de Poseidón
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_25]
-Paquete clonador
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_26]
-Paquete clonador II
+
 
 [STORE_CATEGORY_NAME_ARTIFACT_PRESENT_SHORT_DESC_27]
-Paquete del león
+
 
 [STORE_CATEGORY_NAME_AVATARS]
 Atuendos
 
 [STORE_CATEGORY_NAME_AVATARTICKET]
-Canjear Atuendos
+Canjear atuendos
 
 [STORE_CATEGORY_NAME_AVATAR_TICKET]
 Cupones
@@ -64931,32 +64844,8 @@ Lotes
 [STORE_CATEGORY_NAME_COINS]
 Monedas
 
-[STORE_CATEGORY_NAME_DUMPLING1_DESC]
-Compra un Dumpling
-
-[STORE_CATEGORY_NAME_DUMPLING1_SHORT_DESC]
-Dumplings x1
-
-[STORE_CATEGORY_NAME_DUMPLING10_DESC]
-Compra 10 Dumplings
-
-[STORE_CATEGORY_NAME_DUMPLING10_SHORT_DESC]
-Dumplings x10
-
-[STORE_CATEGORY_NAME_EVENT1_DESC]
-Tienes pocas probabilidades de obtener Piezas de plantas y Atuendos.
-
-[STORE_CATEGORY_NAME_EVENT1_SHORT_DESC]
-Abre un Cofre.
-
-[STORE_CATEGORY_NAME_EVENT10_DESC]
-Tienes grandes probabilidades de obtener Piezas de plantas y Atuendos.
-
-[STORE_CATEGORY_NAME_EVENT10_SHORT_DESC]
-Abre 10 Cofres.
-
 [STORE_CATEGORY_NAME_FUEL]
-: Combustible de Penny
+: Combustible
 
 [STORE_CATEGORY_NAME_GACHA]
 Cofres
@@ -64970,35 +64859,29 @@ Bolsas de Año Nuevo
 [STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]
 Consigue Bolsas de Año Nuevo
 
-[STORE_CATEGORY_NAME_LUCKYLEAF_DESC]
-: Hojas de la suerte
-
-[STORE_CATEGORY_NAME_LUCKYLEAF_SHORT_DESC]
-Abre Hojas para canjearla por premios alucinantes.
-
 [STORE_CATEGORY_NAME_MYSTERY]
-: Rubíes misteriosos
+: Rubíes
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_DESC]
-Compra un paquete de regalo para principiantes.
+Compra el lote para principiantes.
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_1]
-Paquete de Brujalabaza
+
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_2]
-Paquete de Girasol primitivo
+
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_3]
-Paquete de Kiwimono
+
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_4]
-Paquete de Dátil ardiente
+
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_5]
-Paquete de Uva de Racimo
+
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_6]
-Paquete de Reina flor de fuego
+
 
 [STORE_CATEGORY_NAME_NEWRECALL_BANK_SHORT_DESC]
 
@@ -65019,79 +64902,73 @@ Paquete de Reina flor de fuego
 
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK]
-: Guía avanzada
+Guía avanzada
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK_SHORT_DES]
-¡Compra una Guía de Penny avanzada!
+¡Hazte con la Guía avanzada de Penny!
 
 [STORE_CATEGORY_NAME_PIGGY_BANK_SHORT_DESC]
-La Hucha de los Ahorros
+Hucha de ahorros
 
 [STORE_CATEGORY_NAME_PLANTS]
 Plantas
 
-[STORE_CATEGORY_NAME_PLANTS_STONE]
-La Tienda de Piedra
-
 [STORE_CATEGORY_NAME_PLANT_SPECIAL_OFFER_DESC]
-Compra un paquete de plantas
+¡Lotes de plantas en oferta!
 
 [STORE_CATEGORY_NAME_PLANT_SPECIAL_OFFER_SHORT_DESC]
-: Paquete de plantas
-
-[STORE_CATEGORY_NAME_PVZ1MODE_TIME_ENERGY]
-: Estabilizador temporal
+Lotes de plantas
 
 [STORE_CATEGORY_NAME_REDPACK]
-: Sobres rojos
+Sobres rojos
 
 [STORE_CATEGORY_NAME_REDPACK1_DESC]
-Consigue un Sobre rojo.
+¡^D22808^1^oldclr^ Sobre rojo!
 
 [STORE_CATEGORY_NAME_REDPACK1_SHORT_DESC]
 x1
 
 [STORE_CATEGORY_NAME_REDPACK10_DESC]
-Consigue 10 Sobres rojos.
+¡^D22808^10^oldclr^ Sobres rojos!
 
 [STORE_CATEGORY_NAME_REDPACK10_SHORT_DESC]
 x10
 
 [STORE_CATEGORY_NAME_RICHMAN_1]
-Paquete de teatro
+Electronutriente
 
 [STORE_CATEGORY_NAME_RICHMAN_12]
-Paquete de teatro especial
+Pack eléctrico
 
 [STORE_CATEGORY_NAME_RICHMAN_88]
-Paquete de teatro supremo
+Super-pack eléctrico
 
 [STORE_CATEGORY_NAME_RICHMAN_168]
-Paquete de teatro lujoso
+Cofre de Electronutrientes
 
 [STORE_CATEGORY_NAME_RICHMAN_248]
-Paquetes de teatro legendario.
+Tesoro eléctrico
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_1]
-Consigue un Paquete de regalo de teatro.
+^E2725B^1^oldclr^ ronda para el teatro
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_12]
-Consigue un Paquete de regalo de teatro especial.
+^E2725B^12^oldclr^ ronda para el teatro
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_88]
-Consigue un Paquete de regalo de teatro supremo.
+^E2725B^88^oldclr^ ronda para el teatro
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_168]
-Consigue un Paquete de regalo de teatro de lujo.
+^E2725B^168^oldclr^ ronda para el teatro
 
 [STORE_CATEGORY_NAME_RICHMAN_SHORT_DESC_248]
-Consigue un Paquete de regalo de teatro legendario.
+^E2725B^248^oldclr^ ronda para el teatro
 
 [STORE_CATEGORY_NAME_SECRET_GACHA]
 Tesoro
 
 [STORE_CATEGORY_NAME_SECRET_STORE_DESC]
-Selecciona el Paquete a comprar.
+Selecciona el paquete deseado.
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_1]
 Paquete pequeño
@@ -65106,55 +64983,34 @@ Paquete prémium
 Paquete de cortesía
 
 [STORE_CATEGORY_NAME_SECRET_STORE_SHORT_DESC_5]
-Paquete Top
+Paquete top
 
 [STORE_CATEGORY_NAME_SECRET_TREASURE]
-Mapa del tesoro prémium
+Mapa prémium
 
 [STORE_CATEGORY_NAME_SECRET_TREASURE_SHORT_DESC_6]
-Compra el mapa del tesoro prémium para obtener privilegios exclusivos
+Compra el mapa prémium para obtener tesoros exclusivos.
 
 [STORE_CATEGORY_NAME_SUNS]
 Soles
 
-[STORE_CATEGORY_NAME_TREASURE_DESC]
-Tesoro de Penny
-
-[STORE_CATEGORY_NAME_TREASURE_SHORT_DESC]
-Es posible obtener todas las plantas aquí.
-
 [STORE_CATEGORY_NAME_VIOLET_GOLD1_DESC]
-Compra un Paquete pequeño de Monedas púrpuras.
+Monedas de bolsillo
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD1_SHORT_DESC]
-Contiene Monedas x6000 y Monedas púrpuras x60.
+^DB8117^6.000 de oro^oldclr^ y ^DD7ECB^60 púrpuras^oldclr^
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD2_DESC]
-Compra un Paquete mediano de Monedas púrpuras.
+Bolsa de monedas
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD2_SHORT_DESC]
-Contiene Monedas x30000 y Monedas púrpuras x300.
+^DB8117^30.000 de oro^oldclr^ y ^DD7ECB^300 púrpuras^oldclr^
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD3_DESC]
-Compra un Paquete grande de Monedas púrpuras.
+Tesoro de monedas
 
 [STORE_CATEGORY_NAME_VIOLET_GOLD3_SHORT_DESC]
-Contiene Monedas x396000 y Monedas púrpura x3960.
-
-[STORE_CATEGORY_NAME_ZONGZI]
-: Albóndigas mágicas
-
-[STORE_CATEGORY_NAME_ZONGZI1_DESC]
-Compra 1 Pinza
-
-[STORE_CATEGORY_NAME_ZONGZI1_SHORT_DESC]
-Pinzas x1
-
-[STORE_CATEGORY_NAME_ZONGZI10_DESC]
-Compra 10 Pinzas
-
-[STORE_CATEGORY_NAME_ZONGZI10_SHORT_DESC]
-Pinzas x10
+^DB8117^396.000 de oro^oldclr^ y ^DD7ECB^3.960 púrpuras^oldclr^
 
 [STORE_CATEGORY_NAME_ZTICKET]
 : Guanteletes
@@ -65166,7 +65022,7 @@ Plantas
 Promociones
 
 [STORE_CATEGORY_REMAINING_TIME]
-Termina en: ^A0C0FF^ {DURATION}
+Termina en: ^A0C0FF^{DURATION}^oldclr^
 
 [STORE_CATEGORY_TICKETS]
 Boletos
@@ -65177,587 +65033,8 @@ Tutorial
 [STORE_CATEGORY_UPGRADES]
 Mejoras
 
-[STORE_COINS_CURRENT_PROFILE]
-Las monedas que compres en la tienda solo servirán para el perfil actual
-
 [STORE_COMING_SOON]
 PRÓXIMAMENTE...
-
-[STORE_COSTUMES_CURRENT_PROFILE]
-Solo comprarás los atuendos para el perfil actual
-
-[STORE_FEATURE_PLANT_CURRENT_PROFILE]
-¿Te gusta esta planta? ¡Añádela a tu jardín para fastidiar a los zombis!
-
-[STORE_GEMS_CURRENT_PROFILE]
-Las joyas que compres en la tienda solo las adquirirá el perfil actual
-
-[STORE_GIFT_DIALOG_CONTENT_NO_PLNAT]
-¿Aún no has desbloqueado a la planta?
-Desbloquéala aquí mismo junto con su Atuendo.
-
-[STORE_GIFT_DIALOG_DAY_ONE_TYPE_ONE]
-¡Paquete del día del evento con descuento! Precio original: ^00FF00 %d Monedas ^oldclr!
-El paquete sólo requiere de ^00FF00 %d Monedas ^oldclr para ser desbloqueado.
-
-[STORE_GIFT_DIALOG_DAY_ONE_TYPE_TWO]
-¡Paquete del día del evento con descuento! Precio original: ^00FF00 %d Monedas ^oldclr!
-El paquete sólo requiere de ^00FF00 %d Monedas ^oldclr para ser desbloqueado.
-
-[STORE_GIFT_DIALOG_OTHERDAY_TYPE_FIVE]
-¡Paquete del día del evento con descuento! Precio original: ^00FF00 %d Monedas ^oldclr!
-El paquete sólo requiere de^00FF00 %d Monedas ^oldclr para ser desbloqueado.
-
-[STORE_GIFT_DIALOG_OTHERDAY_TYPE_FOUR]
-¡Paquete del día del evento con descuento! Precio original: ^00FF00 %d Joyas ^oldclr!
-El paquete sólo requiere de^00FF00 %d Joyas ^oldclr para ser desbloqueado.
-
-[STORE_GIFT_DIALOG_OTHERDAY_TYPE_ONE]
-¡Paquete del día del evento con descuento! Precio original: ^00FF00 %d Joyas ^oldclr!
-El paquete sólo requiere de ^00FF00 %d Joyas ^oldclr para ser desbloqueado.
-
-[STORE_GIFT_DIALOG_OTHERDAY_TYPE_SEVEN]
-¡Paquete del día del evento con descuento! Precio original: ^00FF00 %d Joyas ^oldclr!
-El paquete sólo requiere de^00FF00 %d Joyas ^oldclr para ser desbloqueado.
-
-[STORE_GIFT_DIALOG_OTHERDAY_TYPE_SIX]
-¡Paquete del día del evento con descuento! Precio original: ^00FF00 %d Monedas ^oldclr!
-El paquete sólo requiere de^00FF00 %d Monedas ^oldclr para ser desbloqueado.
-
-[STORE_GIFT_DIALOG_OTHERDAY_TYPE_THREE]
-¡Paquete del día del evento con descuento! Precio original: ^00FF00 %d Joyas ^oldclr!
-El paquete sólo requiere de ^00FF00 %dJoyas ^oldclr para ser desbloqueado.
-
-[STORE_GIFT_DIALOG_OTHERDAY_TYPE_TWO]
-¡Paquete del día del evento con descuento! Precio original: ^00FF00 %d Joyas ^oldclr!
-El paquete sólo requiere de ^00FF00 %d Joyas ^oldclr para ser desbloqueado.
-
-[STORE_GIFT_DIALOG_TITLE_BUY_IT]
-COMPRAR
-
-[STORE_GIFT_DIALOG_TITLE_NO_PLNAT]
-Aún no hay plantas
-
-[STORE_GIFT_LABORDAY_ACORN_GIFT]
-Paquete de Torbellota
-
-[STORE_GIFT_LABORDAY_ACORN_GIFT_DESC]
-Consigue a Torbellota + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_ANTHURIUM_GIFT]
-Paquete de Anturio
-
-[STORE_GIFT_LABORDAY_ANTHURIUM_GIFT_DESC]
-Consigue a Anturio ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_ASPARAGUS_GIFT]
-Paquete de Cadete espárrago
-
-[STORE_GIFT_LABORDAY_ASPARAGUS_GIFT_DESC]
-Consigue a Cadete espárrago ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_BAMBOO_GIFT]
-Paquete de Brote de bambú
-
-[STORE_GIFT_LABORDAY_BAMBOO_GIFT_DESC]
-Consigue a Brote de bambú + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_BANANA_GIFT]
-Paquete de Lanzaplátanos
-
-[STORE_GIFT_LABORDAY_BANANA_GIFT_DESC]
-Consigue a Lanzaplátanos + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_BLOOMERANG_GIFT]
-Paquete de Búmeran
-
-[STORE_GIFT_LABORDAY_BLOOMERANG_GIFT_DESC]
-Consigue a Búmeran + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_BONKCHOY_GIFT]
-Paquete de Bonk Choi
-
-[STORE_GIFT_LABORDAY_BONKCHOY_GIFT_DESC]
-Consigue a Bonk Choi + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_BOWLINGBULB_GIFT]
-Paquete de Bulbo de bolera
-
-[STORE_GIFT_LABORDAY_BOWLINGBULB_GIFT_DESC]
-Consigue a Bulbo de bolera + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_BROCCOLI_GIFT]
-Paquete de Brocoli vigoroso
-
-[STORE_GIFT_LABORDAY_BROCCOLI_GIFT_DESC]
-Consigue a Brocoli vigoroso + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_CABBAGEPULT_GIFT]
-Paquete de Coltapulta
-
-[STORE_GIFT_LABORDAY_CABBAGEPULT_GIFT_DESC]
-Consigue a Coltapulta ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_CARROTLAUNCHER_GIFT]
-Paquete de Zanahortillería
-
-[STORE_GIFT_LABORDAY_CARROTLAUNCHER_GIFT_DESC]
-Consigue a Zanahortillería + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_CHEERBOOM_DESC]
-¡Consigue el Atuendo de Petacereza!
-
-[STORE_GIFT_LABORDAY_CHEERBOOM_DESC_NO_PLANT]
-¿Aún no has desbloqueado a Petacereza?
-¡Consíguela aquí mismo junto con su Atuendo!
-
-[STORE_GIFT_LABORDAY_CHERRYBOOM_GIFT]
-Paquete de Petacereza
-
-[STORE_GIFT_LABORDAY_CHERRYBOOM_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Petacereza!
-
-[STORE_GIFT_LABORDAY_CHERRYBOOM_GIFT_DESC]
-Contiene el Atuendo de Petacereza ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_CHESTNUT_GIFT]
-Paquete de Escuadrón castañita
-
-[STORE_GIFT_LABORDAY_CHESTNUT_GIFT_DESC]
-Consigue a Escuadrón castañita + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_CHILIBEAN_GIFT]
-Paquete de Frijol
-
-[STORE_GIFT_LABORDAY_CHILIBEAN_GIFT_DESC]
-Consigue a Frijol + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_CHOMPER_GIFT]
-Paquete de Planta carnívora
-
-[STORE_GIFT_LABORDAY_CHOMPER_GIFT_DESC]
-Consigue a planta carnívora + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_CITRON_GIFT]
-Paquete de Pomelo
-
-[STORE_GIFT_LABORDAY_CITRON_GIFT_DESC]
-Consigue a Pomelo + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_COCONUTCANNON_GIFT]
-Paquete de Cococañón
-
-[STORE_GIFT_LABORDAY_COCONUTCANNON_GIFT_DESC]
-Consigue a Cococañón + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_CRACKER_GIFT]
-Paquete de Bambú explosivo
-
-[STORE_GIFT_LABORDAY_CRACKER_GIFT_DESC]
-Consigue a Bambú explosivo + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_DANDELION_GIFT]
-Paquete de Diente de león
-
-[STORE_GIFT_LABORDAY_DANDELION_GIFT_DESC]
-Consigue a Diente de león + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_DOUBLESAMARA_GIFT]
-Paquete de Níspero ciclónico
-
-[STORE_GIFT_LABORDAY_DOUBLESAMARA_GIFT_DESC]
-Consigue a Níspero ciclónico. ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_FIREGOURD_GIFT]
-Paquete de Calabaza de fuego
-
-[STORE_GIFT_LABORDAY_FIREGOURD_GIFT_DESC]
-Consigue a Calabaza de fuego + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_FIRESHROOM_GIFT]
-Paquete de Seta pirómana
-
-[STORE_GIFT_LABORDAY_FIRESHROOM_GIFT_DESC]
-Consigue a Seta pirómana + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_FIVE_GIFT]
-Paquete de Junco eléctrico y Plantorcha
-
-[STORE_GIFT_LABORDAY_FIVE_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Junco eléctrico y Plantorcha!
-
-[STORE_GIFT_LABORDAY_FIVE_GIFT_DESC]
-Junco eléctrico + Plantorcha ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_FOUR_GIFT]
-Paquete de Vaina + Atuendo
-
-[STORE_GIFT_LABORDAY_FOUR_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Vaina + Atuendo!
-
-[STORE_GIFT_LABORDAY_FOUR_GIFT_DESC]
-Vaina + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_FUMESHROOM_GIFT]
-Paquete de Humoseta
-
-[STORE_GIFT_LABORDAY_FUMESHROOM_GIFT_DESC]
-Consigue a Humoseta + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_GROUDCHERRY_GIFT]
-Paquete de Cereza iluminada
-
-[STORE_GIFT_LABORDAY_GROUDCHERRY_GIFT_DESC]
-Consigue a Cereza iluminada ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_GUACODILE_GIFT]
-Paquete de Guacadrilo
-
-[STORE_GIFT_LABORDAY_GUACODILE_GIFT_DESC]
-Consigue a Guacadrilo + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_HOLONUT_GIFT]
-Paquete de Nuez infinita
-
-[STORE_GIFT_LABORDAY_HOLONUT_GIFT_DESC]
-Consigue a Nuez infinita + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_HOMINGTHISTLE_GIFT]
-Paquete de Cardo teledirigido
-
-[STORE_GIFT_LABORDAY_HOMINGTHISTLE_GIFT_DESC]
-Consigue a Cardo teledirigido + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_HOSERBEAN_GIFT]
-Paquete de Comandante habas
-
-[STORE_GIFT_LABORDAY_HOSERBEAN_GIFT_DESC]
-Consigue a Comandante habas ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_HYPNOSHROOM_GIFT]
-Paquete de Hipnoseta
-
-[STORE_GIFT_LABORDAY_HYPNOSHROOM_GIFT_DESC]
-Consigue a Hipnoseta + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_ICEBURG_DESC]
-¡Consigue el Atuendo de Lechuga iceberg!
-
-[STORE_GIFT_LABORDAY_ICEBURG_DESC_NO_PLANT]
-¿Aún no has desbloqueado a Lechuga iceberg?
-¡Consíguela aquí mismo junto con su Atuendo!
-
-[STORE_GIFT_LABORDAY_ICEBURG_GIFT]
-Paquete del Atuendo de Lechuga Iceberg
-
-[STORE_GIFT_LABORDAY_ICEBURG_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete del Atuendo de Lechuga Iceberg!
-
-[STORE_GIFT_LABORDAY_ICEBURG_GIFT_DESC]
-Contiene el Atuendo de Lechuga iceberg ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_ICESHROOM_GIFT]
-Paquete de Seta criogénica
-
-[STORE_GIFT_LABORDAY_ICESHROOM_GIFT_DESC]
-Consigue a Seta criogénica + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_KERNELPULT_GIFT]
-Paquete de Lanzamaíz
-
-[STORE_GIFT_LABORDAY_KERNELPULT_GIFT_DESC]
-Consigue a Lanzamaíz + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_LASERBEAN_GIFT]
-Paquete de Frijol láser
-
-[STORE_GIFT_LABORDAY_LASERBEAN_GIFT_DESC]
-Consigue a Frijol láser ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_LASER_BEAN_GIFT]
-Paquete de Frijol láser
-
-[STORE_GIFT_LABORDAY_LASER_BEAN_GIFT_DESC]
-Consigue a Frijol láser + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_LEMON_GIFT]
-Paquete de Limón ácido
-
-[STORE_GIFT_LABORDAY_LEMON_GIFT_DESC]
-Consigue a Limón ácido + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_LIGHTNINGREED_GIFT]
-Paquete de Junco eléctrico
-
-[STORE_GIFT_LABORDAY_LIGHTNINGREED_GIFT_DESC]
-Consigue a Junco eléctrico + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_LOTUSSHOWER_GIFT]
-Paquete de Vaina de loto
-
-[STORE_GIFT_LABORDAY_LOTUSSHOWER_GIFT_DESC]
-Consigue a Vaina de loto + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_MAGNETSHROOM_GIFT]
-Paquete de Magnetoseta
-
-[STORE_GIFT_LABORDAY_MAGNETSHROOM_GIFT_DESC]
-Consigue a Magnetoseta + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_MAGNIFYINGGRASS_GIFT]
-Paquete de Hierba lupa
-
-[STORE_GIFT_LABORDAY_MAGNIFYINGGRASS_GIFT_DESC]
-Consigue a Hierba lupa + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_MELONPULT_GIFT]
-Paquete de Melonpulta
-
-[STORE_GIFT_LABORDAY_MELONPULT_GIFT_DESC]
-Consigue a Melonpulta + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_OAKSHOOTER_GIFT]
-Paquete de Roble arquero
-
-[STORE_GIFT_LABORDAY_OAKSHOOTER_GIFT_DESC]
-Consigue a Roble arquero + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_ONE_GIFT]
-Paquete de Melonpulta Congelada y Nuez cáscara-rabias
-
-[STORE_GIFT_LABORDAY_ONE_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Melonpulta Congelada y Nuez cáscara-rabias!
-
-[STORE_GIFT_LABORDAY_ONE_GIFT_DESC]
-Melonpulta congelada + Nuez cáscara-rabias ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_PAMEGRANATE_GIFT]
-Paquete de Granada metralla
-
-[STORE_GIFT_LABORDAY_PAMEGRANATE_GIFT_DESC]
-Consigue a Granada metralla + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_PEACH_GIFT]
-Paquete de Durazno celestial
-
-[STORE_GIFT_LABORDAY_PEACH_GIFT_DESC]
-Consigue a Durazno celestial + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_PEANUT_GIFT]
-Paquete de Cacahuate
-
-[STORE_GIFT_LABORDAY_PEANUT_GIFT_DESC]
-Consigue a Cacahuate + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_PEAPOD_GIFT]
-Paquete de Vaina
-
-[STORE_GIFT_LABORDAY_PEAPOD_GIFT_DESC]
-Consigue a Vaina + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_PEASHOOTER_GIFT]
-Paquete de Lanzaguisantes
-
-[STORE_GIFT_LABORDAY_PEASHOOTER_GIFT_DESC]
-Consigue a Lanzaguisantes + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_PEPPERPULT_GIFT]
-Paquete de Lanzachiles
-
-[STORE_GIFT_LABORDAY_PEPPERPULT_GIFT_DESC]
-Consigue a Lanzachiles + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_PINEAPPLE_GIFT]
-Paquete de Piña giratoria
-
-[STORE_GIFT_LABORDAY_PINEAPPLE_GIFT_DESC]
-Consigue a Piña giratoria ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_PUFFSHROOM_GIFT]
-Paquete de Seta desesporada
-
-[STORE_GIFT_LABORDAY_PUFFSHROOM_GIFT_DESC]
-Consigue a Seta deseporada + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_RAFFLESIA_GIFT]
-Paquete de Rafflesia
-
-[STORE_GIFT_LABORDAY_RAFFLESIA_GIFT_DESC]
-Consigue a Rafflesia + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_REPEATER_GIFT]
-Paquete de Repetidora
-
-[STORE_GIFT_LABORDAY_REPEATER_GIFT_DESC]
-Consigue a Repetidora + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SAUCER_GIFT]
-Paquete de Calabacín de platillo
-
-[STORE_GIFT_LABORDAY_SAUCER_GIFT_DESC]
-Consigue a Calabacín de platillo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SEVEN_GIFT]
-Paquete de Lanzamaíz + Atuendo
-
-[STORE_GIFT_LABORDAY_SEVEN_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Lanzamaíz + Atuendo!
-
-[STORE_GIFT_LABORDAY_SEVEN_GIFT_DESC]
-Lanzamaíz + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SIX_GIFT]
-Paquete de Calabaza de fuego y Durazno celestial
-
-[STORE_GIFT_LABORDAY_SIX_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Calabaza de fuego y Durazno celestial!
-
-[STORE_GIFT_LABORDAY_SIX_GIFT_DESC]
-Calabaza de Fuego + Durazno celestial ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT]
-Paquete de Boca de dragón
-
-[STORE_GIFT_LABORDAY_SNAPDRAGON_GIFT_DESC]
-Consigue a Boca de dragón + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SNOWPEA_GIFT]
-Paquete de Hielaguisantes
-
-[STORE_GIFT_LABORDAY_SNOWPEA_GIFT_DESC]
-Consigue a Hielaguisantes + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SPLITPEA_GIFT]
-Paquete de Bipetidora
-
-[STORE_GIFT_LABORDAY_SPLITPEA_GIFT_DESC]
-Consigue a Bipetidora + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SPRINGBEAN_GIFT]
-Paquete de Frijuelle
-
-[STORE_GIFT_LABORDAY_SPRINGBEAN_GIFT_DESC]
-Consigue a Frijuelle + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SQUASH_GIFT]
-Paquete de Apisonaflor
-
-[STORE_GIFT_LABORDAY_SQUASH_GIFT_DESC]
-Consigue a Apisonaflor + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_STARFRUIT_GIFT]
-Paquete de Frustrella
-
-[STORE_GIFT_LABORDAY_STARFRUIT_GIFT_DESC]
-Consigue a Frutrella + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SUNFLOWER_GIFT]
-Paquete de Girasol
-
-[STORE_GIFT_LABORDAY_SUNFLOWER_GIFT_DESC]
-Consigue a Girasol + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_SUNSHROOM_GIFT]
-Paquete de Seta solar
-
-[STORE_GIFT_LABORDAY_SUNSHROOM_GIFT_DESC]
-Consigue a Seta solar + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_TALLNUT_GIFT]
-Paquete de Nuez cáscara-rabias
-
-[STORE_GIFT_LABORDAY_TALLNUT_GIFT_DESC]
-Consigue a Nuez cáscara-rabias + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_TANGLEKELP_GIFT]
-Paquete de Zampalga
-
-[STORE_GIFT_LABORDAY_TANGLEKELP_GIFT_DESC]
-Consigue a Zampalga + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_THREEPEATER_DESC]
-¡Consigue el Atuendo de Tripitidora!
-
-[STORE_GIFT_LABORDAY_THREEPEATER_DESC_NO_PLANT]
-¿Aún no has desbloqueado a Tripitidora?
-¡Consíguela aquí mismo junto con su Atuendo!
-
-[STORE_GIFT_LABORDAY_THREEPEATER_GIFT]
-Paquete de Tripitidora
-
-[STORE_GIFT_LABORDAY_THREEPEATER_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Tripitidora!
-
-[STORE_GIFT_LABORDAY_THREEPEATER_GIFT_DESC]
-Consigue a Tripitidora + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_THREE_GIFT]
-Paquete de Cococañón + Atuendo
-
-[STORE_GIFT_LABORDAY_THREE_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Cococañón + Atuendo!
-
-[STORE_GIFT_LABORDAY_THREE_GIFT_DESC]
-Cococañón + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_TORCHWOOD_GIFT]
-Paquete de Plantorcha
-
-[STORE_GIFT_LABORDAY_TORCHWOOD_GIFT_DESC]
-Consigue a Plantorcha + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_TURNIP_GIFT]
-Paquete de Rábano blanco
-
-[STORE_GIFT_LABORDAY_TURNIP_GIFT_DESC]
-Consigue a Rábano blanco + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_TWINSUNFLOWER_GIFT]
-Paquete de Birasol
-
-[STORE_GIFT_LABORDAY_TWINSUNFLOWER_GIFT_DESC]
-Consigue a Birasol + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_TWO_GIFT]
-Paquete de Atuendos para Repetidora y Bonk Choi
-
-[STORE_GIFT_LABORDAY_TWO_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Atuendos para Repetidora y Bonk Choi!
-
-[STORE_GIFT_LABORDAY_TWO_GIFT_DESC]
-Atuendo de Repetidora + Atuendo de Bonk Choi ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_WALLNUT_GIFT]
-Paquete de Nuez
-
-[STORE_GIFT_LABORDAY_WALLNUT_GIFT_DESC]
-Consigue a Nuez + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LABORDAY_WINTERMELON_GIFT]
-Paquete de Melonpulta congelada
-
-[STORE_GIFT_LABORDAY_WINTERMELON_GIFT_DESC]
-Consigue a Melonpulta congelada + Atuendo ^009900 (Por tiempo limitado) ^oldclr.
-
-[STORE_GIFT_LUXURY_GIFT]
-Paquete de lujo
-
-[STORE_GIFT_LUXURY_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete de Lujo!
-El paquete incluye a Melonpulta congelada, Berenjena ninja, Cococañón, Junco eléctrico, Pinchorroca y Nuez cáscara-rabias.
-
-[STORE_GIFT_LUXURY_GIFT_DESC]
-Contiene: Melonpulta congelada, Berenjena ninja, Cococañón, Junco eléctrico, Pinchorroca y Nuez cáscara-rabias.
-
-[STORE_GIFT_ONSALE_GIFT]
-Paquete promocional navideño
-
-[STORE_GIFT_ONSALE_GIFT_BUY_FINISH]
-¡Felicidades, has conseguido el Paquete promocional navideño!
-El paquete incluye a Melonpulta congelada, Junco eléctrico y Nuez cáscara-rabias.
-
-[STORE_GIFT_ONSALE_GIFT_DESC]
-Un paquete promocional para principiantes con Melonpulta congelada, Junco eléctrico y Nuez cáscara-rabias.
 
 [STORE_HOT_DEALS_PROFILE_INFO]
 ¡Una selección cuidada de los productos más frescos de la semana!
@@ -65767,9 +65044,6 @@ OBTENIDO
 
 [STORE_LIMIT_TAG]
 QUEDA (N) {NUMBER}
-
-[STORE_MERCH_LINK]
-COMPRA CAMISETAS, JUGUETES...
 
 [STORE_MINI_STORE_HEADER]
 ¡Nuevas superofertas!
@@ -65787,7 +65061,7 @@ Comprar
 LO MÁS POPULAR
 
 [STORE_PRODUCT_ACTIVITY_DES]
-DESCRIPCIÓN DEL EVENTO: recarga hasta {NUM} 元 para obtener ^FF0000^Atuendos exclusivos^oldclr^
+DESCRIPCIÓN DEL EVENTO: recarga hasta {NUM} 元 para obtener ^FF0000^atuendos exclusivos^oldclr^
 
 [STORE_PRODUCT_ACTIVITY_ONLYONCE]
 Solo una vez
@@ -71166,24 +70440,6 @@ Dios de los océanos
 [TREASURE_GOT_HEAD_ID_25725]
 A sus anchas
 
-[TREASURE_LEAF_BEGIN]
-Comenzar
-
-[TREASURE_LEAF_CHOOSEONE]
-x1
-
-[TREASURE_LEAF_CHOOSETEN]
-x10
-
-[TREASURE_LEAF_RESULT]
-Obtuviste Frijoles de oro.
-
-[TREASURE_LEAF_SHOOTER]
-: Abrir
-
-[TREASURE_LEAF_STORE]
-Zona de canjeos
-
 [TREASURE_PAVILION]
 La Búsqueda del Tesoro
 
@@ -71239,10 +70495,9 @@ Cupón Artefacto avanzado  100                   10%
 Material genético         100                   10%
 
 [TREASURE_PAVILION_DESCRIPTION]
-1. Horario: 8 de julio - 21 de julio
-2. Gana Cupones del Cazatesoros y úsalos para obtener premios raros, abre varios cofres y obtén mejores Tesoros.
-3. Cada recompensa legendaria o épica solo puede obtenerse una vez, la probabilidad se dividirá a partes iguales entre los demás premios.
-4. Los Cupones se convertirán en Joyas una vez finalizado el evento.
+1. Gana Cupones del Cazatesoros y úsalos para obtener premios raros, abre varios cofres y obtén mejores Tesoros.
+2. Cada recompensa legendaria o épica solo puede obtenerse una vez, la probabilidad se dividirá a partes iguales entre los demás premios.
+3. Los Cupones se convertirán en Joyas una vez finalizado el evento.
 
 [TREASURE_PAVILION_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
