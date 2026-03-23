@@ -11,7 +11,7 @@ Recompensa clasificatoria de la temporada 42 de Dueloz
 Primavera alegre
 
 [OPTIONS_ZOMBIE_STARTRUSHONSCREEN]
-Acelerar spawn de zombis
+Acel. spawn zombi
 
 [NET_CONNECTING_JSON_UPDATE]
 Actualizando datos...
@@ -50,7 +50,7 @@ Zombi saltarín
 
 [ZOMBIE_POGO_DESCRIPTION]
 {KEYWORD}Especial: {STAT}salta plantas
-{KEYMETAL}Debilidad: {METAL}Magnetoseta
+{KEYWORD}Debilidad: {STAT}Magnetoseta
 
 {FLAVOR}"¡Doing! ¡Doing! ¡Doing!", es el sonido de un zombi perfectamente equipado para asaltar tu casa.
 
@@ -96,7 +96,7 @@ Gana un ^D22808^65% de probabilidad^oldclr^ de ser potenciada por el efecto de N
 
 [LEVITATER_NEW_SKILL_LEVEL5_DES]
 La probabilidad de expulsar zombis aumenta al 30%
-^FF8000^Expulsa a los zombis atacados si son medianos y están en el aire, ^D22808^60% de probabilidad ^FF8000^en zombis grandes.^oldclr^
+^FF8000^Expulsa a los zombis suspendidos, ^D22808^60% probable ^FF8000^en zombis grandes.^oldclr^
 ^FF0000^Límite: zombis de Nvl. 10^oldclr^
 
 [STORE_PRODUCT_AVATAR_LEVITATER_TITLE]
@@ -118,7 +118,7 @@ Empuja 3 zombis adicionales ^D22808^(ahora 8)^oldclr^ y expulsa por lo menos 1 d
 La salud de Caña de azúcar aumenta en un {Param_1}%
 
 [GENE_DESCRIPTION_WINTERSWEET]
-Ciruelita tiene un {Param_1}% más de probabilidad de disparar flores rosas a partir del Nvl. 2
+Ciruelita tiene un {Param_1}% más probabilidad de disparar flores rosas a partir del Nvl. 2
 
 [GENE_DESCRIPTION_AKEE]
 A.K.E.E ataca un {Param_1}% más rápido.
@@ -183,7 +183,7 @@ Daño +15%
 Dimensión del Recuerdo: Minijuegos
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_1]
-PvZ clásico
+Vegezombis
 
 [SUMMER_MEMORIES_HEAD_ID_25837]
 Gorrión gorrón
@@ -358,7 +358,7 @@ Yo, planta
 Minijuegos
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_2]
-PvZ 2
+Vegezombis 2
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_3]
 La Bolera
@@ -379,10 +379,10 @@ Viendo las estrellas
 Arte de nueces
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_9]
-¡Formen! ¡Arr!
+Reto artístico
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_10]
-Momentazo
+Portal Kombat
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_11]
 Zombiquarium
@@ -394,10 +394,10 @@ Pequeños pero matones
 Carreras de bobsleigh
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_14]
-Vegezombis
+¡Formen! ¡Arr!
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_15]
-Vegezombis 2
+¡Formen! ¡Arr! 2
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_16]
 Mola 'mazo'
@@ -469,22 +469,22 @@ Asedio
 Asedio 2
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_39]
-Rodeo aéreo
+Combate aéreo
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_40]
 Tráfico alocado
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_41]
-Ambos flancos
+A la izquierda
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_42]
-Gigante enjaulado
+Jarrón jefe
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_43]
-Dando al blanco
+Bloqueo y pincho
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_44]
-¡A la playa!
+Uno a uno
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_45]
 Guisantes asados
@@ -502,13 +502,13 @@ Liga de lanzadores
 Viaje por Oriente
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_50]
-Explosión artística
+Luchador experto
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_51]
-Poder vital
+Conexiones poderosas
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_52]
-Sonidos de gloria
+¡Atrás!
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_53]
 Tirador corto
@@ -520,7 +520,7 @@ Apocalipsis zombi
 ¡A la playa!
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_56]
-Banquete de mariscos
+Mar y tierra
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_57]
 ¡Vientos helados!
@@ -571,13 +571,13 @@ Habilidad liberada
 Prosperidad ardiente
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_73]
-La unión hace la fuerza
+Unión imparable
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_74]
 Veneno letal
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_75]
-Actividad empresarial
+Empresarios
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_76]
 Alianza poderosa
@@ -592,7 +592,7 @@ Invasión romana
 Aventura en la mazmorra
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_80]
-Unificación total
+Unificación
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_81]
 Festival de primavera
@@ -661,7 +661,7 @@ Yo, zombi
 Viejo pero fuerte
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_103]
-Dirigible de la muerte
+Dirigible Z
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_104]
 Ojo avisor
@@ -730,7 +730,7 @@ Combate de barriles
 Corriente en cadena
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_126]
-Ambos flancos 2
+Ambos flancos
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_127]
 Mundo marcial
@@ -775,7 +775,7 @@ Niebla venenosa
 Fuerza descomunal
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_1]
-Aperecen zombis con cabezas de plantas
+Aperecen zombis mutados con cabezas de plantas
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_2]
 ¡Los vegezombis han vuelto!
@@ -784,7 +784,7 @@ Aperecen zombis con cabezas de plantas
 Echa a rodar nueces para derrotar a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_4]
-Protege tu casa con las semillas que las nubes traigan para ti
+Sobrevive con las plantas que caen del cielo
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_5]
 Forma combinaciones de plantas y derrota a los zombis
@@ -793,13 +793,13 @@ Forma combinaciones de plantas y derrota a los zombis
 Detén a los zombis invisibles
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_7]
-Planea tu defensa y destruye a los zombis
+Planta en los espacios asignados para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_8]
-Planea tu defensa y destruye a los zombis
+Planta en los espacios asignados para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_9]
-Planea tu defensa y destruye a los zombis
+Planta en los espacios asignados para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_10]
 ¡Aparecen portales por todas partes!
@@ -889,124 +889,124 @@ Rompe los jarrones y derrota a los zombis
 Rompe los jarrones y derrota a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_101]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_102]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_103]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_104]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_105]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_106]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_107]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_108]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_109]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_110]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_111]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_112]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_113]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_114]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_115]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_116]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_117]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_118]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_119]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_120]
-Comanda un ejército zombi y derrota a todas las plantas
+Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_121]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_122]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_123]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_124]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_125]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_126]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_127]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_128]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_129]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_130]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_131]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_132]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_133]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_134]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_135]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_136]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_137]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_138]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_139]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_140]
-Derrota a la formación de zombis
+Planta con antelación para destruir a los zombis
 
 [ADVICE_ERROR_SCORE]
 Agotadas las recompensas por calificación de nivel.
@@ -1325,7 +1325,7 @@ DESCRIPCIÓN DEL EVENTO
 Comprar x30 元
 
 [ACTIVITY_NEW_PIGGY_BANK_DESC]
-Compra una hucha y ahorra hasta un ^ff0000^99%^oldclr^ al comprar Joyas. Aplica para un máx. de ^ff0000^2.970^oldclr^ Joyas
+Compra una hucha y ahorra hasta un ^ff0000^99%^oldclr^ al comprar Joyas ^ff0000^(máx. 2.970)^oldclr^
 
 [ACTIVITY_NEW_PIGGY_BANK_LOGIN_TEXT]
 D
@@ -1334,7 +1334,7 @@ D
 Hucha de ahorros
 
 [ACTIVITY_NEW_PLAYER_SURVEY_DESC]
-Siempre buscamos mejorar nuestro juego. Recibes Joyas y Cupones de Atuendos al completar la encuesta.
+Siempre buscamos mejorar nuestro juego. Recibes Joyas y Cupones de atuendos al completar la encuesta.
 
 [ACTIVITY_NEW_PLAYER_SURVEY_REWARD_TITLE]
 Recompensas por encuesta
@@ -1346,7 +1346,7 @@ SOBRE ESTA ENCUESTA
 Encuesta
 
 [ACTIVITY_NEW_RECHARGEDAILYSIGN_DESC]
-¡Inicia sesión diariamente para obtener ^00FF00^recompensas^oldclr^. Recarga para conseguir ^00FF00^premios exclusivos^oldclr^
+¡Inicia sesión para obtener ^00FF00^recompensas diarias^oldclr^. Recarga para conseguir ^00FF00^premios exclusivos^oldclr^
 
 [ACTIVITY_NEW_RECHARGEDAILYSIGN_TIPS]
 DESCRIPCIÓN DEL EVENTO
@@ -1383,7 +1383,7 @@ Inicia sesión 14 días para obtener recompensas. Completa tareas para obtener b
 Inicia sesión 14 días para obtener recompensas. Completa tareas para obtener lingotes que pueden canjearse en la Tienda.
 
 [ACTIVITY_NOT_OPEN]
-Aún no abierto
+No disponible
 
 [ACTIVITY_PASS_DAY]
 Tarea pasada, refresca la interfaz del evento
@@ -1438,10 +1438,10 @@ La "Lotería del Fuego" se desbloquea con Flor boxeadora
 ¡Mejorada con éxito!
 
 [ACTIVITY_SUMMERY_TAB_FIRE]
-Lotería fuego
+Lotería del fuego
 
 [ACTIVITY_SUMMERY_TAB_ICE]
-Lotería hielo
+Lotería del hielo
 
 [ACTIVITY_SUMMERY_TAB_PLANTUP]
 Mejorar plantas
@@ -2099,13 +2099,13 @@ No puedes plantas en zombis petrificados
 No puedes plantar en casillas abrazadas
 
 [ADVICE_PLANT_NOT_ON_SEEING_STAR]
-Solo se permiten Frustrellas en esa casilla
+Solo se permite plantas del tipo indicado en esa casilla
 
 [ADVICE_PLANT_NOT_ON_SHARKS]
 No puedes plantar en tiburones
 
 [ADVICE_PLANT_NOT_ON_SPEAKER]
-No puedes plantar encima de un altavoz.
+No puedes plantar encima de un altavoz
 
 [ADVICE_PLANT_NOT_ON_SURFBOARD]
 No puedes plantar en tablas de surf
@@ -10590,16 +10590,16 @@ Usa a {NAME} para derrotar a {NUMBER} zombis.
 Plantas liquidantes
 
 [CHALLENGE_POOYAN_A_NAME]
-Rodeo aéreo - I
+Combate aéreo - I
 
 [CHALLENGE_POOYAN_B_NAME]
-Rodeo aéreo - II
+Combate aéreo - II
 
 [CHALLENGE_POOYAN_C_NAME]
-Rodeo aéreo - III
+Combate aéreo - III
 
 [CHALLENGE_POOYAN_NAME]
-Rodeo aéreo
+Combate aéreo
 
 [CHALLENGE_PRESET_A_NAME]
 Listos para la acción - I
@@ -24335,8 +24335,8 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^A048CF^ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 1.0.0^oldclr^
-^87CEFA^Última actualización: 20/3/2026^oldclr^
+^FF9E6B^Versión del parche: 1.0.1^oldclr^
+^87CEFA^Última actualización: 23/3/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_4]
 Derechos de autor: Electronic Arts Inc.
@@ -31566,7 +31566,7 @@ Ver resultados
 
 [MINIGAME_REWARD_RANK_TIP]
 Tu clasificación: ^FF0000^{RANK}^oldclr^
-Como recompensa obtienes:
+Tu recompensa:
 
 [MINIGAME_RULE_TXT]
 1. Diviértete jugando minijuegos y gana puntos mientras lo haces.
@@ -31574,13 +31574,13 @@ Como recompensa obtienes:
 3. Usa la energía obtenida para canjear premios en la Tienda.
 
 [MINIGAME_RULE_TXT2]
-Recompensas por clasificación
+REGLAS DEL EVENTO
 
 [MINIGAME_SHOP]
-Minitienda
+Tienda
 
 [MINI_GAME_NAME]
-Festival de Minijuegos
+Minijuegos
 
 [MINI_GAME_PERK_NAME_ITEM_KILL_ALL_ZOMBIES]
 Ventaja - Muerte instantánea
@@ -50679,7 +50679,7 @@ No se puede comprar repetidamente.
 Desbloquea el paquete anterior.
 
 [PVP_ERROR_75507]
-Dinero insuficiente.
+Fondos insuficientes.
 
 [PVP_ERROR_75508]
 No hay intentos de reinicio disponibles.
@@ -50797,8 +50797,7 @@ Toneles alocados
 ¡Cuidado con los toneles y tus plantas!
 
 [PVZ1MODE_BARREL_NORMAL_DESC]
-¡Cuidado con los toneles y tus plantas!
-^E2725B^(Quizá Pinchorroca ayude)^oldclr^
+¡Cuidado con los toneles y tus plantas! ^E2725B^(Quizá Pinchorroca ayude)^oldclr^
 
 [PVZ1MODE_BASSIST]
 Bajo pesado
@@ -50810,7 +50809,7 @@ El Zombi metalero toca el bajo a todo dar
 Batalla de bestias
 
 [PVZ1MODE_BEJEWELED]
-Bejeweled
+Bezombied
 
 [PVZ1MODE_BEJEWELED_NORMAL_DESC]
 Desliza sobre las plantas y haz combinaciones de 3 o más
@@ -50822,7 +50821,7 @@ La Bolera
 Echa a rodar nueces para destruir a los zombis
 
 [PVZ1MODE_BRICK]
-Casillas de mejora zombi
+Potenciadores zombi
 
 [PVZ1MODE_BRICK_HARD_DESC]
 Aparecen casillas especiales que otorgan cascos a los zombis, y aumentan su daño y velocidad
@@ -50837,14 +50836,13 @@ Lluvia de burbujas
 Aparecen muchas burbujas que se llevan plantas
 
 [PVZ1MODE_BUBBLE_NORMAL_DESC]
-Aparecen burbujas que se llevan plantas
-^E2725B^(Quizás Trebolador ayude)^oldclr^
+Aparecen burbujas que se llevan plantas. ^E2725B^(Quizás Trebolador ayude)^oldclr^
 
 [PVZ1MODE_BUNGEE]
 Colgaos' de remate
 
 [PVZ1MODE_BUNGEE_NORMAL_DESC]
-Aparecen hordas de Zombis colgaos.
+Aparecen hordas de Zombis colgaos
 
 [PVZ1MODE_BUOY]
 Boya movediza
@@ -50862,19 +50860,19 @@ Aparecen plantas y zombis en el sombrero mágico
 REPRODUCIR
 
 [PVZ1MODE_CREDITS_TIPS]
-Se desbloquea tras completar el Modo Difícil.
+Se desbloquea tras completar el Modo difícil.
 
 [PVZ1MODE_DINO]
 Dinosaurios sueltos
 
 [PVZ1MODE_DINO_NORMAL_DESC]
-Los dinosaurios invaden tu patio.
+Los dinosaurios invaden tu patio
 
 [PVZ1MODE_DOCTORMAD]
 Doctor del mal
 
 [PVZ1MODE_DOCTORMAD_NORMAL_DESC]
-Comanda un ejército zombi y derrota a todas las plantas para ganar.
+Comanda un ejército zombi y derrota a todas las plantas para ganar
 
 [PVZ1MODE_DROP]
 Semillas fértiles
@@ -50892,13 +50890,13 @@ Dumplings en peligro
 ¡Evita que los zombis roben algunos dumplings!
 
 [PVZ1MODE_END_PLAY_FINISH_TIME]
-Completado en {NUM} segundos.
+Completado en {NUM} s
 
 [PVZ1MODE_END_PLAY_LOSS]
-No alcanzaste todos los Objetivos del Nivel.
+No alcanzaste todos los objetivos.
 
 [PVZ1MODE_END_PLAY_SUCCESS]
-¡Objetivos de Nivel alcanzados!
+¡Objetivos alcanzados!
 
 [PVZ1MODE_FESTIVALTENT]
 Tienda festiva
@@ -50919,7 +50917,7 @@ Petardos de Año Nuevo
 Lápidas
 
 [PVZ1MODE_GRAVESTONES_NORMAL_DESC]
-Aparecen lápidas por el patio.
+Aparecen lápidas por el patio
 
 [PVZ1MODE_HAMSTERBALL]
 Bolas de hámster
@@ -50932,7 +50930,7 @@ Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
 (Elige plantas de primera generación de la lista superior).
 
 [PVZ1MODE_HARD_MOUDLE_NOT_OPEN]
-Completa el Modo Normal para desbloquear esta dificultad.
+Completa el Modo normal para desbloquear esta dificultad.
 
 [PVZ1MODE_ICESTORM]
 Tempestad bajo cero
@@ -50989,7 +50987,7 @@ Moho de Dave
 Aparecen colonias de moho que impiden el plantado
 
 [PVZ1MODE_OVERWHELM]
-¡Formen Arr!
+¡Formen! ¡Arr!
 
 [PVZ1MODE_OVERWHELM_DESC]
 Resiste la invasión zombi con semillas especiales que plantan una columna entera de golpe
@@ -50998,7 +50996,7 @@ Resiste la invasión zombi con semillas especiales que plantan una columna enter
 Aguas tranquilas
 
 [PVZ1MODE_PEACE_NORMAL_DESC]
-Relájate, no hay modificadores en este nivel.
+Relájate, no hay modificadores en este nivel
 
 [PVZ1MODE_PLAY_NUM]
 x{NUM}   JUGAR
@@ -51007,32 +51005,31 @@ x{NUM}   JUGAR
 Fisura temporal
 
 [PVZ1MODE_PORTAL_NORMAL_DESC]
-Aparecen portales por el patio que envían zombis de otras épocas.
+Aparecen portales por el patio que envían zombis de otras épocas
 
 [PVZ1MODE_POTION]
 Poción malvada
 
 [PVZ1MODE_POTION_HARD_DESC]
-Aparecen pociones rojas y azules en el patio.
+Aparecen pociones rojas y azules en el patio
 
 [PVZ1MODE_POTION_NORMAL_DESC]
-Aparecen pociones rojas y verdes en el patio.
+Aparecen pociones rojas y verdes en el patio
 
 [PVZ1MODE_PROTECT]
 Salvad nuestra semillas
 
 [PVZ1MODE_PROTECTOR]
-Escudo electromagnético
+Escudo magnético
 
 [PVZ1MODE_PROTECTOR_HARD_DESC]
 Transforma a los zombis en Zombis escudo
 
 [PVZ1MODE_PROTECTOR_NORMAL_DESC]
-Transforma a los zombis en Zombis escudo
-^E2725B^(Quizás Durazno celestial ayude)^oldclr^
+Transforma a los zombis en Zombis escudo. ^E2725B^(Quizás Durazno celestial ayude)^oldclr^
 
 [PVZ1MODE_PROTECT_DESC]
-Protege a las plantas en peligro.
+Protege a las plantas en peligro
 
 [PVZ1MODE_PROTECT_NORMAL_DESC]
 Protege a las plantas en peligro
@@ -51053,7 +51050,7 @@ Una tormenta de arena arrastra zombis consigo y repele proyectiles
 Una tormenta de arena arrastra zombis consigo
 
 [PVZ1MODE_SCARECROW]
-Espantapájaros
+"Espanta" pájaros
 
 [PVZ1MODE_SCARECROW_NORMAL_DESC]
 Aparecen espantapájaros que atraen cuervos zombi
@@ -51062,13 +51059,13 @@ Aparecen espantapájaros que atraen cuervos zombi
 Llueven semillas
 
 [PVZ1MODE_SEED_RAIN_NORMAL_DESC]
-Sobrevive con las plantas que caen del cielo.
+Sobrevive con las plantas que caen del cielo
 
 [PVZ1MODE_SEEINGSTARS]
 Viendo las estrellas
 
 [PVZ1MODE_SEEINGSTARS_NORMAL_DESC]
-Llena los espacios marcados con Frustrellas para ganar.
+Llena los espacios marcados con Frustrellas para ganar
 
 [PVZ1MODE_SELECT_LEVEL_CHALLENGE_COMPLETE_DESC]
 ^4DD4DB^{NAME}^oldclr^
@@ -51083,7 +51080,8 @@ Aparecen conchas que mandan zombis a volar
 Calcetín navideño
 
 [PVZ1MODE_SHENGDANWA_NORMAL_DESC]
-Derrota a los zombis navideños para conseguir calcetines. Protege tus calcetines para ganar premios al final del nivel.
+Derrota a los zombis navideños para conseguir calcetines.
+Protege tus calcetines para ganar premios al final del nivel.
 
 [PVZ1MODE_SHOP_BUY_CONFIRM]
 ¿Deseas comprar ese artículo? ^FF8000^Coste: {NUMS}^oldclr^
@@ -51102,22 +51100,22 @@ Compra ilimitada
 Tienda del Recuerdo
 
 [PVZ1MODE_SKI]
-Esquionaje
+Pista de esquí
 
 [PVZ1MODE_SKI_NORMAL_DESC]
-Aparecen Zombis esquiadores y Morzas en la pista de hielo.
+Aparecen Zombis esquiadores y Morzas en la pista de hielo
 
 [PVZ1MODE_SMASH]
 Rompejarrones
 
 [PVZ1MODE_SMASH_NORMAL_DESC]
-Rompe todos los jarrones y acaba con los zombis.
+Rompe todos los jarrones y acaba con los zombis
 
 [PVZ1MODE_SPECIALTILE]
 Casillas mágicas
 
 [PVZ1MODE_SPECIALTILE_NORMAL_DESC]
-Aparecen casillas con efectos especiales al activarse.
+Aparecen casillas con efectos especiales al activarse
 
 [PVZ1MODE_SPRINGBOARD]
 Zombis acrobáticos
@@ -51156,7 +51154,7 @@ Evita que los zombis se coman algunas bolas de arroz
 Plataformas flotantes
 
 [PVZ1MODE_TERRAINCHANGE_HARD_DESC]
-Aparecen algunas plataformas flotantes en la piscina. Úsalas para plantar en ellas antes de que se hundan.
+Aparecen algunas plataformas flotantes en la piscina. Úsalas para plantar en ellas antes de que se hundan
 
 [PVZ1MODE_TERRAINCHANGE_NORMAL_DESC]
 Aparecen plataformas flotantes en la piscina. Úsalas para plantar en ellas antes de que se hundan
@@ -51195,13 +51193,13 @@ Los zombis aparecen cuando la marea sube
 No tienes suficientes Estabilizadores temporales para empezar la partida.
 
 [PVZ1MODE_TIME_COUNTDOWN]
-El evento termina en:
+Nuevo evento en:
 
 [PVZ1MODE_TIME_ENERGY_NOT_ENOUGH_LOSS]
 ¡Derrota a los zombis antes de que la Energía temporal se agote!
 
 [PVZ1MODE_TIME_RESET]
-El progreso del Modo Normal se reinicia en:
+Nuevos niveles en:
 
 [PVZ1MODE_TOUCHING]
 Mola 'mazo'
@@ -51222,7 +51220,7 @@ El agua de la piscina es ligeramente tóxica
 Pavos en peligro
 
 [PVZ1MODE_TURKEY_HARD_DESC]
-¡Ayuda a Dave a proteger a todos los pavos esparcidos por el patio!
+¡Ayuda a Dave a proteger todos los pavos esparcidos por el patio!
 
 [PVZ1MODE_TURKEY_NORMAL_DESC]
 ¡Ayuda a Dave a proteger los pavos esparcidos por el patio!
@@ -51249,13 +51247,13 @@ La última tecnología del Dr. Zombi transforma zombis en Zombisteins, pero a ve
 Acampada zombi
 
 [PVZ1MODE_ZOMBIETENT_NORMAL_DESC]
-Las tiendas generarán continuamente nuevos zombis, ¡destrúyelas lo antes posible!
+Las tiendas generarán zombis sin parar, ¡destrúyelas lo antes posible!
 
 [PVZ1MODE_ZOMBIE_NORMAL_DESC]
 Únete al bando zombi y cómete todos los cerebros para ganar
 
 [PVZ1MODE_ZOMBOSS_LOCKED]
-Se desbloquea después de completar los Objetivos de todos los Niveles.
+Se desbloquea al completar los objetivos de los niveles anteriores.
 
 [PVZ1MODE_ZOMBOTANY]
 Vegezombis
@@ -51430,16 +51428,16 @@ Asistente de ZCorp
 Cae del cielo y lanza una laptop que explota al contacto.
 
 [PVZ2TRAINING_DAMAGE1]
-Daño: {NUMBER}
+Daño: {NUMBER} | 
 
 [PVZ2TRAINING_DAMAGE2]
-Mayor daño: {NUMBER}
+Top: {NUMBER}
 
 [PVZ2TRAINING_DPSDAMAGETEXT]
-DPS: {NUMBER}
+Daño: {NUMBER} | 
 
 [PVZ2TRAINING_TOTALDAMAGETEXT]
-Daño total: {NUMBER}
+Total: {NUMBER}
 
 [PVZ2UNCHARTED_SHOP_TIME_TITLE]
 Se refresca en
@@ -51448,7 +51446,7 @@ Se refresca en
 Gana fichas completando niveles y gástalas aquí por lo que quieras.
 
 [PVZ2UNCHARTED_SHOP_TITLE]
-Tienda secreta
+Tienda oculta
 
 [PVZ2_CHEATING_CHECK_TITLE]
 DETECTOR DE TRAMPAS
@@ -51538,10 +51536,10 @@ Tarjeta del pase
 3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
 
 [PVZ2_UNCHARTED_MODE_END_PLAY_LOSS]
-No alcanzaste todos los Objetivos del Nivel.
+No alcanzaste todos los objetivos.
 
 [PVZ2_UNCHARTED_MODE_END_PLAY_SUCCESS]
-¡Objetivos de Nivel alcanzados!
+¡Objetivos completados!
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_BTN]
 45 元
@@ -51553,7 +51551,7 @@ Activar beneficios premium
 {NUMS}/{NUMS_MAX}
 
 [PVZ2_UNCHARTED_MODE_KEY_NOT_ENOUGH]
-Llaves del espacio-tiempo insuficientes. El número de llaves se actualiza todos los días, ¡vuelve mañana!
+Llaves espacio-temporales insuficientes. El número de llaves se actualiza todos los días, ¡vuelve mañana!
 
 [PVZ2_UNCHARTED_MODE_KEY_TIPS_DESC]
 1. Usa Llaves espacio-temporales para desbloquear niveles en el Modo difícil.
@@ -51602,8 +51600,7 @@ Aparecen bloques de hielo con plantas y zombis dentro
 El Maestro del viento helado y la Comadrejera de élite hacen tregua
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICECREAMCAR]
-Aparecen camiones de helados con zombis dentro
-^E2725B^(Quizás Pinchorroca ayude)^oldclr^
+Aparecen camiones de helados con zombis dentro. ^E2725B^(Quizás Pinchorroca ayude)^oldclr^
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_KONGMINGLIGHT]
 Linternas flotan y se estrellan contra tus plantas, abrazando las casillas. ¡Expúlsalas cuanto antes!
@@ -51624,28 +51621,28 @@ Un camión monstruo aparece para sembrar el caos en la carretera
 Modo clásico, sin mecánicas especiales
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN1]
-Se rumorea que cualquier zombi que entre en ella desaparece.
+Se rumorea que cualquier zombi que entre en ella desaparece
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN2]
 ¡Todos deben hacer fila para entrar!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN3]
-Cuenta la leyenda que una vez un zombi entró y nunca más volvió a sentir hambre.
+Cuenta la leyenda que una vez un zombi entró y nunca más volvió a sentir hambre
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN4]
-Le encanta volar por los cielos en su escoba mágica.
+Le encanta volar por los cielos en su escoba mágica
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN5]
-Su escoba no tiene frenos.
+Su escoba no tiene frenos
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN6]
-Los rumores dicen que se le ha visto en el mercado de abarrotes.
+Los rumores dicen que se le ha visto en el mercado de abarrotes
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN7]
-Una pareja que convertirá tu jardín en un caos total.
+Una pareja que convertirá tu jardín en un caos total
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN8]
-La casa de las calabazas sigue siendo desconcertante.
+La casa de las calabazas sigue siendo desconcertante
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN9]
 ¡Zombis y fantasmas! ¡Qué miedo!
@@ -51654,16 +51651,16 @@ La casa de las calabazas sigue siendo desconcertante.
 ¡Más zombis, más calabazas, caos total!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN11]
-La bruja está de vuelta a las andadas.
+La bruja está de vuelta a las andadas
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN12]
 ¡Nuez cáscara-rrabias está aquí para defendernos!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN13]
-El arsenal de hechizos de esta bruja parece no tener fin.
+El arsenal de hechizos de esta bruja parece no tener fin
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN14]
-Prepara tus defensas, el ataque está por comenzar.
+Prepara tus defensas, el ataque está por comenzar
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINSCARECROW]
 Espantapájaros que no espantan pájaros
@@ -51697,10 +51694,10 @@ El suelo cubierto de trozos de papel
 ¡Más basura! ¡Trae la aspiradora!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP6]
-ZCorp tiene la tecnología de punta para sus tareas cotidianas.
+ZCorp tiene la tecnología de punta para sus tareas cotidianas
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP7]
-Llega la consultora de ZCorp con su caótica lluvia de ideas.
+Llega la consultora de ZCorp con su caótica lluvia de ideas
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP8]
 Hay demasiado papel esparcido por el suelo. ¡No olvides hacer limpieza!
@@ -51709,7 +51706,7 @@ Hay demasiado papel esparcido por el suelo. ¡No olvides hacer limpieza!
 ¡Más zombis y trozos de papel!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP10]
-Prepárate para una batalla contra el Z-Mech.
+Prepárate para una batalla contra el Z-Mech
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_CHILDREN1]
 Carritos chocones
@@ -51778,40 +51775,40 @@ Partida clásica
 Casa de las Calabazas
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN2]
-Casa de las Calabazas II
+Casa de las Calabazas 2
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN3]
-Casa de las Calabazas III
+Casa de las Calabazas 3
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN4]
 Bruja espeluznante
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN5]
-Bruja espeluznante II
+Bruja espeluznante 2
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN6]
-Bruja espeluznante III
+Bruja espeluznante 3
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN7]
 Brujas y calabazas
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN8]
-Casa de las Calabazas IV
+Casa de las Calabazas 4
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN9]
-Casa de las Calabazas V
+Casa de las Calabazas 5
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN10]
-Casa de las Calabazas VI
+Casa de las Calabazas 6
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN11]
-Bruja espeluznante IV
+Bruja espeluznante 4
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN12]
-Bruja espeluznante V
+Bruja espeluznante 5
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN13]
-Bruja espeluznante VI
+Bruja espeluznante 6
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN14]
 Asalto final
@@ -51862,7 +51859,7 @@ Robots e impresoras II
 Asalto final
 
 [PVZ2_UNCHARTED_MODE_NO42_UNIVERSE_TIPS_DESC]
-1. La Zona de Infinito se desbloquea tras superar el último nivel del Modo Difícil.
+1. La Zona de Infinito se desbloquea tras superar el último nivel del Modo difícil.
 2. Hay 100 oleadas en la Zona de Infinito, con zombis aleatorios cuyo número aumenta gradualmente.
 3. El avatar conmemorativo mostrará el mayor número de oleadas superadas.
 
@@ -52012,10 +52009,10 @@ No hay suficientes desafíos.
 Los datos de la Zona de Infinito son inválidos.
 
 [PVZ_ERROR_40025]
-Imposible saltar nivel, solo se puede omitir desde el jefe anterior haste nivel más alto jugado.
+Imposible saltar nivel, solo se puede omitir desde el jefe anterior hasta el nivel más alto jugado.
 
 [PVZ_ERROR_40026]
-Reliquias del Tiempo-espacio insuficientes.
+Reliquias del espacio-tiempo insuficientes.
 
 [PVZ_ERROR_40027]
 Artículo no disponible, actualiza la Tienda del Infinito.
@@ -52195,7 +52192,7 @@ La versión instalada es demasiado baja, ¡actualiza el juego a la última versi
 Actualmente no estás conectado a una red WiFi, ¿deseas utilizar los datos móviles para descargar la actualización?
 
 [PVZ_PROFILE_CHECK_CHEAT]
-Se ha producido un error al cargar los progresos del juego, inicia sesión primero o vuelve a iniciar sesión más tarde.
+Se ha producido un error al cargar los progresos del juego, inténtalo de nuevo más tarde.
 
 [PVZ_PROFILE_ERROR]
 Error en los datos
@@ -52308,7 +52305,7 @@ Reelegir
 Resultados
 
 [PVZ_WORLDCUP_RULE]
-Reglas del evento
+REGLAS DEL EVENTO
 
 [PVZ_WORLDCUP_SELECTTEAM_TITLE]
 Selección de equipos
@@ -52703,7 +52700,7 @@ Básicos: libera esporas moradas que se dirigen a zombis cercanos y hacen 1.200 
 {KEYWORD}Especial: {STAT}ataca a los zombis más lejanos a tu casa
 {KEYWORD}Características de la planta: {STAT}planta roja, de baja estatura
 
-{FLAVOR}Rafflesia es uno de los empleados más famoso del parque. Dondequiera que esté, siempre estará rodeado por muchos niños. A él le gusta este sentimiento. "Soplo las mejores burbujas de todo el mundo vegetal, ¡y a los niños les encanta!"
+{FLAVOR}Rafflesia es uno de los empleados más famosos del parque. Dondequiera que esté, siempre estará rodeado por muchos niños. A él le gusta este sentimiento. "Soplo las mejores burbujas de todo el mundo vegetal, ¡y a los niños les encanta!"
 
 [RAFFLESIA_DESCRIPTION_HEADER]
 Rafflesia libera esporas explosivas para dañar a los zombis más lejanos a tu casa.
@@ -52815,7 +52812,7 @@ Patrón en cruz
 7x5 alrededor
 
 [RANGE_15]
-5x3 alrededor (se expande una casilla)
+5x3 alrededor (expansión +1 casilla)
 
 [RANGE_16]
 2 casillas al frente
@@ -55357,13 +55354,13 @@ Se ha agotado el tiempo de espera, intenta reiniciar el nivel.
 Se acabó el tiempo
 
 [RIFT_RESULT_SCREEN_LABEL_COST_TIME]
-Completado en {NUMS} segundos
+Completado en {NUMS} s
 
 [RIFT_RESULT_SCREEN_LABEL_CURRENT_SCORE]
-Tu puntación total: {NUMS} puntos
+Puntación total: {NUMS}
 
 [RIFT_RESULT_SCREEN_LABEL_GET_SCORE]
-Tu puntación en este nivel: {NUMS} puntos
+Tu puntación en este nivel: {NUMS}
 
 [RIFT_REWARD_RESULT_TITLE]
 Recompensas
@@ -64273,10 +64270,10 @@ Sobrevive con {COUNT} plantas o más
 Supervivencia vegetal
 
 [STARCHALLENGE_POOYAN]
-Sobrevive esquivando zombis y proyectiles; derrota a los enemigos para alcanzar la puntuación objetivo
+Sobrevive esquivando zombis y proyectiles. Derrota a los enemigos para alcanzar la puntuación objetivo
 
 [STARCHALLENGE_POOYAN_NAME]
-Rodeo aéreo
+Combate aéreo
 
 [STARCHALLENGE_POTION_ZOMBIE_KILL_DESC]
 Derrota a {COUNT} zombis que hayan sido potenciados por Pociones
@@ -70958,7 +70955,7 @@ Plantorcha
 Con Nutrientes, se prende en fuego púrpura, aumentando el daño al triple.
 
 [TORCHWOOD_DESCRIPTION]
-{KEYWORD}Características de la planta: {STAT}planta marrón, de apariencia malévola, defensa
+{KEYWORD}Características de la planta: {STAT}planta marrón, de apariencia malévola
 
 {FLAVOR}Plantorcha y Boca de dragón se hicieron amigos muy rápidamente. Les gusta pasar el rato en el bar tiki o en la feria del renacimiento.
 
@@ -71065,7 +71062,7 @@ Mejora una planta usando Piezas
 Desbloquea un Atuendo
 
 [TOURISMOCTOBER_TASK_NAME_8]
-Consigue un Boleto del Secreto
+Consigue un Boleto de Penny
 
 [TOURISMOCTOBER_TASK_NAME_9]
 Completa 15 aventuras de plantas
