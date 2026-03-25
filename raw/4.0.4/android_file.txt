@@ -1144,7 +1144,7 @@ Ataca a 3 zombis de su línea con torbellinos en la ida y a la vuelta
 Nivel 2
 
 [ACORN_SKILL_LEVEL1_DES]
-^4DD4DB^Rotación acelerada:^oldclr^ su tiempo de recuperación es reducido en un 15%.
+^4DD4DB^Rotación acelerada:^oldclr^ su tiempo de recuperación es reducido en un 15%
 
 [ACORN_SKILL_LEVEL2]
 Nivel 3
@@ -1172,10 +1172,10 @@ Aumenta el número de regalos disparados.
 {KEYWORD}Características de la planta: {STAT}planta verde
 {KEYWORD}Miscelánea: {STAT}planta especial del 12° Aniversario
 
-{FLAVOR}Se esfuerza por ofrecer lo que considera los regalos más valiosos a los amigos que siempre le han apoyado.
+{FLAVOR}Ofrece obsequios valiosos a los amigos que siempre le han apoyado, y destrucción a los zombis que invaden el patio desde hace décadas.
 
 [ACTINOSTEMMA_DESCRIPTION_HEADER]
-Bejuco fiestero usa sus cañones para dispararle cajas de regalo a los zombis, ¡es todo una sorpresa lo que traen dentro!
+Bejuco fiestero usa sus cañones para disparar cajas de regalo a los zombis, ¡es todo una sorpresa lo que traen dentro!
 
 [ACTINOSTEMMA_NEW_SKILL_LEVEL1_DES]
 Dispara cajas de regalo que atraen zombis y tienen efectos aleatorios.
@@ -2620,7 +2620,7 @@ Dispara semillas que rebotan hasta 3 veces. ^D22808^Daño decaído: 10/rebote^ol
 Las semillas pueden rebotar en 1 zombi adicional ^D22808^(ahora 4)^oldclr^
 
 [AKEE_NEW_SKILL_LEVEL3_DES]
-Gana un 25% de disparar una semilla grande que se divide en 3 más pequeñas. ^D22808^Daño: 120^oldclr^
+Gana un ^D22808^25% de probabilidad^oldclr^ de disparar una semilla grande que se divide en 3 más pequeñas. ^D22808^Daño: 120^oldclr^
 
 [AKEE_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^70% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
@@ -3631,10 +3631,10 @@ Lanza rayos y absorbe descargas eléctricas.
 ^E2725B^Ataque potenciado: hace 400 DPS (casilla).^oldclr^
 
 [ANTHURIUM_NEW_SKILL_LEVEL2_DES]
-Gana un 7.5% de probabilidad de lanzar un ataque potenciado.
+Gana un ^D22808^7.5% de probabilidad^oldclr^ de lanzar un ataque potenciado.
 
 [ANTHURIUM_NEW_SKILL_LEVEL3_DES]
-Aumenta la probabilidad de los efectos del Nvl. 2 a un 15%
+Gana un ^D22808^15% de probabilidad^oldclr^ de lanzar un ataque potenciado.
 
 [ANTHURIUM_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^50% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
@@ -3866,11 +3866,13 @@ Invoca tiburones que devoran zombis con un 40% de salud o menos
 ^E2725B^Especial: activa el efecto de Nutrientes después de 3 invocaciones^oldclr^
 
 [AQUAWEED_NEW_SKILL_LEVEL2_DES]
-Gana un 15% de invocar 2 tiburones, reduce el tiempo de invocación en 2 s
+Gana un ^D22808^15% de probabilidad^oldclr^ de invocar 2 tiburones a la vez
+^FF8000^Reduce el tiempo de invocación en 2 s^oldclr^
 ^FF0000^Límite: zombis pequeños o medianos de Nvl. 4^oldclr^
 
 [AQUAWEED_NEW_SKILL_LEVEL3_DES]
-Gana un 20% de invocar 2 tiburones, reduce el tiempo de invocación en 3 s
+Gana un ^D22808^20% de probabilidad^oldclr^ de invocar 2 tiburones a la vez
+^FF8000^Reduce el tiempo de invocación en 3 s^oldclr^
 ^FF0000^Límite: zombis pequeños o medianos de Nvl. 6^oldclr^
 
 [AQUAWEED_NEW_SKILL_LEVEL4_DES]
@@ -5477,13 +5479,14 @@ Asparagaceae
 Asparagus
 
 [ASPARAGUS_NEW_SKILL_LEVEL1_DES]
-Dispara balas de espárrago, priorizando al zombi más cercano. Debe descansar después de una salva de 6 disparos.
+Dispara balas de espárrago, priorizando al zombi más cercano.
+^FF0000^Debe descansar después de una salva de 6 disparos.^oldclr^
 
 [ASPARAGUS_NEW_SKILL_LEVEL2_DES]
-Gana un 20% de probabilidad de disparar balas que pueden atravesar al objetivo.
+Gana un ^D22808^20% de probabilidad^oldclr^ de disparar balas que pueden atravesar al objetivo.
 
 [ASPARAGUS_NEW_SKILL_LEVEL3_DES]
-La probabilidad de disparar balas perforantes aumenta a un 30%
+Gana un ^D22808^30% de probabilidad^oldclr^ de disparar balas que pueden atravesar al objetivo.
 
 [ASPARAGUS_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
@@ -6096,7 +6099,7 @@ Gana un ^D22808^5% de probabilidad^oldclr^ de derribar zombis por golpe ^D22808^
 Gana un ^D22808^10% de probabilidad^oldclr^ de derribar zombis por golpe ^D22808^(40% en total)^oldclr^
 
 [BAMBOO_NEW_SKILL_LEVEL4_DES]
-Gana un 55% de probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
+Gana un ^D22808^55% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
 ^DB8117^Nutrientes: golpea a 4 zombis al azar, expulsándolos si su salud es baja. ^D22808^Daño: 500 (casilla)^oldclr^
 
 [BAMBOO_PEDIA]
@@ -6166,7 +6169,7 @@ Efecto de Nutrientes ^D22808^garantizado^oldclr^ en cada plantado.
 ^DB8117^Nutrientes: dispara 4 plátanos explosivos a zombis aleatorios del patio.^oldclr^
 
 [BANANA_NEW_SKILL_LEVEL5_DES]
-Gana un 20% de disparar un misil que hace 3.600 DPS al aterrizar y explota después de 6 s, causando 4.500 DPS en un área 3x3
+Existe un ^D22808^20% de probabilidad^oldclr^ de disparar un misil que hace 3.600 DPS al aterrizar y explota después de 6 s, causando 4.500 DPS en un área 3x3
 
 [BANANA_PEDIA]
 Lanzaplátanos está basado en el plátano (Musa spp.), una herbácea gigante originaria del sudeste asiático. Produce racimos de frutos comestibles muy valorados en todo el mundo, estos son ricos en almidón y azúcares, se ingieren hervidos o fritos cuando están verdes y frescos o en postres una vez maduros.
@@ -18777,22 +18780,22 @@ Error al realizar la compra, actualiza tu juego.
 Confirmar compra
 
 [EXCHANGEAVATAR_TEXT1]
-Tienes ^FF0000^{COUNT} Cupones^oldclr
+Tienes ^FF0000^{COUNT} cupones^oldclr
 
 [EXCHANGEAVATAR_TEXT2]
-Este Atuendo cuesta ^FF0000^{COUNT} Cupones^oldclr^
+Este atuendo cuesta ^FF0000^{COUNT} cupones^oldclr^
 
 [EXCHANGEAVATAR_TEXT3]
-¿Realmente deseas gastar tus Cupones en este Atuendo?
+¿Realmente deseas gastar tus cupones en esto?
 
 [EXCHANGEAVATAR_TEXT4]
-No tienes Cupones de Atuendo suficientes, ¿deseas ir a la Tienda por más?
+No tienes cupones suficientes, ¿deseas ir a la Tienda por más?
 
 [EXCHANGEAVATAR_TUTORIAL_SLOT]
-Usa Cupones de Atuendo para canjearlos por disfraces de plantas.
+Usa Cupones de atuendo para canjearlos por disfraces de plantas.
 
 [EXCHANGE_AVATAR_TIPS]
-¿Posees el Atuendo de una planta y deseas cambiarlo?
+¿Posees el atuendo de una planta y deseas cambiarlo?
 Con esta función puedes cambiar ^FF0000^Atuendos^oldclr^ por ^FF0000^Piezas^oldclr^
 
 [EXCHANGE_CONFIRM_MESSAGE]
@@ -18855,10 +18858,10 @@ Explotonuez proporciona protección. Cuando se comen su cáscara, explota y los 
 Bloquea zombis, explota en un área mediana al ser destruida.
 
 [EXPLODEONUT_NEW_SKILL_LEVEL2_DES]
-Gana un ^D22808^10% de probabilidad^oldclr^  de que al explotar, genere una Papapúm.
+Existe un ^D22808^10% de probabilidad^oldclr^ de que al explotar, genere una Papapúm.
 
 [EXPLODEONUT_NEW_SKILL_LEVEL3_DES]
-Gana un ^D22808^20% de probabilidad^oldclr^  de que al explotar, genere una Papapúm.
+Existe un ^D22808^20% de probabilidad^oldclr^ de que al explotar, genere una Papapúm.
 
 [EXPLODEONUT_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^25% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
@@ -24335,8 +24338,8 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^A048CF^ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 1.0.1^oldclr^
-^87CEFA^Última actualización: 23/3/2026^oldclr^
+^FF9E6B^Versión del parche: 1.0.2^oldclr^
+^87CEFA^Última actualización: 25/3/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_4]
 Derechos de autor: Electronic Arts Inc.
@@ -31490,10 +31493,10 @@ Arrastra el carro de mina a una nueva ubicación
 El evento ha terminado.
 
 [MINIGAME_COLLECTION_HARD_LEVEL]
-Difícil
+DIFÍCIL
 
 [MINIGAME_COLLECTION_NORMAL_LEVEL]
-Normal
+NORMAL
 
 [MINIGAME_COLLECTION_SHORT_DESCRIPTION]
 ¡Compite jugando minijuegos divertidos y gana muchas recompensas!
@@ -31569,12 +31572,12 @@ Tu clasificación: ^FF0000^{RANK}^oldclr^
 Tu recompensa:
 
 [MINIGAME_RULE_TXT]
-1. Diviértete jugando minijuegos y gana puntos mientras lo haces.
-2. Alcanza hitos mientras más puntos acumules para obtener Energía.
-3. Usa la energía obtenida para canjear premios en la Tienda.
+^E8DCC8^1. Diviértete jugando minijuegos y gana puntos mientras lo haces.
+2. Al final de los niveles obtendrás Energía de refuerzo, úsala para mejorar tus ventajas.
+3. Alcanza hitos mientras más puntos acumules para obtener Recompensas.^oldclr^
 
 [MINIGAME_RULE_TXT2]
-REGLAS DEL EVENTO
+^FFC300^REGLAS DEL EVENTO^oldclr^
 
 [MINIGAME_SHOP]
 Tienda
@@ -31601,7 +31604,7 @@ Ventaja - Lluvia de nueces
 Ventaja - Plantado seguro
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_TEAM_SKY]
-Escuadrón aéreo
+Ventaja - Escuadrón aéreo
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_TIME_BACK]
 Ventaja - Vuelta atrás
@@ -31679,7 +31682,7 @@ Gana un ^D22808^25% de probabilidad^oldclr^ de ser potenciada por el efecto de N
 ^DB8117^Nutrientes: dispara 4 ráfagas heladas a objetivos aleatorios del patio. ^D22808^Daño: 1.000 (500 en área 3x3)^oldclr^
 
 [MISSILETOE_NEW_SKILL_LEVEL5_DES]
-Gana un ^D22808^80% de probabilidad^oldclr^ de disparar un misil que hace 3.000 DPS al aterrizar y explota después de 5 s, causando 4.500 DPS en un área 3x3
+Existe un ^D22808^80% de probabilidad^oldclr^ de disparar un misil que hace 3.000 DPS al aterrizar y explota después de 5 s, causando 4.500 DPS en un área 3x3
 
 [MISSILETOE_PEDIA]
 El muérdago (Viscum album) es una planta semiparásita que crece sobre ramas de árboles como manzanos o robles. Tiene hojas perennes, bayas blancas y una forma redondeada y densa. Se asocia a climas templados, suele verse en invierno.
@@ -35815,7 +35818,7 @@ Obtienes jugosos descuentos mientras más Joyas compres.
 {NPC_ENTER:crazydave}{PLAYFUL}¡Hola! ¿Cansado de que emerjan estantes de armas por doquier?
 
 [NARRATIVE_PLANTTRIAL_FIREGROUND_INFO_2]
-{EXCITED}¡Calabaza de fuego es la solución! Tócala para desartar ráfagas destructivas.
+{EXCITED}¡Calabaza de fuego es la solución! Tócala para desatar ráfagas destructivas.
 
 [NARRATIVE_PLANTTRIAL_FIRESHROOM_INFO_1]
 {NPC_ENTER:crazydave}{PLAYFUL}¡Hola! ¿Cansado de los caballeros oscuros y sus desastres?
@@ -36040,16 +36043,13 @@ Ahora las plantas maniobran como auténticos pilotos de élite.
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}¡Qué tipo más aburrido! No sé para qué vinimos...
 
 [NARRATIVE_PVZ1_S27_4_H_INTRO_4]
-{SAY:winnie}Para detener los maléficos planes del Dr. Zombi. Para eso vinimos, Dave.
+{SAY:winnie}Te recuerdo que vinimos para detener los maléficos planes del Dr. Zombi, usuario Dave.
 
 [NARRATIVE_PVZ1_S27_5_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¿Por qué el cielo está tan oscuro?
 
 [NARRATIVE_PVZ1_S27_5_H_INTRO_2]
 {SAY:winnie}Detecto un gran número de naves en el espacio aéreo. Los zombis planean un ataque.
-
-[NARRATIVE_PVZ1_S27_5_H_INTRO_3]
-{SAY:crazydave}Pronóstico del clima: se aproxima un aguacero de zombis voladores.
 
 [NARRATIVE_PVZ1_S27_6_H_INTRO_1]
 {NPC_ENTER:winnie}{SAY:winnie}Rotinabo puede disparar en las 4 diagonales.
@@ -36106,16 +36106,13 @@ Ahora las plantas maniobran como auténticos pilotos de élite.
 {SAY:crazydave}¿Entonces los zombis ya no necesitan comer cerebros? ¿Significa que estoy a salvo?
 
 [NARRATIVE_PVZ1_S27_11_H_INTRO_3]
-{SAY:winnie}Este en particular, no. Los otros, desde luego que sí.
+{SAY:winnie}Este en particular, no. Los otros, por desgracia, siguen prefiriendo el cerebro.
 
 [NARRATIVE_PVZ1_S27_12_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Los datos indican que las gallinas y el Tyrannosaurus rex comparten genes.
 
 [NARRATIVE_PVZ1_S27_12_H_INTRO_2]
 {SAY:crazydave}¡No me extraña! Después de todo, los dinosaurios evolucionaron en aves.
-
-[NARRATIVE_PVZ1_S27_12_H_INTRO_3]
-{SAY:crazydave}Sí, sé de ciencias y esas cosas... ¡soy loco, no estúpido! ¿Sabes?
 
 [NARRATIVE_PVZ1_S27_13_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡El zombi de la Guardia Real es realmente tenaz!
