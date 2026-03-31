@@ -523,7 +523,7 @@ Apocalipsis zombi
 Mar y tierra
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_57]
-¡Vientos helados!
+Vientos helados
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_58]
 Frío glacial
@@ -2177,7 +2177,7 @@ Zampalga solo se planta sobre el agua
 Quita una planta para colocar más.
 
 [ADVICE_POOYANBOSS_WAVE]
-¡Un zombi devastador se acerca!
+OLEADA FINAL: ¡viene un gran jefe!
 
 [ADVICE_POTATOMINE_ON_PLANKS]
 No puedes colocar plantas subterráneas en tablones.
@@ -2373,7 +2373,7 @@ Ha aparecido un zombi iluminado, ¡acaba con él!
 Las llaves pueden desbloquear mundos nuevos mientras estén disponibles
 
 [ADVICE_WOLF_BOSS_WAVE]
-Se acerca un zombi peligroso...
+ACTO FINAL: ¡viene un gran jefe!
 
 [ADVICE_WORLD_CUP_PLANT]
 Planta en los lugares asignados antes de empezar el partido
@@ -14325,7 +14325,7 @@ Puesto: {N}
 ^FF0000^Puesto: {N}%^oldclr^
 
 [DANGERROOM_RECOMMEND_PRESENT]
-Lotes de Infinito
+Regalos de infinito
 
 [DANGERROOM_REQUEST_RANK_LIST]
 Top 50
@@ -14471,10 +14471,10 @@ Se desbloquea en el Nivel 60
 Se desbloquea en el Nivel {NUMS}
 
 [DANGERROOM_SPECIAL_OFFER_EXTRA_TITLE]
-Paquetes de Regalo del Infinito
+Lotes de infinito
 
 [DANGERROOM_SPECIAL_OFFER_TITLE]
-Paquete especial de la Zona de Infinito
+Lotes
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
 Descuento: {NUMBER} 元
@@ -19299,647 +19299,8 @@ Batalla zodiacal
 [FILTER_WARNING]
 El nombre ingresado es inapropiado, elige otro.
 
-[FINAL_REWARD_LABEL]
-Premio de calendario final
-
 [FINISHED]
 Completado
-
-[FINISH_BEACH_1_DESC]
-¡No se puede ir a la playa sin Nenúfares! ¡Completa la Playa de la gran ola - día 1!
-
-[FINISH_BEACH_1_TITLE]
-¡Desbloquea a Nenúfar!
-
-[FINISH_BEACH_6_DESC]
-Corre en silencio y bien adentro. ¡Zampalga arrastra a los zombis marinos a una tumba acuática! ¡Completa la Playa de la gran ola - día 6!
-
-[FINISH_BEACH_6_TITLE]
-¡Desbloquea a Zampalga!
-
-[FINISH_BEACH_11_DESC]
-¡Lanza bulbos por las líneas para bailar, rebotar y empujar a muchos zombis! ¡Completa la Playa de la gran ola - Día 11!
-
-[FINISH_BEACH_11_TITLE]
-¡Desbloquea a Bulbo de bolera!
-
-[FINISH_BEACH_16_DESC]
-¡Derrota al atroz Zombistein de la Playa de la gran ola - día 16!
-
-[FINISH_BEACH_16_TITLE]
-¡Derrota al Zombistein!
-
-[FINISH_BEACH_19_DESC]
-¡Guacadrilo dispara, nada y carga hacia delante si lo derrotan! ¡VENGANZA! ¡Completa la Playa de la gran ola - día 19!
-
-[FINISH_BEACH_19_TITLE]
-¡Desbloquea a Guacadrilo!
-
-[FINISH_BEACH_20_DESC]
-¡Pega a los zombis que están siempre divirtiéndose y gana premios en esta fiesta playera! ¡Completa la Playa de la gran ola - día 20!
-
-[FINISH_BEACH_20_TITLE]
-¡Desbloquea a Tikitorcha!
-
-[FINISH_BEACH_27_DESC]
-¡Imparte justicia lanzando plátanos misiles por todo el tablero! ¡Completa la Playa de la gran ola - día 27!
-
-[FINISH_BEACH_27_TITLE]
-¡Desbloquea a Lanzaplátanos!
-
-[FINISH_BEACH_32_DESC]
-¡Derrota al quejica Dr. Zombi y gana tu trofeo en esta contienda surfera en la Playa de la gran ola - día 32!
-
-[FINISH_BEACH_32_TITLE]
-Pelea contra el Dr. Zombi
-
-[FINISH_COWBOY_1_DESC]
-¿Zombis furtivos que acechan por detrás? ¡Bipetidora dispara adelante y atrás! ¡Completa el Salvaje Oeste - día 1!
-
-[FINISH_COWBOY_1_TITLE]
-¡Desbloquea a Bipetidroa!
-
-[FINISH_COWBOY_3_DESC]
-¡Enfréntate a infinidad de zombis y gana premios en esta gresca fronteriza! ¡Completa el Salvaje Oeste - día 3!
-
-[FINISH_COWBOY_3_TITLE]
-¡Desbloquea el Páramo del gran mal!
-
-[FINISH_COWBOY_4_DESC]
-El zombi lo hizo y sus amigos lo sintieron. ¡Destruye a un enemigo y aturde al grupo que tenga detrás! ¡Completa el Salvaje Oeste - día 4!
-
-[FINISH_COWBOY_4_TITLE]
-¡Desbloquea a Frijol!
-
-[FINISH_COWBOY_6_DESC]
-¡Amontona Vainas para tener una potencia de fuego enorme! ¡Completa el Salvaje Oeste - día 6!
-
-[FINISH_COWBOY_6_TITLE]
-¡Desbloquea a Vaina!
-
-[FINISH_COWBOY_8_DESC]
-¡Aplasta al monstruoso Zombistein del Salvaje Oeste - día 8!
-
-[FINISH_COWBOY_8_TITLE]
-¡Derrota al Zombistein!
-
-[FINISH_COWBOY_9_DESC]
-Electrocuta a varios enemigos a gran velocidad en líneas adyacentes. ¡Es genial para freír pollo! ¡Completa el Salvaje Oeste - día 9!
-
-[FINISH_COWBOY_9_TITLE]
-¡Desbloquea a Junco eléctrico!
-
-[FINISH_COWBOY_11_DESC]
-¡Consigue una devolución del 25% del precio en soles cuando quitas una planta! ¡Completa el Salvaje Oeste - día 11!
-
-[FINISH_COWBOY_11_TITLE]
-¡Desbloquea a Pala solar!
-
-[FINISH_COWBOY_12_DESC]
-Lanza melones que infligen mucho daño en una línea e impacta a grupos de zombis. ¡Completa el Salvaje Oeste - día 12!
-
-[FINISH_COWBOY_12_TITLE]
-¡Desbloquea a Melonpulta!
-
-[FINISH_COWBOY_15_DESC]
-¡Recupera al completo las plantas defensivas dañadas al plantarlos encima! ¡Completa el Salvaje Oeste - día 15!
-
-[FINISH_COWBOY_15_TITLE]
-¡Desbloquea Primeros auxilios para nueces!
-
-[FINISH_COWBOY_18_DESC]
-¡Nuez cáscara-rabias es la frustración de los zombis voladores y saltarines! ¡Se lo merecen! ¡Completa el Salvaje Oeste - día 18!
-
-[FINISH_COWBOY_18_TITLE]
-¡Desbloquea a Nuez cáscara-rabias!
-
-[FINISH_COWBOY_20_DESC]
-¡Restaura al instante un Paquete de semillas al poner Nutrientes sobre él! ¡Completa el Salvaje Oeste - día 20!
-
-[FINISH_COWBOY_20_TITLE]
-¡Desbloquea la Recarga instantánea!
-
-[FINISH_COWBOY_24_DESC]
-¡Impacta a grupos de zombis, inflige mucho daño y congélalos! ¡Fantástico! ¡Completa el Salvaje Oeste - día 24!
-
-[FINISH_COWBOY_24_TITLE]
-¡Desbloquea a Melonpulta congelada!
-
-[FINISH_COWBOY_25_DESC]
-¡Ataca al asqueroso Dr. Zombi y gana tu trofeo en este duelo en el desierto en el Salvaje Oeste - día 25!
-
-[FINISH_COWBOY_25_TITLE]
-Pelea contra el Dr. Zombi
-
-[FINISH_DARK_1_DESC]
-¡Las pequeñas y baratas setas solares emiten montones de sol! ¡Son radiantes! ¡Completa la Edad Oscura - día 1!
-
-[FINISH_DARK_1_TITLE]
-¡Desbloquea setas solares!
-
-[FINISH_DARK_2_DESC]
-¿Qué tal te va una artillera que no cuesta soles? ¡Se trata de Seta desesporada! ¡Completa la Edad Oscura - día 2!
-
-[FINISH_DARK_2_TITLE]
-¡Desbloquea a Seta desesporada!
-
-[FINISH_DARK_4_DESC]
-Humoseta afecta a todos los zombis de una zona. ¡Os lo merecéis, zombis en grupo! ¡Completa la Edad Oscura - día 4!
-
-[FINISH_DARK_4_TITLE]
-¡Desbloquea a Humoseta!
-
-[FINISH_DARK_6_DESC]
-¿Y si los zombis escupieran sol al sufrir daño? ¡Frijol solar lo consigue! ¡Completa la Edad Oscura - día 6!
-
-[FINISH_DARK_6_TITLE]
-¡Desbloquea a Frijol solar!
-
-[FINISH_DARK_10_DESC]
-¡Vapulea al Zombistein medieval de la Edad Oscura - día 10!
-
-[FINISH_DARK_10_TITLE]
-¡Derrota al Zombistein!
-
-[FINISH_DARK_12_DESC]
-¡Castiga a zombis primitivos para ganar premios en una eterna contienda feudal! ¡Completa la Edad Oscura - día 12!
-
-[FINISH_DARK_12_TITLE]
-¡Desbloquea el reto de Arturo!
-
-[FINISH_DARK_15_DESC]
-¡Puaj, metal! ¡Qué fastidio! ¡Atrae cubos y cascos con Magnetoseta! ¡Completa la Edad Oscura - día 15!
-
-[FINISH_DARK_15_TITLE]
-¡Desbloquea a Magnetoseta!
-
-[FINISH_DARK_20_DESC]
-¡Detén al cruel Dr. Zombi y gana tu trofeo en este interludio del siglo diez en la Edad Oscura - día 20!
-
-[FINISH_DARK_20_TITLE]
-¡Pelea contra el Dr. Zombi!
-
-[FINISH_DINO_1_DESC]
-¡Lanzaguisantes primitivo lanza guisantes pesados que aturden! ¡Completa Pantano del Jurásico - día 1!
-
-[FINISH_DINO_1_TITLE]
-¡Desbloquea a Lanzaguisantes primitivo!
-
-[FINISH_DINO_4_DESC]
-¡Construye rápido tus defensas con la rápida Nuez primitiva! ¡Completa Pantano del Jurásico - día 4!
-
-[FINISH_DINO_4_TITLE]
-¡Desbloquea a Nuez primitiva!
-
-[FINISH_DINO_8_DESC]
-¡Encanta dinosauros y vuélvelos contra zombis con Seta perfumada! ¡Completa Pantano del Jurásico - día 8!
-
-[FINISH_DINO_8_TITLE]
-¡Desbloquea a Seta perfumada!
-
-[FINISH_DINO_16_DESC]
-¡Aniquila a los Zombisteins antediluvianos del Pantano del Jurásico - día 16!
-
-[FINISH_DINO_16_TITLE]
-¡Derrota a los Zombisteins!
-
-[FINISH_DINO_17_DESC]
-¡Los Girasoles primitivos emiten soles enormes! ¡Completa Pantano del jurásico - día 17!
-
-[FINISH_DINO_17_TITLE]
-¡Desbloquea a Girasol primitivo!
-
-[FINISH_DINO_20_DESC]
-Enfréntate a feroces dinosaurios y zombis prehistóricos para ganar premios en esta batalla antigua! ¡Completa Pantano del jurásico - día 20!
-
-[FINISH_DINO_20_TITLE]
-¡Desbloquea Los pozos de Cere-brea!
-
-[FINISH_DINO_23_DESC]
-¡Vuela zombis por los aires con almidón, por cortesía de Papapúm primitiva! ¡Completa Pantano del jurásico - día 23!
-
-[FINISH_DINO_23_TITLE]
-¡Desbloquea a Papapúm primitiva!
-
-[FINISH_DINO_32_DESC]
-¡Frustra al febril Dr. Zombi y gana tu trofeo en la contienda cenagosa de Pantano del jurásico - día 32!
-
-[FINISH_DINO_32_TITLE]
-¡Pelea contra el Dr. Zombi!
-
-[FINISH_EGYPT_2_DESC]
-¡Lanza coles sobre las tumbas y sorprende a larga distancia! ¡Completa el Antiguo Egipto - día 2!
-
-[FINISH_EGYPT_2_TITLE]
-¡Desbloquea a Coltapulta!
-
-[FINISH_EGYPT_3_DESC]
-¡Lanza bumeranes a través de varios enemigos a la vez para infligir el doble de daño! ¡Completa el Antiguo Egipto - día 3!
-
-[FINISH_EGYPT_3_TITLE]
-Completar Egipto 3
-
-[FINISH_EGYPT_5_DESC]
-¡Lechuga iceberg deja helados a los zombis! ¡Qué frescura! ¡Completa el Antiguo Egipto - día 5!
-
-[FINISH_EGYPT_5_TITLE]
-¡Desbloquea a Lechuga iceberg!
-
-[FINISH_EGYPT_7_DESC]
-¡Juega más niveles del Antiguo Egipto y desbloquea más plantas!
-
-[FINISH_EGYPT_7_TITLE]
-¡Sigue explorando el Antiguo Egipto!
-
-[FINISH_EGYPT_8_DESC]
-¡Derrota al horroroso Zombistein del Antiguo Egipto - día 6 para ganar llaves de mundo para viajar por el tiempo!
-
-[FINISH_EGYPT_8_TITLE]
-¡Gana llaves de mundo!
-
-[FINISH_EGYPT_9_DESC]
-¡Destroza tumbas al instante con Comepiedras! ¡Completa el Antiguo Egipto - día 9!
-
-[FINISH_EGYPT_9_TITLE]
-¡Desbloquea a Comepiedras!
-
-[FINISH_EGYPT_12_DESC]
-¡Acaba con zombis y gana premios en este modo infinito de supervivencia egipcio! ¡Completa el Antiguo Egipto - día 12!
-
-[FINISH_EGYPT_12_TITLE]
-¡Consigue la Pirámide de la perdición!
-
-[FINISH_EGYPT_13_DESC]
-¡Esta planta boxeadora golpea a zombis por delante y por detrás! ¡Completa el Antiguo Egipto - día 13!
-
-[FINISH_EGYPT_13_TITLE]
-¡Desbloquea a Bonk Choi!
-
-[FINISH_EGYPT_17_DESC]
-¡Mantén una unidad más de Nutrientes durante un nivel! ¡Siempre viene bien! ¡Completa el Antiguo Egipto - día 17!
-
-[FINISH_EGYPT_17_TITLE]
-¡Desbloquea un espacio de Nutrientes!
-
-[FINISH_EGYPT_19_DESC]
-¿Por qué disparar un guisante cuando puedes disparar dos y doblar la potencia de fuego? ¡Completa el Antiguo Egipto - día 19!
-
-[FINISH_EGYPT_19_TITLE]
-¡Desbloquea a Repetidora!
-
-[FINISH_EGYPT_21_DESC]
-¡Empieza bien el día con 25 soles iniciales extra en cada nivel! ¡Completa el Antiguo Egipto - día 21!
-
-[FINISH_EGYPT_21_TITLE]
-¡Desbloquea Mejora de soles iniciales!
-
-[FINISH_EGYPT_24_DESC]
-¿Tienes pocos soles? ¡Birasol produce el doble de sol por casilla! ¡Completa el Antiguo Egipto - día 24!
-
-[FINISH_EGYPT_24_TITLE]
-¡Desbloquea a Birasol!
-
-[FINISH_EGYPT_25_DESC]
-¡Derrota al Dr. Zombi diabólico y gana tu trofeo en esta batalla del pasado de Antiguo Egipto - día 25!
-
-[FINISH_EGYPT_25_TITLE]
-¡Pelea contra el Dr. Zombi!
-
-[FINISH_EIGHTIES_1_DESC]
-¡Remolacha tremenda trae el ritmo e inflige daño por todos lados! ¡Completa Vueltacasete de neón 1!
-
-[FINISH_EIGHTIES_1_TITLE]
-¡Desbloquea a Remolacha tremenda!
-
-[FINISH_EIGHTIES_5_DESC]
-Qué sigiloso... ¡Apio furtivo se esconde bajo tierra y después sale para golpear a los zombis por la espalda! ¡Completa Vueltacasete de neón 5!
-
-[FINISH_EIGHTIES_5_TITLE]
-¡Desbloquea a Apio furtivo!
-
-[FINISH_EIGHTIES_9_DESC]
-¿Quieres rebobinar a los zombis y que vuelvan a su posición inicial? ¡Pues volvamos con Tomillo tiempillo! ¡Completa Vueltacasete de neón 9!
-
-[FINISH_EIGHTIES_9_TITLE]
-¡Desbloquea a Tomillo tiempillo!
-
-[FINISH_EIGHTIES_16_DESC]
-¡Machaca al Zombistein musical de Vueltacasete de neón - día 16!
-
-[FINISH_EIGHTIES_16_TITLE]
-¡Derrota al Zombistein!
-
-[FINISH_EIGHTIES_17_DESC]
-¡Usa a Ajo para poner desvíos en tus líneas! ¡Completa Vueltacasete de neón 17!
-
-[FINISH_EIGHTIES_17_TITLE]
-¡Desbloquea a Ajo!
-
-[FINISH_EIGHTIES_20_DESC]
-¡Golpea a zombis con ritmo y gana premios en este mezcladito musical! ¡Completa Vueltacasete de neón 20!
-
-[FINISH_EIGHTIES_20_TITLE]
-¡Desbloquea la sala del peligro de los 80!
-
-[FINISH_EIGHTIES_21_DESC]
-¡Las Setas esporadas crean más setas! ¡Completa Vueltacasete de neón 21!
-
-[FINISH_EIGHTIES_21_TITLE]
-¡Desbloquea a Seta esporada!
-
-[FINISH_EIGHTIES_26_DESC]
-¡Revive plantas comidas con la indomable Zanahoria intensiva! ¡Completa Vueltacasete de neón 26!
-
-[FINISH_EIGHTIES_26_TITLE]
-¡Desbloquea a Zanahoria intensiva!
-
-[FINISH_EIGHTIES_32_DESC]
-¡Irrita al irascible Dr. Zombi y gana tu trofeo en la ataque de ópera de Vueltacasete de neón 32!
-
-[FINISH_EIGHTIES_32_TITLE]
-¡Pelea contra el Dr. Zombi!
-
-[FINISH_FUTURE_1_DESC]
-¡La mirada de Frijol láser atraviesa a todos los zombis de una línea en cada disparo! ¡Plas! ¡Completa el Futuro lejano - día 1!
-
-[FINISH_FUTURE_1_TITLE]
-¡Desbloquea a Frijol láser!
-
-[FINISH_FUTURE_3_DESC]
-¡Expulsa a todos los zombis voladores del tablero con un gran soplo! ¡Completa el Futuro lejano - día 3!
-
-[FINISH_FUTURE_3_TITLE]
-¡Desbloquea a Trebolador!
-
-[FINISH_FUTURE_4_DESC]
-¡Enfréntate a zombis tecnológicos y gana premios en un embrollo infinito inminente! ¡Completa el Futuro lejano - día 4!
-
-[FINISH_FUTURE_4_TITLE]
-¡Desbloquea el Terror del mañana!
-
-[FINISH_FUTURE_6_DESC]
-Inflige daño masivo a un solo objetivo. ¡Zombisteins, tened cuidado! ¡Completa el Futuro lejano - día 6!
-
-[FINISH_FUTURE_6_TITLE]
-¡Desbloquea a Pomelo!
-
-[FINISH_FUTURE_8_DESC]
-¡Enfréntate al furioso Zombistein del Futuro lejano - día 8!
-
-[FINISH_FUTURE_8_TITLE]
-¡Derrota al Zombistein!
-
-[FINISH_FUTURE_9_DESC]
-¡Usa a P.E.Melocotonético para aturdir a todos los zombis robóticos y mecánicos de un área! ¡Completa el Futuro lejano - día 9!
-
-[FINISH_FUTURE_9_TITLE]
-¡Desbloquea a P.E.Melocotonético!
-
-[FINISH_FUTURE_13_DESC]
-¡Nuez infinita se regenera periódicamente y bloquea todas las líneas con Nutrientes! ¡Impresionante! ¡Completa el Futuro lejano - día 13!
-
-[FINISH_FUTURE_13_TITLE]
-¡Desbloquea a Nuez infinita!
-
-[FINISH_FUTURE_17_DESC]
-¡Diviértete con el sol! Gasta soles en rayos poderosos con Hierba lupa. ¡Completa el Futuro lejano - día 17!
-
-[FINISH_FUTURE_17_TITLE]
-¡Desbloquea a Hierba lupa!
-
-[FINISH_FUTURE_20_DESC]
-¡Lanza una cortadora manualmente tocando y manteniendo pulsado el dedo! ¡Despéjalo todo! ¡Completa el Futuro lejano - día 20!
-
-[FINISH_FUTURE_20_TITLE]
-¡Desbloquea el Lanzamiento de cortadora!
-
-[FINISH_FUTURE_24_DESC]
-Las Casillas potenciadoras mejoran los efectos de los Nutrientes. ¡Créalas con Rábano casillero! ¡Completa el Futuro lejano - día 24!
-
-[FINISH_FUTURE_24_TITLE]
-¡Desbloquea a Rábano casillero!
-
-[FINISH_FUTURE_25_DESC]
-¡Repele al retorcido Dr. Zombi y gana tu trofeo en esta pelea del mañana en el Futuro lejano - día 25!
-
-[FINISH_FUTURE_25_TITLE]
-¡Pelea contra el Dr. Zombi!
-
-[FINISH_ICEAGE_1_DESC]
-¿El viento gélido te detiene? ¡Papa caliente rompe el hielo! ¡Completa las Cuevas congeladas - día 1!
-
-[FINISH_ICEAGE_1_TITLE]
-¡Desbloquea a Papa caliente!
-
-[FINISH_ICEAGE_6_DESC]
-Pelea contra el hielo con fuego. ¡Lanzachiles funde el hielo y lanza trozos por encima de los obstáculos! ¡Completa las Cuevas congeladas - día 6!
-
-[FINISH_ICEAGE_6_TITLE]
-¡Desbloquea a Lanzachiles!
-
-[FINISH_ICEAGE_11_DESC]
-Mantén la línea o, mejor, ¡empújalos! Guardacelga se encarga. ¡Completa las Cuevas congeladas - día 11!
-
-[FINISH_ICEAGE_11_TITLE]
-¡Desbloquea a Guardacelga!
-
-[FINISH_ICEAGE_16_DESC]
-¡Ataca al abominable Zombistein de las Cuevas congeladas - día 16!
-
-[FINISH_ICEAGE_16_TITLE]
-¡Derrota al Zombistein!
-
-[FINISH_ICEAGE_19_DESC]
-¿Necesitas aturdir a algunos zombis por un momento? ¡Cebolla aturdidora se encarga! ¡Completa las Cuevas congeladas - día 19!
-
-[FINISH_ICEAGE_19_TITLE]
-¡Desbloquea a Cebolla aturdidora!
-
-[FINISH_ICEAGE_20_DESC]
-¡Rompe zombis helados y gana premios en esta contienda glacial! ¡Completa las Cuevas congeladas - día 20!
-
-[FINISH_ICEAGE_20_TITLE]
-¡Desbloquea el Campo de batalla helado!
-
-[FINISH_ICEAGE_26_DESC]
-¡Rotinabo vuela, flota y dispara en cuatro direcciones! Completa las Cuevas congeladas - día 26.
-
-[FINISH_ICEAGE_26_TITLE]
-¡Desbloquea a Rotinabo!
-
-[FINISH_ICEAGE_30_DESC]
-¡Confunde al corrupto Dr. Zombi y gana tu trofeo en este conflicto criogénico en las Cuevas congeladas - día 30!
-
-[FINISH_ICEAGE_30_TITLE]
-¡Pelea contra el Dr. Zombi!
-
-[FINISH_LOSTCITY_1_DESC]
-¡Aguijón rojo es un tirador con mucha potencia cuando está en retaguardia, pero que se vuelve mucho más defensivo cuanto más avanza! ¡Completa Ciudad perdida - Día 1!
-
-[FINISH_LOSTCITY_1_TITLE]
-¡Desbloquea a Aguijón rojo!
-
-[FINISH_LOSTCITY_6_DESC]
-AKEE lanza proyectiles que rebotan por varios enemigos en una línea. ¡Atentos, zombis! ¡Completa Ciudad perdida - Día 6!
-
-[FINISH_LOSTCITY_6_TITLE]
-¡Desbloquea a AKEE!
-
-[FINISH_LOSTCITY_10_DESC]
-¿La mejor defensa es un buen ataque? ¡Mejor tener las dos cosas! ¡Endurián bloquea e inflige daño a los enemigos! ¡Completa Ciudad perdida - Día 10!
-
-[FINISH_LOSTCITY_10_TITLE]
-¡Desbloquea a Endurián!
-
-[FINISH_LOSTCITY_16_DESC]
-¡Acaba con el pérfido Zombistein de la Ciudad perdida - día 16!
-
-[FINISH_LOSTCITY_16_TITLE]
-¡Derrota al Zombistein!
-
-[FINISH_LOSTCITY_19_DESC]
-¡Paralia ralentiza zombis con una ráfaga de potente perfume! ¡Completa el día 19 de Ciudad perdida!
-
-[FINISH_LOSTCITY_19_TITLE]
-Desbloquea a Paralia
-
-[FINISH_LOSTCITY_20_DESC]
-¡Erradica a los Zombis exploradores en esta fiesta perpetua con una batalla botánica! ¡Completa Ciudad perdida - día 20!
-
-[FINISH_LOSTCITY_20_TITLE]
-¡Desbloquea el Templo marchito!
-
-[FINISH_LOSTCITY_26_DESC]
-¡Hoja dorada convierte las aburridas casillas normales en casillas de oro que generan soles! ¡Completa Ciudad perdida - día 26!
-
-[FINISH_LOSTCITY_26_TITLE]
-¡Desbloquea a Hoja dorada!
-
-[FINISH_LOSTCITY_32_DESC]
-¡Fastidia al pernicioso Dr. Zombi en la zona de aventura de Ciudad perdida - día 32!
-
-[FINISH_LOSTCITY_32_TITLE]
-¡Pelea contra el Dr. Zombi!
-
-[FINISH_MODERN_1_DESC]
-¡Mejora a las plantas sombrías con la lunática Flor lunar! ¡Completa el día 1 de los Tiempos modernos!
-
-[FINISH_MODERN_1_TITLE]
-¡Desbloquea a Flor lunar!
-
-[FINISH_MODERN_4_DESC]
-¡Da grandes bofetadas con la Solanácea sombría! ¡Completa el día 4 de los Tiempos modernos!
-
-[FINISH_MODERN_4_TITLE]
-¡Desbloquea a Solanácea!
-
-[FINISH_MODERN_10_DESC]
-¡Envenena zombis con la toxicidad lúgubre de Sombraseta! ¡Completa el día 10 de los Tiempos modernos!
-
-[FINISH_MODERN_10_TITLE]
-¡Desbloquea a Sombraseta!
-
-[FINISH_MODERN_16_DESC]
-¡Acaba con los Zombisteins actualizados de los Tiempos modernos - día 16!
-
-[FINISH_MODERN_16_TITLE]
-¡Derrota al Zombistein!
-
-[FINISH_MODERN_17_DESC]
-¡Lanza pepitas explosivas a zombis hambrientos con Lanzadora oscura! ¡Completa Tiempos modernos, día 17!
-
-[FINISH_MODERN_17_TITLE]
-¡Desbloquea a Lanzadora oscura!
-
-[FINISH_MODERN_20_DESC]
-¡Enfréntate a titanes temporales en este nexo interminable! ¡Completa Tiempos modernos, día 20!
-
-[FINISH_MODERN_20_TITLE]
-¡Desbloquea la autopista a la sala de peligro!
-
-[FINISH_MODERN_23_DESC]
-¡Arrastra zombis a la perdición que se merece con Siniestrosa! ¡Completa Tiempos modernos, día 23!
-
-[FINISH_MODERN_23_TITLE]
-¡Desbloquea a Siniestrosa!
-
-[FINISH_MODERN_34_DESC]
-¡Desafía al diabólico Dr. Zombi y gana tu premio en el choque climático de Tiempos modernos, día 34!
-
-[FINISH_MODERN_34_TITLE]
-¡Pelea contra el Dr. Zombi!
-
-[FINISH_PIRATE_1_DESC]
-¿Una planta que inflige daño y aturde zombis? ¡Increíble! ¡Completa los Mares piratas - día 1!
-
-[FINISH_PIRATE_1_TITLE]
-¡Desbloquea a Lanzamaíz!
-
-[FINISH_PIRATE_3_DESC]
-¡Calienta el ambiente con ataques ardientes que afectan a varias líneas! ¡Completa los Mares piratas - día 3!
-
-[FINISH_PIRATE_3_TITLE]
-¡Desbloquea a Bocadragón!
-
-[FINISH_PIRATE_4_DESC]
-¡Aventuras infinitas en alta mar esperan que te pongas al mando! ¡Completa los Mares piratas - día 4!
-
-[FINISH_PIRATE_4_TITLE]
-¡Desbloquea el Botín del muerto!
-
-[FINISH_PIRATE_6_DESC]
-¡Daña zombis y rompe barriles con la indomable Pinchohierba! ¡Completa los Mares piratas - día 6!
-
-[FINISH_PIRATE_6_TITLE]
-¡Desbloquea a Pinchohierba!
-
-[FINISH_PIRATE_8_DESC]
-¡Destroza al espantoso Zombistein de los Mares piratas - día 8!
-
-[FINISH_PIRATE_8_TITLE]
-¡Derrota al Zombistein!
-
-[FINISH_PIRATE_9_DESC]
-¿Zombi espadachín te tiene contra las cuerdas? ¡Derríbalo y mételo en el armario de Davy Jones! ¡Completa los Mares piratas - día 9!
-
-[FINISH_PIRATE_9_TITLE]
-¡Desbloquea a Frijuelle!
-
-[FINISH_PIRATE_11_DESC]
-¡BUM! ¡Despeja grupos enteros de zombis con cada disparo explosivo! ¡Completa los Mares piratas - día 11!
-
-[FINISH_PIRATE_11_TITLE]
-¡Desbloquea a Cococañón!
-
-[FINISH_PIRATE_14_DESC]
-¡Dispara guisantes en tres líneas a la vez para triplicar tu potencia de fuego! ¡Completa los Mares piratas - día 14!
-
-[FINISH_PIRATE_14_TITLE]
-¡Desbloquea a Tripitidora!
-
-[FINISH_PIRATE_18_DESC]
-¡Fuerte como para enfrentarse a Zombistein y afilado para acabar a los zombis! ¡Completa los Mares piratas - día 18!
-
-[FINISH_PIRATE_18_TITLE]
-¡Desbloquea a Pinchorroca!
-
-[FINISH_PIRATE_21_DESC]
-¡Lleva más plantas a la contienda! ¡Con más espacios de semillas tendrás más opciones! ¡Completa los Mares piratas - día 21!
-
-[FINISH_PIRATE_21_TITLE]
-¡Desbloquea un espacio de semillas extra!
-
-[FINISH_PIRATE_24_DESC]
-¡La explosión devastadora de Petacereza fríe grupos enteros de enemigos en varias líneas! ¡Completa los Mares piratas - día 24!
-
-[FINISH_PIRATE_24_TITLE]
-¡Desbloquea a Petacereza!
-
-[FINISH_PIRATE_25_DESC]
-¡Aplasta al odioso Dr. Zombi y gana tu trofeo en este pedazo de agua salada de los Mares piratas - día 25!
-
-[FINISH_PIRATE_25_TITLE]
-¡Pelea contra el Dr. Zombi!
 
 [FIRECRACKERFLOWER]
 Flor petardo
@@ -22222,7 +21583,7 @@ Arándano eléctrico ataca un {Param_1}% más rápido
 El efecto de Nutrientes de Castañas de curling inflige un {Param_1}% más de daño
 
 [GENE_DESCRIPTION_EMPEA]
-P.E.Melocoténico utiliza máquinas por {Param_1} segundo (s) más
+P.E.Melocoténico utiliza máquinas por {Param_1} s más
 
 [GENE_DESCRIPTION_ENDURIAN]
 Endurián inflige un {Param_1}% más de daño
@@ -22270,7 +21631,7 @@ Siniestrosa se recarga un {Param_1}% más rápido
 Peluda de Brezal tiene un {Param_1}% de lanzar el doble de dardos
 
 [GENE_DESCRIPTION_HOLONUT]
-Nuez infinita se regenera {Param_1} segundo (s) más rápido
+Nuez infinita se regenera {Param_1} s más rápido
 
 [GENE_DESCRIPTION_HOMINGTHISTLE]
 Es un {Param_1}% más probable que Cardo teledirigido dispare un combo de cardos a partir del Nvl. 2
@@ -22312,7 +21673,7 @@ Reduce el tiempo de recuperación de Orejas de conejo en un {Param_1}%
 Lanzamaíz tiene un {Param_1}% más de probabilidad de lanzar mantequilla
 
 [GENE_DESCRIPTION_KIWIFRUIT]
-Extiende la duración de los váculos de Kiwimono en {Param_1} segundo (s)
+Extiende la duración de los váculos de Kiwimono en {Param_1} s
 
 [GENE_DESCRIPTION_LANCERHOYA]
 Hoya lanceada concentra sus ataques {Param_1} s más rápido
@@ -22360,13 +21721,13 @@ Baya artillera tiene un {Param_1}% más de disparar bayas moradas al Nvl. 5
 Los pinchos de Rabo de gato tienen un {Param_1}% de atravesar zombis
 
 [GENE_DESCRIPTION_OLIVEPIT]
-Reduce el tiempo de digestión de Pozoliva en {Param_1} segundo (s)
+Reduce el tiempo de digestión de Pozoliva en {Param_1} s
 
 [GENE_DESCRIPTION_PAMEGRANATE]
 La velocidad de Granada metralla aumenta un {Param_1}%
 
 [GENE_DESCRIPTION_PEACH]
-El escudo de Durazno celestial dura {Param_1} segundo (s) más
+El escudo de Durazno celestial dura {Param_1} s más
 
 [GENE_DESCRIPTION_PEANUT]
 Cacahuate se recarga un {Param_1}% más rápido
@@ -22408,13 +21769,13 @@ Girasol primitivo se recarga un {Param_1}% más rápido
 La nuez pequeña crecerá y se convertirá en una Nuez primitiva tras {Param_1} s
 
 [GENE_DESCRIPTION_PUFFSHROOM]
-El tiempo de vida de Seta desesporada aumenta en {Param_1} segundo (s)
+El tiempo de vida de Seta desesporada aumenta en {Param_1} s
 
 [GENE_DESCRIPTION_PUMPKIN]
 Calabaza gana una armadura al plantarse que aumenta su salud en {Param_1} puntos
 
 [GENE_DESCRIPTION_PUMPKINWITCH]
-Reduce el tiempo de recuperación de Brujalabaza en {Param_1} segundo (s)
+Reduce el tiempo de recuperación de Brujalabaza en {Param_1} s
 
 [GENE_DESCRIPTION_RAFFLESIA]
 Las esporas explosivas de Rafflesia infligen un {Param_1}% más de daño
@@ -24338,7 +23699,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^A048CF^ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 1.0.2^oldclr^
+^FF9E6B^Versión del parche: 1.0.3^oldclr^
 ^87CEFA^Última actualización: 25/3/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_4]
@@ -26815,7 +26176,7 @@ Madera
 Madera
 
 [JOUST_LOCAL_HIGH_SCORE]
-Tu puntuación máxima: {COUNT}
+Mejor puntuación: {COUNT}
 
 [JOUST_LOCAL_PLAYER_NAME]
 Tú
@@ -31463,7 +30824,7 @@ Arrastra el carro de mina a una nueva ubicación
 ¡Dispersa {COUNT} Frijoles cada {TIME} segundos!
 
 [MINE_IS_YOURS_DESCRIPTION]
-¡Dispersa {COUNT} Papapúm (s) cada {TIME} segundo (s)!
+¡Dispersa {COUNT} Papapúm (s) cada {TIME} s!
 
 [MINE_IS_YOURS_GOLDBLOOM_DESCRIPTION]
 ¡Dispersa {COUNT} Florecimientos dorados cada {TIME} segundos!
@@ -31472,10 +30833,10 @@ Arrastra el carro de mina a una nueva ubicación
 ¡Dispersa {COUNT} Hipnosetas cada {TIME} segundos!
 
 [MINE_IS_YOURS_JALAPENO_DESCRIPTION]
-¡Dispersa {COUNT} Jalapeño (s) cada {TIME} segundo (s)!
+¡Dispersa {COUNT} Jalapeño (s) cada {TIME} s!
 
 [MINE_IS_YOURS_PRIMALPOTATOMINE_DESCRIPTION]
-¡Dispersa {COUNT} Papapúm (s) primitiva (s) cada {TIME} segundo (s)!
+¡Dispersa {COUNT} Papapúm (s) primitiva (s) cada {TIME} s!
 
 [MINE_IS_YOURS_SHINEVINE_DESCRIPTION]
 ¡Dispersa {COUNT} Enredaderas relucientes cada {TIME} segundos!
@@ -31484,7 +30845,7 @@ Arrastra el carro de mina a una nueva ubicación
 ¡Dispersa {COUNT} Apisonaflor(es) cada {TIME} segundos!
 
 [MINE_IS_YOURS_SUNFLOWER_DESCRIPTION]
-¡Dispersa {COUNT} Girasol (es) cada {TIME} segundo (s)!
+¡Dispersa {COUNT} Girasol (es) cada {TIME} s!
 
 [MINE_IS_YOURS_TUMBLEWEED_DESCRIPTION]
 ¡Dispersa {COUNT} Rodadoras cada {TIME} segundos!
@@ -31572,7 +30933,7 @@ Tu clasificación: ^FF0000^{RANK}^oldclr^
 Tu recompensa:
 
 [MINIGAME_RULE_TXT]
-^E8DCC8^1. Diviértete jugando minijuegos y gana puntos mientras lo haces.
+^FF0000^1. Diviértete jugando minijuegos y gana puntos mientras lo haces.
 2. Al final de los niveles obtendrás Energía de refuerzo, úsala para mejorar tus ventajas.
 3. Alcanza hitos mientras más puntos acumules para obtener Recompensas.^oldclr^
 
@@ -34084,11 +33445,11 @@ Música de pianola: Descargada
 ¡Me voy a un momento que no os podéis imaginar!
 
 [NARRATIVE_ELIMINATE_BLOCK_INTRO_1]
-{NPC_ENTER:winnieicon}{SAY:winnieicon}¡Tus esferas se congelan!
+{NPC_ENTER:winnieicon}{SAY}¡Tus esferas se congelan!
 Combina las esferas de alrededor para destruir los bloques de hielo y liberar el resto.
 
 [NARRATIVE_ELIMINATE_COLOR_INTRO_1]
-{NPC_ENTER:winnieicon}{PLAYFUL:crazydaveicon}Derrota los zombis de colores para obtener muchas esferas.
+{NPC_ENTER:winnieicon}{PLAYFUL}Derrota los zombis de colores para obtener muchas esferas.
 
 [NARRATIVE_ELIMINATE_INTRO_1]
 {NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{PLAYFUL:crazydaveicon}Mira, Penny. ¡Bolitas de colores!
@@ -55241,10 +54602,10 @@ SOBRE LAS TABLAS DE CLASIFICACIÓN
 Liga actual
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL2]
-Liga 2
+Liga próxima
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL3]
-Liga 3
+Liga post-próxima
 
 [RIFT_LEADERBOARD_SEASON_REWARD_HEADER]
 Recompensas por temporada
@@ -55265,7 +54626,7 @@ x{FUEL_AMT}   JUGAR
 Recompensas
 
 [RIFT_LEVEL_SETUP_MAX_SCORE]
-Tu puntuación máxima: ^EC6A00^{NUMS}^oldclr^
+Mejor puntuación: ^EC6A00^{NUMS}^oldclr^
 
 [RIFT_LEVEL_SETUP_TITLE]
 Selecciona la dificultad del nivel {LEVEL_NUMBER}:
@@ -55911,7 +55272,7 @@ Sobrevive y vacía las {BARS} barras de salud de Dr. Zombi en {MINUTES} minutos
 ¡Pelear!
 
 [RIFT_ZOMBOSS_LEVEL_SETUP_DOUBLE_TITLE]
-^FFA500^¡Pelea contra el Dr. Zomboss!^oldclr^
+Pelea contra el Dr. Zomboss (premios dobles)
 
 [RIFT_ZOMBOSS_LEVEL_SETUP_TITLE]
 ¡Pelea contra el Dr. Zombi!
@@ -61248,7 +60609,7 @@ Horario del servicio: 8:30 AM - 10:00 PM
 Aquí puedes ver toda la información sobre el juego.
 
 [SETTINGS_ABOUT_TITLE]
-Acerca de
+ACERCA DE
 
 [SETTINGS_ACCOUNT_DELETION_TITLE]
 Eliminar mi cuenta
@@ -61337,15 +60698,6 @@ http://filead.talkyun.com.cn/tw/twyh.htm
 [SETTINGS_FPS_ENABLE]
 60 FPS
 
-[SETTINGS_FPS_HIGH]
-RÁPIDO
-
-[SETTINGS_FPS_LOW]
-LENTO
-
-[SETTINGS_FPS_PROMPT]
-Frecuencia de fotogramas (FPS)
-
 [SETTINGS_FPS_TITLE]
 Ajustes gráficos
 
@@ -61365,7 +60717,7 @@ Recursos compartidos del SDK
 http://filead.talkyun.com.cn/tw/sdk.htm
 
 [SETTINGS_INVENTORY_URL_ANDROID]
-{SETTINGS_INVENTORY_URL}
+http://filead.talkyun.com.cn/tw/sdk.htm
 
 [SETTINGS_LEGAL_TEXT]
 Textos legales importantes
@@ -61373,35 +60725,14 @@ Textos legales importantes
 [SETTINGS_LEGAL_TITLE]
 Información legal
 
-[SETTINGS_MERCH_URL]
-http://www.pvzstore.com/?utm_source={DEVICETYPE}&utm_medium={OPENEDFROM}&utm_campaign={LANGUAGE}
-
-[SETTINGS_MOREGAMES_MULTIPLATFORM_URL]
-https://canvas.popcap.com/games/{LOCALEINSERT}plants-vs-zombis-2-safari/{PLATFORM}/{DEVICETYPE}
-
-[SETTINGS_MOREGAMES_TITLE]
-Más juegos
-
-[SETTINGS_MOREGAMES_URL]
-http://canvas.popcap.com/games/plants-vs-zombis-2/ios/{DEVICETYPE}
-
-[SETTINGS_NEWS_TITLE]
-Noticias y actualizaciones
-
-[SETTINGS_NOTIFICATIONS]
-Activar avisos
-
-[SETTINGS_OPEN_APPLICATION_SETTINGS]
-Abrir configuración de la app
-
 [SETTINGS_PERSONAL_TITLE]
 Tus datos personales
 
 [SETTINGS_PERSONAL_URL]
-http://filead.talkyun.com.cn/tw/geren.htm
+http://filead.talkyun.com.cn/tw/geren.html
 
 [SETTINGS_PERSONAL_URL_ANDROID]
-{SETTINGS_PERSONAL_URL}
+http://filead.talkyun.com.cn/tw/geren.html
 
 [SETTINGS_PLAYERTARGETING_DISABLE]
 Desactivar anuncios personalizados
@@ -61774,7 +61105,7 @@ Nivel 5
 Aumenta la producción solar
 
 [SHOCKWAVE_PERK_DESCRIPTION]
-¡Empuja a los zombis a una distancia de {DISTANCE} cada {TIME} segundo (s)!
+¡Empuja a los zombis a una distancia de {DISTANCE} cada {TIME} s!
 
 [SHOOTER_DISABLE_PLANT_DIFFICULTY_2]
 Zona de silencio
@@ -68266,7 +67597,7 @@ Comenzar
 {STAR_COUNT}
 
 [SUMMARY_TITLE]
-Tu progreso
+TU PROGRESO
 
 [SUMMARY_UPLOAD_OK]
 Progreso subido con éxito
@@ -75794,6 +75125,15 @@ Puedes desbloquear el nivel actual con Joyas, ¿deseas continuar?
 
 [WORLDMAP_EVENT_LOD_COUNTDOWN]
 {HOURS_LEFT}h {MINUTES_LEFT}m {SECONDS_LEFT}s
+
+[WORLDMAP_EVENT_LOD_COUNTDOWN_MIN]
+{MINUTES_LEFT}m {SECONDS_LEFT}s
+
+[WORLDMAP_EVENT_LOD_COUNTDOWN_MIN_NO_S]
+{MINUTES_LEFT} min
+
+[WORLDMAP_EVENT_LOD_COUNTDOWN_NO_S]
+{HOURS_LEFT} h {MINUTES_LEFT} min
 
 [WORLD_NAME_ATLANTIS]
 La Atlántida
