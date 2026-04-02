@@ -1,4 +1,4 @@
-﻿[#OF#]
+﻿ [#OF#]
 # de #
 
 [rank_avatar_diy_61]
@@ -41,7 +41,7 @@ El correo ha caducado
 Ya has recibido el bonus sorpresa
 
 [LANTERN_RIDDLES_INFO]
-Completa el acertijo para recibir Bolsas de Año Nuevo. A más aciertos, mayores premios.
+Completa el acertijo para recibir Bolsas de regalo. A más aciertos, más premios.
 
 [LANTERN_RIDDLES_RED_PACK_RETURN]
 VOLVER
@@ -50,7 +50,618 @@ VOLVER
 ABRIR
 
 [LANTERN_RIDDLES_ACCMULATED_REWARD]
-Acertijo - Día {DAY}
+Gran acertijo - Día {DAY}
+
+[LANTERN_RIDDLES_ANSWERED]
+Respondido
+
+[LANTERN_RIDDLES_BACK]
+VOLVER
+
+[LANTERN_RIDDLES_CHEAT]
+PISTA
+
+[LANTERN_RIDDLES_DAY]
+Día {DAY}
+
+[LANTERN_RIDDLES_DAY_1]
+Gran acertijo - Día 1
+
+[LANTERN_RIDDLES_DAY_3]
+Gran acertijo - Día 3
+
+[LANTERN_RIDDLES_DAY_6]
+Gran acertijo - Día 6
+
+[LANTERN_RIDDLES_DAY_10]
+Gran acertijo - Día 10
+
+[LANTERN_RIDDLES_DAY_16]
+Gran acertijo - Día 16
+
+[LANTERN_RIDDLES_DESC]
+Recompensas de hoy:
+
+[LANTERN_RIDDLES_EXTRA]
+Extra
+
+[LANTERN_RIDDLES_FINISH_TODAY]
+Completado
+
+[LANTERN_RIDDLES_NEXT]
+SIGUIENTE
+
+[LANTERN_RIDDLES_NUM_0]
+1° acertijo
+
+[LANTERN_RIDDLES_NUM_1]
+2° acertijo
+
+[LANTERN_RIDDLES_NUM_2]
+3° acertijo
+
+[LANTERN_RIDDLES_NUM_3]
+4° acertijo
+
+[LANTERN_RIDDLES_NUM_4]
+5° acertijo
+
+[LANTERN_RIDDLES_PRIZE]
+Premios del acertijo:
+
+[LANTERN_RIDDLES_RED_PACK]
+Ve a "Sobres rojos"
+
+[LANTERN_RIDDLES_RESULT]
+Aciertos: {CORRECT_COUNT} | Fallas: {WRONG_COUNT}
+Tu premio: {REDPACK_COUNT} Sobres rojos
+
+[LANTERN_RIDDLES_SPECIAL_PRIZE_DESC]
+Responde las preguntas correctamente para obtener plantas exclusivas
+
+[LANTERN_RIDDLES_SPECIAL_PRIZE_GET]
+Acertijo completado: ¡tienes una nueva planta!
+
+[LANTERN_RIDDLES_TITLE]
+Gran acertijo
+
+[LANTERN_RIDDLES_TOTAL]
+Tasa de aciertos: {CORRECT_COUNT}%
+Participaste: {DAY_GUESS} d | Te perdiste: {DAY_MISSED} d
+
+[LANTERN_RIDDLES_0]
+¿En qué provincia de China se encuentran las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_0]
+ca=Gansu|Sichuan|Shaanxi|Qinghai|
+
+[LANTERN_RIDDLES_1]
+La cueva de Mogao también es conocida como _________ por sus estatuas y murales.
+
+[LANTERN_RIDDLES_ANSWER_1]
+ca=Cueva de los Mil Budas|Cueva artística|Peña de estatuas|Peña de Buda|
+
+[LANTERN_RIDDLES_2]
+¿Sobre qué se excavaron las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_2]
+ca=Acantilados|Montañas|Llanuras|Desiertos|
+
+[LANTERN_RIDDLES_3]
+¿A qué tipo de clima pertenece Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_3]
+ca=Templado|Árido|Tropical|Subtropical|
+
+[LANTERN_RIDDLES_4]
+¿Cuál es el patrimonio cultural más famoso de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_4]
+ca=Cuevas de Mogao|Montaña cantante|Yangguán|Paisaje de Yadan|
+
+[LANTERN_RIDDLES_5]
+¿En qué época se excavaron las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_5]
+ca=Dinastías del Norte y Sur|Dinastía Han|Dinastía Qin|Dinastía Tang|
+
+[LANTERN_RIDDLES_6]
+¿Qué ruta importante pasaba por Dunhuang en la antigüedad?
+
+[LANTERN_RIDDLES_ANSWER_6]
+ca=Ruta de la Seda|Ruta del Té|Canal de Pekín-Hangzhou|Ruta marítima|
+
+[LANTERN_RIDDLES_7]
+¿Qué significa el nombre de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_7]
+ca=Grandeza|Pueblo feliz|Nombre de un emperador|Melones|
+
+[LANTERN_RIDDLES_8]
+¿Cuántas cuevas se conservan en las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_8]
+ca=Más de 700|Más de 1.000|Más de 2.000|Más de 3.000|
+
+[LANTERN_RIDDLES_9]
+¿En qué lista figuran las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_9]
+ca=Patrimonio Cultural de la Humanidad|Patrimonio de Mogao|Patrimonio de Cuevas|Patrimonio Geológico Mundial|
+
+[LANTERN_RIDDLES_10]
+¿Cuál es el tema principal de los murales de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_10]
+ca=Escrituras budistas|Personajes|Animales|Arquitectura|
+
+[LANTERN_RIDDLES_11]
+¿A qué se le conoce como Feitian?
+
+[LANTERN_RIDDLES_11]
+ca=Hadas|Aves|Instrumentos|Animales|
+
+[LANTERN_RIDDLES_12]
+¿Por qué algunas Feitian tienen la piel negra?
+
+[LANTERN_RIDDLES_ANSWER_12]
+ca=La pintura se oxidó|Decisión de los artesanos|Son de ese color|Vandalismo|
+
+[LANTERN_RIDDLES_13]
+¿Qué instrumento sostiene Cactus en su nuevo disfraz?
+
+[LANTERN_RIDDLES_ANSWER_13]
+ca=Tambor|Guitarra|Flauta|Violín|
+
+[LANTERN_RIDDLES_14]
+¿De qué origen eran los pigmentos utilizados en los murales?
+
+[LANTERN_RIDDLES_ANSWER_14]
+ca=Minerales|Eran sintéticos|Vegetales|Insectos|
+
+[LANTERN_RIDDLES_15]
+¿Cuál de los siguientes colores NO aparece en los murales de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_15]
+ca=Morado|Amarillo|Azul|Rojo|
+
+[LANTERN_RIDDLES_16]
+¿Cuál de los siguientes NO es un tema representado en los murales de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_16]
+ca=Cultura y religión|Guerras|Agricultura|Vida imperial|
+
+[LANTERN_RIDDLES_17]
+¿Cuál era la función principal de los Feitian en los murales?
+
+[LANTERN_RIDDLES_ANSWER_17]
+ca=Esparcir flores y bailar|Limpiar|Guiar a personas|Servir de decoración|
+
+[LANTERN_RIDDLES_18]
+¿Cuál es el mural de mayor tamaño en Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_18]
+ca=Pintura del Monte Wutai|Historia del Rey Ciervo|Los quinientos bandidos iluminados|Salida de Zhang Yichao|
+
+[LANTERN_RIDDLES_19]
+¿Durante qué dinastía se excavaron más cuevas en Mogao?
+
+[LANTERN_RIDDLES_ANSWER_19]
+ca=Dinastía Tang|Dinastía Song|Dinastías del Norte y Sur|Dinastía Ming|
+
+[LANTERN_RIDDLES_20]
+¿Qué instrumento aparece con mayor frecuencia en los murales de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_20]
+ca=Pipa|Piano|Violín|Guitarra|
+
+[LANTERN_RIDDLES_21]
+¿Cuál de las siguientes es una obra representativa de los murales de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_21]
+ca=Ciervo de nueve colores|La Mona Lisa|Festival Qingming|Montañas Fuchun|
+
+[LANTERN_RIDDLES_22]
+¿Cuánto tiempo duró la excavación de las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_22]
+ca=Más de mil años|Trescientos años|Algunas décadas|Menos de diez años|
+
+[LANTERN_RIDDLES_23]
+¿Desde qué dinastía las figuras de donantes en los murales empezaron a representarse a tamaño casi real?
+
+[LANTERN_RIDDLES_ANSWER_23]
+ca=Dinastía Tang|Dinastía Song|Dinastías del Norte y del Sur|Dinastía Ming|
+
+[LANTERN_RIDDLES_24]
+¿Cómo se llama la decoración del techo en las cuevas de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_24]
+ca=Zaojing|Encaje|Patrón|Marco|
+
+[LANTERN_RIDDLES_25]
+¿De qué materiales están hechas principalmente las esculturas policromadas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_25]
+ca=Madera, paja y arcilla|Piedra|Madera|Metal|
+
+[LANTERN_RIDDLES_26]
+¿Cuál es el tema principal de las esculturas policromadas?
+
+[LANTERN_RIDDLES_ANSWER_26]
+ca=Figuras budistas|Emperadores antiguos|Gente común|Animales|
+
+[LANTERN_RIDDLES_27]
+¿Cuál es la altura aproximada de la escultura más grande en Mogao?
+
+[LANTERN_RIDDLES_ANSWER_27]
+ca=30 metros|10 metros|50 metros|100 metros|
+
+[LANTERN_RIDDLES_28]
+¿Por qué muchas esculturas en Mogao no tienen manos?
+
+[LANTERN_RIDDLES_ANSWER_28]
+ca=Desgaste y daño|Decisión de los artesanos|Fueron comidas por insectos|Son así|
+
+[LANTERN_RIDDLES_29]
+¿Quién suele ser la figura central en las cuevas de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_29]
+ca=Buda Shakyamuni|Emperador de Jade|Guanyin|Laozi|
+
+[LANTERN_RIDDLES_30]
+¿Cuál es el primer paso en la creación de una escultura policromada?
+
+[LANTERN_RIDDLES_ANSWER_30]
+ca=Construir la estructura base|Aplicar color|Dejar secar|Pulir|
+
+[LANTERN_RIDDLES_31]
+¿Cómo se llaman las pequeñas esculturas adheridas a las paredes en Mogao?
+
+[LANTERN_RIDDLES_ANSWER_31]
+ca=Escultura adherida|Escultura exenta|Relieve|Escultura en ladrillo|
+
+[LANTERN_RIDDLES_32]
+¿Cómo suelen ser las expresiones faciales de los Reyes Celestiales en las esculturas?
+
+[LANTERN_RIDDLES_ANSWER_32]
+ca=Enojadas|Adoloridas|Felices|Tristes|
+
+[LANTERN_RIDDLES_33]
+¿Con qué se pintaban los murales de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_33]
+ca=Pincel|Pluma|Lápiz|Marcador|
+
+[LANTERN_RIDDLES_34]
+¿En cuántas partes se dividen las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_34]
+ca=Antecámara, pasillo y sala principal|Escaleras|Pasillo|Puerta|
+
+[LANTERN_RIDDLES_35]
+En la antigüedad, Dunhuang era un importante _____ en el intercambio cultural.
+
+[LANTERN_RIDDLES_ANSWER_35]
+ca=Nodo|Destino final|Punto de partida|Lugar irrelevante|
+
+[LANTERN_RIDDLES_36]
+¿En qué dinastía se descubrió la Cueva de los Manuscritos en Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_36]
+ca=Dinastía Qing|Dinastía Tang|Dinastía Song|Dinastía Ming|
+
+[LANTERN_RIDDLES_37]
+¿Qué se guardaba principalmente en la Cueva de los Manuscritos?
+
+[LANTERN_RIDDLES_ANSWER_37]
+ca=Textos budistas|Oro|Alimentos|Armas|
+
+[LANTERN_RIDDLES_38]
+¿En qué idioma están escritos los manuscritos encontrados?
+
+[LANTERN_RIDDLES_ANSWER_38]
+ca=Chino|Sogdiano|Tochario|Uigur|
+
+[LANTERN_RIDDLES_39]
+¿Quiénes eran los principales habitantes de la antigua Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_39]
+ca=Diversos grupos étnicos|Solo han|Solo hui|Solo tibetanos|
+
+[LANTERN_RIDDLES_40]
+¿Por qué los camellos son adecuados para viajar por el desierto?
+
+[LANTERN_RIDDLES_ANSWER_40]
+ca=Resisten la sequía|Les gusta la arena|Corren muy rápido|Pueden nadar|
+
+[LANTERN_RIDDLES_41]
+Si Dunhuang está en el desierto, ¿de dónde proviene el agua de sus ríos?
+
+[LANTERN_RIDDLES_ANSWER_41]
+ca=Del deshielo de montañas nevadas|Del mar|De pozos artificiales|De la lluvia|
+
+[LANTERN_RIDDLES_42]
+¿Cómo es el clima de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_42]
+ca=Seco, de lluvia escasa|Caluroso y lluvioso|Frío y seco|Templado y húmedo|
+
+[LANTERN_RIDDLES_43]
+¿Quién descubrió la Cueva de los Manuscritos?
+
+[LANTERN_RIDDLES_ANSWER_43]
+ca=Un monje taoísta|Un agricultor|Un académico|Un funcionario|
+
+[LANTERN_RIDDLES_44]
+¿De qué vivía principalmente la gente en la antigua Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_44]
+ca=Agricultura y comercio|Pesca|Caza|Pastoreo|
+
+[LANTERN_RIDDLES_45]
+¿Por qué se dejó de excavar en las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_45]
+ca=Declive de la Ruta de la Seda|Falta de materiales|Los artesanos se fueron|Guerras|
+
+[LANTERN_RIDDLES_46]
+¿Qué dinastía NO participó en la excavación de las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_46]
+ca=Dinastía Qing|Dinastía Tang|Dinastía Song|Dinastías del Norte y del Sur|
+
+[LANTERN_RIDDLES_47]
+¿Qué significa aproximadamente el nombre Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_47]
+ca=Grande y próspero|Pequeño y débil|Alto y peligroso|Bajo y plano|
+
+[LANTERN_RIDDLES_48]
+En la nueva versión, ¿qué atuendo temático fue agregado?
+
+[LANTERN_RIDDLES_ANSWER_48]
+ca=Dosel ceremonial|Paraguas|Toldo|Sombrero|
+
+[LANTERN_RIDDLES_49]
+El budismo es clave en la cultura de Dunhuang, ¿de dónde llegó a China?
+
+[LANTERN_RIDDLES_ANSWER_49]
+ca=India|Persia|Grecia|Roma|
+
+[LANTERN_RIDDLES_50]
+En la nueva versión, ¿qué tipo de cuernos tiene Girasol primitivo?
+
+[LANTERN_RIDDLES_ANSWER_50]
+ca=Cuernos de ciervo|Cuernos de toro|Cuernos de oveja|Colmillos de elefante|
+
+[LANTERN_RIDDLES_51]
+Al visitar Mogao, ¿qué NO está permitido?
+
+[LANTERN_RIDDLES_ANSWER_51]
+ca=Tomar fotos|Observar en silencio|Seguir indicaciones|Cuidar el patrimonio|
+
+[LANTERN_RIDDLES_52]
+¿Cuál es la principal dificultad para conservar los murales?
+
+[LANTERN_RIDDLES_ANSWER_52]
+ca=Se decoloran y desprenden fácilmente|Falta de dinero|Falta de protección|Ubicación remota|
+
+[LANTERN_RIDDLES_53]
+¿Cómo se llamaban en la antigüedad las campanillas decorativas?
+
+[LANTERN_RIDDLES_ANSWER_53]
+ca=Todas las anteriores|Fengduo|Tiemah|Campana espanta-aves|
+
+[LANTERN_RIDDLES_54]
+¿Qué nivel turístico tiene Mogao actualmente?
+
+[LANTERN_RIDDLES_ANSWER_54]
+ca=Sin clasificación|Categoría 5A|Categoría 4A|Categoría 3A|
+
+[LANTERN_RIDDLES_55]
+Durante la visita, ¿qué no se debe hacer?
+
+[LANTERN_RIDDLES_ANSWER_55]
+ca=Rayar los murales|Observar en silencio|Seguir indicaciones|Cuidar el patrimonio|
+
+[LANTERN_RIDDLES_56]
+¿Cómo podemos aprender sobre la cultura de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_56]
+ca=Leyendo libros y viendo documentales|No aprender|Solo escuchar a otros|Adivinar|
+
+[LANTERN_RIDDLES_57]
+En las esculturas, ¿quién es el joven que suele estar junto al Buda?
+
+[LANTERN_RIDDLES_ANSWER_57]
+ca=Ananda|Kashyapa|Guanyin|Rey Celestial|
+
+[LANTERN_RIDDLES_58]
+¿Todas las cuevas de Mogao están abiertas al público?
+
+[LANTERN_RIDDLES_ANSWER_58]
+ca=Solo algunas|Todas|Ninguna|Solo 10|
+
+[LANTERN_RIDDLES_59]
+¿Cómo pueden los niños ayudar a proteger la cultura de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_59]
+ca=Aprendiendo sobre él|No visitando|Dañando el patrimonio|No hacer nada|
+
+[LANTERN_RIDDLES_60]
+¿Qué suelen sostener los Feitian en los murales?
+
+[LANTERN_RIDDLES_ANSWER_60]
+ca=Instrumentos musicales|Libros|Comida|Juguetes|
+
+[LANTERN_RIDDLES_61]
+En las esculturas, ¿qué figura representa a un general?
+
+[LANTERN_RIDDLES_ANSWER_61]
+ca=Rey Celestial|Bodhisattva|Discípulo|Donante|
+
+[LANTERN_RIDDLES_62]
+¿Cómo se numeran las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_62]
+ca=Según su ubicación geográfica|Por orden cronológico|Por tamaño|Por número de estatuas|
+
+[LANTERN_RIDDLES_63]
+¿Cuál es un producto típico de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_63]
+ca=Uvas|Lichi|Mango|Banana|
+
+[LANTERN_RIDDLES_64]
+¿A qué jugaban los niños en la antigua Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_64]
+ca=El escondite|Luz verde|Videojuegos|Tabletas|
+
+[LANTERN_RIDDLES_65]
+¿Qué danza de los murales se caracteriza por giros continuos?
+
+[LANTERN_RIDDLES_ANSWER_65]
+ca=Danza Huxuan|Danza moderna|Breakdance|Ballet|
+
+[LANTERN_RIDDLES_66]
+¿Cuál es la forma más común de las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_66]
+ca=Cuadrada|Circular|Ovalada|Irregular|
+
+[LANTERN_RIDDLES_67]
+¿En qué materiales están hechas las pinturas halladas en la Cueva de los Manuscritos?
+
+[LANTERN_RIDDLES_ANSWER_67]
+ca=Seda, tela de cáñamo y papel|Madera|Plástico|Placas de cobre|
+
+[LANTERN_RIDDLES_68]
+¿Qué animación incluye elementos de los Feitian de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_68]
+ca=El ciervo de nueve colores|Peppa Pig|Beastars|One Piece|
+
+[LANTERN_RIDDLES_69]
+¿Qué significa la palabra "Mogao"?
+
+[LANTERN_RIDDLES_ANSWER_69]
+ca=Desierto alto|No alto|El más alto|Con altura|
+
+[LANTERN_RIDDLES_70]
+¿En qué criatura está inspirada Azálea imperial?
+
+[LANTERN_RIDDLES_ANSWER_70]
+ca=Feitian|Buda|Arhat|Donante|
+
+[LANTERN_RIDDLES_71]
+En los murales de Dunhuang, ¿qué planta aparece con más frecuencia?
+
+[LANTERN_RIDDLES_ANSWER_71]
+ca=Loto|Rosa|Peonía|Crisantemo|
+
+[LANTERN_RIDDLES_72]
+Junto al Buda, ¿qué anciano suele aparecer?
+
+[LANTERN_RIDDLES_ANSWER_72]
+ca=Kashyapa|Ananda|Guanyin|Rey Celestial|
+
+[LANTERN_RIDDLES_73]
+En el evento, ¿cuántos sobres rojos se pueden obtener como máximo?
+
+[LANTERN_RIDDLES_ANSWER_73]
+ca=10|7|5|13|
+
+[LANTERN_RIDDLES_74]
+Tras el descubrimiento de la Cueva de los Manuscritos, los objetos...
+
+[LANTERN_RIDDLES_ANSWER_74]
+ca=Se dispersaron en el extranjero|Permanecieron en China|Se perdieron|Fueron destruidos|
+
+[LANTERN_RIDDLES_75]
+El entorno de las cuevas de Mogao es principalmente...
+
+[LANTERN_RIDDLES_ANSWER_75]
+ca=Desierto|Bosque|Océano|Pradera|
+
+[LANTERN_RIDDLES_76]
+¿Cuál era la religión principal en la antigua Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_76]
+ca=Budismo|Cristianismo|Islam|Taoísmo|
+
+[LANTERN_RIDDLES_77]
+En los murales, ¿qué animal transporta mercancías en la Ruta de la Seda?
+
+[LANTERN_RIDDLES_ANSWER_77]
+ca=Camello|Caballo|Buey|Burro|
+
+[LANTERN_RIDDLES_78]
+¿Por qué algunos murales están borrosos?
+
+[LANTERN_RIDDLES_ANSWER_78]
+ca=Envejecimiento|Daño humano|Lluvia|Viento|
+
+[LANTERN_RIDDLES_80]
+En Dunhuang, ¿qué es el "zaojing" en el techo de las cuevas?
+
+[LANTERN_RIDDLES_ANSWER_80]
+ca=Decoración|Ventana|Iluminación|Ventilación|
+
+[LANTERN_RIDDLES_81]
+El comercio en la antigua Dunhuang prosperó porque estaba ubicada en...
+
+[LANTERN_RIDDLES_ANSWER_81]
+ca=Una ruta clave|La costa|Zona montañosa|Llanura|
+
+[LANTERN_RIDDLES_82]
+¿Para qué se usaban las cuevas de Mogao?
+
+[LANTERN_RIDDLES_ANSWER_82]
+ca=Rituales budistas|Vivienda|Guardar alimentos|Guerra|
+
+[LANTERN_RIDDLES_83]
+¿Qué pigmento era el más raro en los murales?
+
+[LANTERN_RIDDLES_ANSWER_83]
+ca=Azul lapislázuli|Rojo ocre|Amarillo tierra|Negro tinta|
+
+[LANTERN_RIDDLES_84]
+En las esculturas, ¿qué significa una mano con la palma hacia arriba?
+
+[LANTERN_RIDDLES_ANSWER_84]
+ca=Satisfacer el deseo|Enojo|Rechazo|Cansancio|
+
+[LANTERN_RIDDLES_85]
+¿Qué incluye principalmente el arte de Dunhuang?
+
+[LANTERN_RIDDLES_ANSWER_85]
+ca=Murales y esculturas|Caligrafía y pintura|Solo esculturas|Solo murales|
+
+[LANTERN_RIDDLES_86]
+¿En qué año Mogao fue declarado Patrimonio de la Humanidad?
+
+[LANTERN_RIDDLES_ANSWER_86]
+ca=1987|1977|1997|2007|
+
+[LANTERN_RIDDLES_87]
+Al visitar Dunhuang, los niños deben...
+
+[LANTERN_RIDDLES_ANSWER_87]
+ca=Proteger el patrimonio|Hacer ruido|Tomar fotos|Tirar basura|
+
+[LANTERN_RIDDLES_88]
+En los murales, las cintas de los Feitian representan...
+
+[LANTERN_RIDDLES_ANSWER_88]
+ca=El vuelo|Estética|Decoración|Abrigo|
+
+[LANTERN_RIDDLES_89]
+¿En qué dinastía se dejó de excavar en Mogao?
+
+[LANTERN_RIDDLES_ANSWER_89]
+ca=Dinastía Ming|Dinastía Tang|Dinastía Song|Dinastías del Norte y Sur|
 
 [ZOMBIE_BEACH_IMP_QUIFF]
 Zombidito tupé
@@ -107,9 +718,9 @@ No se puede restablecer.
 Azálea imperial
 
 [APSARLOTUS_DESCRIPTION]
-{KEYWORD}Nube potenciadora: {STAT}genera una nube en la casilla de al frente. Plantar en ella consume el doble del coste de la planta y garantiza la activación de su Despertar (válido para plantas de Nvl. 4 en adelante)
+{KEYWORD}Nube sagrada: {STAT}genera una nube en la casilla de al frente. Plantar en ella consume el doble del coste de la planta y garantiza la activación de su Despertar (válido para plantas de Nvl. 4 en adelante)
 
-{KEYWORD}Danza celestial: {STAT}potencia a las plantas de alrededor, aumentando su daño y velocidad de ataque (área 3x3)
+{KEYWORD}Danza de pétalos: {STAT}potencia a las plantas de alrededor, aumentando su daño y velocidad de ataque (área 3x3)
 
 {KEYWORD}Características de la planta: {STAT}planta verde (rosada)
 
@@ -134,7 +745,7 @@ Gasa ceremonial
 Nivel 2
 
 [APSARLOTUS_SKILL_LEVEL1_DES]
-^4DD4DB^Velo arcoíris:^oldclr^ reduce el coste de activación de la Nube potenciadora; la Danza celestial se activa más rápido
+^4DD4DB^Velo arcoíris:^oldclr^ reduce el coste de activación de la Nube pura; la Danza de pétalos se activa más rápido
 
 [APSARLOTUS_SKILL_LEVEL2]
 Nivel 3
@@ -146,7 +757,7 @@ Nivel 3
 Nivel 5
 
 [APSARLOTUS_SKILL_LEVEL5_DES]
-^DB8117^Fuerza divina:^oldclr^ si el Despertar de una planta se activa bajo la Nube potenciadora, Azálea imperial reactivará el efecto a cambio de soles
+^DB8117^Fuerza divina:^oldclr^ si el Despertar de una planta se activa bajo la Nube pura, Azálea imperial reactivará el efecto a cambio de soles
 
 [APSARLOTUS_FAMILY]
 Ericaceae
@@ -586,26 +1197,26 @@ Existe un ^D22808^10% de posibilidad^oldclr^ de disparar un tornado que pone a l
 ^E2725B^Si un zombi en este estado choca con otro, le causa daño adicional o lo expulsa.^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL1_DES]
-^DB8117^Nube potenciadora: consume un 200% del coste de la planta y activa su Despertar ^FF0000^(a partir del Nvl. 4)^oldclr^
-^DD7ECB^Danza celestial: otorga 20% +daño y 50% +velocidad a las plantas de un área 3x3 por 5 s cada 10 s^oldclr^
+^DB8117^Nube sagrada: activa el Despertar de una planta de Nvl. 4 por el 200% de su coste^oldclr^
+^DD7ECB^Danza de pétalos: cada 10 s, otorga 20% más daño y 50% más velocidad por 5 s^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL2_DES]
-^DB8117^Nube potenciadora: reduce la cantidad de soles consumidos en un 50% ^D22808^(100% del coste)^oldclr^
-^DD7ECB^Danza celestial: se activa 2 s más rápido ^D22808^(ahora 8 s)^oldclr^
+^DB8117^Nube sagrada: reduce la cantidad de soles consumidos en un 50% ^D22808^(100% del coste)^oldclr^
+^DD7ECB^Danza de pétalos: se activa 2 s más rápido ^D22808^(ahora 8 s)^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL3_DES]
-^DB8117^Nube potenciadora: reduce la cantidad de soles consumidos en un 100% ^D22808^(50% del coste)^oldclr^
-^DD7ECB^Danza celestial: se activa 4 s más rápido ^D22808^(ahora 6 s)^oldclr^
+^DB8117^Nube sagrada: reduce la cantidad de soles consumidos en un 100% ^D22808^(50% del coste)^oldclr^
+^DD7ECB^Danza de pétalos: se activa 4 s más rápido ^D22808^(ahora 6 s)^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL4_DES]
-Gana un ^D22808^50% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: libera nubes en un área 1x3 que otorgan 100% +daño y 50% +velocidad durante 10 s^oldclr^
+Gana un ^D22808^50% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
+^DB8117^Nutrientes: libera nubes en un área 1x3 que otorgan 100% más daño y 50% más velocidad durante 10 s^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL5_DES]
-Si el Despertar de una planta se activa bajo la Nube potenciadora, Azálea imperial reactivará el efecto a cambio del 50% de su coste
+Si el Despertar de una planta se activa bajo la Nube sagrada, Azálea imperial reactivará el efecto a cambio del 50% de su coste
 
 [APSARLOTUS_PLANTFOOD_DESCRIPTION]
-Libera nubes en un área 1x3 al frente que otorgan un 100% más daño y 50% más velocidad durante 10 s
+Libera nubes en un área 1x3 que otorgan un 100% más daño y 50% más velocidad durante 10 s
 
 [APSARLOTUS_AVATAR_PLANTFOOD_DESCRIPTION]
 Amplía la duración de la Nube potenciadora a 15 s, esta anula los efectos adversos de las plantas circundantes
@@ -24583,8 +25194,8 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^A048CF^ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 1.0.0^oldclr^
-^87CEFA^Última actualización: 31/3/2026^oldclr^
+^FF9E6B^Versión del parche: 1.1.0^oldclr^
+^87CEFA^Última actualización: 2/4/2026^oldclr^
 
 [HEALTH_NOTICE_CONTENT_4]
 Derechos de autor: Electronic Arts Inc.
@@ -72274,6 +72885,9 @@ Proporciona el doble de sol que el Girasol
 
 [TWOYEAR_CAN_GOT]
 Segundo aniversario
+
+[TWO_YEAR_BIRTHDAY_REWARD_GOT_BTN]
+ACEPTAR
 
 [TWO_YEAR_SHARE_BUTTON]
 Compartir
