@@ -38,7 +38,7 @@ No cumples los requisitos para recibir el premio
 El correo ha caducado
 
 [REDPACK_NUM_DESC_NEW]
-Ya has recibido el bonus sorpresa
+Bolsas de regalo
 
 [LANTERN_RIDDLES_INFO]
 Completa el acertijo para recibir Bolsas de regalo. A más aciertos, más premios.
@@ -92,25 +92,25 @@ Completado
 SIGUIENTE
 
 [LANTERN_RIDDLES_NUM_0]
-1° acertijo
+Pregunta 1/5
 
 [LANTERN_RIDDLES_NUM_1]
-2° acertijo
+Pregunta 2/5
 
 [LANTERN_RIDDLES_NUM_2]
-3° acertijo
+Pregunta 3/5
 
 [LANTERN_RIDDLES_NUM_3]
-4° acertijo
+Pregunta 4/5
 
 [LANTERN_RIDDLES_NUM_4]
-5° acertijo
+Pregunta 5/5
 
 [LANTERN_RIDDLES_PRIZE]
 Premios del acertijo:
 
 [LANTERN_RIDDLES_RED_PACK]
-Ve a "Sobres rojos"
+PREMIOS
 
 [LANTERN_RIDDLES_RESULT]
 Aciertos: {CORRECT_COUNT} | Fallas: {WRONG_COUNT}
@@ -241,7 +241,7 @@ ca=Esparcir flores y bailar|Limpiar|Guiar a personas|Servir de decoración|
 ¿Cuál es el mural de mayor tamaño en Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_18]
-ca=Pintura del Monte Wutai|Historia del Rey Ciervo|Los quinientos bandidos iluminados|Salida de Zhang Yichao|
+ca=Pintura del Monte Wutai|Historia del Rey Ciervo|500 bandidos iluminados|Salida de Zhang Yichao|
 
 [LANTERN_RIDDLES_19]
 ¿Durante qué dinastía se excavaron más cuevas en Mogao?
@@ -664,7 +664,7 @@ ca=El vuelo|Estética|Decoración|Abrigo|
 ca=Dinastía Ming|Dinastía Tang|Dinastía Song|Dinastías del Norte y Sur|
 
 [ZOMBIE_BEACH_IMP_QUIFF]
-Zombidito tupé
+Zombidito con tupé
 
 [ZOMBIE_BEACH_IMP_QUIFF_DESCRIPTION]
 Suele vestirse de negro y llevar una peineta en mano para arreglarse los flequillos que le sobresalen. ¡La buena apariencia es lo primero!
@@ -682,7 +682,7 @@ Yeti faraón
 {FLAVOR}Su obsesión por las monedas es asunto serio. En cuanto alguien se le acerca, sale corriendo a toda velocidad para evitar que se las arrebaten. "¡Esas monedas son mías! ¡MÍAS!", grita mientras huye.
 
 [ZOMBIE_TREASUREYETI_EGYPT_DESCRIPTION_HEADER]
-Criatura extraña de Egipto, siempre lleva comida encima.
+Criatura extraña de Egipto, siempre lleva monedas encima.
 
 [NEW_PVP_FREE_CHEST_BUY_CONFIRM_TITLE]
 Confirmar compra
@@ -730,13 +730,13 @@ Azálea imperial
 Azálea imperial es una planta de apoyo que danza y libera nubes de pétalos para potenciar a las plantas de su alrededor.
 
 [APSARLOTUS_TOOLTIP]
-Potencia a las plantas de su alrededor, garantizando su Despertar
+Libera pétalos y nubes que potencian a las plantas de su alrededor
 
 [APSARLOTUS_PRODUCT_SHORT_DESC]
-Potencia a las plantas de su alrededor, garantizando su Despertar
+Libera pétalos y nubes que potencian a las plantas de su alrededor
 
 [STORE_PRODUCT_AVATAR_APSARLOTUS]
-Amplía la duración de la Nube potenciadora, esta anula los efectos adversos de las plantas circundantes
+Amplía la duración de la Nube sagrada, esta anula los efectos adversos de las plantas circundantes
 
 [STORE_PRODUCT_AVATAR_APSARLOTUS_TITLE]
 Gasa ceremonial
@@ -1219,7 +1219,7 @@ Si el Despertar de una planta se activa bajo la Nube sagrada, Azálea imperial r
 Libera nubes en un área 1x3 que otorgan un 100% más daño y 50% más velocidad durante 10 s
 
 [APSARLOTUS_AVATAR_PLANTFOOD_DESCRIPTION]
-Amplía la duración de la Nube potenciadora a 15 s, esta anula los efectos adversos de las plantas circundantes
+Amplía la duración de la Nube sagrada a 15 s, esta anula los efectos adversos de las plantas circundantes
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DUCKPEAR_2]
 Reina abeja
@@ -1300,21 +1300,21 @@ Tambor ceremonial
 Daño +15%
 
 [NFS_LINKAGE_TAB2_8]
-Dunhuang
+Misiones
 
 [NFSLINKAGE_DESCRIPTION_TITLE_8]
 Descripción
 
 [NFSLINKAGE_DESCRIPTION_8]
 1. Inicia sesión durante 14 días para recibir recompensas en el Calendario.
-2. Completa misiones para conseguir oro (las hay diarias y especiales).
+2. Completa misiones para conseguir Nubes de oro (las hay diarias y especiales).
 3. Usa el oro en la Tienda para comprar artículos antes de que termine el evento.
 
 [NFSLINKAGE_TITLE_8]
-Misión en Dunhuang
+Aventuras en Dunhuang
 
 [MAT_NFSLINKAGE_TICKET_8]
-Oro
+Nube de oro
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_8]
 Inicia sesión 14 días para obtener recompensas. Completa tareas para obtener oro que puede canjearse en la Tienda.
@@ -1371,7 +1371,7 @@ Utiliza Hipnosetas para derrotar a los zombis
 Protege a Roble arquero y alcanza la puntuación objetivo acertando a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_30]
-Pon obstáculos y plantas para evitar que los zombis lleguen a la línea de meta
+Evita que los zombis se lleven a los cerditos
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_61]
 Rompe los jarrones y derrota a los zombis
@@ -4077,6 +4077,7 @@ Avisos sobre la Edad
 
 [AGE_TIP_CONTENT]
 Este es un juego de estrategia, adecuado para usuarios de 12 años o más.
+
 Se recomienda que los menores realicen compras bajo la supervisión de sus tutores.
 
 [AIRSHIP_CRASH_LOSS]
@@ -25150,9 +25151,9 @@ Curación
 
 
 [HEALTH_NOTICE_CONTENT_3]
-^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^A048CF^ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 2.0.0^oldclr^
-^87CEFA^Última actualización: 3/4/2026^oldclr^
+^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^DD7ECB^ShadowVT^oldclr^
+^FF9E6B^Versión del parche: 2.0.1^oldclr^
+^87CEFA^Última actualización: 4.0.7 (parche actualizado el 5/4/2026)^oldclr^
 
 [HEALTH_NOTICE_CONTENT_4]
 Derechos de autor: Electronic Arts Inc.
@@ -27656,18 +27657,6 @@ Error de Conexión
 
 [JOUST_NETWORK_ERROR_UNKNOWN]
 Se ha producido un error desconocido, inténtalo de nuevo.
-
-[JOUST_NOTIFICATION_TICKETS]
-¡Tienes disponible un Guantelete gratis para Batallaz!
-
-[JOUST_NOTIFICATION_TOURNAMENT_BEGIN]
-Comenzó un nuevo torneo de Batallaz. ¡Apunta a la cima!
-
-[JOUST_NOTIFICATION_TOURNAMENT_ENDED]
-El torneo de Batallaz terminó. ¡Inicia sesión para conseguir tus premios!
-
-[JOUST_NOTIFICATION_TOURNAMENT_ENDING]
-El torneo de Batallaz acabará pronto, ¡asegura tu clasificación!
 
 [JOUST_NO_TICKET_TEXT]
 Consigue más Guanteletes para jugar.
@@ -42114,13 +42103,13 @@ Misiones
 Misiones
 
 [NFS_LINKAGE_TAB2_5]
-Hemudu
+Misiones
 
 [NFS_LINKAGE_TAB2_6]
-Navidad
+Misiones
 
 [NFS_LINKAGE_TAB2_7]
-Cazalingotes
+Misiones
 
 [NFS_LINKAGE_TAB3]
 Tienda
