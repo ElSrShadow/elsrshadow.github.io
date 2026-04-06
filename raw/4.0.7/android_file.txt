@@ -5538,6 +5538,9 @@ x{SPEED}
 [ARENA_ENDING_BTN]
 ACEPTAR
 
+[ARENA_ENDING_BTN_OK]
+ACEPTAR
+
 [ARENA_PLAYER_BANK_TXT_LOSE]
 Derrota
 
@@ -25152,12 +25155,12 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión del parche: 2.0.1^oldclr^
-^87CEFA^Última actualización: 4.0.7 (parche actualizado el 5/4/2026)^oldclr^
+^87CEFA^Versión actual: 4.0.7^oldclr^
+^FF9E6B^Versión del parche: 2.0.2 (actualizado el 6/4/2026)^oldclr^
 
 [HEALTH_NOTICE_CONTENT_4]
 Derechos de autor: Electronic Arts Inc.
-Servicio de publicación: TalkWeb Games
+Servicio de publicación: TalkWeb Games, Melting Games
 
 [HEALTH_NOTICE_CONTENT_5]
 
@@ -25233,14 +25236,14 @@ Trompeta de ángel
 Lazo celeste
 
 [HEAVENDATURA_AVATAR_PLANTFOOD_DESCRIPTION]
-La onda sonora del efecto aturde zombis por 2 segundos
+La onda sonora del efecto aturde zombis por 2 s
 
 [HEAVENDATURA_DESCRIPTION]
 {KEYWORD}Uso: {STAT}tocar para accionar, deslizar para cambiar de frecuencia
 {KEYWORD}Alcance: {STAT}1 casilla, área 3x3 (3ra nota), área 5x5 (5ta nota)
 {KEYWORD}Característica de la planta: {STAT}planta amarilla
 
-{FLAVOR}Puede imitar los sonidos de su entorno, incluso puede tocar las canciones de sus bandas favoritas.
+{FLAVOR}Trompeta de ángel descendió envuelta en una melodía celestial. Desde entonces, imita los sonidos que escucha, aunque a veces toca canciones que nadie recuerda haber oído jamás.
 
 [HEAVENDATURA_DESCRIPTION_HEADER]
 Trompeta de ángel genera ondas sonoras cuando un proyectil la sobrevuela, dañando a los zombis de un área determinada.
@@ -25419,7 +25422,7 @@ Por cada 6 balas del efecto, el sigte. proyectil perforará la armadura del enem
 {KEYWORD}Alcance: {STAT}ataca por su fila, y en las diagonales
 {KEYWORD}Especial: {STAT}prioriza a los zombis más cercanos a tu casa
 {KEYWORD}Especial: {STAT}puede inmovilizar hasta 3 zombis con redes
-{KEYWORD}Características de las plantas: {STAT}planta amarilla (roja)
+{KEYWORD}Características de la planta: {STAT}planta amarilla (roja)
 
 {FLAVOR}Suele ser alguien de caracter feroz, pero se vuelve un tanto mono cuando llueve.
 
@@ -25613,10 +25616,10 @@ El rayo refractado hace un 50% del daño base y tiene un ^D22808^50% de probabil
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: lanza un rayo a 3 zombis más cercanos, dejando una niebla que los debilita durante 3 s
+^DB8117^Nutrientes: lanza un rayo a 3 zombis más cercanos, dejando una niebla que los debilita durante 3 s^oldclr^
 
 [HOCUSCROCUS_NEW_SKILL_LEVEL5_DES]
-Tras 2 ataques consecutivos, disparará un rayo que se refracta y reduce la fuerza de los zombis en 1 Nvl.
+Tras 2 ataques consecutivos, disparará un rayo que se refracta y reduce la fuerza de los zombis en 1
 
 [HOCUSCROCUS_PEDIA]
 Alazafrán esta inspirada en el azafrán (Crocus sativus), una planta de flor violeta que produce los estigmas rojizos utilizados como especia. Su sabor amargo y aroma penetrante lo convierten en un condimento muy valorado. Se cultiva principalmente por sus delicados hilos rojos, recolectados a mano.
@@ -29274,7 +29277,7 @@ Ciudad perdida - Día {LEVEL_NUMBER}
 Calavera maldita
 
 [LOSTCITY_ZOMBIE_DESCRIPTION]
-Triplica la salud del Zombi calavera turquesa, quien roba soles 2,5 segundos más rápido
+Los calavera turquesa tienen más salud y roban soles más rápido
 
 [LOST_NETWORK_ACTIVE_BUBBLE_TEXT]
 Ahorra hasta un {PERCENT}%
@@ -29307,7 +29310,7 @@ Costo:
 {PLANT} al Nvl. 5
 
 [LOST_NETWORK_ACTIVE_TIME_PRE]
-Actualizar paquete de regalo:
+Nuevo lote en:
 
 [LOST_PURCHASE_DIALOG_DES]
 Esta función te ayuda a comprobar si posees un artículo que no ha llegado.
@@ -29319,7 +29322,7 @@ Trofeos dorados
 Joyas
 
 [LOTTERY_DRESSPIECE]
-Piezas de Atuendos
+Piezas de atuendos
 
 [LOTTERY_EPICPLANTS_LEVEL2]
 Plantas épicas de Nvl. 2
@@ -29331,7 +29334,7 @@ Monedas
 Plantas legendarias de Nvl. 2
 
 [LOTTERY_NET_ERROR]
-No se pudo comprar {ITEM} por un error en tu Conexión a Internet, inténtalo de nuevo cuando la red sea estable.
+Error de conexión. No se pudo comprar {ITEM}, intentalo más tarde.
 
 [LOTTERY_PENDANTPIECE]
 Piezas de Colgantes
@@ -29367,19 +29370,19 @@ Regalos de Lotería
 ^00e46e^¡Piezas de Berenjena ninja!^oldclr^
 
 [LOTTERY_RESULT_10]
-^00e46e^¡Llaves x1!^oldclr^
+^00e46e^¡Llave x1!^oldclr^
 
 [LOTTERY_RESULT_11]
-^00e46e^¡Llaves x2!^oldclr^
+^00e46e^¡Llave x2!^oldclr^
 
 [LOTTERY_RESULT_12]
 ^00e46e^¡Llave x3!^oldclr^
 
 [LOTTERY_RESULT_DESC]
-¡Felicidades, has conseguido Regalos alucinantes!
+Premios de la lotería:
 
 [LOTTERY_RESULT_PIECE_OWNED]
-Obtuviste: ^00FF00^{NUMBER} Pieza (s) de {NAME}^oldclr^
+Obtuviste: ^00FF00^{NAME}: Piezas x{NUMBER}^oldclr^
 
 [LOTTERY_TIMES]
 Girar x{NUMBER}
@@ -29391,7 +29394,7 @@ Agotados los giros gratis.
 Visita Game Center
 
 [LOTTERY_TIMES_MUST_GET]
-Premio garantizado en {NUM} sorteos:
+Premio garantizado en {NUM} sorteos
 
 [LOTTERY_TIMES_RESULT_1]
 Conseguiste: ^00e46e^5.000 Monedas^oldclr^
@@ -33009,7 +33012,7 @@ Las Nueces de Macadabria son plantas sombrías defensivas que, cuando están pot
 {KEYWORD}Nutrientes: {STAT}Gana un escudo capaz de absorber una pequeña cantidad de daño.
 
 [MURKADAMIA_TOOLTIP]
-Planta sombría y defensiva que bloquea zombis; inflige daño a los zombis atacantes cuando está potenciada
+Planta sombría y defensiva que bloquea zombis
 
 [MUTATOR_FIRST_WAVE]
 Primera oleada
@@ -33039,25 +33042,25 @@ Si se permiten o no potenciadores
 Sequía solar
 
 [MUTATOR_RIFT_TIMED_SUN_DESC]
-No caen Soles del cielo.
+No caen Soles del cielo
 
 [MUTATOR_RIFT_TIMED_TOOL]
 Entrega express
 
 [MUTATOR_RIFT_TIMED_TOOL_ARTIFACT]
-Artefactos
+Comprar Artefactos
 
 [MUTATOR_RIFT_TIMED_TOOL_ARTIFACT_DESC]
-Puedes usar Artefactos en este nivel.
+Gasta sol para comprar usos de Artefacto
 
 [MUTATOR_RIFT_TIMED_TOOL_DESC]
-Añade una planta en los niveles de la Cinta transportadora.
+Añade una planta en los niveles de la Cinta transportadora
 
 [MUTATOR_RIFT_TIMED_TOOL_LEVELUP]
-Colgantes de plantas
+Mejorar plantas
 
 [MUTATOR_RIFT_TIMED_TOOL_LEVELUP_DESC]
-Puedes usar plantas con Colgantes equipados en este nivel.
+Gasta sol para mejorar tus plantas de nivel
 
 [MUTATOR_RIFT_TIMED_TOOL_NO_PRODUCE_PF]
 Sin Nutrientes
@@ -33066,16 +33069,16 @@ Sin Nutrientes
 Los zombis no llevan Nutrientes consigo.
 
 [MUTATOR_RIFT_TIMED_TOOL_PF]
-Nutrientes
+Comprar Nutrientes
 
 [MUTATOR_RIFT_TIMED_TOOL_PF_DESC]
-Puedes usar Nutrientes en este nivel.
+Gasta sol para comprar Nutrientes
 
 [MUTATOR_RIFT_TIMED_TOOL_WAVE]
 Próxima oleada
 
 [MUTATOR_RIFT_TIMED_TOOL_WAVE_DESC]
-La función "Próxima oleada" se puede utilizar en este nivel.
+La función "Próxima oleada" tiene usos limitados
 
 [MUTATOR_RIFT_TIMED_ZOMBIE_SUN]
 Zombis infectados
@@ -47298,7 +47301,7 @@ Ve anuncios para obtener el doble de premios. ^FF0000^Res.:
 COMPLETAR
 
 [PLANT_ADVENTURE_BONUS_BUTTON_SURPRISE]
-Bonus
+BONUS
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_LIMIT_TEXT]
 ^A048CF^Límite semanal alcanzado^oldclr^
@@ -50188,31 +50191,31 @@ Lote prémium
 
 
 [PRODUCT_FUEL_5_DESC]
-^00FA9A^5^oldclr^ de Combustible
+^397F24^5^oldclr^ de Combustible
 
 [PRODUCT_FUEL_5_SHORT_DESC]
 Combustible de reserva
 
 [PRODUCT_FUEL_15_DESC]
-^00FA9A^15^oldclr^ de Combustible
+^397F24^15^oldclr^ de Combustible
 
 [PRODUCT_FUEL_15_SHORT_DESC]
 Recarga de combustible
 
 [PRODUCT_FUEL_30_DESC]
-^00FA9A^30^oldclr^ de Combustible
+^397F24^30^oldclr^ de Combustible
 
 [PRODUCT_FUEL_30_SHORT_DESC]
 Arsenal de combustible
 
 [PRODUCT_FUEL_AD_DESC]
-Ve anuncios para ^00FA9A^Combustible^oldclr^ gratis
+Ve anuncios para ^397F24^Combustible^oldclr^ gratis
 
 [PRODUCT_FUEL_AD_SHORT_DESC]
 Combustibles gratis
 
 [PRODUCT_FUEL_FREE_DESC]
-¡Consigue ^00FA9A^5^oldclr^ de Combustible!
+¡Consigue ^397F24^5^oldclr^ de Combustible!
 
 [PRODUCT_FUEL_FREE_SHORT_DESC]
 Combustible gratis - VIP
@@ -50911,22 +50914,22 @@ Lote especial
 Lote prémium
 
 [PRODUCT_Z_AD_DESC]
-Ve anuncios para ^36454F^Guanteletes^oldclr^ gratis
+Ve anuncios para ^A0522D^Guanteletes^oldclr^ gratis
 
 [PRODUCT_Z_AD_SHORT_DESC]
 Guanteletes gratis
 
 [PRODUCT_Z_NUM_1_DESC]
-^36454F^1^oldclr^ entrada para Batallaz
+^A0522D^1^oldclr^ entrada para Batallaz
 
 [PRODUCT_Z_NUM_1_GEM_DESC]
-^36454F^1^oldclr^ Guantelete por Joyas ^FF0000^(máx. 1 compra)^oldclr^
+^A0522D^1^oldclr^ Guantelete por Joyas ^FF0000^(máx. 1 compra)^oldclr^
 
 [PRODUCT_Z_NUM_1_SHORT_DESC]
 Guantelete
 
 [PRODUCT_Z_NUM_10_DESC]
-^36454F^10^oldclr^ entradas para Batallaz
+^A0522D^10^oldclr^ entradas para Batallaz
 
 [PRODUCT_Z_NUM_10_SHORT_DESC]
 Bolsa de guanteletes
@@ -71700,13 +71703,13 @@ Mañana
 Disponible mañana
 
 [TOOL_PACKET_DESC_TOOL_RIFT_ARTIFACT]
-Añade un uso a la Cantidad de usos restantes de un Artefacto.
+Añade 1 uso para el Artefacto
 
 [TOOL_PACKET_DESC_TOOL_RIFT_PLANTFOOD]
-Añade un Nutriente al Contador de Nutrientes.
+Añade 1 unidad de Nutrientes
 
 [TOOL_PACKET_DESC_TOOL_RIFT_PLANT_LEVELUP]
-Aumenta el Nivel de una planta. No se puede subir más allá del Nvl. 3.
+El nivel de las plantas aumenta en 1 (hasta el 3 como máx)
 
 [TOOL_PACKET_TOOL_RIFT_ARTIFACT]
 Artefactos de reserva
@@ -72703,11 +72706,10 @@ La explosión libera el mismo número de estrellas de fuego y hielo que en el at
 [TWINSHONEYSUCKLE_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}línea al frente (flor dorada), toda la pantalla (flor plateada)
 {KEYWORD}Uso: {STAT}toca en ellas para cambiar su forma de ataque
-{KEYWORD}Especial - Ambas flores: {STAT}los astros se dividen en estrellas al explotar
-{KEYWORD}Especial - Flor plateada: {STAT}la luna sigue a los zombis de todo el patio
+{KEYWORD}Especial: {STAT}los astros se dividen en estrellas al explotar
 {KEYWORD}Características de la planta: {STAT}planta amarilla (azul), hermanos planta
 
-{FLAVOR}Son hermanas gemelas que han obtenido el poder del sol y la luna, a medida que crecían.
+{FLAVOR}Madreselva solar heredó el fuego abrasador del sol, mientras que Madreselva lunar, la fría calma de la luna. Pese a ser gemelas, crecieron como opuestos inevitables, unidas por un vínculo que ni la luz ni la oscuridad pueden romper.
 
 [TWINSHONEYSUCKLE_DESCRIPTION_HEADER]
 Madreselva astral tiene dos formas de ataque. La flor dorada convoca el poder del sol para dañar zombis, la flor plateada usa el poder de la luna para ralentizarlos.
@@ -72721,7 +72723,7 @@ Lonicera
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL1_DES]
 ^FFA500^Flor dorada: lanza un sol que daña zombis de la línea.^oldclr^
 ^979A9A^Flor plateada: lanza una luna que persigue a zombis del patio y los ralentiza.^oldclr^
-^E2725B^Estrellas: se divide en 4 (sol) o en 8 (luna).^oldclr^
+^E2725B^Estrellas: se dividen en 4 (sol) o en 8 (luna).^oldclr^
 
 [TWINSHONEYSUCKLE_NEW_SKILL_LEVEL2_DES]
 Reduce el tiempo de recuperación en 2.5 s
