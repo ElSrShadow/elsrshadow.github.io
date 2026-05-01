@@ -23752,9 +23752,8 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^
-^87CEFA^Parche: 1.0.0 (actualizado el 30/4/2026)^oldclr^
-^D22808^Derechos de autor: PopCap Shangai, Electronic Arts, TalkWeb Games, Melting Games^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 30/4/2026)^oldclr^
+^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
 Peluda de Brezal
