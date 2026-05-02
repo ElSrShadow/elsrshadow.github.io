@@ -23,7 +23,7 @@ El esplendor de Dunhuang
 Udumbara
 
 [GLOOMBARA_DESCRIPTION]
-{KEYWORD}Uso: {STAT}único, instantáneo
+{KEYWORD}Uso: {STAT}único e instantáneo
 {KEYWORD}Características de la planta: {STAT}planta verde
 
 {FLAVOR}Se dice que la Udumbara no florece para ser vista, sino para ser encontrada por quienes caminan demasiado cerca del otro lado.
@@ -84,7 +84,7 @@ Una criatura, cuanto menos, rara.
 Nivel 5
 
 [FUMESHROOM_SKILL1_LEVEL5_DES]
-^DB8117^Seta elemental:^oldclr^ puede evolucionar a Humoseta desesporada, Humoseta encantada u Hongo trueno al ser plantada
+^DB8117^Seta elemental:^oldclr^ puede evolucionar a Humoseta encantada, Humoseta desesporada u Hongo trueno al ser plantada
 
 [ZOMBIE_SCREENDOOR]
 Zombi portero
@@ -103,7 +103,10 @@ La puerta es un buen escudo.
 Arquero del inframundo
 
 [ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION]
-Un día, se le ocurrió que, si prendía fuego a sus flechas, la potencia de sus disparos aumentaría considerablemente. Sin embargo, como no sabía encender fuego, la idea quedó olvidada durante mucho tiempo. No fue hasta que se convirtió en un espíritu y obtuvo el poder de las llamas fantasmales que por fin pudo hacer realidad su "genial" idea.
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Un día, se le ocurrió que, si prendía fuego a sus flechas, la potencia de sus disparos aumentaría considerablemente. Sin embargo, como no sabía encender fuego, la idea quedó olvidada durante mucho tiempo. No fue hasta que se convirtió en un espíritu y obtuvo el poder de las llamas fantasmales que por fin pudo hacer realidad su "genial" idea.
 
 [ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION_HEADER]
 Lanza proyectiles espectrales para ralentizar a las plantas alcanzadas.
@@ -121,7 +124,10 @@ Cambia de línea tras beber, rocía a las plantas cercanas para aturdirlas.
 Soldado del inframundo
 
 [ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION]
-Era un soldado cualquiera hasta que, olvidando que era un zombi, vio su reflejo en un estanque. El susto fue tal que su alma abandonó el cuerpo y comenzó a vagar sin rumbo.
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Era un soldado cualquiera hasta que, olvidando que era un zombi, vio su reflejo en un estanque. El susto fue tal que su alma abandonó el cuerpo y comenzó a vagar sin rumbo.
 
 [ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION_HEADER]
 Forma etérea del Zombi bing.
@@ -130,7 +136,10 @@ Forma etérea del Zombi bing.
 Caracuenco del inframundo
 
 [ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION]
-Aprecia profundamente el cuenco que lleva en la cabeza, y este le corresponde con igual devoción. Incluso después de morir y convertirse en espíritu, el cuenco permanece a su lado.
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Aprecia profundamente el cuenco que lleva en la cabeza, y este le corresponde con igual devoción. Incluso después de morir y convertirse en espíritu, el cuenco permanece a su lado.
 
 [ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION_HEADER]
 Su cuenco lo hace dos veces más resistente que el Soldado del inframundo.
@@ -139,16 +148,22 @@ Su cuenco lo hace dos veces más resistente que el Soldado del inframundo.
 Carayelmo del inframundo
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION]
-Protegía su punto más vulnerable con un pesado casco, lo que le hacía sentirse invencible. Durante un entrenamiento del ejército zombi, y con exceso de confianza, decidió demostrar ante todos su "técnica de romper piedras con la cabeza". Fue entonces cuando descubrió, de la peor forma posible, que también podía convertirse en espíritu.
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Protegía su punto más vulnerable con un pesado casco, lo que le hacía sentirse invencible. Durante un entrenamiento del ejército zombi, y con exceso de confianza, decidió demostrar ante todos su "técnica de romper piedras con la cabeza". Fue entonces cuando descubrió, de la peor forma posible, que también podía convertirse en espíritu.
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION_HEADER]
 Su casco de infantería lo hace tres veces más resistente que el Soldado del inframundo.
 
 [ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP]
-Zombistein de las tinieblas
+Zombistein del inframundo
 
 [ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION]
-Los Zombisteins del inframundo nunca se han destacado por su memoria; apenas recordaban cómo caminar y aplastar, más por costumbre que por otra cosa. Al convertirse en espíritus, perdieron incluso eso y ahora solo pueden flotar.
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Los Zombisteins del inframundo nunca se han destacado por su memoria; apenas recordaban cómo caminar y aplastar, más por costumbre que por otra cosa. Al convertirse en espíritus, perdieron incluso eso y ahora solo pueden flotar.
 
 [ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION_HEADER]
 Forma etérea del Zombistein jiangjun.
@@ -157,7 +172,10 @@ Forma etérea del Zombistein jiangjun.
 Bebedor del inframundo
 
 [ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION]
-En vida bebía sin control; en la muerte, el problema solo empeoró. Nadie sabe qué está bebiendo ahora, pero claramente no es buena idea estar delante cuando lo expulsa.
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}En vida bebía sin control; en la muerte, el problema solo empeoró. Nadie sabe qué está bebiendo ahora, pero claramente no es buena idea estar delante cuando lo expulsa.
 
 [ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION_HEADER]
 Forma etérea del Zombi bebedor. Tras desplazarse, lanza una llamarada que destruye la planta que tiene delante.
@@ -166,10 +184,13 @@ Forma etérea del Zombi bebedor. Tras desplazarse, lanza una llamarada que destr
 Sicario del inframundo
 
 [ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION]
-Padece una amnesia terrible. En un principio, su misión era matar al señor del mausoleo, pero al llegar olvidó su objetivo y terminó siendo reclutado por él para unirse a su legión. Últimamente, su condición ha empeorado tanto que incluso ha olvidado que ya está muerto, convirtiéndose así en un espíritu.
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, aniquilando a las plantas de izquierda a derecha
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Padece una amnesia terrible. En un principio, su misión era matar al señor del mausoleo, pero al llegar olvidó su objetivo y terminó siendo reclutado por él para unirse a su legión. Últimamente, su condición ha empeorado tanto que incluso ha olvidado que ya está muerto, convirtiéndose así en un espíritu.
 
 [ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION_HEADER]
-Forma etérea del Zombi jingke. Al ser derrotado, se desplaza de izquierda a derecha en forma de espíritu.
+Forma etérea del Zombi jingke.
 
 [ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE]
 Escuderos del inframundo
@@ -180,7 +201,7 @@ Escuderos del inframundo
 {FLAVOR}Presume de dominar "antiguas formaciones secretas" que nadie más conoce hasta que un zombidito lo sorprendió pasando la noche en vela, leyendo a escondidas el cómic infantil de «Las treinta y seis estratagemas». Por cierto, la palabra "formación" de su sombrero la pintó él mismo con pincel; tras tres chaparrones, ya casi no se distingue.
 
 [ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION_HEADER]
-Forma etérea del Zombi dunwei. Montan sus defensas, creando un círculo mágico.
+Montan sus defensas, creando un portal que invoca espíritus.
 
 [ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_BIG_SKILL_WARNING]
 REFORJA REAL: ¡derrota al emperador ahora!
@@ -228,7 +249,7 @@ Desarma zombis de objetos metálicos y recoge monedas
 Funde los objetos atraídos en una enorme moneda que derriba y daña zombis
 
 [STORE_PRODUCT_AVATAR_GOLDMAGNET_TITLE]
-Moneda gigante
+Capa dorada
 
 [GOLDMAGNET_SKILL_LEVEL1]
 Nivel 2
@@ -246,7 +267,7 @@ Nivel 3
 Nivel 5
 
 [GOLDMAGNET_SKILL_LEVEL5_DES]
-^DB8117^Alquimista dorado:^oldclr^ genera una moneda que crece al atraer objetos, luego la suelta, dañando zombis a su paso
+^DB8117^Alquimista de oro:^oldclr^ genera una moneda que crece al atraer objetos, luego la suelta, dañando zombis a su paso
 
 [GLACIERSHROOM]
 Seta congelada
@@ -361,7 +382,7 @@ Gana un ^D22808^30% de probabilidad^oldclr^ de encoger zombis durante 3 s, haci�
 
 [EXORCISLILY_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^20% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: hace levitar a 5 zombis aleatorios, con un ^D22808^25% de probabilidad ^DB8117^de expulsarlos.^oldclr^
+^DB8117^Nutrientes: lanza talismánes de trueno a 5 zombis aleatorios que los aturden por 3 s ^D22808^Daño: 300^oldclr^
 
 [EXORCISLILY_NEW_SKILL_LEVEL5_DES]
 Al atacar, lanza un talismán adicional hacia el enemigo más cercano.
@@ -376,16 +397,16 @@ Libera un amuleto adicional que neutraliza efectos adversos en plantas
 Tocado imperial
 
 [EXORCISLILY_PLANTFOOD_DESCRIPTION]
-Hace levitar a 5 zombis aleatorios del patio, con un 25% de expulsarlos.
+Lanza talismánes de trueno a 5 zombis aleatorios que los aturden por 3 s ^D22808^Daño: 300^oldclr^
 
 [EXORCISLILY_AVATAR_PLANTFOOD_DESCRIPTION]
-Libera un amuleto adicional que neutraliza efectos adversos en plantas
+Libera un talismán adicional que neutraliza efectos adversos en plantas
 
 [DOOMBELL]
 Campana sagrada
 
 [DOOMBELL_DESCRIPTION_HEADER]
-La Campana sagrada emite ondas que atraen zombis o espíritus de alrededor, para luego interceptarlos.
+La Campana sagrada bloquea zombis y emite ondas que atraen espíritus de alrededor para cortarles el paso.
 
 [DOOMBELL_DESCRIPTION]
 {KEYWORD}Especial: {STAT}bloquea múltiples enemigos y recupera salud en el Reino espiritual
@@ -415,7 +436,7 @@ Nivel 5
 ^A048CF^Campana de bronce:^oldclr^ acumula energía por 7 s, la libera para derribar a los zombis que la muerdan
 
 [DOOMBELL_NEW_SKILL_LEVEL1_DES]
-Cada 5 s, atrae zombis y espíritus de un área 3x3 para interceptarlos ^FF0000^(máx. 1 espíritu)^oldclr^
+Bloquea zombis y espíritus. Cada 5 s, atrae espíritus de un área 3x3 ^FF0000^(máx. 1)^oldclr^
 ^E2725B^Reino espiritual: bloquea múltiples enemigos y recupera 100 PS por segundo^oldclr^
 
 [DOOMBELL_NEW_SKILL_LEVEL2_DES]
@@ -426,7 +447,7 @@ Al ser derrotado, genera una onda que ^848484^aturde^oldclr^ zombis por 9 s
 
 [DOOMBELL_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^25% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: gana un escudo de bronce con 8.000 puntos de vida.^oldclr^
+^DB8117^Nutrientes: obtiene una armadura con 8.000 puntos de vida.^oldclr^
 
 [DOOMBELL_NEW_SKILL_LEVEL5_DES]
 Si no hay zombis atacándolo, se silencia y empieza a acumular energía por 7 s
@@ -442,7 +463,7 @@ Se reviste de un escudo de plata que otorga mayor dureza.
 Amuleto
 
 [DOOMBELL_PLANTFOOD_DESCRIPTION]
-Gana un escudo de bronce con 8.000 puntos de vida.
+Obtiene una armadura con 8.000 puntos de vida.
 
 [DOOMBELL_AVATAR_PLANTFOOD_DESCRIPTION]
 Se reviste de un escudo de plata con 12.000 puntos de vida
@@ -483,7 +504,7 @@ VIP
 ¿Deseas comprar esto por ^A0522D^{NUMS} Monedas de cobre^oldclr^?
 
 [PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_HARD_CONFIRM]
-¿Deseas comprar esto por ^DD7ECB^{NUMS} Estratagemas^oldclr^?
+¿Deseas comprar esto por ^3827F5^{NUMS} Estratagemas^oldclr^?
 
 [UNCHARTED_MAUSOLEUM_ID_25868]
 Tour por las catacumbas
@@ -509,8 +530,8 @@ ACEPTAR
 Espiritual
 
 [FUMESHROOM_NEW_SKILL_LEVEL5_DES]
-^A048CF^Humoseta desesporada: se sincroniza con las Setas desesporadas del patio al atacar^oldclr^
 ^DD7ECB^Humoseta encantada: sus esporas tienen un 5% de hipnotizar zombis ^FF0000^(límite: Nvl. 8)^oldclr^
+^A048CF^Humoseta desesporada: se sincroniza con las Setas desesporadas del patio al atacar^oldclr^
 ^4DD4DB^Hongo trueno: dispara relámpagos que tienen un 10% de desarmar zombis de cascos.^oldclr^
 
 [GOLDMAGNET_NEW_SKILL_LEVEL1_DES]
@@ -597,7 +618,7 @@ Recarga rápida +15%
 Rotor de oro
 
 [MAT_TOY_PARTS_1_USE]
-Se usan para canjear artículos en Fiesta de disfraces: Demon Hunters
+Se usa para canjear artículos en Fiesta de disfraces: Demon Hunters
 
 [MAT_TOY_PARTS_1_GOT_WAY]
 Fiesta de disfraces
@@ -615,7 +636,7 @@ Fiesta de disfraces
 Colmena de cristal
 
 [MAT_TOY_PARTS_2_USE]
-Se usan para canjear artículos en Fiesta de disfraces: Sweet Rhapsody
+Se usa para canjear artículos en Fiesta de disfraces: Sweet Rhapsody
 
 [MAT_TOY_PARTS_2_GOT_WAY]
 Fiesta de disfraces
@@ -23752,7 +23773,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 30/4/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 2/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
