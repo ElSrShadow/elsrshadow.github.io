@@ -7381,7 +7381,7 @@ Raro
 Plantas recomendadas:
 
 [BOARD_ALMANAC_WARNING]
-Cuidado: ¡Un zombi desconocido se acerca!
+¡NUEVO ZOMBI AVISTADO!
 
 [BOINGSETTA]
 Muelleta
@@ -7390,6 +7390,7 @@ Muelleta
 {KEYWORD}Uso: {STAT}inflige grandes daños a los pulpos, las tablas de surf y las tumbas
 {KEYWORD}Uso: {STAT}destruye a las gallinas y a las comadrejas
 {KEYWORD}Especial: {STAT}afecta al mapa completo al plantarla, y después, a una única línea
+
 {KEYWORD}Características de la planta: {STAT}planta azul, congelada bajo cero
 
 {FLAVOR}¡Muelleta es una planta elástica con un aspecto agradable e infecciosamente encantador! El enfriamiento es un mero efecto secundario.
