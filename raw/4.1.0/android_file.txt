@@ -72,7 +72,6 @@ Turbo sin VFX
 Zombi yeti
 
 [ZOMBIE_YETI_DESCRIPTION]
-{KEYWORD}Dureza: {STAT}alta
 {KEYWORD}Especial: {STAT}se marcha tras un tiempo
 
 {FLAVOR}Poco se sabe del Zombi yeti a parte de su nombre, fecha de nacimiento, número de la seguridad social, historial académico y laboral, y su plato favorito: tortilla de sesos.
@@ -90,7 +89,6 @@ Nivel 5
 Zombi portero
 
 [ZOMBIE_SCREENDOOR_DESCRIPTION]
-{KEYWORD}Dureza: {STAT}baja
 {KEYWORD}Dureza de la puerta: {STAT}alta
 {KEYWORD}Debilidad: {STAT}Humoseta y Magnetoseta
 
@@ -977,7 +975,7 @@ Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
 {SHOUT:crazydave}¡PELOTÓN, FIRME!
 
 [NARRATIVE_PVZ1_S30_11_H_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}El zombi onmyōji ha vuelto. Su abanico sigue siendo un problema.
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}El zombi onmyoji ha vuelto. Su abanico sigue siendo un problema.
 
 [NARRATIVE_PVZ1_S30_11_H_INTRO_2]
 {SAY:crazydave}Entonces usaremos Levitadoras. A ver qué hace cuando no toque el suelo.
@@ -77819,7 +77817,7 @@ Regalo rodante
 Zombi regalo rodante
 
 [ZOMBIE_BIRTHDAY_BARRELROLLER_DESCRIPTION]
-Siempre carga con regalos rodantes a las fiestas, pero lo que los demás no saben, es que ayuda a que los Zombiditos se cuelen a las fiestas sin permiso.
+Siempre carga con regalos rodantes a las fiestas, pero lo que los demás no saben, es que ayuda a que los zombiditos se cuelen sin permiso.
 
 [ZOMBIE_BIRTHDAY_BARRELROLLER_DESCRIPTION_HEADER]
 Su regalo rodante aplasta plantas y le proporciona una protección excelente.
@@ -77834,10 +77832,10 @@ Contiene Zombiditos dentro que salen disparados al destruirlo.
 Nunca se pierde de ninguna fiesta, anda bien vestido cuando se entera de una, siempre listo para la acción.
 
 [ZOMBIE_BIRTHDAY_DESCRIPTION_HEADER]
-Zombi de cumpleañoz común.
+Zombi festejante de Cumpleañoz.
 
 [ZOMBIE_BIRTHDAY_FLAG]
-Zombi abanderado de cumpleañoz
+Zombi festejante
 
 [ZOMBIE_BIRTHDAY_FLAG_DESCRIPTION]
 Siempre asite a las fiestas con sus globos, son algo escencial para cualquier fiesta.
@@ -77858,7 +77856,7 @@ Zombistein de cumpleañoz
 Un zombi grandulón que se quedó atascado en una pequeña caja de regalos.
 
 [ZOMBIE_BIRTHDAY_JETPACK]
-Zombi propulsado de cumpleañoz
+Zombi regalo exprés
 
 [ZOMBIE_BIRTHDAY_JETPACK_DESCRIPTION]
 Hace una entrada triunfal en las fiestas con su propulsor, dejando boquiabiertos a todos los presentes.
@@ -77867,7 +77865,7 @@ Hace una entrada triunfal en las fiestas con su propulsor, dejando boquiabiertos
 Se propulsa para flotar sobre todas las barreras de plantas, exceptuando las más altas.
 
 [ZOMBIE_BIRTHDAY_JUGGLER]
-Zombi bufón de cumpleañoz
+Zombi payaso
 
 [ZOMBIE_BIRTHDAY_JUGGLER_DESCRIPTION]
 Va donde sea que haya un festejo para sacarle una sonrisa a todos los invitados.
@@ -77876,7 +77874,7 @@ Va donde sea que haya un festejo para sacarle una sonrisa a todos los invitados.
 Zombi bufón de cumpleañoz devuelve los proyectiles que le disparan.
 
 [ZOMBIE_BIRTHDAY_PHARAOH]
-Zombi pastel de cumpleañoz
+Zombi pastel
 
 [ZOMBIE_BIRTHDAY_PHARAOH_DESCRIPTION]
 Es el centro de atención en todas las fiestas ya que, es el pastel (literalmente).
@@ -78826,7 +78824,7 @@ Zombi punk
 Empuja a las plantas un espacio cuando suena su música.
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI]
-Zombi onmyōji celestial
+Zombi onmyoji celestial
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}tras agitar su abanico, genera ráfagas de viento destructivas
@@ -78841,7 +78839,7 @@ Agita un abanico que desata el caos.
 Zombi ezcorpión de élite
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_DESCRIPTION]
-El zombi que operó este vehículo de ataque era diferente de otros zombis desde una edad temprana, carecía de una comprensión del humor, sátira, acostumbrado a mostrar su extraordinario coeficiente intelectual. Su carro de asedio modificado a mano puede lanzar más jarrones a la vez, pero debido a los pocos zombis dispuestos a entrar en sus jarrones, metió un montón de gallinas dentro.
+Era diferente a los otros zombis desde una edad temprana. Carecía de una comprensión del humor, sátira, acostumbrado a mostrar su extraordinario coeficiente intelectual. Su carro de asedio es uno de sus inventos mas recientes.
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_DESCRIPTION_HEADER]
 Sus jarrones estan repletos de Gallinas zombi, ¡que horror!
@@ -79325,7 +79323,7 @@ Los Zombiditos ninja a menudo usan bombas de humo para decirles a todos que est�
 Zombi japonés diminuto de la clase guerrera, usa peces globo letales para acabar con tus plantas.
 
 [ZOMBIE_HEIAN_ONMYOJI]
-Zombi onmyōji
+Zombi onmyoji
 
 [ZOMBIE_HEIAN_ONMYOJI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}genera ráfagas destructivas al agitar su abanico
@@ -79752,7 +79750,7 @@ Zombistein con cadena
 {KEYWORD}Daño: {STAT}aplasta plantas con su cadena
 {KEYWORD}Especial: {STAT}se mueve de una línea a otra cuando sufre daño
 
-{FLAVOR}Es bueno para moverse hacia arriba y hacia abajo, tomándote por sorpresa.
+{FLAVOR}Suele tomar a muchos por sorpresa en combate. Muchos lo describen como un guerrero intimidante debido a su colosal estatura; otros, como alguien formidable por sus movimientos veloces.
 
 [ZOMBIE_KONGFU_AGILE_BRONZE_DESCRIPTION_HEADER]
 Zombi con acciones rápidas, va y viene sin dejar rastro.
@@ -79819,31 +79817,31 @@ Shaolin con martillo
 [ZOMBIE_KONGFU_HAMMER_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}no puede reflejar proyectiles catapultados
 
-{FLAVOR}También es conocido como el "Zombi torbellino". Es famoso por girar su martillo a altas velocidades sin sentirse mareado.
+{FLAVOR}También es conocido como el "Zombi torbellino". Es famoso por girar su martillo con todo frenesí, destruyendo todo a su paso.
 
 [ZOMBIE_KONGFU_HAMMER_DESCRIPTION_HEADER]
-Desata torbellinos que pueden reflejar proyectiles de tiro recto.
+Gira a alta velocidad, reflejando proyectiles de tiro recto. Luego, debe descansar un tiempo.
 
 [ZOMBIE_KONGFU_MAGIC_BRONZE]
 Zombistein Qigong
 
 [ZOMBIE_KONGFU_MAGIC_BRONZE_DESCRIPTION]
 {KEYWORD}Daño: {STAT}aplasta plantas con un palo gigante de oro
-{KEYWORD}Especial: {STAT}utiliza el Qigong para invocar zombis
+{KEYWORD}Especial: {STAT}utiliza el Qigong para invocar zombis y arrastrar plantas
 
 {FLAVOR}Cuando era más joven, dedicó años para dominar técnicas de Qigong, buscando equilibrio y armonía en su cuerpo y mente. Sin embargo, el destino lo llevó por un camino inesperado, y ahora, como zombi, combina esos antiguos conocimientos con un estilo de combate un tanto salvaje.
 
 [ZOMBIE_KONGFU_MAGIC_BRONZE_DESCRIPTION_HEADER]
-Zombi gigante con habilidades poderosas de Qigong.
+Zombi practicante de Qigong. Sus habilidades son tan descomunales como su tamaño.
 
 [ZOMBIE_KONGFU_MONK_BASIC]
 Zombi monje shaolin
 
 [ZOMBIE_KONGFU_MONK_BASIC_DESCRIPTION]
-Estar de pie, arrodillarse, meditar y comer cerebros. Todas esas son las tareas diarias de los monjes shaolin.
+Estar de pie, arrodillarse, meditar y comer cerebros. Todas esas constituyen las tareas diarias de los monjes shaolin.
 
 [ZOMBIE_KONGFU_MONK_BASIC_DESCRIPTION_HEADER]
-Zombi artista marcial regular.
+Un zombi con años de experiencia en las artes marciales.
 
 [ZOMBIE_KONGFU_MONK_BLADE]
 Shaolin con espada
@@ -79854,7 +79852,7 @@ Shaolin con espada
 {FLAVOR}Sus poesías sobre "La espada viva" lo hicieron famoso entre los vivos. Ahora sus poesías sobre "La espada muerta" lo hacen famoso entre los no muertos.
 
 [ZOMBIE_KONGFU_MONK_BLADE_DESCRIPTION_HEADER]
-Zombi shaolin con una poderosa espada en mano.
+Zombi con una poderosa espada en mano.
 
 [ZOMBIE_KONGFU_MONK_BUCKET]
 Monje shaolin caracubo
@@ -79918,7 +79916,7 @@ Shaolin con nunchaku
 Usa sus chacos como ataque y defensa.
 
 [ZOMBIE_KONGFU_MONK_TORCH]
-Monje shaolin con antorcha
+Monje shaolin antorcha
 
 [ZOMBIE_KONGFU_MONK_TORCH_DESCRIPTION]
 {KEYWORD}Especial: {STAT}destruye plantas con la antorcha al contacto
@@ -79933,13 +79931,13 @@ Puede abrasar plantas mientras gira rápidamente su antorcha.
 Zombi Qigong
 
 [ZOMBIE_KONGFU_QIGONG_DESCRIPTION]
-{KEYWORD}Especial: {STAT}arrastra filas enteras de plantas
+{KEYWORD}Especial: {STAT}de vez en cuando, dispara energía destructiva para fulminar plantas cercanas
 {KEYWORD}Debilidad: {STAT}sus ataques pueden ser bloqueados por Rábano blanco
 
 {FLAVOR}Es el inspirador de los demás zombis. Se convirtió en zombi y no olvidó sus propias artes marciales, quizá porque practicaba demasiadas técnicas, o, ¿tal vez si las olvidó?
 
 [ZOMBIE_KONGFU_QIGONG_DESCRIPTION_HEADER]
-Utiliza las fuerzas sobrenaturales del Qigong para arrastrar a una fila entera de plantas.
+Utiliza las fuerzas sobrenaturales del Qigong para arrastrar una fila entera de plantas.
 
 [ZOMBIE_KONGFU_ROCKET]
 Zombidito tigre
@@ -79991,7 +79989,7 @@ Zomboss Héroe Espadachín
 {KEYWORD}Especial: {STAT}su escudo reduce el daño recibido durante unos segundos
 {KEYWORD}Especial: {STAT}vuela por los aires y derriba a una fila entera de plantas
 
-{FLAVOR}"Un héroe espadachín" es un famoso libro que escribió para resaltar su grandeza, pero desafortunamente, los demás zombis solo lo ven como un zombi obsesionado con su apariencia.
+{FLAVOR}"Un héroe espadachín" es un libro que escribió para exaltar su grandeza, pero desafortunadamente, los demás zombis solo lo ven como alguien obsesionado con su apariencia.
 
 [ZOMBIE_KONGFU_ZOMBOSS_BLADE_DESCRIPTION_HEADER]
 Invoca Zombis shaolin mientras ataca plantas con su gigantesca espada y escudo.
@@ -80003,7 +80001,7 @@ Zomboss Cabeza de Pólvora
 {KEYWORD}Daño: {STAT}arroja bombas que infligen daño masivo en un área mediana
 {KEYWORD}Pista: {STAT}no le gusta desperdiciar sus bombas en casillas vacías
 
-{FLAVOR}Antes de morir, le gustaba tirar basura, y aún no se ha librado de ese mal hábito hasta el día de hoy.
+{FLAVOR}Antes de morir, le gustaba tirar basura. Ahora que ha vuelto, simplemente cambió la basura por algo mucho más explosivo.
 
 [ZOMBIE_KONGFU_ZOMBOSS_EXPLOSIVE_DESCRIPTION_HEADER]
 Lanza todo tipo de explosivos y zombis.
@@ -80026,10 +80024,10 @@ Zomboss Maestro del Qigong
 
 {KEYWORD}Debilidad: {STAT}Rábano blanco resiste al Qigong y a los agujeros negros
 
-{FLAVOR}Murió tras ser derrotado en un torneo de Kung Fu. Ahora ha regresado de su muerte, y esta vez no tiene motivos como para temerle al fracaso.
+{FLAVOR}Cayó en combate durante un torneo de Kung Fu. Regresó de la muerte con una sola lección: el fracaso es para los vivos.
 
 [ZOMBIE_KONGFU_ZOMBOSS_QIGONG_DESCRIPTION_HEADER]
-Usa fuerzas internas para infligir grandes daños a las plantas distantes.
+Canaliza su energía interna para lanzar ataques de gran alcance.
 
 [ZOMBIE_LADDER]
 Zombi con escalera
@@ -80789,7 +80787,7 @@ Zombidito ninja
 Arroja peces globo para atacar plantas
 
 [ZOMBIE_NEW_PVP_HEIAN_ONMYOJI]
-Zombi onmyōji
+Zombi onmyoji
 
 [ZOMBIE_NEW_PVP_HEIAN_ONMYOJI_DESCRIPTION_HEADER]
 Genera ráfagas de viento con su abanico
@@ -81099,7 +81097,7 @@ Zombistein cascanueces
 Corre a media distancia para romper plantas como si fueran nueces.
 
 [ZOMBIE_PARKOUR]
-Zombi guardia de seguridad
+Zombi guardia
 
 [ZOMBIE_PARKOUR_ARMOR1]
 Guardia caracono
@@ -81135,11 +81133,11 @@ Alzó la bandera en alto con un objetivo en mente: derrotar a las plantas y devo
 Hondea una bandera para avisar una gran oleada de guardias de seguridad zombi.
 
 [ZOMBIE_PARKOUR_GARGANTUAR]
-Zombistein guardia de seguridad
+Zombistein guardia
 
 [ZOMBIE_PARKOUR_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta plantas con su señal de tránsito
-{KEYWORD}Especial: {STAT}lanza al Zombidito perro de seguridad cuando sufre daño
+{KEYWORD}Daño: {STAT}aplasta plantas con su semáforo
+{KEYWORD}Especial: {STAT}lanza al Zombidito perro cuando sufre daño
 
 {FLAVOR}Hoy es su primer día ascenso y lo único que quiere es salir pronto del trabajo para ir a comprarse un nuevo par de zapatos.
 
@@ -81147,19 +81145,21 @@ Zombistein guardia de seguridad
 Un zombi grande que aplica la ley en las estaciones del metro.
 
 [ZOMBIE_PARKOUR_IMP]
-Zombidito perro de seguridad
+Zombidito perro
 
 [ZOMBIE_PARKOUR_IMP_DESCRIPTION]
-Parece que su disfraz le otorga poderes especiales al ponérselo. Se dice que su sentido del olfato se multiplica exponencialmente y que sus deseos de comer sesos se vuelven cada vez más incontrolables.
+Las malas lenguas dicen que lo contrataron como perro porque no había ninguno real disponible. Al menos, tiene buen olfato.
 
 [ZOMBIE_PARKOUR_IMP_DESCRIPTION_HEADER]
-Aunque no es un perro de verdad, a este pequeño zombi le queda muy bien ese atuendo.
+Un zombidito disfrazado de perro.
 
 [ZOMBIE_PARKOUR_RUNNER]
 Zombi de parkour
 
 [ZOMBIE_PARKOUR_RUNNER_DESCRIPTION]
-Tiene la mitad de la cara cubierta porque le parece guay. Practica parkour todos los días con la esperanza de que algún día pueda saltar por encima de Nuez cáscara-rabias.
+{KEYWORD}Debilidad: {STAT}Nuez cáscara-rrabias
+
+{FLAVOR}Aunque está muerto, entrena parkour todos los días. Quiere ser el zombi más rápido del mundo, aunque nadie vivo vaya a reconocer el récord.
 
 [ZOMBIE_PARKOUR_RUNNER_DESCRIPTION_HEADER]
 Un practicante de parkour que salta por la mayoría de tus defensas a toda velocidad.
@@ -82875,10 +82875,10 @@ El mayor saqueador de plantas que surca los mares.
 Dr. Zombi 2.0
 
 [ZOMBIE_ZOMBOSSMECH_PVZ1_ROBOT_1_DESCRIPTION]
-Zomboss nunca admite la derrota fácilmente. Aunque este zombot ya ha sido derrotado una vez, él piensa usarlo de nuevo y finalmente obtener su venganza.
+Para Zomboss, perder no es una opción. Este Zombot volvió al taller hecho chatarra y salió con más acero y más rabia. Dice que esta vez todo saldrá perfecto. Lo dice cada vez. Y aun así, ahí va otra vez, convencido de que el problema nunca fue él, sino el mundo que no entiende su "genio".
 
 [ZOMBIE_ZOMBOSSMECH_PVZ1_ROBOT_1_DESCRIPTION_HEADER]
-Una vez reparado su antiguo proyecto, está aquí para terminar lo que empezó.
+Una vez reparado su antiguo proyecto, Zomboss está aquí para terminar lo que empezó.
 
 [ZOMBIE_ZOMBOSSMECH_RENAI]
 Teatro muerto Zombot
@@ -82887,7 +82887,7 @@ Teatro muerto Zombot
 {KEYWORD}Daño: {STAT}ataque masivo de misiles en diferentes patrones
 {KEYWORD}Especial: {STAT}convoca actores zombi a su servicio
 
-{FLAVOR}"Los cobardes caen muchas veces antes de su muerte; los valientes prueban el sabor de la muerte solo una vez." Como el doctor más joven en el estudio de la muerte, la gran leyenda del Dr. Zombi ya ha trascendido todas las eras: renacer, vengarse, destruir, ¡y crear un nuevo mito!
+{FLAVOR}"Los cobardes caen muchas veces antes de su muerte; los valientes prueban el sabor de la muerte solo una vez." En la era donde nacieron los grandes pensadores, el Dr. Zombi decidió superarlos a todos estudiando la muerte no como final, sino como su herramienta más refinada. Ha caído, sí, pero cada caída es una nueva página en su obra inmortal: renacer, vengarse y esculpir su leyenda en los restos del mundo.
 
 [ZOMBIE_ZOMBOSSMECH_RENAI_DESCRIPTION_HEADER]
 Una obra literaria que mezcla la épica con la gótica para desatar el caos en la Era del Renacimiento.
@@ -82896,7 +82896,7 @@ Una obra literaria que mezcla la épica con la gótica para desatar el caos en l
 Bólidus Zombot
 
 [ZOMBIE_ZOMBOSSMECH_ROMAN_DESCRIPTION]
-{KEYWORD}Especial: {STAT}genera oleadas de Zombis romanos que sirven tanto para defender como para atacar.
+{KEYWORD}Especial: {STAT}genera oleadas de Zombis romanos que sirven tanto para defender como para atacar
 
 {FLAVOR}Dicen que hay cosas que no combinan bien. El agua y el aceite. El hielo y el fuego. Los zombis y los cerebroz. Pero Dr. Zombi siempre consigue que lo imposible sea posible. Solo hay que ver la cantidad de cachivaches que es capaz de meter en un solo mech. Un motor Zombidito-V con doble turbo. Un sistema de sonido de 6 cuernos. Suspensión a cuatro ruedas con tracción independiente para aplastar plantas. Está claro que se gastó toda la comida del año en este invento. Eso explicaría por qué sus esbirros siempre están buscando cerebroz.
 
@@ -82907,10 +82907,16 @@ Una creación que no pertenece a la crisis de los treinta.
 Zombot buitre de guerra
 
 [ZOMBIE_ZOMBOSSMECH_SKYCITY_DESCRIPTION]
+^E2725B^• Fase 1^oldclr^
+
+{KEYWORD}Daño: {STAT}usa sus filosas garras para dañar plantas, y a veces, raptarlas
 {KEYWORD}Daño: {STAT}ataca a las plantas con descargas eléctricas
-{KEYWORD}Daño: {STAT}ataca a las plantas con sus filosas garras y a veces se las lleva consigo
-{KEYWORD}Especial: {STAT}crea torbellinos los cuales arrasan con todas las plantas de la línea
-{KEYWORD}Especial: {STAT}en su segunda fase, lanzará un ataque masivo de vez en cuando
+
+{KEYWORD}Especial: {STAT}crea torbellinos que arrasan con filas enteras de plantas
+
+^E2725B^• Fase 2^oldclr^
+
+{KEYWORD}Especial: {STAT}de vez en cuanto, lanza un ataque masivo por todo el patio
 
 {FLAVOR}Bajo la incesante lluvia, atravesando los fuertes vientos y surcando los cielos repletos de relámpagos, ¡llega el Dr. Zombi en su máquina de guerra listo para el combate!
 
