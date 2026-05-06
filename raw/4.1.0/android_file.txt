@@ -893,9 +893,6 @@ Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
 [NARRATIVE_PVZ1_S30_1_H_INTRO_3]
 {SAY:winnie}Exacto. Un campo magnético cambiante puede generar corriente. Me sorprende que lo sepas.
 
-[NARRATIVE_PVZ1_S30_1_H_INTRO_4]
-{SAY:crazydave}Soy loco, no tonto, ¿sabes? En fin... ¡hora de freír zombis!
-
 [NARRATIVE_PVZ1_S30_2_H_INTRO_1]
 {NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}El fuego resulta especialmente efectivo contra zombis congelados.
 
@@ -909,34 +906,37 @@ Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Detecto una cantidad inusual de Zombiditos en el patio.
 
 [NARRATIVE_PVZ1_S30_3_H_INTRO_2]
-{SHOUT:crazydave}¡Fuera de mi jardín, enanos problemáticos!
+{SAY:winnie}Sugiero usar Hielaguisantes y algunas nueces para ponerles freno.
 
 [NARRATIVE_PVZ1_S30_3_H_INTRO_3]
+{SHOUT:crazydave}¡Fuera de mi jardín, enanos problemáticos!
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_4]
 {SAY:crazydave}¡Son pequeños, pero hacen el mismo desastre!
 
 [NARRATIVE_PVZ1_S30_5_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:winnie}Es hora de que estos zombis prueben unas setas venenosas frescas.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:winnie}Es hora de que estos zombis prueben unas Sombrasetas frescas.
 
 [NARRATIVE_PVZ1_S30_5_H_INTRO_2]
-{SAY:crazydave}Pero si les doy setas venenosas, ¿qué voy a comer yo?
+{SAY:crazydave}Pero si les doy esas setas, ¿qué voy a comer yo?
 
 [NARRATIVE_PVZ1_S30_5_H_INTRO_3]
 {SAY:winnie}Algo que no intente matarte, preferiblemente.
 
 [NARRATIVE_PVZ1_S30_6_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Nuestra trampa está casi lista.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Esas Grosellas eléctricas pueden servir de barrera, despleguemoslas.
 
 [NARRATIVE_PVZ1_S30_6_H_INTRO_2]
-{SAY:crazydave}¡Genial! ¿Qué nos falta?
+{SAY:crazydave}¡Listo! ¿Qué más falta?
 
 [NARRATIVE_PVZ1_S30_6_H_INTRO_3]
-{SAY:winnie}8,99. No preguntes.
+{SAY:winnie}Esperar.
 
 [NARRATIVE_PVZ1_S30_7_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Esto pinta mal.. sin sol, sin mejoras... estamos contra las cuerdas.
 
 [NARRATIVE_PVZ1_S30_7_H_INTRO_2]
-{PLAYFUL:winnie}Aún nos queda un recurso: los pepinos tácticos.
+{PLAYFUL:winnie}Aún nos queda un último recurso: plantas fulminantes. Jalapeños y Petacerezas, para ser precisos.
 
 [NARRATIVE_PVZ1_S30_7_H_INTRO_3]
 {SAY:winnie}Todo depende de eso. Si fallamos... bueno, ya sabes cómo termina.
@@ -950,17 +950,20 @@ Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
 [NARRATIVE_PVZ1_S30_8_H_INTRO_3]
 {SAY:crazydave}Tal vez... pero traje algo mejor: un nuevo amigo.
 
+[NARRATIVE_PVZ1_S30_8_H_INTRO_4]
+{SAY:crazydave}No sé si es un zombi o una planta, solo espero que sea de fiar.
+
 [NARRATIVE_PVZ1_S30_9_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Nadie sabe qué hay entre esta niebla. Podríamos perdernos.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}El patio está todo difuso, no distingo el vapor de la niebla.
 
 [NARRATIVE_PVZ1_S30_9_H_INTRO_2]
-{PLAYFUL:winnie}Por eso traje a un ayudante que nos guíe.
+{PLAYFUL:winnie}Traje a un ayudante que nos guíe: Trebolador. 
 
 [NARRATIVE_PVZ1_S30_9_H_INTRO_3]
-{SAY:crazydave}¿Te refieres a estos cacahuetes?
+{SAY:winnie}Por cierto, cuida a las plantas en peligro.
 
 [NARRATIVE_PVZ1_S30_9_H_INTRO_4]
-{SAY:winnie}Intenta otra vez. Empieza por "Plan" y termina en "terna".
+{SAY:crazydave}¡No dejaré que se roben mis Planters! Que diga, mis cacahuates.
 
 [NARRATIVE_PVZ1_S30_10_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Viene una horda! ¡Planta Explotonueces y hazlos volar por los aires!
@@ -969,10 +972,10 @@ Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
 {SAY:winnie}Su alcance es limitado. ¿Seguro que es suficiente?
 
 [NARRATIVE_PVZ1_S30_10_H_INTRO_3]
-{EXCITED:crazydave}¡Cada uno que reviente es uno menos! ¡Y si revientas a muchos, mejor!
+{SHOUT:crazydave}¡CLARO que es suficiente! 
 
 [NARRATIVE_PVZ1_S30_10_H_INTRO_4]
-{SHOUT:crazydave}¡PELOTÓN, FIRME!
+{SAY:crazydave}Cada uno que reviente es uno menos. ¡Y si revientas a muchos, mejor!
 
 [NARRATIVE_PVZ1_S30_11_H_INTRO_1]
 {NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}El zombi onmyoji ha vuelto. Su abanico sigue siendo un problema.
@@ -981,16 +984,16 @@ Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
 {SAY:crazydave}Entonces usaremos Levitadoras. A ver qué hace cuando no toque el suelo.
 
 [NARRATIVE_PVZ1_S30_12_H_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL}{START_DIALOG_MUSIC}¿Por qué hay tantas cintas de seguridad en el suelo?
+{NPC_ENTER:crazydave}{PLAYFUL}{START_DIALOG_MUSIC}¿Qué son todas esas cosas blancas? ¿Cebollas?
 
 [NARRATIVE_PVZ1_S30_12_H_INTRO_2]
-{NPC_ENTER:zbcommander}{SAY:zbcommander}Petasetas. Se activan en cadena si están en la misma fila.
+{NPC_ENTER:zbcommander}{SAY:zbcommander}Cabezas de flecha. Se encadenan en la misma fila. Más unidades, más daño.
 
 [NARRATIVE_PVZ1_S30_12_H_INTRO_3]
-{SAY:zbcommander}Una se activa y las demás siguen. Hacen mucho daño, y paralizan máquinas cercanas.
+{SAY:zbcommander}Inutilizan nuestras máquinas al explotar. Mandad zombis a pie primero, luego a los mecas.
 
 [NARRATIVE_PVZ1_S30_12_H_INTRO_4]
-{SAY:zbcommander}Ah, y cuidado con Dátil ardiente. Atrae zombis y los vuelve algo torpes.
+{SAY:zbcommander}Ah, y cuidado con Dátil ardiente. Atrae zombis y los desvía de su ruta.
 
 [NARRATIVE_PVZ1_S30_12_H_INTRO_5]
 {EXCITED:crazydave}¿Comandante Z? ¡Hace tiempo que no te veía!
@@ -1026,13 +1029,13 @@ Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
 {NPC_ENTER:zombossicon}{SAY:zombossicon}La tormenta ha llegado. Aquí termina vuestro viaje.
 
 [NARRATIVE_PVZ1_S30_16_H_INTRO_2]
-{SAY:zombossicon}¡Observad a mi nuevo zombi de élite! ¡No dejará ni una sola planta en pie!
+{EXCITED:zombossicon}¡Observad a mi nuevo zombi de élite! No dejará una sola planta en pie.
 
 [NARRATIVE_PVZ1_S30_16_H_INTRO_3]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Hablas mucho para alguien que está a punto de perder.
 
 [NARRATIVE_PVZ1_S30_16_H_INTRO_4]
-{SAY:winnie}Plan de emergencia activado. ¡Derribémos esos zombis!
+{SAY:winnie}Plan de emergencia activado. Derribemos los zombis.
 
 [ACCESSORY_EXCHANGE_FAILED]
 Error en el intercambio
@@ -7016,7 +7019,7 @@ Bloquea a los zombis atacantes, se infla, estalla y los derriba
 {COUNT}/{TOTAL} jugadas
 
 [BEGIN_SWIPE]
-¡A CONECTAR!
+¡DESLIZA!
 
 [BESIEGE_FAILED_GAME_TIP]
 Los zombis robaron tus tuercas, ¿deseas gastar ^00e46e^{GEM_COUNT} Joyas^oldclr^ para ^FF0000^recuperarlas^oldclr^?
@@ -10915,7 +10918,7 @@ Bloquea y echa zombis hacia atrás
 Datos inválidos
 
 [CHEMIST_POISON]
-Toxina de alquimia
+Intoxicar
 
 [CHERRYBOMB_PRODUCT_SHORT_DESC]
 Explota con los zombis en un área mediana
@@ -12281,7 +12284,7 @@ Las flores venenosas infligen daño por salpicadura y aplican 3 capas de veneno.
 
 [CONVALLARIACHEMIST_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los efectos del veneno se vuelven cada vez más fuertes con los impactos sucesivos
-{KEYWORD}Características de la planta: {STAT}planta azul, familia venenosa
+{KEYWORD}Características de la planta: {STAT}planta azul
 
 {FLAVOR}Lirio de alquimia estudia en la escuela primaria para médicos, con la esperanza de salvar a las plantas heridas, pero para los zombis, solo encuentra la muerte como la única solución de salvarlas.
 
@@ -23772,7 +23775,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 2/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.2.0 (actualizado el 6/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -28791,7 +28794,7 @@ Combina gotas tóxicas que ^701edf^envenenan^oldclr^ zombis. ^D22808^Daño: 40, 
 [LOTUSSHOOTER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}absorbe el vapor alrededor de él
 {KEYWORD}Miasma: {STAT}devuelve el vapor absorbido como agua envenenada
-{KEYWORD}Características de la planta: {STAT}planta marrón, hábil, destructora
+{KEYWORD}Características de la planta: {STAT}planta marrón
 
 {FLAVOR}Raíz de loto es un ecologista que lucha por un ambiente más limpio. Cuando ve smog en el cielo, siempre quiere dispararle a algo.
 
@@ -28919,7 +28922,7 @@ Nivel 3
 Dispara semillas explosivas en tierra y torpedos bajo el agua
 
 [LOTUS_POISON]
-Miasma
+Contaminar
 
 [LOTZ_LUCKYCHARM_1G]
 Talisman
@@ -51485,13 +51488,13 @@ Los zombis aparecen cuando la marea sube
 ¡Agujero de gusano!
 
 [PVZ1MODE_TIME_COIN_NOT_ENOUGH]
-No tienes suficientes Estabilizadores temporales para empezar la partida.
+No tienes suficientes Estabilizadores para empezar la partida.
 
 [PVZ1MODE_TIME_COUNTDOWN]
-Nuevo evento en:
+Reinicio modo difícil:
 
 [PVZ1MODE_TIME_ENERGY_NOT_ENOUGH_LOSS]
-¡Derrota a los zombis antes de que la Energía temporal se agote!
+¡Derrota a los zombis antes de que la energía temporal se agote!
 
 [PVZ1MODE_TIME_RESET]
 Nuevos niveles en:
@@ -51539,10 +51542,10 @@ Yo, zombi
 Zombificador
 
 [PVZ1MODE_ZOMBIECHANGER_HARD_DESC]
-La última tecnología del Dr. Zombi transforma zombis en Zombisteins
+La última tecnología del Dr. Zombi. Transforma zombis en Zombisteins
 
 [PVZ1MODE_ZOMBIECHANGER_NORMAL_DESC]
-La última tecnología del Dr. Zombi transforma zombis en Zombisteins, pero a veces falla
+La última tecnología del Dr. Zombi. Transforma zombis en Zombisteins, pero a veces falla
 
 [PVZ1MODE_ZOMBIETENT]
 Acampada zombi
@@ -51560,7 +51563,7 @@ Se desbloquea al completar los objetivos de los niveles anteriores.
 Vegezombis
 
 [PVZ1MODE_ZOMBOTANY_NORMAL_DESC]
-Aparecen zombis mutados con cabezas de plantas.
+Aparecen zombis mutados con cabezas de plantas
 
 [PVZ1_ACHIEVEMENT_DESCRIPTION_1]
 Acumula 8.888 Soles antes de que termine una partida.
@@ -52498,7 +52501,7 @@ Fuerza descomunal
 No se seleccionaron objetivos.
 
 [PVZ1_MODE_SELECT_LEVEL_CHALLENGE_CHOOSE_DESC]
-¡A más objetivos, mayor recompensas!
+^E2725B^¡Más objetivos, mejores premios!^oldclr^
 
 [PVZ1_MODE_SELECT_LEVEL_THEME_NO_USE_DESC]
 Sin temáticas especiales.
@@ -63274,7 +63277,7 @@ Escuadrón aéreo
 Duplica la salud de los Pilotos gemelos y aumenta su velocidad en un 50%
 
 [SLIMED]
-Embabado
+Ensalivar
 
 [SLINGPEA]
 Tiraguisantes
