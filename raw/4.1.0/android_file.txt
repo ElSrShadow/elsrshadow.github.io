@@ -24,7 +24,7 @@ Udumbara
 
 [GLOOMBARA_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
-{KEYWORD}Características de la planta: {STAT}planta verde, hábil
+{KEYWORD}Características de la planta: {STAT}planta verde, espiritual, hábil
 
 {FLAVOR}Se dice que la Udumbara no florece para ser vista, sino para ser encontrada por quienes caminan demasiado cerca del otro lado.
 
@@ -343,7 +343,7 @@ Planta espiritual que dispara talismánes para dañar zombis y espíritus malign
 
 [EXORCISLILY_DESCRIPTION]
 {KEYWORD}Especial: {STAT}dispara talismánes más poderosos en el Reino espiritual
-{KEYWORD}Características de la planta: {STAT}planta roja, anciana, destructora
+{KEYWORD}Características de la planta: {STAT}planta roja, anciana, espiritual, destructora
 
 {FLAVOR}Siempre dice ser un calígrafo serio, pero a los zombis les da igual cómo maneje el pincel: lo único que saben es que, cuando esos papeles amarillos se les pegan en la frente, el ardor les impide mantener los ojos abiertos.
 
@@ -408,7 +408,7 @@ La Campana sagrada bloquea zombis y emite ondas que atraen espíritus de alreded
 
 [DOOMBELL_DESCRIPTION]
 {KEYWORD}Especial: {STAT}bloquea múltiples enemigos y recupera salud en el Reino espiritual
-{KEYWORD}Características de la planta: {STAT}planta marrón, de alta estatura, defensa
+{KEYWORD}Características de la planta: {STAT}planta marrón, de alta estatura, espiritual, defensa
 
 {FLAVOR}¿Por qué esos espíritus acaban deteniéndose a morderla en vez de atravesarla? Tras una árdua investigación, se llegó a una conclusión: no es que la Campana sagrada tenga efectos purificadores como se pensaba, sino que, el sonido que hace, los vuelve locos.
 
@@ -22187,7 +22187,7 @@ Inflige el triple de daño y ^DB8117^aturde^oldclr^ a los zombis acechados por 2
 [GHOSTPEPPER_DESCRIPTION]
 {KEYWORD}Información de daño: {STAT}inflige daño a los zombis que se acercan
 {KEYWORD}Especial: {STAT}explota después de un tiempo limitado
-{KEYWORD}Características de la planta: {STAT}planta blanca, flotante, destructora
+{KEYWORD}Características de la planta: {STAT}planta blanca, flotante, espiritual, destructora
 
 {FLAVOR}Aunque parezca mentira, Chile fantasma no siempre llevaba esa sábana a todos los sitios a los que iba. Se la puso para divertirse en una fiesta de Halloween: todo el mundo tenía Atuendos elaborados y pensó que sería gracioso disfrazarse simplemente de fantasma. Pero se enamoró del Atuendo. Le complementaba. Había encontrado su vocación.
 
@@ -42777,7 +42777,7 @@ Pantalla completa
 Música
 
 [OPTIONS_SKIPANIMS]
-Omitir animaciones
+Sin anim. final
 
 [OPTIONS_SOUNDFX]
 Efectos
