@@ -9722,7 +9722,7 @@ Dispara de 17 a 31 espinas supercargadas al usar Nutrientes.
 [CACTUS_DESCRIPTION]
 {KEYWORD}Especial: {STAT}se esconde e inflige daño terrestre cuando se acercan los zombis
 {KEYWORD}Especial: {STAT}funciona de maravilla contra Zombis globo
-{KEYWORD}Características de la planta: {STAT}planta verde, de alta estatura, electrizante, destructora
+{KEYWORD}Características de la planta: {STAT}planta verde, de alta estatura, destructora
 
 {FLAVOR}Últimamente la vida de Cactus cambió. Contratos de libros, películas, apariciones en espectáculos de camiones... Intenta centrarse en seguir siendo humilde y en lanzar espinas como siempre.
 
@@ -13323,7 +13323,7 @@ Aumenta el número de zombis arrastrados al usar Nutrientes a 6; derriba a los q
 
 [CTHULHUACTINIA_DESCRIPTION]
 {KEYWORD}Ojo láser: {STAT}tócalo cuando esté completamente cargado para liberar un potente láser
-{KEYWORD}Característica de la seta: {STAT}seta morada
+{KEYWORD}Características de la planta: {STAT}planta morada, destructora, familia de setas
 
 {FLAVOR}Nadie sabe de dónde vienen ni qué son. Se dice que los zombis que las oyen susurrar acaban volviéndose locos.
 
@@ -16821,6 +16821,7 @@ Gafas de aviación
 Los zombis atraídos ya no serán devueltos a sus posiciones anteriores
 
 [DOUBLESAMARA_DESCRIPTION]
+{KEYWORD}Uso: {STAT}único
 {KEYWORD}Especial: {STAT}crea un vórtice que derriba a los zombis en el cielo
 {KEYWORD}Características de la planta: {STAT}planta amarilla, flotante, familia de tornados
 
@@ -17949,7 +17950,7 @@ La electricidad se propaga en un área de 3x3 ^D22808^Daño: 200^oldclr^
 
 [ELECTRICITEA_DESCRIPTION]
 {KEYWORD}Especial: {STAT}libera poderosas descargas eléctricas al ser comido
-{KEYWORD}Características de la planta: {STAT}planta azul, electrizante, explosiva, destructora
+{KEYWORD}Características de la planta: {STAT}planta azul, electrizante, explosiva
 
 {FLAVOR}"Quiero que me coman. NECESITO que me coman", dice Té eléctrico. "Sin embargo, me conformo con freír a los zombis cercanos mientras".
 
@@ -18922,7 +18923,7 @@ Explotonuez
 Se reviste de una armadura volcánica que tiene 12.000 PS y hace 2.400 DPS al explotar
 
 [EXPLODEONUT_DESCRIPTION]
-{KEYWORD}Características de la planta: {STAT}planta roja, temperamental, explosiva
+{KEYWORD}Características de la planta: {STAT}planta roja, temperamental, explosiva, defensa
 
 {FLAVOR}"De lo único que me arrepiento", dice Explotonuez, "es de que solo tengo un único núcleo masticable de nitroglicerina disponible para este patio".
 
@@ -19023,7 +19024,7 @@ Convoca un soldado adicional con una bomba más grande. ^D22808^Daño: 1.000^old
 [EYWA_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}todo el patio
 {KEYWORD}Especial: {STAT}las unidades convocadas evolucionan con el tiempo
-{KEYWORD}Característica de la planta: {STAT}planta verde
+{KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
 ^E2725B^• Unidades convocadas^oldclr^
 
@@ -19185,7 +19186,7 @@ Locura de Yetis
 Elige la dificultad del juego, cuanto mayor sea la dificultad, mejor será la recompensa.
 
 [FESTIVALGAMEMODE_DEVILINVADE_TITLE]
-Invación explosiva
+Invasión explosiva
 
 [FESTIVALGAMEMODE_GARGANTUARCRISIS_TITLE]
 Crisis Zombistein
@@ -19573,7 +19574,7 @@ Las llamas del efecto explotan al apagarse, infligiendo daño adicional.
 
 [FIRESHROOM_DESCRIPTION]
 {KEYWORD}Rocas ardientes: {STAT}en su etapa máxima, lanza rocas ardientes que hacen daño de área
-{KEYWORD}Características de la planta: {STAT}planta anaranjada, anciana, destructora, familia de setas
+{KEYWORD}Características de la planta: {STAT}planta anaranjada, destructora, familia de setas
 
 {FLAVOR}Seta pirómana odia el verano. El motivo es simple: el calor es tan intenso que termina sudando en exceso cada vez que intenta entrenar durante esa estación. Para empeorar las cosas, el aire acondicionado de su casa suele averiarse justo cuando más lo necesita. En esos momentos es cuando realmente envidia a Seta criogénica, su hermano gemelo.
 
@@ -19766,7 +19767,7 @@ Lanza de 3 a 7 bolas de fuego a máx. 10 zombis mientras el efecto está activo.
 
 [FLAMELADY_DESCRIPTION]
 {KEYWORD}Especial: {STAT}el daño aumenta cuando el enemigo está cerca
-{KEYWORD}Características de  la planta: {STAT}planta roja, de aura ardiente, temperamental
+{KEYWORD}Características de la planta: {STAT}planta roja, amenazante, temperamental, fuego, destructora
 
 {FLAVOR}"Cuando se ve desde lejos, Reina flor de fuego puede aparentar ser la planta más atractiva de todo el reino vegetal; pero cuando te acercas, te darás cuenta que solo es una dragona escupe-fuego". Esas fueron las últimas palabras de un aventurero zombi.
 
@@ -23770,7 +23771,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.3.0 (actualizado el 7/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.3.1 (actualizado el 8/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -23846,7 +23847,7 @@ La onda sonora del efecto aturde zombis por 2 s
 [HEAVENDATURA_DESCRIPTION]
 {KEYWORD}Uso: {STAT}tocar para accionar, deslizar para cambiar de frecuencia
 {KEYWORD}Alcance: {STAT}1 casilla, área 3x3 (3ra nota), área 5x5 (5ta nota)
-{KEYWORD}Característica de la planta: {STAT}planta amarilla
+{KEYWORD}Características de la planta: {STAT}planta amarilla, destructora
 
 {FLAVOR}Trompeta de ángel descendió envuelta en una melodía celestial. Desde entonces, imita los sonidos que escucha, aunque a veces toca canciones que nadie recuerda haber oído jamás.
 
@@ -24466,7 +24467,7 @@ Tras usar Nutrientes, su tiempo de recuperación se acortará en 7 s por cada at
 
 [HORSEBEAN_DESCRIPTION]
 {KEYWORD}Especial: {STAT}ataca con un equipo de habas a distancia
-{KEYWORD}Características de la planta: {STAT}planta verde, áérea, destructora, hermanos
+{KEYWORD}Características de la planta: {STAT}planta verde, voladora, destructora, hermanos
 
 {FLAVOR}Ganó el título como mejor piloto en la escuela de aviación, y después de la graduación, no podía esperar para formar un equipo de vuelo, sin embargo, nadie parece atreverse a poner un pie en su nave nodriza.
 
@@ -24604,6 +24605,7 @@ Papa caliente
 [HOTPOTATO_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único
 {KEYWORD}Especial: {STAT}funde un bloque de hielo
+{KEYWORD}Características de la planta: {STAT}planta marrón
 
 {FLAVOR}¿Cómo consigue Papa caliente mantenerse positiva y equilibrada en todo momento? Con yoga. No se pierde ni una clase. Además, medita a menudo. Es la única forma que tiene de manejar el trabajo duro de pelear contra los zombis, día sí y día también, sin terminar fundida.
 
@@ -24646,7 +24648,7 @@ Tiene un 50% de probabilidad de activar un bis al usar Nutrientes (máx. 2 veces
 [HOYACORDATA_DESCRIPTION]
 {KEYWORD}Bis: {STAT}la planta potenciada tiene la probabilidad de reactivar su efecto de Nutrientes si los utiliza
 
-{KEYWORD}Característica de la planta: {STAT}planta verde
+{KEYWORD}Características de la planta: {STAT}planta verde, hábil
 {KEYWORD}Miscelánea: {STAT}planta especial del 10° Aniversario
 
 {FLAVOR}Vio el concierto de Girasol cantante y quedó tan conmovida que decidió apoyarla como fan por el resto de su vida.
@@ -25103,7 +25105,7 @@ Crea 1 sumidero adicional al usar Nutrientes ^D22808^(ahora 3)^oldclr^
 
 [ICESHROOM_DESCRIPTION]
 {KEYWORD}Cadena creciente: {STAT}en su etapa máxima, sus ataques se dividen y rebotan
-{KEYWORD}Características de la planta: {STAT}planta azul, gélida, destructora, familia de setas
+{KEYWORD}Características de la planta: {STAT}planta azul, destructora, familia de setas
 
 {FLAVOR}Seta criogénica detesta el invierno. El motivo es sencillo: el frío es tan extremo que no logra mantenerse caliente mientras duerme durante las largas noches heladas. Lo peor ocurre cada mañana, cuando despierta y encuentra la chimenea completamente cubierta por una gruesa capa de hielo. En esos momentos es cuando realmente envidia a Seta pirómana, su hermano gemelo.
 
@@ -26753,7 +26755,7 @@ El rango de acción del efecto cambia a 5x5. Golpea el suelo para infligir daño
 
 [LANCERHOYA_DESCRIPTION]
 {KEYWORD}Lanza potente: {STAT}tócala para enganchar a los zombis cercanos y hacerles mucho daño
-{KEYWORD}Característica de la planta: {STAT}planta verde
+{KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
 {FLAVOR}Domina la lanza con una precisión temible. Ni siquiera los zombis logran escapar de su alcance.
 
@@ -28789,7 +28791,7 @@ Combina gotas tóxicas que ^701edf^envenenan^oldclr^ zombis. ^D22808^Daño: 40, 
 [LOTUSSHOOTER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}absorbe el vapor alrededor de él
 {KEYWORD}Miasma: {STAT}devuelve el vapor absorbido como agua envenenada
-{KEYWORD}Características de la planta: {STAT}planta marrón, agua, destructora
+{KEYWORD}Características de la planta: {STAT}planta marrón, destructora
 
 {FLAVOR}Raíz de loto es un ecologista que lucha por un ambiente más limpio. Cuando ve smog en el cielo, siempre quiere dispararle a algo.
 
@@ -29400,7 +29402,7 @@ Aumenta el daño de su efecto de Nutrientes. ^D22808^Daño: 3.000^oldclr^
 {KEYWORD}Voltereta: {STAT}salta desde la cabeza de un zombi, aturdiendo a los que golpee
 {KEYWORD}Deslizamiento: {STAT}lanza a los zombis al aire, aturde a los grandes en su lugar
 
-{KEYWORD}Característica de la planta: {STAT}planta verde
+{KEYWORD}Características de la planta: {STAT}planta verde, destructora
 {KEYWORD}Miscelánea: {STAT}colaboración especial con Subway Surfers (China)
 
 {FLAVOR}Es una candidata para ganar en la Carrera de plantas este año. Está calentando motores con el objetivo de ser la primera en llegar a la meta y ser aclamada por todas las plantas del mundo.
@@ -29558,7 +29560,7 @@ Los zombis alcanzados por el efecto son ralentizados durante 3 s
 [MAPLEBLADE_DESCRIPTION]
 {KEYWORD}Alcance: {STAT}2 casillas al frente
 {KEYWORD}Sombra de arce: {STAT}libera un clon que carga contra los zombis cercanos
-{KEYWORD}Característica de la planta: {STAT}planta roja
+{KEYWORD}Características de la planta: {STAT}planta roja, artista marcial, destructora
 
 {FLAVOR}Es un guerrero muy respetable y destacable del Club de samuráis. Además de lucir sus habilidades, está a la espera de la brisa otoñal para atraer a las plantas con su follaje suelto, aunque, cuidado... ¡Las hojas podrían salir volando!
 
@@ -29658,8 +29660,10 @@ Se prolonga la duración del efecto en 1 s ^D22808^(ahora 4 s)^oldclr^
 [MATCHFLOWER_DESCRIPTION]
 {KEYWORD}Furia ardiente: {STAT}arde tras varios golpes, doblando el daño y prendiendo guisantes
 {KEYWORD}Enfado infernal: {STAT}arde aún más al asestar otros golpes, triplicando el daño
+
 {KEYWORD}Especial: {STAT}Furia ardiente también se activa con plantas de fuego
 {KEYWORD}Debilidad: {STAT}el enfado se pierde si no ataca por un tiempo
+
 {KEYWORD}Características de la planta: {STAT}planta roja, temperamental, fuego, destructora
 
 {FLAVOR}Plantorcha siempre trata de decirles a todos que Flor boxeadora es su descendiente, pero no solo puede incendiar guisantes, sino que también es un guerrero que tiene una actitud de "dejar que los puños hablen".
@@ -31126,289 +31130,289 @@ El pasado
 Dimensión del Recuerdo - Nivel 1
 
 [MEMORY_LEVEL_NAME_001]
-T1-01: Pequeño gallinero
+T1-S1-1: Pequeño gallinero
 
 [MEMORY_LEVEL_NAME_01_H]
 Dimensión del Recuerdo - Nivel 1 (Difícil)
 
 [MEMORY_LEVEL_NAME_001_H]
-T1-01: Crisis de moho
+T1-D-01: Crisis de moho
 
 [MEMORY_LEVEL_NAME_02]
 Dimensión del Recuerdo - Nivel 2
 
 [MEMORY_LEVEL_NAME_002]
-T1-02: Cuidado atrás
+T1-S1-2: Cuidado atrás
 
 [MEMORY_LEVEL_NAME_02_H]
 Dimensión del Recuerdo - Nivel 2 (Difícil)
 
 [MEMORY_LEVEL_NAME_002_H]
-T1-02: Crisis de moho II
+T1-D-02: Crisis de moho 2
 
 [MEMORY_LEVEL_NAME_03]
 Dimensión del Recuerdo - Nivel 3
 
 [MEMORY_LEVEL_NAME_003]
-T1-03: Saltando a la cima
+T1-S1-3: Saltando a la cima
 
 [MEMORY_LEVEL_NAME_03_H]
 Dimensión del Recuerdo - Nivel 3 (Difícil)
 
 [MEMORY_LEVEL_NAME_003_H]
-T1-03: Crisis de moho III
+T1-D-03: Crisis de moho 3
 
 [MEMORY_LEVEL_NAME_04]
 Dimensión del Recuerdo - Nivel 4
 
 [MEMORY_LEVEL_NAME_004]
-T1-04: Batalla de élite
+T1-S1-4: Batalla de élite
 
 [MEMORY_LEVEL_NAME_04_H]
 Dimensión del Recuerdo - Nivel 4 (Difícil)
 
 [MEMORY_LEVEL_NAME_004_H]
-T1-04: Crisis de moho IV
+T1-D-04: Crisis de moho 4
 
 [MEMORY_LEVEL_NAME_05]
 Dimensión del Recuerdo - Nivel 5
 
 [MEMORY_LEVEL_NAME_005]
-T1-05: Flanqueando
+T1-S1-5: Flanqueando
 
 [MEMORY_LEVEL_NAME_05_H]
 Dimensión del Recuerdo - Nivel 5 (Difícil)
 
 [MEMORY_LEVEL_NAME_005_H]
-T1-05: El bombardero II
+T1-D-05: El bombardero 2
 
 [MEMORY_LEVEL_NAME_06]
 Dimensión del Recuerdo - Nivel 6
 
 [MEMORY_LEVEL_NAME_006]
-El fin del ladrón
+T1-S1-6: Policía y ladrón
 
 [MEMORY_LEVEL_NAME_06_H]
 Dimensión del Recuerdo - Nivel 6 (Difícil)
 
 [MEMORY_LEVEL_NAME_006_H]
-Pequeño gallinero II
+T1-D-06: Pequeño gallinero II
 
 [MEMORY_LEVEL_NAME_07]
 Dimensión del Recuerdo - Nivel 7
 
 [MEMORY_LEVEL_NAME_007]
-Fiebre del oro
+T1-S1-7: Fiebre del oro
 
 [MEMORY_LEVEL_NAME_07_H]
 Dimensión del Recuerdo - Nivel 7 (Difícil)
 
 [MEMORY_LEVEL_NAME_007_H]
-Fanático del viento
+T1-D-07: Clima tempestuoso
 
 [MEMORY_LEVEL_NAME_08]
 Dimensión del Recuerdo - Nivel 8
 
 [MEMORY_LEVEL_NAME_008]
-Regresan los zombis de élite
+T1-S1-8: Batalla de élite
 
 [MEMORY_LEVEL_NAME_08_H]
 Dimensión del Recuerdo - Nivel 8 (Difícil)
 
 [MEMORY_LEVEL_NAME_008_H]
-Tenaza ofensiva
+T1-D-08: Ofensiva en T
 
 [MEMORY_LEVEL_NAME_09]
 Dimensión del Recuerdo - Nivel 1
 
 [MEMORY_LEVEL_NAME_009]
-Oriente y Occidente
+T1-S2-1: Oriente y Occidente
 
 [MEMORY_LEVEL_NAME_09_H]
 Dimensión del Recuerdo - Nivel 9 (Difícil)
 
 [MEMORY_LEVEL_NAME_009_H]
-Fiebre del oro II
+T1-D-09: Fiebre del oro II
 
 [MEMORY_LEVEL_NAME_10]
 Dimensión del Recuerdo - Nivel 2
 
 [MEMORY_LEVEL_NAME_010]
-Vida de comedia
+T1-S2-2: Vida de comedia
 
 [MEMORY_LEVEL_NAME_10_H]
 Dimensión del Recuerdo - Nivel 10 (Difícil)
 
 [MEMORY_LEVEL_NAME_010_H]
-El vaquero está ocupado II
+T1-D-10: El vaquero está ocupado II
 
 [MEMORY_LEVEL_NAME_11]
 Dimensión del Recuerdo - Nivel 3
 
 [MEMORY_LEVEL_NAME_011]
-Noticias de la noche zombi
+T1-S2-3: Invasión nocturna
 
 [MEMORY_LEVEL_NAME_11_H]
 Dimensión del Recuerdo - Nivel 11 (Difícil)
 
 [MEMORY_LEVEL_NAME_011_H]
-Todo hecho un desastre
+T1-D-11: Todo un desastre
 
 [MEMORY_LEVEL_NAME_12]
 Dimensión del Recuerdo - Nivel 4
 
 [MEMORY_LEVEL_NAME_012]
-La venganza de élite
+T1-S2-4: Batalla de élite
 
 [MEMORY_LEVEL_NAME_12_H]
 Dimensión del Recuerdo - Nivel 12 (Difícil)
 
 [MEMORY_LEVEL_NAME_012_H]
-Todo hecho un desastre II
+T1-D-12: Todo un desastre II
 
 [MEMORY_LEVEL_NAME_13]
 Dimensión del Recuerdo - Nivel 5
 
 [MEMORY_LEVEL_NAME_013]
-Festival de la antorcha
+T1-S2-5: Festival de la antorcha
 
 [MEMORY_LEVEL_NAME_13_H]
 Dimensión del Recuerdo - Nivel 13 (Difícil)
 
 [MEMORY_LEVEL_NAME_013_H]
-Saltando a la cima II
+T1-D-13: Saltando a la cima II
 
 [MEMORY_LEVEL_NAME_14]
 Dimensión del Recuerdo - Nivel 6
 
 [MEMORY_LEVEL_NAME_014]
-Los zombis de élite contraatacan
+T1-S2-6: Batalla de élite
 
 [MEMORY_LEVEL_NAME_14_H]
 Dimensión del Recuerdo - Nivel 14 (Difícil)
 
 [MEMORY_LEVEL_NAME_014_H]
-Crisis omnica
+T1-D-14: Crisis energética
 
 [MEMORY_LEVEL_NAME_15]
 Dimensión del Recuerdo - Nivel 7
 
 [MEMORY_LEVEL_NAME_015]
-El bombardero
+T1-S2-7: El bombardero
 
 [MEMORY_LEVEL_NAME_15_H]
 Dimensión del Recuerdo - Nivel 15 (Difícil)
 
 [MEMORY_LEVEL_NAME_015_H]
-El Gran Mago
+T1-D-15: El Gran Mago
 
 [MEMORY_LEVEL_NAME_16]
 Dimensión del Recuerdo - Nivel 8
 
 [MEMORY_LEVEL_NAME_016]
-Otro ataque de élite
+T1-S2-8: Batalla de élite
 
 [MEMORY_LEVEL_NAME_16_H]
 Dimensión del Recuerdo - Nivel 16 (Difícil)
 
 [MEMORY_LEVEL_NAME_016_H]
-El momento ha llegado
+T1-D-16: Momentazo
 
 [MEMORY_LEVEL_NAME_17]
 Dimensión del Recuerdo - Nivel 1
 
 [MEMORY_LEVEL_NAME_017]
-Festival de la antorcha II
+T1-S3-1: Festival de la antorcha II
 
 [MEMORY_LEVEL_NAME_18]
 Dimensión del Recuerdo - Nivel 2
 
 [MEMORY_LEVEL_NAME_018]
-¿Alguien necesita un médico?
+T1-S3-2: ¿Alguien necesita un médico?
 
 [MEMORY_LEVEL_NAME_19]
 Dimensión del Recuerdo - Nivel 3
 
 [MEMORY_LEVEL_NAME_019]
-Explosivo e inflamable
+T1-S3-3: Explosivo e inflamable
 
 [MEMORY_LEVEL_NAME_20]
 Dimensión del Recuerdo - Nivel 4
 
 [MEMORY_LEVEL_NAME_020]
-Las fuerzas de élite persisten
+T1-S3-4: Batalla de élite
 
 [MEMORY_LEVEL_NAME_21]
 Dimensión del Recuerdo - Nivel 5
 
 [MEMORY_LEVEL_NAME_021]
-Jugador de ataque
+T1-S3-5: Jugador de ataque
 
 [MEMORY_LEVEL_NAME_22]
 Dimensión del Recuerdo - Nivel 6
 
 [MEMORY_LEVEL_NAME_022]
-Noticias de la noche zombi II
+T1-S3-6: Invasión nocturna II
 
 [MEMORY_LEVEL_NAME_23]
 Dimensión del Recuerdo - Nivel 7
 
 [MEMORY_LEVEL_NAME_023]
-Conduciendo alrededor
+T1-S3-7: Conduciendo alrededor
 
 [MEMORY_LEVEL_NAME_24]
 Dimensión del Recuerdo - Nivel 8
 
 [MEMORY_LEVEL_NAME_024]
-Refuerzos de élite
+T1-S3-8: Batalla de élite
 
 [MEMORY_LEVEL_NAME_25]
 Dimensión del Recuerdo - Nivel 1
 
 [MEMORY_LEVEL_NAME_025]
-Renacimiento
+T1-S4-1: Renacimiento
 
 [MEMORY_LEVEL_NAME_26]
 Dimensión del Recuerdo - Nivel 2
 
 [MEMORY_LEVEL_NAME_026]
-Contraataque
+T1-S4-2: Contraataque
 
 [MEMORY_LEVEL_NAME_27]
 Dimensión del Recuerdo - Nivel 3
 
 [MEMORY_LEVEL_NAME_027]
-¿Quién dejó esa chimenea?
+T1-S4-3: ¿Quién dejó esa chimenea?
 
 [MEMORY_LEVEL_NAME_28]
 Dimensión del Recuerdo - Nivel 4
 
 [MEMORY_LEVEL_NAME_028]
-La imparable fuerza de élite
+T1-S4-4: Batalla de élite
 
 [MEMORY_LEVEL_NAME_29]
 Dimensión del Recuerdo - Nivel 5
 
 [MEMORY_LEVEL_NAME_029]
-Fuerza maligna
+T1-S4-5: Fuerza maligna
 
 [MEMORY_LEVEL_NAME_30]
 Dimensión del Recuerdo - Nivel 6
 
 [MEMORY_LEVEL_NAME_030]
-La Guerra del Sol
+T1-S4-6: La Guerra del Sol
 
 [MEMORY_LEVEL_NAME_31]
 Dimensión del Recuerdo - Nivel 7
 
 [MEMORY_LEVEL_NAME_031]
-El vaquero está ocupado
+T1-S4-7: El vaquero está ocupado
 
 [MEMORY_LEVEL_NAME_32]
 Dimensión del Recuerdo - Nivel 8
 
 [MEMORY_LEVEL_NAME_032]
-El último ataque de élite
+T1-S4-8: Batalla de élite
 
 [MEMORY_LEVEL_NAME_33]
 Dimensión del Recuerdo - Nivel 1
@@ -31507,55 +31511,55 @@ Dimensión del Recuerdo - Nivel 7
 Dimensión del Recuerdo - Nivel 8
 
 [MEMORY_LEVEL_NAME_MINIGAME_OVERWHELM]
-Pilares abrumadores
+¡Formen! ¡Arr!
 
 [MEMORY_LEVEL_S2_NAME_001_H]
-Bueno días, malas gallinas
+T2-D-01: Bueno días, gallinas
 
 [MEMORY_LEVEL_S2_NAME_002_H]
-Venda
+T2-D-02: Venda
 
 [MEMORY_LEVEL_S2_NAME_003_H]
-El contraataque de los vegezombis
+T2-D-03: Los vegezombis contratacan
 
 [MEMORY_LEVEL_S2_NAME_004_H]
-La carretera de la antigüedad
+T2-D-04: Carretera al olvido
 
 [MEMORY_LEVEL_S2_NAME_005_H]
-La oficina del bienestar
+T2-D-05: La oficina del bienestar
 
 [MEMORY_LEVEL_S2_NAME_006_H]
-Bisturí
+T2-D-06: Bisturí
 
 [MEMORY_LEVEL_S2_NAME_007_H]
-Defensa tridimensional integral
+T2-D-07: Defensa tridimensional
 
 [MEMORY_LEVEL_S2_NAME_008_H]
-Relé aéreo
+T2-D-08: Relé aéreo
 
 [MEMORY_LEVEL_S2_NAME_009_H]
-Grandes riquezas
+T2-D-09: Grandes riquezas
 
 [MEMORY_LEVEL_S2_NAME_010_H]
-Cinta transportadora infernal
+T2-D-10: Cinta transportadora
 
 [MEMORY_LEVEL_S2_NAME_011_H]
-Plantas + Zombis = Explosiones
+T2-D-11: Plantas y explosiones
 
 [MEMORY_LEVEL_S2_NAME_012_H]
-Latas y barriles
+T2-D-12: Latas y barriles
 
 [MEMORY_LEVEL_S2_NAME_013_H]
-Luchando en la cima
+T2-D-13: Lucha en la cima
 
 [MEMORY_LEVEL_S2_NAME_014_H]
-El mundo de la buena suerte
+T2-D-14: Buena suerte
 
 [MEMORY_LEVEL_S2_NAME_015_H]
-La cadena evolutiva
+T2-D-15: La cadena evolutiva
 
 [MEMORY_LEVEL_S2_NAME_016_H]
-Rígido como piedra
+T2-D-16: Duro como piedra
 
 [MEMORY_TUTORIAL_LEVEL_NAME]
 Período Heian
@@ -31574,6 +31578,7 @@ Conjura 5 meteoros que ruedan por la línea al usar Nutrientes
 
 [METEORFLOWER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}con Nutrientes, conjura una lluvia de meteoritos
+{KEYWORD}Características de la planta: {STAT}planta roja, destructora
 
 {FLAVOR}"¡Traigo caos abrasador desde el espacio! Pero ¡después del café!"
 
@@ -41747,6 +41752,7 @@ Las estrellas regresan de vuelta dañando a los zombis en el camino.
 
 [NIGHTCAP_DESCRIPTION]
 {KEYWORD}Sigilo oscuro: {STAT}se activa cuando hay zombis cerca, evitando el daño y envenenándolos
+{KEYWORD}Características de la planta: {STAT}planta morada, destructora, familia de setas
 
 {FLAVOR}Gorro de noche siempre tuvo un agudo sentido de la justicia, desde que era una esporita y veía pelis de ninjas por la noche en lugar de concentrarse en sus deberes de micología.
 
@@ -45852,8 +45858,8 @@ Máscara aeronáutica
 Las balas recogidas por el efecto, serán devueltas por 2 diagonales.
 
 [PINEAPPLE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su giro puede hacer rebotar proyectiles rectos
-{KEYWORD}Características de la planta: {STAT}planta amarilla, áérea, defensa, familias de tornados
+{KEYWORD}Especial: {STAT}su giro devuelve los proyectiles del Zombidito de combate
+{KEYWORD}Características de la planta: {STAT}planta amarilla, flotante, defensa, familias de tornados
 
 {FLAVOR}Para cumplir su sueño de volar, Piña giratoria se inspiró en los dibujos animados de su infancia. Convirtió las hojas de su cabeza en un helicóptero y, contra todo pronóstico, la idea funcionó. El precio fue evidente: para no caer, debe girar a intervalos regulares y soportar la presión de sus propias hojas.
 
@@ -51487,7 +51493,7 @@ Los zombis aparecen cuando la marea sube
 No tienes suficientes Estabilizadores para empezar la partida.
 
 [PVZ1MODE_TIME_COUNTDOWN]
-Reinicio modo difícil:
+Reinicio modo difícil:  
 
 [PVZ1MODE_TIME_ENERGY_NOT_ENOUGH_LOSS]
 ¡Derrota a los zombis antes de que la energía temporal se agote!
@@ -55129,7 +55135,7 @@ Robin Hood
 Dispara dos rayos cuando usa Nutrientes. ^D22808^Daño: 150 (x2)^oldclr^
 
 [REDSTINGER_DESCRIPTION]
-{KEYWORD}Características de la planta: {STAT}planta roja, ataque y defensa
+{KEYWORD}Características de la planta: {STAT}planta roja, destructora, defensa
 
 {FLAVOR}La flexibilidad es clave para Aguijón rojo. "Todas las mañanas hago estiramientos", asegura. "Es importante tener agilidad mental y física".
 
@@ -55932,6 +55938,7 @@ Cuando usa Nutrientes, salta 1 vez más ^D22808^(ahora 4)^oldclr^
 
 [RHUBARBARIAN_DESCRIPTION]
 {KEYWORD}Especial: {STAT}si hay un zombi 3 casillas al frente, saltará hacia él y aturdirá al resto
+{KEYWORD}Características de la planta: {STAT}planta roja, temperamental, destructora
 
 {FLAVOR}"¿Mi impulso de golpear cosas? ¡Es incontrolable!", exclama Ruibárbaro. "¿Ves ese árbol de ahí? ¡QUIERO GOLPEARLO! ¿Y ese buzón de correos? ¡QUIERO HACERLO ASTILLAS! ¿Tu tarjeta de la biblioteca? ¡TRAE PARA ACÁ!".
 
@@ -57202,1240 +57209,1240 @@ No me enteré muy bien...
 ¡Pero si ese es tu nombre!
 
 [S3_MEMORY_LEVEL_NAME_001]
-Depredador solar
+T3-S1-1: Depredador solar
 
 [S3_MEMORY_LEVEL_NAME_002]
-El gran pianista
+T3-S1-2: El gran pianista
 
 [S3_MEMORY_LEVEL_NAME_003]
-A toda prisa
+T3-S1-3: A toda prisa
 
 [S3_MEMORY_LEVEL_NAME_004]
-La élite renace
+T3-S1-4: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_005]
-La alegría del trébol
+T3-S1-5: La alegría del trébol
 
 [S3_MEMORY_LEVEL_NAME_006]
-Hay un ladrón
+T3-S1-6: Prófugos a la fuga
 
 [S3_MEMORY_LEVEL_NAME_007]
-La mejor tecnología minera
+T3-S1-7: Mineros
 
 [S3_MEMORY_LEVEL_NAME_008]
-La visita de la élite
+T3-S1-8: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_009]
-La alegría del trébol II
+T3-S2-1: La alegría del trébol II
 
 [S3_MEMORY_LEVEL_NAME_010]
-Disco
+T3-S2-2: Disco
 
 [S3_MEMORY_LEVEL_NAME_011]
-Crisis omnica II
+T3-S2-3: Crisis energética II
 
 [S3_MEMORY_LEVEL_NAME_012]
-La élite vuelve
+T3-S2-4: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_013]
-Epitafio
+T3-S2-5: Epitafio
 
 [S3_MEMORY_LEVEL_NAME_014]
-Saltando en la cima III
+T3-S2-6: Saltando en la cima III
 
 [S3_MEMORY_LEVEL_NAME_015]
-Reproductor de música
+T3-S2-7: MP3
 
 [S3_MEMORY_LEVEL_NAME_016]
-La tecnología de la élite
+T3-S2-8: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_017]
-La mejor tecnología minera II
+T3-S3-1: Mineros II
 
 [S3_MEMORY_LEVEL_NAME_018]
-Maestro del Qigong
+T3-S3-2: Maestro del Qigong
 
 [S3_MEMORY_LEVEL_NAME_019]
-A toda prisa II
+T3-S3-3: A toda prisa II
 
 [S3_MEMORY_LEVEL_NAME_020]
-La élite actua
+T3-S3-4: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_021]
-Navegando
+T3-S3-5: Navegando
 
 [S3_MEMORY_LEVEL_NAME_022]
-Guerra subterránea
+T3-S3-6: Guerra bajotierra
 
 [S3_MEMORY_LEVEL_NAME_023]
-El bombardero III
+T3-S3-7: El bombardero III
 
 [S3_MEMORY_LEVEL_NAME_024]
-Los pasos de la élite
+T3-S3-8: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_025]
-Loro suelto
+T3-S4-1: Loro suelto
 
 [S3_MEMORY_LEVEL_NAME_026]
-Ver dura
+T3-S4-2: Ver dura
 
 [S3_MEMORY_LEVEL_NAME_027]
-El perfume es veneno
+T3-S4-3: Perfume cautivador
 
 [S3_MEMORY_LEVEL_NAME_028]
-La élite persiste
+T3-S4-4: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_029]
-Renacimiento II
+T3-S4-5: Renacimiento II
 
 [S3_MEMORY_LEVEL_NAME_030]
-Cuidado con los cazadores
+T3-S4-6: Cazadores
 
 [S3_MEMORY_LEVEL_NAME_031]
-Metamorfosis
+T3-S4-7: Metamorfosis
 
 [S3_MEMORY_LEVEL_NAME_032]
-Batalla de élite
+T3-S4-8: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_033]
-Feliz Navidad
+T3-S5-1: Festivus
 
 [S3_MEMORY_LEVEL_NAME_034]
-Feliz Navidad II
+T3-S5-2: Festivus II
 
 [S3_MEMORY_LEVEL_NAME_035]
-Feliz Navidad III
+T3-S5-3: Festivus III
 
 [S3_MEMORY_LEVEL_NAME_036]
-La élite arruina la Navidad
+T3-S5-4: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_037]
-Feliz Navidad IV
+T3-S5-5: Feliz Navidad
 
 [S3_MEMORY_LEVEL_NAME_038]
-Feliz Navidad V
+T3-S5-6: Feliz Navidad II
 
 [S3_MEMORY_LEVEL_NAME_039]
-Feliz Navidad VI
+T3-S5-7: Feliz Navidad III
 
 [S3_MEMORY_LEVEL_NAME_040]
-La élite odia la Navidad
+T3-S5-8: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_041]
-Feliz Año Nuevo
+T3-S6-1: Festival lunar
 
 [S3_MEMORY_LEVEL_NAME_042]
-Feliz Año Nuevo II
+T3-S6-2: Festival lunar II
 
 [S3_MEMORY_LEVEL_NAME_043]
-Feliz Año Nuevo III
+T3-S6-3: Festival lunar III
 
 [S3_MEMORY_LEVEL_NAME_044]
-La élite y sus nuevos planes
+T3-S6-4: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_045]
-Feliz Año Nuevo IV
+T3-S6-5: Feliz Año Nuevo
 
 [S3_MEMORY_LEVEL_NAME_046]
-Feliz Año Nuevo V
+T3-S6-6: Feliz Año Nuevo II
 
 [S3_MEMORY_LEVEL_NAME_047]
-Feliz Año Nuevo VI
+T3-S6-7: Feliz Año Nuevo III
 
 [S3_MEMORY_LEVEL_NAME_048]
-Plantando y a la élite atacando
+T3-S6-8: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_049]
-Saltando en la cima IV
+T3-S7-1: Nueva cima
 
 [S3_MEMORY_LEVEL_NAME_050]
-No tirar basura
+T3-S7-2: No tirar basura
 
 [S3_MEMORY_LEVEL_NAME_051]
-A toda prisa III
+T3-S7-3: Vida acelerada
 
 [S3_MEMORY_LEVEL_NAME_052]
-Acciones bélicas de la élite
+T3-S7-4: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_053]
-Guerra subterránea II
+T3-S7-5: Guerra bajotierra II
 
 [S3_MEMORY_LEVEL_NAME_054]
-A toda prisa IV
+T3-S7-6: Vida acelerada II
 
 [S3_MEMORY_LEVEL_NAME_055]
-Instalación de esquí
+T3-S7-7: Competencia de esquí
 
 [S3_MEMORY_LEVEL_NAME_056]
-Esquiando sobre la élite
+T3-S7-8: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_057]
-Aventurando y zombis derrotando
+T3-S8-1: Nueva aventura
 
 [S3_MEMORY_LEVEL_NAME_058]
-Cuidado con los cazadores II
+T3-S8-2: Cazadores II
 
 [S3_MEMORY_LEVEL_NAME_059]
-A toda prisa V
+T3-S8-3: De prisa y corriendo
 
 [S3_MEMORY_LEVEL_NAME_060]
-La élite y sus prisas
+T3-S8-4: Batalla de élite
 
 [S3_MEMORY_LEVEL_NAME_061]
-Hay un ladrón II
+T3-S8-5: Prófugos a la fuga II
 
 [S3_MEMORY_LEVEL_NAME_062]
-Depredador solar II
+T3-S8-6: Depredador solar II
 
 [S3_MEMORY_LEVEL_NAME_063]
-Navegando II
+T3-S8-7: Navegando II
 
 [S3_MEMORY_LEVEL_NAME_064]
-La élite y su búsqueda
+T3-S8-8: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_001]
-El escudo electromagnético debuta
+T4-S1-1: Electro-escudo
 
 [S4_MEMORY_LEVEL_NAME_002]
-El escudo electromagnético mejorado
+T4-S1-2: Electro-escudo 2.0
 
 [S4_MEMORY_LEVEL_NAME_003]
-El escudo electromagnético mejorado II
+T4-S1-3: Electro-escudo 3.0
 
 [S4_MEMORY_LEVEL_NAME_004]
-La élite y su fuerza especial
+T4-S1-4: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_005]
-Rayos del terror
+T4-S1-5: Rayos de terror
 
 [S4_MEMORY_LEVEL_NAME_006]
-Rayos del terror II
+T4-S1-6: Rayos de terror II
 
 [S4_MEMORY_LEVEL_NAME_007]
-Rayos del terror III
+T4-S1-7: Rayos del terror III
 
 [S4_MEMORY_LEVEL_NAME_008]
-La élite influye temor
+T4-S1-8: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_009]
-¡Feliz Año Nuevo!
+T4-S2-1: ¡Feliz Año Nuevo!
 
 [S4_MEMORY_LEVEL_NAME_010]
-Deseando lo mejor
+T4-S2-2: TE DESEO LO MEJOR
 
 [S4_MEMORY_LEVEL_NAME_011]
-En armonía por siempre
+T4-S2-3: En armonía por siempre
 
 [S4_MEMORY_LEVEL_NAME_012]
-Cumpliendo deseos
+T4-S2-4: Cumpliendo deseos
 
 [S4_MEMORY_LEVEL_NAME_013]
-Tomando ventaja
+T4-S2-5: Tomando ventaja
 
 [S4_MEMORY_LEVEL_NAME_014]
-El vuelo de dos dragones
+T4-S2-6: Dragón de dos cabezas
 
 [S4_MEMORY_LEVEL_NAME_015]
-El comienzo de la primavera
+T4-S2-7: Primavera
 
 [S4_MEMORY_LEVEL_NAME_016]
-Seguridad y prosperidad
+T4-S2-8: Prosperidad
 
 [S4_MEMORY_LEVEL_NAME_017]
-Regresa el escudo electromagnético
+T4-S3-1: Regresa el electro-escudo
 
 [S4_MEMORY_LEVEL_NAME_018]
-Regresa el escudo electromagnético II
+T4-S3-2: Regresa el electro-escudo II
 
 [S4_MEMORY_LEVEL_NAME_019]
-Regresa el escudo electromagnético III
+T4-S3-3: Regresa el electro-escudo III
 
 [S4_MEMORY_LEVEL_NAME_020]
-La élite también regresa
+T4-S3-4: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_021]
-Duelo de baldosas
+T4-S3-5: Destierro
 
 [S4_MEMORY_LEVEL_NAME_022]
-Duelo de baldosas II
+T4-S3-6: Destierro II
 
 [S4_MEMORY_LEVEL_NAME_023]
-Duelo de baldosas III
+T4-S3-7: Destierro II
 
 [S4_MEMORY_LEVEL_NAME_024]
-Duelo contra la élite
+T4-S3-8: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_025]
-Petardos y emoción
+T4-S4-1: Petardos y emoción
 
 [S4_MEMORY_LEVEL_NAME_026]
-Petardos y emoción II
+T4-S4-2: Petardos y emoción II
 
 [S4_MEMORY_LEVEL_NAME_027]
-Petardos y emoción III
+T4-S4-3: Petardos y emoción III
 
 [S4_MEMORY_LEVEL_NAME_028]
-Festival de los Faroles
+T4-S4-4: Festival de los Faroles
 
 [S4_MEMORY_LEVEL_NAME_029]
-No toques mis dumplings
+T4-S4-5: No toques mis dumplings
 
 [S4_MEMORY_LEVEL_NAME_030]
-No toques mis dumplings II
+T4-S4-6: No toques mis dumplings II
 
 [S4_MEMORY_LEVEL_NAME_031]
-No toques mis dumplings III
+T4-S4-7: No toques mis dumplings III
 
 [S4_MEMORY_LEVEL_NAME_032]
-Festival de los Faroles II
+T4-S4-8: Festival de los Faroles II
 
 [S4_MEMORY_LEVEL_NAME_033]
-Lluvia de guijarros
+T4-S5-1: Lluvia de guijarros
 
 [S4_MEMORY_LEVEL_NAME_034]
-Lluvia de guijarros II
+T4-S5-2: Lluvia de guijarros II
 
 [S4_MEMORY_LEVEL_NAME_035]
-Lluvia de guijarros III
+T4-S5-3: Lluvia de guijarros III
 
 [S4_MEMORY_LEVEL_NAME_036]
-La construcción de la élite
+T4-S5-4: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_037]
-Taco, ¿dónde estás?
+T4-S5-5: Taco, ¿dónde estás?
 
 [S4_MEMORY_LEVEL_NAME_038]
-Taco, ¿dónde estás? - II
+T4-S5-6: Taco, ¿dónde estás? - II
 
 [S4_MEMORY_LEVEL_NAME_039]
-Taco, ¿dónde estás? - III
+T4-S5-7: Taco, ¿dónde estás? - III
 
 [S4_MEMORY_LEVEL_NAME_040]
-La élite responde
+T4-S5-8: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_041]
-Burbujas voladoras
+T4-S6-1: Pompas de jabón
 
 [S4_MEMORY_LEVEL_NAME_042]
-Burbujas voladoras II
+T4-S6-2: Pompas de jabón II
 
 [S4_MEMORY_LEVEL_NAME_043]
-Burbujas voladoras III
+T4-S6-3: Pompas de jabón III
 
 [S4_MEMORY_LEVEL_NAME_044]
-¿La élite sopla burbujas?
+T4-S6-4: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_045]
-El destello de la intranquilidad
+T4-S6-5: Vecindario ruidoso
 
 [S4_MEMORY_LEVEL_NAME_046]
-El destello de la intranquilidad II
+T4-S6-6: Vecindario ruidoso II
 
 [S4_MEMORY_LEVEL_NAME_047]
-El destello de la intranquilidad III
+T4-S6-7: Vecindario ruidoso III
 
 [S4_MEMORY_LEVEL_NAME_048]
-La élite achicharra plantas
+T4-S6-8: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_049]
-Pociones peligrosas
+T4-S7-1: Alquimia oscura
 
 [S4_MEMORY_LEVEL_NAME_050]
-Pociones peligrosas II
+T4-S7-2: Alquimia oscura II
 
 [S4_MEMORY_LEVEL_NAME_051]
-Pociones peligrosas III
+T4-S7-3: Alquimia oscura III
 
 [S4_MEMORY_LEVEL_NAME_052]
-La alquimia de la élite
+T4-S7-4: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_053]
-Guerra de cerámica
+T4-S7-5: Museo de cera
 
 [S4_MEMORY_LEVEL_NAME_054]
-Guerra de cerámica II
+T4-S7-6: Museo de cera II
 
 [S4_MEMORY_LEVEL_NAME_055]
-Guerra de cerámica III
+T4-S7-7: Museo de cera III
 
 [S4_MEMORY_LEVEL_NAME_056]
-Guerra contra la élite
+T4-S7-8: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_057]
-Entre piedras y arena
+T4-S8-1: Sandman
 
 [S4_MEMORY_LEVEL_NAME_058]
-Entre piedras y arena II
+T4-S8-2: Sandman II
 
 [S4_MEMORY_LEVEL_NAME_059]
-Entre piedras y arena III
+T4-S8-3: Sandman III
 
 [S4_MEMORY_LEVEL_NAME_060]
-Entre plantas y la élite
+T4-S8-4: Batalla de élite
 
 [S4_MEMORY_LEVEL_NAME_061]
-Burbujeo masivo
+T4-S8-5: Burbujeo
 
 [S4_MEMORY_LEVEL_NAME_062]
-Burbujeo masivo II
+T4-S8-6: Burbujeo II
 
 [S4_MEMORY_LEVEL_NAME_063]
-Burbujeo masivo III
+T4-S8-7: Burbujeo III
 
 [S4_MEMORY_LEVEL_NAME_064]
-La élite y su poder masivo
+T4-S8-8: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_001]
-Era de hielo I
+T5-S1-1: Era de hielo
 
 [S5_MEMORY_LEVEL_NAME_002]
-Era de hielo II
+T5-S1-2: Era de hielo 2
 
 [S5_MEMORY_LEVEL_NAME_003]
-Era de hielo III
+T5-S1-3: Era de hielo 3
 
 [S5_MEMORY_LEVEL_NAME_004]
-La élite es fría
+T5-S1-4: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_005]
-Acampadas por doquier
+T5-S1-5: Acampadas por doquier
 
 [S5_MEMORY_LEVEL_NAME_006]
-Acampadas por doquier II
+T5-S1-6: Acampadas por doquier II
 
 [S5_MEMORY_LEVEL_NAME_007]
-Acampadas por doquier III
+T5-S1-7: Acampadas por doquier III
 
 [S5_MEMORY_LEVEL_NAME_008]
-Las expediciones de la élite
+T5-S1-8: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_009]
-El nombre de las estrellas
+T5-S2-1: Contando estrellas
 
 [S5_MEMORY_LEVEL_NAME_010]
-El nombre de las estrellas II
+T5-S2-2: Contando estrellas II
 
 [S5_MEMORY_LEVEL_NAME_011]
-El nombre de las estrellas III
+T5-S2-3: Contando estrellas III
 
 [S5_MEMORY_LEVEL_NAME_012]
-La élite es la nueva estrella
+T5-S2-4: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_013]
-El brillo de las estrellas
+T5-S2-5: TRELLAS
 
 [S5_MEMORY_LEVEL_NAME_014]
-El brillo de las estrellas II
+T5-S2-6: TRELLAS 2
 
 [S5_MEMORY_LEVEL_NAME_015]
-El brillo de las estrellas III
+T5-S2-7: TRELLAS 3
 
 [S5_MEMORY_LEVEL_NAME_016]
-La élite sigue brillando
+T5-S2-8: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_017]
-Tomates viejos
+T5-S3-1: Tomates viejos
 
 [S5_MEMORY_LEVEL_NAME_018]
-Tomates viejos II
+T5-S3-2: Tomates viejos II
 
 [S5_MEMORY_LEVEL_NAME_019]
-Tomates viejos III
+T5-S3-3: Tomates viejos III
 
 [S5_MEMORY_LEVEL_NAME_020]
-La élite está envejeciendo
+T5-S3-4: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_021]
-Espinas de acero
+T5-S3-5: Espinas de acero
 
 [S5_MEMORY_LEVEL_NAME_022]
-Espinas de acero II
+T5-S3-6: Espinas de acero II
 
 [S5_MEMORY_LEVEL_NAME_023]
-Espinas de acero III
+T5-S3-7: Espinas de acero III
 
 [S5_MEMORY_LEVEL_NAME_024]
-La élite de acero
+T5-S3-8: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_025]
-Sopa de pollo
+T5-S4-1: Sopa de pollo
 
 [S5_MEMORY_LEVEL_NAME_026]
-Sopa de pollo II
+T5-S4-2: Sopa de pollo II
 
 [S5_MEMORY_LEVEL_NAME_027]
-Sopa de pollo III
+T5-S4-3: Sopa de pollo III
 
 [S5_MEMORY_LEVEL_NAME_028]
-La élite también cocina
+T5-S4-4: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_029]
-Dragón del trueno
+T5-S4-5: Dragón del trueno
 
 [S5_MEMORY_LEVEL_NAME_030]
-Dragón del trueno II
+T5-S4-6: Dragón del trueno II
 
 [S5_MEMORY_LEVEL_NAME_031]
-Dragón del trueno III
+T5-S4-7: Dragón del trueno III
 
 [S5_MEMORY_LEVEL_NAME_032]
-La élite está atormentada
+T5-S4-8: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_033]
-Tomates revueltos
+T5-S5-1: Tomates revueltos
 
 [S5_MEMORY_LEVEL_NAME_034]
-Tomates revueltos II
+T5-S5-2: Tomates revueltos II
 
 [S5_MEMORY_LEVEL_NAME_035]
-Tomates revueltos III
+T5-S5-3: Tomates revueltos III
 
 [S5_MEMORY_LEVEL_NAME_036]
-Revueltos con la élite
+T5-S5-4: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_037]
-Cañón de gayubas
+T5-S5-5: Cañón de gayubas
 
 [S5_MEMORY_LEVEL_NAME_038]
-Cañón de gayubas II
+T5-S5-6: Cañón de gayubas II
 
 [S5_MEMORY_LEVEL_NAME_039]
-Cañón de gayubas III
+T5-S5-7: Cañón de gayubas III
 
 [S5_MEMORY_LEVEL_NAME_040]
-El armamento de la élite
+T5-S5-8: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_041]
-Tiroteo
+T5-S6-1: Tiroteo
 
 [S5_MEMORY_LEVEL_NAME_042]
-Tiroteo II
+T5-S6-2: Tiroteo II
 
 [S5_MEMORY_LEVEL_NAME_043]
-Tiroteo III
+T5-S6-3: Tiroteo III
 
 [S5_MEMORY_LEVEL_NAME_044]
-La élite también tiene balas
+T5-S6-4: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_045]
-Cabeza implacable
+T5-S6-5: Cabeza implacable
 
 [S5_MEMORY_LEVEL_NAME_046]
-Cabeza implacable II
+T5-S6-6: Cabeza implacable II
 
 [S5_MEMORY_LEVEL_NAME_047]
-Cabeza implacable III
+T5-S6-7: Cabeza implacable III
 
 [S5_MEMORY_LEVEL_NAME_048]
-La élite es implacable
+T5-S6-8: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_049]
-Transformación
+T5-S7-1: Transformación
 
 [S5_MEMORY_LEVEL_NAME_050]
-Transformación II
+T5-S7-2: Transformación II
 
 [S5_MEMORY_LEVEL_NAME_051]
-Transformación III
+T5-S7-3: Transformación III
 
 [S5_MEMORY_LEVEL_NAME_052]
-La élite se transforma
+T5-S7-4: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_053]
-Cúspide
+T5-S7-5: En la cúspide
 
 [S5_MEMORY_LEVEL_NAME_054]
-Cúspide II
+T5-S7-6: En la cúspide II
 
 [S5_MEMORY_LEVEL_NAME_055]
-Cúspide III
+T5-S7-7: En la cúspide III
 
 [S5_MEMORY_LEVEL_NAME_056]
-La élite está en la cúspide
+T5-S7-8: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_057]
-Descarga eléctrica
+T5-S8-1: Descarga eléctrica
 
 [S5_MEMORY_LEVEL_NAME_058]
-Descarga eléctrica II
+T5-S8-2: Descarga eléctrica II
 
 [S5_MEMORY_LEVEL_NAME_059]
-Descarga eléctrica III
+T5-S8-3: Descarga eléctrica III
 
 [S5_MEMORY_LEVEL_NAME_060]
-La élite es electrizante
+T5-S8-4: Batalla de élite
 
 [S5_MEMORY_LEVEL_NAME_061]
-Corte de pelo
+T5-S8-5: Corte de pelo
 
 [S5_MEMORY_LEVEL_NAME_062]
-Corte de pelo II
+T5-S8-6: Corte de pelo II
 
 [S5_MEMORY_LEVEL_NAME_063]
-Corte de pelo
+T5-S8-7: Corte de pelo III
 
 [S5_MEMORY_LEVEL_NAME_064]
-La élite tiene malos pelos
+T5-S8-8: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_001]
-Lo que ocultan las tiendas
+T6-S1-1: Lo que ocultan las tiendas
 
 [S6_MEMORY_LEVEL_NAME_001_H]
-Solo en casa
+T6-D-01: Solo en casa
 
 [S6_MEMORY_LEVEL_NAME_002]
-Lo que ocultan las tiendas II
+T6-S1-2: Lo que ocultan las tiendas II
 
 [S6_MEMORY_LEVEL_NAME_002_H]
-Difícil de cuidar
+T6-D-02: Difícil de cuidar
 
 [S6_MEMORY_LEVEL_NAME_003]
-Lo que ocultan las tiendas III
+T6-S1-3: Lo que ocultan las tiendas III
 
 [S6_MEMORY_LEVEL_NAME_003_H]
-Buscando comadrejas
+T6-D-03: Buscando comadrejas
 
 [S6_MEMORY_LEVEL_NAME_004]
-La élite oculta algo
+T6-S1-4: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_004_H]
-Montón de surcos
+T6-D-04: Montón de surcos
 
 [S6_MEMORY_LEVEL_NAME_005]
-No comas mis albóndigas
+T6-S1-5: No comas mis albóndigas
 
 [S6_MEMORY_LEVEL_NAME_005_H]
-La velocidad de la luz
+T6-D-05: Velocidad de la luz
 
 [S6_MEMORY_LEVEL_NAME_006]
-No comas mis albóndigas II
+T6-S1-6: No comas mis albóndigas II
 
 [S6_MEMORY_LEVEL_NAME_006_H]
-La velocidad de la luz 2.0
+T6-D-06: Protocolo Z
 
 [S6_MEMORY_LEVEL_NAME_007]
-No comas mis albóndigas III
+T6-S1-7: No comas mis albóndigas III
 
 [S6_MEMORY_LEVEL_NAME_007_H]
-Estrépito
+T6-D-07: Estrépito
 
 [S6_MEMORY_LEVEL_NAME_008]
-La élite es insaciable
+T6-S1-8: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_008_H]
-¡Atrapa al ladrón!
+T6-D-08: ¡Atrapa al ladrón!
 
 [S6_MEMORY_LEVEL_NAME_009]
-Espectáculo pirotécnico
+T6-S2-1: Espectáculo pirotécnico
 
 [S6_MEMORY_LEVEL_NAME_009_H]
-Noticias matutinas
+T6-D-09: Noticias matutinas
 
 [S6_MEMORY_LEVEL_NAME_010]
-Espectáculo pirotécnico II
+T6-S2-2: Espectáculo pirotécnico II
 
 [S6_MEMORY_LEVEL_NAME_010_H]
-Máquinas letales
+T6-D-10: Máquinas letales
 
 [S6_MEMORY_LEVEL_NAME_011]
-Espectáculo pirotécnico III
+T6-S2-3: Espectáculo pirotécnico III
 
 [S6_MEMORY_LEVEL_NAME_011_H]
-Máquinas letales 2.0
+T6-D-11: Máquinas letales II
 
 [S6_MEMORY_LEVEL_NAME_012]
-La élite abre el telón
+T6-S2-4: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_012_H]
-Desenlace
+T6-D-12: Desenlace
 
 [S6_MEMORY_LEVEL_NAME_013]
-Batallando bajo la niebla
+T6-S2-5: Niebla de batalla
 
 [S6_MEMORY_LEVEL_NAME_013_H]
-A correr
+T6-D-13: La gran huída
 
 [S6_MEMORY_LEVEL_NAME_014]
-Batallando bajo la niebla II
+T6-S2-6: Niebla de batalla II
 
 [S6_MEMORY_LEVEL_NAME_014_H]
-Siguiendo el ritmo
+T6-D-14: Sigue el ritmo
 
 [S6_MEMORY_LEVEL_NAME_015]
-Batallando bajo la niebla III
+T6-S2-7: Niebla de batalla III
 
 [S6_MEMORY_LEVEL_NAME_015_H]
-Transfiguración
+T6-D-15: Transfiguración
 
 [S6_MEMORY_LEVEL_NAME_016]
-La élite abruma plantas
+T6-S2-8: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_016_H]
-Héroe de las albóndigas
+T6-D-16: Héroe de las albóndigas
 
 [S6_MEMORY_LEVEL_NAME_017]
-Viento soplando, nubes volando
+T6-S3-1: NUBES
 
 [S6_MEMORY_LEVEL_NAME_018]
-Viento soplando, nubes volando II
+T6-S3-2: NUBES 2
 
 [S6_MEMORY_LEVEL_NAME_019]
-Viento soplando, nubes volando III
+T6-S3-3: NUBES 3
 
 [S6_MEMORY_LEVEL_NAME_020]
-La élite emprende vuelo
+T6-S3-4: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_021]
-A rodar
+T6-S3-5: A rodar
 
 [S6_MEMORY_LEVEL_NAME_022]
-A rodar II
+T6-S3-6: A rodar II
 
 [S6_MEMORY_LEVEL_NAME_023]
-A rodar III
+T6-S3-7: A rodar III
 
 [S6_MEMORY_LEVEL_NAME_024]
-Las vueltas de la élite
+T6-S3-8: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_025]
-De ladrillo a ladrillo
+T6-S4-1: De ladrillo a ladrillo
 
 [S6_MEMORY_LEVEL_NAME_026]
-De ladrillo a ladrillo II
+T6-S4-2: De ladrillo a ladrillo II
 
 [S6_MEMORY_LEVEL_NAME_027]
-De ladrillo a ladrillo III
+T6-S4-3: De ladrillo a ladrillo III
 
 [S6_MEMORY_LEVEL_NAME_028]
-La élite es dura
+T6-S4-4: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_029]
-Pociones prohibidas
+T6-S4-5: Maleficio
 
 [S6_MEMORY_LEVEL_NAME_030]
-Pociones prohibidas II
+T6-S4-6: Maleficio II
 
 [S6_MEMORY_LEVEL_NAME_031]
-Pociones prohibidas III
+T6-S4-7: Maleficio III
 
 [S6_MEMORY_LEVEL_NAME_032]
-La hechicería de la élite
+T6-S4-8: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_033]
-Guerra robótica
+T6-S5-1: Guerra robótica
 
 [S6_MEMORY_LEVEL_NAME_034]
-Guerra robótica II
+T6-S5-2: Guerra robótica II
 
 [S6_MEMORY_LEVEL_NAME_035]
-Guerra robótica III
+T6-S5-3: Guerra robótica III
 
 [S6_MEMORY_LEVEL_NAME_036]
-La élite y su inteligencia
+T6-S5-4: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_037]
-Por dentro y por fuera
+T6-S5-5: Por dentro y por fuera
 
 [S6_MEMORY_LEVEL_NAME_038]
-Por dentro y por fuera II
+T6-S5-6: Por dentro y por fuera II
 
 [S6_MEMORY_LEVEL_NAME_039]
-Por dentro y por fuera III
+T6-S5-7: Por dentro y por fuera III
 
 [S6_MEMORY_LEVEL_NAME_040]
-La élite se resguarda
+T6-S5-8: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_041]
-¿Ves desde abajo?
+T6-S6-1: Vista panorámica
 
 [S6_MEMORY_LEVEL_NAME_042]
-¿Ves desde abajo? - II
+T6-S6-2: Vista panorámica 2
 
 [S6_MEMORY_LEVEL_NAME_043]
-¿Ves desde abajo? - III
+T6-S6-3: Vista panorámica 3
 
 [S6_MEMORY_LEVEL_NAME_044]
-La visión de la élite
+T6-S6-4: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_045]
-Girando
+T6-S6-5: Carrusel
 
 [S6_MEMORY_LEVEL_NAME_046]
-Girando II
+T6-S6-6: Carrusel II
 
 [S6_MEMORY_LEVEL_NAME_047]
-Girando III
+T6-S6-7: Carrusel III
 
 [S6_MEMORY_LEVEL_NAME_048]
-La élite da un giro inesperado
+T6-S6-8: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_049]
-Un soñador
+T6-S7-1: Grandes sueños
 
 [S6_MEMORY_LEVEL_NAME_050]
-Un soñador II
+T6-S7-2: Grandes sueños II
 
 [S6_MEMORY_LEVEL_NAME_051]
-Un soñador III
+T6-S7-3: Grandes sueños III
 
 [S6_MEMORY_LEVEL_NAME_052]
-Los sueños de la élite
+T6-S7-4: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_053]
-El pronóstico de hoy
+T6-S7-5: Pronóstico del clima
 
 [S6_MEMORY_LEVEL_NAME_054]
-El pronóstico de hoy II
+T6-S7-6: Pronóstico del clima II
 
 [S6_MEMORY_LEVEL_NAME_055]
-El pronóstico de hoy III
+T6-S7-7: Pronóstico del clima III
 
 [S6_MEMORY_LEVEL_NAME_056]
-La élite pronostica lluvias
+T6-S7-8: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_057]
-El secreto del vendedor
+T6-S8-1: Vendedor exitoso
 
 [S6_MEMORY_LEVEL_NAME_058]
-El secreto del vendedor II
+T6-S8-2: Vendedor exitoso II
 
 [S6_MEMORY_LEVEL_NAME_059]
-El secreto del vendedor III
+T6-S8-3: Vendedor exitoso III
 
 [S6_MEMORY_LEVEL_NAME_060]
-El secreto de la élite
+T6-S8-4: Batalla de élite
 
 [S6_MEMORY_LEVEL_NAME_061]
-Luchando por la ciencia
+T6-S8-5: Cientíceros
 
 [S6_MEMORY_LEVEL_NAME_062]
-Luchando por la ciencia II
+T6-S8-6: Cientíceros II
 
 [S6_MEMORY_LEVEL_NAME_063]
-Luchando por la ciencia III
+T6-S8-7: Cientíceros III
 
 [S6_MEMORY_LEVEL_NAME_064]
-Experimentos de la élite
+T6-S8-8: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_001]
-Volando en pedazos
+T7-S1-1: Escombros
 
 [S7_MEMORY_LEVEL_NAME_001_H]
-La legión del metal
+T7-D-01: Legión del metal
 
 [S7_MEMORY_LEVEL_NAME_002]
-Volando en pedazos II
+T7-S1-2: Escombros II
 
 [S7_MEMORY_LEVEL_NAME_002_H]
-Caminando hacia el horizonte
+T7-D-02: Norte y Sur
 
 [S7_MEMORY_LEVEL_NAME_003]
-Volando en pedazos III
+T7-S1-3: Escombros III
 
 [S7_MEMORY_LEVEL_NAME_003_H]
-Diversión en la piscina
+T7-D-03: Pool Party
 
 [S7_MEMORY_LEVEL_NAME_004]
-La élite se vuelve añicos
+T7-S1-4: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_004_H]
-Del pasado al presente
+T7-D-04: Pasado y presente
 
 [S7_MEMORY_LEVEL_NAME_005]
-Guardavidas
+T7-S1-5: Salvavidas
 
 [S7_MEMORY_LEVEL_NAME_005_H]
-Fiesta de surfistas
+T7-D-05: Competencia de surf
 
 [S7_MEMORY_LEVEL_NAME_006]
-Guardavidas II
+T7-S1-6: Salvavidas II
 
 [S7_MEMORY_LEVEL_NAME_006_H]
-Atmósfera congelante
+T7-D-06: Criogenia
 
 [S7_MEMORY_LEVEL_NAME_007]
-Guardavidas III
+T7-S1-7: Salvavidas III
 
 [S7_MEMORY_LEVEL_NAME_007_H]
 Peligro al acecho
 
 [S7_MEMORY_LEVEL_NAME_008]
-La élite se da un chapuzón
+T7-S1-8: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_008_H]
-Animales en el agua
+T7-D-08: Fauna marina
 
 [S7_MEMORY_LEVEL_NAME_009]
-Lecho de basura
+T7-S2-1: Basurero
 
 [S7_MEMORY_LEVEL_NAME_009_H]
-Defender o atacar
+T7-D-09: Defender o atacar
 
 [S7_MEMORY_LEVEL_NAME_010]
-Lecho de basura II
+T7-S2-2: Basurero II
 
 [S7_MEMORY_LEVEL_NAME_010_H]
-Cabeza de hierro
+T7-D-10: Cabeza de hierro
 
 [S7_MEMORY_LEVEL_NAME_011]
-Lecho de basura III
+T7-S2-3: Basurero III
 
 [S7_MEMORY_LEVEL_NAME_011_H]
-Banquete pirata
+T7-D-11: Botín
 
 [S7_MEMORY_LEVEL_NAME_012]
-Los desperdicios de la élite
+T7-S2-4: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_012_H]
-Prohibido entrar con animales
+T7-D-12: No se permiten animales
 
 [S7_MEMORY_LEVEL_NAME_013]
-Escudos flotantes
+T7-S2-5: Escudos flotantes
 
 [S7_MEMORY_LEVEL_NAME_013_H]
-Escuadrón explosivo
+T7-D-13: Escuadrón explosivo
 
 [S7_MEMORY_LEVEL_NAME_014]
-Escudos flotantes II
+T7-S2-6: Escudos flotantes II
 
 [S7_MEMORY_LEVEL_NAME_014_H]
-Disparos ciegos
+T7-D-14: Punto ciego
 
 [S7_MEMORY_LEVEL_NAME_015]
-Escudos flotantes III
+T7-S2-7: Escudos flotantes III
 
 [S7_MEMORY_LEVEL_NAME_015_H]
-Magia y tecnología
+T7-D-15: Magia y tecnología
 
 [S7_MEMORY_LEVEL_NAME_016]
-La defensa de la élite
+T7-S2-8: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_016_H]
-Magia y tecnología 2.0
+T7-D-16: Magia y tecnología 2
 
 [S7_MEMORY_LEVEL_NAME_017]
-Lluvia de granizo
+T7-S3-1: Granizada desatada
 
 [S7_MEMORY_LEVEL_NAME_018]
-Lluvia de granizo II
+T7-S3-2: Granizada desatada II
 
 [S7_MEMORY_LEVEL_NAME_019]
-Lluvia de granizo III
+T7-S3-3: Granizada desatada III
 
 [S7_MEMORY_LEVEL_NAME_020]
-La élite genera caos
+T7-S3-4: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_021]
-Se acabó el verano
+T7-S3-5: Se acabó el verano
 
 [S7_MEMORY_LEVEL_NAME_022]
-Se acabó el verano II
+T7-S3-6: Se acabó el verano II
 
 [S7_MEMORY_LEVEL_NAME_023]
-Se acabó el verano III
+T7-S3-7: Se acabó el verano III
 
 [S7_MEMORY_LEVEL_NAME_024]
-La élite vuelve a trabajar
+T7-S3-8: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_025]
-Arriba y abajo
+T7-S4-1: Arriba y abajo
 
 [S7_MEMORY_LEVEL_NAME_026]
-Arriba y abajo II
+T7-S4-2: Arriba y abajo II
 
 [S7_MEMORY_LEVEL_NAME_027]
-Arriba y abajo III
+T7-S4-3: Arriba y abajo III
 
 [S7_MEMORY_LEVEL_NAME_028]
-Festival de la élite
+T7-S4-4: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_029]
-La élite y sus direcciones
+T7-S4-5: Otra batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_030]
-Festival de las burbujas
+T7-S4-6: Festival alegre
 
 [S7_MEMORY_LEVEL_NAME_031]
-Festival de las burbujas II
+T7-S4-7: Festival alegre II
 
 [S7_MEMORY_LEVEL_NAME_032]
-Festival de las burbujas III
+T7-S4-8: Festival alegre III
 
 [S7_MEMORY_LEVEL_NAME_033]
-Surferos en la piscina
+T7-S5-1: Surf de piscina
 
 [S7_MEMORY_LEVEL_NAME_034]
-Surferos en la piscina II
+T7-S5-2: Surf de piscina II
 
 [S7_MEMORY_LEVEL_NAME_035]
-Surferos en la piscina III
+T7-S5-3: Surf de piscina III
 
 [S7_MEMORY_LEVEL_NAME_036]
-La elite entre olas
+T7-S5-4: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_037]
-Un baño venenoso
+T7-S5-5: Toxicidad
 
 [S7_MEMORY_LEVEL_NAME_038]
-Un baño venenoso II
+T7-S5-6: Toxicidad II
 
 [S7_MEMORY_LEVEL_NAME_039]
-Un baño venenoso III
+T7-S5-7: Toxicidad III
 
 [S7_MEMORY_LEVEL_NAME_040]
-La élite es veneno
+T7-S5-8: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_041]
-Hechizados con pociones
+T7-S6-1: Encantados
 
 [S7_MEMORY_LEVEL_NAME_042]
-Hechizados con pociones II
+T7-S6-2: Encantados II
 
 [S7_MEMORY_LEVEL_NAME_043]
-Hechizados con pociones III
+T7-S6-3: Encantados III
 
 [S7_MEMORY_LEVEL_NAME_044]
-La élite se vuelve oscura
+T7-S6-4: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_045]
-Caballeros y hechiceros
+T7-S6-5: Edad más Oscura
 
 [S7_MEMORY_LEVEL_NAME_046]
-Caballeros y hechiceros II
+T7-S6-6: Edad más Oscura II
 
 [S7_MEMORY_LEVEL_NAME_047]
-Caballeros y hechiceros III
+T7-S6-7: Edad más Oscura III
 
 [S7_MEMORY_LEVEL_NAME_048]
-Caballeros de la élite
+T7-S6-8: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_049]
-Piscina de hielo
+T7-S7-1: Pista de hielo
 
 [S7_MEMORY_LEVEL_NAME_050]
-Piscina de hielo II
+T7-S7-2: Pista de hielo II
 
 [S7_MEMORY_LEVEL_NAME_051]
-Piscina de hielo III
+T7-S7-3: Pista de hielo III
 
 [S7_MEMORY_LEVEL_NAME_052]
-La élite y su frialdad
+T7-S7-4: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_053]
-Un chapuzón pirata
+T7-S7-5: Saludo pirata
 
 [S7_MEMORY_LEVEL_NAME_054]
-Un chapuzón pirata II
+T7-S7-6: Saludo pirata II
 
 [S7_MEMORY_LEVEL_NAME_055]
-Un chapuzón pirata III
+T7-S7-7: Saludo pirata III
 
 [S7_MEMORY_LEVEL_NAME_056]
-Un chapuzón de la élite
+T7-S7-8: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_057]
-Sobrevolando las aguas
+T7-S8-1: Surcando mares
 
 [S7_MEMORY_LEVEL_NAME_058]
-Sobrevolando las aguas II
+T7-S8-2: Surcando mares II
 
 [S7_MEMORY_LEVEL_NAME_059]
-Sobrevolando las aguas III
+T7-S8-3: Surcando mares III
 
 [S7_MEMORY_LEVEL_NAME_060]
-Sobrevolando la élite
+T7-S8-4: Batalla de élite
 
 [S7_MEMORY_LEVEL_NAME_061]
-Karaoke en la piscina
+T7-S8-5: Noche de karaoke
 
 [S7_MEMORY_LEVEL_NAME_062]
-Karaoke en la piscina II
+T7-S8-6: Noche de karaoke II
 
 [S7_MEMORY_LEVEL_NAME_063]
-Karaoke en la piscina III
+T7-S8-7: Noche de karaoke III
 
 [S7_MEMORY_LEVEL_NAME_064]
-El karaoke de la élite
+T7-S8-8: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_001]
-Tácticas contra la multitud
+T8-S1-1: Control de multitudes
 
 [S8_MEMORY_LEVEL_NAME_001_H]
-Combate aplastante
+T8-D-1: Combate aplastante
 
 [S8_MEMORY_LEVEL_NAME_002]
-Tácticas contra la multitud II
+T8-S1-2: Control de multitudes II
 
 [S8_MEMORY_LEVEL_NAME_002_H]
-Protectores del futuro
+T8-D-02: Guardían del tiempo
 
 [S8_MEMORY_LEVEL_NAME_003]
-Tácticas contra la multitud III
+T8-S1-3: Control de multitudes III
 
 [S8_MEMORY_LEVEL_NAME_003_H]
-Civiles y militares
+T8-D-03: Civiles y militares
 
 [S8_MEMORY_LEVEL_NAME_004]
-La élite y sus tácticas
+T8-S1-4: Batala de élite
 
 [S8_MEMORY_LEVEL_NAME_004_H]
-Golpeando fuerte
+T8-D-04: Golpeando fuerte
 
 [S8_MEMORY_LEVEL_NAME_005]
-A fuerza completa
+T8-S1-5: Fuerza y hagallas
 
 [S8_MEMORY_LEVEL_NAME_005_H]
-Millas bajo cero
+T8-D-05: 0 millas
 
 [S8_MEMORY_LEVEL_NAME_006]
-A fuerza completa II
+T8-S1-6: Fuerza y hagallas II
 
 [S8_MEMORY_LEVEL_NAME_006_H]
-Maestro de armas
+T8-D-06: Maestro de armas
 
 [S8_MEMORY_LEVEL_NAME_007]
-A fuerza completa III
+T8-S1-7: Fuerza y hagallas III
 
 [S8_MEMORY_LEVEL_NAME_007_H]
-Armado y con todo
+T8-D-07: Armados y peligrosos
 
 [S8_MEMORY_LEVEL_NAME_008]
-La verdadera fuerza de la élite
+T8-S1-8: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_008_H]
-Fuerza gravitatoria
+T8-D-08: Fuerza gravitatoria
 
 [S8_MEMORY_LEVEL_NAME_009]
-Viaje en el tiempo
+T8-S2-1: Viajeros del tiempo
 
 [S8_MEMORY_LEVEL_NAME_009_H]
-Incursión de todo tipo
+T8-D-09: Incursión del caos
 
 [S8_MEMORY_LEVEL_NAME_010]
-Viaje en el tiempo II
+T8-S2-2: Viajeros del tiempo II
 
 [S8_MEMORY_LEVEL_NAME_010_H]
-Sin costura
+T8-D-10: Sin costura
 
 [S8_MEMORY_LEVEL_NAME_011]
-Viaje en el tiempo III
+T8-S2-3: Viajeros del tiempo III
 
 [S8_MEMORY_LEVEL_NAME_011_H]
-Choque congelante
+T8-D-11: Choque congelante
 
 [S8_MEMORY_LEVEL_NAME_012]
-La élite y sus diligencias
+T8-S2-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_012_H]
-Solo en casa
+T8-D-12: Lobo solitario
 
 [S8_MEMORY_LEVEL_NAME_013]
-A mano armada
+T8-S2-5: A mano armada
 
 [S8_MEMORY_LEVEL_NAME_013_H]
-El invierno se acerca
+T8-D-13: Invierno asolador
 
 [S8_MEMORY_LEVEL_NAME_014]
-A mano armada II
+T8-S2-6: A mano armada II
 
 [S8_MEMORY_LEVEL_NAME_014_H]
-Pelotón zombi
+T8-D-14: Pelotón zombi
 
 [S8_MEMORY_LEVEL_NAME_015]
-A mano armada III
+T8-S2-7: A mano armada III
 
 [S8_MEMORY_LEVEL_NAME_015_H]
-Guerra moderna
+T8-D-15: Guerra moderna
 
 [S8_MEMORY_LEVEL_NAME_016]
-La élite está en guardia
+T8-S2-8: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_016_H]
-La oscuridad cae
+T8-D-16: Cae la noche
 
 [S8_MEMORY_LEVEL_NAME_017]
-Rápidos y sigilosos
+T8-S3-1: Rápidos y sigilosos
 
 [S8_MEMORY_LEVEL_NAME_018]
-Rápidos y sigilosos II
+T8-S3-2: Rápidos y sigilosos II
 
 [S8_MEMORY_LEVEL_NAME_019]
-Rápidos y sigilosos III
+T8-S3-3: Rápidos y sigilosos III
 
 [S8_MEMORY_LEVEL_NAME_020]
-El sigilo de la élite
+T8-S3-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_021]
-Clases de animales
+T8-S3-5: Zoo
 
 [S8_MEMORY_LEVEL_NAME_022]
-Clases de animales II
+T8-S3-6: Zoo II
 
 [S8_MEMORY_LEVEL_NAME_023]
-Clases de animales III
+T8-S3-7: Zoo III
 
 [S8_MEMORY_LEVEL_NAME_024]
-Los animales de la élite
+T8-S3-8: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_025]
-Entre las llamas
+T8-S4-1: Entre llamas
 
 [S8_MEMORY_LEVEL_NAME_026]
-Entre las llamas II
+T8-S4-2: Entre llamas II
 
 [S8_MEMORY_LEVEL_NAME_027]
-Entre las llamas III
+T8-S4-3: Entre llamas III
 
 [S8_MEMORY_LEVEL_NAME_028]
-La élite es infernal
+T8-S4-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_029]
-Practicando el Kung Fu
+T8-S4-5: Fuerza y disciplina
 
 [S8_MEMORY_LEVEL_NAME_030]
-Practicando el Kung Fu II
+T8-S4-6: Fuerza y disciplina II
 
 [S8_MEMORY_LEVEL_NAME_031]
-Practicando el Kung Fu III
+T8-S4-7: Fuerza y disciplina III
 
 [S8_MEMORY_LEVEL_NAME_032]
-La élite y sus artes marciales
+T8-S4-8: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_033]
-Fiesta de Halloween
+T8-S5-1: Fiesta de Halloween
 
 [S8_MEMORY_LEVEL_NAME_034]
-Fiesta de Halloween II
+T8-S5-2: Fiesta de Halloween II
 
 [S8_MEMORY_LEVEL_NAME_035]
-Fiesta de Halloween III
+T8-S5-3: Fiesta de Halloween III
 
 [S8_MEMORY_LEVEL_NAME_036]
-La élite celebra el Halloween
+T8-S5-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_037]
-Danza de los diablillos
+T8-S5-5: Danza de los diablillos
 
 [S8_MEMORY_LEVEL_NAME_038]
-Danza de los diablillos II
+T8-S5-6: Danza de los diablillos II
 
 [S8_MEMORY_LEVEL_NAME_039]
-Danza de los diablillos III
+T8-S5-7: Danza de los diablillos III
 
 [S8_MEMORY_LEVEL_NAME_040]
-La élite danzante
+T8-S5-8: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_041]
-Guerra en el futuro
+T8-S6-1: Guerra futurista
 
 [S8_MEMORY_LEVEL_NAME_042]
-Guerra en el futuro II
+T8-S6-2: Guerra futurista II
 
 [S8_MEMORY_LEVEL_NAME_043]
-Guerra en el futuro III
+T8-S6-3: Guerra futurista III
 
 [S8_MEMORY_LEVEL_NAME_044]
-El futuro de la élite
+T8-S6-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_045]
 Fuerza colosal
@@ -61543,151 +61550,151 @@ T29: Universo paralelo
 T29: Bólidus
 
 [S30_MEMORY_LEVEL_NAME_1]
-T30-1: Inducción eléctrica
+T30-D-01: Inducción eléctrica
 
 [S30_MEMORY_LEVEL_NAME_001]
-T30-01: Invasión conjunta
+T30-S1-1: Invasión conjunta
 
 [S30_MEMORY_LEVEL_NAME_2]
-T30-2: Fisión y fusión
+T30-D-02: Fisión y fusión
 
 [S30_MEMORY_LEVEL_NAME_002]
-T30-02: Asesor médico
+T30-S1-2: Asesor médico
 
 [S30_MEMORY_LEVEL_NAME_3]
-T30-3: A toda propulsión
+T30-D-03: A toda propulsión
 
 [S30_MEMORY_LEVEL_NAME_003]
-T30-03: Servicios para cobardes
+T30-S1-3: Charlas de apoyo
 
 [S30_MEMORY_LEVEL_NAME_4]
-T30-4: Hormigas y elefantes
+T30-D-04: Hormigas y elefantes
 
 [S30_MEMORY_LEVEL_NAME_004]
-T30-04: Rey sin corona
+T30-S1-4: Rey sin corona
 
 [S30_MEMORY_LEVEL_NAME_5]
-T30-5: Hegemonía inmortal
+T30-D-05: Hegemonía inmortal
 
 [S30_MEMORY_LEVEL_NAME_005]
-T30-05: Crisis de petrificación
+T30-S1-5: Crisis de petrificación
 
 [S30_MEMORY_LEVEL_NAME_6]
-T30-6: Zombis contra zombis
+T30-D-06: Zombis contra zombis
 
 [S30_MEMORY_LEVEL_NAME_006]
-T30-06: Asedio en curva
+T30-S1-6: Asedio en curva
 
 [S30_MEMORY_LEVEL_NAME_7]
-T30-7: Apostarlo todo
+T30-D-07: Apostarlo todo
 
 [S30_MEMORY_LEVEL_NAME_007]
-T30-07: Martillo pegajoso
+T30-S1-7: Martillo pegajoso
 
 [S30_MEMORY_LEVEL_NAME_8]
-T30-8: Cuerpo de titán
+T30-D-08: Cuerpo de titán
 
 [S30_MEMORY_LEVEL_NAME_008]
-T30-08: Bestia meca
+T30-S1-8: Bestia meca
 
 [S30_MEMORY_LEVEL_NAME_9]
-T30-9: Ciudad misteriosa
+T30-D-09: Ciudad contaminada
 
 [S30_MEMORY_LEVEL_NAME_009]
-T30-09: Pastel y regalos
+T30-S2-1: Pastel y regalos
 
 [S30_MEMORY_LEVEL_NAME_10]
-T30-10: Alto al fuego
+T30-D-10: Batalla explosiva
 
 [S30_MEMORY_LEVEL_NAME_010]
-T30-10: Niebla asfixiante
+T30-S2-2: Niebla asfixiante
 
 [S30_MEMORY_LEVEL_NAME_11]
-T30-11: Surcando cielos
+T30-D-11: Vientos feroces
 
 [S30_MEMORY_LEVEL_NAME_011]
-T30-11: Lluvia de regalos
+T30-S2-3: Lluvia de regalos
 
 [S30_MEMORY_LEVEL_NAME_12]
-T30-12: Cadenas enlazadas
+T30-D-12: Cadenas enlazadas
 
 [S30_MEMORY_LEVEL_NAME_012]
-T30-12: Juguete para estrés
+T30-S2-4: Juguete para estrés
 
 [S30_MEMORY_LEVEL_NAME_13]
-T30-13: Ataque indirecto
+T30-D-13: Ataque indirecto
 
 [S30_MEMORY_LEVEL_NAME_013]
-T30-13: Arcade festivo
+T30-S2-5: Arcade festivo
 
 [S30_MEMORY_LEVEL_NAME_14]
-T30-14: Sin margen de error
+T30-D-14: Sin margen de error
 
 [S30_MEMORY_LEVEL_NAME_014]
-T30-14: Metal Slug
+T30-S2-6: Metal Slug
 
 [S30_MEMORY_LEVEL_NAME_15]
-T30-15: Disparos interminables
+T30-D-15: Frijoles al límite
 
 [S30_MEMORY_LEVEL_NAME_015]
-T30-15: Fervor ardiente
+T30-S2-7: Fervor ardiente
 
 [S30_MEMORY_LEVEL_NAME_16]
-T30-16: Tormenta furiosa
+T30-D-16: Tormenta furiosa
 
 [S30_MEMORY_LEVEL_NAME_016]
-T30-16: Festín de parkour
+T30-S2-8: Fiesta de parkour
 
 [S30_MEMORY_LEVEL_NAME_17]
-T30-17: Tiempos más modernos
+T30-D-17: Tiempos más modernos
 
 [S30_MEMORY_LEVEL_NAME_017]
-T30-17: De vuelta al patio
+T30-S3-1: De vuelta al patio
 
 [S30_MEMORY_LEVEL_NAME_018]
-T30-18: Baile entre tumbas
+T30-S3-2: Baile entre tumbas
 
 [S30_MEMORY_LEVEL_NAME_019]
-T30-19: Pequeños pero matones
+T30-S3-3: Pequeños pero matones
 
 [S30_MEMORY_LEVEL_NAME_020]
-T30-20: Estanque helado
+T30-S3-4: Estanque helado
 
 [S30_MEMORY_LEVEL_NAME_021]
-T30-21: La lucha de Boogieman
+T30-S3-5: La lucha de Boogieman
 
 [S30_MEMORY_LEVEL_NAME_022]
-T30-22: Cielo y tierra
+T30-S3-6: Cielo y tierra
 
 [S30_MEMORY_LEVEL_NAME_023]
-T30-23: Altos y bajos
+T30-S3-7: Altos y bajos
 
 [S30_MEMORY_LEVEL_NAME_024]
-T30-24: Fiesta en la cima
+T30-S3-8: Fiesta en la cima
 
 [S30_MEMORY_LEVEL_NAME_025]
-T30-25: Nuevos caminos
+T30-S4-1: Nuevos caminos
 
 [S30_MEMORY_LEVEL_NAME_026]
-T30-26: Espionaje anti-zombis
+T30-S4-2: Espionaje anti-zombis
 
 [S30_MEMORY_LEVEL_NAME_027]
-T30-27: Dulces mágicos
+T30-S4-3: Dulces mágicos
 
 [S30_MEMORY_LEVEL_NAME_028]
-T30-28: Festival del fuego
+T30-S4-4: Festival del fuego
 
 [S30_MEMORY_LEVEL_NAME_029]
-T30-29: Nuevo aniversario
+T30-S4-5: Nuevo aniversario
 
 [S30_MEMORY_LEVEL_NAME_030]
-T30-30: Buen augurio
+T30-S4-6: Buen augurio
 
 [S30_MEMORY_LEVEL_NAME_031]
-T30-31: Batalla de vainas
+T30-S4-7: Batalla de vainas
 
 [S30_MEMORY_LEVEL_NAME_032]
-T30-32: Villancicos
+T30-S4-8: Villancicos
 
 [S30_MEMORY_LEVEL_NAME_BOSS_1]
 Bólidus
@@ -61901,6 +61908,7 @@ Platillo volador
 El tiempo de aturdimiento del efecto se duplica ^D22808^(ahora 20 s)^oldclr^
 
 [SAUCER_DESCRIPTION]
+{KEYWORD}Uso: {STAT}único, se activa cuando el zombi está cerca
 {KEYWORD}Características de la planta: {STAT}planta amarilla, voladora, extraterrestre
 
 {FLAVOR}Todos confunden a Calabacín de platillo con un extraterrestre, pero poco a poco descubren que simplemente no se integra con ellos porque es demasiado tímido.
@@ -70527,6 +70535,7 @@ Recupera toda su salud al final del efecto.
 
 [SWEETPOTATO_DESCRIPTION]
 {KEYWORD}Especial: {STAT}atrae zombis de otras líneas
+{KEYWORD}Características de la planta: {STAT}planta marrón, llena de amor, defensa
 
 {FLAVOR}Boniato es tan dulce como parece. Su animal favorito es el unicornio. Su color favorito (y cito directamente) "todos los colores del arcoíris". Cuando escribe la letra "i", dibuja un corazoncito en lugar del punto. Honestamente, si fuera otra planta, todo esto sería demasiado empalagoso. Pero a Boniato le sienta muy bien.
 
@@ -74975,7 +74984,7 @@ Espacio de Semillas extra
 ¡Te permite elegir otro tipo de planta en cada nivel!
 
 [UPGRADE_SHIELD_1]
-Escudo protector
+Barrera de cristal
 
 [UPGRADE_SHIELD_1_INFO]
 Añade más dureza a la nave.
@@ -75146,6 +75155,7 @@ Con Nutrientes, aumenta la salud máxima a 18.000 puntos.
 
 [VAMPORCINI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los Nutrientes activan el drenaje de forma indefinida
+{KEYWORD}Características de la planta: {STAT}planta marrón, defensa, familia de setas
 
 {FLAVOR}"La sangre de los zombis es como la pizza, está buena siempre!" - Vampoletus, probablemente...
 
@@ -75941,6 +75951,8 @@ Aumenta el número de Estruendos a 3, reduce el daño de los zombis en un 80% po
 
 [WATERRABBIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}gana un máximo de 5 acumulaciones de chi con cada sucesión de ataques encadenados. Cada acumulación mejora el daño y el empuje
+
+{KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
 {FLAVOR}Una planta sabia dijo: "Se consiguen grandes resultados con fuerzas pequeñas... ¡en el patio! Si llueve... truena... y algo así como... la rapidez es la esencia de una defensa fuerte del patio". ¡¿Qué significará?!
 
@@ -82917,7 +82929,7 @@ Zombot buitre de guerra
 
 ^E2725B^• Fase 2^oldclr^
 
-{KEYWORD}Especial: {STAT}de vez en cuanto, lanza un ataque masivo por todo el patio
+{KEYWORD}Especial: {STAT}de vez en cuando, lanza un ataque masivo por todo el patio
 
 {FLAVOR}Bajo la incesante lluvia, atravesando los fuertes vientos y surcando los cielos repletos de relámpagos, ¡llega el Dr. Zombi en su máquina de guerra listo para el combate!
 
