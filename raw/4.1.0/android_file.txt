@@ -9939,7 +9939,7 @@ No se puede configurar
 Arena de combatientes - Día {LEVEL_NUMBER}
 
 [CARD_GAME_AREA_STAR_NOT_ENOUGH]
-Estrellas insuficientes. Se necesitan {NUM} Estrellas para jugar este Nivel.
+Material insuficiente. Se necesitan {NUM} Estrellas para jugar este Nivel.
 
 [CARD_GAME_AREA_STORE]
 Tienda del combatiente
@@ -42026,7 +42026,7 @@ Mausoleo de Qin - Día 10
 Mausoleo de Qin - Día 10 (Difícil)
 
 [NOQIN_LEVEL_NAME_DANGERROOM]
-Mausoleo perpetuo
+Mausoleo perpetuo - Nivel {LEVEL_NUMBER}
 
 [NORMAL_DRUM]
 Cubo desgastado
@@ -52619,8 +52619,8 @@ Esta aplicación quiere enviar recordatorios para mostrar anuncios interactivos.
 Objetivos del Nivel
 
 [PVZ2_UNCHARTED_HARD_LEVEL_MAIN_GOAL_DESC]
-Reúne sol para cultivar plantas y resistir la invasión zombi.
-Completa los objetivos extra para conseguir Estrellas secretas.
+1. Reúne sol para cultivar plantas y resistir la invasión zombi.
+2. Completa objetivos extra para conseguir más premios.
 
 [PVZ2_UNCHARTED_LEVELPASS_TITLE]
 Insignia de pase
@@ -58445,28 +58445,28 @@ T8-S6-3: Guerra futurista III
 T8-S6-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_045]
-Fuerza colosal
+T8-S6-5: Fuerza colosal
 
 [S8_MEMORY_LEVEL_NAME_046]
-Fuerza colosal II
+T8-S6-6: Fuerza colosal II
 
 [S8_MEMORY_LEVEL_NAME_047]
-Fuerza colosal III
+T8-S6-7: Fuerza colosal III
 
 [S8_MEMORY_LEVEL_NAME_048]
-La élite es colosal
+T8-S6-8: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_049]
-A prueba de balas
+T8-S7-1: A prueba de balas
 
 [S8_MEMORY_LEVEL_NAME_050]
-A prueba de balas II
+T8-S7-2: A prueba de balas II
 
 [S8_MEMORY_LEVEL_NAME_051]
-A prueba de balas III
+T8-S7-3: A prueba de balas III
 
 [S8_MEMORY_LEVEL_NAME_052]
-La élite es antibalas
+T8-S7-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_053]
 Súper-escudo
@@ -60731,61 +60731,61 @@ T26-54: Coloso imparable
 T26-55: Nido del dragón
 
 [S26_MEMORY_LEVEL_NAME_056]
-T26-56: Era de los dinosaurios
+T26-S7-8: La PRE-historia
 
 [S26_MEMORY_LEVEL_NAME_057]
-T26-57: Festival de lanzadores
+T26-S8-1: Torneo de lanzadores
 
 [S26_MEMORY_LEVEL_NAME_058]
-T26-58: Crisis de vaba
+T26-S8-2: Crisis de vaba
 
 [S26_MEMORY_LEVEL_NAME_059]
-T26-59: Tierra quebrada
+T26-S8-3: Tierra quebrada
 
 [S26_MEMORY_LEVEL_NAME_060]
-T26-60: Fuerza arrasadora
+T26-S8-4: Fuerza arrasadora
 
 [S26_MEMORY_LEVEL_NAME_061]
-T26-61: Baile en la azotea
+T26-S8-5: Baile en la azotea
 
 [S26_MEMORY_LEVEL_NAME_062]
-T26-62: P v Z
+T26-S8-6: P v Z
 
 [S26_MEMORY_LEVEL_NAME_063]
-T26-63: Invasión del santuario
+T26-S8-7: Invasión del santuario
 
 [S26_MEMORY_LEVEL_NAME_064]
-T26-64: Grieta temporal
+T26-S8-8: Grieta temporal
 
 [S26_MEMORY_LEVEL_NAME_BOSS_1]
-T26: Esfinge letal
+T26-S1: Esfinge letal
 
 [S26_MEMORY_LEVEL_NAME_BOSS_2]
-T26: Corsario
+T26-S2: Corsario
 
 [S26_MEMORY_LEVEL_NAME_BOSS_3]
-T26: Tiburotrónico
+T26-S3: Tiburotrónico
 
 [S26_MEMORY_LEVEL_NAME_BOSS_4]
-T26: Multiescenario
+T26-S4: Multiescenario
 
 [S26_MEMORY_LEVEL_NAME_BOSS_5]
-T26: Carro blindado
+T26-S5: Carro blindado
 
 [S26_MEMORY_LEVEL_NAME_BOSS_6]
-T26: Mañanatrón
+T26-S6: Mañanatrón
 
 [S26_MEMORY_LEVEL_NAME_BOSS_7]
-T26: Mechasaurio
+T26-S7: Mechasaurio
 
 [S26_MEMORY_LEVEL_NAME_BOSS_8]
-T26: Dragón oscuro
+T26-S8: Dragón oscuro
 
 [S27_MEMORY_LEVEL_NAME_1]
-T27-1: Cálculo preciso
+T27-D-01: Cálculo preciso
 
 [S27_MEMORY_LEVEL_NAME_001]
-T27-1: La Bolera
+T27-S1-1: La Bolera
 
 [S27_MEMORY_LEVEL_NAME_2]
 T27-2: Potencia máxima
@@ -61019,34 +61019,34 @@ T27-63: Aliento helado
 T27-64: Nochebuena
 
 [S27_MEMORY_LEVEL_NAME_BOSS_1]
-T27: Esfinge letal
+T27-S1: Esfinge letal
 
 [S27_MEMORY_LEVEL_NAME_BOSS_2]
-T27: Corsario
+T27-S2: Corsario
 
 [S27_MEMORY_LEVEL_NAME_BOSS_3]
-T27: Carro blindado
+T27-S3: Carro blindado
 
 [S27_MEMORY_LEVEL_NAME_BOSS_4]
-T27: Mañanatrón
+T27-S4: Mañanatrón
 
 [S27_MEMORY_LEVEL_NAME_BOSS_5]
-T27: Dragón oscuro
+T27-S5: Dragón oscuro
 
 [S27_MEMORY_LEVEL_NAME_BOSS_6]
-T27: Tiburotrónico
+T27-S6: Tiburotrónico
 
 [S27_MEMORY_LEVEL_NAME_BOSS_7]
-T27: Maestro del colmillo
+T27-S7: Maestro del colmillo
 
 [S27_MEMORY_LEVEL_NAME_BOSS_8]
-T27: Mechasaurio
+T27-S8: Mechasaurio
 
 [S28_MEMORY_LEVEL_NAME_1]
-T28-1: Fisión extrema
+T28-D-01: Fisión extrema
 
 [S28_MEMORY_LEVEL_NAME_001]
-T28-01: Arenas eternas
+T28-S1-01: Arenas eternas
 
 [S28_MEMORY_LEVEL_NAME_2]
 T28-2: Tormenta celestial
@@ -61523,31 +61523,31 @@ T29-62: Combate en primera línea
 T29-63: Contraataque inverso
 
 [S29_MEMORY_LEVEL_NAME_064]
-T29-64: Frasquitos
+T29-S8-8: Frasquitos
 
 [S29_MEMORY_LEVEL_NAME_BOSS_1]
-T29: Maestro del Qigong
+T29-S1: Maestro del Qigong
 
 [S29_MEMORY_LEVEL_NAME_BOSS_2]
-T29: Cabeza de pólvora
+T29-S2: Cabeza de pólvora
 
 [S29_MEMORY_LEVEL_NAME_BOSS_3]
-T29: Cabeza de pólvora II
+T29-S3: Cabeza de pólvora II
 
 [S29_MEMORY_LEVEL_NAME_BOSS_4]
-T29: Héroe espadachín
+T29-S4: Héroe espadachín
 
 [S29_MEMORY_LEVEL_NAME_BOSS_5]
-T29: Buitre de guerra
+T29-S5: Buitre de guerra
 
 [S29_MEMORY_LEVEL_NAME_BOSS_6]
-T29: Góndola aerostática
+T29-S6: Góndola aerostática
 
 [S29_MEMORY_LEVEL_NAME_BOSS_7]
-T29: Universo paralelo
+T29-S7: Universo paralelo
 
 [S29_MEMORY_LEVEL_NAME_BOSS_8]
-T29: Bólidus
+T29-S8: Bólidus
 
 [S30_MEMORY_LEVEL_NAME_1]
 T30-D-01: Inducción eléctrica
@@ -61697,16 +61697,16 @@ T30-S4-7: Batalla de vainas
 T30-S4-8: Villancicos
 
 [S30_MEMORY_LEVEL_NAME_BOSS_1]
-Bólidus
+T30-S1: Bólidus
 
 [S30_MEMORY_LEVEL_NAME_BOSS_2]
-Locomotora de vapor
+T30-S2: Locomotora de vapor
 
 [S30_MEMORY_LEVEL_NAME_BOSS_3]
-Jefe de aniversario
+T30-S3: Jefe de aniversario
 
 [S30_MEMORY_LEVEL_NAME_BOSS_4]
-Bestia rugiente
+T30-S4: Bestia rugiente
 
 [SALES_BUY_SUCCESS_TITLE]
 ¡Compra exitosa!
@@ -61951,7 +61951,7 @@ Emite una potente luz que aturde zombis
 Nivel 2
 
 [SAUCER_SKILL_LEVEL1_DES]
-^4DD4DB^Abducción:^oldclr^ gana la habilidad de capturar zombis con una salud baja.
+^4DD4DB^Abducción:^oldclr^ gana la habilidad de capturar zombis con salud baja
 
 [SAUCER_SKILL_LEVEL2]
 Nivel 3
@@ -62221,13 +62221,13 @@ s
 Segundo premio
 
 [SECRET_AREA_STAR_NOT_ENOUGH]
-Estrellas insuficientes. Se necesitan {NUM} Estrellas para reclamar el premio.
+Material insuficiente. Se necesitan {NUM} Estrellas secretas para reclamar el premio.
 
 [SECRET_AREA_STORE]
 Tienda oculta
 
 [SECRET_AREA_STORE_TIP]
-¡Completa desafíos difíciles para obtener Estrellas secretas y canjearlas por recompensas increibles!
+¡Completa desafíos difíciles para obtener Estrellas secretas y canjearlas en la tienda!
 
 [SECRET_BUY_LEFT_STR]
 Límite de compra: {NUMBER}
