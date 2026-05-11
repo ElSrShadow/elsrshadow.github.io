@@ -102,6 +102,7 @@ Arquero del inframundo
 
 [ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
 {KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
 
 {FLAVOR}Un día, se le ocurrió que, si prendía fuego a sus flechas, la potencia de sus disparos aumentaría considerablemente. Sin embargo, como no sabía encender fuego, la idea quedó olvidada durante mucho tiempo. No fue hasta que se convirtió en un espíritu y obtuvo el poder de las llamas fantasmales que por fin pudo hacer realidad su "genial" idea.
@@ -116,13 +117,14 @@ Zombi bebedor
 No está ebrio, solo... estratégicamente desorientado.
 
 [ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION_HEADER]
-Cambia de línea tras beber, rocía a las plantas cercanas para aturdirlas.
+Cambia de línea tras beber, rocía a las plantas cercanas con alcohol para embriagarlas.
 
 [ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT]
 Soldado del inframundo
 
 [ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
 {KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
 
 {FLAVOR}Era un soldado cualquiera hasta que, olvidando que era un zombi, vio su reflejo en un estanque. El susto fue tal que su alma abandonó el cuerpo y comenzó a vagar sin rumbo.
@@ -135,6 +137,7 @@ Caracuenco del inframundo
 
 [ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
 {KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
 
 {FLAVOR}Aprecia profundamente el cuenco que lleva en la cabeza, y este le corresponde con igual devoción. Incluso después de morir y convertirse en espíritu, el cuenco permanece a su lado.
@@ -147,6 +150,7 @@ Carayelmo del inframundo
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
 {KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
 
 {FLAVOR}Protegía su punto más vulnerable con un pesado casco, lo que le hacía sentirse invencible. Durante un entrenamiento del ejército zombi, y con exceso de confianza, decidió demostrar ante todos su "técnica de romper piedras con la cabeza". Fue entonces cuando descubrió, de la peor forma posible, que también podía convertirse en espíritu.
@@ -159,6 +163,7 @@ Zombistein del inframundo
 
 [ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION]
 {KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
 {KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
 
 {FLAVOR}Los Zombisteins del inframundo nunca se han destacado por su memoria; apenas recordaban cómo caminar y aplastar, más por costumbre que por otra cosa. Al convertirse en espíritus, perdieron incluso eso y ahora solo pueden flotar.
@@ -171,6 +176,7 @@ Bebedor del inframundo
 
 [ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
 {KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
 
 {FLAVOR}En vida bebía sin control; en la muerte, el problema solo empeoró. Nadie sabe qué está bebiendo ahora, pero claramente no es buena idea estar delante cuando lo expulsa.
@@ -182,24 +188,23 @@ Forma etérea del Zombi bebedor. Tras desplazarse, lanza una llamarada que destr
 Sicario del inframundo
 
 [ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, aniquilando a las plantas de izquierda a derecha
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
 {KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
 
 {FLAVOR}Padece una amnesia terrible. En un principio, su misión era matar al señor del mausoleo, pero al llegar olvidó su objetivo y terminó siendo reclutado por él para unirse a su legión. Últimamente, su condición ha empeorado tanto que incluso ha olvidado que ya está muerto, convirtiéndose así en un espíritu.
 
 [ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION_HEADER]
-Forma etérea del Zombi jingke.
+Forma etérea del Zombi jingke. Aniquila plantas de izquierda a derecha una vez es derrotado.
 
 [ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE]
-Escuderos del inframundo
+Zombi maestro taoísta
 
 [ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}puede aparecer en formación de 3 o más
-
-{FLAVOR}Presume de dominar "antiguas formaciones secretas" que nadie más conoce hasta que un zombidito lo sorprendió pasando la noche en vela, leyendo a escondidas el cómic infantil de «Las treinta y seis estratagemas». Por cierto, la palabra "formación" de su sombrero la pintó él mismo con pincel; tras tres chaparrones, ya casi no se distingue.
+Los discípulos admiraban su dominio de las artes taoístas y las barreras espirituales. Esa admiración sobrevivió exactamente hasta la noche en que un zombidito lo sorprendió leyendo historietas infantiles de estrategia militar.
 
 [ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION_HEADER]
-Montan sus defensas, creando un portal que invoca espíritus.
+Experto en formaciones defensivas. Crea un portal que invoca espíritus cada cierto tiempo.
 
 [ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_BIG_SKILL_WARNING]
 REFORJA REAL: ¡derrota al emperador ahora!
@@ -508,7 +513,7 @@ VIP
 Tour por las catacumbas
 
 [UNCHARTED_MAUSOLEUM_DES_ID_25868]
-A quienes reunieron todas las estrellas en Tierras ocultas: Mausoleo de Qin - Parte 2
+A quienes alcanzaron la racha 50 de la Zona de infinito en Tierras ocultas: Mausoleo de Qin - Parte 2
 
 [TIMESPACE_MAUSOLEUM_2_MODE_HARD_LOCKED_CLICKED_HINT]
 Disponible el 30 de abril al completar el Modo fácil.
@@ -694,7 +699,7 @@ Completaste la colección de atuendos: Cazadores de demonios
 Aventuras en Dunhuang
 
 [AVATARCOLLECTIONS_THEME_DES20]
-¡Exploremos el esplendor de Dunhuang!
+¡Que hermosa cultura!
 
 [AVATARCOLLECTIONS_THEME_TITLE21]
 Creación pura
@@ -706,7 +711,7 @@ Todo lo creado tiene alma
 Cazadores de demonios
 
 [AVATARCOLLECTIONS_THEME_DES22]
-¡Es hora de terminar con la maldad!
+Exterminadores del mal
 
 [TOYS_HEAD_ID_25865]
 Terror en las profundidades
@@ -1191,7 +1196,7 @@ Gorro fiestero
 Aumenta el número de regalos disparados.
 
 [ACTINOSTEMMA_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}todo el mapa
+{KEYWORD}Información de alcance: {STAT}todo el mapa
 {KEYWORD}Especial: {STAT}sus regalos atraen zombis
 {KEYWORD}Efectos sorpresa: {STAT}explosión, terror, hipnosis, fuegos artificiales
 
@@ -2925,7 +2930,7 @@ Gorra roja
 ^A048CF^Caballo fantasma: los zombis transportados quedan aturdidos hasta que el circulo desaparezca^oldclr^
 
 [ANIMNUTS_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}fila al frente
+{KEYWORD}Información de alcance: {STAT}fila al frente
 {KEYWORD}Especial: {STAT}¡tres plantas en una!
 {KEYWORD}Criaturas-planta: {STAT}tiranosaurio rex, medusa, caballo fantasma
 
@@ -6209,7 +6214,7 @@ Al finalizar, disparará un proyectil más grande que inflige daño masivo. ^D22
 
 [BANANA_DESCRIPTION]
 {KEYWORD}Uso: {STAT}tocar para armar, tocar en la casilla objetivo para disparar
-{KEYWORD}Alcance: {STAT}cualquier lugar del patio
+{KEYWORD}Información de alcance: {STAT}cualquier lugar del patio
 {KEYWORD}Especial: {STAT}al impactar, explota en un área pequeña
 {KEYWORD}Características de la planta: {STAT}planta amarilla, destructora
 
@@ -6807,7 +6812,7 @@ Arroja pociones oscuras al usar Nutrientes, transformando zombis en Lanzaguisant
 ^D22808^Daño: 3.600^oldclr^
 
 [BEANCHEMIST_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}fila al frente
+{KEYWORD}Información de alcance: {STAT}fila al frente
 {KEYWORD}Características de la planta: {STAT}planta púrpura, destructora, hábil
 
 {FLAVOR}Apasionada por la alquimia vegetal, creó una poción capaz de transformar cualquier cosa en su cultivo favorito. El problema llegó después: cada nueva transformación también se convirtió en un festín irresistible para los zombis.
@@ -8365,7 +8370,7 @@ Desticha
 El abanico del efecto se divide en 3 partes al golpear un objetivo.
 
 [BOOPHONEGEISHA_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}lanzamiento (línea), retorno de abanico (línea superior o inferior)
+{KEYWORD}Información de alcance: {STAT}lanzamiento (línea), retorno de abanico (línea superior o inferior)
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
 {FLAVOR}Desticha pertenece a la antigua familia geisha, donde el abanico simboliza gracia y disciplina. Tras años de práctica, perfeccionó el refinado arte de despejar zombis con absoluta cortesía.
@@ -9058,11 +9063,11 @@ Moño con corazón
 Aumenta el número de burbujas dispersas al usar Nutrientes.
 
 [BUBBLECORAL_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}una fila
+{KEYWORD}Información de alcance: {STAT}una fila
 {KEYWORD}Uso: {STAT}tócalo para alternar entre formas
 {KEYWORD}Características de la planta: {STAT}planta rosada, destructora, marina
 
-{FLAVOR}"Tonto, ¡deja mis burbujas en paz!", dice enojada. "Realmente no puedo hacer nada contigo.", al parecer se le suben los humos a la cabeza cuando alguien juega con sus pompas de jabón.
+{FLAVOR}"¡Tonto, deja mis burbujas en paz!", exclama Coral burbuja cada vez que alguien revienta una de sus pompas. Las demás plantas creen que exagera un poco.
 
 [BUBBLECORAL_DESCRIPTION_HEADER]
 Coral burbuja lanza burbujas de distintas formas para atacar, dañando a los zombis que tiene al frente.
@@ -9197,7 +9202,7 @@ Uniforme
 Expulsa a los zombis pequeños o medianos. Los guisantes bateados por su efecto de Nutrientes se dividen en 3
 
 [BURDOCKBATTER_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}una casilla al frente
+{KEYWORD}Información de alcance: {STAT}una casilla al frente
 {KEYWORD}Tiro recto: {STAT}duplica el daño y velocidad de los guisantes bateados
 {KEYWORD}Tiro curvo: {STAT}los guisantes bateados caen del cielo y aturden a los zombis golpeados
 {KEYWORD}Características de la planta: {STAT}planta marrón, destructora, hermanos
@@ -9282,7 +9287,7 @@ Pastel de celebración
 Los charcos de manteca del efecto inmovilizan a 2 zombis y desaparecen después de 12 s. ^D22808^Daño: 350^oldclr^
 
 [BUTTERCUP_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}una casilla al frente
+{KEYWORD}Información de alcance: {STAT}una casilla al frente
 {KEYWORD}Especial: {STAT}forma pringosos charcos de mantequilla
 {KEYWORD}Características de la planta: {STAT}planta amarilla, ataque y defensa
 
@@ -10444,10 +10449,10 @@ Cinta azul
 Sus ataques normales tienen un 30% de lanzar motosierras gigantes que infligen el doble de daño.
 
 [CHAINSAWBURMANNII_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}área 3x3 a su alrededor
+{KEYWORD}Información de alcance: {STAT}área 3x3 a su alrededor
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
-{FLAVOR}Creció especializándose en el movimiento circular, lo que ingenuamente pensó que le ayudaría a convertirse en un genio de la física. Pero, de hecho, solo destacó en varios campeonatos mundiales de yoyó.
+{FLAVOR}Las demás plantas dejaron de acercarse después del incidente del seto. Y del buzón. Y del banco. Él por su parte, insiste en que las motosierras orbitando a su alrededor son "completamente seguras"
 
 [CHAINSAWBURMANNII_DESCRIPTION_HEADER]
 Drosera serrada lanza varias motosierras que giran a su alrededor e infligen daño a los zombis cercanos.
@@ -10533,7 +10538,7 @@ Batallón negro - II
 Batallón negro - III
 
 [CHALLENGE_BONUS]
-Recompensas por desafío
+Premios
 
 [CHALLENGE_BRONZE_A_NAME]
 Terror de bronce - I
@@ -11079,7 +11084,7 @@ Elige un área de 3x3 donde invocar Gallinas zombi.
 Día del Niño
 
 [CHILDRENDAY_LEVEL_NAME]
-Día del niño - Día {LEVEL_NUMBER}
+Patio de juegos - Nivel {LEVEL_NUMBER}
 
 [CHILDRENDAY_LEVEL_NAME_01]
 Patio de juegos - Día 1
@@ -11136,10 +11141,10 @@ Patio de juegos - Día 9
 Patio de juegos - Día 9 (Difícil)
 
 [CHILDRENDAY_LEVEL_NAME_10]
-Patio de juegos - Día 10
+Patio de juegos - Día final
 
 [CHILDRENDAY_LEVEL_NAME_10_H]
-Patio de juegos - Día 10 (Difícil)
+Patio de juegos - Día final (Difícil)
 
 [CHILDREN_DAY_CAN_GOT]
 Eventos del Día del Niño
@@ -11478,10 +11483,10 @@ Festivus - Día 9
 Festivus - Día 9 (Difícil)
 
 [CHRISTMAS_NAME_10]
-Festivus - Día 10
+Festivus - Día final
 
 [CHRISTMAS_NAME_10_H]
-Festivus - Día 10 (Difícil)
+Festivus - Día final (Difícil)
 
 [CHRISTMAS_OPEN_UNCONNECTED]
 Conéctate a Internet o cierra el centro de actividades para recibir tu premio.
@@ -11668,7 +11673,7 @@ La tusa se convierte en un misil que persigue zombis. ^D22808^Daño: 600 (área 
 [COBCANNON_DESCRIPTION]
 {KEYWORD}Uso: {STAT}plantar sobre 2 Lanzamaíces colindantes
 {KEYWORD}Ataque: {STAT}tocar para armar, tocar en la casilla objetivo para disparar
-{KEYWORD}Alcance: {STAT}todo el mapa
+{KEYWORD}Información de alcance: {STAT}todo el mapa
 {KEYWORD}Características de la planta: {STAT}planta amarilla, destructora, familia de armas
 
 {FLAVOR}¿Pero de qué va Mazorcañón? Estudió en Harvard y trabaja en un prestigioso buffet de abogados de Nueva York. Es capaz de hacer saltar por los aires varios zombis a la vez. Pero eso lo saben todos. Entonces, ¿qué es lo que le motiva realmente?
@@ -11732,7 +11737,7 @@ Dispara una bala gigante, la cual, ^848484^aturde^oldclr zombis cuando explota d
 
 [COCONUTCANNON_DESCRIPTION]
 {KEYWORD}Uso: {STAT}tócalo para disparar
-{KEYWORD}Alcance: {STAT}recto
+{KEYWORD}Información de alcance: {STAT}recto
 {KEYWORD}Especial: {STAT}al impactar, explota en un área pequeña
 {KEYWORD}Características de la planta: {STAT}planta marrón, destructora, familia de armas
 
@@ -12601,10 +12606,10 @@ Gorro navideño
 El muñeco de nieve gigante rebota, infligiendo daño 2 veces.
 
 [COTTONYETI_DESCRIPTION]
-{KEYWORD}Especial: {STAT}el muñeco de nieve rebota por la fila omitiendo las casillas impares
+{KEYWORD}Información de alcance: {STAT}el muñeco de nieve rebota en un patrón alternado
 {KEYWORD}Características de la planta: {STAT}planta blanca, destructora
 
-{FLAVOR}Como miembro de la competencia de saltos del reino vegetal, Algodón de nieve siempre está practicando. Saltar hacia adelante ha sido uno de sus hábitos en la vida diaria, sin embargo, saltar demasiado lejos no siempre es algo bueno.
+{FLAVOR}Intentó dedicarse a los deportes de salto, pero tenía la costumbre de aterrizar sobre otros participantes. Ahora canaliza toda esa energía creando muñecos de nieve con el mismo espíritu explosivo que ella.
 
 [COTTONYETI_DESCRIPTION_HEADER]
 Algodón de nieve crea muñecos de nieve para dañar a los zombis de la fila.
@@ -12689,7 +12694,7 @@ Traje rojo
 La traca derriba y ^848484^aturde^oldclr^ a los zombis que la pisen durante 2 s o los expulsa si su salud es baja.
 
 [CRACKER_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}al contacto
+{KEYWORD}Información de alcance: {STAT}al contacto
 {KEYWORD}Especial: {STAT}tras explotar, puede expulsar zombis de salud baja
 {KEYWORD}Características de la planta: {STAT}planta verde, anciana, explosiva
 
@@ -13242,7 +13247,7 @@ Gafas de cobre
 Dispara bolas de plasma, las cuales, crean cadenas de rayos para dañar a los zombis cercanos. ^D22808^Daño: 150^oldclr^
 
 [CROWNFLOWER_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}1 línea al frente
+{KEYWORD}Información de alcance: {STAT}línea al frente
 {KEYWORD}Especial: {STAT}el daño de sus ataques aumenta con el paso del tiempo
 {KEYWORD}Debilidad: {STAT}los zombis grandes bloquean sus láseres
 {KEYWORD}Características de la planta: {STAT}planta morada, destructora
@@ -15105,7 +15110,7 @@ La compra de éstos es por Tiempo Limitado, así que, ¡no te lo pierdas!
 DESCRIPCIÓN DEL EVENTO
 
 [DAVEKITCHEN_EXCHANGE_1]
-Taco gigante: puedes conseguir Piezas de Mangostán eléctrico, Piezas universales o Libros avanzados.
+Taco gigante: puedes conseguir Piezas de Mangostán, Piezas universales o Libros avanzados.
 
 [DAVEKITCHEN_EXCHANGE_2]
 Tacos asados: puedes conseguir Cupones de Artefactos, Piezas universales o Piezas de Garra del diablo.
@@ -16385,12 +16390,12 @@ Alas y alo
 La electricidad de los rayos se propaga para infligir daño a otros zombis. ^D22808^Daño: 80 (área 3x3)^oldclr^
 
 [DEODARCEDAR_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}ataque (línea), electricidad (casilla, área 5x5)
+{KEYWORD}Información de alcance: {STAT}ataque (línea), electricidad (casilla, área 5x5)
 {KEYWORD}Especial: {STAT}almacena más energía si tiene plantas eléctricas cerca
 {KEYWORD}Choque eléctrico: {STAT}tiene la posibilidad de aumentar el daño con sus ataques
 {KEYWORD}Características de la planta: {STAT}planta azul, electrizante, destructora
 
-{FLAVOR}Tiene su propia forma de manejar la electricidad: almacenarla dentro de su cuerpo. Esto se debe a su propia capacidad para retener la energía, un descubrimiento que comenzó cuando abrazó a Mangostán eléctrico, su mejor amigo.
+{FLAVOR}Tiene su propia forma de manejar la electricidad: almacenarla dentro de su cuerpo. Esto se debe a su propia capacidad para retener la energía, un descubrimiento que comenzó cuando abrazó a Mangostán, su mejor amigo.
 
 [DEODARCEDAR_DESCRIPTION_HEADER]
 Capaci-cono absorbe energía eléctrica y la dispara en forma de cadenas de rayos después de condensarla. Hace más daño en un área más amplia conforme más energía acumule.
@@ -16913,7 +16918,7 @@ Cinta dragón
 Al usar Nutrientes, lanza 20 espadas adicionales hacia arriba y abajo ^D22808^(70 en total)^oldclr^
 
 [DRACAENA_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}línea al frente
+{KEYWORD}Información de alcance: {STAT}línea al frente
 {KEYWORD}Espada voladora: {STAT}inflige daño en la ida y a la vuelta, elimina zombis al instante si su salud es baja
 {KEYWORD}Características de la planta: {STAT}planta verde, artista marcial, destructora
 
@@ -17498,7 +17503,7 @@ Protectores morados
 La gran bola de rayos también aturde zombis durante 0.5 segundos por impacto
 
 [EAGLECLAW_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}una línea
+{KEYWORD}Información de alcance: {STAT}una línea
 {KEYWORD}Características de la planta: {STAT}planta verde, electrizante, destructora
 
 {FLAVOR}"Bzzz... Bzzz... Bzzz..." Todo el cuerpo de Ilán tormentoso brilla cargado de electricidad: "¡Deja que los zombis prueben mis descargas!", exclama lleno de energía.
@@ -18548,7 +18553,7 @@ Dríade guardián
 Se generan pinchos al centro del área que derriban zombis en una distancia mayor y los ^848484^aturden^oldclr^ por 8 s
 
 [ENTS_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}2 casillas al frente
+{KEYWORD}Información de alcance: {STAT}2 casillas al frente
 {KEYWORD}Especial: {STAT}recupera su salud durante un tiempo
 {KEYWORD}Características de la planta: {STAT}planta marrón, mágica, ataque y defensa
 
@@ -19022,7 +19027,7 @@ Corona celestial
 Convoca un soldado adicional con una bomba más grande. ^D22808^Daño: 1.000^oldclr^
 
 [EYWA_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}todo el patio
+{KEYWORD}Información de alcance: {STAT}todo el patio
 {KEYWORD}Especial: {STAT}las unidades convocadas evolucionan con el tiempo
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
@@ -19385,12 +19390,12 @@ Flor petardo
 Los petardos del efecto incendian al zombi golpeado durante 6 s. ^D22808^Daño ígneo: 10^oldclr^
 
 [FIRECRACKERFLOWER_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}tres filas
+{KEYWORD}Información de alcance: {STAT}tres filas
 
 {KEYWORD}Características de la planta: {STAT}planta roja, destructora, familia de armas
 {KEYWORD}Miscelánea: {STAT}planta especial del 11° Aniversario
 
-{FLAVOR}Flor petardo es un aficionado de la pirotecnía. Sus dos petardos tienen nombre, el de la izquierda se llama "Boom", y el de la derecha "Pop".
+{FLAVOR}Flor petardo considera que ninguna celebración está completa sin luces, ruido y al menos una pequeña explosión. Lleva semanas preparando el espectáculo del aniversario; las demás plantas llevan semanas preparando extintores.
 
 [FIRECRACKERFLOWER_DESCRIPTION_HEADER]
 Flor petardo dispara potentes petardos para dañar y aturdir momentáneamente a los zombis atacantes.
@@ -19677,11 +19682,11 @@ Hierba anzuelo
 Los zombis impactados por su anzuelo serán envenenados por un tiempo.
 
 [FISHHOOKGRASS_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}1 línea al frente
+{KEYWORD}Información de alcance: {STAT}línea al frente
 {KEYWORD}Especial: {STAT}los zombis pescados son lanzados para dañar y aturdir a los demás
 {KEYWORD}Características de la planta: {STAT}planta verde, hábil, destructora
 
-{FLAVOR}"La pesca de zombis es un trabajo técnico, aunque muchos dicen que es raro lanzarlos después de atraparlos" - comenta.
+{FLAVOR}"La pesca de zombis requiere paciencia, precisión y un brazo sorprendentemente fuerte", asegura.
 
 [FISHHOOKGRASS_DESCRIPTION_HEADER]
 Hierba anzuelo pesca al primer zombi que ve, y luego, lo lanza para dañar y aturdir a los demás zombis atacantes.
@@ -19928,37 +19933,37 @@ Hay disponible una nueva versión del juego
 Bosque encantado - Día 1
 
 [FOREST_LEVEL_NAME_001_H]
-Empezando un día normal
+Bosque encantado - Día 1 (Difícil)
 
 [FOREST_LEVEL_NAME_02]
 Bosque encantado - Día 2
 
 [FOREST_LEVEL_NAME_002_H]
-El canto del sapo
+Bosque encantado - Día 2 (Difícil)
 
 [FOREST_LEVEL_NAME_03]
 Bosque encantado - Día 3
 
 [FOREST_LEVEL_NAME_003_H]
-Rastrojo duro
+Bosque encantado - Día 3 (Difícil)
 
 [FOREST_LEVEL_NAME_04]
 Bosque encantado - Día 4
 
 [FOREST_LEVEL_NAME_004_H]
-Niebla espesa
+Bosque encantado - Día 4 (Difícil)
 
 [FOREST_LEVEL_NAME_05]
 Bosque encantado - Día 5
 
 [FOREST_LEVEL_NAME_005_H]
-Enrollados otra vez
+Bosque encantado - Día 5 (Difícil)
 
 [FOREST_LEVEL_NAME_06]
 Bosque encantado - Día 6
 
 [FOREST_LEVEL_NAME_006_H]
-Clases de hechicería
+Bosque encantado - Día 6 (Difícil)
 
 [FOREST_LEVEL_NAME_07]
 Bosque encantado - Día 7
@@ -19976,43 +19981,43 @@ Espejos mágicos
 Bosque encantado - Día 9
 
 [FOREST_LEVEL_NAME_09_H]
-¿Quién es la más bonita?
+Bosque encantado - Día 9 (Difícil)
 
 [FOREST_LEVEL_NAME_10]
 Bosque encantado - Día 10
 
 [FOREST_LEVEL_NAME_10_H]
-Esa debo ser yo
+Bosque encantado - Día 10 (Difícil)
 
 [FOREST_LEVEL_NAME_11]
 Bosque encantado - Día 11
 
 [FOREST_LEVEL_NAME_11_H]
-Usa un caldero
+Bosque encantado - Día 11 (Difícil)
 
 [FOREST_LEVEL_NAME_12]
 Bosque encantado - Día 12
 
 [FOREST_LEVEL_NAME_12_H]
-Toma algo de Nutrientes
+Bosque encantado - Día 12 (Difícil)
 
 [FOREST_LEVEL_NAME_13]
 Bosque encantado - Día 13
 
 [FOREST_LEVEL_NAME_13_H]
-Agrega algo de verduras
+Bosque encantado - Día 13 (Difícil)
 
 [FOREST_LEVEL_NAME_14]
 Bosque encantado - Día 14
 
 [FOREST_LEVEL_NAME_14_H]
-¡Voila, plato servido!
+Bosque encantado - Día 14 (Difícil)
 
 [FOREST_LEVEL_NAME_15]
 Bosque encantado - Día final
 
 [FOREST_LEVEL_NAME_15_H]
-Botas de dragón
+Bosque encantado - Día final (Difícil)
 
 [FORMAT_ERROR]
 El formato es inválido
@@ -20315,7 +20320,7 @@ FIN DE LA PARTIDA
 PARTIDA EN PAUSA
 
 [GAME_RANK_TIME]
-%dPuntos%d.%d
+%d puntos (%d.%d)
 
 [GARDENERGRASS]
 Hierba jardinera
@@ -20331,10 +20336,10 @@ Los zombis alcanzados por su efecto, se incendiarán y recibirán daño durante 
 {KEYWORD}Especial: {STAT}de vez en cuando, aturde a los zombis atacantes y les corta el brazo
 {KEYWORD}Características de la planta: {STAT}planta púrpura, destructora
 
-{FLAVOR}No sabe por qué tiene la función de una sierra, pero aún así, está muy feliz de ello. Sin embargo, a veces se pregunta: "¿quién cortó mi nombre para usarla?"
+{FLAVOR}Sus pétalos pueden podar un seto, cortar una cuerda o partir un zombi en dos. Ella llama a eso "versatilidad"
 
 [GARDENERGRASS_DESCRIPTION_HEADER]
-Hierba jardinera corta a los zombis atacantes con los afilados pétalos de sus flores, y de vez en cuando, los aturde durante un tiempo.
+Hierba jardinera corta a los zombis atacantes con los afilados pétalos, y ocasionalmente, los aturde durante un tiempo.
 
 [GARDENERGRASS_FAMILY]
 Proteaceae
@@ -21787,7 +21792,7 @@ Magnetoseta desruye objetos un {Param_1}% más rápido
 El ataque de Hierpa lupa consume {Param_1} soles menos
 
 [GENE_DESCRIPTION_MANGOSTEEN]
-El efecto de Nutrientes de Mangostán eléctrico inflige un {Param_1}% más de daño
+El efecto de Nutrientes de Mangostán inflige un {Param_1}% más de daño
 
 [GENE_DESCRIPTION_MATCHFLOWER]
 Existe un {Param_1}% de que sus llamas se tornen púrpuras al hacer un gancho. Las llamas púrpuras pasan a turquesa.
@@ -22097,7 +22102,7 @@ Sombrero gris
 El pentagrama inflige daño adicional y hace flotar a los zombis. ^D22808^Daño extra: 60^oldclr^
 
 [GERANIIFENCER_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}2 casillas al frente
+{KEYWORD}Información de alcance: {STAT}2 casillas al frente
 {KEYWORD}Características de las planta: {STAT}planta verde, destructora
 
 {FLAVOR}La única vez que luchó contra una planta fue con Rosa espadachín en un combate de esgrima. Nadie sabe lo que pasó en aquel duelo, salvo que ambos no median palabras desde entonces.
@@ -22489,7 +22494,7 @@ Babero
 Tras usar Nutrientes, recupera un 40% de energía con sus snacks
 
 [GLUTTONYDRAGON_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}1 casilla, área 3x3 (ataque especial)
+{KEYWORD}Información de alcance: {STAT}1 casilla, área 3x3 (ataque especial)
 {KEYWORD}Especial: {STAT}cuando está lleno de energía y hay zombis, escupe una ráfaga de fuego que daña todo a su paso
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
@@ -23249,65 +23254,47 @@ Nivel 5
 [GUMNUT_TOOLTIP]
 Lanza chicles que inmovilizan y bloquean zombis
 
-[Goo_Peashooter_Big]
-Lanzaguisantes pringoso 2
-
-[Goo_Peashooter_Consume]
-Lote de Guisante pringoso
-
-[Goo_Peashooter_Seed]
-Paquetes de semillas
-
-[Goo_Peashooter_Seed_Big]
-Paquetes de semillas
-
-[Goo_Peashooter_Seed_Super]
-Paquetes de semillas
-
-[Goo_Peashooter_Super]
-Lote de Guisante pringoso 2
-
 [HALLOWEEN_LEVEL_NAME_01]
 Patio de la perdición - Noche 1
 
 [HALLOWEEN_LEVEL_NAME_01_H]
-Sustos que dan gusto
+Patio de la perdición - Noche 1 (Difícil)
 
 [HALLOWEEN_LEVEL_NAME_02]
 Patio de la perdición - Noche 2
 
 [HALLOWEEN_LEVEL_NAME_02_H]
-Fiesta explosiva
+Patio de la perdición - Noche 2 (Difícil)
 
 [HALLOWEEN_LEVEL_NAME_03]
 Patio de la perdición - Noche 3
 
 [HALLOWEEN_LEVEL_NAME_03_H]
-Cuervos y espantapájaros
+Patio de la perdición - Noche 3 (Difícil)
 
 [HALLOWEEN_LEVEL_NAME_04]
 Patio de la perdición - Noche 4
 
 [HALLOWEEN_LEVEL_NAME_04_H]
-Manifestación de caballeros
+Patio de la perdición - Noche 4 (Difícil)
 
 [HALLOWEEN_LEVEL_NAME_05]
 Patio de la perdición - Noche 5
 
 [HALLOWEEN_LEVEL_NAME_05_H]
-Animales del terror
+Patio de la perdición - Noche 5 (Difícil)
 
 [HALLOWEEN_LEVEL_NAME_06]
 Patio de la perdición - Noche 6
 
 [HALLOWEEN_LEVEL_NAME_06_H]
-Hielo vs fuego
+Patio de la perdición - Noche 6 (Difícil)
 
 [HALLOWEEN_LEVEL_NAME_07]
-Patio de la perdición - Noche 7
+Patio de la perdición - Noche final
 
 [HALLOWEEN_LEVEL_NAME_07_H]
-Caballero en llamas
+Patio de la perdición - Noche final (Difícil)
 
 [HAMMERFLOWER]
 Flor martillo
@@ -23379,7 +23366,7 @@ Gorra y lentes
 Repele a todos los zombis de la línea al usar Nutrientes
 
 [HAPPYLEEK_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}repele a los zombis de su línea 3 casillas al frente
+{KEYWORD}Información de alcance: {STAT}repele a los zombis de su línea 3 casillas al frente
 {KEYWORD}Especial: {STAT}produce soles al ser removido con la pala, luego vuelve a crecer
 {KEYWORD}Debilidades: {STAT}deja de dar soles al crecer, pierde hojas al repeler zombis
 {KEYWORD}Características de la planta: {STAT}planta verde, productora de soles, defensa
@@ -23625,7 +23612,7 @@ Monóculo de oro
 Añade el efecto de rebobinación temporal a los sombreros cuando usa Nutrientes
 
 [HATMUSHROOM_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}1 línea al frente
+{KEYWORD}Información de alcance: {STAT}línea al frente
 {KEYWORD}Especial: {STAT}sus ataques rebotan y tienen la posibilidad de rebobinar zombis en el tiempo
 {KEYWORD}Especial: {STAT}combínala con Dríade guardían y ve qué buen equipo hacen
 {KEYWORD}Características de la planta: {STAT}planta púrpura, mágica, destructora, familia de setas
@@ -23771,7 +23758,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.3.1 (actualizado el 8/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.4.0 (actualizado el 11/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -23846,7 +23833,7 @@ La onda sonora del efecto aturde zombis por 2 s
 
 [HEAVENDATURA_DESCRIPTION]
 {KEYWORD}Uso: {STAT}tocar para accionar, deslizar para cambiar de frecuencia
-{KEYWORD}Alcance: {STAT}1 casilla, área 3x3 (3ra nota), área 5x5 (5ta nota)
+{KEYWORD}Información de alcance: {STAT}1 casilla, área 3x3 (3ra nota), área 5x5 (5ta nota)
 {KEYWORD}Características de la planta: {STAT}planta amarilla, destructora
 
 {FLAVOR}Trompeta de ángel descendió envuelta en una melodía celestial. Desde entonces, imita los sonidos que escucha, aunque a veces toca canciones que nadie recuerda haber oído jamás.
@@ -24025,7 +24012,7 @@ Lentes amarillos
 Por cada 6 balas del efecto, el sigte. proyectil perforará la armadura del enemigo. ^D22808^Daño: 200^oldclr^
 
 [HELICONIAGUNNER_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}ataca por su fila, y en las diagonales
+{KEYWORD}Información de alcance: {STAT}ataca por su fila, y en las diagonales
 {KEYWORD}Especial: {STAT}prioriza a los zombis más cercanos a tu casa
 {KEYWORD}Especial: {STAT}puede inmovilizar hasta 3 zombis con redes
 {KEYWORD}Características de la planta: {STAT}planta amarilla (roja), temperamental, destructora, familia de armas
@@ -24271,7 +24258,7 @@ Lanza hojas blindadas que aturden zombis al contacto por 0.5 s
 
 [HOLLYKNIGHT_DESCRIPTION]
 {KEYWORD}Uso: {STAT}tocar para armar, tocar en la casilla objetivo para disparar; puede disparar hasta 3 barreras
-{KEYWORD}Alcance: {STAT}todo el mapa
+{KEYWORD}Información de alcance: {STAT}todo el mapa
 {KEYWORD}Especial: {STAT}el proyectil derriba, inflige daño y deja una barrera en las casillas vacías
 {KEYWORD}Características de la planta: {STAT}planta roja, ataque y defensa
 
@@ -25039,10 +25026,10 @@ Cuevas escalofriantes - Día 9 (Difícil)
 Cuevas escalofriantes - Día 9
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_10_H]
-Cuevas escalofriantes - Día 10 (Difícil)
+Cuevas escalofriantes - Día final (Difícil)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_10_N]
-Cuevas escalofriantes - Día 10
+Cuevas escalofriantes - Día final
 
 [ICELOTUS]
 Loto helado
@@ -25958,7 +25945,7 @@ Bufanda roja
 El área de excavación al usar Nutrientes se amplia a 5x5
 
 [JEWELRABBIT_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}1 fila por delante
+{KEYWORD}Información de alcance: {STAT}1 fila por delante
 {KEYWORD}Especial: {STAT}expulsan a los zombis pequeños
 {KEYWORD}Especial: {STAT}dejan agujeros que derrotan a los zombis que caigan en ellos
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora, hermanos
@@ -26428,7 +26415,7 @@ La distancia de empuje del efecto aumenta en 1 casilla ^D22808^(ahora 2)^oldclr^
 {KEYWORD}Debilidad: {STAT}si la barrera está dañada, no puede bloquear corrientes oceánicas
 {KEYWORD}Características de la planta: {STAT}planta verde, marina, defensa, hermanos
 
-{FLAVOR}Han intentado superar sus propias barreras, pero nunca lo consiguen.
+{FLAVOR}Muchos han intentado superar sus barreras. Nadie lo ha conseguido.
 
 [KELPGUARD_DESCRIPTION_HEADER]
 Los hermanos Kelpia se plantan en el lecho marino, bloqueando zombis y corrientes oceánicas con su barrera de algas.
@@ -27451,7 +27438,7 @@ Frijol láser
 Dispara un laser rojo que inflige más daño. ^D22808^Daño: 2.700^oldclr^
 
 [LASER_BEAN_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}todos los zombis de una línea
+{KEYWORD}Información de alcance: {STAT}todos los zombis de una línea
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
 {FLAVOR}Después de que una operación de cirugía láser ocular fuera horriblemente bien, Frijol láser encontró una motivación en su vida y el gusto por jugar a ver quién aguanta más la mirada.
@@ -27885,7 +27872,7 @@ Obtuviste esto en la 2da temporada del evento: Lotes cromáticos
 Las plantas de Nivel 5 son tu mayor fortaleza.
 
 [LEVEL_EDITOR_HEAD_DES_ID_25836]
-¡Un minuto en el escenario, y fuera de él, a comer sin parar!
+¡Conozcan a Dave el payaso, listo para hacerte estallar de risa!
 
 [LEVEL_EDITOR_HEAD_DES_ID_25847]
 Obtuviste esto en la 3ra temporada del evento: Lotes cromáticos
@@ -27966,7 +27953,7 @@ Paisaje de la fortuna
 Aspectos destacados
 
 [LEVEL_EDITOR_HEAD_ID_25836]
-Inauguración festiva
+Dave el payaso
 
 [LEVEL_EDITOR_HEAD_ID_25847]
 Haz de luz
@@ -28230,7 +28217,7 @@ Junco eléctrico
 La tormenta es más grande, tiene mayor alcance y hace más daño. ^D22808^Daño: 100^oldclr^
 
 [LIGHTNINGREED_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}varios impactos
+{KEYWORD}Información de alcance: {STAT}varios impactos
 {KEYWORD}Especial: {STAT}ataque en cadena de múltiples objetivos
 {KEYWORD}Características de la planta: {STAT}planta verde, electrizante, destructora
 
@@ -29470,7 +29457,7 @@ Un lanzaplantas de utilidad pública con modo de disparo concentrado y de disper
 Alterna entre los modos de disparo concentrado o de dispersión del lanzador.
 
 [MANGOSTEEN]
-Mangostán eléctrico
+Mangostán
 
 [MANGOSTEEN_AVATAR_NAME]
 Monóculo
@@ -29484,10 +29471,10 @@ El campo se encoge infligiendo daño nueva vez y dejando otro más pequeño. ^D2
 {KEYWORD}Debilidad: {STAT}descansa después de realizar una serie de ataques
 {KEYWORD}Características de la planta: {STAT}planta púrpura (azul), electrizante, destructora
 
-{FLAVOR}Se toma muy en serio su trabajo, sin embargo, la forma en la que reune y libera energía eléctrica, lo hace siempre depender de las malas condiciones climáticas para poder cumplir con sus labores.
+{FLAVOR}Mangostán pasa gran parte del tiempo esperando tormentas eléctricas. La paciencia no es opcional cuando eres una batería con hojas.
 
 [MANGOSTEEN_DESCRIPTION_HEADER]
-Mangostán eléctrico reune energía, para luego, liberar campos eléctricos fulminantes en sus alrededores.
+Mangostán reune energía, para luego, liberar campos eléctricos fulminantes en sus alrededores.
 
 [MANGOSTEEN_FAMILY]
 Clusiaceae
@@ -29558,7 +29545,7 @@ Traje negro
 Los zombis alcanzados por el efecto son ralentizados durante 3 s
 
 [MAPLEBLADE_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}2 casillas al frente
+{KEYWORD}Información de alcance: {STAT}2 casillas al frente
 {KEYWORD}Sombra de arce: {STAT}libera un clon que carga contra los zombis cercanos
 {KEYWORD}Características de la planta: {STAT}planta roja, artista marcial, destructora
 
@@ -31045,7 +31032,7 @@ Lanza melones en llamas que hacen más daño. ^D22808^Daño: 300 (40 en área 3x
 
 [MELONPULT_DESCRIPTION]
 {KEYWORD}Cadencia: {STAT}1/2x
-{KEYWORD}Alcance: {STAT}largo
+{KEYWORD}Información de alcance: {STAT}largo
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora, familia de armas
 
 {FLAVOR}"Todo el mundo me dice que mi cabeza se parece un melón", dijo el hijo mediano de la familia. "Y tienen razón". Si alguien le  pregunta si tiene semillas o no, se ofende. La verdad es que no debería importarle a nadie.
@@ -31890,7 +31877,7 @@ Las ráfagas hacen 1.200 DPS y dejan hielo que ralentiza zombis. ^D22808^Duraci�
 
 [MISSILETOE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}tocar para armar, tocar en la casilla objetivo para disparar
-{KEYWORD}Alcance: {STAT}cualquier lugar del patio
+{KEYWORD}Información de alcance: {STAT}cualquier lugar del patio
 {KEYWORD}Especial: {STAT}al impactar, explota en un área pequeña
 {KEYWORD}Características de la planta: {STAT}planta azul, gélida, destructora
 
@@ -38030,10 +38017,10 @@ Carrera de velocidad - Día 6
 Carrera de velocidad - Día 6 (Difícil)
 
 [NEEDFORSPEED_LEVEL_NAME_07]
-Carrera de velocidad - Día 7
+Carrera de velocidad - Día final
 
 [NEEDFORSPEED_LEVEL_NAME_07_H]
-Carrera de velocidad - Día 7 (Difícil)
+Carrera de velocidad - Día final (Difícil)
 
 [NEEDFORSPEED_SUNFLOWER_DES_ID_25561]
 ¡Bienvenido al mundo de Need for Speed: The Gathering con Girasol!
@@ -38332,7 +38319,7 @@ Las cartas obtenidas en los cofres pueden ayudarte a desbloquear y mejorar zombi
 Las cartas con el mismo número de turnos pueden sustituirse entre sí
 
 [NEWPVP_HOWTOPLAY_1_DESCRIPTION]
-Este es un modo JcJ, donde dos jugadores luchan en tiempo real hasta uno caiga
+Este es un modo JcJ, donde dos jugadores luchan en tiempo real hasta que uno caiga
 
 [NEWPVP_HOWTOPLAY_2_DESCRIPTION]
 Las plantas no recibirán ninguna bonificación, salvo los efectos de su Nivel
@@ -38576,10 +38563,10 @@ Festival lunar - Noche 3
 Festival lunar - Noche 3 (Difícil)
 
 [NEWYEAR_LEVEL_NAME_07]
-Festival lunar - Día 4
+Festival lunar - Día final
 
 [NEWYEAR_LEVEL_NAME_07_H]
-Festival lunar - Día 4 (Difícil)
+Festival lunar - Día final (Difícil)
 
 [NEWYEAR_PACK_TEN]
 Comprar x10
@@ -42020,10 +42007,10 @@ Mausoleo de Qin - Día 9
 Mausoleo de Qin - Día 9 (Difícil)
 
 [NOQIN_LEVEL_NAME_10]
-Mausoleo de Qin - Día 10
+Mausoleo de Qin - Día final
 
 [NOQIN_LEVEL_NAME_10_H]
-Mausoleo de Qin - Día 10 (Difícil)
+Mausoleo de Qin - Día final (Difícil)
 
 [NOQIN_LEVEL_NAME_DANGERROOM]
 Mausoleo perpetuo - Nivel {LEVEL_NUMBER}
@@ -42801,7 +42788,7 @@ Orquídea de vacío
 Potencia los orbes del efecto, los cuales atraen zombis a 1 casilla por segundo.
 
 [ORCHIDMAGE_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}fila (lanzamiento) - área de 3x3 (atracción)
+{KEYWORD}Información de alcance: {STAT}fila (lanzamiento) - área de 3x3 (atracción)
 {KEYWORD}Características de la planta: {STAT}planta púrpura, flotante, amenazante, destructora
 
 {FLAVOR}Debido a que era debil de pequeña, tuvo que aprender toda clase de hehicerías durante su niñez. Ahora que ha perfeccionado sus técnicas, puede controlar la gravedad a su antojo y usar ese poder contra los zombis.
@@ -43093,7 +43080,7 @@ Gorro rojo
 Lanza más artículos al usar Nutrientes.
 
 [PAPHIOPEDILUM_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}línea delantera, superior e inferior
+{KEYWORD}Información de alcance: {STAT}línea delantera, superior e inferior
 {KEYWORD}Características de la planta: {STAT}planta rosada, destructora
 
 ^E2725B^• Artículos disparados^oldclr^
@@ -43357,7 +43344,7 @@ Papapum U42
 
 [PARALLEL_POTATOMINE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, activación retardada
-{KEYWORD}Alcance: {STAT}al contacto
+{KEYWORD}Información de alcance: {STAT}al contacto
 
 {FLAVOR}Volar zombis por los aires en una explosión de almidón es un hábito que no cambia para Papapum en las diferentes realidades alternas.
 
@@ -43730,7 +43717,7 @@ Misiones
 Obtén el Atuendo temático de este evento para Orquídea de vacío
 
 [PARTY_ASSIST_TASK_DES_1]
-Obtén el Atuendo de: Orquídea de vacío (Fiesta animada), Girasol (Día del niño), Aloe (Aniversario) y Mangostán eléctrico (Lote de crecimiento)
+Obtén el Atuendo de: Orquídea de vacío (Fiesta animada), Girasol (Día del niño), Aloe (Aniversario) y Mangostán (Lote de crecimiento)
 
 [PARTY_ASSIST_TASK_DES_2]
 Consigue todos los Atuendos de este evento
@@ -48645,7 +48632,7 @@ Genera 1 clon adicional al usar Nutrientes ^D22808^(ahora 3)^oldclr^
 
 [POTATOMINE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, activación retardada
-{KEYWORD}Alcance: {STAT}al contacto
+{KEYWORD}Información de alcance: {STAT}al contacto
 {KEYWORD}Características de la planta: {STAT}planta marrón, de baja estatura, explosiva
 
 {FLAVOR}Lo creáis o no, "SPUDOW" no fue flor de un día. La obligaron a usar nuevas frases lapidarias y probó todas las variantes que pudo ¿Tubular? ¿En serio?, pero Papapúm eliminó la competencia y se quedó con lo que mejor se le da.
@@ -49226,7 +49213,7 @@ Al usar Nutrientes, crea 1 copia adicional ^D22808^(ahora 3)^oldclr^
 
 [PRIMALPOTATOMINE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, activación retardada
-{KEYWORD}Alcance: {STAT}afecta al área que tiene a su alrededor
+{KEYWORD}Información de alcance: {STAT}afecta al área que tiene a su alrededor
 {KEYWORD}Características de la planta: {STAT}planta marrón, salvaje, de baja estatura, explosiva
 
 {FLAVOR}Papapúm primitiva no cree que su adjetivo sea correcto. Cree que está a la última. ¿Quién sabe? Igual es cierto.
@@ -54516,7 +54503,7 @@ Gafas purpuras
 Cuando usa Nutrientes, arroja semillas de aceite en llamas.
 
 [RAPEFLOWER_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}fila al frente
+{KEYWORD}Información de alcance: {STAT}fila al frente
 {KEYWORD}Especial: {STAT}de vez en cuando arroja semillas en llamas
 {KEYWORD}Especial: {STAT}se crearán columnas de fuego si golpea a un zombi en llamas
 {KEYWORD}Características de la planta: {STAT}planta amarilla, destructora
@@ -56067,7 +56054,7 @@ Bambú soldado
 Las balas del efecto ^848484^aturden^oldclr^ zombis durante 2 s cuando explotan.
 
 [RIFLEBAMBOO_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}1 línea al frente
+{KEYWORD}Información de alcance: {STAT}línea al frente
 {KEYWORD}Especial: {STAT}sus disparos infligen el doble de daño a los objetos del patio
 {KEYWORD}Especial: {STAT}las balas explotan después de un tiempo, infligiendo daño adicional
 {KEYWORD}Características de la planta: {STAT}planta verde, de baja estatura, destructora
@@ -58268,7 +58255,7 @@ T7-S8-8: Batalla de élite
 T8-S1-1: Control de multitudes
 
 [S8_MEMORY_LEVEL_NAME_001_H]
-T8-D-1: Combate aplastante
+T8-D-01: Fuerza aplastante
 
 [S8_MEMORY_LEVEL_NAME_002]
 T8-S1-2: Control de multitudes II
@@ -58469,2266 +58456,2266 @@ T8-S7-3: A prueba de balas III
 T8-S7-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_053]
-Súper-escudo
+T8-S7-5: Súper-escudo
 
 [S8_MEMORY_LEVEL_NAME_054]
-Súper-escudo II
+T8-S7-6: Súper-escudo II
 
 [S8_MEMORY_LEVEL_NAME_055]
-Súper-escudo III
+T8-S7-7: Súper-escudo III
 
 [S8_MEMORY_LEVEL_NAME_056]
-La élite es súper
+T8-S7-8: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_057]
-Tomando el control
+T8-S8-1: Tomando el control
 
 [S8_MEMORY_LEVEL_NAME_058]
-Tomando el control II
+T8-S8-2: Tomando el control II
 
 [S8_MEMORY_LEVEL_NAME_059]
-Tomando el control III
+T8-S8-3: Tomando el control III
 
 [S8_MEMORY_LEVEL_NAME_060]
-La élite controla el mundo
+T8-S8-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_061]
-Muralla de metal
+T8-S8-5: Muralla de metal
 
 [S8_MEMORY_LEVEL_NAME_062]
-Muralla de metal II
+T8-S8-6: Muralla de metal II
 
 [S8_MEMORY_LEVEL_NAME_063]
-Muralla de metal III
+T8-S8-7: Muralla de metal III
 
 [S8_MEMORY_LEVEL_NAME_064]
-La élite amurallante
+T8-S8-8: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_NORMALBOSS]
-Batalla zombi
+Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_001]
-El poder de la ciencia 1
+T9-S1-1: El poder de la ciencia
 
 [S9_MEMORY_LEVEL_NAME_001_H]
-Ataque de lanzamiento
+T9-D-01: Lanzamiento
 
 [S9_MEMORY_LEVEL_NAME_002]
-El poder de la ciencia II
+T9-S1-2: El poder de la ciencia II
 
 [S9_MEMORY_LEVEL_NAME_002_H]
-Salto continuo
+T9-D-02: Salto continuo
 
 [S9_MEMORY_LEVEL_NAME_003]
-El poder de la ciencia III
+T9-S1-3: El poder de la ciencia III
 
 [S9_MEMORY_LEVEL_NAME_003_H]
-Salto irregular
+T9-D-03: Salto irregular
 
 [S9_MEMORY_LEVEL_NAME_004]
-Élite y ciencia
+T9-S1-4: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_004_H]
-Saltarines y defensas
+T9-D-04: Poing, poing
 
 [S9_MEMORY_LEVEL_NAME_005]
-Salto hacia adelante 1
+T9-S1-5: Eyección
 
 [S9_MEMORY_LEVEL_NAME_005_H]
-Flores entre brumas
+T9-D-05: Flores entre brumas
 
 [S9_MEMORY_LEVEL_NAME_006]
-Salto hacia adelante II
+T9-S1-6 Eyección II
 
 [S9_MEMORY_LEVEL_NAME_006_H]
-Ley del humo
+T9-D-06: No fumar
 
 [S9_MEMORY_LEVEL_NAME_007]
-Salto hacia adelante III
+T9-S1-7: Eyección III
 
 [S9_MEMORY_LEVEL_NAME_007_H]
-Gran descuido
+T9-D-07: Gran descuido
 
 [S9_MEMORY_LEVEL_NAME_008]
-Saltos de la élite
+T9-S1-8: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_008_H]
-Burlas a escondidas
+T9-D-08: Las escondidillas
 
 [S9_MEMORY_LEVEL_NAME_009]
-Criaturas en la niebla
+T9-S2-1: Criatura de la noche
 
 [S9_MEMORY_LEVEL_NAME_009_H]
-No hay refugios
+T9-D-09: Sin escapatoria
 
 [S9_MEMORY_LEVEL_NAME_010]
-Criaturas en la niebla II
+T9-S2-2: Criatura de la noche II
 
 [S9_MEMORY_LEVEL_NAME_010_H]
-Dulce muerte
+T9-D-10: Dulce muerte
 
 [S9_MEMORY_LEVEL_NAME_011]
-Criaturas en la niebla III
+T9-S2-3: Criatura de la noche III
 
 [S9_MEMORY_LEVEL_NAME_011_H]
-Viejo pero inmortal
+T9-D-11: Sabio inmortal
 
 [S9_MEMORY_LEVEL_NAME_012]
-Criaturas de la élite
+T9-S2-4: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_012_H]
-Plan de destrucción
+T9-D-12: Plan de destrucción
 
 [S9_MEMORY_LEVEL_NAME_013]
-Tácticas de refuerzo
+T9-S2-5: El arte de la guerra
 
 [S9_MEMORY_LEVEL_NAME_013_H]
-Protege el pollo
+T9-D-13: Protege el pollo
 
 [S9_MEMORY_LEVEL_NAME_014]
-Tácticas de refuerzo II
+T9-S2-6: El arte de la guerra II
 
 [S9_MEMORY_LEVEL_NAME_014_H]
-Mirada explosiva
+T9-D-14: Mirada explosiva
 
 [S9_MEMORY_LEVEL_NAME_015]
-Tácticas de refuerzo III
+T9-S2-7: El arte de la guerra III
 
 [S9_MEMORY_LEVEL_NAME_015_H]
-Calor arrasador
+T9-D-15: Calor arrasador
 
 [S9_MEMORY_LEVEL_NAME_016]
-Tácticas de la élite
+T9-S2-8: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_016_H]
-Pollo y pelota
+T9-D-16: Pollo loco
 
 [S9_MEMORY_LEVEL_NAME_017]
-Lanzamiento veloz
+T9-S3-1: Lanzamiento veloz
 
 [S9_MEMORY_LEVEL_NAME_018]
-Lanzamiento veloz II
+T9-S3-2: Lanzamiento veloz II
 
 [S9_MEMORY_LEVEL_NAME_019]
-Lanzamiento veloz III
+T9-S3-3: Lanzamiento veloz III
 
 [S9_MEMORY_LEVEL_NAME_020]
-Élite veloz
+T9-S3-4: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_021]
-Avalancha imparable
+T9-S3-5: Avalancha imparable
 
 [S9_MEMORY_LEVEL_NAME_022]
-Avalancha imparable II
+T9-S3-6: Avalancha imparable II
 
 [S9_MEMORY_LEVEL_NAME_023]
-Avalancha imparable III
+T9-S3-7: Avalancha imparable III
 
 [S9_MEMORY_LEVEL_NAME_024]
-Élite imparable
+T9-S3-8: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_025]
-Como viento en popa
+T9-S4-1: Como viento en popa
 
 [S9_MEMORY_LEVEL_NAME_026]
-Como viento en popa II
+T9-S4-2: Como viento en popa II
 
 [S9_MEMORY_LEVEL_NAME_027]
-Como viento en popa III
+T9-S4-3: Como viento en popa III
 
 [S9_MEMORY_LEVEL_NAME_028]
-La élite se levanta
+T9-S4-4: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_029]
-Somnolencia
+T9-S4-5: Somnolencia
 
 [S9_MEMORY_LEVEL_NAME_030]
-Somnolencia II
+T9-S4-6: Somnolencia II
 
 [S9_MEMORY_LEVEL_NAME_031]
-Somnolencia III
+T9-S4-7: Somnolencia III
 
 [S9_MEMORY_LEVEL_NAME_032]
-Sueño de élite
+T9-S4-8: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_033]
-Feliz Navidad
+T9-S5-1: Festivus
 
 [S9_MEMORY_LEVEL_NAME_034]
-Feliz Navidad 2
+T9-S5-2: Festivus 2
 
 [S9_MEMORY_LEVEL_NAME_035]
-Feliz Navidad 3
+T9-S5-3: Festivus 3
 
 [S9_MEMORY_LEVEL_NAME_036]
-La élite y una Navidad feliz
+T9-S5-4: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_037]
-Feliz Navidad 4
+T9-S5-5: Feliz Navidad
 
 [S9_MEMORY_LEVEL_NAME_038]
-Feliz Navidad 5
+T9-S5-6: Feliz Navidad 2
 
 [S9_MEMORY_LEVEL_NAME_039]
-Feliz Navidad 6
+T9-S5-7: Feliz Navidad 3
 
 [S9_MEMORY_LEVEL_NAME_040]
-La élite y una Navidad feliz II
+T9-S5-8: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_041]
-Festival lunar
+T9-S6-1: Festival lunar
 
 [S9_MEMORY_LEVEL_NAME_042]
-Festival lunar 2
+T9-S6-2: Festival lunar II
 
 [S9_MEMORY_LEVEL_NAME_043]
-Festival lunar 3
+T9-S6-3: Festival lunar III
 
 [S9_MEMORY_LEVEL_NAME_044]
-Festival de élite
+T9-S6-4: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_045]
-Festival lunar 4
+T9-S6-5: Feliz Año Nuevo
 
 [S9_MEMORY_LEVEL_NAME_046]
-Festival lunar 5
+T9-S6-6: Feliz Año Nuevo II
 
 [S9_MEMORY_LEVEL_NAME_047]
-Festival lunar 6
+T9-S6-7: Feliz Año Nuevo III
 
 [S9_MEMORY_LEVEL_NAME_048]
-Festival de élite II
+T9-S6-8: Batalla de élite II
 
 [S9_MEMORY_LEVEL_NAME_049]
-Primero yo
+T9-S7-1: Primero yo
 
 [S9_MEMORY_LEVEL_NAME_050]
-Segundo yo
+T9-S7-2: Segundo yo
 
 [S9_MEMORY_LEVEL_NAME_051]
-Tercero yo
+T9-S7-3: Tercero yo
 
 [S9_MEMORY_LEVEL_NAME_052]
-La élite al frente
+T9-S7-4: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_053]
-Fuerza numerosa
+T9-S7-5: Fuerza numerosa
 
 [S9_MEMORY_LEVEL_NAME_054]
-Fuerza numerosa II
+T9-S7-6: Fuerza numerosa II
 
 [S9_MEMORY_LEVEL_NAME_055]
-Fuerza numerosa III
+T9-S7-7: Fuerza numerosa III
 
 [S9_MEMORY_LEVEL_NAME_056]
-Élite numerosa
+T9-S7-8: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_057]
-Tecnología zombi
+T9-S8-1: Z-tech
 
 [S9_MEMORY_LEVEL_NAME_058]
-Tecnología zombi II
+T9-S8-2: Z-tech II
 
 [S9_MEMORY_LEVEL_NAME_059]
-Tecnología zombi III
+T9-S8-3: Z-tech III
 
 [S9_MEMORY_LEVEL_NAME_060]
-Tecnología de élite
+T9-S8-4: Batalla de élite
 
 [S9_MEMORY_LEVEL_NAME_061]
-Lluvia, relámpagos y ropa
+T9-S8-5: Lluvia a cántaros
 
 [S9_MEMORY_LEVEL_NAME_062]
-Lluvia, relámpagos y ropa II
+T9-S8-6: Lluvia a cántaros II
 
 [S9_MEMORY_LEVEL_NAME_063]
-Lluvia, relámpagos y ropa III
+T9-S8-7: Lluvia a cántaros III
 
 [S9_MEMORY_LEVEL_NAME_064]
-Lluvia, relámpagos y la élite
+T9-S7-8: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_001]
-Feliz Año Nuevo
+T10-S1-1: Festival lunar
 
 [S10_MEMORY_LEVEL_NAME_001_H]
-Maratón zombi
+T10-D-01: Maratón zombi
 
 [S10_MEMORY_LEVEL_NAME_002]
-Feliz Año Nuevo 2
+T10-S1-2: Festival lunar 2
 
 [S10_MEMORY_LEVEL_NAME_002_H]
-Joven y simple
+T10-D-02: Vida simple
 
 [S10_MEMORY_LEVEL_NAME_003]
-Feliz Año Nuevo 3
+T10-S1-3: Festival lunar 3
 
 [S10_MEMORY_LEVEL_NAME_003_H]
-Ingenuo error
+T10-D-03: Prueba y error
 
 [S10_MEMORY_LEVEL_NAME_004]
-La élite y un Año feliz
+T10-S1-4: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_004_H]
-Zombificado
+T10-D-04: Zombificado
 
 [S10_MEMORY_LEVEL_NAME_005]
-Feliz Año Nuevo 4
+T10-S1-5: Feliz Año Nuevo
 
 [S10_MEMORY_LEVEL_NAME_005_H]
-Gran escudo
+T10-D-05: Barrera impenetrable
 
 [S10_MEMORY_LEVEL_NAME_006]
-Feliz Año Nuevo 5
+T10-S1-6: Feliz Año Nuevo 2
 
 [S10_MEMORY_LEVEL_NAME_006_H]
-Bloquea al enemigo
+T10-D-06: Ofensiva y defensa
 
 [S10_MEMORY_LEVEL_NAME_007]
-Feliz Año Nuevo 6
+T10-S1-7: Feliz Año Nuevo 3
 
 [S10_MEMORY_LEVEL_NAME_007_H]
-Alcance limitado
+T10-D-07: Alcance limitado
 
 [S10_MEMORY_LEVEL_NAME_008]
-La élite y un Año feliz II
+T10-S1-8: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_008_H]
-Brecha oportuna
+T10-D-08: Brecha oportuna
 
 [S10_MEMORY_LEVEL_NAME_009]
-Paz duradera
+T10-S2-1: Paz duradera
 
 [S10_MEMORY_LEVEL_NAME_009_H]
-Viento favorable
+T10-D-09: Viento favorable
 
 [S10_MEMORY_LEVEL_NAME_010]
-Paz duradera 2
+T10-S2-2: Paz duradera 2
 
 [S10_MEMORY_LEVEL_NAME_010_H]
-Buena fortuna
+T10-D-10: Buena fortuna
 
 [S10_MEMORY_LEVEL_NAME_011]
-Paz duradera 3
+T10-S2-3: Paz duradera 3
 
 [S10_MEMORY_LEVEL_NAME_011_H]
-Buenos tiempos
+T10-D-11: Buenos tiempos
 
 [S10_MEMORY_LEVEL_NAME_012]
-La élite en guerra
+T10-S2-4: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_012_H]
-Nuevo amanecer
+T10-D-12: Nuevo amanecer
 
 [S10_MEMORY_LEVEL_NAME_013]
-Paz duradera 4
+T10-S2-5: Guerrero paciente
 
 [S10_MEMORY_LEVEL_NAME_013_H]
-Año que se va
+T10-D-13: Año que se va
 
 [S10_MEMORY_LEVEL_NAME_014]
-Paz duradera 5
+T10-S2-6: Guerrero paciente 2
 
 [S10_MEMORY_LEVEL_NAME_014_H]
-Brisa de primavera
+T10-D-14: Brisa de primavera
 
 [S10_MEMORY_LEVEL_NAME_015]
-Paz duradera 6
+T10-S2-7: Guerrero paciente 3
 
 [S10_MEMORY_LEVEL_NAME_015_H]
-Puertas abiertas
+T10-D-15: Puerta abierta
 
 [S10_MEMORY_LEVEL_NAME_016]
-La élite en guerra II
+T10-S2-8: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_016_H]
-Amuleto de la suerte
+T10-D-16: Amuleto encantado
 
 [S10_MEMORY_LEVEL_NAME_017]
-Nuevos comienzos 1
+T10-S3-1: Nuevos comienzos 1
 
 [S10_MEMORY_LEVEL_NAME_018]
-Nuevos comienzos 2
+T10-S3-2: Nuevos comienzos 2
 
 [S10_MEMORY_LEVEL_NAME_019]
-Nuevos comienzos 3
+T10-S3-3: Nuevos comienzos 3
 
 [S10_MEMORY_LEVEL_NAME_020]
-La nueva élite
+T10-S3-4: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_021]
-Nuevos comienzos 4
+T10-S3-5: Los eternos
 
 [S10_MEMORY_LEVEL_NAME_022]
-Nuevos comienzos 5
+T10-S3-6: Los eternos II
 
 [S10_MEMORY_LEVEL_NAME_023]
-Nuevos comienzos 6
+T10-S3-7: Los eternos III
 
 [S10_MEMORY_LEVEL_NAME_024]
-La nueva élite II
+T10-S3-8: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_025]
-Ataque con escudo
+T10-S4-1: Espada y escudo
 
 [S10_MEMORY_LEVEL_NAME_026]
-Ataque con escudo II
+T10-S4-2: Espada y escudo II
 
 [S10_MEMORY_LEVEL_NAME_027]
-Ataque con escudo III
+T10-S4-3: Espada y escudo III
 
 [S10_MEMORY_LEVEL_NAME_028]
-Escudo de élite
+T10-S4-4: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_029]
-Pociones peligrosas
+T10-S4-5: P de peligro
 
 [S10_MEMORY_LEVEL_NAME_030]
-Pociones peligrosas II
+T10-S4-6: P de peligro II
 
 [S10_MEMORY_LEVEL_NAME_031]
-Pociones peligrosas III
+T10-S4-7: P de peligro III
 
 [S10_MEMORY_LEVEL_NAME_032]
-Pociones de élite
+T10-S4-8: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_033]
-Baile zombi
+T10-S5-1: Baile zombi
 
 [S10_MEMORY_LEVEL_NAME_034]
-Baile zombi II
+T10-S5-2: Baile zombi II
 
 [S10_MEMORY_LEVEL_NAME_035]
-Baile zombi III
+T10-S5-3: Baile zombi III
 
 [S10_MEMORY_LEVEL_NAME_036]
-Baile de la élite
+T10-S5-4: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_037]
-Rayo de Thor
+T10-S5-5: La furia de Thor
 
 [S10_MEMORY_LEVEL_NAME_038]
-Rayo de Thor II
+T10-S5-6: La furia de Thor II
 
 [S10_MEMORY_LEVEL_NAME_039]
-Rayo de Thor III
+T10-S5-7: La furia de Thor III
 
 [S10_MEMORY_LEVEL_NAME_040]
-Rayos, la élite otra vez
+T10-S5-8: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_041]
-Caballo de Troya
+T10-S6-1: Caballo de Troya
 
 [S10_MEMORY_LEVEL_NAME_042]
-Caballo de Troya II
+T10-S6-2: Caballo de Troya II
 
 [S10_MEMORY_LEVEL_NAME_043]
-Caballo de Troya III
+T10-S6-3: Caballo de Troya III
 
 [S10_MEMORY_LEVEL_NAME_044]
-La élite en Troya
+T10-S6-4: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_045]
-Tormentas en la capital
+T10-S6-5: Tormentas en la capital
 
 [S10_MEMORY_LEVEL_NAME_046]
-Tormentas en la capital II
+T10-S6-6: Tormentas en la capital II
 
 [S10_MEMORY_LEVEL_NAME_047]
-Tormentas en la capital III
+T10-S6-7: Tormentas en la capital III
 
 [S10_MEMORY_LEVEL_NAME_048]
-Tormentas en la élite
+T10-S6-8: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_049]
-Clima extremo
+T10-S7-1: Clima extremo
 
 [S10_MEMORY_LEVEL_NAME_050]
-Clima extremo II
+T10-S7-2: Clima extremo II
 
 [S10_MEMORY_LEVEL_NAME_051]
-Clima extremo III
+T10-S7-3: Clima extremo III
 
 [S10_MEMORY_LEVEL_NAME_052]
-La élite al extremo
+T10-S7-4: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_053]
-Más tormentas en la capital
+T10-S7-5: Más tormentas en la capital
 
 [S10_MEMORY_LEVEL_NAME_054]
-Más tormentas en la capital II
+T10-S7-6: Más tormentas en la capital II
 
 [S10_MEMORY_LEVEL_NAME_055]
-Más tormentas en la capital III
+T10-S7-7: Más tormentas en la capital III
 
 [S10_MEMORY_LEVEL_NAME_056]
-Tormenta en la élite II
+T10-S7-8: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_057]
-Rebotes épicos
+T10-S8-1: Rebotes épicos
 
 [S10_MEMORY_LEVEL_NAME_058]
-Rebotes épicos II
+T10-S8-2: Rebotes épicos II
 
 [S10_MEMORY_LEVEL_NAME_059]
-Rebotes épicos III
+T10-S8-3: Rebotes épicos III
 
 [S10_MEMORY_LEVEL_NAME_060]
-La élite epica
+T10-S8-4: Batalla de élite
 
 [S10_MEMORY_LEVEL_NAME_061]
-Zombis al ataque
+T10-S8-5: Zombis al ataque
 
 [S10_MEMORY_LEVEL_NAME_062]
-Zombis al ataque II
+T10-S8-6: Zombis al ataque II
 
 [S10_MEMORY_LEVEL_NAME_063]
-Zombis al ataque III
+T10-S8-7: Zombis al ataque III
 
 [S10_MEMORY_LEVEL_NAME_064]
-Élite al ataque
+T10-S8-8: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_001]
-Proyecto de modificación zombi
+T11-S1-1: Proyecto Z
 
 [S11_MEMORY_LEVEL_NAME_001_H]
-Ataque de ruptura
+T11-D-01: Ruptura
 
 [S11_MEMORY_LEVEL_NAME_002]
-Proyecto de modificación zombi II
+T11-S1-2: Proyecto Z-02
 
 [S11_MEMORY_LEVEL_NAME_002_H]
-Universo aleatorio
+T11-D-02: Universo aleatorio
 
 [S11_MEMORY_LEVEL_NAME_003]
-Proyecto de modificación zombi III
+T11-S1-3: Proyecto Z-03
 
 [S11_MEMORY_LEVEL_NAME_003_H]
-Moneda del destino
+T11-D-03: Hilos del destino
 
 [S11_MEMORY_LEVEL_NAME_004]
-Proyecto de élite
+T11-S1-4: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_004_H]
-Arruinando planes
+T11-D-04: Arruinando planes
 
 [S11_MEMORY_LEVEL_NAME_005]
-Tormenta de arena
+T11-S1-5: Tormenta de arena
 
 [S11_MEMORY_LEVEL_NAME_005_H]
-Jale y empuje
+T11-D-05: Jale y empuje
 
 [S11_MEMORY_LEVEL_NAME_006]
-Tormenta de arena II
+T11-S1-6: Tormenta de arena 2
 
 [S11_MEMORY_LEVEL_NAME_006_H]
-Velocidad occidental
+T11-D-06: El más veloz de oriente
 
 [S11_MEMORY_LEVEL_NAME_007]
-Tormenta de arena III
+T11-S1-7: Tormenta de arena 3
 
 [S11_MEMORY_LEVEL_NAME_007_H]
-Espíritu caballeresco
+T11-D-07: Caballero caballeroso
 
 [S11_MEMORY_LEVEL_NAME_008]
-La élite en la arena
+T11-S1-8: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_008_H]
-Cambio de rumbo
+T11-D-08: Cambio de rumbo
 
 [S11_MEMORY_LEVEL_NAME_009]
-Ataque veloz
+T11-S2-1: Ataque veloz
 
 [S11_MEMORY_LEVEL_NAME_009_H]
-Explosión oculta
+T11-D-09: Terror explosivo
 
 [S11_MEMORY_LEVEL_NAME_010]
-Ataque veloz II
+T11-S2-2: Ataque veloz 2
 
 [S11_MEMORY_LEVEL_NAME_010_H]
-Gallinas y comadrejas
+T11-D-10: Gallinas y comadrejas
 
 [S11_MEMORY_LEVEL_NAME_011]
-Ataque veloz III
+T11-S2-3: Ataque veloz 3
 
 [S11_MEMORY_LEVEL_NAME_011_H]
-Forzado
+T11-D-11: Cliché forzado
 
 [S11_MEMORY_LEVEL_NAME_012]
-La élite veloz
+T11-S2-4: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_012_H]
-Enlatados
+T11-D-12: Enredados
 
 [S11_MEMORY_LEVEL_NAME_013]
-Ola interminable
+T11-S2-5: Oleaje agresivo
 
 [S11_MEMORY_LEVEL_NAME_013_H]
-Setas encantadoras
+T11-D-13: Setas encantadoras
 
 [S11_MEMORY_LEVEL_NAME_014]
-Ola interminable II
+T11-S2-6: Oleaje agresivo II
 
 [S11_MEMORY_LEVEL_NAME_014_H]
-Carga explosiva
+T11-D-14: Carga explosiva
 
 [S11_MEMORY_LEVEL_NAME_015]
-Ola interminable III
+T11-S2-7: Oleaje agresivo III
 
 [S11_MEMORY_LEVEL_NAME_015_H]
-Refrescante
+T11-D-15: Golpe refrescante
 
 [S11_MEMORY_LEVEL_NAME_016]
-La élite interminable
+T11-S2-8: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_016_H]
-Nubes densas
+T11-D-16: Nubes densas
 
 [S11_MEMORY_LEVEL_NAME_017]
-Barrera impenetrable
+T11-S3-1: Defensa inquebrantable
 
 [S11_MEMORY_LEVEL_NAME_018]
-Barrera impenetrable II
+T11-S3-2: Defensa inquebrantable II
 
 [S11_MEMORY_LEVEL_NAME_019]
-Barrera impenetrable III
+T11-S3-3: Defensa inquebrantable III
 
 [S11_MEMORY_LEVEL_NAME_020]
-La élite impenetrable
+T11-S3-4: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_021]
-Regreso a la base zombi
+T11-S3-5: Regreso a la base zombi
 
 [S11_MEMORY_LEVEL_NAME_022]
-Regreso a la base zombi II
+T11-S3-6: Regreso a la base zombi II
 
 [S11_MEMORY_LEVEL_NAME_023]
-Regreso a la base zombi III
+T11-S3-7: Regreso a la base zombi III
 
 [S11_MEMORY_LEVEL_NAME_024]
-El regreso de la élite
+T11-S3-8: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_025]
-Visión abrumadora
+T11-S4-1: Visión abrumadora
 
 [S11_MEMORY_LEVEL_NAME_026]
-Visión abrumadora II
+T11-S4-2: Visión abrumadora II
 
 [S11_MEMORY_LEVEL_NAME_027]
-Visión abrumadora III
+T11-S4-3: Visión abrumadora III
 
 [S11_MEMORY_LEVEL_NAME_028]
-La élite abrumadora
+T11-S4-4: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_029]
-Clima perfecto
+T11-S4-5: Clima perfecto
 
 [S11_MEMORY_LEVEL_NAME_030]
-Clima perfecto II
+T11-S4-6: Clima perfecto II
 
 [S11_MEMORY_LEVEL_NAME_031]
-Clima perfecto III
+T11-S4-7: Clima perfecto III
 
 [S11_MEMORY_LEVEL_NAME_032]
-Desperfectos de la élite
+T11-S4-8: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_033]
-Bromistas zombi
+T11-S5-1: Bromistas zombi
 
 [S11_MEMORY_LEVEL_NAME_034]
-Bromistas zombi II
+T11-S5-2: Bromistas zombi II
 
 [S11_MEMORY_LEVEL_NAME_035]
-Bromistas zombi III
+T11-S5-3: Bromistas zombi III
 
 [S11_MEMORY_LEVEL_NAME_036]
-La élite no bromea
+T11-S5-4: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_037]
-Sustancias tóxicas
+T11-S5-5: Sustancias tóxicas
 
 [S11_MEMORY_LEVEL_NAME_038]
-Sustancias tóxicas II
+T11-S5-6: Sustancias tóxicas II
 
 [S11_MEMORY_LEVEL_NAME_039]
-Sustancias tóxicas III
+T11-S5-7: Sustancias tóxicas III
 
 [S11_MEMORY_LEVEL_NAME_040]
-Sustancias de élite
+T11-S5-8: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_041]
-Zombis alegres
+T11-S6-1: Zombis alegres
 
 [S11_MEMORY_LEVEL_NAME_042]
-Zombis alegres II
+T11-S6-2: Zombis alegres II
 
 [S11_MEMORY_LEVEL_NAME_043]
-Zombis alegres III
+T11-S6-3: Zombis alegres III
 
 [S11_MEMORY_LEVEL_NAME_044]
-La élite se alegra
+T11-S6-4: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_045]
-Enfriamiento global
+T11-S6-5: Enfriamiento global
 
 [S11_MEMORY_LEVEL_NAME_046]
-Enfriamiento global II
+T11-S6-6: Enfriamiento global II
 
 [S11_MEMORY_LEVEL_NAME_047]
-Enfriamiento global III
+T11-S6-7: Enfriamiento global III
 
 [S11_MEMORY_LEVEL_NAME_048]
-La fría élite
+T11-S6-8: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_049]
-Superpoblación
+T11-S7-1: Superpoblación
 
 [S11_MEMORY_LEVEL_NAME_050]
-Superpoblación II
+T11-S7-2: Superpoblación II
 
 [S11_MEMORY_LEVEL_NAME_051]
-Superpoblación III
+T11-S7-3: Superpoblación III
 
 [S11_MEMORY_LEVEL_NAME_052]
-La élite suprema
+T11-S7-4: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_053]
-Avance acelerado
+T11-S7-5: Avance acelerado
 
 [S11_MEMORY_LEVEL_NAME_054]
-Avance acelerado II
+T11-S7-6: Avance acelerado 2
 
 [S11_MEMORY_LEVEL_NAME_055]
-Avance acelerado III
+T11-S7-7: Avance acelerado 3
 
 [S11_MEMORY_LEVEL_NAME_056]
-La élite acelera
+T11-S7-8: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_057]
-Zombis en barriles
+T11-S8-1: Zombis en barriles
 
 [S11_MEMORY_LEVEL_NAME_058]
-Zombis en barriles II
+T11-S8-2: Zombis en barriles 2
 
 [S11_MEMORY_LEVEL_NAME_059]
-Zombis en barriles III
+T11-S8-3: Zombis en barriles 3
 
 [S11_MEMORY_LEVEL_NAME_060]
-La élite no tiene barriles
+T11-S8-4: Batalla de élite
 
 [S11_MEMORY_LEVEL_NAME_061]
-Crecer o encoger
+T11-S8-5: Crecer o encoger
 
 [S11_MEMORY_LEVEL_NAME_062]
-Crecer o encoger II
+T11-S8-6: Crecer o encoger 2
 
 [S11_MEMORY_LEVEL_NAME_063]
-Crecer o encoger III
+T11-S8-7: Crecer o encoger 3
 
 [S11_MEMORY_LEVEL_NAME_064]
-La élite y su tamaño
+T11-S8-8: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_001]
-Espejito, espejito
+T12-S1-1: Espejito, espejito
 
 [S12_MEMORY_LEVEL_NAME_001_H]
-Martillo letal
+T12-D-01: Martillo letal
 
 [S12_MEMORY_LEVEL_NAME_002]
-Espejito, espejito II
+T12-S1-2: Espejito, espejito 2
 
 [S12_MEMORY_LEVEL_NAME_002_H]
-Fútbol americano
+T12-D-02: Fútbol americano
 
 [S12_MEMORY_LEVEL_NAME_003]
-Espejito, espejito III
+T12-S1-3: Espejito, espejito 3
 
 [S12_MEMORY_LEVEL_NAME_003_H]
-Arena mágica
+T12-D-03: Sandboy
 
 [S12_MEMORY_LEVEL_NAME_004]
-Élite y espejos
+T12-S1-4: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_004_H]
-Antiguo y novedoso
+T12-D-04: Antiguo y novedoso
 
 [S12_MEMORY_LEVEL_NAME_005]
-Ruedas giratorias
+T12-S1-5: Ruedas giratorias
 
 [S12_MEMORY_LEVEL_NAME_005_H]
-Feria sin fin
+T12-D-05: Fiesta interminable
 
 [S12_MEMORY_LEVEL_NAME_006]
-Ruedas giratorias II
+T12-S1-6: Ruedas giratorias II
 
 [S12_MEMORY_LEVEL_NAME_006_H]
-Niño alegre
+T12-D-06: Niño alegre
 
 [S12_MEMORY_LEVEL_NAME_007]
-Ruedas giratorias III
+T12-S1-7: Ruedas giratorias III
 
 [S12_MEMORY_LEVEL_NAME_007_H]
-Distancia sana
+T12-D-07: Distancia sana
 
 [S12_MEMORY_LEVEL_NAME_008]
-Élite sobre ruedas
+T12-S1-8: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_008_H]
-Lanzamiento inicial
+T12-D-08: Lanzamiento inicial
 
 [S12_MEMORY_LEVEL_NAME_009]
-Asalto helado
+T12-S2-1: Asalto helado
 
 [S12_MEMORY_LEVEL_NAME_009_H]
-Nido de insectos
+T12-D-09: Nido de insectos
 
 [S12_MEMORY_LEVEL_NAME_010]
-Asalto helado II
+T12-S2-2: Asalto helado II
 
 [S12_MEMORY_LEVEL_NAME_010_H]
-Gato mata pollo
+T12-D-10: Gato mata pollo
 
 [S12_MEMORY_LEVEL_NAME_011]
-Asalto helado III
+T12-S2-3: Asalto helado III
 
 [S12_MEMORY_LEVEL_NAME_011_H]
-Plantas de porcelana
+T12-D-11: Plantas de porcelana
 
 [S12_MEMORY_LEVEL_NAME_012]
-La élite helante
+T12-S2-4: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_012_H]
-Viento refrescante
+T12-D-12: Viento refrescante
 
 [S12_MEMORY_LEVEL_NAME_013]
-Unión poderosa
+T12-S2-5: Unión poderosa
 
 [S12_MEMORY_LEVEL_NAME_013_H]
-Cuento de hadas
+T12-D-13: Cuento de hadas
 
 [S12_MEMORY_LEVEL_NAME_014]
-Unión poderosa II
+T12-S2-6: Unión poderosa II
 
 [S12_MEMORY_LEVEL_NAME_014_H]
-Espejo cibernético
+T12-D-14: Black mirror
 
 [S12_MEMORY_LEVEL_NAME_015]
-Unión poderosa III
+T12-S2-7: Unión poderosa III
 
 [S12_MEMORY_LEVEL_NAME_015_H]
-Cañón antiaéreo
+T12-D-15: Cañón antiaéreo
 
 [S12_MEMORY_LEVEL_NAME_016]
-La élite unida
+T12-S2-8: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_016_H]
-Dando la lata
+T12-D-16: Dando lata
 
 [S12_MEMORY_LEVEL_NAME_017]
-Muerte segunda
+T12-S3-1: Muerte segunda
 
 [S12_MEMORY_LEVEL_NAME_018]
-Muerte segunda II
+T12-S3-2: Morir y renacer
 
 [S12_MEMORY_LEVEL_NAME_019]
-Muerte segunda III
+T12-S3-3: Los inmortales
 
 [S12_MEMORY_LEVEL_NAME_020]
-La élite no perece
+T12-S3-4: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_021]
-¿Quién es el zombi más bello?
+T12-S3-5: ¿Quién es el zombi más bello?
 
 [S12_MEMORY_LEVEL_NAME_022]
-¿Quién es el zombi más bello? - II
+T12-S3-6: ¿Quién es el zombi más bello? - II
 
 [S12_MEMORY_LEVEL_NAME_023]
-¿Quién es el zombi más bello? - III
+T12-S3-7: ¿Quién es el zombi más bello? - III
 
 [S12_MEMORY_LEVEL_NAME_024]
-La élite bélica
+T12-S3-8: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_025]
-Como un sueño
+T12-S4-1: Como un sueño
 
 [S12_MEMORY_LEVEL_NAME_026]
-Como un sueño II
+T12-S4-2: Como un sueño II
 
 [S12_MEMORY_LEVEL_NAME_027]
-Como un sueño III
+T12-S4-3: Como un sueño III
 
 [S12_MEMORY_LEVEL_NAME_028]
-La élite pesadillezca
+T12-S4-4: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_029]
-Travesía secreta
+T12-S4-5: Travesía secreta
 
 [S12_MEMORY_LEVEL_NAME_030]
-Travesía secreta II
+T12-S4-6: Travesía secreta II
 
 [S12_MEMORY_LEVEL_NAME_031]
-Travesía secreta III
+T12-S4-7: Travesía secreta III
 
 [S12_MEMORY_LEVEL_NAME_032]
-Las travesías de la élite
+T12-S4-8: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_033]
-No eres tú 1
+T12-S5-1: H2-OH-NO
 
 [S12_MEMORY_LEVEL_NAME_034]
-No eres tú 2
+T12-S5-2: H2-OH-NO 2
 
 [S12_MEMORY_LEVEL_NAME_035]
-No eres tú 3
+T12-S5-3: H2-OH-NO 3
 
 [S12_MEMORY_LEVEL_NAME_036]
-Es la élite
+T12-S5-4: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_037]
-Zombis voladores
+T12-S5-5: Zombis voladores
 
 [S12_MEMORY_LEVEL_NAME_038]
-Zombis voladores II
+T12-S5-6: Zombis voladores II
 
 [S12_MEMORY_LEVEL_NAME_039]
-Zombis voladores III
+T12-S5-7: Zombis voladores III
 
 [S12_MEMORY_LEVEL_NAME_040]
-La élite emprende vuelo
+T12-S5-8: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_041]
-Trueno estruendoso
+T12-S6-1: Trueno estruendoso
 
 [S12_MEMORY_LEVEL_NAME_042]
-Trueno estruendoso II
+T12-S6-2: Trueno estruendoso II
 
 [S12_MEMORY_LEVEL_NAME_043]
-Trueno estruendoso III
+T12-S6-3: Trueno estruendoso III
 
 [S12_MEMORY_LEVEL_NAME_044]
-La élite y su estruendoso plan
+T12-S6-4: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_045]
-El poder del faraón 1
+T12-S6-5: El poder del faraón 1
 
 [S12_MEMORY_LEVEL_NAME_046]
-El poder del faraón II
+T12-S6-6: El poder del faraón II
 
 [S12_MEMORY_LEVEL_NAME_047]
-El poder del faraón III
+T12-S6-7: El poder del faraón III
 
 [S12_MEMORY_LEVEL_NAME_048]
-Faraones y la élite
+T12-S6-8: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_049]
-Haz rodar al zombi
+T12-S7-1: Haz rodar al zombi
 
 [S12_MEMORY_LEVEL_NAME_050]
-Haz rodar al zombi II
+T12-S7-2: Haz rodar al zombi II
 
 [S12_MEMORY_LEVEL_NAME_051]
-Haz rodar al zombi III
+T12-S7-3: Haz rodar al zombi III
 
 [S12_MEMORY_LEVEL_NAME_052]
-La élite no anda con rodeos
+T12-S7-4: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_053]
-Modificación zombi
+T12-S7-5: Modificación zombi
 
 [S12_MEMORY_LEVEL_NAME_054]
-Modificación zombi II
+T12-S7-6: Modificación zombi II
 
 [S12_MEMORY_LEVEL_NAME_055]
-Modificación zombi III
+T12-S7-7: Modificación zombi III
 
 [S12_MEMORY_LEVEL_NAME_056]
-Modificación de la élite
+T12-S7-8: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_057]
-Maestros en medicina
+T12-S8-1: Maestros en medicina
 
 [S12_MEMORY_LEVEL_NAME_058]
-Maestros en medicina II
+T12-S8-2: Maestros en medicina II
 
 [S12_MEMORY_LEVEL_NAME_059]
-Maestros en medicina III
+T12-S8-3: Maestros en medicina III
 
 [S12_MEMORY_LEVEL_NAME_060]
-La élite y su medicina
+T12-S8-4: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_061]
-Furia vergonzosa
+T12-S8-5: Furia desatada
 
 [S12_MEMORY_LEVEL_NAME_062]
-Furia vergonzosa II
+T12-S8-6: Furia desatada II
 
 [S12_MEMORY_LEVEL_NAME_063]
-Furia vergonzosa III
+T12-S8-7: Furia desatada III
 
 [S12_MEMORY_LEVEL_NAME_064]
-La furia de la élite
+T12-S8-8: Batalla de élite
 
 [S13_MEMORY_LEVEL_NAME_001]
-Verano encantador
+T13-S1-1: Verano encantador
 
 [S13_MEMORY_LEVEL_NAME_001_H]
-Vacaciones de primavera
+T13-D-01: Vacaciones de primavera
 
 [S13_MEMORY_LEVEL_NAME_002]
-Verano encantador II
+T13-S1-2: Verano encantador II
 
 [S13_MEMORY_LEVEL_NAME_002_H]
-Descanso de verano
+T13-D-02: Descanso de verano
 
 [S13_MEMORY_LEVEL_NAME_003]
-Verano encantador III
+T13-S1-3: Verano encantador III
 
 [S13_MEMORY_LEVEL_NAME_003_H]
-Noches veraniegas
+T13-D-03: Noches de verano
 
 [S13_MEMORY_LEVEL_NAME_004]
-Viendo las estrellas
+T13-S1-4: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_004_H]
-Viendo las estrellas
+T13-D-04: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_005]
-Sueño de verano
+T13-S1-5: Sueño de verano
 
 [S13_MEMORY_LEVEL_NAME_005_H]
-Agosto interminable
+T13-D-05: Agosto interminable
 
 [S13_MEMORY_LEVEL_NAME_006]
-Sueño de verano II
+T13-S1-6: Sueño de verano II
 
 [S13_MEMORY_LEVEL_NAME_006_H]
-El verano de Zombitaro
+T13-D-06: El verano de Zombitaro
 
 [S13_MEMORY_LEVEL_NAME_007]
-Sueño de verano III
+T13-S1-7: Sueño de verano III
 
 [S13_MEMORY_LEVEL_NAME_007_H]
-Zombis veraniegos
+T13-D-07: Zombis veraniegos
 
 [S13_MEMORY_LEVEL_NAME_008]
-La élite veraniega
+T13-S1-8: Batalla de élite
 
 [S13_MEMORY_LEVEL_NAME_008_H]
-Noche de muertos vivientes
+T13-D-08: Noche de muertos vivientes
 
 [S13_MEMORY_LEVEL_NAME_009]
-Julio tormentoso
+T13-S2-1: Julio tormentoso
 
 [S13_MEMORY_LEVEL_NAME_009_H]
-Fiesta en la piscina
+T13-D-09: Fiesta en la piscina
 
 [S13_MEMORY_LEVEL_NAME_010]
-Julio tormentoso II
+T13-S2-2: Julio tormentoso II
 
 [S13_MEMORY_LEVEL_NAME_010_H]
-Zombis al agua
+T13-D-10: Zombis al agua
 
 [S13_MEMORY_LEVEL_NAME_011]
-Julio tormentoso III
+T13-S2-3: Julio tormentoso III
 
 [S13_MEMORY_LEVEL_NAME_011_H]
-Natación nocturna
+T13-D-11: Cursos de natación
 
 [S13_MEMORY_LEVEL_NAME_012]
-Viendo las estrellas 2
+T13-S2-4: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_012_H]
-Viendo las estrellas 2
+T13-D-12: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_013]
-Rodillos ardientes
+T13-S2-5: Rodillos ardientes
 
 [S13_MEMORY_LEVEL_NAME_013_H]
-Adictos al agua
+T13-D-13: Adictos al agua
 
 [S13_MEMORY_LEVEL_NAME_014]
-Rodillos ardientes II
+T13-S2-6: Rodillos ardientes II
 
 [S13_MEMORY_LEVEL_NAME_014_H]
-Mar de coral
+T13-D-14: Barrera de coral
 
 [S13_MEMORY_LEVEL_NAME_015]
-Rodillos ardientes III
+T13-S2-7: Rodillos ardientes III
 
 [S13_MEMORY_LEVEL_NAME_015_H]
-Corriente desafiante
+T13-D-15: Corriente desafiante
 
 [S13_MEMORY_LEVEL_NAME_016]
-La élite ardiente
+T13-S2-8: Batalla de élite
 
 [S13_MEMORY_LEVEL_NAME_016_H]
-Rey poderoso
+T13-D-16: Rey poderoso
 
 [S13_MEMORY_LEVEL_NAME_017]
-Calor seco
+T13-S3-1: Clima árido
 
 [S13_MEMORY_LEVEL_NAME_018]
-Calor seco II
+T13-S3-2: Clima árido II
 
 [S13_MEMORY_LEVEL_NAME_019]
-Calor seco III
+T13-S3-3: Clima árido III
 
 [S13_MEMORY_LEVEL_NAME_020]
-Viendo las estrellas 3
+T13-S3-4: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_021]
-Precaución eléctrica
+T13-S3-5: Alto voltaje
 
 [S13_MEMORY_LEVEL_NAME_022]
-Precaución eléctrica II
+T13-S3-6: Alto voltaje II
 
 [S13_MEMORY_LEVEL_NAME_023]
-Precaución eléctrica III
+T13-S3-7: Alto voltaje III
 
 [S13_MEMORY_LEVEL_NAME_024]
-La élite y su voltaje
+T13-S3-8: Batalla de élite
 
 [S13_MEMORY_LEVEL_NAME_025]
-Viento feroz
+T13-S4-1: Viento feroz
 
 [S13_MEMORY_LEVEL_NAME_026]
-Viento feroz II
+T13-S4-2: Viento feroz II
 
 [S13_MEMORY_LEVEL_NAME_027]
-Viento feroz III
+T13-S4-3: Viento feroz III
 
 [S13_MEMORY_LEVEL_NAME_028]
-Viendo las estrellas 4
+T13-S4-4: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_029]
-Noches frías
+T13-S4-5: Noches frías
 
 [S13_MEMORY_LEVEL_NAME_030]
-Noches frías II
+T13-S4-6: Noches frías II
 
 [S13_MEMORY_LEVEL_NAME_031]
-Noches frías III
+T13-S4-7: Noches frías III
 
 [S13_MEMORY_LEVEL_NAME_032]
-La élite y su frialdad
+T13-S4-8: Batalla de élite
 
 [S13_MEMORY_LEVEL_NAME_033]
-Otoño dorado
+T13-S5-1: Otoño dorado
 
 [S13_MEMORY_LEVEL_NAME_034]
-Otoño dorado II
+T13-S5-2: Otoño dorado II
 
 [S13_MEMORY_LEVEL_NAME_035]
-Otoño dorado III
+T13-S5-3: Otoño dorado III
 
 [S13_MEMORY_LEVEL_NAME_036]
-Viendo las estrellas 5
+T13-S5-4: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_037]
-Reactivos químicos
+T13-S5-5: Reactivos químicos
 
 [S13_MEMORY_LEVEL_NAME_038]
-Reactivos químicos II
+T13-S5-6: Reactivos químicos II
 
 [S13_MEMORY_LEVEL_NAME_039]
-Reactivos químicos III
+T13-S5-7: Reactivos químicos III
 
 [S13_MEMORY_LEVEL_NAME_040]
-Alquimia de élite
+T13-S5-8: Batalla de élite
 
 [S13_MEMORY_LEVEL_NAME_041]
-Piscina de lujo
+T13-S6-1: Piscina de lujo
 
 [S13_MEMORY_LEVEL_NAME_042]
-Piscina de lujo II
+T13-S6-2: Piscina de lujo II
 
 [S13_MEMORY_LEVEL_NAME_043]
-Piscina de lujo III
+T13-S6-3: Piscina de lujo III
 
 [S13_MEMORY_LEVEL_NAME_044]
-Viendo las estrellas 6
+T13-S6-4: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_045]
-Origen del payaso
+T13-S6-5: ESO
 
 [S13_MEMORY_LEVEL_NAME_046]
-Origen del payaso II
+T13-S6-6: ESTO
 
 [S13_MEMORY_LEVEL_NAME_047]
-Origen del payaso III
+T13-S6-7: AQUELLO
 
 [S13_MEMORY_LEVEL_NAME_048]
-Origen de la élite
+T13-S6-8: Batalla de élite
 
 [S13_MEMORY_LEVEL_NAME_049]
-Granizado mixto
+T13-S7-1: Granizado mixto
 
 [S13_MEMORY_LEVEL_NAME_050]
-Granizado mixto II
+T13-S7-2: Granizado mixto II
 
 [S13_MEMORY_LEVEL_NAME_051]
-Granizado mixto III
+T13-S7-3: Granizado mixto III
 
 [S13_MEMORY_LEVEL_NAME_052]
-Viendo las estrellas 7
+T13-S7-4: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_053]
-Pompas de jabón
+T13-S7-5: Pompas de jabón
 
 [S13_MEMORY_LEVEL_NAME_054]
-Pompas de jabón II
+T13-S7-6: Pompas de jabón II
 
 [S13_MEMORY_LEVEL_NAME_055]
-Pompas de jabón III
+T13-S7-7: Pompas de jabón III
 
 [S13_MEMORY_LEVEL_NAME_056]
-La élite odia el jabón
+T13-S7-8: Batalla de élite
 
 [S13_MEMORY_LEVEL_NAME_057]
-Aguas contaminadas
+T13-S7-1: Aguas contaminadas
 
 [S13_MEMORY_LEVEL_NAME_058]
-Aguas contaminadas II
+T13-S7-2: Aguas contaminadas II
 
 [S13_MEMORY_LEVEL_NAME_059]
-Aguas contaminadas III
+T13-S7-3: Aguas contaminadas III
 
 [S13_MEMORY_LEVEL_NAME_060]
-Viendo las estrellas 8
+T13-S7-4: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_061]
-Chico eléctrico
+T13-S7-5: Chico eléctrico
 
 [S13_MEMORY_LEVEL_NAME_062]
-Chico eléctrico II
+T13-S7-6: Chico eléctrico II
 
 [S13_MEMORY_LEVEL_NAME_063]
-Chico eléctrico III
+T13-S7-7: Chico eléctrico III
 
 [S13_MEMORY_LEVEL_NAME_064]
-La élite electrizante
+T13-S7-8: Batalla de élite
 
 [S14_MEMORY_LEVEL_NAME_001]
-De reflejo en reflejo
+T14-S1-1: De reflejo en reflejo
 
 [S14_MEMORY_LEVEL_NAME_001_H]
-Demonio de la arena
+T14-D-01: Demonio de la arena
 
 [S14_MEMORY_LEVEL_NAME_002]
-De reflejo en reflejo II
+T14-S1-2: De reflejo en reflejo II
 
 [S14_MEMORY_LEVEL_NAME_002_H]
-Libre como el viento
+T14-D-02: Libre como el viento
 
 [S14_MEMORY_LEVEL_NAME_003]
-De reflejo en reflejo III
+T14-S1-3: De reflejo en reflejo III
 
 [S14_MEMORY_LEVEL_NAME_003_H]
-Maestros del cambio
+T14-D-03: Maestros del cambio
 
 [S14_MEMORY_LEVEL_NAME_004]
-La Bolera
+T14-S1-4: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_004_H]
-La Bolera
+T14-D-04: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_005]
-Vuelve el escudo electromagnético
+T14-S1-5: Vuelve el electro-escudo
 
 [S14_MEMORY_LEVEL_NAME_005_H]
-Espejo divertido
+T14-D-05: Espejo divertido
 
 [S14_MEMORY_LEVEL_NAME_006]
-Vuelve el escudo electromagnético II
+T14-S1-6: Vuelve el electro-escudo II
 
 [S14_MEMORY_LEVEL_NAME_006_H]
-Reflejo de muerte
+T14-D-06: Reflejo de muerte
 
 [S14_MEMORY_LEVEL_NAME_007]
-Vuelve el escudo electromagnético III
+T14-S1-7: Vuelve el electro-escudo III
 
 [S14_MEMORY_LEVEL_NAME_007_H]
-Reflexión y refracción
+T14-D-07: Reflexión y refracción
 
 [S14_MEMORY_LEVEL_NAME_008]
-La élite y su retorno
+T14-S1-8: Batalla de élite
 
 [S14_MEMORY_LEVEL_NAME_008_H]
-Espejos y tarros
+T14-D-08: Espejos y tarros
 
 [S14_MEMORY_LEVEL_NAME_009]
-Transformación científica
+T14-S2-1: Progreso
 
 [S14_MEMORY_LEVEL_NAME_009_H]
-Jaula rota
+T14-D-09: Jaula rota
 
 [S14_MEMORY_LEVEL_NAME_010]
-Transformación científica II
+T14-S2-2: Progreso II
 
 [S14_MEMORY_LEVEL_NAME_010_H]
-Más gallinas y comadrejas
+T14-D-10: Más gallinas y comadrejas
 
 [S14_MEMORY_LEVEL_NAME_011]
-Transformación científica III
+T14-S2-3: Progreso III
 
 [S14_MEMORY_LEVEL_NAME_011_H]
-Risa de gigante
+T14-D-11: Risa maléfica
 
 [S14_MEMORY_LEVEL_NAME_012]
-La Bolera 2
+T14-S2-4: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_012_H]
-La Bolera 2
+T14-D-12: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_013]
-Burbujas voladoras
+T14-S2-5: Lluvia de jabón
 
 [S14_MEMORY_LEVEL_NAME_013_H]
-Caminata matutina
+T14-D-13: Caminata matutina
 
 [S14_MEMORY_LEVEL_NAME_014]
-Burbujas voladoras II
+T14-S2-6: Lluvia de jabón II
 
 [S14_MEMORY_LEVEL_NAME_014_H]
-Comienzo cómico
+T14-D-14: Comenzando con el pie izquierdo
 
 [S14_MEMORY_LEVEL_NAME_015]
-Burbujas voladoras III
+T14-S2-7: Lluvia de jabón III
 
 [S14_MEMORY_LEVEL_NAME_015_H]
-Final trágico
+T14-D-15: Final trágico
 
 [S14_MEMORY_LEVEL_NAME_016]
-La élite entre vuelos
+T14-S2-8: Batalla de élite
 
 [S14_MEMORY_LEVEL_NAME_016_H]
-¡Ding dong!
+T14-D-16: ¡Ding dong!
 
 [S14_MEMORY_LEVEL_NAME_017]
-Tormenta de nieve
+T14-S3-1: Tormenta de nieve
 
 [S14_MEMORY_LEVEL_NAME_018]
-Tormenta de nieve II
+T14-S3-2: Tormenta de nieve II
 
 [S14_MEMORY_LEVEL_NAME_019]
-Tormenta de nieve III
+T14-S3-3: Tormenta de nieve III
 
 [S14_MEMORY_LEVEL_NAME_020]
-La Bolera 3
+T14-S3-4: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_021]
-Resortes potentes
+T14-S3-5: Resortes potentes
 
 [S14_MEMORY_LEVEL_NAME_022]
-Resortes potentes II
+T14-S3-6: Resortes potentes II
 
 [S14_MEMORY_LEVEL_NAME_023]
-Resortes potentes III
+T14-S3-7: Resortes potentes III
 
 [S14_MEMORY_LEVEL_NAME_024]
-La élite potente
+T14-S3-8: Batalla de élite
 
 [S14_MEMORY_LEVEL_NAME_025]
-Generación tras generación
+T14-S4-1: Generación tras generación
 
 [S14_MEMORY_LEVEL_NAME_026]
-Generación tras generación II
+T14-S4-2: Generación tras generación II
 
 [S14_MEMORY_LEVEL_NAME_027]
-Generación tras generación III
+T14-S4-3: Generación tras generación III
 
 [S14_MEMORY_LEVEL_NAME_028]
-La Bolera 4
+T14-S4-4: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_029]
-Clima desordenado
+T14-S4-5: Clima desordenado
 
 [S14_MEMORY_LEVEL_NAME_030]
-Clima desordenado II
+T14-S4-6: Clima desordenado II
 
 [S14_MEMORY_LEVEL_NAME_031]
-Clima desordenado III
+T14-S4-7: Clima desordenado III
 
 [S14_MEMORY_LEVEL_NAME_032]
-La élite desordenada
+T14-S4-8: Batalla de élite
 
 [S14_MEMORY_LEVEL_NAME_033]
-Avance imparable
+T14-S5-1: Avance imparable
 
 [S14_MEMORY_LEVEL_NAME_034]
-Avance imparable II
+T14-S5-2: Avance imparable II
 
 [S14_MEMORY_LEVEL_NAME_035]
-Avance imparable III
+T14-S5-3: Avance imparable III
 
 [S14_MEMORY_LEVEL_NAME_036]
-La Bolera 5
+T14-S5-4: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_037]
-Corriendo bajo la arena
+T14-S5-5: Corriendo bajo la arena
 
 [S14_MEMORY_LEVEL_NAME_038]
-Corriendo bajo la arena II
+T14-S5-6: Corriendo bajo la arena II
 
 [S14_MEMORY_LEVEL_NAME_039]
-Corriendo bajo la arena III
+T14-S5-7: Corriendo bajo la arena III
 
 [S14_MEMORY_LEVEL_NAME_040]
-Escapando de la élite
+T14-S5-8: Batalla de élite
 
 [S14_MEMORY_LEVEL_NAME_041]
-Tecnología de punta
+T14-S6-1: Tecnología de punta
 
 [S14_MEMORY_LEVEL_NAME_042]
-Tecnología de punta II
+T14-S6-2: Tecnología de punta II
 
 [S14_MEMORY_LEVEL_NAME_043]
-Tecnología de punta III
+T14-S6-3: Tecnología de punta III
 
 [S14_MEMORY_LEVEL_NAME_044]
-La Bolera 6
+T14-S6-4: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_045]
-Ladrillos voladores
+T14-S6-5: Ladrillos voladores
 
 [S14_MEMORY_LEVEL_NAME_046]
-Ladrillos voladores II
+T14-S6-6: Ladrillos voladores II
 
 [S14_MEMORY_LEVEL_NAME_047]
-Ladrillos voladores III
+T14-S6-7: Ladrillos voladores III
 
 [S14_MEMORY_LEVEL_NAME_048]
-La dura élite
+T14-S6-8: Batalla de élite
 
 [S14_MEMORY_LEVEL_NAME_049]
-Cielo polvoriento
+T14-S7-1: Cielo polvoriento
 
 [S14_MEMORY_LEVEL_NAME_050]
-Cielo polvoriento II
+T14-S7-2: Cielo polvoriento II
 
 [S14_MEMORY_LEVEL_NAME_051]
-Cielo polvoriento III
+T14-S7-3: Cielo polvoriento III
 
 [S14_MEMORY_LEVEL_NAME_052]
-La Bolera 7
+T14-S7-4: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_053]
-Visitantes del otro lado
+T14-S7-5: Visitantes del otro lado
 
 [S14_MEMORY_LEVEL_NAME_054]
-Visitantes del otro lado II
+T14-S7-6: Visitantes del otro lado II
 
 [S14_MEMORY_LEVEL_NAME_055]
-Visitantes del otro lado III
+T14-S7-7: Visitantes del otro lado III
 
 [S14_MEMORY_LEVEL_NAME_056]
-Visitantes de la élite
+T14-S7-8: Batalla de élite
 
 [S14_MEMORY_LEVEL_NAME_057]
-Agentes conservantes
+T14-S8-1: Agentes conservantes
 
 [S14_MEMORY_LEVEL_NAME_058]
-Agentes conservantes II
+T14-S8-2: Agentes conservantes II
 
 [S14_MEMORY_LEVEL_NAME_059]
-Agentes conservantes III
+T14-S8-3: Agentes conservantes III
 
 [S14_MEMORY_LEVEL_NAME_060]
-La Bolera 8
+T14-S8-4: La Bolera
 
 [S14_MEMORY_LEVEL_NAME_061]
-Escarcha en el cielo
+T14-S8-5: Escarcha en el cielo
 
 [S14_MEMORY_LEVEL_NAME_062]
-Escarcha en el cielo II
+T14-S8-6: Escarcha en el cielo II
 
 [S14_MEMORY_LEVEL_NAME_063]
-Escarcha en el cielo III
+T14-S8-7: Escarcha en el cielo III
 
 [S14_MEMORY_LEVEL_NAME_064]
-La élite escarchada
+T14-S8-8: Batalla de élite
 
 [S15_MEMORY_LEVEL_NAME_001]
-Zombis inhumanos
+T15-S1-1: Zombis inhumanos
 
 [S15_MEMORY_LEVEL_NAME_001_H]
-Pollo explosivo
+T15-D-01: Pollo explosivo
 
 [S15_MEMORY_LEVEL_NAME_002]
-Zombis inhumanos II
+T15-S1-2: Zombis inhumanos II
 
 [S15_MEMORY_LEVEL_NAME_002_H]
-Flujo de acero
+T15-D-02: Flujo de acero
 
 [S15_MEMORY_LEVEL_NAME_003]
-Zombis inhumanos III
+T15-S1-3: Zombis inhumanos III
 
 [S15_MEMORY_LEVEL_NAME_003_H]
-Colaboración tanque-paso
+T15-D-03: Peso pesado
 
 [S15_MEMORY_LEVEL_NAME_004]
-La Bolera
+T15-S1-4: La Bolera
 
 [S15_MEMORY_LEVEL_NAME_004_H]
-Viendo las estrellas
+T15-D-04: Viendo las estrellas
 
 [S15_MEMORY_LEVEL_NAME_005]
-Segundo crucial
+T15-S1-4: Segundo crucial
 
 [S15_MEMORY_LEVEL_NAME_005_H]
-Frío glacial
+T15-D-05: Frío glacial
 
 [S15_MEMORY_LEVEL_NAME_006]
-Segundo crucial II
+T15-S1-6: Segundo crucial II
 
 [S15_MEMORY_LEVEL_NAME_006_H]
-Revolución industrial
+T15-D-06: Revolución industrial
 
 [S15_MEMORY_LEVEL_NAME_007]
-Segundo crucial III
+T15-S1-7: Segundo crucial III
 
 [S15_MEMORY_LEVEL_NAME_007_H]
-Aires de nobleza
+T15-D-07: Aires de nobleza
 
 [S15_MEMORY_LEVEL_NAME_008]
-La élite y su plan crucial
+T15-S1-8: Batalla de élite
 
 [S15_MEMORY_LEVEL_NAME_008_H]
-Espíritu pionero
+T15-D-08: Espíritu pionero
 
 [S15_MEMORY_LEVEL_NAME_009]
-Batalla de Okehazama
+T15-S2-1: Batalla de Okehazama
 
 [S15_MEMORY_LEVEL_NAME_009_H]
-Caballeros de la niebla
+T15-D-09: Caballeros de la niebla
 
 [S15_MEMORY_LEVEL_NAME_010]
-Batalla de Okehazama II
+T15-S2-2: Batalla de Okehazama II
 
 [S15_MEMORY_LEVEL_NAME_010_H]
-Indiana Zombi
+T15-D-10: Indiana Jhonez
 
 [S15_MEMORY_LEVEL_NAME_011]
-Batalla de Okehazama III
+T15-S2-3: Batalla de Okehazama III
 
 [S15_MEMORY_LEVEL_NAME_011_H]
-Rey ancestral
+T15-D-11: Rey ancestral
 
 [S15_MEMORY_LEVEL_NAME_012]
-Ver calabazas
+T15-S2-4: Reto artístico
 
 [S15_MEMORY_LEVEL_NAME_012_H]
-La Bolera
+T15-D-12: La Bolera
 
 [S15_MEMORY_LEVEL_NAME_013]
-Siglo y medio
+T15-S2-5: Siglo y medio
 
 [S15_MEMORY_LEVEL_NAME_013_H]
-Rock pesado
+T15-D-13: Rock pesado
 
 [S15_MEMORY_LEVEL_NAME_014]
-Siglo y medio II
+T15-S2-6: Siglo y medio II
 
 [S15_MEMORY_LEVEL_NAME_014_H]
-Juego de Poseidón
+T15-D-14: Decatlón
 
 [S15_MEMORY_LEVEL_NAME_015]
-Siglo y medio III
+T15-S2-7: Siglo y medio III
 
 [S15_MEMORY_LEVEL_NAME_015_H]
-Poder zombi
+T15-D-15: Poder zombi
 
 [S15_MEMORY_LEVEL_NAME_016]
-La élite y sus años
+T15-S2-8: Batalla de élite
 
 [S15_MEMORY_LEVEL_NAME_016_H]
-Relámpago al amanecer
+T15-D-16: Operación relámpago
 
 [S15_MEMORY_LEVEL_NAME_017]
-Sueño lúcido
+T15-S3-1: Sueño lúcido
 
 [S15_MEMORY_LEVEL_NAME_018]
-Sueño lúcido II
+T15-S3-2: Sueño lúcido II
 
 [S15_MEMORY_LEVEL_NAME_019]
-Sueño lúcido III
+T15-S3-3: Sueño lúcido III
 
 [S15_MEMORY_LEVEL_NAME_020]
-La Bolera 2
+T15-S3-4: La Bolera
 
 [S15_MEMORY_LEVEL_NAME_021]
-Viento inconstante
+T15-S3-5: Viento inconstante
 
 [S15_MEMORY_LEVEL_NAME_022]
-Viento inconstante II
+T15-S3-6: Viento inconstante II
 
 [S15_MEMORY_LEVEL_NAME_023]
-Viento inconstante III
+T15-S3-7: Viento inconstante III
 
 [S15_MEMORY_LEVEL_NAME_024]
-La élite es constante
+T15-S3-8: Batalla de élite
 
 [S15_MEMORY_LEVEL_NAME_025]
-Escapando de la muerte
+T15-S4-1: Escapando de la muerte
 
 [S15_MEMORY_LEVEL_NAME_026]
-Escapando de la muerte II
+T15-S4-2: Escapando de la muerte II
 
 [S15_MEMORY_LEVEL_NAME_027]
-Escapando de la muerte III
+T15-S4-3: Escapando de la muerte III
 
 [S15_MEMORY_LEVEL_NAME_028]
-Viendo las estrellas
+T15-S4-4: Viendo las estrellas
 
 [S15_MEMORY_LEVEL_NAME_029]
-Asunto de vida o muerte
+T15-S4-5: Asunto de vida o muerte
 
 [S15_MEMORY_LEVEL_NAME_030]
-Asunto de vida o muerte II
+T15-S4-6: Asunto de vida o muerte II
 
 [S15_MEMORY_LEVEL_NAME_031]
-Asunto de vida o muerte III
+T15-S4-7: Asunto de vida o muerte III
 
 [S15_MEMORY_LEVEL_NAME_032]
-Asuntos de la élite
+T15-S4-8: Batalla de élite
 
 [S15_MEMORY_LEVEL_NAME_033]
-Mundo en caos
+T15-S5-1: Mundo en caos
 
 [S15_MEMORY_LEVEL_NAME_034]
-Mundo en caos II
+T15-S5-2: Mundo en caos II
 
 [S15_MEMORY_LEVEL_NAME_035]
-Mundo en caos III
+T15-S5-3: Mundo en caos III
 
 [S15_MEMORY_LEVEL_NAME_036]
-La Bolera 3
+T15-S5-4: La Bolera
 
 [S15_MEMORY_LEVEL_NAME_037]
-Tierra firme
+T15-S5-5: Tierra firme
 
 [S15_MEMORY_LEVEL_NAME_038]
-Tierra firme II
+T15-S5-6: Tierra firme II
 
 [S15_MEMORY_LEVEL_NAME_039]
-Tierra firme III
+T15-S5-7: Tierra firme III
 
 [S15_MEMORY_LEVEL_NAME_040]
-La élite se mantiene firme
+T15-S5-8: Batalla de élite
 
 [S15_MEMORY_LEVEL_NAME_041]
-Pararrayos
+T15-S6-1: Pararrayos
 
 [S15_MEMORY_LEVEL_NAME_042]
-Pararrayos II
+T15-S6-2: Pararrayos II
 
 [S15_MEMORY_LEVEL_NAME_043]
-Pararrayos III
+T15-S6-3: Pararrayos III
 
 [S15_MEMORY_LEVEL_NAME_044]
-Viendo las estrellas 2
+T15-S6-4: Viendo las estrellas
 
 [S15_MEMORY_LEVEL_NAME_045]
-Lluvia y truenos
+T15-S6-5: Lluvia y truenos
 
 [S15_MEMORY_LEVEL_NAME_046]
-Lluvia y truenos II
+T15-S6-6: Lluvia y truenos II
 
 [S15_MEMORY_LEVEL_NAME_047]
-Lluvia y truenos III
+T15-S6-7: Lluvia y truenos III
 
 [S15_MEMORY_LEVEL_NAME_048]
-Lluvia, truenos y la élite
+T15-S6-8: Batalla de élite
 
 [S15_MEMORY_LEVEL_NAME_049]
-Salto temporal
+T15-S7-1: Salto temporal
 
 [S15_MEMORY_LEVEL_NAME_050]
-Salto temporal II
+T15-S7-2: Salto temporal II
 
 [S15_MEMORY_LEVEL_NAME_051]
-Salto temporal III
+T15-S7-3: Salto temporal III
 
 [S15_MEMORY_LEVEL_NAME_052]
-La Bolera 3
+T15-S7-4: La Bolera
 
 [S15_MEMORY_LEVEL_NAME_053]
-Malditos saltarines
+T15-S7-5: Competencia de saltos
 
 [S15_MEMORY_LEVEL_NAME_054]
-Malditos saltarines II
+T15-S7-6: Competencia de saltos II
 
 [S15_MEMORY_LEVEL_NAME_055]
-Malditos saltarines III
+T15-S7-7: Competencia de saltos III
 
 [S15_MEMORY_LEVEL_NAME_056]
-La élite entre brincos
+T15-S7-8: Batalla de élite
 
 [S15_MEMORY_LEVEL_NAME_057]
-Mundo al revés
+T15-S8-1: Mundo al revés
 
 [S15_MEMORY_LEVEL_NAME_058]
-Mundo al revés II
+T15-S8-2: Mundo al revés II
 
 [S15_MEMORY_LEVEL_NAME_059]
-Mundo al revés III
+T15-S8-3: Mundo al revés III
 
 [S15_MEMORY_LEVEL_NAME_060]
-Viendo las estrellas 3
+T15-S8-4: Viendo las estrellas
 
 [S15_MEMORY_LEVEL_NAME_061]
-Tormenta de nieve
+T15-S8-5: Tormenta de nieve
 
 [S15_MEMORY_LEVEL_NAME_062]
-Tormenta de nieve II
+T15-S8-6: Tormenta de nieve II
 
 [S15_MEMORY_LEVEL_NAME_063]
-Tormenta de nieve III
+T15-S8-7: Tormenta de nieve III
 
 [S15_MEMORY_LEVEL_NAME_064]
-La élite viene hostil
+T15-S8-8: Batalla de élite
 
 [S23_MEMORY_LEVEL_NAME_01]
-Los Vengadores
+T23-S1-1: Liga de héroes
 
 [S23_MEMORY_LEVEL_NAME_02]
-Caos en el Patio Trasero
+T23-S1-2: Caos en el patio trasero
 
 [S23_MEMORY_LEVEL_NAME_03]
-Plantas vs fauna
+T23-S1-3: Plantas vs fauna
 
 [S23_MEMORY_LEVEL_NAME_05]
-Solo en casa
+T23-S1-5: Solo en casa
 
 [S23_MEMORY_LEVEL_NAME_06]
-Fuego superior
+T23-S1-6: Fuego superior
 
 [S23_MEMORY_LEVEL_NAME_07]
-Universo #1
+T23-S1-7: Universo #1
 
 [S23_MEMORY_LEVEL_NAME_08]
-Contra el viento
+T23-S1-8: Contra el viento
 
 [S23_MEMORY_LEVEL_NAME_09]
-Juego sucio
+T23-S2-1: Juego sucio
 
 [S23_MEMORY_LEVEL_NAME_10]
-Ruedas rodantes
+T23-S2-2: Ruedas rodantes
 
 [S23_MEMORY_LEVEL_NAME_11]
-Guerra relámpago
+T23-S2-3: Guerra relámpago
 
 [S23_MEMORY_LEVEL_NAME_13]
-PvZ: Sin camino a casa
+T23-S2-5: PvZ: Sin camino a casa
 
 [S23_MEMORY_LEVEL_NAME_14]
-Trabajador honorable
+T23-S2-6: Trabajador humilde
 
 [S23_MEMORY_LEVEL_NAME_15]
-Camellos veloces
+T23-S2-7: Camellos veloces
 
 [S23_MEMORY_LEVEL_NAME_16]
-Pareja por accidente
+T23-S2-8: Pareja por accidente
 
 [S24_MEMORY_LEVEL_NAME_1]
-Contaminación industrial
+T24-D-01: Contaminación industrial
 
 [S24_MEMORY_LEVEL_NAME_2]
-Carro de asedio
+T24-D-02: Carro de asedio
 
 [S24_MEMORY_LEVEL_NAME_3]
-Veganos vs Zombis
+T24-D-03: Veganos vs Zombis
 
 [S24_MEMORY_LEVEL_NAME_4]
-Solo contra todos
+T24-D-04: Solo contra todos
 
 [S24_MEMORY_LEVEL_NAME_5]
-Batalla relámpago
+T24-D-05: Batalla campal
 
 [S24_MEMORY_LEVEL_NAME_6]
-Duelo en pareja
+T24-D-06: Duelo a muerte
 
 [S24_MEMORY_LEVEL_NAME_7]
-Rueda de diablillos
+T24-D-07: Zombiditos escurridizos
 
 [S24_MEMORY_LEVEL_NAME_8]
-La élite infernal
+T24-D-08: Batalla de élite
 
 [S24_MEMORY_LEVEL_NAME_9]
-Dimensión del Recuerdo - Nivel 9: difícil
+Dimensión del Recuerdo - Nivel 9 (Difícil)
 
 [S24_MEMORY_LEVEL_NAME_10]
-Dimensión del Recuerdo - Nivel 10: difícil
+Dimensión del Recuerdo - Nivel 10 (Difícil)
 
 [S24_MEMORY_LEVEL_NAME_11]
-Dimensión del Recuerdo - Nivel 11: difícil
+Dimensión del Recuerdo - Nivel 11 (Difícil)
 
 [S24_MEMORY_LEVEL_NAME_12]
-Dimensión del Recuerdo - Nivel 12: difícil
+Dimensión del Recuerdo - Nivel 12 (Difícil)
 
 [S24_MEMORY_LEVEL_NAME_13]
-Transacción cancelada
+T24-D-09: Transacción cancelada
 
 [S24_MEMORY_LEVEL_NAME_14]
-Slime terrorífico
+T24-D-10: Slime terrorífico
 
 [S24_MEMORY_LEVEL_NAME_15]
-Viendo las estrellas
+T24-D-11: Viendo las estrellas
 
 [S24_MEMORY_LEVEL_NAME_16]
-Estrellas de élite
+T24-D-12: Batalla de élite
 
 [S25_MEMORY_LEVEL_NAME_1]
-Cuerpo del vacío
+T25-D-01: Cuerpo macizo
 
 [S25_MEMORY_LEVEL_NAME_001]
-Flanqueando
+T25-S1-1: Flanqueando
 
 [S25_MEMORY_LEVEL_NAME_2]
-Núcleo elemental
+T25-D-02: Núcleo elemental
 
 [S25_MEMORY_LEVEL_NAME_002]
-Cuerpo y alma
+T25-S1-2: Cuerpo y alma
 
 [S25_MEMORY_LEVEL_NAME_3]
-Fuentes de energía
+T25-D-03: Fuentes de energía
 
 [S25_MEMORY_LEVEL_NAME_003]
-Plan de migración
+T25-S1-3: Plan de escape
 
 [S25_MEMORY_LEVEL_NAME_4]
-Espíritu sabio
+T25-D-04: Espíritu sabio
 
 [S25_MEMORY_LEVEL_NAME_004]
-Éxodo mecánico
+T25-S1-4: Meca letal
 
 [S25_MEMORY_LEVEL_NAME_5]
-Aliento de vida
+T25-D-05: Aliento de vida
 
 [S25_MEMORY_LEVEL_NAME_005]
-Interrupción forzada
+T25-S1-5: Pausa forzada
 
 [S25_MEMORY_LEVEL_NAME_6]
-Espejo del Renacimiento
+T25-D-06: Los Renacidos
 
 [S25_MEMORY_LEVEL_NAME_006]
-Ayuda en la nieve
+T25-S1-6: Nieve exhorbitante
 
 [S25_MEMORY_LEVEL_NAME_7]
-Monolitos eternos
+T25-D-07: Monolitos eternos
 
 [S25_MEMORY_LEVEL_NAME_007]
-Invasión romana
+T25-S1-7: Invasión romana
 
 [S25_MEMORY_LEVEL_NAME_8]
-Luz sagrada
+T25-D-08: Luz sagrada
 
 [S25_MEMORY_LEVEL_NAME_008]
-Césped cortado
+T25-S1-8: Césped cortado
 
 [S25_MEMORY_LEVEL_NAME_9]
-Rock young
+T25-D-09: Rock young
 
 [S25_MEMORY_LEVEL_NAME_009]
-Frente de batalla
+T25-S2-1: Frente de batalla
 
 [S25_MEMORY_LEVEL_NAME_10]
-Ilusión del Réquiem
+T25-D-10: Ilusión
 
 [S25_MEMORY_LEVEL_NAME_010]
-Casillas impares
+T25-S2-2: Casillas impares
 
 [S25_MEMORY_LEVEL_NAME_11]
-Derrota humillante
+T25-D-11: Derrota humillante
 
 [S25_MEMORY_LEVEL_NAME_011]
-H. I. E. L. O
+T25-S2-3: Frialdad
 
 [S25_MEMORY_LEVEL_NAME_12]
-Ardor inflamable
+T25-D-12: Sustancia inflamable
 
 [S25_MEMORY_LEVEL_NAME_012]
-Deslizamiento de tierra
+T25-S2-4: Deslizamiento de tierra
 
 [S25_MEMORY_LEVEL_NAME_13]
-Crepúsculo nevado
+T25-D-13: Crepúsculo
 
 [S25_MEMORY_LEVEL_NAME_013]
-Mundo animal
+T25-S2-5: Reino animal
 
 [S25_MEMORY_LEVEL_NAME_14]
-Noche plácida
+T25-D-14: Noche intranquila
 
 [S25_MEMORY_LEVEL_NAME_014]
-Guerra por recursos
+T25-S2-6: Guerra por recursos
 
 [S25_MEMORY_LEVEL_NAME_15]
-Insomnio
+T25-D-15: Insomnio
 
 [S25_MEMORY_LEVEL_NAME_015]
-Niñéz persistente
+T25-S2-7: Niñéz inocente
 
 [S25_MEMORY_LEVEL_NAME_16]
-Ascensión divina
+T25-D-16: Ascensión divina
 
 [S25_MEMORY_LEVEL_NAME_016]
-Noche cálida
+T25-S2-8: Noche cálida
 
 [S25_MEMORY_LEVEL_NAME_017]
-Verano refrescante
+T25-S3-1: Verano refrescante
 
 [S25_MEMORY_LEVEL_NAME_018]
-¡Piratas al ataque!
+T25-S3-2: ¡Piratas al ataque!
 
 [S25_MEMORY_LEVEL_NAME_019]
-Batalla acuática
+T25-S3-3: Batalla acuática
 
 [S25_MEMORY_LEVEL_NAME_020]
-Pequeños pero matones
+T25-S3-4: Pequeños pero matones
 
 [S25_MEMORY_LEVEL_NAME_021]
-Inicia el verano
+T25-S3-5: Inicia el verano
 
 [S25_MEMORY_LEVEL_NAME_022]
-Rock feliz
+T25-S3-6: Rock suave
 
 [S25_MEMORY_LEVEL_NAME_023]
-Pasión desbordante
+T25-S3-7: Pasión desbordante
 
 [S25_MEMORY_LEVEL_NAME_024]
-Bestia gigante
+T25-S3-8: Bestia gigante
 
 [S25_MEMORY_LEVEL_NAME_025]
-Lado a lado
+T25-S4-1: Lado a lado
 
 [S25_MEMORY_LEVEL_NAME_026]
-Calabaza a la vista
+T25-S4-2: Calabaza a la vista
 
 [S25_MEMORY_LEVEL_NAME_027]
-Arrasando todo
+T25-S4-3: Arrasando todo
 
 [S25_MEMORY_LEVEL_NAME_028]
-Fragmentos de paz
+T25-S4-4: Fragmentos de paz
 
 [S25_MEMORY_LEVEL_NAME_029]
-Rock violento
+T25-S4-5: Rock violento
 
 [S25_MEMORY_LEVEL_NAME_030]
-Laberinto de plantas
+T25-S4-6: Unión verde
 
 [S25_MEMORY_LEVEL_NAME_031]
-Precisión precisa
+T25-S4-7: Precisión precisa
 
 [S25_MEMORY_LEVEL_NAME_032]
-Martillos salvajes
+T25-S4-8: Mano dura
 
 [S25_MEMORY_LEVEL_NAME_033]
-Sigilo innotable
+T25-S5-1: Sigilo innotable
 
 [S25_MEMORY_LEVEL_NAME_034]
-Espada y escudo
+T25-S5-2: Espada y escudo
 
 [S25_MEMORY_LEVEL_NAME_035]
-Imparable
+T25-S5-3: Imparable
 
 [S25_MEMORY_LEVEL_NAME_036]
-Pollos y conejos
+T25-S5-4: Pollos y conejos
 
 [S25_MEMORY_LEVEL_NAME_037]
-Nieve en verano
+T25-S5-5: Nieve en verano
 
 [S25_MEMORY_LEVEL_NAME_038]
-Regreso del glaciar
+T25-S5-6: Regreso del glaciar
 
 [S25_MEMORY_LEVEL_NAME_039]
-Viento del Norte
+T25-S5-7: Viento del Norte
 
 [S25_MEMORY_LEVEL_NAME_040]
-Ríos helados
+T25-S5-8: Ríos helados
 
 [S25_MEMORY_LEVEL_NAME_041]
-V ó F
+T25-S6-1: V ó F
 
 [S25_MEMORY_LEVEL_NAME_042]
-Examen de magia
+T25-S6-2: Examen de magia
 
 [S25_MEMORY_LEVEL_NAME_043]
-Caballero y pianista
+T25-S6-3: Caballero y pianista
 
 [S25_MEMORY_LEVEL_NAME_044]
-Luz y calaveras
+T25-S6-4: Luz y calaveras
 
 [S25_MEMORY_LEVEL_NAME_045]
-Honor del caballero
+T25-S6-5: Hombre gentil
 
 [S25_MEMORY_LEVEL_NAME_046]
-Rompiendo cadenas
+T25-S6-6: Rompiendo cadenas
 
 [S25_MEMORY_LEVEL_NAME_047]
-Música y tecnología
+T25-S6-7: Música tecno
 
 [S25_MEMORY_LEVEL_NAME_048]
-Ejecución final
+T25-S6-8: Ejecución final
 
 [S25_MEMORY_LEVEL_NAME_049]
-Rayo
+T25-S7-1: Rayo
 
 [S25_MEMORY_LEVEL_NAME_050]
-Trueno
+T25-S7-2: Trueno
 
 [S25_MEMORY_LEVEL_NAME_051]
-Ataque relámpago
+T25-S7-3: Ataque relámpago
 
 [S25_MEMORY_LEVEL_NAME_052]
-Grieta celestial
+T25-S7-4: Grieta celestial
 
 [S25_MEMORY_LEVEL_NAME_053]
-Creación divina
+T25-S7-5: Creación divina
 
 [S25_MEMORY_LEVEL_NAME_054]
-De rodillas
+T25-S7-6: De rodillas
 
 [S25_MEMORY_LEVEL_NAME_055]
-Estallido cremoso
+T25-S7-7: Estallido cremoso
 
 [S25_MEMORY_LEVEL_NAME_056]
-Regreso de los Dioses
+T25-S7-8: Regreso de los dioses
 
 [S25_MEMORY_LEVEL_NAME_057]
-Guerra civil
+T25-S8-1: Guerra civil
 
 [S25_MEMORY_LEVEL_NAME_058]
-Lluvia de guisantes
+T25-S8-2: Lluvia de guisantes
 
 [S25_MEMORY_LEVEL_NAME_059]
-Portal temporal
+T25-S8-3: Portal temporal
 
 [S25_MEMORY_LEVEL_NAME_060]
-Regreso en dúo
+T25-S8-4: Pareja mortal
 
 [S25_MEMORY_LEVEL_NAME_061]
-El arte del injerto
+T25-S8-5: El arte del injerto
 
 [S25_MEMORY_LEVEL_NAME_062]
-Zona de esquí
+T25-S8-6: Zona de esquí
 
 [S25_MEMORY_LEVEL_NAME_063]
-Huida imparable
+T25-S8-7: Huida
 
 [S25_MEMORY_LEVEL_NAME_064]
-Tormenta glacial
+T25-S8-8: Tormenta glacial
 
 [S26_MEMORY_LEVEL_NAME_1]
-T26-1: Tormenta roja
+T26-D-01: Tormenta roja
 
 [S26_MEMORY_LEVEL_NAME_001]
-T26-1: Césped fresco
+T26-S1-1: Césped fresco
 
 [S26_MEMORY_LEVEL_NAME_2]
-T26-2: Guardián del abismo
+T26-D-02: Guardián del abismo
 
 [S26_MEMORY_LEVEL_NAME_002]
-T26-2: Noche estrellada
+T26-S1-2: Noche estrellada
 
 [S26_MEMORY_LEVEL_NAME_3]
-T26-3: Guardacostas
+T26-D-03: Guardacostas
 
 [S26_MEMORY_LEVEL_NAME_003]
-T26-3: Ondas azules
+T26-S1-3: Azul infinito
 
 [S26_MEMORY_LEVEL_NAME_4]
-T26-4: Alianza imparable
+T26-D-04: Alianza imparable
 
 [S26_MEMORY_LEVEL_NAME_004]
-T26-4: Defensa definitiva
+T26-S1-4: Defensa definitiva
 
 [S26_MEMORY_LEVEL_NAME_5]
-T26-5: Asalto salvaje
+T26-D-05: Asalto salvaje
 
 [S26_MEMORY_LEVEL_NAME_005]
-T26-5: Torre fantasma
+T26-S1-5: Torre fantasma
 
 [S26_MEMORY_LEVEL_NAME_6]
-T26-6: Fortaleza mecánica
+T26-D-06: Fortaleza mecánica
 
 [S26_MEMORY_LEVEL_NAME_006]
-T26-6: Tormenta violenta
+T26-S1-6: Tormenta violenta
 
 [S26_MEMORY_LEVEL_NAME_7]
-T26-7: Deshielo
+T26-D-07: Deshielo
 
 [S26_MEMORY_LEVEL_NAME_007]
-T26-7: Techo elevado
+T26-S1-7: Techo elevado
 
 [S26_MEMORY_LEVEL_NAME_8]
-T26-8: Viento y truenos
+T26-D-08: Viento y truenos
 
 [S26_MEMORY_LEVEL_NAME_008]
-T26-8: Batalla en la cima
+T26-S1-8: Batalla en la cima
 
 [S26_MEMORY_LEVEL_NAME_9]
-T26-9: Ciclo natural
+T26-D-09: Ciclo natural
 
 [S26_MEMORY_LEVEL_NAME_009]
-T26-9: Isla brumosa
+T26-S2-1: Isla brumosa
 
 [S26_MEMORY_LEVEL_NAME_10]
-T26-10: Arte explosivo
+T26-D-10: Arte explosivo
 
 [S26_MEMORY_LEVEL_NAME_010]
-T26-10: Sueño dorado
+T26-S2-2: Sueño dorado
 
 [S26_MEMORY_LEVEL_NAME_11]
-T26-11: Operación S.O.L.O
+T26-D-11: Operación secreta
 
 [S26_MEMORY_LEVEL_NAME_011]
-T26-11: Té de flores
+T26-S2-3: Té de flores
 
 [S26_MEMORY_LEVEL_NAME_12]
-T26-12: Golpe directo
+T26-D-12: Golpe directo
 
 [S26_MEMORY_LEVEL_NAME_012]
-T26-12: Bosque antiguo
+T26-S2-4: Bosque antiguo
 
 [S26_MEMORY_LEVEL_NAME_13]
-T26-13: Energía a tope
+T26-D-13: Energía a tope
 
 [S26_MEMORY_LEVEL_NAME_013]
-T26-13: Espada fría
+T26-S2-5: Espada fría
 
 [S26_MEMORY_LEVEL_NAME_14]
-T26-14: Emboscadas
+T26-D-14: Emboscadas
 
 [S26_MEMORY_LEVEL_NAME_014]
-T26-14: Olas infinitas
+T26-S2-6: Olas infinitas
 
 [S26_MEMORY_LEVEL_NAME_15]
-T26-15: Operación S.O.L.O 2
+T26-D-15: Operación secreta 2
 
 [S26_MEMORY_LEVEL_NAME_015]
-T26-15: La luz del arte
+T26-S2-7: La luz del arte
 
 [S26_MEMORY_LEVEL_NAME_16]
-T26-16: Bravura
+T26-D-16: Bravura
 
 [S26_MEMORY_LEVEL_NAME_016]
-T26-16: Ruedas veloces
+T26-S2-8: Ruedas veloces
 
 [S26_MEMORY_LEVEL_NAME_017]
-T26-17: El sueño de Marseta
+T26-S3-1: El sueño de Marseta
 
 [S26_MEMORY_LEVEL_NAME_018]
-T26-18: Competencia de buceo
+T26-S3-2: Competencia de buceo
 
 [S26_MEMORY_LEVEL_NAME_019]
-T26-19: Fiesta de surf
+T26-S3-3: Fiesta de surf
 
 [S26_MEMORY_LEVEL_NAME_020]
-T26-20: Boliche de playa
+T26-S3-4: Boliche de playa
 
 [S26_MEMORY_LEVEL_NAME_021]
-T26-21: Misterio en las profundidades
+T26-S3-5: Lio bajo el mar
 
 [S26_MEMORY_LEVEL_NAME_022]
-T26-22: Regreso de las aves marinas
+T26-S3-6: Aves marinas
 
 [S26_MEMORY_LEVEL_NAME_023]
-T26-23: Legión de pulpos
+T26-S3-7: Kraken
 
 [S26_MEMORY_LEVEL_NAME_024]
-T26-24: Vacaciones de Guisante marino
+T26-S3-8: Vacaciones de Guisante marino
 
 [S26_MEMORY_LEVEL_NAME_025]
-T26-25: Frío como el hielo
+T26-S4-1: Frío y cortante
 
 [S26_MEMORY_LEVEL_NAME_026]
-T26-26: Ardiente como fuego
+T26-S4-2: Ardiente y determinado
 
 [S26_MEMORY_LEVEL_NAME_027]
-T26-27: Capas sin fin
+T26-S4-3: Capas sin fin
 
 [S26_MEMORY_LEVEL_NAME_028]
-T26-28: Mil ilusiones
+T26-S4-4: Mil ilusiones
 
 [S26_MEMORY_LEVEL_NAME_029]
-T26-29: Niebla venenosa
+T26-S4-5: Niebla venenosa
 
 [S26_MEMORY_LEVEL_NAME_030]
-T26-30: Poder del trueno
+T26-S4-6: Poder del trueno
 
 [S26_MEMORY_LEVEL_NAME_031]
-T26-31: Universo infinito
+T26-S4-7: Universo infinito
 
 [S26_MEMORY_LEVEL_NAME_032]
-T26-32: Destellos eléctricos
+T26-S4-8: Chispazo
 
 [S26_MEMORY_LEVEL_NAME_033]
-T26-33: Concierto desatado
+T26-S5-1: Concierto desatado
 
 [S26_MEMORY_LEVEL_NAME_034]
-T26-34: Globos de celebración
+T26-S5-2: Globos de celebración
 
 [S26_MEMORY_LEVEL_NAME_035]
-T26-35: Lluvia de mantequilla
+T26-S5-3: Lluvia de manteca
 
 [S26_MEMORY_LEVEL_NAME_036]
-T26-36: Estrella ángel
+T26-S5-4: Estrella ángel
 
 [S26_MEMORY_LEVEL_NAME_037]
-T26-37: Apoyo frenético
+T26-S5-5: Apoyo frenético
 
 [S26_MEMORY_LEVEL_NAME_038]
-T26-38: Petardos explosivos
+T26-S5-6: Petardos letales
 
 [S26_MEMORY_LEVEL_NAME_039]
-T26-39: Domador de bestias
+T26-S5-7: Domador de bestias
 
 [S26_MEMORY_LEVEL_NAME_040]
-T26-40: Banquete de pasteles
+T26-S5-8: Banquete de pastel
 
 [S26_MEMORY_LEVEL_NAME_041]
-T26-41: Guerra de huevos
+T26-S6-1: Guerra de huevos
 
 [S26_MEMORY_LEVEL_NAME_042]
-T26-42: Llamas desatadas
+T26-S6-2: Llamas desatadas
 
 [S26_MEMORY_LEVEL_NAME_043]
-T26-43: Frente verde
+T26-S6-3: Frente verde
 
 [S26_MEMORY_LEVEL_NAME_044]
-T26-44: Festín de pavo
+T26-S6-4: Festín de pavo
 
 [S26_MEMORY_LEVEL_NAME_045]
-T26-45: Cambio de era
+T26-S6-5: Nueva era
 
 [S26_MEMORY_LEVEL_NAME_046]
-T26-46: Choque láser
+T26-S6-6: Rayo láser
 
 [S26_MEMORY_LEVEL_NAME_047]
-T26-47: Héroe de la Noche
+T26-S6-7: Héroe de la Noche
 
 [S26_MEMORY_LEVEL_NAME_048]
-T26-48: Trueno devastador
+T26-S6-8: Trueno devastador
 
 [S26_MEMORY_LEVEL_NAME_049]
-T26-49: Asalto veloz
+T26-S7-1: Asalto veloz
 
 [S26_MEMORY_LEVEL_NAME_050]
-T26-50: Vuelo silencioso
+T26-S7-2: Vuelo 4-Z-4
 
 [S26_MEMORY_LEVEL_NAME_051]
-T26-51: Amigos y enemigos
+T26-S7-3: Amigos y enemigos
 
 [S26_MEMORY_LEVEL_NAME_052]
-T26-52: Rugido del tirano
+T26-S7-4: Tiranía
 
 [S26_MEMORY_LEVEL_NAME_053]
-T26-53: Salto decisivo
+T26-S7-5: Salto decisivo
 
 [S26_MEMORY_LEVEL_NAME_054]
-T26-54: Coloso imparable
+T26-S7-6: Coloso imparable
 
 [S26_MEMORY_LEVEL_NAME_055]
-T26-55: Nido del dragón
+T26-S7-7: Nido del dragón
 
 [S26_MEMORY_LEVEL_NAME_056]
 T26-S7-8: La PRE-historia
@@ -60740,7 +60727,7 @@ T26-S8-1: Torneo de lanzadores
 T26-S8-2: Crisis de vaba
 
 [S26_MEMORY_LEVEL_NAME_059]
-T26-S8-3: Tierra quebrada
+T26-S8-3: Erosión
 
 [S26_MEMORY_LEVEL_NAME_060]
 T26-S8-4: Fuerza arrasadora
@@ -60788,235 +60775,235 @@ T27-D-01: Cálculo preciso
 T27-S1-1: La Bolera
 
 [S27_MEMORY_LEVEL_NAME_2]
-T27-2: Potencia máxima
+T27-D-02: Potencia máxima
 
 [S27_MEMORY_LEVEL_NAME_002]
-T27-2: Batalla en el césped
+T27-S1-2: Batalla en el césped
 
 [S27_MEMORY_LEVEL_NAME_3]
-T27-3: Contraataque total
+T27-D-03: Contraataque
 
 [S27_MEMORY_LEVEL_NAME_003]
-T27-3: Asalto al cementerio
+T27-S7-3: Asalto al cementerio
 
 [S27_MEMORY_LEVEL_NAME_4]
-T27-4: Marea de mecas
+T27-D-04: Marea de mecas
 
 [S27_MEMORY_LEVEL_NAME_004]
-T27-4: Trabajo nocturno
+T27-S1-4: Trabajo nocturno
 
 [S27_MEMORY_LEVEL_NAME_5]
-T27-5: Asalto a las alturas
+T27-D-05: Asalto a las alturas
 
 [S27_MEMORY_LEVEL_NAME_005]
-T27-5: Rompejarrones del caos
+T27-S1-5: Rompejarrones
 
 [S27_MEMORY_LEVEL_NAME_6]
-T27-6: Simulacro de evacuación
+T27-D-06: Simulacro de evacuación
 
 [S27_MEMORY_LEVEL_NAME_006]
-T27-6: Blitz eléctrico
+T27-S1-6: Blitz eléctrico
 
 [S27_MEMORY_LEVEL_NAME_7]
-T27-7: Energía de reserva
+T27-D-07: Energía de reserva
 
 [S27_MEMORY_LEVEL_NAME_007]
-T27-7: Invasión comecerebros
+T27-S1-7: Invasión comecerebros
 
 [S27_MEMORY_LEVEL_NAME_8]
-T27-8: El más fuerte
+T27-D-08: El más fuerte
 
 [S27_MEMORY_LEVEL_NAME_008]
-T27-8: Carga de baldosas
+T27-S1-8: Carga de baldosas
 
 [S27_MEMORY_LEVEL_NAME_9]
-T27-9: Recuerdos de la Tierra
+T27-D-09: Recuerdos de la Tierra
 
 [S27_MEMORY_LEVEL_NAME_009]
-T27-9: Salto a la cima
+T27-S2-1: Salto a la cima
 
 [S27_MEMORY_LEVEL_NAME_10]
-T27-10: Desplazamiento fantasmal
+T27-D-10: Fantasma
 
 [S27_MEMORY_LEVEL_NAME_010]
-T27-10: Baile saltarín
+T27-S2-2: Bailando y saltando
 
 [S27_MEMORY_LEVEL_NAME_11]
-T27-11: Bosque oscuro
+T27-D-11: Bosque oscuro
 
 [S27_MEMORY_LEVEL_NAME_011]
-T27-11: Noche oscura
+T27-S2-3: Noche oscura
 
 [S27_MEMORY_LEVEL_NAME_12]
-T27-12: Ley del Más Apto
+T27-D-12: Ley del Más Apto
 
 [S27_MEMORY_LEVEL_NAME_012]
-T27-12: Tormenta desatada
+T27-S2-4: Tormenta desatada
 
 [S27_MEMORY_LEVEL_NAME_13]
-T27-13: Muerte e inmortalidad
+T27-D-13: Muertos y no-muertos
 
 [S27_MEMORY_LEVEL_NAME_013]
-T27-13: Temporada de cosecha
+T27-S2-5: Temporada de cosecha
 
 [S27_MEMORY_LEVEL_NAME_14]
-T27-14: Viento y trueno
+T27-D-14: Clima hostil
 
 [S27_MEMORY_LEVEL_NAME_014]
-T27-14: Excursión peligrosa
+T27-S2-6: Excursión peligrosa
 
 [S27_MEMORY_LEVEL_NAME_15]
-T27-15: Sombras en la nieve
+T27-D-15: Nieve plateada
 
 [S27_MEMORY_LEVEL_NAME_015]
-T27-15: Fiesta de brujas
+T27-S2-7: Convento de brujas
 
 [S27_MEMORY_LEVEL_NAME_16]
-T27-16: Noche de terror
+T27-D-16: Noche de terror
 
 [S27_MEMORY_LEVEL_NAME_016]
-T27-16: Gran disfraz
+T27-S2-8: Maestro del disfraz
 
 [S27_MEMORY_LEVEL_NAME_017]
-T27-17: El Necio Ignorante
+T27-S3-1: El Necio Ignorante
 
 [S27_MEMORY_LEVEL_NAME_018]
-T27-18: Magia zombi
+T27-S3-2: Magia zombi
 
 [S27_MEMORY_LEVEL_NAME_019]
-T27-19: Sacerdote misterioso
+T27-S3-3: Sacerdote misterioso
 
 [S27_MEMORY_LEVEL_NAME_020]
-T27-20: Tortuga encogida
+T27-S3-4: A paso de tortuga
 
 [S27_MEMORY_LEVEL_NAME_021]
-T27-21: Poder absoluto
+T27-S3-5: Poder absoluto
 
 [S27_MEMORY_LEVEL_NAME_022]
-T27-22: Carro de guerra
+T27-S3-6: Carro de guerra
 
 [S27_MEMORY_LEVEL_NAME_023]
-T27-23: Sol, luna y estrellas
+T27-S3-7: Astros
 
 [S27_MEMORY_LEVEL_NAME_024]
-T27-24: Emperador supremo
+T27-S3-8: Emperador supremo
 
 [S27_MEMORY_LEVEL_NAME_025]
-T27-25: Hongo cobarde
+T27-S4-1: Seta miédica
 
 [S27_MEMORY_LEVEL_NAME_027]
-T27-27: Dios de la roca
+T27-S4-3: Dios de la roca
 
 [S27_MEMORY_LEVEL_NAME_028]
-T27-28: Majestad imperial
+T27-S4-4: Majestad
 
 [S27_MEMORY_LEVEL_NAME_029]
-T27-29: Frío penetrante
+T27-S4-5: Frío penetrante
 
 [S27_MEMORY_LEVEL_NAME_030]
-T27-30: Sombras y espadas
+T27-S4-6: Sombras y espadas
 
 [S27_MEMORY_LEVEL_NAME_031]
-T27-31: Fuerza desatada
+T27-S4-7: Fuerza desatada
 
 [S27_MEMORY_LEVEL_NAME_032]
-T27-32: Pulso ardiente
+T27-S4-8: Mirada ardiente
 
 [S27_MEMORY_LEVEL_NAME_033]
-T27-33: Simbiosis de guisantes
+T27-S5-1: Simbiosis de guisantes
 
 [S27_MEMORY_LEVEL_NAME_034]
-T27-34: Resplandor total
+T27-S5-2: Resplandor
 
 [S27_MEMORY_LEVEL_NAME_035]
-T27-35: Llamas al cielo
+T27-S5-3: Llamas al cielo
 
 [S27_MEMORY_LEVEL_NAME_036]
-T27-36: Terapia de choque
+T27-S5-4: Terapia de choque
 
 [S27_MEMORY_LEVEL_NAME_037]
-T27-37: Sombra melancólica
+T27-S5-5: Melancolía
 
 [S27_MEMORY_LEVEL_NAME_038]
-T27-38: Piscina móvil
+T27-S5-6: Piscina portátil
 
 [S27_MEMORY_LEVEL_NAME_039]
-T27-39: Veneno letal
+T27-S5-7: Veneno letal
 
 [S27_MEMORY_LEVEL_NAME_040]
-T27-40: Firme como roca
+T27-S5-8: Firme como roca
 
 [S27_MEMORY_LEVEL_NAME_041]
-T27-41: Ataque corporativo
+T27-S6-1: Ataque corporativo
 
 [S27_MEMORY_LEVEL_NAME_042]
-T27-42: Maestro de la Diplomacia
+T27-S6-2: Maestro de la diplomacia
 
 [S27_MEMORY_LEVEL_NAME_043]
-T27-43: Departamento de seguridad
+T27-S6-3: Departamento de seguridad
 
 [S27_MEMORY_LEVEL_NAME_044]
-T27-44: Asalto meca
+T27-S6-4: Asalto meca
 
 [S27_MEMORY_LEVEL_NAME_045]
-T27-45: Actividad de integración
+T27-S6-5: Actividad de integración
 
 [S27_MEMORY_LEVEL_NAME_046]
-T27-46: Cabecín, cabezón
+T27-S6-6: Cabecín, cabezón
 
 [S27_MEMORY_LEVEL_NAME_047]
-T27-47: Creación Z
+T27-S6-7: Creación Z
 
 [S27_MEMORY_LEVEL_NAME_048]
-T27-48: Sueño fugaz
+T27-S6-8: Sueño fugaz
 
 [S27_MEMORY_LEVEL_NAME_049]
-T27-49: Llover para arriba
+T27-S7-1: Llover para arriba
 
 [S27_MEMORY_LEVEL_NAME_050]
-T27-50: Némesis
+T27-S7-2: Némesis
 
 [S27_MEMORY_LEVEL_NAME_051]
-T27-51: Se busca: Zombis
+T27-S7-3: Se busca: Zombis
 
 [S27_MEMORY_LEVEL_NAME_052]
-T27-52: Equilibrio de opuestos
+T27-S7-4: Equilibrio de opuestos
 
 [S27_MEMORY_LEVEL_NAME_053]
-T27-53: Lluvia de meteoros
+T27-S7-5: Lluvia de meteoros
 
 [S27_MEMORY_LEVEL_NAME_054]
-T27-54: Flores y niebla
+T27-S7-6: Flores y niebla
 
 [S27_MEMORY_LEVEL_NAME_055]
-T27-55: Batalla en la playa
+T27-S7-7: Batalla en la playa
 
 [S27_MEMORY_LEVEL_NAME_056]
-T27-56: Tropas caídas
+T27-S7-8: Tropas caídas
 
 [S27_MEMORY_LEVEL_NAME_057]
-T27-57: Estocada helada
+T27-S8-1: Estocada helada
 
 [S27_MEMORY_LEVEL_NAME_058]
-T27-58: Sandía refrigerada
+T27-S8-2: Sandía refrigerada
 
 [S27_MEMORY_LEVEL_NAME_059]
-T27-59: Golpe de escarcha
+T27-S8-3: Golpe de escarcha
 
 [S27_MEMORY_LEVEL_NAME_060]
-T27-60: Pedazos de suerte
+T27-S8-4: Pedazos de suerte
 
 [S27_MEMORY_LEVEL_NAME_061]
-T27-61: Misil de hielo
+T27-S8-5: Misil de hielo
 
 [S27_MEMORY_LEVEL_NAME_062]
-T27-62: Hongo escarchado
+T27-S8-6: Hongo escarchado
 
 [S27_MEMORY_LEVEL_NAME_063]
-T27-63: Aliento helado
+T27-S8-7: Aliento helado
 
 [S27_MEMORY_LEVEL_NAME_064]
-T27-64: Nochebuena
+T27-S8-8: Nochebuena
 
 [S27_MEMORY_LEVEL_NAME_BOSS_1]
 T27-S1: Esfinge letal
@@ -61046,481 +61033,481 @@ T27-S8: Mechasaurio
 T28-D-01: Fisión extrema
 
 [S28_MEMORY_LEVEL_NAME_001]
-T28-S1-01: Arenas eternas
+T28-S1-1: Arenas eternas
 
 [S28_MEMORY_LEVEL_NAME_2]
-T28-2: Tormenta celestial
+T28-D-02: Tormenta celestial
 
 [S28_MEMORY_LEVEL_NAME_002]
-T28-02: Batalla de abordaje
+T28-S1-2: Batalla de abordaje
 
 [S28_MEMORY_LEVEL_NAME_3]
-T28-3: Lluvia meteórica
+T28-D-03: Lluvia meteórica
 
 [S28_MEMORY_LEVEL_NAME_003]
-T28-03: Vagoneta mortal
+T28-S1-3: Vagoneta mortal
 
 [S28_MEMORY_LEVEL_NAME_4]
-T28-4: Gran final
+T28-D-04: Gran final
 
 [S28_MEMORY_LEVEL_NAME_004]
-T28-04: Yo soy planta
+T28-S1-4: Yo, planta
 
 [S28_MEMORY_LEVEL_NAME_5]
-T28-5: Juicio final
+T28-D-05: Juicio final
 
 [S28_MEMORY_LEVEL_NAME_005]
-T28-05: Marea de acero
+T28-S1-5: Marea de acero
 
 [S28_MEMORY_LEVEL_NAME_6]
-T28-6: Congelación total
+T28-D-06: Congelación total
 
 [S28_MEMORY_LEVEL_NAME_006]
-T28-06: Bosque fúngico
+T28-S1-6: Bosque fúngico
 
 [S28_MEMORY_LEVEL_NAME_7]
-T28-7: Bajo los focos
+T28-D-07: Bajo los focos
 
 [S28_MEMORY_LEVEL_NAME_007]
-T28-07: Ruinas perdidas
+T28-S1-7: Ruinas perdidas
 
 [S28_MEMORY_LEVEL_NAME_8]
-T28-8: Gravedad absoluta
+T28-D-08: Gravedad inversa
 
 [S28_MEMORY_LEVEL_NAME_008]
-T28-08: Día y noche
+T28-S1-8: Día y noche
 
 [S28_MEMORY_LEVEL_NAME_9]
-T28-9: Avanza o cae
+T28-D-09: Avanza o cae
 
 [S28_MEMORY_LEVEL_NAME_009]
-T28-09: Natación invernal
+T28-S2-1: Natación invernal
 
 [S28_MEMORY_LEVEL_NAME_10]
-T28-10: Caos visual
+T28-D-10: Caos
 
 [S28_MEMORY_LEVEL_NAME_010]
-T28-10: Aguas azul hielo
+T28-S2-2: Aguas cristalinas
 
 [S28_MEMORY_LEVEL_NAME_11]
-T28-11: Tiempo fracturado
+T28-D-11: Tiempo perdido
 
 [S28_MEMORY_LEVEL_NAME_011]
-T28-11: Rugido del mar
+T28-S2-3: Mar embravesido
 
 [S28_MEMORY_LEVEL_NAME_12]
-T28-12: Última resistencia
+T28-D-12: Última resistencia
 
 [S28_MEMORY_LEVEL_NAME_012]
-T28-12: Fiesta de invierno
+T28-S2-4: Fiesta de invierno
 
 [S28_MEMORY_LEVEL_NAME_13]
-T28-13: Corazón ardiente
+T28-D-13: Corazón valiente
 
 [S28_MEMORY_LEVEL_NAME_013]
-T28-13: Nieve furiosa
+T28-S2-5: Nieve por doquier
 
 [S28_MEMORY_LEVEL_NAME_14]
-T28-14: Ataque constante
+T28-D-14: Ataque constante
 
 [S28_MEMORY_LEVEL_NAME_014]
-T28-14: Carne y hueso
+T28-S2-6: Carne y hueso
 
 [S28_MEMORY_LEVEL_NAME_15]
-T28-15: Marea furiosa
+T28-D-15: Marea furiosa
 
 [S28_MEMORY_LEVEL_NAME_015]
-T28-15: Otra vez al hielo
+T28-S2-7: Otro inverno hostil
 
 [S28_MEMORY_LEVEL_NAME_16]
-T28-16: Hielo implacable
+T28-D-16: Hielo implacable
 
 [S28_MEMORY_LEVEL_NAME_016]
-T28-16: Cánticos helados
+T28-S2-8: Patio helado
 
 [S28_MEMORY_LEVEL_NAME_017]
-T28-17: Sueño coralino
+T28-S3-1: Sueño imposible
 
 [S28_MEMORY_LEVEL_NAME_018]
-T28-18: Guisante solitario
+T28-S3-2: Guisante solitario
 
 [S28_MEMORY_LEVEL_NAME_019]
-T28-19: Dios del océano
+T28-S3-3: Dios del océano
 
 [S28_MEMORY_LEVEL_NAME_020]
-T28-20: Oleada de ruinas
+T28-S3-4: Ruinas submarinas
 
 [S28_MEMORY_LEVEL_NAME_021]
-T28-21: Alma de ballena
+T28-S3-5: Alma de ballena
 
 [S28_MEMORY_LEVEL_NAME_022]
-T28-22: Baile de conchas
+T28-S3-6: Ostras danzantes
 
 [S28_MEMORY_LEVEL_NAME_023]
-T28-23: Caza abisal
+T28-S3-7: El abismo
 
 [S28_MEMORY_LEVEL_NAME_024]
-T28-24: Arena de cangrejos
+T28-S3-8: Cangrejo hermitaño
 
 [S28_MEMORY_LEVEL_NAME_025]
-T28-25: Tiro certero
+T28-S4-1: Tiro certero
 
 [S28_MEMORY_LEVEL_NAME_026]
-T28-26: Mira al suelo
+T28-S4-2: Bajo tus pies
 
 [S28_MEMORY_LEVEL_NAME_027]
-T28-27: Fuerza colectiva
+T28-S4-3: Fuerza colectiva
 
 [S28_MEMORY_LEVEL_NAME_028]
-T28-28: Fuego sostenido
+T28-S4-4: Fuego sostenido
 
 [S28_MEMORY_LEVEL_NAME_029]
-T28-29: Trueno imparable
+T28-S4-5: Rugido de trueno
 
 [S28_MEMORY_LEVEL_NAME_030]
-T28-30: Explosión terrestre
+T28-S4-6: Campo de minas
 
 [S28_MEMORY_LEVEL_NAME_031]
-T28-31: Hielo desatado
+T28-S4-7: Hielo desatado
 
 [S28_MEMORY_LEVEL_NAME_032]
-T28-32: Arrasar sin piedad
+T28-S4-8: Arrasar sin piedad
 
 [S28_MEMORY_LEVEL_NAME_033]
-T28-33: Recuerdo sellado I
+Recuerdo sellado
 
 [S28_MEMORY_LEVEL_NAME_034]
-T28-34: Recuerdo sellado II
+Recuerdo sellado 2
 
 [S28_MEMORY_LEVEL_NAME_035]
-T28-35: Recuerdo sellado III
+Recuerdo sellado 3
 
 [S28_MEMORY_LEVEL_NAME_036]
-T28-36: Recuerdo sellado IV
+Recuerdo sellado 4
 
 [S28_MEMORY_LEVEL_NAME_037]
-T28-37: Recuerdo sellado V
+Recuerdo sellado 5
 
 [S28_MEMORY_LEVEL_NAME_038]
-T28-38: Recuerdo sellado VI
+Recuerdo sellado 6
 
 [S28_MEMORY_LEVEL_NAME_039]
-T28-39: Recuerdo sellado VII
+Recuerdo sellado 7
 
 [S28_MEMORY_LEVEL_NAME_040]
-T28-40: Recuerdo sellado VIII
+Recuerdo sellado 8
 
 [S28_MEMORY_LEVEL_NAME_041]
-T28-41: Marea arrasadora
+T28-S5-1: Marea arrasadora
 
 [S28_MEMORY_LEVEL_NAME_042]
-T28-42: Relámpago extremo
+T28-S5-2: Viviendo al extremo
 
 [S28_MEMORY_LEVEL_NAME_043]
-T28-43: Zona de trineos
+T28-S5-3: Zona de trineos
 
 [S28_MEMORY_LEVEL_NAME_044]
-T28-44: Zombiquarium
+T28-S5-4: Zombiquarium
 
 [S28_MEMORY_LEVEL_NAME_045]
-T28-45: Memoria de momia
+T28-S5-5: Memoria de momia
 
 [S28_MEMORY_LEVEL_NAME_046]
-T28-46: Cañones fuera
+T28-S5-6: Cañones fuera
 
 [S28_MEMORY_LEVEL_NAME_047]
-T28-47: No es un OK Corral
+T28-S5-7: No es un OK Corral
 
 [S28_MEMORY_LEVEL_NAME_048]
-T28-48: Unión verde
+T28-S5-8: Unión verde
 
 [S28_MEMORY_LEVEL_NAME_049]
-T28-49: Lobo solitario
+T28-S6-1: Lobo solitario
 
 [S28_MEMORY_LEVEL_NAME_050]
-T28-50: Disparo perfecto
+T28-S6-2: Disparo perfecto
 
 [S28_MEMORY_LEVEL_NAME_051]
-T28-51: Ojo por ojo
+T28-S6-3: A toda hipnosis
 
 [S28_MEMORY_LEVEL_NAME_052]
-T28-52: Gruce glacial
+T28-S6-4: Gruce glacial
 
 [S28_MEMORY_LEVEL_NAME_053]
-T28-53: Aguacate voraz
+T28-S6-5: Guacadrilo voraz
 
 [S28_MEMORY_LEVEL_NAME_054]
-T28-54: Un disparo basta
+T28-S6-6: Un disparo basta
 
 [S28_MEMORY_LEVEL_NAME_055]
-T28-55: Plantas al cielo
+T28-S6-7: Plantas al cielo
 
 [S28_MEMORY_LEVEL_NAME_056]
-T28-56: Caja sorpresa
+T28-S6-8: Caja sorpresa
 
 [S28_MEMORY_LEVEL_NAME_057]
-T28-57: Vientos y escarcha
+T28-S7-1: Vientos y escarcha
 
 [S28_MEMORY_LEVEL_NAME_058]
-T28-58: Orden mundial
+T28-S7-2: Orden mundial
 
 [S28_MEMORY_LEVEL_NAME_059]
-T28-59: Nuevo año
+T28-S7-3: Nuevo año
 
 [S28_MEMORY_LEVEL_NAME_060]
-T28-60: Primavera eterna
+T28-S7-4: Primavera eterna
 
 [S28_MEMORY_LEVEL_NAME_061]
-T28-61: Ciruelos y sauces
+T28-S7-5: Ciruelos y sauces
 
 [S28_MEMORY_LEVEL_NAME_062]
-T28-62: Pinos envejecidos
+T28-S7-6: Pinos envejecidos
 
 [S28_MEMORY_LEVEL_NAME_063]
-T28-63: Brindis de Año Nuevo
+T28-S7-7: Brindis de Año Nuevo
 
 [S28_MEMORY_LEVEL_NAME_064]
-T28-64: Risas entre nubes
+T28-S7-8: Alegría
 
 [S29_MEMORY_LEVEL_NAME_1]
-T29-1: El lobo feroz avanza
+T29-D-01: Lobo feroz
 
 [S29_MEMORY_LEVEL_NAME_001]
-T29-01: Explosión total
+T29-S1-1: Devastación
 
 [S29_MEMORY_LEVEL_NAME_2]
-T29-2: Cinturón de asteroides
+T29-D-02: Cinturón de asteroides
 
 [S29_MEMORY_LEVEL_NAME_002]
-T29-02: Maestro de la magia
+T29-S1-2: Maestro de la magia
 
 [S29_MEMORY_LEVEL_NAME_3]
-T29-3: Cuervo en avión
+T29-D-03: Cuervo en avión
 
 [S29_MEMORY_LEVEL_NAME_003]
-T29-03: Escuadrón ninja
+T29-S1-3: Escuadrón ninja
 
 [S29_MEMORY_LEVEL_NAME_4]
-T29-4: Tornado F5
+T29-D-04: Tornado F5
 
 [S29_MEMORY_LEVEL_NAME_004]
-T29-04: Un poco mareado
+T29-S1-4: Un poco mareado
 
 [S29_MEMORY_LEVEL_NAME_5]
-T29-5: Movimiento parabólico
+T29-D-05: Movimiento parabólico
 
 [S29_MEMORY_LEVEL_NAME_005]
-T29-05: Guardián ecológico
+T29-S1-5: Guardián ecológico
 
 [S29_MEMORY_LEVEL_NAME_6]
-T29-6: Hito fronterizo
+T29-D-06: Fronteras
 
 [S29_MEMORY_LEVEL_NAME_006]
-T29-06: Joven artístico
+T29-S1-6: Joven artístico
 
 [S29_MEMORY_LEVEL_NAME_7]
-T29-7: Enemigo formidable
+T29-D-07: Enemigo formidable
 
 [S29_MEMORY_LEVEL_NAME_007]
-T29-07: Armas de energía
+T29-S1-7: MC2
 
 [S29_MEMORY_LEVEL_NAME_8]
-T29-8: Brillo en conjunto
+T29-D-08: Equipo brillante
 
 [S29_MEMORY_LEVEL_NAME_008]
-T29-08: Arsenal
+T29-S1-8: Arsenal
 
 [S29_MEMORY_LEVEL_NAME_9]
-T29-9: Línea defensiva
+T29-D-09: Línea defensiva
 
 [S29_MEMORY_LEVEL_NAME_009]
-T29-09: Resurrección
+T29-S2-1: Resurrección
 
 [S29_MEMORY_LEVEL_NAME_10]
-T29-10: Atado de pies y manos
+T29-D-10: Atado de pies y manos
 
 [S29_MEMORY_LEVEL_NAME_010]
-T29-10: Corazón de niño
+T29-S2-2: Corazón de niño
 
 [S29_MEMORY_LEVEL_NAME_11]
-T29-11: Cresta del dragón
+T29-D-11: Cresta
 
 [S29_MEMORY_LEVEL_NAME_011]
-T29-11: Aventura al Oeste
+T29-S2-3: Viaje al Oeste
 
 [S29_MEMORY_LEVEL_NAME_12]
-T29-12: Bomba de tiempo
+T29-D-12: Bomba de tiempo
 
 [S29_MEMORY_LEVEL_NAME_012]
-T29-12: Caos espacio-temporal
+T29-S2-4: Caos espacio-temporal
 
 [S29_MEMORY_LEVEL_NAME_13]
-T29-13: Los mil artilugios
+T29-D-13: Los mil artilugios
 
 [S29_MEMORY_LEVEL_NAME_013]
-T29-13: Era de hielo
+T29-S2-5: Otra era de hielo
 
 [S29_MEMORY_LEVEL_NAME_14]
-T29-14: Córtalo de raíz
+T29-D-14: Córtalo de raíz
 
 [S29_MEMORY_LEVEL_NAME_014]
-T29-14: Cantando y bailando
+T29-S2-6: Cantando y bailando
 
 [S29_MEMORY_LEVEL_NAME_15]
-T29-15: Dando al blanco
+T29-D-15: Dando al blanco
 
 [S29_MEMORY_LEVEL_NAME_015]
-T29-15: Castillo en el cielo
+T29-S2-7: Castillo en el cielo
 
 [S29_MEMORY_LEVEL_NAME_16]
-T29-16: Reyes y generales
+T29-D-16: Reyes y generales
 
 [S29_MEMORY_LEVEL_NAME_016]
-T29-16: Bestia veloz
+T29-S2-8: Bestia veloz
 
 [S29_MEMORY_LEVEL_NAME_17]
-T29-17: Aliento letal
+T29-D-17: Aliento letal
 
 [S29_MEMORY_LEVEL_NAME_017]
-T29-17: Tecnología del futuro
+T29-S3-1: Tecnología del futuro
 
 [S29_MEMORY_LEVEL_NAME_018]
-T29-18: Cien electrizante
+T29-S3-2: Mil voltios
 
 [S29_MEMORY_LEVEL_NAME_019]
-T29-19: Rey del triple
+T29-S3-3: 333
 
 [S29_MEMORY_LEVEL_NAME_020]
-T29-20: Guisante de élite
+T29-S3-4: Guisante de élite
 
 [S29_MEMORY_LEVEL_NAME_021]
-T29-21: Hongo pisa-zombis
+T29-S3-5: Alarma ecológica
 
 [S29_MEMORY_LEVEL_NAME_022]
-T29-22: Fuego a máxima potencia
+T29-S3-6: Máxima potencia
 
 [S29_MEMORY_LEVEL_NAME_023]
-T29-23: Cuenta a diez
+T29-S3-7: Cuenta a diez
 
 [S29_MEMORY_LEVEL_NAME_024]
-T29-24: Grito aterrador
+T29-S3-8: Grito aterrador
 
 [S29_MEMORY_LEVEL_NAME_025]
-T29-25: Ataque pirata
+T29-S4-1: Ataque pirata
 
 [S29_MEMORY_LEVEL_NAME_026]
-T29-26: Bosque de niebla
+T29-S4-2: Árboles y niebla
 
 [S29_MEMORY_LEVEL_NAME_027]
-T29-27: Crisis empresarial
+T29-S4-3: Crisis empresarial
 
 [S29_MEMORY_LEVEL_NAME_028]
-T29-28: Fiesta en la playa
+T29-S4-4: ¡Vamos a la playa!
 
 [S29_MEMORY_LEVEL_NAME_029]
-T29-29: Fiesta de Halloween
+T29-S4-5: Fiesta de Halloween
 
 [S29_MEMORY_LEVEL_NAME_030]
-T29-30: Devorado por agujeros negros
+T29-S4-6: Agujeros negros
 
 [S29_MEMORY_LEVEL_NAME_031]
-T29-31: Invasión romana
+T29-S4-7: Invasión romana
 
 [S29_MEMORY_LEVEL_NAME_032]
-T29-32: Regreso a casa
+T29-S4-8: Regreso a casa
 
 [S29_MEMORY_LEVEL_NAME_033]
-T29-33: Ejército Qin
+T29-S5-1: Ejército Qin
 
 [S29_MEMORY_LEVEL_NAME_034]
-T29-34: Frente a frente
+T29-S5-2: Frente a frente
 
 [S29_MEMORY_LEVEL_NAME_035]
-T29-35: Tropas falsas
+T29-S5-3: Promesas falsas
 
 [S29_MEMORY_LEVEL_NAME_036]
-T29-36: Resurrección impura
+T29-S5-4: Resurrección impura
 
 [S29_MEMORY_LEVEL_NAME_037]
-T29-37: El tributo de Jing Ke
+T29-S5-5: Tributo
 
 [S29_MEMORY_LEVEL_NAME_038]
-T29-38: Animales enloquecidos
+T29-S5-6: Animales enloquecidos
 
 [S29_MEMORY_LEVEL_NAME_039]
-T29-39: Ataque del general
+T29-S5-7: Ataque del general
 
 [S29_MEMORY_LEVEL_NAME_040]
-T29-40: El emperador aparece
+T29-S5-8: El emperador aparece
 
 [S29_MEMORY_LEVEL_NAME_041]
-T29-41: Dragón en los cielos
+T29-S6-1: Dragón en los cielos
 
 [S29_MEMORY_LEVEL_NAME_042]
-T29-42: Pinchazo interminable
+T29-S6-2: Pinchazo
 
 [S29_MEMORY_LEVEL_NAME_043]
-T29-43: Pequeñas chispas
+T29-S6-3: Pequeñas chispas
 
 [S29_MEMORY_LEVEL_NAME_044]
-T29-44: Avalancha imparable
+T29-S6-4: Avalancha
 
 [S29_MEMORY_LEVEL_NAME_045]
-T29-45: La fuerza de la multitud
+T29-S6-5: Unión = fuerza
 
 [S29_MEMORY_LEVEL_NAME_046]
-T29-46: Bombardeo continuo
+T29-S6-6: Bombardeo
 
 [S29_MEMORY_LEVEL_NAME_047]
-T29-47: Rápido como un rayo
+T29-S6-7: Como un rayo
 
 [S29_MEMORY_LEVEL_NAME_048]
-T29-48: Paso tambaleante
+T29-S6-8: Tambaleo
 
 [S29_MEMORY_LEVEL_NAME_049]
-T29-49: Crisis solar
+T29-S7-1: Crisis solar
 
 [S29_MEMORY_LEVEL_NAME_050]
-T29-50: Tecnología inteligente
+T29-S7-2: Tecnología inteligente
 
 [S29_MEMORY_LEVEL_NAME_051]
-T29-51: Guerra de vagones
+T29-S7-3: Guerra de vagones
 
 [S29_MEMORY_LEVEL_NAME_052]
-T29-52: Rompehuevos sorpresa
+T29-S7-4: Rompehuevos
 
 [S29_MEMORY_LEVEL_NAME_053]
-T29-53: Duelo estratégico
+T29-S7-5: Duelo estratégico
 
 [S29_MEMORY_LEVEL_NAME_054]
-T29-54: Caballos salvajes
+T29-S7-6: Caballos salvajes
 
 [S29_MEMORY_LEVEL_NAME_055]
-T29-55: Ataque desde la arena
+T29-S7-7: Páramo arenoso
 
 [S29_MEMORY_LEVEL_NAME_056]
-T29-56: Batalla a cubierto
+T29-S7-8: Batalla a cubierto
 
 [S29_MEMORY_LEVEL_NAME_057]
-T29-57: Primer encuentro
+T29-S8-1: Primer encuentro
 
 [S29_MEMORY_LEVEL_NAME_058]
-T29-58: Seguro de patatas
+T29-S8-2: Seguro de patatas
 
 [S29_MEMORY_LEVEL_NAME_059]
-T29-59: Comida rápida
+T29-S8-3: Comida rápida
 
 [S29_MEMORY_LEVEL_NAME_060]
-T29-60: Río helado
+T29-S8-4: Río helado
 
 [S29_MEMORY_LEVEL_NAME_061]
-T29-61: Aliméntame con zombis
+T29-S8-5: Alimentar con zombis
 
 [S29_MEMORY_LEVEL_NAME_062]
-T29-62: Combate en primera línea
+T29-S8-6: Combate en primera línea
 
 [S29_MEMORY_LEVEL_NAME_063]
-T29-63: Contraataque inverso
+T29-S8-7: A la defensiva
 
 [S29_MEMORY_LEVEL_NAME_064]
 T29-S8-8: Frasquitos
@@ -61553,7 +61540,7 @@ T29-S8: Bólidus
 T30-D-01: Inducción eléctrica
 
 [S30_MEMORY_LEVEL_NAME_001]
-T30-S1-1: Invasión conjunta
+T30-S1-1: Invasión zombi
 
 [S30_MEMORY_LEVEL_NAME_2]
 T30-D-02: Fisión y fusión
@@ -61574,16 +61561,16 @@ T30-D-04: Hormigas y elefantes
 T30-S1-4: Rey sin corona
 
 [S30_MEMORY_LEVEL_NAME_5]
-T30-D-05: Hegemonía inmortal
+T30-D-05: Supremacía zombi
 
 [S30_MEMORY_LEVEL_NAME_005]
-T30-S1-5: Crisis de petrificación
+T30-S1-5: Petrificación
 
 [S30_MEMORY_LEVEL_NAME_6]
 T30-D-06: Zombis contra zombis
 
 [S30_MEMORY_LEVEL_NAME_006]
-T30-S1-6: Asedio en curva
+T30-S1-6: Asedio
 
 [S30_MEMORY_LEVEL_NAME_7]
 T30-D-07: Apostarlo todo
@@ -61592,7 +61579,7 @@ T30-D-07: Apostarlo todo
 T30-S1-7: Martillo pegajoso
 
 [S30_MEMORY_LEVEL_NAME_8]
-T30-D-08: Cuerpo de titán
+T30-D-08: Cuerpo titánico
 
 [S30_MEMORY_LEVEL_NAME_008]
 T30-S1-8: Bestia meca
@@ -61616,10 +61603,10 @@ T30-D-11: Vientos feroces
 T30-S2-3: Lluvia de regalos
 
 [S30_MEMORY_LEVEL_NAME_12]
-T30-D-12: Cadenas enlazadas
+T30-D-12: Asalto a medianoche
 
 [S30_MEMORY_LEVEL_NAME_012]
-T30-S2-4: Juguete para estrés
+T30-S2-4: Golpea al zombi
 
 [S30_MEMORY_LEVEL_NAME_13]
 T30-D-13: Ataque indirecto
@@ -61691,7 +61678,7 @@ T30-S4-5: Nuevo aniversario
 T30-S4-6: Buen augurio
 
 [S30_MEMORY_LEVEL_NAME_031]
-T30-S4-7: Batalla de vainas
+T30-S4-7: La lucha de Vaina
 
 [S30_MEMORY_LEVEL_NAME_032]
 T30-S4-8: Villancicos
@@ -61715,7 +61702,7 @@ T30-S4: Bestia rugiente
 ¡^4FC148^{PLANT}^oldclr sube de Nivel!
 
 [SALES_PIECES_ADDED]
-¡Conseguiste ^ff0000^{PIECES}Piezas^oldclr^ para subir de Nivel a tus plantas!
+¡Conseguiste ^ff0000^{PIECES} Piezas^oldclr^!
 
 [SALES_REWARD_BOX_CLOSE]
 ACEPTAR
@@ -63148,7 +63135,7 @@ Cuando usa Nutrientes, ralentiza zombis un 70% y aumenta el daño que reciben en
 
 [SHRINKINGVIOLET_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, se activa por contacto
-{KEYWORD}Alcance: {STAT}afecta zombis en las casillas de alrededor
+{KEYWORD}Información de alcance: {STAT}afecta zombis en las casillas de alrededor
 {KEYWORD}Especial: {STAT}reduce a los Zombiditos a la nada
 {KEYWORD}Características de la planta: {STAT}planta púrpura, de baja estatura
 
@@ -64275,16 +64262,16 @@ Fiesta de parkour - Día 6
 Fiesta de parkour - Día 6 (Difícil)
 
 [SPECIAL_LEVEL_NAME_07]
-Fiesta de parkour - Día 7
+Fiesta de parkour - Día final
 
 [SPECIAL_LEVEL_NAME_07_H]
-Fiesta de parkour - Día 7 (Difícil)
+Fiesta de parkour - Día final (Difícil)
 
 [SPEEDUP_STAFF]
 Cetro de aceleración
 
 [SPEEDUP_STAFF_DES]
-Crea un Cetro de aceleración para aumentar la velocidad de produción de las lápidas cercanas en un 50%.
+Crea un cetro que aumenta la velocidad de produción de las lápidas cercanas en un 50%
 
 [SPIKEROCK]
 Pinchorroca
@@ -64633,7 +64620,7 @@ Espiral de primavera
 Los resortes del efecto derriban zombis 2 casillas y les hacen más daño. ^D22808^Daño: 300^oldclr^
 
 [SPRINGPRINCESS_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}ataca por la línea delantera, superior e inferior
+{KEYWORD}Información de alcance: {STAT}ataca por la línea delantera, superior e inferior
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
 {FLAVOR}Es una princesa al igual que todas las demás plantas del Reino primaveral, ¡eso sí que es estar en igualdad de condiciones!
@@ -69703,7 +69690,7 @@ Momentos retro
 Suerte a la puerta
 
 [SUMMER_MEMORIES_HEAD_ID_25837]
-Gorrión gorrón
+Algodón elegante
 
 [SUMMER_MEMORIES_HEAD_ID_25841]
 Dilema de la papa
@@ -72794,7 +72781,7 @@ Parche
 Las semillas del efecto controlan a 1 zombi extra ^D22808^(6 en total)^oldclr^
 
 [TRISTERIXAPHYLLUS_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}todo el patio (ataque) - patrón de cruz (polen aturdidor)
+{KEYWORD}Información de alcance: {STAT}todo el patio (ataque) - patrón de cruz (polen aturdidor)
 {KEYWORD}Especial: {STAT}sus semillas liberan polen aturdidor al germinar
 {KEYWORD}Características de la planta: {STAT}planta roja
 
@@ -72878,7 +72865,7 @@ Sombrero de músico
 Las ondas del efecto hacen 429 DPS y curan 240 PS durante 5 s
 
 [TULIPTRUMPETER_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}ataque - forma ofensiva (línea), curación - forma defensiva (área 3x3)
+{KEYWORD}Información de alcance: {STAT}ataque - forma ofensiva (línea), curación - forma defensiva (área 3x3)
 {KEYWORD}Especial: {STAT}se convertirá en forma defensiva y curadora cuando los zombis estén cerca de él
 {KEYWORD}Características de la planta: {STAT}planta roja (amarilla), ataque y defensa
 
@@ -73168,7 +73155,7 @@ Cuernos astrales
 La explosión libera el mismo número de estrellas de fuego y hielo que en el ataque.
 
 [TWINSHONEYSUCKLE_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}línea al frente (flor dorada), toda la pantalla (flor plateada)
+{KEYWORD}Información de alcance: {STAT}línea al frente (flor dorada), toda la pantalla (flor plateada)
 {KEYWORD}Uso: {STAT}toca en ellas para cambiar su forma de ataque
 {KEYWORD}Especial: {STAT}los astros se dividen en estrellas al explotar
 {KEYWORD}Características de la planta: {STAT}planta amarilla (azul), destructora, gemelos
@@ -73337,7 +73324,7 @@ Festival de Sobres rojos
 Sorteo de Año nuevo
 
 [UI_BAG_ACCESSORY_EXCHANGE]
-Ir a Accesorios
+ACCESORIOS
 
 [UI_BAG_ACCESSORY_PIECE]
 Accesorios
@@ -73352,7 +73339,7 @@ Para: {DESC}
 AVISOS
 
 [UI_BAG_AVATAR_EXCHANGE]
-Ir a Atuendos
+ATUENDOS
 
 [UI_BAG_AVATAR_PIECE]
 Atuendos
@@ -73367,7 +73354,7 @@ Tienes: ^ff0000^{NUMS}^oldclr^
 Nombre: ^ff0000^{NAME}^oldclr^
 
 [UI_BAG_ITEM_USE]
-CONSEGUIR MÁS
+USAR
 
 [UI_BAG_MATERIAL_DESC]
 Uso: {DESC}
@@ -73385,28 +73372,28 @@ Colección de objetos
 Otros
 
 [UI_BAG_PARTY_ASSIST_EXCHANGE]
-Cambiar por Joyas
+CANJEAR
 
 [UI_BAG_PIECE_ACCESSORY_TITLE]
-Características del Accesorio
+Descripción del accesorio
 
 [UI_BAG_PIECE_ACCESSORY_TITLE2]
-Piezas de Accesorios
+Piezas de accesorios
 
 [UI_BAG_PIECE_AVATAR_TITLE]
-Características del Atuendo
+Efectos del atuendo
 
 [UI_BAG_PIECE_AVATAR_TITLE2]
-Piezas de Atuendos
+Piezas de atuendos
 
 [UI_BAG_PIECE_ITEM_TITLE]
-Objetos de Apoyo
+Objetos de apoyo
 
 [UI_BAG_PIECE_PLANT_TITLE]
-Características de la Planta
+Descripción de la planta
 
 [UI_BAG_PIECE_PLANT_TITLE2]
-Piezas de Plantas
+Piezas de plantas
 
 [UI_BAG_PIECE_TITLE]
 Piezas de {DESC}
@@ -73415,7 +73402,7 @@ Piezas de {DESC}
 Se obtiene en: {DESC}
 
 [UI_BAG_PLANT_LEVELUP]
-Pociones
+MEJORAS
 
 [UI_BAG_PLANT_PIECE]
 Plantas
@@ -73427,7 +73414,7 @@ Uso: {DESC}
 Mochila
 
 [UI_BAG_TRANS_GENOSIS]
-Transgénesis
+TRANSGÉNESIS
 
 [UI_GINGLEBELL_TIPS]
 Mecánicas de la temporada
@@ -73460,7 +73447,7 @@ Se obtiene en: {DESC}
 Objeto
 
 [UI_ZENGARDEN_BAG_ITEM_USE]
-CONSEGUIR MÁS
+USAR
 
 [UI_ZENGARDEN_BAG_SEED_ITEM_TITLE]
 Brote
@@ -73618,7 +73605,8 @@ Objetivos opcionales
 Desafío del 12° aniversario: {NAME}
 
 [UNCHARTED_ANNIVERSARY_2025_SELECTED_CHALLENGE_DEFAULT_DESC]
-^FF0000^Toca en la izquierda^oldclr^ para seleccionar los Objetivos del Nivel
+^FF0000^Toca en la izquierda^oldclr^ para
+seleccionar los objetivos
 
 [UNCHARTED_ANNIVERSARY_2025_SELECTED_CHALLENGE_TITLE]
 Objetivos seleccionados
@@ -73627,10 +73615,10 @@ Objetivos seleccionados
 Récord de Estrellas
 
 [UNCHARTED_ANNIVERSARY_2025_TASK_BUTTON_TITLE]
-OBJETIVOS
+MISIONES
 
 [UNCHARTED_ANNIVERSARY_2025_TASK_TITLE]
-Objetivos de este nivel
+Misiones de este nivel
 
 [UNCHARTED_ANNIVERSARY_2025_TIPS_DESC]
 1. Las opciones de dificultad de la izquierda están marcadas por defecto.
@@ -73657,7 +73645,8 @@ El nivel no está disponible. Espera mañana para poder jugarlo.
 Desafío de aniversario: {NAME}
 
 [UNCHARTED_ANNIVERSARY_SELECTED_CHALLENGE_DEFAULT_DESC]
-^FF0000^Toca en la izquierda^oldclr^ para seleccionar los Objetivos del Nivel
+^FF0000^Toca en la izquierda^oldclr^ para
+seleccionar los objetivos
 
 [UNCHARTED_ANNIVERSARY_SELECTED_CHALLENGE_TITLE]
 Selección de Objetivos
@@ -73669,10 +73658,10 @@ El nivel no está disponible. Espera 2 días para poder jugarlo.
 Récord de Estrellas
 
 [UNCHARTED_ANNIVERSARY_TASK_BUTTON_TITLE]
-OBJETIVOS
+MISIONES
 
 [UNCHARTED_ANNIVERSARY_TASK_TITLE]
-Objetivos de este nivel
+Misiones de este nivel
 
 [UNCHARTED_ANNIVERSARY_TIPS_DESC]
 1. Las opciones de dificultad de la izquierda están marcadas por defecto.
@@ -74259,10 +74248,10 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_MAUSOLEUM_DES_ID_25809]
-A quienes reunieron todas las estrellas en Tierras ocultas: Mausoleo de Qin
+A quienes alcanzaron la racha 50 de la Zona de infinito en Tierras ocultas: Mausoleo de Qin
 
 [UNCHARTED_MAUSOLEUM_ID_25809]
-Pirmer conquistador
+Primer conquistador
 
 [UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT1]
 1. Disponibilidad
@@ -74460,16 +74449,16 @@ Perderás el progreso de la ronda y volverás a empezar desde el primer nivel. �
 Aún no has completado el resto de niveles para aplicar el reinicio
 
 [UNCHARTED_WORLD_RESET_HARD_MODE]
-¿Deseas resetear el progreso de este nivel?
+¿Deseas reiniciar el progreso del evento? Volverás a empezar desde el principio.
 
 [UNCHARTED_WORLD_SPRING_FESTIVAL_2024_COMPLETE]
-Ya has completado este nivel, reinicialo para jugarlo de nuevo
+Ya has completado este nivel. Reinicia los progresos del evento para jugarlo de nuevo.
 
 [UNCHARTED_WORLD_UNLOCK]
 La grieta no está abierta.
 
 [UNCHARTED_ZCORP_HEAD_DES_ID_25758]
-A quienes reunieron todas las estrellas en Tierras ocultas: ZCorp
+A quienes reunieron todas las estrellas en Tierras ocultas: ZCorp SA
 
 [UNCHARTED_ZCORP_ID_25758]
 CEO de ZCorp
@@ -76330,7 +76319,7 @@ Con Nutrientes, lanza melones llameantes que hacen más daño. ^D22808^Daño: 30
 
 [WINTERMELON_DESCRIPTION]
 {KEYWORD}Cadencia: {STAT}1/2x
-{KEYWORD}Alcance: {STAT}largo
+{KEYWORD}Información de alcance: {STAT}largo
 {KEYWORD}Especial: {STAT}inflige daño y ralentiza a grupos de zombis en un área de 3x3
 {KEYWORD}Características de la planta: {STAT}planta azul, gélida, destructora
 
@@ -76548,11 +76537,11 @@ El daño de su efecto de Nutrientes aumenta en un 50%
 
 [WIREGELSEMIUM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}toca o arrastra el dedo en el alambre para moverlo a la casilla objetivo
-{KEYWORD}Alcance: {STAT}todo el mapa (ubicar alambre), área 3x3 (radio de acción)
+{KEYWORD}Información de alcance: {STAT}todo el mapa (ubicar alambre), área 3x3 (radio de acción)
 {KEYWORD}Especial: {STAT}puedes conectar otros cables para aumentar el daño
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
-{FLAVOR}Es un buen terapeuta que usa la electricidad para aliviar el dolor, aunque se pasa de voltios.
+{FLAVOR}Muchos acudían a Gelsemio letal para aliviar dolores musculares con terapia eléctrica. Tras varios accidentes, la mayoría ahora mantiene una distancia prudente. Él insiste en que controla perfectamente su voltaje.
 
 [WIREGELSEMIUM_DESCRIPTION_HEADER]
 Gelsemio letal genera alambres de alta tensión a una casilla objetivo, haciendo grandes daños en el área circundante.
@@ -76858,7 +76847,7 @@ Grimorio
 Aumenta el número de manojos liberados en 5
 
 [WIZARDTHORNS_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}fila al frente
+{KEYWORD}Información de alcance: {STAT}fila al frente
 {KEYWORD}Características de la planta: {STAT}planta verde, mágica, destructora
 
 {FLAVOR}Es el hermano menor de Arbusto espinoso, y a decir verdad, es el más tímido de ambos. Le asusta enfrentarse a los zombis sin antes haber practicado sus hechizos, aunque no se le da nada mal mantenerlos a raya.
@@ -77244,52 +77233,52 @@ Alcanzaste la Liga Jade en La Búsqueda de Penny.
 Medalla del ezcorpión
 
 [ZCORP_LEVEL_NAME_01_H]
-ZCorp - Día 1 (Difícil)
+ZCorp SA - Día 1 (Difícil)
 
 [ZCORP_LEVEL_NAME_01_N]
-ZCorp - Día 1
+ZCorp SA - Día 1
 
 [ZCORP_LEVEL_NAME_02_H]
-ZCorp - Día 2 (Difícil)
+ZCorp SA - Día 2 (Difícil)
 
 [ZCORP_LEVEL_NAME_02_N]
-ZCorp - Día 2
+ZCorp SA - Día 2
 
 [ZCORP_LEVEL_NAME_03_H]
-ZCorp - Día 3 (Difícil)
+ZCorp SA - Día 3 (Difícil)
 
 [ZCORP_LEVEL_NAME_03_N]
-ZCorp - Día 3
+ZCorp SA - Día 3
 
 [ZCORP_LEVEL_NAME_04_H]
-ZCorp - Día 4 (Difícil)
+ZCorp SA - Día 4 (Difícil)
 
 [ZCORP_LEVEL_NAME_04_N]
-ZCorp - Día 4
+ZCorp SA - Día 4
 
 [ZCORP_LEVEL_NAME_05_H]
-ZCorp - Día 5 (Difícil)
+ZCorp SA - Día 5 (Difícil)
 
 [ZCORP_LEVEL_NAME_05_N]
-ZCorp - Día 5
+ZCorp SA - Día 5
 
 [ZCORP_LEVEL_NAME_06_H]
-ZCorp - Día 6 (Difícil)
+ZCorp SA - Día 6 (Difícil)
 
 [ZCORP_LEVEL_NAME_06_N]
-ZCorp - Día 6
+ZCorp SA - Día 6
 
 [ZCORP_LEVEL_NAME_07_H]
-ZCorp - Día 7 (Difícil)
+ZCorp SA - Día 7 (Difícil)
 
 [ZCORP_LEVEL_NAME_07_N]
-ZCorp - Día 7
+ZCorp SA - Día 7
 
 [ZCORP_LEVEL_NAME_08_H]
-ZCorp - Día 8 (Difícil)
+ZCorp SA - Día 8 (Difícil)
 
 [ZCORP_LEVEL_NAME_08_N]
-ZCorp - Día 8
+ZCorp SA - Día 8
 
 [ZCORP_LEVEL_NAME_09_H]
 ZCorp - Día 9 (Difícil)
@@ -77298,10 +77287,10 @@ ZCorp - Día 9 (Difícil)
 ZCorp - Día 9
 
 [ZCORP_LEVEL_NAME_10_H]
-ZCorp - Día 10 (Difícil)
+ZCorp - Día final (Difícil)
 
 [ZCORP_LEVEL_NAME_10_N]
-ZCorp - Día 10
+ZCorp - Día final
 
 [ZENGARDEN_SHOP_BUY_CONFIRM]
 ¿Deseas comprar eso por ^DB8117^{NUMS} Monedas Zen^oldclr^?
@@ -80117,7 +80106,7 @@ La fuerza de los zombis aumenta en 3 Niveles
 León bailarín
 
 [ZOMBIE_LION_DANCE_DESCRIPTION]
-{KEYWORD}Alcance: {STAT}3 casillas al frente
+{KEYWORD}Información de alcance: {STAT}3 casillas al frente
 
 {FLAVOR}Se disfrazó de león porque le hace parecer más "feroz"
 
@@ -81381,7 +81370,7 @@ La ley de Poseidón dicta que todos los forasteros deben entregar sus cerebros a
 Controla cardúmenes de peces y mejora a sus aliados.
 
 [ZOMBIE_PRIEST]
-Zombi sacerdote del mar
+Sacerdote del mar
 
 [ZOMBIE_PRIEST_DESCRIPTION]
 {KEYWORD}Especial: {STAT}convierte plantas en Setas desesporadas
@@ -81419,7 +81408,7 @@ Caballero sin cabeza
 
 [ZOMBIE_PUMPKIN_KNIGHT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}invoca Caballeros fantasma para sembrar el caos
-{KEYWORD}Especial: {STAT}deja llamas detrás de sí mientras carga contra tus plantas
+{KEYWORD}Especial: {STAT}deja llamas tras de sí mientras carga contra tus plantas
 
 {FLAVOR}Cuando fue derrotado por las plantas, un Caballero zombi decidió usar el hechizo de la inmortalidad porque no estaba dispuesto a aceptar la derrota y se convirtió en lo que vez ahora: un guerrero vengativo que domina los hechizos y las llamas. Regresará al mundo cada Halloween para sembrar el miedo hasta cumplir los propósitos que tenía antes de morir.
 
@@ -81520,7 +81509,7 @@ Zombi impermeable
 [ZOMBIE_RAINCOAT_DESCRIPTION]
 {KEYWORD}Daño: {STAT}fulmina a la mayoría de las plantas del suelo con su patada
 {KEYWORD}Blindaje: {STAT}evita el daño eléctrico gracias al aislamiento de su impermeable
-{KEYWORD}Especial: {STAT}el daño eléctrico es efectivo una vez que el impermeable queda destruido
+{KEYWORD}Pista: {STAT}el daño eléctrico es efectivo una vez que el impermeable queda destruido
 
 {FLAVOR}Cuando no está atacando patios, Zombi impermeable siempre anda asaltando las tiendas de ropa por la ciudad. Poco importa si le queda bien o mal: si es amarillo y nuevo, le vale. Dr. Zombi se ha ahorrado mucho en coladas, porque Zombi impermeable nunca repite modelito. El único pero es que no todos le quedan bien. "Si es amarillo y nuevo, lo demás no importa y vale", dice siempre Zombi impermeable, admirándose en el espejo.
 
@@ -81911,7 +81900,7 @@ Zombistein piloto
 {KEYWORD}Daño: {STAT}destroza todo lo que tiene a su paso a puñetazos
 {KEYWORD}Especial: {STAT}lanza varios Zombiditos pilotos cuando sufre daño
 
-{FLAVOR}Debido a su enorme tamaño que ocupa más espacio en las rutas de vuelo, se vio obligado a pagar 3 veces la tarifa de viaje. Estaba muy enojado con esto y dijo: "Solo quiero convertirme en un Zombidito para no tener problemas ni preocupaciones". Luego vio la billetera vacía de su amigo y dijo: "Pero solo a veces"
+{FLAVOR}Debido a su enorme tamaño que ocupa más espacio en las rutas de vuelo, se vio obligado a pagar 3 veces la tarifa de viaje. Estaba muy enojado con esto y dijo: "Solo quiero convertirme en un zombidito para no tener problemas ni preocupaciones". Luego vio la billetera vacía de su amigo y dijo: "Pero solo a veces"
 
 [ZOMBIE_SKYCITY_GARGANTUAR_DESCRIPTION_HEADER]
 Un zombi piloto gigante que lo azota todo a mano limpia.
@@ -81920,7 +81909,7 @@ Un zombi piloto gigante que lo azota todo a mano limpia.
 Zombidito paracaidista
 
 [ZOMBIE_SKYCITY_GGTIMP_DESCRIPTION]
-Zombidito paracaidista estaba preocupado por la idea de participar en negocios aéreos. Pero cuando encontró unas gafas, ya no quiso quitárselas. Si bien convertirse en paracaidista solo por un par de gafas parece tonto, no puedes admitir que le quedan bien.
+Estaba preocupado por la idea de saltar de un avión en caída libre a más de 30 mil pies de altura. Pero cuando encontró unas gafas, ya no quiso quitárselas. Si bien, convertirse en paracaidista solo por un par de gafas parece tonto, no puedes negar que le quedan bien.
 
 [ZOMBIE_SKYCITY_GGTIMP_DESCRIPTION_HEADER]
 Un zombidito bueno en el aterrizaje.
@@ -82687,7 +82676,7 @@ Zombi Explotonuez
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}si una planta se lo come, no explota
 
-{FLAVOR}Nadie sabe de dónde vino, como si hubiera aparecido de la nada, el misterioso vegezombi ha atraído la atención de muchos y está aquí para quedarse.
+{FLAVOR}Camina lento, huele extraño y podría explotar en cualquier momento. Sorprendentemente, la explosión es el menor de sus problemas.
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION_HEADER]
 Cuando es derrotado, explota y daña a tus plantas en un área mediana.
@@ -82709,13 +82698,13 @@ Zombi Jalapeño
 [ZOMBIE_ZOMBIE_JALAPENO_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}si una planta se lo come, no explota
 
-{FLAVOR}Todo el mundo suele tener cuidado con lo que dice y hace delante de él, todo esto se deriva de su fuerte temperamento. Sin embargo, si se le invita a comer cerebros, no se negará a ello.
+{FLAVOR}Todo el mundo suele tener cuidado con lo que dice y hace delante de él, esto se deriva de su fuerte temperamento. Por otro lado, si se le invita a comer cerebros, no se negará a ello.
 
 [ZOMBIE_ZOMBIE_JALAPENO_DESCRIPTION_HEADER]
 Arrasa con una línea entera de plantas si no lo destruyes a tiempo.
 
 [ZOMBIE_ZOMBIE_MONEYTREE]
-Zombi árbol del dinero
+Árbol del dinero
 
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION]
 Su cuerpo está adornado con monedas relucientes que caen con cada golpe. ¡Pero cuidado! Su codicia no tiene límites, y hará todo lo posible por proteger su fortuna.
@@ -82729,7 +82718,7 @@ Zombi Hielaguisantes
 [ZOMBIE_ZOMBIE_SNOWPEA_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}sus proyectiles no pueden alcanzar a las plantas bajas
 
-{FLAVOR}"Nacimos de esta manera, no es nada terrible para nosotros", dice. Nadie comprende el significado de sus frases, y nadie quiere entenderlo, después de todo, ¿quién se preocupa por un zombi lunático con un guisante congelado en la cabeza?
+{FLAVOR}Dice que el frío le ayuda a pensar mejor. Sus compañeros todavía esperan evidencia de eso.
 
 [ZOMBIE_ZOMBIE_SNOWPEA_DESCRIPTION_HEADER]
 Lanza guisantes helados que dañan y ralentizan a tus plantas.
@@ -82744,7 +82733,7 @@ Este zombi maneja un camión monstruoso que aplasta todo a su paso. ¿Estás lis
 Un camión enorme que derrapa y se mueve a alta velocidad.
 
 [ZOMBIE_ZOMBIE_YEARMONSTER]
-Bestia del Año Nuevo
+Bestia roja
 
 [ZOMBIE_ZOMBIE_YEARMONSTER_DESCRIPTION]
 Sólo sale durante el Año Nuevo Chino, y por alguna razón le tiene miedo al color rojo y a las explosiones.
