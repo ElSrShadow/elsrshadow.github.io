@@ -1,1046 +1,671 @@
 ﻿[#OF#]
 # de #
 
-[rank_avatar_diy_63]
-El inframundo
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE]
+Lobo con antorcha
 
-[RANK_AVATAR_CONTENT_CONTENT_61060]
-Recompensa clasificatoria de la temporada 45 de Dueloz
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}los ataques gélidos extinguen la antorcha
 
-[RANK_AVATAR_CONTENT_TITLE_61060]
-El inframundo
+{FLAVOR}El fuego debería ser un problema para un lobo. A él le da igual.
 
-[RANK_AVATAR_CONTENT_TITLE_61061]
-El esplendor de Dunhuang
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE_DESCRIPTION_HEADER]
+Lobo zombi. Calcina plantas al contacto con su antorcha.
 
-[RANK_AVATAR_CONTENT_CONTENT_61061]
-Tras las huellas de la Ruta de la Seda: Dunhuang
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP]
+Zombidito lobo
 
-[rank_avatar_diy_104]
-El esplendor de Dunhuang
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP_DESCRIPTION]
+No es el más grande de la manada, pero sí el más insistente cuando hay algo que robar.
 
-[GLOOMBARA]
-Udumbara
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP_DESCRIPTION_HEADER]
+Lobo zombi de pequeña estatura que se mueve rápido por el escenario.
 
-[GLOOMBARA_DESCRIPTION]
-{KEYWORD}Uso: {STAT}único e instantáneo
-{KEYWORD}Características de la planta: {STAT}planta verde, espiritual, hábil
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS]
+Lobo alfa
 
-{FLAVOR}Se dice que la Udumbara no florece para ser vista, sino para ser encontrada por quienes caminan demasiado cerca del otro lado.
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS_DESCRIPTION]
+Nadie sabe cómo se elige un alfa en una manada de zombis. Él tampoco, pero nadie se atreve a preguntarlo.
 
-[GLOOMBARA_DESCRIPTION_HEADER]
-Udumbara abre las puertas del reino espiritual, potenciando plantas de su tipo y atando espíritus malignos con cadenas.
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS_DESCRIPTION_HEADER]
+El líder de la manada. Donde aparece, los ataques se vuelven inevitables.
 
-[GLOOMBARA_TOOLTIP]
-Potencia plantas espirituales, ata espíritus malignos
+[ZOMBIE_LOSTCITY_BUG_ARMOR1]
+Zombicho caracono
 
-[GLOOMBARA_SKILL_LEVEL1]
-Nivel 2
+[ZOMBIE_LOSTCITY_BUG_ARMOR1_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cono le otorga el doble de dureza que el Zombicho común
 
-[GLOOMBARA_SKILL_LEVEL1_DES]
-^4DD4DB^Clarividencia:^oldclr^ aumenta la duración de las cadenas espirituales en 1.5 s
+{FLAVOR}Encontró su preciado cono en medio de unas ruinas doradas y desde entonces no se lo ha quitado. Dice que lo hace ver "más profesional", aunque no tiene idea de en qué trabaja.
 
-[GLOOMBARA_SKILL_LEVEL2]
-Nivel 3
+[ZOMBIE_LOSTCITY_BUG_ARMOR1_DESCRIPTION_HEADER]
+Bicho lleva a Zombicho caracono por encima de las defensas terrestres y lo eleva sobre las barreras.
 
-[GLOOMBARA_SKILL_LEVEL2_DES]
-^DD7ECB^Artes oscuras:^oldclr^ mejora los efectos del Nvl. 2 al doble
+[ZOMBIE_LOSTCITY_BUG_ARMOR2]
+Zombicho caracubo
 
-[GLOOMBARA_PRODUCT_SHORT_DESC]
-Potencia plantas espirituales, ata espíritus malignos
+[ZOMBIE_LOSTCITY_BUG_ARMOR2_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cubo le otorga el triple de dureza que el Zombicho común
 
-[GLOOMBARA_NEW_SKILL_LEVEL1_DES]
-^E2725B^Reino espiritual: potencia a las plantas de su tipo durante 20 s^oldclr^
-^4DD4DB^Cadenas espirituales: atan espíritus malignos por 7 s, impidiendo que ataquen^oldclr^
+{FLAVOR}Dicen que el cubo no solo lo protege, sino que también lo hace sentir más alto, más fuerte... y más importante. Pero es su bicho quien hace todo el trabajo duro.
 
-[GLOOMBARA_NEW_SKILL_LEVEL2_DES]
-Aumenta la duración de las cadenas espirituales en 1.5 s ^D22808^(ahora 8.5 s)^oldclr^
+[ZOMBIE_LOSTCITY_BUG_ARMOR2_DESCRIPTION_HEADER]
+Bicho lleva a Zombicho caracubo por encima de las defensas terrestres y lo eleva sobre las barreras.
 
-[GLOOMBARA_NEW_SKILL_LEVEL3_DES]
-Aumenta la duración de las cadenas espirituales en 3 s ^D22808^(ahora 10 s)^oldclr^
+[ZOMBIE_AIR_MISSILE]
+Misil zombidináutico
 
-[GLOOMBARA_PLANTFOOD_DESCRIPTION]
-^FF0000^Sin efecto de Nutrientes.^oldclr^
+[ZOMBIE_AIR_MISSILE_DESCRIPTION]
+{KEYWORD}Especial: {STAT}inflige daño masivo al impactar con tu nave
 
-[GLOOMBARA_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^Sin efecto de Atuendo.^oldclr^
+{FLAVOR}La última tecnología artillera fabricada con sudor por los Zombiditos misileros. Se dice que el esfuerzo trae sus frutos y a decir verdad, este es un misil con un gran potencial bastante destructivo que hasta el mismo Dr. Zombi no desea verlo cerca de su base.
 
-[OPTIONS_SKIP_SPEEDCHANGE_EFFECT]
-Turbo sin VFX
+[ZOMBIE_AIR_MISSILE_DESCRIPTION_HEADER]
+Es lanzado por los aires, si no deslizas tus dedos rápidamente sobre Zombidito misilero.
 
-[ZOMBIE_YETI]
-Zombi yeti
+[ZOMBIE_SKYCITY_PROTECTOR]
+Escudo volador
 
-[ZOMBIE_YETI_DESCRIPTION]
-{KEYWORD}Especial: {STAT}se marcha tras un tiempo
+[ZOMBIE_SKYCITY_PROTECTOR_DESCRIPTION]
+{KEYWORD}Especial: {STAT}crea un escudo para protegerse de los ataques
 
-{FLAVOR}Poco se sabe del Zombi yeti a parte de su nombre, fecha de nacimiento, número de la seguridad social, historial académico y laboral, y su plato favorito: tortilla de sesos.
+{FLAVOR}Nadie sabe cómo funciona su campo de fuerza. Él tampoco, pero presiona botones con mucha confianza.
 
-[ZOMBIE_YETI_DESCRIPTION_HEADER]
-Una criatura, cuanto menos, rara.
+[ZOMBIE_SKYCITY_PROTECTOR_DESCRIPTION_HEADER]
+Se protege a sí mismo y a los zombis cercanos con un campo de fuerza.
 
-[FUMESHROOM_SKILL1_LEVEL5]
-Nivel 5
+[ZOMBIE_EIGHTIES_8BIT_ARMOR1]
+Caracono de 8-bits
 
-[FUMESHROOM_SKILL1_LEVEL5_DES]
-^DB8117^Seta elemental:^oldclr^ puede evolucionar a Humoseta encantada, Humoseta desesporada u Hongo trueno al ser plantada
+[ZOMBIE_EIGHTIES_8BIT_ARMOR1_DESCRIPTION]
+El casco tiene un diseño de cono vial y una estética retro. Aunque parece salido de una vieja consola, aún protege contra el daño.
 
-[ZOMBIE_SCREENDOOR]
-Zombi portero
+[ZOMBIE_EIGHTIES_8BIT_ARMOR1_DESCRIPTION_HEADER]
+Su cono pixelado le da el doble de salud que el zombi de 8-bits ordinario.
 
-[ZOMBIE_SCREENDOOR_DESCRIPTION]
-{KEYWORD}Dureza de la puerta: {STAT}alta
-{KEYWORD}Debilidad: {STAT}Humoseta y Magnetoseta
+[ZOMBIE_EIGHTIES_8BIT_ARMOR2]
+Caracubo de 8-bits
 
-{FLAVOR}Cuando le dijeron que aún no estaba listo para jugar de portero, se preparó mejor para el día siguiente.
+[ZOMBIE_EIGHTIES_8BIT_ARMOR2_DESCRIPTION]
+El cubo encaja perfectamente en su cabeza hecha de pixeles. No sabe para qué sirve, pero le da una falsa sensación de invulnerabilidad... y eso es todo lo que necesita un zombi.
 
-[ZOMBIE_SCREENDOOR_DESCRIPTION_HEADER]
-La puerta es un buen escudo.
+[ZOMBIE_EIGHTIES_8BIT_ARMOR2_DESCRIPTION_HEADER]
+Su cubo pixelado le da el triple de salud que el zombi de 8-bits ordinario.
 
-[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT]
-Arquero del inframundo
+[ZOMBIE_RENAI_BALLET_IMP]
+Zombidita bailarina de ballet
 
-[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
-{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
-{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+[ZOMBIE_RENAI_BALLET_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}cruza rápidamente tus defensas al ritmo y compás del ballet
+{KEYWORD}Debilidad: {STAT}el charco de Oliva de Aceite la hace resbalar, aturdiéndola por un tiempo
 
-{FLAVOR}Un día, se le ocurrió que, si prendía fuego a sus flechas, la potencia de sus disparos aumentaría considerablemente. Sin embargo, como no sabía encender fuego, la idea quedó olvidada durante mucho tiempo. No fue hasta que se convirtió en un espíritu y obtuvo el poder de las llamas fantasmales que por fin pudo hacer realidad su "genial" idea.
+{FLAVOR}No te quedes ensimismado por el pequeño y adorable tamaño de esta chiquilla. Está dispuesta a darlo todo y hacer que te trague la tierra con su coordinado ballet.
 
-[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION_HEADER]
-Lanza proyectiles espectrales para ralentizar a las plantas alcanzadas.
+[ZOMBIE_RENAI_BALLET_IMP_DESCRIPTION_HEADER]
+Saldrá en un grupo de 2 al mismo tiempo, ¡y cambiará de rumbo al compás del ballet!
 
-[ZOMBIE_MAUSOLEUM_DRUNKARD]
-Zombi bebedor
+[ZOMBIE_RENAI_ANTONIO]
+Antonio el mercader
 
-[ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION]
-No está ebrio, solo... estratégicamente desorientado.
+[ZOMBIE_RENAI_ANTONIO_DESCRIPTION]
+{KEYWORD}Daño: {STAT}lanza bolsas de oro para aplastar plantas
+{KEYWORD}Especial {STAT}las bolsas de oro atraen zombis a su fila y los ponen en estado frenético
 
-[ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION_HEADER]
-Cambia de línea tras beber, rocía a las plantas cercanas con alcohol para embriagarlas.
+{FLAVOR}Todavía confía demasiado en acuerdos que claramente terminarán mal.
 
-[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT]
-Soldado del inframundo
+[ZOMBIE_RENAI_ANTONIO_DESCRIPTION_HEADER]
+Un actor poco destacado. Interpreta a Antonio de El Comerciante de Venecia.
 
-[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
-{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
-{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+[ZOMBIE_WAVE_ELECSHIELDGENERATOR]
+Electro-escudo
 
-{FLAVOR}Era un soldado cualquiera hasta que, olvidando que era un zombi, vio su reflejo en un estanque. El susto fue tal que su alma abandonó el cuerpo y comenzó a vagar sin rumbo.
+[ZOMBIE_WAVE_ELECSHIELDGENERATOR_DESCRIPTION]
+{KEYWORD}Especial: {STAT}bloquea proyectiles mientras permanezca activo
 
-[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION_HEADER]
-Forma etérea del Zombi bing.
+{FLAVOR}Un triunfo de la ingeniería zombi y una tragedia para cualquiera que dependa de proyectiles.
 
-[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT]
-Caracuenco del inframundo
+[ZOMBIE_WAVE_ELECSHIELDGENERATOR_DESCRIPTION_HEADER]
+Crea un escudo que se desplaza lentamente y expulsa a cualquier planta con la que entre en contacto.
 
-[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
-{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
-{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+[ZOMBIE_DIVER]
+Zombi buzo
 
-{FLAVOR}Aprecia profundamente el cuenco que lleva en la cabeza, y este le corresponde con igual devoción. Incluso después de morir y convertirse en espíritu, el cuenco permanece a su lado.
+[ZOMBIE_DIVER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}bucea para evitar ataques
 
-[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION_HEADER]
-Su cuenco lo hace dos veces más resistente que el Soldado del inframundo.
+{FLAVOR}Los zombis no respiran; no necesitan oxígeno. Entonces, ¿por qué el Zombi Buzo lleva tubo y bañador? Respuesta: por el qué dirán.
 
-[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT]
-Carayelmo del inframundo
+[ZOMBIE_DIVER_DESCRIPTION_HEADER]
+El Zombi buzo puede bucear, lo cual es sorprendentemente obvio, ¿no?
 
-[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
-{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
-{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+[ZOMBIE_RENAI_TOXICWATER]
+Zombi desinfectante
 
-{FLAVOR}Protegía su punto más vulnerable con un pesado casco, lo que le hacía sentirse invencible. Durante un entrenamiento del ejército zombi, y con exceso de confianza, decidió demostrar ante todos su "técnica de romper piedras con la cabeza". Fue entonces cuando descubrió, de la peor forma posible, que también podía convertirse en espíritu.
+[ZOMBIE_RENAI_TOXICWATER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}contamina la piscina y daña las plantas acuáticas
 
-[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION_HEADER]
-Su casco de infantería lo hace tres veces más resistente que el Soldado del inframundo.
+{FLAVOR}Está obsesionado con mantener el agua "perfectamente limpia", aunque nadie comparte su definición de limpieza.
 
-[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP]
-Zombistein del inframundo
+[ZOMBIE_RENAI_TOXICWATER_DESCRIPTION_HEADER]
+Zombi encargado del mantenimiento de piscinas. Sus químicos son peligrosos para las plantas.
 
-[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
-{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
-{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+[ZOMBIE_SUMMER_BUG_ARMOR1]
+Zombicho caracono de verano
 
-{FLAVOR}Los Zombisteins del inframundo nunca se han destacado por su memoria; apenas recordaban cómo caminar y aplastar, más por costumbre que por otra cosa. Al convertirse en espíritus, perdieron incluso eso y ahora solo pueden flotar.
+[ZOMBIE_SUMMER_BUG_ARMOR1_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cono le otorga el doble de dureza que el Zombicho común
 
-[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION_HEADER]
-Forma etérea del Zombistein jiangjun.
+{FLAVOR}Nadie esperaba que un cono de tráfico fuera el pináculo de la ingeniería defensiva veraniega.
 
-[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT]
-Bebedor del inframundo
+[ZOMBIE_SUMMER_BUG_ARMOR1_DESCRIPTION_HEADER]
+Bicho lleva a Zombicho caracono por encima de tus defensas.
 
-[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
-{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
-{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+[ZOMBIE_SUMMER_BUG_ARMOR2]
+Zombicho caracubo de verano
 
-{FLAVOR}En vida bebía sin control; en la muerte, el problema solo empeoró. Nadie sabe qué está bebiendo ahora, pero claramente no es buena idea estar delante cuando lo expulsa.
+[ZOMBIE_SUMMER_BUG_ARMOR2_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cubo le otorga el triple de dureza que el Zombicho común
 
-[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION_HEADER]
-Forma etérea del Zombi bebedor. Tras desplazarse, lanza una llamarada que destruye la planta que tiene delante.
+{FLAVOR}Prefiere el cubo porque ofrece más sombra y más protección.
 
-[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT]
-Sicario del inframundo
+[ZOMBIE_SUMMER_BUG_ARMOR2_DESCRIPTION_HEADER]
+Bicho lleva a Zombicho caracubo por encima de tus defensas.
 
-[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
-{KEYWORD}Forma espiritual: {STAT}ignora plantas no espiritules, siendo inmune a sus proyectiles o barreras
-{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+[ZOMBIE_CHILDREN_SCHOOLBAG]
+Zombidito escolar
 
-{FLAVOR}Padece una amnesia terrible. En un principio, su misión era matar al señor del mausoleo, pero al llegar olvidó su objetivo y terminó siendo reclutado por él para unirse a su legión. Últimamente, su condición ha empeorado tanto que incluso ha olvidado que ya está muerto, convirtiéndose así en un espíritu.
+[ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION]
+Todavía espera con emoción la hora del recreo y cualquier oportunidad para causar problemas.
 
-[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION_HEADER]
-Forma etérea del Zombi jingke. Aniquila plantas de izquierda a derecha una vez es derrotado.
+[ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION_HEADER]
+Zombi pequeño que asiste a la escuela.
 
-[ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE]
-Zombi maestro taoísta
+[ZOMBIE_CHILDREN_BALLON]
+Zombidito con globos
 
-[ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION]
-Los discípulos admiraban su dominio de las artes taoístas y las barreras espirituales. Esa admiración sobrevivió exactamente hasta la noche en que un zombidito lo sorprendió leyendo historietas infantiles de estrategia militar.
+[ZOMBIE_CHILDREN_BALLON_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}Cactus y Trebolador
 
-[ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION_HEADER]
-Experto en formaciones defensivas. Crea un portal que invoca espíritus cada cierto tiempo.
+{FLAVOR}El viento decide su trayectoria. Él decidió no preocuparse por eso.
 
-[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_BIG_SKILL_WARNING]
-REFORJA REAL: ¡derrota al emperador ahora!
+[ZOMBIE_CHILDREN_BALLON_DESCRIPTION_HEADER]
+Sobrevuela las defensas usando varios globos.
 
-[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST]
-Emperador umbrío Zomboss
+[ZOMBIE_CHILDREN_TOYCAR]
+Zombidito con carrito
 
-[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_DESCRIPTION]
-^E2725B^• Habilidades^oldclr^
+[ZOMBIE_CHILDREN_TOYCAR_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}P.E.Melocotonético lo inmoviliza por una extraña razón
 
-^DB8117^- Rugido funesto:^oldclr^ ^A0522D^ruge para acelerar a los zombis y convertirlos en espíritus^oldclr^
+{FLAVOR}Pasó de chocar muebles en casa a chocar plantas profesionalmente.
 
-^DB8117^- Aliento fantasmal:^oldclr^ ^A0522D^escupe proyectiles espirituales de hielo o fuego^oldclr^
+[ZOMBIE_CHILDREN_TOYCAR_DESCRIPTION_HEADER]
+Usa su carrito de juguete para empujar plantas.
 
-^DB8117^- Reforja menor:^oldclr^ ^A0522D^repara 1 segmento de su espada y destruye plantas en 2 columnas al frente^oldclr^
+[ZOMBIE_CHILDREN_TOYGUN]
+Zombidito con burbujas
 
-^DB8117^- Reforja parcial:^oldclr^ ^A0522D^repara 2 segmentos de su espada y destruye plantas en 4 columnas al frente^oldclr^
+[ZOMBIE_CHILDREN_TOYGUN_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}Trebolador puede expulsar sus burbujas
 
-^DB8117^- Reforja real:^oldclr^ ^A0522D^repara su espada por completo y lanza un ataque devastador; derrótalo antes de que lo haga o perderás^oldclr^
+{FLAVOR}Soplar burbujas era un pasatiempo inocente hasta que empezó a apuntarlas a las plantas.
 
-{FLAVOR}Impulsado por el rencor de su derrota, el Señor del Palacio Subterráneo absorbió el poder del inframundo, desatando habilidades aún más temibles... y mucho más aterradoras.
+[ZOMBIE_CHILDREN_TOYGUN_DESCRIPTION_HEADER]
+Dispara burbujas que atrapan plantas y se las llevan volando.
 
-[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_DESCRIPTION_HEADER]
-Forma etérea del Primer Emperador, ahora conocido como el «Rey de las tinieblas»
+[ZOMBIE_CHILDREN_AIRBUBBLE]
+Burbuja gigante
 
-[GOLDMAGNET]
-Magnetoseta dorada
+[ZOMBIE_CHILDREN_AIRBUBBLE_DESCRIPTION]
+{KEYWORD}Especial: {STAT}se lleva plantas por los aires
+{KEYWORD}Debilidad: {STAT}Trebolador y Huracol pueden expulsarla
 
-[GOLDMAGNET_DESCRIPTION]
-{KEYWORD}Especial: {STAT}al atraer objetos, tiene la posibilidad de cortar los brazos del zombi, e incluso, su cabeza
-{KEYWORD}Características de la planta: {STAT}planta dorada, hábil, familia de setas
+{FLAVOR}Ligera, silenciosa y mucho más problemática de lo que debería permitir la física.
 
-{FLAVOR}"¿Cómo he llegado aquí?", se pregunta Magnetoseta dorada. "Ya lo tenía todo: despacho propio, acciones en bolsa... Iba a ser el próximo vicepresidente de la empresa. Y ahora estoy en este jardinucho a punto de ser devorado vivo... ¡Oh! ¡Una moneda!"
+[ZOMBIE_CHILDREN_AIRBUBBLE_DESCRIPTION_HEADER]
+Gran burbuja flotante creada por las pistolas de burbujas zombis.
 
-[GOLDMAGNET_DESCRIPTION_HEADER]
-La Magnetoseta dorada atrae los objetos metálicos de los zombis y recoge monedas por ti.
+[ZOMBIE_CHILDREN_LOLIPOPS]
+Zombi goloso
 
-[GOLDMAGNET_TOOLTIP]
-Desarma zombis de objetos metálicos y recoge monedas
+[ZOMBIE_CHILDREN_LOLIPOPS_DESCRIPTION]
+Asegura que una dieta basada únicamente en azúcar fue lo que lo mantuvo "joven".
 
-[GOLDMAGNET_PRODUCT_SHORT_DESC]
-Desarma zombis de objetos metálicos y recoge monedas
+[ZOMBIE_CHILDREN_LOLIPOPS_DESCRIPTION_HEADER]
+Arroja paletas de caramelo que impiden el plantado.
 
-[STORE_PRODUCT_AVATAR_GOLDMAGNET]
-Funde los objetos atraídos en una enorme moneda que derriba y daña zombis
+[ZOMBIE_SNOW_BALL]
+Bola de nieve
 
-[STORE_PRODUCT_AVATAR_GOLDMAGNET_TITLE]
-Capa dorada
+[ZOMBIE_SNOW_BALL_DESCRIPTION]
+{KEYWORD}Especial: {STAT}crece mientras avanza aplastando plantas
+{KEYWORD}Debilidad: {STAT}el fuego la derrite rápidamente
 
-[GOLDMAGNET_SKILL_LEVEL1]
-Nivel 2
+{FLAVOR}Comenzó como una pequeña bola de nieve. Los zombis hicieron el resto de las malas decisiones.
 
-[GOLDMAGNET_SKILL_LEVEL1_DES]
-^4DD4DB^Magnetismo eficiente:^oldclr^ reduce el tiempo de destrucción en 3 s; aumenta la probabilidad de atraer partes-zombi en un 5%
+[ZOMBIE_SNOW_BALL_DESCRIPTION_HEADER]
+Enorme bola de nieve empujada por zombis a través del jardín.
 
-[GOLDMAGNET_SKILL_LEVEL2]
-Nivel 3
+[ZOMBIE_SANTA]
+Zanta Clause
 
-[GOLDMAGNET_SKILL_LEVEL2_DES]
-^DD7ECB^Magnetismo mejorado:^oldclr^ mejora los efectos del Nvl. 2 al doble
+[ZOMBIE_SANTA_DESCRIPTION]
+{KEYWORD}Especial: {STAT}sobrevuela el jardín dejando regalos sorpresa
 
-[GOLDMAGNET_SKILL_LEVEL5]
-Nivel 5
+{FLAVOR}La Navidad nunca volvió a ser igual después de que empezó a gruñir "jo jo jo".
 
-[GOLDMAGNET_SKILL_LEVEL5_DES]
-^DB8117^Alquimista de oro:^oldclr^ genera una moneda que crece al atraer objetos, luego la suelta, dañando zombis a su paso
+[ZOMBIE_SANTA_DESCRIPTION_HEADER]
+Cruza el cielo en su trineo lanzando calcetines llenos de premios.
 
-[GLACIERSHROOM]
-Seta congelada
+[ZOMBIE_FEASTIVUS_SWASHBUCKLER]
+Zombi ladrón de lingotes
 
-[GLACIERSHROOM_DESCRIPTION]
-{KEYWORD}Especial: {STAT}toca en ella para congelar a todos los zombis en pantalla
-{KEYWORD}Características de la planta: {STAT}planta azul, gélida, ataque y defensa, familia de setas
+[ZOMBIE_FEASTIVUS_SWASHBUCKLER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}cruza cuatro casillas del patio
 
-{FLAVOR}"Reinventarse no es fácil", dice Seta congelada después de un duro régimen de entrenamiento en las partes más frías del Antártico. "Es muy raro que te den una segunda oportunidad, pero he vuelto y esta vez no pienso defraudar ni a mis amistades ni a mis fans". Seta congelada aparece en el patio ante el clamor de los presentes.
+{FLAVOR}Pasó años buscando riquezas legendarias. Luego descubrió que robar era más rápido.
 
-[GLACIERSHROOM_DESCRIPTION_HEADER]
-Seta congelada golpea a los zombis en combate cuerpo a cuerpo y los ralentiza.
+[ZOMBIE_FEASTIVUS_SWASHBUCKLER_DESCRIPTION_HEADER]
+Se balancea con una cuerda para aterrizar en medio de tu patio y robar lingotes.
 
-[GLACIERSHROOM_TOOLTIP]
-Daña y ralentiza a zombis cercanos, toca en ella para congelarlos
+[WEALTH_GOD]
+Dios de la riqueza
 
-[GLACIERSHROOM_SKILL_LEVEL1]
-Nivel 2
+[WEALTH_GOD_DESCRIPTION]
+Se manifiesta cada vez que alguien dice: "esto es inversión segura".
 
-[GLACIERSHROOM_SKILL_LEVEL1_DES]
-^4DD4DB^Invierno crudo:^oldclr^ ataca un 15% más rápido, daña a los zombis congelados con su habilidad manual
+[WEALTH_GOD_DESCRIPTION_HEADER]
+Flota sobre el patio en su nube y deja caer monedas cuando recibe daño.
 
-[GLACIERSHROOM_SKILL_LEVEL2]
-Nivel 3
+[ZOMBIE_IZOMBIE_SUNFLOWER]
+Zombi girasol
 
-[GLACIERSHROOM_SKILL_LEVEL2_DES]
-^DD7ECB^Tipo duro:^oldclr^ mejora los efectos del Nvl. 2 al doble
+[ZOMBIE_IZOMBIE_SUNFLOWER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}produce sol para los zombis
 
-[GLACIERSHROOM_SKILL_LEVEL5]
-Nivel 5
+{FLAVOR}Todavía sonríe como un girasol normal. Eso es probablemente lo más inquietante de todo.
 
-[GLACIERSHROOM_SKILL_LEVEL5_DES]
-^DB8117^Seta glacial:^oldclr^ deja hielo en un área 3x3 a su alrededor. Los zombis que lo pisen serán ralentizados y sufrirán grandes daños
+[ZOMBIE_IZOMBIE_SUNFLOWER_DESCRIPTION_HEADER]
+Extraño vegezombi capaz de producir sol para la invasión zombi.
 
-[STORE_PRODUCT_AVATAR_GLACIERSHROOM]
-Su ataque manual se divide y hace daño de área. Las esquirlas priorizan zombis con mayor salud y congelan.
+[ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT]
+Zombi nuez
 
-[GLACIERSHROOM_NEW_SKILL_LEVEL1_DES]
-Daña y ralentiza a los zombis cercanos por 2 s
-^E2725B^Tip: toca en ella para congelarlos por 4 s^oldclr^
+[ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT_DESCRIPTION]
+Siendo mitad nuez, este zombi sabe cómo romper fácilmente una cáscara dura y llegar al interior. Por 'cáscara' nos referimos a tu cráneo. ¡Y por 'nuez' nos referimos a tus sesos!
 
-[GLACIERSHROOM_NEW_SKILL_LEVEL2_DES]
-Ataca un 15% más rápido.
-^FF8000^Daña a los zombis congelados con su habilidad manual quienes pierden un 40% de su salud.^oldclr^
+[ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT_DESCRIPTION_HEADER]
+Su cabeza de nuez proporciona alta defensa.
 
-[GLACIERSHROOM_NEW_SKILL_LEVEL3_DES]
-Ataca un 30% más rápido.
-^FF8000^Daña a los zombis congelados con su habilidad manual quienes pierden un 80% de su salud.^oldclr^
+[ZOMBIE_IZOMBIE_TUTORIAL_GARGANTUAR]
+Zombistein cáscara-rrabias
 
-[GLACIERSHROOM_NEW_SKILL_LEVEL4_DES]
-Efecto de Nutrientes ^D22808^garantizado^oldclr^ en cada plantado.
-^DB8117^Nutrientes: deja hielo en un área 5x5 y lanza 4 esquirlas a zombis del área. ^D22808^Daño: 1.200 (casilla)^oldclr^
+[ZOMBIE_IZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta al enemigo con su poste
 
-[GLACIERSHROOM_NEW_SKILL_LEVEL5_DES]
-Deja hielo en un área 3x3 a su alrededor. Los zombis que lo pisen serán ralentizados y perderán un 50% de salud por segundo
+{FLAVOR}Ten cuidado de no burlarte de él, podría ser lo último que hagas, si no eres un zombi...
 
-[STORE_PRODUCT_AVATAR_GLACIERSHROOM_TITLE]
-Gafas naranjas
+[ZOMBIE_IZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION_HEADER]
+Su cabeza alta proporciona una protección absurda contra los ataques.
 
-[GLACIERSHROOM_AVATAR_NAME]
-Gafas naranjas
+[ZOMBIE_IZOMBIE_CHICKEN_FARMER]
+Vegezombi granjero
 
-[GLACIERSHROOM_PLANTFOOD_DESCRIPTION]
-Deja hielo en un área 5x5 y lanza 4 esquirlas a zombis del área. ^D22808^Daño: 1.200 (casilla)^oldclr^
+[ZOMBIE_IZOMBIE_CHICKEN_FARMER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}invoca pavos de tofu para atacar plantas
 
-[GLACIERSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Básicos: el ataque manual se divide y hace daño de área. ^D22808^Daño: 1 (casilla)^oldclr^
-^DB8117^Nutrientes: las esquirlas priorizan zombis con mayor salud y congelan por 3 s^oldclr^
+{FLAVOR}Intentó criar pollos normales una vez. El experimento vegetal tomó un rumbo extraño.
 
-[EXORCISLILY]
-Flor del infierno
+[ZOMBIE_IZOMBIE_CHICKEN_FARMER_DESCRIPTION_HEADER]
+Vegezombi que libera agresivos pavos de tofu sobre el jardín.
 
-[EXORCISLILY_DESCRIPTION_HEADER]
-Planta espiritual que dispara talismánes para dañar zombis y espíritus malignos.
+[ZOMBIE_IZOMBIE_LOSTCITY_DOCTOR]
+Doctor durazno
 
-[EXORCISLILY_DESCRIPTION]
-{KEYWORD}Especial: {STAT}dispara talismánes más poderosos en el Reino espiritual
-{KEYWORD}Características de la planta: {STAT}planta roja, anciana, espiritual, destructora
+[ZOMBIE_IZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION]
+{KEYWORD}Especial: {STAT}cura zombis cercanos
 
-{FLAVOR}Siempre dice ser un calígrafo serio, pero a los zombis les da igual cómo maneje el pincel: lo único que saben es que, cuando esos papeles amarillos se les pegan en la frente, el ardor les impide mantener los ojos abiertos.
+{FLAVOR}Asegura que la medicina y la fotosíntesis pueden coexistir pacíficamente. Los zombis son la prueba inquietante de su teoría.
 
-[EXORCISLILY_TOOLTIP]
-Dispara talismánes que dañan zombis y espíritus
+[ZOMBIE_IZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
+Vegezombi médico que utiliza energía vegetal para curar aliados.
 
-[EXORCISLILY_SKILL_LEVEL1]
-Nivel 2
+[ZOMBIE_ZOMBIE_PUMPKIN]
+Zombi calabaza
 
-[EXORCISLILY_SKILL_LEVEL1_DES]
-^4DD4DB^Hechizo de reducción:^oldclr^ gana un 15% de probabilidad de encoger zombis durante 3 s, haciéndolos vulnerables al daño
+[ZOMBIE_ZOMBIE_PUMPKIN_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombi al ser derrotado
 
-[EXORCISLILY_SKILL_LEVEL2]
-Nivel 3
+{FLAVOR}La magia de Brujalabaza transforma zombis comunes en algo más aterrador... y considerablemente más anaranjado.
 
-[EXORCISLILY_SKILL_LEVEL2_DES]
-^DD7ECB^Maestro hechicero:^oldclr^ aumenta la probabilidad de los efectos del Nvl. 2 al doble
+[ZOMBIE_ZOMBIE_PUMPKIN_DESCRIPTION_HEADER]
+Criatura creada por Brujalabaza para combatir en el campo de batalla.
 
-[EXORCISLILY_SKILL_LEVEL5]
-Nivel 5
+[ZOMBIE_ZOMBIE_PUMPKIN_IMP]
+Zombidito calabaza
 
-[EXORCISLILY_SKILL_LEVEL5_DES]
-^A048CF^Lluvia de talismánes:^oldclr^ al atacar, lanza un talismán adicional hacia el enemigo más cercano
+[ZOMBIE_ZOMBIE_PUMPKIN_IMP_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombidito al ser derrotado
 
-[EXORCISLILY_NEW_SKILL_LEVEL1_DES]
-Cada 3 s, dispara talismánes que dañan zombis y espíritus.
-^E2725B^Reino espiritual: dispara talismánes espectrales que hacen daño en un área de 3x3^oldclr^
+{FLAVOR}La magia oscura es mucho menos elegante cuando viene en tamaño compacto.
 
-[EXORCISLILY_NEW_SKILL_LEVEL2_DES]
-Gana un ^D22808^15% de probabilidad^oldclr^ de encoger zombis durante 3 s, haciéndolos un 20% más vulnerables al daño.
+[ZOMBIE_ZOMBIE_PUMPKIN_IMP_DESCRIPTION_HEADER]
+Pequeña criatura creada por Brujalabaza para sembrar caos en miniatura.
 
-[EXORCISLILY_NEW_SKILL_LEVEL3_DES]
-Gana un ^D22808^30% de probabilidad^oldclr^ de encoger zombis durante 3 s, haciéndolos un 20% más vulnerables al daño.
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD]
+Gólem de calabaza
 
-[EXORCISLILY_NEW_SKILL_LEVEL4_DES]
-Gana un ^D22808^20% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: lanza talismánes de trueno a 5 zombis aleatorios que los aturden por 3 s ^D22808^Daño: 300^oldclr^
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_DESCRIPTION]
+{KEYWORD}Especial: {STAT}sus hechizos suprimen la curación zombi
+{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombi al ser derrotado
 
-[EXORCISLILY_NEW_SKILL_LEVEL5_DES]
-Al atacar, lanza un talismán adicional hacia el enemigo más cercano.
+{FLAVOR}Cada hechizo consume energía oscura y una cantidad preocupante de semillas de calabaza.
 
-[STORE_PRODUCT_AVATAR_EXORCISLILY_TITLE]
-Tocado imperial
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_DESCRIPTION_HEADER]
+Criatura mágica creada por Brujalabaza que debilita la regeneración zombi.
 
-[STORE_PRODUCT_AVATAR_EXORCISLILY]
-Libera un amuleto adicional que neutraliza efectos adversos en plantas
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_IMP]
+Minigólem de calabaza
 
-[EXORCISLILY_AVATAR_NAME]
-Tocado imperial
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}sus hechizos suprimen la curación zombi
+{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombidito al ser derrotado
 
-[EXORCISLILY_PLANTFOOD_DESCRIPTION]
-Lanza talismánes de trueno a 5 zombis aleatorios que los aturden por 3 s ^D22808^Daño: 300^oldclr^
+{FLAVOR}Brujalabaza lo creó para lanzar maldiciones menores. Él decidió tomárselo demasiado en serio.
 
-[EXORCISLILY_AVATAR_PLANTFOOD_DESCRIPTION]
-Libera un talismán adicional que neutraliza efectos adversos en plantas
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_IMP_DESCRIPTION_HEADER]
+Pequeña criatura mágica creada por Brujalabaza para sabotear la regeneración zombi.
 
-[DOOMBELL]
-Campana sagrada
+[ZOMBIE_ZOYBEANPOD_BASIC]
+Zomboide
 
-[DOOMBELL_DESCRIPTION_HEADER]
-La Campana sagrada bloquea zombis y emite ondas que atraen espíritus de alrededor para cortarles el paso.
+[ZOMBIE_ZOYBEANPOD_BASIC_DESCRIPTION]
+Además del tofu, a Vaina de zoja se le da bien crear zomboides usando hechizos de un libro antiguo que encontró.
 
-[DOOMBELL_DESCRIPTION]
-{KEYWORD}Especial: {STAT}bloquea múltiples enemigos y recupera salud en el Reino espiritual
-{KEYWORD}Características de la planta: {STAT}planta marrón, de alta estatura, espiritual, defensa
+[ZOMBIE_ZOYBEANPOD_BASIC_DESCRIPTION_HEADER]
+Un zomboide hecho a base de tofu, luchará por ti contra los zombis enemigos.
 
-{FLAVOR}¿Por qué esos espíritus acaban deteniéndose a morderla en vez de atravesarla? Tras una árdua investigación, se llegó a una conclusión: no es que la Campana sagrada tenga efectos purificadores como se pensaba, sino que, el sonido que hace, los vuelve locos.
+[ZOMBIE_ZOYBEANPOD_ARMOR1]
+Zomboide carazanahoria
 
-[DOOMBELL_TOOLTIP]
-Planta defensiva que bloquea zombis y espíritus malignos
+[ZOMBIE_ZOYBEANPOD_ARMOR1_DESCRIPTION]
+Un zomboide rico en tofu y betacaroteno.
 
-[DOOMBELL_SKILL_LEVEL1]
-Nivel 2
+[ZOMBIE_ZOYBEANPOD_ARMOR1_DESCRIPTION_HEADER]
+Su zanahoria le otorga el doble de dureza que el zomboide básico.
 
-[DOOMBELL_SKILL_LEVEL1_DES]
-^4DD4DB^El último tintineo:^oldclr^ al ser derrotado, genera una onda que aturde zombis por 6 s
+[ZOMBIE_ZOYBEANPOD_ARMOR2]
+Zomboide carasandía
 
-[DOOMBELL_SKILL_LEVEL2]
-Nivel 3
+[ZOMBIE_ZOYBEANPOD_ARMOR2_DESCRIPTION]
+Si bien, la sandía lo protege de muchas cosas, le da un toque único a su personalidad.
 
-[DOOMBELL_SKILL_LEVEL2_DES]
-^DD7ECB^Tintineo mejorado:^oldclr^ mejora los efectos del Nvl. 2 en un 50%
+[ZOMBIE_ZOYBEANPOD_ARMOR2_DESCRIPTION_HEADER]
+Su sandía le otorga el triple de dureza que el zomboide básico.
 
-[DOOMBELL_SKILL_LEVEL5]
-Nivel 5
+[ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA]
+Zomboide guisantrallador
 
-[DOOMBELL_SKILL_LEVEL5_DES]
-^A048CF^Campana de bronce:^oldclr^ acumula energía por 7 s, la libera para derribar a los zombis que la muerdan
+[ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA_DESCRIPTION]
+La única solución que encontró para sus problemas fue añadir más guisantes.
 
-[DOOMBELL_NEW_SKILL_LEVEL1_DES]
-Bloquea zombis y espíritus. Cada 5 s, atrae espíritus de un área 3x3 ^FF0000^(máx. 1)^oldclr^
-^E2725B^Reino espiritual: bloquea múltiples enemigos y recupera 100 PS por segundo^oldclr^
+[ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA_DESCRIPTION_HEADER]
+Zomboide bien equipado para la acción. Dispara 4 guisantes al enemigo.
 
-[DOOMBELL_NEW_SKILL_LEVEL2_DES]
-Al ser derrotado, genera una onda que ^848484^aturde^oldclr^ zombis por 6 s
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR]
+Zomboidestein
 
-[DOOMBELL_NEW_SKILL_LEVEL3_DES]
-Al ser derrotado, genera una onda que ^848484^aturde^oldclr^ zombis por 9 s
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta zombis con su gigantesca hoja de ruibarbo
 
-[DOOMBELL_NEW_SKILL_LEVEL4_DES]
-Gana un ^D22808^25% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: obtiene una armadura con 8.000 puntos de vida.^oldclr^
+{FLAVOR}Las plantas confían plenamente en él. Principalmente porque discutir con alguien que carga una hoja de ruibarbo del tamaño de un árbol parece mala idea.
 
-[DOOMBELL_NEW_SKILL_LEVEL5_DES]
-Si no hay zombis atacándolo, se silencia y empieza a acumular energía por 7 s
-La próxima vez que un zombi la muerda, libera una onda sónica que derriba al resto por 1 casilla.
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR_DESCRIPTION_HEADER]
+Zomboide creado tras un preocupante exceso de tofu.
 
-[STORE_PRODUCT_AVATAR_DOOMBELL_TITLE]
-Amuleto
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR2]
+Zomboidestein rábano
 
-[STORE_PRODUCT_AVATAR_DOOMBELL]
-Se reviste de un escudo de plata que otorga mayor dureza.
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR2_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta y aturde zombis con su gigantesco rábano
 
-[DOOMBELL_AVATAR_NAME]
-Amuleto
+{FLAVOR}Cambió la hoja de ruibarbo por un rábano gigante. Nadie entendió por qué, pero los zombis dejaron de hacer preguntas rápidamente.
 
-[DOOMBELL_PLANTFOOD_DESCRIPTION]
-Obtiene una armadura con 8.000 puntos de vida.
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR2_DESCRIPTION_HEADER]
+Variante experimental creada con todavía más tofu.
 
-[DOOMBELL_AVATAR_PLANTFOOD_DESCRIPTION]
-Se reviste de un escudo de plata con 12.000 puntos de vida
+[ZOMBIE_RADIATED_MID]
+Zombi irradiado
 
-[STORE_PRODUCT_AVATAR_GLOOMBARA_TITLE]
-Cuentas
+[ZOMBIE_RADIATED_MID_DESCRIPTION]
+La radiación convirtió a un zombi común en algo mucho más difícil de ignorar y considerablemente más brillante en la oscuridad.
 
-[STORE_PRODUCT_AVATAR_GLOOMBARA]
-Sin efectos.
+[ZOMBIE_RADIATED_MID_DESCRIPTION_HEADER]
+Mutante zombi contaminado tras demasiada exposición radiactiva.
 
-[GLOOMBARA_AVATAR_NAME]
-Cuentas
+[ZOMBIE_RADIATED_SMALL]
+Zombidito irradiado
 
-[GENE_DESCRIPTION_LOTUSSHOWER]
-Los torpedos de Vaina de loto hacen un {Param_1}% más daño
+[ZOMBIE_RADIATED_SMALL_DESCRIPTION]
+La exposición radiactiva afectó su cuerpo, su cerebro y probablemente su concepto de seguridad personal.
 
-[GENE_DESCRIPTION_SEASHROOM]
-Seta marina gana un {Param_1}% más salud, su tiempo de vida aumenta un {Param_2}%
+[ZOMBIE_RADIATED_SMALL_DESCRIPTION_HEADER]
+Pequeño mutante zombi deformado por niveles alarmantes de radiación.
 
-[GENE_DESCRIPTION_DRAGONROAR]
-Hierba dinosaurio devora y digiere zombis un {Param_1}% más rápido
+[ZOMBIE_RADIATED_LARGE]
+Zombistein irradiado
 
-[GENE_DESCRIPTION_RHEUMNOBILE]
-Págoda aromática tiene un {Param_1}% de absorber 2 zombis extra al usar Nutrientes
+[ZOMBIE_RADIATED_LARGE_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta enemigos con su fuerza mutante
 
-[GIFT_RETURN_TAB_4]
-VIP
+{FLAVOR}Demasiada radiación, demasiado músculo y definitivamente demasiado entusiasmo destructivo.
 
-[GIFT_RETURN_DOUBLE_COINS_REWARD_DESC]
-¡Privilegios por tiempo limitado! 
-¡Consigue el Duplicador de Monedas!
+[ZOMBIE_RADIATED_LARGE_DESCRIPTION_HEADER]
+Gigantesco mutante creado por un desastre radiactivo.
 
-[GIFT_RETURN_QUADRUPLE_COINS_REWARD_DESC]
-¡Privilegios por tiempo limitado! 
-¡Consigue el Cuadriplicador de Monedas!
+[ZOMBIE_DEVILS_MUMMY]
+Zombi parasitado
 
-[PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_NORMAL_CONFIRM]
-¿Deseas comprar esto por ^A0522D^{NUMS} Monedas de cobre^oldclr^?
+[ZOMBIE_DEVILS_MUMMY_DESCRIPTION]
+{KEYWORD}Especial: {STAT}el parásito debilita lentamente al huésped
 
-[PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_HARD_CONFIRM]
-¿Deseas comprar esto por ^3827F5^{NUMS} Estratagemas^oldclr^?
+{FLAVOR}El insecto abisal consume lentamente a su huésped mientras lo obliga a seguir avanzando.
 
-[UNCHARTED_MAUSOLEUM_ID_25868]
-Tour por las catacumbas
+[ZOMBIE_DEVILS_MUMMY_DESCRIPTION_HEADER]
+Zombi controlado por un parásito invocado por Garra del diablo.
 
-[UNCHARTED_MAUSOLEUM_DES_ID_25868]
-A quienes alcanzaron la racha 50 de la Zona de infinito en Tierras ocultas: Mausoleo de Qin - Parte 2
+[ZOMBIE_DEVILS_MUMMY_IMP]
+Zombidito parasitado
 
-[TIMESPACE_MAUSOLEUM_2_MODE_HARD_LOCKED_CLICKED_HINT]
-Disponible el 30 de abril al completar el Modo fácil.
+[ZOMBIE_DEVILS_MUMMY_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cuerpo debilitado es controlado por un parásito
 
-[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM_2]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+{FLAVOR}Demasiado pequeño para resistirse. Demasiado infectado para detenerse.
 
-[LEVEL_SELECT_PREVIEW_TITLE]
-Selección de portada
+[ZOMBIE_DEVILS_MUMMY_IMP_DESCRIPTION_HEADER]
+Pequeño zombi dominado por un insecto parasitario abisal.
 
-[LEVEL_SELECT_PREVIEW_BTN_OK]
-ACEPTAR
+[ZOMBIE_ARTIFACT_ACID_SMALL]
+Zombidito ácido
 
-[PLANT_TAG_38]
-Espiritual
+[ZOMBIE_ARTIFACT_ACID_SMALL_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cuerpo corrosivo daña a los zombis cercanos cuando es destruido
 
-[FUMESHROOM_NEW_SKILL_LEVEL5_DES]
-^DD7ECB^Humoseta encantada: sus esporas tienen un 5% de hipnotizar zombis ^FF0000^(límite: Nvl. 8)^oldclr^
-^A048CF^Humoseta desesporada: se sincroniza con las Setas desesporadas del patio al atacar^oldclr^
-^4DD4DB^Hongo trueno: dispara relámpagos que tienen un 10% de desarmar zombis de cascos.^oldclr^
+{FLAVOR}Pequeño, inestable y peligrosamente corrosivo para todo lo que se acerque demasiado.
 
-[GOLDMAGNET_NEW_SKILL_LEVEL1_DES]
-Desarma zombis de objetos metálicos, recoge monedas cada 2 s
-^E2725B^Atracción potente: 5% de atraer las cabezas zombi, 10% de atraer sus brazos.^oldclr^
+[ZOMBIE_ARTIFACT_ACID_SMALL_DESCRIPTION_HEADER]
+Mutante aliado deformado por una sustancia ácida experimental.
 
-[GOLDMAGNET_NEW_SKILL_LEVEL2_DES]
-Reduce el tiempo de destrucción en 3 s
-^FF8000^Aumenta la probabilidad de atraer partes-zombi en un 5% ^D22808^(10% cabeza, 15% brazos)^oldclr^
+[ZOMBIE_ARTIFACT_ACID_MID]
+Zombi ácido
 
-[GOLDMAGNET_NEW_SKILL_LEVEL3_DES]
-Reduce el tiempo de destrucción en 6 s
-^FF8000^Aumenta la probabilidad de atraer partes-zombi en un 10% ^D22808^(15% cabeza, 20% brazos)^oldclr^
+[ZOMBIE_ARTIFACT_ACID_MID_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cuerpo corrosivo daña a los zombis cercanos cuando es destruido
 
-[GOLDMAGNET_NEW_SKILL_LEVEL4_DES]
-Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: atrae 20 objetos metálicos y recoge todas las monedas del suelo.^oldclr^
+{FLAVOR}La sustancia que recorre su cuerpo debería haberlo destruido hace tiempo. Claramente decidió ignorar ese detalle.
 
-[GOLDMAGNET_NEW_SKILL_LEVEL5_DES]
-Genera una moneda que crece al atraer objetos, la suelta al atraer el 5to objeto.
-La moneda rueda por la línea y aplasta zombis. ^D22808^Daño: 198^oldclr^
+[ZOMBIE_ARTIFACT_ACID_MID_DESCRIPTION_HEADER]
+Mutante aliado contaminado por peligrosos compuestos corrosivos.
 
-[GOLDMAGNET_PLANTFOOD_DESCRIPTION]
-Atrae 20 objetos metálicos y recoge todas las monedas del suelo.
+[ZOMBIE_ARTIFACT_ACID_LARGE]
+Zombistein ácido
 
-[GOLDMAGNET_AVATAR_PLANTFOOD_DESCRIPTION]
-Funde los objetos atraídos en una enorme moneda que derriba y daña zombis medianos. ^D22808^Daño: 888^oldclr^
+[ZOMBIE_ARTIFACT_ACID_LARGE_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta enemigos con su enorme fuerza corrosiva
+{KEYWORD}Especial: {STAT}su cuerpo corrosivo daña a los zombis cercanos cuando es destruido
 
-[NEW_AVATAR_SHORT_DESCRIPTION_GUARDSHROOM_3]
-Demonio del abismo
+{FLAVOR}Cada paso deja marcas de ácido, destrucción y varias preocupaciones ambientales importantes.
 
-[NEW_AVATAR_DESCRIPTION_GUARDSHROOM_3]
-Reduce el tiempo de digestión en un 40%
+[ZOMBIE_ARTIFACT_ACID_LARGE_DESCRIPTION_HEADER]
+Gigantesco mutante aliado creado tras un accidente químico fuera de control.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_GRAVEBUSTER_1]
-Clásico
+[ZOMBIE_SILVERKEY_GARGANTUAR]
+Zombistein del vacío
 
-[NEW_AVATAR_DESCRIPTION_GRAVEBUSTER_1]
-Da 50 soles tras consumir una lápida, con 50% de dar una moneda extra
+[ZOMBIE_SILVERKEY_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta zombis usando energía interdimensional
 
-[NEW_AVATAR_SHORT_DESCRIPTION_LONGMALILY_1]
-Monóculo
+{FLAVOR}Invocado mediante las Llaves abisales, aunque nadie logró explicar exactamente de dónde viene.
 
-[NEW_AVATAR_DESCRIPTION_LONGMALILY_1]
-Recarga rápida +10%
+[ZOMBIE_SILVERKEY_GARGANTUAR_DESCRIPTION_HEADER]
+Gigantesco guardián surgido a través de un antiguo artefacto dimensional.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_2]
-Dragón azul
+[ZOMBIE_TURKEYPULT_BASIC]
+Pavo de tofu
 
-[NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_2]
-La probabilidad de congelar zombis aumenta en un 10%
+[ZOMBIE_TURKEYPULT_BASIC_DESCRIPTION]
+{KEYWORD}Daño: {STAT}ataca zombis cercanos a picotazos
 
-[NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_2]
-Cocinera
+{FLAVOR}Fue creado por Pavopulta usando tofu, energía vegetal y una preocupante falta de supervisión.
 
-[NEW_AVATAR_DESCRIPTION_TWINSHONEYSUCKLE_2]
-Daño +15%
+[ZOMBIE_TURKEYPULT_BASIC_DESCRIPTION_HEADER]
+Aliado invocado por Pavopulta para sembrar caos emplumado.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_OXYGENALGAE_2]
-Snorkel
+[ZOMBIE_TURKEYPULT_TURKZILLA_LV5]
+Pavozilla
 
-[NEW_AVATAR_DESCRIPTION_OXYGENALGAE_2]
-Producción solar +10%
+[ZOMBIE_TURKEYPULT_TURKZILLA_LV5_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aturde zombis al aterrizar, luego los ataca a picotazos
 
-[NEW_AVATAR_SHORT_DESCRIPTION_WITCHHAZEL_2]
-Sombrero verde
+{FLAVOR}Nadie esperaba que alimentar demasiado a un pavo de tofu terminara así.
 
-[NEW_AVATAR_DESCRIPTION_WITCHHAZEL_2]
-Daño +15%
+[ZOMBIE_TURKEYPULT_TURKZILLA_LV5_DESCRIPTION_HEADER]
+Versión gigante del pavo de tofu creada al alcanzar el nivel 5.
 
-[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICCURRANT_2]
-Alto voltaje
+[ZOMBIE_TURKEYPULT_TURKZILLA]
+Pavozilla calabaza
 
-[NEW_AVATAR_DESCRIPTION_ELECTRICCURRANT_2]
-Coste -20
+[ZOMBIE_TURKEYPULT_TURKZILLA_DESCRIPTION]
+{KEYWORD}Daño: {STAT}ataca zombis cercanos a picotazos
+{KEYWORD}Especial: {STAT}su casco de calabaza le otorga mayor resistencia
 
-[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_2]
-Peligro
+{FLAVOR}Descubrió que usar una calabaza como casco era ridículo. Luego descubrió que también era efectivo.
 
-[NEW_AVATAR_DESCRIPTION_PRIMALPOTATOMINE_2]
-Recarga rápida +15%
+[ZOMBIE_TURKEYPULT_TURKZILLA_DESCRIPTION_HEADER]
+Pavozilla reforzado con una resistente armadura de calabaza.
 
-[MAT_TOY_PARTS_1]
-Rotor de oro
+[ZOMBIE_TURKEYPULT_TURKZILLA_AVATAR]
+Pavozilla imperial
 
-[MAT_TOY_PARTS_1_USE]
-Se usa para canjear artículos en Fiesta de disfraces: Demon Hunters
+[ZOMBIE_TURKEYPULT_TURKZILLA_AVATAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}ataca zombis cercanos a picotazos
+{KEYWORD}Especial: {STAT}su armadura le brinda una protección excepcional
 
-[MAT_TOY_PARTS_1_GOT_WAY]
-Fiesta de disfraces
+{FLAVOR}Cubierto de armadura y orgullo desmedido, entra al combate como si el jardín ya le perteneciera.
 
-[MAT_TOY_CLOCKWORK_1]
-Moneda del cazademonios
+[ZOMBIE_TURKEYPULT_TURKZILLA_AVATAR_DESCRIPTION_HEADER]
+La forma definitiva de Pavozilla, equipada para una destrucción total.
 
-[MAT_TOY_CLOCKWORK_1_USE]
-Se usa para realizar sorteos en Fiesta de disfraces: Demon Hunters
+[ZOMBIE_DEVILS_ALIEN_GARGANTUAR]
+Zombistein abisal
 
-[MAT_TOY_CLOCKWORK_1_GOT_WAY]
-Fiesta de disfraces
+[ZOMBIE_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta zombis con su fuerza infernal
+{KEYWORD}Especial: {STAT}deja ácido al ser derrotado
 
-[MAT_TOY_PARTS_2]
-Colmena de cristal
+{FLAVOR}Invocado desde las profundidades por Garra del diablo. Nadie sabe exactamente de qué profundidad, y todos prefieren mantenerlo así.
 
-[MAT_TOY_PARTS_2_USE]
-Se usa para canjear artículos en Fiesta de disfraces: Sweet Rhapsody
+[ZOMBIE_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION_HEADER]
+Criatura abisal llamada al combate mediante antiguos poderes oscuros.
 
-[MAT_TOY_PARTS_2_GOT_WAY]
-Fiesta de disfraces
+[ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR]
+Zombistein abisal supremo
 
-[MAT_TOY_CLOCKWORK_2]
-Moneda de miel
+[ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}destruye zombis con una fuerza devastadora
+{KEYWORD}Especial: {STAT}probabilidad de liberar ácido al atacar, deja ácido cuando es derrotado
 
-[MAT_TOY_CLOCKWORK_2_USE]
-Se usa para realizar sorteos en Fiesta de disfraces: Sweet Rhapsody
+{FLAVOR}Incluso las criaturas del abismo parecen incómodas cuando él aparece.
 
-[MAT_TOY_CLOCKWORK_2_GOT_WAY]
-Fiesta de disfraces
+[ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION_HEADER]
+Entidad infernal de enorme poder invocada por Garra del diablo.
 
-[MAUSOLEUMHARD_HOWTOPLAY_7_DESCRIPTION]
-Solo se permiten 2 plantas de segunda generación en el Modo difícil
+[ZOMBIE_CTHULHUACTINIA]
+Acólito abisal
 
-[MAUSOLEUMDANGERROOM_HOWTOPLAY_7_DESCRIPTION]
-Solo se permiten 2 plantas de segunda generación en las Zonas de infinito
+[ZOMBIE_CTHULHUACTINIA_DESCRIPTION]
+{KEYWORD}Especial: {STAT}lucha del lado de las plantas tras ser transformado
 
-[MAUSOLEUMDANGERROOM_HOWTOPLAY_8_DESCRIPTION]
-¡El Primer Emperador regresó! Batallas emocionantes te esperan cada 9 Niveles
+{FLAVOR}Nadie sabe qué vio exactamente en el ojo de la anémona. Claramente fue demasiado.
 
-[MAUSOLEUMDANGERROOM_HOWTOPLAY_9_DESCRIPTION]
-Recibes Monedas de cobre y Estratagemas si pierdes o te retiras
+[ZOMBIE_CTHULHUACTINIA_DESCRIPTION_HEADER]
+Extraña criatura creada por la Anémona de tierra mediante energía abisal.
 
-[MAT_MAUSOLEUM_2_HARD_COIN]
-Estratagema
+[ZOMBIE_CTHULHUACTINIA_IMP]
+Acólito abisal pequeño
 
-[MAT_UNCHARTED_PERK_GATLINGPEA_1]
-Guisantralladora espiritual
+[ZOMBIE_CTHULHUACTINIA_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}ataca zombis tras ser transformado por el ojo
 
-[MAT_UNCHARTED_PERK_GATLINGPEA_2]
-Guisantralladora espiritual II
+{FLAVOR}Su pequeño cerebro fue el primero en rendirse ante la mirada de la anémona.
 
-[MAT_UNCHARTED_PERK_GATLINGPEA_3]
-Guisantralladora espiritual III
+[ZOMBIE_CTHULHUACTINIA_IMP_DESCRIPTION_HEADER]
+Versión pequeña de la criatura ocular creada por Anémona de tierra.
 
-[NEWYEAR_GIFT_HEAD_ID_25867]
-Música occidental
+[ZOMBIE_GUM]
+Chicle
 
-[NEWYEAR_GIFT_HEAD_DES_ID_25867]
-A quienes recargaron en la temporada 12 del evento: Lotes del coleccionista
+[ZOMBIE_GUM_DESCRIPTION]
+{KEYWORD}Especial: {STAT}los zombis más fuertes forman barreras más resistentes
 
-[AVATARCOLLECTIONS_HEAD_ID_25866]
-Purista
+{FLAVOR}Un chicle con sabor a jamón.
 
-[AVATARCOLLECTIONS_HEAD_DES_ID_25866]
-Completaste la colección de atuendos: Creación pura
+[ZOMBIE_GUM_DESCRIPTION_HEADER]
+Chicle fabricado por Nuez chicletera. Bloquea a los zombis que tiene detrás.
 
-[AVATARCOLLECTIONS_HEAD_ID_25869]
-La sombra del demonio
+[ZOMBIE_POISON_GUM]
+Chicle envenenado
 
-[AVATARCOLLECTIONS_HEAD_DES_ID_25869]
-Completaste la colección de atuendos: Cazadores de demonios
+[ZOMBIE_POISON_GUM_DESCRIPTION]
+{KEYWORD}Especial: {STAT}los zombis más fuertes forman barreras más resistentes
 
-[AVATARCOLLECTIONS_THEME_TITLE20]
-Aventuras en Dunhuang
+{FLAVOR}Un chicle cargado de veneno y saña.
 
-[AVATARCOLLECTIONS_THEME_DES20]
-¡Que hermosa cultura!
+[ZOMBIE_POISON_GUM_DESCRIPTION_HEADER]
+Chicle fabricado por Nuez chicletera tras alcanzar el nivel 5. Bloquea zombis y envenena a quien lo coma.
 
-[AVATARCOLLECTIONS_THEME_TITLE21]
-Creación pura
+[ZOMBIE_ZOMBIE_SNOWMAN]
+Muñeco de nieve
 
-[AVATARCOLLECTIONS_THEME_DES21]
-Todo lo creado tiene alma
+[ZOMBIE_ZOMBIE_SNOWMAN_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}el fuego lo derrite rápidamente
 
-[AVATARCOLLECTIONS_THEME_TITLE22]
-Cazadores de demonios
+{FLAVOR}Fue construido para resistir invasiones, no estaciones cálidas.
 
-[AVATARCOLLECTIONS_THEME_DES22]
-Exterminadores del mal
+[ZOMBIE_ZOMBIE_SNOWMAN_DESCRIPTION_HEADER]
+Muñeco de nieve inmóvil creado por Reina flor de nieve.
 
-[TOYS_HEAD_ID_25865]
-Terror en las profundidades
+[ZOMBIE_HAMSTER_BALL]
+Bola de hámster
 
-[TOYS_HEAD_DES_ID_25865]
-A quienes participaron en la temporada 15 del evento: Fiesta de disfraces
+[ZOMBIE_HAMSTER_BALL_DESCRIPTION]
+{KEYWORD}Especial: {STAT}protege zombis y aplasta plantas al rodar
+{KEYWORD}Debilidad: {STAT}Pinchorroca y plantas explosivas
 
-[TIANGONG_HEAD_ID_25864]
-Deseos y estrellas
+{FLAVOR}Alguien vio una bola de hámster y pensó: "esto necesita más destrucción".
 
-[TIANGONG_HEAD_DES_ID_25864]
-A quienes participaron en la temporada 12 del evento: El Tesoro celestial
-
-[STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK_TITLE]
-Liebre
-
-[STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK]
-Coste -25
-
-[UNCHARTED_HAYSTACK_NEW_SKILL_LEVEL1_DES]
-Te permite plantar sobre el terreno fangoso del Mausoleo de Qin.
-
-[UNCHARTED_HAYSTACK_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
-
-[PVZ1_MODE_MINIGAME_START_LEVEL_141]
-Era del vapor
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_31]
-Evita que los zombis se lleven a los cerditos
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_32]
-Evita que Guacadrilo choque con los obstáculos y sobrevive al ataque zombi
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_33]
-¡Juguemos bolos en la playa!
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_34]
-Esquiva obstáculos y haz que los dodos crucen el rio
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_35]
-Combina esferas y protege tus plantas
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_36]
-Derriba zombis a cañonazos. Alcanza la puntuación objetivo para ganar
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_37]
-Pon obstáculos y plantas para evitar que los zombis se roben tus piezas
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_38]
-Pon obstáculos y plantas para evitar que los zombis se roben tus piezas
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_39]
-Sobrevive esquivando zombis y proyectiles. Derrota a los enemigos para alcanzar la puntuación objetivo
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_40]
-Arrastra los autos y despeja el área para que Dave regrese a casa
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_81]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_82]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_83]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_84]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_85]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_86]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_87]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_88]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_89]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_90]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_91]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_92]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_93]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_94]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_95]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_96]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_97]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_98]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_99]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_100]
-Rompe los jarrones y derrota a los zombis
-
-[PVZ1_MODE_MINIGAME_MODE_DESC_141]
-Comanda un ejército zombi y derrota a todas las plantas
-
-[TIME_TUNNEL_SKIP]
-Toca para omitir...
-
-[ACTIVITY_NEW_GIFTFORETURN_TIPS]
-1. La bolsa de premios es de 200.000 Joyas, la cantidad aumenta en 50 por cada Sorteo realizado
-2. El acumulado de Joyas se reparte en un 10% por cada jugador
-
-[GIFTFORETURN_DAILYSIGN_DAY_SUM]
-{NUM}d
-
-[GIFTFORETURN_DAILYSIGN_MISSSIGNDAY_SUM]
-Faltaste: {NUM}d
-
-[GIFTFORETURN_DAILYSIGN_SIGN_COST]
-{NUM}
-
-[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_1]
-Guisantralladora hace 50% más daño y cuesta 150 soles menos
-
-[GIFTFORETURN_DAILYSIGN_SIGN_COST_NOT_ENOUGH]
-Monedas insuficientes.
-
-[PVZ2UNCHARTEDMODE_SHOP_LOCK_1]
-Completa el nivel 10 (difícil)
-
-[PVZ2UNCHARTEDMODE_SHOP_LOCK_2]
-Completa el nivel 5 (difícil)
-
-[PVZ2UNCHARTEDMODE_SHOP_LOCK_3]
-Completa el nivel 10
-
-[PVZ2UNCHARTEDMODE_SHOP_LOCK_4]
-Completa el nivel 8
-
-[PVZ2UNCHARTEDMODE_SHOP_LOCK_5]
-Completa el nivel 6
-
-[PVZ2UNCHARTEDMODE_SHOP_LOCK_6]
-Completa el nivel 3
-
-[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_2]
-Guisantralladora tiene un 25 % de probabilidad de liberar guisantes extra en un área de abanico
-
-[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_3]
-Guisantralladora puede potenciarse en el Reino espiritual, disparando guisantes espectrales que hacen más daño
-
-[UIUNCHARTEDENTRY_LOCK_DESCRIPTION]
-Evento bloqueado
-
-[UIUNCHARTEDENTRY_LOCK_UNCHARTED_MAUSOLEUM_2_DESCRIPTION]
-Se desbloquea al completar los niveles del primer capítulo.
-
-[PVZ1MAUSOLEUM_HARDMODE_SELECT_PLANT_TIPS]
-Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
-(Elige plantas de primera generación de la lista superior).
-
-[NARRATIVE_PVZ1_S30_1_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Las Magnetosetas atraen el metal y los Lanzaguisantes eléctricos dan en el blanco.
-
-[NARRATIVE_PVZ1_S30_1_H_INTRO_2]
-{SAY:crazydave}¿Será por la inducción electromagnética?
-
-[NARRATIVE_PVZ1_S30_1_H_INTRO_3]
-{SAY:winnie}Exacto. Un campo magnético cambiante puede generar corriente. Me sorprende que lo sepas.
-
-[NARRATIVE_PVZ1_S30_2_H_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}El fuego resulta especialmente efectivo contra zombis congelados.
-
-[NARRATIVE_PVZ1_S30_2_H_INTRO_2]
-{PLAYFUL:crazydave}Tiene sentido. Nada peor que descongelarse a lo bruto.
-
-[NARRATIVE_PVZ1_S30_2_H_INTRO_3]
-{SAY:winnie}No lo diría así, pero sí.
-
-[NARRATIVE_PVZ1_S30_3_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Detecto una cantidad inusual de Zombiditos en el patio.
-
-[NARRATIVE_PVZ1_S30_3_H_INTRO_2]
-{SAY:winnie}Sugiero usar Hielaguisantes y algunas nueces para ponerles freno.
-
-[NARRATIVE_PVZ1_S30_3_H_INTRO_3]
-{SHOUT:crazydave}¡Fuera de mi jardín, enanos problemáticos!
-
-[NARRATIVE_PVZ1_S30_3_H_INTRO_4]
-{SAY:crazydave}¡Son pequeños, pero hacen el mismo desastre!
-
-[NARRATIVE_PVZ1_S30_5_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:winnie}Es hora de que estos zombis prueben unas Sombrasetas frescas.
-
-[NARRATIVE_PVZ1_S30_5_H_INTRO_2]
-{SAY:crazydave}Pero si les doy esas setas, ¿qué voy a comer yo?
-
-[NARRATIVE_PVZ1_S30_5_H_INTRO_3]
-{SAY:winnie}Algo que no intente matarte, preferiblemente.
-
-[NARRATIVE_PVZ1_S30_6_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Esas Grosellas eléctricas pueden servir de barrera, despleguemoslas.
-
-[NARRATIVE_PVZ1_S30_6_H_INTRO_2]
-{SAY:crazydave}¡Listo! ¿Qué más falta?
-
-[NARRATIVE_PVZ1_S30_6_H_INTRO_3]
-{SAY:winnie}Esperar.
-
-[NARRATIVE_PVZ1_S30_7_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Esto pinta mal.. sin sol, sin mejoras... estamos contra las cuerdas.
-
-[NARRATIVE_PVZ1_S30_7_H_INTRO_2]
-{PLAYFUL:winnie}Aún nos queda un último recurso: plantas fulminantes. Jalapeños y Petacerezas, para ser precisos.
-
-[NARRATIVE_PVZ1_S30_7_H_INTRO_3]
-{SAY:winnie}Todo depende de eso. Si fallamos... bueno, ya sabes cómo termina.
-
-[NARRATIVE_PVZ1_S30_8_H_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}¡Atención! Se aproxima una gran oleada de zombis.
-
-[NARRATIVE_PVZ1_S30_8_H_INTRO_2]
-{TIRED:winnie}Y parece que olvidaste traer las semillas de Girasol.
-
-[NARRATIVE_PVZ1_S30_8_H_INTRO_3]
-{SAY:crazydave}Tal vez... pero traje algo mejor: un nuevo amigo.
-
-[NARRATIVE_PVZ1_S30_8_H_INTRO_4]
-{SAY:crazydave}No sé si es un zombi o una planta, solo espero que sea de fiar.
-
-[NARRATIVE_PVZ1_S30_9_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}El patio está todo difuso, no distingo el vapor de la niebla.
-
-[NARRATIVE_PVZ1_S30_9_H_INTRO_2]
-{PLAYFUL:winnie}Traje a un ayudante que nos guíe: Trebolador. 
-
-[NARRATIVE_PVZ1_S30_9_H_INTRO_3]
-{SAY:winnie}Por cierto, cuida a las plantas en peligro.
-
-[NARRATIVE_PVZ1_S30_9_H_INTRO_4]
-{SAY:crazydave}¡No dejaré que se roben mis Planters! Que diga, mis cacahuates.
-
-[NARRATIVE_PVZ1_S30_10_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Viene una horda! ¡Planta Explotonueces y hazlos volar por los aires!
-
-[NARRATIVE_PVZ1_S30_10_H_INTRO_2]
-{SAY:winnie}Su alcance es limitado. ¿Seguro que es suficiente?
-
-[NARRATIVE_PVZ1_S30_10_H_INTRO_3]
-{SHOUT:crazydave}¡CLARO que es suficiente! 
-
-[NARRATIVE_PVZ1_S30_10_H_INTRO_4]
-{SAY:crazydave}Cada uno que reviente es uno menos. ¡Y si revientas a muchos, mejor!
-
-[NARRATIVE_PVZ1_S30_11_H_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}El zombi onmyoji ha vuelto. Su abanico sigue siendo un problema.
-
-[NARRATIVE_PVZ1_S30_11_H_INTRO_2]
-{SAY:crazydave}Entonces usaremos Levitadoras. A ver qué hace cuando no toque el suelo.
-
-[NARRATIVE_PVZ1_S30_12_H_INTRO_1]
-{NPC_ENTER:crazydave}{PLAYFUL}{START_DIALOG_MUSIC}¿Qué son todas esas cosas blancas? ¿Cebollas?
-
-[NARRATIVE_PVZ1_S30_12_H_INTRO_2]
-{NPC_ENTER:zbcommander}{SAY:zbcommander}Cabezas de flecha. Se encadenan en la misma fila. Más unidades, más daño.
-
-[NARRATIVE_PVZ1_S30_12_H_INTRO_3]
-{SAY:zbcommander}Inutilizan nuestras máquinas al explotar. Mandad zombis a pie primero, luego a los mecas.
-
-[NARRATIVE_PVZ1_S30_12_H_INTRO_4]
-{SAY:zbcommander}Ah, y cuidado con Dátil ardiente. Atrae zombis y los desvía de su ruta.
-
-[NARRATIVE_PVZ1_S30_12_H_INTRO_5]
-{EXCITED:crazydave}¿Comandante Z? ¡Hace tiempo que no te veía!
-
-[NARRATIVE_PVZ1_S30_13_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Las Explotonueces y los Dátiles ardientes no funcionan bien contra los zombis con pala.
-
-[NARRATIVE_PVZ1_S30_13_H_INTRO_2]
-{SAY:winnie}Espera a que detonen y luego mueve el carro de mina hacia los excavadores.
-
-[NARRATIVE_PVZ1_S30_13_H_INTRO_3]
-{SAY:crazydave}Entendido. ¡Hora de montar una buena barbacoa!
-
-[NARRATIVE_PVZ1_S30_14_H_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Estamos otra vez al inicio, pero algo cambió.
-
-[NARRATIVE_PVZ1_S30_14_H_INTRO_2]
-{SAY:winnie}El tiempo está jugando en contra. No podemos usar las plantas que conseguimos después del laberinto.
-
-[NARRATIVE_PVZ1_S30_14_H_INTRO_3]
-{SAY:crazydave}Entonces no perdamos tiempo. Terminemos esto y salgamos de aquí.
-
-[NARRATIVE_PVZ1_S30_15_H_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}¿No son esos los frijoles a los que los zombis ya les habían echado el ojo?
-
-[NARRATIVE_PVZ1_S30_15_H_INTRO_2]
-{EXCITED:crazydave}¡Proteged bien esos frijoles! No puede faltar ni uno.
-
-[NARRATIVE_PVZ1_S30_15_H_INTRO_3]
-{PLAYFUL:winnie}Ellos están acostumbrados al peligro, al igual que nosotros.
-
-[NARRATIVE_PVZ1_S30_16_H_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}La tormenta ha llegado. Aquí termina vuestro viaje.
-
-[NARRATIVE_PVZ1_S30_16_H_INTRO_2]
-{EXCITED:zombossicon}¡Observad a mi nuevo zombi de élite! No dejará una sola planta en pie.
-
-[NARRATIVE_PVZ1_S30_16_H_INTRO_3]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Hablas mucho para alguien que está a punto de perder.
-
-[NARRATIVE_PVZ1_S30_16_H_INTRO_4]
-{SAY:winnie}Plan de emergencia activado. Derribemos los zombis.
+[ZOMBIE_HAMSTER_BALL_DESCRIPTION_HEADER]
+Gran esfera rodante que protege zombis hasta romperse.
 
 [ACCESSORY_EXCHANGE_FAILED]
 Error en el intercambio
@@ -1330,6 +955,10 @@ Compra artículos con jugosos descuentos.
 
 [ACTIVITY_NEW_DISCOUNTSHOP_TIPS]
 DESCRIPCIÓN DEL EVENTO
+
+[ACTIVITY_NEW_GIFTFORETURN_TIPS]
+1. La bolsa de premios es de 200.000 Joyas, la cantidad aumenta en 50 por cada Sorteo realizado
+2. El acumulado de Joyas se reparte en un 10% por cada jugador
 
 [ACTIVITY_NEW_MINIGAME_BOWLING]
 La Bolera
@@ -1688,7 +1317,7 @@ Toca para elegir la casilla a la que atacar
 Si las cosas se ponen feas, ¡almacena Nutrientes!
 
 [ADVICE_BRONZE_GRID_TIME]
-DESPETRIFICACIÓN ZOMBI: ¡quedan {BRONZE_TIME_NUMBER} s!
+DESPETRIFICACIÓN ZOMBI: quedan {BRONZE_TIME_NUMBER} s
 
 [ADVICE_BUY_PLANTFOOD]
 ¡Gasta esas Joyas en más Nutrientes!
@@ -5715,6 +5344,12 @@ Completaste la colección de atuendos: Invierno glacial
 [AVATARCOLLECTIONS_HEAD_DES_ID_25808]
 Completaste la colección de atuendos: Festival de primavera
 
+[AVATARCOLLECTIONS_HEAD_DES_ID_25866]
+Completaste la colección de atuendos: Creación pura
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25869]
+Completaste la colección de atuendos: Cazadores de demonios
+
 [AVATARCOLLECTIONS_HEAD_ID_25657]
 Narciso juguetón
 
@@ -5753,6 +5388,12 @@ Manzana de invierno
 
 [AVATARCOLLECTIONS_HEAD_ID_25808]
 Caballo dragón
+
+[AVATARCOLLECTIONS_HEAD_ID_25866]
+Purista
+
+[AVATARCOLLECTIONS_HEAD_ID_25869]
+La sombra del demonio
 
 [AVATARCOLLECTIONS_NOT_EXIST]
 Bloqueado
@@ -5820,6 +5461,15 @@ Un invierno frío y gris
 [AVATARCOLLECTIONS_THEME_DES19]
 Una nueva primavera llega con buenas fortunas
 
+[AVATARCOLLECTIONS_THEME_DES20]
+¡Que hermosa cultura!
+
+[AVATARCOLLECTIONS_THEME_DES21]
+Todo lo creado tiene alma
+
+[AVATARCOLLECTIONS_THEME_DES22]
+Exterminadores del mal
+
 [AVATARCOLLECTIONS_THEME_TITLE0]
 Feliz Navidad
 
@@ -5879,6 +5529,15 @@ Invierno glacial
 
 [AVATARCOLLECTIONS_THEME_TITLE19]
 Festival de primavera
+
+[AVATARCOLLECTIONS_THEME_TITLE20]
+Aventuras en Dunhuang
+
+[AVATARCOLLECTIONS_THEME_TITLE21]
+Creación pura
+
+[AVATARCOLLECTIONS_THEME_TITLE22]
+Cazadores de demonios
 
 [AVATARCOLLECTIONS_TITLE]
 Catálogo de Atuendos
@@ -6785,9 +6444,6 @@ Playa de la Gran Ola
 
 [BEACH_DANGER_ROOM_NAME]
 Tikitorcha
-
-[BEACH_KEYGATE_HEADER]
-Playa de la Gran ola
 
 [BEACH_LEVEL_NAME]
 Playa de la Gran Ola - Día {LEVEL_NUMBER}
@@ -12666,9 +12322,6 @@ Salvaje Oeste
 [COWBOY_DANGER_ROOM_NAME]
 Páramo del gran mal
 
-[COWBOY_KEYGATE_HEADER]
-PUERTA DEL OESTE
-
 [COWBOY_MINIGAME_TUTORIAL_1]
 Planta el Lanzaguisantes para comenzar
 
@@ -13353,7 +13006,7 @@ Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciada por el efecto de N
 ^DB8117^Nutrientes: arrastra 4 zombis y golpea al resto. ^D22808^Daño: 100 (área 3x3 al frente)^oldclr^
 
 [CTHULHUACTINIA_NEW_SKILL_LEVEL5_DES]
-El láser del ojo convierte a un zombi pequeño o mediano en un monje que lucha por ti.
+El láser del ojo convierte a un zombi pequeño o mediano en un Acólito abisal que lucha por ti.
 ^E2725B^Ojo láser: hace 120 DPS/s ^FF0000^(máx. 1.200)^oldclr^
 
 [CTHULHUACTINIA_PLANTFOOD_DESCRIPTION]
@@ -13366,7 +13019,7 @@ Absorbe zombis para cargar un potente ataque láser
 Nivel 2
 
 [CTHULHUACTINIA_SKILL_LEVEL1_DES]
-^4DD4DB^Digestión acelerada:^oldclr^ el tiempo de digestión se reduce en 5 segundos. El ojo se abrirá tras absorber a un zombi, aumentando el daño del láser.
+^4DD4DB^Digestión acelerada:^oldclr^ el tiempo de digestión se reduce en 5 s. El ojo se abrirá tras absorber a un zombi, aumentando el daño del láser.
 
 [CTHULHUACTINIA_SKILL_LEVEL2]
 Nivel 3
@@ -13378,7 +13031,7 @@ Nivel 3
 Nivel 5
 
 [CTHULHUACTINIA_SKILL_LEVEL5_DES]
-^A048CF^Luz divina:^oldclr^ el láser del ojo convierte al primer zombi pequeño o mediano en un Zombi monje que luchará de tu lado.
+^A048CF^Luz divina:^oldclr^ el láser del ojo convierte al primer zombi pequeño o mediano en un Acólito abisal que luchará de tu lado.
 
 [CTHULHUACTINIA_TOOLTIP]
 Absorbe zombis para cargar un potente ataque láser
@@ -14980,9 +14633,6 @@ Edad Oscura - Noche Final
 [DARK_FINAL_LEVEL]
 Edad Oscura - Noche Final
 
-[DARK_KEYGATE_HEADER]
-Edad Oscura
-
 [DARK_LEVEL_NAME]
 Edad Oscura - Noche {LEVEL_NUMBER}
 
@@ -16218,7 +15868,7 @@ Derrota a {NUMBER} Zombis bailones
 Derrota al Dios de las Riquezas {NUMBER} veces
 
 [DEFEAT_X_FEASTIVUS_SWASHBUCKLER]
-Derrota {NUMBER} Ladrones de regalos
+Derrota {NUMBER} Ladrones de lingotes
 
 [DEFEAT_X_FISHERMEN]
 Derrota a {NUMBER} Pescadores
@@ -16510,7 +16160,7 @@ Garra del diablo
 Corona infernal
 
 [DEVILSFLOWER_AVATAR_PLANTFOOD_DESCRIPTION]
-El huevo eclosiona en un Zombistein líder quien tiene un 40% de escupir ácido al atacar
+El huevo eclosiona en un Zombistein abisal supremo quien tiene un 40% de escupir ácido al atacar
 
 [DEVILSFLOWER_DESCRIPTION]
 {KEYWORD}Ojo del abismo: {STAT}tócalo cuando esté completamente cargado para liberar un ataque masivo
@@ -16533,7 +16183,7 @@ Se reduce el tiempo para abrir el Ojo del abismo en un 50% ^D22808^(ahora 30 s)^
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: invoca un Zombistein aprendiz que lucha de tu lado y deja ácido al morir.^oldclr^
+^DB8117^Nutrientes: invoca un Zombistein abisal que lucha de tu lado y deja ácido al morir.^oldclr^
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL5_DES]
 Gana un ^D22808^50% de probabilidad^oldclr^ de invocar un insecto evolucionado que drena energía durante 3 s e infecta zombis, quienes pierden 2 niveles de fuerza.
@@ -16758,6 +16408,66 @@ Nutrientes
 
 [DODORIDER_SUCCESSFULLY_CROSSEDRIVER_4]
 ¡Eres imparable!
+
+[DOOMBELL]
+Campana sagrada
+
+[DOOMBELL_AVATAR_NAME]
+Amuleto
+
+[DOOMBELL_AVATAR_PLANTFOOD_DESCRIPTION]
+Se reviste de un escudo de plata con 12.000 puntos de vida
+
+[DOOMBELL_DESCRIPTION]
+{KEYWORD}Especial: {STAT}bloquea múltiples enemigos y recupera salud en el Reino espiritual
+{KEYWORD}Características de la planta: {STAT}planta marrón, de alta estatura, espiritual, defensa
+
+{FLAVOR}¿Por qué esos espíritus acaban deteniéndose a morderla en vez de atravesarla? Tras una árdua investigación, se llegó a una conclusión: no es que la Campana sagrada tenga efectos purificadores como se pensaba, sino que, el sonido que hace, los vuelve locos.
+
+[DOOMBELL_DESCRIPTION_HEADER]
+La Campana sagrada bloquea zombis y emite ondas que atraen espíritus de alrededor para cortarles el paso.
+
+[DOOMBELL_NEW_SKILL_LEVEL1_DES]
+Bloquea zombis y espíritus. Cada 5 s, atrae espíritus de un área 3x3 ^FF0000^(máx. 1)^oldclr^
+^E2725B^Reino espiritual: bloquea múltiples enemigos y recupera 100 PS por segundo^oldclr^
+
+[DOOMBELL_NEW_SKILL_LEVEL2_DES]
+Al ser derrotado, genera una onda que ^848484^aturde^oldclr^ zombis por 6 s
+
+[DOOMBELL_NEW_SKILL_LEVEL3_DES]
+Al ser derrotado, genera una onda que ^848484^aturde^oldclr^ zombis por 9 s
+
+[DOOMBELL_NEW_SKILL_LEVEL4_DES]
+Gana un ^D22808^25% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
+^DB8117^Nutrientes: obtiene una armadura con 8.000 puntos de vida.^oldclr^
+
+[DOOMBELL_NEW_SKILL_LEVEL5_DES]
+Si no hay zombis atacándolo, se silencia y empieza a acumular energía por 7 s
+La próxima vez que un zombi la muerda, libera una onda sónica que derriba al resto por 1 casilla.
+
+[DOOMBELL_PLANTFOOD_DESCRIPTION]
+Obtiene una armadura con 8.000 puntos de vida.
+
+[DOOMBELL_SKILL_LEVEL1]
+Nivel 2
+
+[DOOMBELL_SKILL_LEVEL1_DES]
+^4DD4DB^El último tintineo:^oldclr^ al ser derrotado, genera una onda que aturde zombis por 6 s
+
+[DOOMBELL_SKILL_LEVEL2]
+Nivel 3
+
+[DOOMBELL_SKILL_LEVEL2_DES]
+^DD7ECB^Tintineo mejorado:^oldclr^ mejora los efectos del Nvl. 2 en un 50%
+
+[DOOMBELL_SKILL_LEVEL5]
+Nivel 5
+
+[DOOMBELL_SKILL_LEVEL5_DES]
+^A048CF^Campana de bronce:^oldclr^ acumula energía por 7 s, la libera para derribar a los zombis que la muerdan
+
+[DOOMBELL_TOOLTIP]
+Planta defensiva que bloquea zombis y espíritus malignos
 
 [DOOMSHROOM]
 Petaseta
@@ -17718,9 +17428,6 @@ Antiguo Egipto - Evento {LEVEL_NUMBER}
 
 [EGYPT_FINAL_LEVEL]
 Antiguo Egipto - Día Final
-
-[EGYPT_KEYGATE_HEADER]
-PUERTA EGIPCIA
 
 [EGYPT_LEVEL_NAME]
 Antiguo Egipto - Día {LEVEL_NUMBER}
@@ -18915,6 +18622,65 @@ Salir del juego
 [EXIT_GAME_INFO]
 ¿Seguro que quieres salir del juego?
 
+[EXORCISLILY]
+Flor del infierno
+
+[EXORCISLILY_AVATAR_NAME]
+Tocado imperial
+
+[EXORCISLILY_AVATAR_PLANTFOOD_DESCRIPTION]
+Libera un talismán adicional que neutraliza efectos adversos en plantas
+
+[EXORCISLILY_DESCRIPTION]
+{KEYWORD}Especial: {STAT}dispara talismánes más poderosos en el Reino espiritual
+{KEYWORD}Características de la planta: {STAT}planta roja, anciana, espiritual, destructora
+
+{FLAVOR}Siempre dice ser un calígrafo serio, pero a los zombis les da igual cómo maneje el pincel: lo único que saben es que, cuando esos papeles amarillos se les pegan en la frente, el ardor les impide mantener los ojos abiertos.
+
+[EXORCISLILY_DESCRIPTION_HEADER]
+Planta espiritual que dispara talismánes para dañar zombis y espíritus malignos.
+
+[EXORCISLILY_NEW_SKILL_LEVEL1_DES]
+Cada 3 s, dispara talismánes que dañan zombis y espíritus.
+^E2725B^Reino espiritual: dispara talismánes espectrales que hacen daño en un área de 3x3^oldclr^
+
+[EXORCISLILY_NEW_SKILL_LEVEL2_DES]
+Gana un ^D22808^15% de probabilidad^oldclr^ de encoger zombis durante 3 s, haciéndolos un 20% más vulnerables al daño.
+
+[EXORCISLILY_NEW_SKILL_LEVEL3_DES]
+Gana un ^D22808^30% de probabilidad^oldclr^ de encoger zombis durante 3 s, haciéndolos un 20% más vulnerables al daño.
+
+[EXORCISLILY_NEW_SKILL_LEVEL4_DES]
+Gana un ^D22808^20% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
+^DB8117^Nutrientes: lanza talismánes de trueno a 5 zombis aleatorios que los aturden por 3 s ^D22808^Daño: 300^oldclr^
+
+[EXORCISLILY_NEW_SKILL_LEVEL5_DES]
+Al atacar, lanza un talismán adicional hacia el enemigo más cercano.
+
+[EXORCISLILY_PLANTFOOD_DESCRIPTION]
+Lanza talismánes de trueno a 5 zombis aleatorios que los aturden por 3 s ^D22808^Daño: 300^oldclr^
+
+[EXORCISLILY_SKILL_LEVEL1]
+Nivel 2
+
+[EXORCISLILY_SKILL_LEVEL1_DES]
+^4DD4DB^Hechizo de reducción:^oldclr^ gana un 15% de probabilidad de encoger zombis durante 3 s, haciéndolos vulnerables al daño
+
+[EXORCISLILY_SKILL_LEVEL2]
+Nivel 3
+
+[EXORCISLILY_SKILL_LEVEL2_DES]
+^DD7ECB^Maestro hechicero:^oldclr^ aumenta la probabilidad de los efectos del Nvl. 2 al doble
+
+[EXORCISLILY_SKILL_LEVEL5]
+Nivel 5
+
+[EXORCISLILY_SKILL_LEVEL5_DES]
+^A048CF^Lluvia de talismánes:^oldclr^ al atacar, lanza un talismán adicional hacia el enemigo más cercano
+
+[EXORCISLILY_TOOLTIP]
+Dispara talismánes que dañan zombis y espíritus
+
 [EXP]
 Experiencia
 
@@ -20091,6 +19857,11 @@ Gana un ^D22808^16% de probabilidad^oldclr^ de que ataque con un humo tóxico el
 Gana un ^D22808^45% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
 ^DB8117^Nutrientes: expulsa humo que derriba zombis y hace 1.500 DPS ^D22808^Duración: 5 s^oldclr^
 
+[FUMESHROOM_NEW_SKILL_LEVEL5_DES]
+^DD7ECB^Humoseta encantada: sus esporas tienen un 5% de hipnotizar zombis ^FF0000^(límite: Nvl. 8)^oldclr^
+^A048CF^Humoseta desesporada: se sincroniza con las Setas desesporadas del patio al atacar^oldclr^
+^4DD4DB^Hongo trueno: dispara relámpagos que tienen un 10% de desarmar zombis de cascos.^oldclr^
+
 [FUMESHROOM_PLANTFOOD_DESCRIPTION]
 Expulsa una nube de humo que empuja a los zombis hacia atrás por 5 s. ^D22808^Daño: 1.500^oldclr^
 
@@ -20108,6 +19879,12 @@ Nivel 3
 
 [FUMESHROOM_SKILL1_LEVEL2_DES]
 ^DD7ECB^Humo asfixiante:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+
+[FUMESHROOM_SKILL1_LEVEL5]
+Nivel 5
+
+[FUMESHROOM_SKILL1_LEVEL5_DES]
+^DB8117^Seta elemental:^oldclr^ puede evolucionar a Humoseta encantada, Humoseta desesporada u Hongo trueno al ser plantada
 
 [FUMESHROOM_TOOLTIP]
 Dispara humo que puede infligir daño a todos los zombis de un área
@@ -20173,9 +19950,6 @@ Regalos del futuro
 
 [FUTURE_GIFT_TOKEN_NUM]
 Boletos: {NUMBER}
-
-[FUTURE_KEYGATE_HEADER]
-Futuro Lejano
 
 [FUTURE_LAST]
 Futuro Lejano - Día Final
@@ -21662,6 +21436,9 @@ La salud requerida para eliminar zombis con la espada voladora aumenta un {Param
 [GENE_DESCRIPTION_DRAFTODIL]
 Narcisil tiene un {Param_1}% más de probabilidad de expulsar zombis pequeños
 
+[GENE_DESCRIPTION_DRAGONROAR]
+Hierba dinosaurio devora y digiere zombis un {Param_1}% más rápido
+
 [GENE_DESCRIPTION_EGGPLANTNINJA]
 Cuando usa Nutrientes, Berenjena ninja tiene un {Param_1}% de lanzar shurikens torbellino
 
@@ -21782,6 +21559,9 @@ La erupción de Guayalava inflige un {Param_1}% más de daño
 [GENE_DESCRIPTION_LIGHTNINGREED]
 Junco eléctrico inflige un {Param_1}% más de daño directo y un {Param_2}% de daño en cadena
 
+[GENE_DESCRIPTION_LOTUSSHOWER]
+Los torpedos de Vaina de loto hacen un {Param_1}% más daño
+
 [GENE_DESCRIPTION_MAGICSHROOM]
 Magoseta tiene un {Param_1}% de invocar un Zombi adicional con su efecto de Nutrientes
 
@@ -21875,6 +21655,9 @@ Reduce el tiempo de recuperación de Brujalabaza en {Param_1} s
 [GENE_DESCRIPTION_RAFFLESIA]
 Las esporas explosivas de Rafflesia infligen un {Param_1}% más de daño
 
+[GENE_DESCRIPTION_RHEUMNOBILE]
+Págoda aromática tiene un {Param_1}% de absorber 2 zombis extra al usar Nutrientes
+
 [GENE_DESCRIPTION_SAPFLING]
 Los charcos de savia de Lanzasavias ralentiza un {Param_1}% más
 
@@ -21883,6 +21666,9 @@ Calabacín de platillo se recarga un {Param_1}% más rápido
 
 [GENE_DESCRIPTION_SEASHOOTER]
 Aumenta la velocidad del efecto de Nutrientes un {Param_1}%; {Param_2}% de potenciar 1 planta extra
+
+[GENE_DESCRIPTION_SEASHROOM]
+Seta marina gana un {Param_1}% más salud, su tiempo de vida aumenta un {Param_2}%
 
 [GENE_DESCRIPTION_SHADOWPEASHOOTER]
 El poder de Lanzaguisantes sombrío aumenta en un {Param_1}% con las Flores lunares plantadas
@@ -22233,6 +22019,18 @@ Nivel 3
 [GHOSTPEPPER_TOOLTIP]
 Acecha a los zombis que lo atraviesan, explota después de un tiempo
 
+[GIFTFORETURN_DAILYSIGN_DAY_SUM]
+{NUM}d
+
+[GIFTFORETURN_DAILYSIGN_MISSSIGNDAY_SUM]
+Faltaste: {NUM}d
+
+[GIFTFORETURN_DAILYSIGN_SIGN_COST]
+{NUM}
+
+[GIFTFORETURN_DAILYSIGN_SIGN_COST_NOT_ENOUGH]
+Monedas insuficientes.
+
 [GIFT_BOX_WORLDMAP_DESCRIPTION]
 Una caja repleta de regalos.
 
@@ -22340,6 +22138,14 @@ Premios por regreso
 [GIFT_RETURN_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
 
+[GIFT_RETURN_DOUBLE_COINS_REWARD_DESC]
+¡Privilegios por tiempo limitado!
+¡Consigue el Duplicador de Monedas!
+
+[GIFT_RETURN_QUADRUPLE_COINS_REWARD_DESC]
+¡Privilegios por tiempo limitado!
+¡Consigue el Cuadriplicador de Monedas!
+
 [GIFT_RETURN_SEE_UPDATE_NEWS]
 Consulta las novedades de esta Actualización
 
@@ -22354,6 +22160,9 @@ Misiones
 
 [GIFT_RETURN_TAB_3]
 Lotes
+
+[GIFT_RETURN_TAB_4]
+VIP
 
 [GIFT_RETURN_TASK_TIME_LIMIT]
 La misión estará disponible en ^FFFF00^{NUM}^oldclr^ días
@@ -22483,6 +22292,117 @@ Los eventos estarán cerrados durante el anuncio de clasificación
 
 [GINGLEBELL_TITLE]
 Destructores
+
+[GLACIERSHROOM]
+Seta congelada
+
+[GLACIERSHROOM_AVATAR_NAME]
+Gafas naranjas
+
+[GLACIERSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
+Básicos: el ataque manual se divide y hace daño de área. ^D22808^Daño: 1 (casilla)^oldclr^
+^DB8117^Nutrientes: las esquirlas priorizan zombis con mayor salud y congelan por 3 s^oldclr^
+
+[GLACIERSHROOM_DESCRIPTION]
+{KEYWORD}Especial: {STAT}toca en ella para congelar a todos los zombis en pantalla
+{KEYWORD}Características de la planta: {STAT}planta azul, gélida, ataque y defensa, familia de setas
+
+{FLAVOR}"Reinventarse no es fácil", dice Seta congelada después de un duro régimen de entrenamiento en las partes más frías del Antártico. "Es muy raro que te den una segunda oportunidad, pero he vuelto y esta vez no pienso defraudar ni a mis amistades ni a mis fans". Seta congelada aparece en el patio ante el clamor de los presentes.
+
+[GLACIERSHROOM_DESCRIPTION_HEADER]
+Seta congelada golpea a los zombis en combate cuerpo a cuerpo y los ralentiza.
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL1_DES]
+Daña y ralentiza a los zombis cercanos por 2 s
+^E2725B^Tip: toca en ella para congelarlos por 4 s^oldclr^
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL2_DES]
+Ataca un 15% más rápido.
+^FF8000^Daña a los zombis congelados con su habilidad manual quienes pierden un 40% de su salud.^oldclr^
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL3_DES]
+Ataca un 30% más rápido.
+^FF8000^Daña a los zombis congelados con su habilidad manual quienes pierden un 80% de su salud.^oldclr^
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL4_DES]
+Efecto de Nutrientes ^D22808^garantizado^oldclr^ en cada plantado.
+^DB8117^Nutrientes: deja hielo en un área 5x5 y lanza 4 esquirlas a zombis del área. ^D22808^Daño: 1.200 (casilla)^oldclr^
+
+[GLACIERSHROOM_NEW_SKILL_LEVEL5_DES]
+Deja hielo en un área 3x3 a su alrededor. Los zombis que lo pisen serán ralentizados y perderán un 50% de salud por segundo
+
+[GLACIERSHROOM_PLANTFOOD_DESCRIPTION]
+Deja hielo en un área 5x5 y lanza 4 esquirlas a zombis del área. ^D22808^Daño: 1.200 (casilla)^oldclr^
+
+[GLACIERSHROOM_SKILL_LEVEL1]
+Nivel 2
+
+[GLACIERSHROOM_SKILL_LEVEL1_DES]
+^4DD4DB^Invierno crudo:^oldclr^ ataca un 15% más rápido, daña a los zombis congelados con su habilidad manual
+
+[GLACIERSHROOM_SKILL_LEVEL2]
+Nivel 3
+
+[GLACIERSHROOM_SKILL_LEVEL2_DES]
+^DD7ECB^Tipo duro:^oldclr^ mejora los efectos del Nvl. 2 al doble
+
+[GLACIERSHROOM_SKILL_LEVEL5]
+Nivel 5
+
+[GLACIERSHROOM_SKILL_LEVEL5_DES]
+^DB8117^Seta glacial:^oldclr^ deja hielo en un área 3x3 a su alrededor. Los zombis que lo pisen serán ralentizados y sufrirán grandes daños
+
+[GLACIERSHROOM_TOOLTIP]
+Daña y ralentiza a zombis cercanos, toca en ella para congelarlos
+
+[GLOOMBARA]
+Udumbara
+
+[GLOOMBARA_AVATAR_NAME]
+Cuentas
+
+[GLOOMBARA_AVATAR_PLANTFOOD_DESCRIPTION]
+^FF0000^Sin efecto de Atuendo.^oldclr^
+
+[GLOOMBARA_DESCRIPTION]
+{KEYWORD}Uso: {STAT}único e instantáneo
+{KEYWORD}Características de la planta: {STAT}planta verde, espiritual, hábil
+
+{FLAVOR}Se dice que la Udumbara no florece para ser vista, sino para ser encontrada por quienes caminan demasiado cerca del otro lado.
+
+[GLOOMBARA_DESCRIPTION_HEADER]
+Udumbara abre las puertas del reino espiritual, potenciando plantas de su tipo y atando espíritus malignos con cadenas.
+
+[GLOOMBARA_NEW_SKILL_LEVEL1_DES]
+^E2725B^Reino espiritual: potencia a las plantas de su tipo durante 20 s^oldclr^
+^4DD4DB^Cadenas espirituales: atan espíritus malignos por 7 s, impidiendo que ataquen^oldclr^
+
+[GLOOMBARA_NEW_SKILL_LEVEL2_DES]
+Aumenta la duración de las cadenas espirituales en 1.5 s ^D22808^(ahora 8.5 s)^oldclr^
+
+[GLOOMBARA_NEW_SKILL_LEVEL3_DES]
+Aumenta la duración de las cadenas espirituales en 3 s ^D22808^(ahora 10 s)^oldclr^
+
+[GLOOMBARA_PLANTFOOD_DESCRIPTION]
+^FF0000^Sin efecto de Nutrientes.^oldclr^
+
+[GLOOMBARA_PRODUCT_SHORT_DESC]
+Potencia plantas espirituales, ata espíritus malignos
+
+[GLOOMBARA_SKILL_LEVEL1]
+Nivel 2
+
+[GLOOMBARA_SKILL_LEVEL1_DES]
+^4DD4DB^Clarividencia:^oldclr^ aumenta la duración de las cadenas espirituales en 1.5 s
+
+[GLOOMBARA_SKILL_LEVEL2]
+Nivel 3
+
+[GLOOMBARA_SKILL_LEVEL2_DES]
+^DD7ECB^Artes oscuras:^oldclr^ mejora los efectos del Nvl. 2 al doble
+
+[GLOOMBARA_TOOLTIP]
+Potencia plantas espirituales, ata espíritus malignos
 
 [GLUTTONYDRAGON]
 Bocadragón glotón
@@ -22674,6 +22594,68 @@ Las Hojas doradas no se pueden plantar en casillas especiales
 
 [GOLDLEAF_TOOLTIP]
 Crea una casilla de oro después de plantarla
+
+[GOLDMAGNET]
+Magnetoseta dorada
+
+[GOLDMAGNET_AVATAR_PLANTFOOD_DESCRIPTION]
+Funde los objetos atraídos en una enorme moneda que derriba y daña zombis medianos. ^D22808^Daño: 888^oldclr^
+
+[GOLDMAGNET_DESCRIPTION]
+{KEYWORD}Atracción potente: {STAT}tiene la posibilidad de atraer los brazos del zombi, e incluso, su cabeza
+{KEYWORD}Características de la planta: {STAT}planta dorada, hábil, familia de setas
+
+{FLAVOR}"¿Cómo he llegado aquí?", se pregunta Magnetoseta dorada. "Ya lo tenía todo: despacho propio, acciones en bolsa... Iba a ser el próximo vicepresidente de la empresa. Y ahora estoy en este jardinucho a punto de ser devorado vivo... ¡Oh! ¡Una moneda!"
+
+[GOLDMAGNET_DESCRIPTION_HEADER]
+La Magnetoseta dorada atrae los objetos metálicos de los zombis y recoge monedas por ti.
+
+[GOLDMAGNET_NEW_SKILL_LEVEL1_DES]
+Desarma zombis de objetos metálicos, recoge monedas cada 2 s
+^E2725B^Atracción potente: 5% de atraer las cabezas zombi, 10% de atraer sus brazos.^oldclr^
+
+[GOLDMAGNET_NEW_SKILL_LEVEL2_DES]
+Reduce el tiempo de destrucción en 3 s
+^FF8000^Aumenta la probabilidad de atraer partes-zombi en un 5% ^D22808^(10% cabeza, 15% brazos)^oldclr^
+
+[GOLDMAGNET_NEW_SKILL_LEVEL3_DES]
+Reduce el tiempo de destrucción en 6 s
+^FF8000^Aumenta la probabilidad de atraer partes-zombi en un 10% ^D22808^(15% cabeza, 20% brazos)^oldclr^
+
+[GOLDMAGNET_NEW_SKILL_LEVEL4_DES]
+Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
+^DB8117^Nutrientes: atrae 20 objetos metálicos y recoge todas las monedas del suelo.^oldclr^
+
+[GOLDMAGNET_NEW_SKILL_LEVEL5_DES]
+Genera una moneda que crece al atraer objetos, la suelta al atraer el 5to objeto.
+La moneda rueda por la línea y aplasta zombis. ^D22808^Daño: 198^oldclr^
+
+[GOLDMAGNET_PLANTFOOD_DESCRIPTION]
+Atrae 20 objetos metálicos y recoge todas las monedas del suelo.
+
+[GOLDMAGNET_PRODUCT_SHORT_DESC]
+Desarma zombis de objetos metálicos y recoge monedas
+
+[GOLDMAGNET_SKILL_LEVEL1]
+Nivel 2
+
+[GOLDMAGNET_SKILL_LEVEL1_DES]
+^4DD4DB^Magnetismo eficiente:^oldclr^ reduce el tiempo de destrucción en 3 s; aumenta la probabilidad de atraer partes-zombi en un 5%
+
+[GOLDMAGNET_SKILL_LEVEL2]
+Nivel 3
+
+[GOLDMAGNET_SKILL_LEVEL2_DES]
+^DD7ECB^Magnetismo mejorado:^oldclr^ mejora los efectos del Nvl. 2 al doble
+
+[GOLDMAGNET_SKILL_LEVEL5]
+Nivel 5
+
+[GOLDMAGNET_SKILL_LEVEL5_DES]
+^DB8117^Alquimista de oro:^oldclr^ genera una moneda que crece al atraer objetos, luego la suelta, dañando zombis a su paso
+
+[GOLDMAGNET_TOOLTIP]
+Desarma zombis de objetos metálicos y recoge monedas
 
 [GOTO_ACTIVITY]
 IR A EVENTOS
@@ -23757,8 +23739,8 @@ Avatar: {NAME}
 Curación
 
 [HEALTH_NOTICE_CONTENT_3]
-^E2725B^Traducción al español por ^98FB98^FranZ ^E2725B^y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.4.0 (actualizado el 11/5/2026)^oldclr^
+^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.5.0 (actualizado el 15/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -24881,9 +24863,6 @@ Cuevas congeladas
 
 [ICEAGE_DANGER_ROOM_NAME]
 Campo de batalla helado
-
-[ICEAGE_KEYGATE_HEADER]
-Entrada a las Cuevas congeladas
 
 [ICEAGE_LAST]
 Cuevas Congeladas - Día Final
@@ -26521,24 +26500,6 @@ Nivel 3
 [KERNELPULT_TOOLTIP]
 Arroja mantequilla y maíz a los zombis
 
-[KEYGATE_CHALLENGE_FREE_CHINAMOBILE_DESC]
-Privilegios de China Mobile
-
-[KEYGATE_CHALLENGE_REWARD_DESC]
-¡Completa la ruta de la Entrada y obtén artículos fenomenales!
-
-[KEYGATE_CHALLENGE_REWARD_DESC_SINGLE]
-¡Completa la ruta de la Entrada y obtén artículos fenomenales!
-
-[KEYS]
-Llaves
-
-[KEY_GATE]
-Puerta cerrada
-
-[KEY_GATE_COMING_SOON]
-Próximamente...
-
 [KILL_ALL_ZOMBIE]
 Selecciona tus plantas y resiste al ataque zombi
 
@@ -26664,9 +26625,6 @@ Lanza bastones para hacer daño continuo en un área
 
 [KONGFU]
 Dinastía del Kung Fu
-
-[KONGFU_KEYGATE_HEADER]
-PUERTA DEL KUNG FU
 
 [KONGFU_LAST]
 Dinastía del Kung Fu - Día Final
@@ -28137,6 +28095,12 @@ Objetivos
 
 [LEVEL_SCORE]
 Puntuación
+
+[LEVEL_SELECT_PREVIEW_BTN_OK]
+ACEPTAR
+
+[LEVEL_SELECT_PREVIEW_TITLE]
+Selección de portada
 
 [LEVEL_UP_HINT]
 AVISOS
@@ -30270,6 +30234,9 @@ El Tesoro de la Suerte, Paquetes del 11° Aniversario.
 [MAT_LUCKYCHEST_USE]
 Ábrelo y consigue una recompensa aleatoria, puedes mejorarlo hasta 3 veces.
 
+[MAT_MAUSOLEUM_2_HARD_COIN]
+Estratagema
+
 [MAT_MAUSOLEUM_ATK1]
 Potenciador de ataques
 
@@ -30648,6 +30615,24 @@ Se usan para canjear artículos en la Tienda de Viaje otoñal
 [MAT_TOY_CLOCKWORK]
 Moneda de super-atuendo
 
+[MAT_TOY_CLOCKWORK_1]
+Moneda del cazademonios
+
+[MAT_TOY_CLOCKWORK_1_GOT_WAY]
+Fiesta de disfraces
+
+[MAT_TOY_CLOCKWORK_1_USE]
+Se usa para realizar sorteos en Fiesta de disfraces: Demon Hunters
+
+[MAT_TOY_CLOCKWORK_2]
+Moneda de miel
+
+[MAT_TOY_CLOCKWORK_2_GOT_WAY]
+Fiesta de disfraces
+
+[MAT_TOY_CLOCKWORK_2_USE]
+Se usa para realizar sorteos en Fiesta de disfraces: Sweet Rhapsody
+
 [MAT_TOY_CLOCKWORK_GOT_WAY]
 Fiesta de disfraces
 
@@ -30656,6 +30641,24 @@ Se usa para realizar sorteos en la Fiesta de disfraces.
 
 [MAT_TOY_PARTS]
 Cristal de super-atuendo
+
+[MAT_TOY_PARTS_1]
+Rotor de oro
+
+[MAT_TOY_PARTS_1_GOT_WAY]
+Fiesta de disfraces
+
+[MAT_TOY_PARTS_1_USE]
+Se usa para canjear artículos en Fiesta de disfraces: Demon Hunters
+
+[MAT_TOY_PARTS_2]
+Colmena de cristal
+
+[MAT_TOY_PARTS_2_GOT_WAY]
+Fiesta de disfraces
+
+[MAT_TOY_PARTS_2_USE]
+Se usa para canjear artículos en Fiesta de disfraces: Sweet Rhapsody
 
 [MAT_TOY_PARTS_GOT_WAY]
 Fiesta de disfraces
@@ -30680,6 +30683,15 @@ El Tesoro de Poseidón.
 
 [MAT_ULTIMATE_TREASURE_USE]
 Contiene recompensas aleatorias para los príncipes del mar.
+
+[MAT_UNCHARTED_PERK_GATLINGPEA_1]
+Guisantralladora espiritual
+
+[MAT_UNCHARTED_PERK_GATLINGPEA_2]
+Guisantralladora espiritual II
+
+[MAT_UNCHARTED_PERK_GATLINGPEA_3]
+Guisantralladora espiritual III
 
 [MAT_UNIVERAL_GENE_SEQUENCE]
 Genes universales
@@ -30810,6 +30822,15 @@ Tu progreso se guarda si abandonas la partida, y se restaura al regresar
 [MAUSOLEUMDANGERROOM_HOWTOPLAY_6_DESCRIPTION]
 Si pierdes o te retiras, recibirás Monedas de cobre y Jade como premio final
 
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_7_DESCRIPTION]
+Solo se permiten 2 plantas de segunda generación en las Zonas de infinito
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_8_DESCRIPTION]
+¡El Primer Emperador regresó! Batallas emocionantes te esperan cada 9 Niveles
+
+[MAUSOLEUMDANGERROOM_HOWTOPLAY_9_DESCRIPTION]
+Recibes Monedas de cobre y Estratagemas si pierdes o te retiras
+
 [MAUSOLEUMHARD_HOWTOPLAY_1_DESCRIPTION]
 Las plantas derrotadas cuentan como bajas (a excepción del césped)
 
@@ -30827,6 +30848,9 @@ Quitar una planta con la pala no cuenta como baja, la pala es de uso limitado
 
 [MAUSOLEUMHARD_HOWTOPLAY_6_DESCRIPTION]
 Si pierdes, volverás al Nivel 1 del modo difícil y recuperarás tus plantas caídas
+
+[MAUSOLEUMHARD_HOWTOPLAY_7_DESCRIPTION]
+Solo se permiten 2 plantas de segunda generación en el Modo difícil
 
 [MAUSOLEUM_TASKDESCRIPTION]
 Alcanza el Nivel {NUMBER}
@@ -36664,6 +36688,159 @@ B. Viajar al pasado y colocar tus trampas
 [NARRATIVE_PVZ1_S29_16_H_INTRO_4]
 {SAY:winnie}Concéntrate, usuario Dave. Si nos quedamos atrapados en el pasado, perderemos toda posibilidad del futuro.
 
+[NARRATIVE_PVZ1_S30_1_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Las Magnetosetas atraen el metal y los Lanzaguisantes eléctricos dan en el blanco.
+
+[NARRATIVE_PVZ1_S30_1_H_INTRO_2]
+{SAY:crazydave}¿Será por la inducción electromagnética?
+
+[NARRATIVE_PVZ1_S30_1_H_INTRO_3]
+{SAY:winnie}Exacto. Un campo magnético cambiante puede generar corriente. Me sorprende que lo sepas.
+
+[NARRATIVE_PVZ1_S30_2_H_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}El fuego resulta especialmente efectivo contra zombis congelados.
+
+[NARRATIVE_PVZ1_S30_2_H_INTRO_2]
+{PLAYFUL:crazydave}Tiene sentido. Nada peor que descongelarse a lo bruto.
+
+[NARRATIVE_PVZ1_S30_2_H_INTRO_3]
+{SAY:winnie}No lo diría así, pero sí.
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Detecto una cantidad inusual de Zombiditos en el patio.
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_2]
+{SAY:winnie}Sugiero usar Hielaguisantes y algunas nueces para ponerles freno.
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_3]
+{SHOUT:crazydave}¡Fuera de mi jardín, enanos problemáticos!
+
+[NARRATIVE_PVZ1_S30_3_H_INTRO_4]
+{SAY:crazydave}¡Son pequeños, pero hacen el mismo desastre!
+
+[NARRATIVE_PVZ1_S30_5_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:winnie}Es hora de que estos zombis prueben unas Sombrasetas frescas.
+
+[NARRATIVE_PVZ1_S30_5_H_INTRO_2]
+{SAY:crazydave}Pero si les doy esas setas, ¿qué voy a comer yo?
+
+[NARRATIVE_PVZ1_S30_5_H_INTRO_3]
+{SAY:winnie}Algo que no intente matarte, preferiblemente.
+
+[NARRATIVE_PVZ1_S30_6_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Esas Grosellas eléctricas pueden servir de barrera, despleguemoslas.
+
+[NARRATIVE_PVZ1_S30_6_H_INTRO_2]
+{SAY:crazydave}¡Listo! ¿Qué más falta?
+
+[NARRATIVE_PVZ1_S30_6_H_INTRO_3]
+{SAY:winnie}Esperar.
+
+[NARRATIVE_PVZ1_S30_7_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Esto pinta mal.. sin sol, sin mejoras... estamos contra las cuerdas.
+
+[NARRATIVE_PVZ1_S30_7_H_INTRO_2]
+{PLAYFUL:winnie}Aún nos queda un último recurso: plantas fulminantes. Jalapeños y Petacerezas, para ser precisos.
+
+[NARRATIVE_PVZ1_S30_7_H_INTRO_3]
+{SAY:winnie}Todo depende de eso. Si fallamos... bueno, ya sabes cómo termina.
+
+[NARRATIVE_PVZ1_S30_8_H_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}¡Atención! Se aproxima una gran oleada de zombis.
+
+[NARRATIVE_PVZ1_S30_8_H_INTRO_2]
+{TIRED:winnie}Y parece que olvidaste traer las semillas de Girasol.
+
+[NARRATIVE_PVZ1_S30_8_H_INTRO_3]
+{SAY:crazydave}Tal vez... pero traje algo mejor: un nuevo amigo.
+
+[NARRATIVE_PVZ1_S30_8_H_INTRO_4]
+{SAY:crazydave}No sé si es un zombi o una planta, solo espero que sea de fiar.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}El patio está todo difuso, no distingo el vapor de la niebla.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_2]
+{PLAYFUL:winnie}Traje a un ayudante que nos guíe: Trebolador.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_3]
+{SAY:winnie}Por cierto, cuida a las plantas en peligro.
+
+[NARRATIVE_PVZ1_S30_9_H_INTRO_4]
+{SAY:crazydave}¡No dejaré que se roben mis Planters! Que diga, mis cacahuates.
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Viene una horda! ¡Planta Explotonueces y hazlos volar por los aires!
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_2]
+{SAY:winnie}Su alcance es limitado. ¿Seguro que es suficiente?
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_3]
+{SHOUT:crazydave}¡CLARO que es suficiente!
+
+[NARRATIVE_PVZ1_S30_10_H_INTRO_4]
+{SAY:crazydave}Cada uno que reviente es uno menos. ¡Y si revientas a muchos, mejor!
+
+[NARRATIVE_PVZ1_S30_11_H_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}El zombi onmyoji ha vuelto. Su abanico sigue siendo un problema.
+
+[NARRATIVE_PVZ1_S30_11_H_INTRO_2]
+{SAY:crazydave}Entonces usaremos Levitadoras. A ver qué hace cuando no toque el suelo.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_1]
+{NPC_ENTER:crazydave}{PLAYFUL}{START_DIALOG_MUSIC}¿Qué son todas esas cosas blancas? ¿Cebollas?
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_2]
+{NPC_ENTER:zbcommander}{SAY:zbcommander}Cabezas de flecha. Se encadenan en la misma fila. Más unidades, más daño.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_3]
+{SAY:zbcommander}Inutilizan nuestras máquinas al explotar. Mandad zombis a pie primero, luego a los mecas.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_4]
+{SAY:zbcommander}Ah, y cuidado con Dátil ardiente. Atrae zombis y los desvía de su ruta.
+
+[NARRATIVE_PVZ1_S30_12_H_INTRO_5]
+{EXCITED:crazydave}¿Comandante Z? ¡Hace tiempo que no te veía!
+
+[NARRATIVE_PVZ1_S30_13_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Las Explotonueces y los Dátiles ardientes no funcionan bien contra los zombis con pala.
+
+[NARRATIVE_PVZ1_S30_13_H_INTRO_2]
+{SAY:winnie}Espera a que detonen y luego mueve el carro de mina hacia los excavadores.
+
+[NARRATIVE_PVZ1_S30_13_H_INTRO_3]
+{SAY:crazydave}Entendido. ¡Hora de montar una buena barbacoa!
+
+[NARRATIVE_PVZ1_S30_14_H_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Estamos otra vez al inicio, pero algo cambió.
+
+[NARRATIVE_PVZ1_S30_14_H_INTRO_2]
+{SAY:winnie}El tiempo está jugando en contra. No podemos usar las plantas que conseguimos después del laberinto.
+
+[NARRATIVE_PVZ1_S30_14_H_INTRO_3]
+{SAY:crazydave}Entonces no perdamos tiempo. Terminemos esto y salgamos de aquí.
+
+[NARRATIVE_PVZ1_S30_15_H_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}¿No son esos los frijoles a los que los zombis ya les habían echado el ojo?
+
+[NARRATIVE_PVZ1_S30_15_H_INTRO_2]
+{EXCITED:crazydave}¡Proteged bien esos frijoles! No puede faltar ni uno.
+
+[NARRATIVE_PVZ1_S30_15_H_INTRO_3]
+{PLAYFUL:winnie}Ellos están acostumbrados al peligro, al igual que nosotros.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_1]
+{NPC_ENTER:zombossicon}{SAY:zombossicon}La tormenta ha llegado. Aquí termina vuestro viaje.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_2]
+{EXCITED:zombossicon}¡Observad a mi nuevo zombi de élite! No dejará una sola planta en pie.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_3]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Hablas mucho para alguien que está a punto de perder.
+
+[NARRATIVE_PVZ1_S30_16_H_INTRO_4]
+{SAY:winnie}Plan de emergencia activado. Derribemos los zombis.
+
 [NARRATIVE_QUEST_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Penny, mira! ¡Justo sobre mi cabeza!
 
@@ -37626,52 +37803,50 @@ Abramos estos Cofres, tal vez haya plantas que puedan ayudarnos.
 {SAY:winnieicon}Es el Tronco de Viaje. En él, puedes completar misiones y conseguir recompensas a cambio.
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_CHIEF_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}¡Y aún sonries! Ver tu cara sonriente y tus plantitas me saca de quicio.
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Tengo preparado a alguien que volverá las cosas mucho más frías a partir de ahora.
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_CHIEF_2]
-{SAY:zombossicon}¿Preparado, mi fiel Señor del viento?
-
-[NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_CHIEF_3]
-{SAY:zombossicon}Es hora de enfriarlos.
+{SAY:zombossicon}¿Preparado, mi fiel Señor del viento? Es hora de enfriarlos.
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_FINAL_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}¿Por qué no lo hablamos con la mente fría?
+{NPC_ENTER:zombossicon}{SAY:zombossicon}En esta ocasión, envié a una pareja ideal: a la Comadrejera de élite y al Señor del viento.
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_FINAL_2]
-{SAY:zombossicon}¡Digamos que tú te lo has buscado!
-
-[NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_FINAL_3]
-{SAY:zombossicon}Ya que no vienes, ¡iré yo mismo!
+{SAY}Dénles una cálida bienvenida... y sus sesos, también.
+- Cordialmente: Dr. Edgar Zomboss.
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_HUNTER_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Saludos, nos encontramos una vez más, amigos de plantas.
+{NPC_ENTER:zombossicon}{SAY}Saludos, amigos botánicos de la rebelión.
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_HUNTER_2]
-{SAY:zombossicon}No me sorprende que encuentren mi base secreta. Otra vez...
+{SAY}Esta vez les envié a un amiguito mío. Digamos que ustedes serán sus "presas".
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_HUNTER_3]
-{SAY:zombossicon}Necesito público para mi nuevo proyecto, MUAJAJAJAJA.
+{SHOUT}¡A por ellos, Cazador de élite!
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_WEASELHOARDER_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}Veo que estás bastante orgulloso de ti mismo.
+{NPC_ENTER:zombossicon}{SAY}Veo que no piensas darte por vencido, ¿eh?
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_WEASELHOARDER_2]
-{SAY:zombossicon}Espero que tu sonrisa permanezca en tu cara.
+{SHOUT}Pues, ¡YO TAMPOCO!
 
 [NARRATIVE_UNCHARTED_ICEAGE_INTRO_ZOMBOSS_WEASELHOARDER_3]
-{SAY:zombossicon}Es la hora, mi pequeña Comadreja de hielo.
+{PLAYFUL}Llegó la hora, mi pequeña Comadreja de hielo. ¡Acábalos!
 
 [NARRATIVE_UNCHARTED_ICEAGE_OUTRO_ZOMBOSS_FINAL_1]
-{NPC_ENTER:zombossicon}{SAY}...
+{NPC_ENTER:zombossicon}{SHOUT}¡NO OTRA VEZ!
 
 [NARRATIVE_UNCHARTED_ICEAGE_OUTRO_ZOMBOSS_FINAL_2]
-{SHOUT}¡ESPERA!
+{TIRED}Mis zombis de élite... derrotados. ¡No puede ser!
 
 [NARRATIVE_UNCHARTED_ICEAGE_OUTRO_ZOMBOSS_FINAL_3]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¿Sudando, Penny? Yo todavía estoy exhausto.
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¿Sudando, Penny? Yo sigo exhausto, ¡uf!
 
 [NARRATIVE_UNCHARTED_ICEAGE_OUTRO_ZOMBOSS_FINAL_4]
-{TIRED:winnie}Usuario Dave, yo no sudo, es el Dr. Zombi el que está un poco... ansioso.
+{TIRED:winnie}Usuario Dave, yo no sudo; es el Dr. Zombi quien está un poco... ansioso.
+
+[NARRATIVE_UNCHARTED_ICEAGE_OUTRO_ZOMBOSS_FINAL_5]
+{PLAYFUL:crazydave}Ya que todo ha regresado a la normalidad, volvamos a casa. Necesito descansar.
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_END_1]
 {NPC_ENTER:no42zombossicon}{SAY}Bien... Ahora que estoy a salvo, debo llevarle esto al jefe.
@@ -37749,7 +37924,7 @@ Abramos estos Cofres, tal vez haya plantas que puedan ayudarnos.
 {NPC_ENTER:no42zombossicon}{NPC_ENTER:no42crazydave}{SHOUT:no42crazydave}¡ALTO AHÍ! Esta vez no escaparás, ladrón.
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_8]
-{EXCITED:no42zombossicon}¡Alcánzame si puedes, tonto! ¡Hasta nunca, MUAJAJAJAJAJAJ!
+{EXCITED:no42zombossicon}¡Alcánzame si puedes, tonto! ¡Hasta nunca, MUAJAJAJAJAJA!
 
 [NARRATIVE_UNCHARTED_NO42_INTRO_ZOMBOSS_TUTORIAL_9]
 {NPC_EXIT:no42zombossicon}{SAY:winnie}¡Mira! Pero si es el Dr. Zombi...
@@ -38470,6 +38645,9 @@ A quienes recargaron en la temporada 10 del evento: Lotes del coleccionista
 [NEWYEAR_GIFT_HEAD_DES_ID_25844]
 A quienes recargaron en la temporada 11 del evento: Lotes del coleccionista
 
+[NEWYEAR_GIFT_HEAD_DES_ID_25867]
+A quienes recargaron en la temporada 12 del evento: Lotes del coleccionista
+
 [NEWYEAR_GIFT_HEAD_ID_25632]
 Año próspero
 
@@ -38502,6 +38680,9 @@ Primavera brillante
 
 [NEWYEAR_GIFT_HEAD_ID_25844]
 El resplandor
+
+[NEWYEAR_GIFT_HEAD_ID_25867]
+Música occidental
 
 [NEWYEAR_GOODS]
 Super Elección
@@ -38897,6 +39078,9 @@ Daño +15%
 [NEW_AVATAR_DESCRIPTION_ELECTRICCURRANT]
 Daño eléctrico +20%
 
+[NEW_AVATAR_DESCRIPTION_ELECTRICCURRANT_2]
+Coste -20
+
 [NEW_AVATAR_DESCRIPTION_ELECTRICPEASHOOTER_2]
 Daño eléctrico +20%
 
@@ -38996,6 +39180,9 @@ Recarga rápida +20%
 [NEW_AVATAR_DESCRIPTION_GRAPESHOT_2]
 Coste -20
 
+[NEW_AVATAR_DESCRIPTION_GRAVEBUSTER_1]
+Da 50 soles tras consumir una lápida, con 50% de dar una moneda extra
+
 [NEW_AVATAR_DESCRIPTION_GREENTURNIP_1]
 Vel. de ataque +15%
 
@@ -39007,6 +39194,9 @@ Coste -25
 
 [NEW_AVATAR_DESCRIPTION_GUARDSHROOM_2]
 Salud +30%
+
+[NEW_AVATAR_DESCRIPTION_GUARDSHROOM_3]
+Reduce el tiempo de digestión en un 40%
 
 [NEW_AVATAR_DESCRIPTION_HEADBUTTERLETTUCE_1]
 Prolonga la duración de la mantequilla en 1 s
@@ -39140,6 +39330,9 @@ Daño eléctrico +15%
 [NEW_AVATAR_DESCRIPTION_LILYPAD_1]
 Su salud aumenta en 150 puntos
 
+[NEW_AVATAR_DESCRIPTION_LONGMALILY_1]
+Recarga rápida +10%
+
 [NEW_AVATAR_DESCRIPTION_MAGNETSHROOM_1]
 Destruye objetos metálicos 1 s más rápido
 
@@ -39245,6 +39438,9 @@ Reduce el tiempo de digestión en 5 s
 [NEW_AVATAR_DESCRIPTION_ORCHIDMAGE_1]
 Recarga rápida +10%
 
+[NEW_AVATAR_DESCRIPTION_OXYGENALGAE_2]
+Producción solar +10%
+
 [NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_1]
 Daño +20%
 
@@ -39325,6 +39521,9 @@ Coste -20
 
 [NEW_AVATAR_DESCRIPTION_PRIMALPOTATOMINE1]
 Daño explosivo +15%
+
+[NEW_AVATAR_DESCRIPTION_PRIMALPOTATOMINE_2]
+Recarga rápida +15%
 
 [NEW_AVATAR_DESCRIPTION_PRIMALSUNFLOWER_1]
 Coste -25
@@ -39521,6 +39720,9 @@ Vel. de ataque +10%
 [NEW_AVATAR_DESCRIPTION_TURKEYPULT_2]
 Recarga rápida +30%
 
+[NEW_AVATAR_DESCRIPTION_TWINSHONEYSUCKLE_2]
+Daño +15%
+
 [NEW_AVATAR_DESCRIPTION_TWINSUNFLOWER_1]
 Producción solar +25
 
@@ -39551,6 +39753,9 @@ Daño gélido +15%
 [NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_1]
 Intervalo de ataque -20%
 
+[NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_2]
+La probabilidad de congelar zombis aumenta en un 10%
+
 [NEW_AVATAR_DESCRIPTION_WINTERSWEET_1]
 Daño +10%
 
@@ -39571,6 +39776,9 @@ Efectos visuales solamente.
 
 [NEW_AVATAR_DESCRIPTION_WITCHHAZEL]
 Reduce la cadencia de disparo en 3 s
+
+[NEW_AVATAR_DESCRIPTION_WITCHHAZEL_2]
+Daño +15%
 
 [NEW_AVATAR_DESCRIPTION_XSHOT_1]
 Daño +10%
@@ -39905,6 +40113,9 @@ Birrete
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICCURRANT_1]
 Bombilla azul
 
+[NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICCURRANT_2]
+Alto voltaje
+
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICPEASHOOTER_1]
 Audífonos guisante
 
@@ -40016,6 +40227,9 @@ Globos de fiesta
 [NEW_AVATAR_SHORT_DESCRIPTION_GRAPESHOT_2]
 Tocado ceremonial
 
+[NEW_AVATAR_SHORT_DESCRIPTION_GRAVEBUSTER_1]
+Clásico
+
 [NEW_AVATAR_SHORT_DESCRIPTION_GREENTURNIP_1]
 Gorra azul
 
@@ -40027,6 +40241,9 @@ Bruja abisal
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GUARDSHROOM_2]
 Árbol navideño
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GUARDSHROOM_3]
+Demonio del abismo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HEADBUTTERLETTUCE_1]
 Perro cremoso
@@ -40187,6 +40404,9 @@ Sombrero
 [NEW_AVATAR_SHORT_DESCRIPTION_LILYPAD_1]
 Rana
 
+[NEW_AVATAR_SHORT_DESCRIPTION_LONGMALILY_1]
+Monóculo
+
 [NEW_AVATAR_SHORT_DESCRIPTION_MAGNETSHROOM_1]
 Sinan
 
@@ -40310,6 +40530,9 @@ Capa mágica
 [NEW_AVATAR_SHORT_DESCRIPTION_OXYGENALGAE_1]
 Ángel marino
 
+[NEW_AVATAR_SHORT_DESCRIPTION_OXYGENALGAE_2]
+Snorkel
+
 [NEW_AVATAR_SHORT_DESCRIPTION_PAPHIOPEDILUM_1]
 Kongming
 
@@ -40402,6 +40625,9 @@ Jinyiwei
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_1]
 Cinta policial
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPOTATOMINE_2]
+Peligro
 
 [NEW_AVATAR_SHORT_DESCRIPTION_PRIMALSUNFLOWER_1]
 Dinosaurio
@@ -40622,6 +40848,9 @@ Chupete rosa
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Adornos navideños
 
+[NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_2]
+Cocinera
+
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSUNFLOWER_1]
 Sombreros de copa
 
@@ -40655,6 +40884,9 @@ Sombrero invernal
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_1]
 Zinturón dorado
 
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_2]
+Dragón azul
+
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_1]
 Gauze
 
@@ -40675,6 +40907,9 @@ Molino oscuro
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WITCHHAZEL_1]
 Gorro de siesta
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WITCHHAZEL_2]
+Sombrero verde
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WIZARDTHORNS_1]
 Flor rosa
@@ -42765,6 +43000,9 @@ Música
 
 [OPTIONS_SKIPANIMS]
 Sin anim. final
+
+[OPTIONS_SKIP_SPEEDCHANGE_EFFECT]
+Turbo sin VFX
 
 [OPTIONS_SOUNDFX]
 Efectos
@@ -46053,9 +46291,6 @@ Cañones fuera - III
 [PIRATE_DANGER_ROOM_NAME]
 Botín del muerto
 
-[PIRATE_KEYGATE_HEADER]
-PUERTA PIRATA
-
 [PIRATE_LEVEL_NAME]
 Mares Piratas - Día {LEVEL_NUMBER}
 
@@ -47921,6 +48156,9 @@ Veneno
 
 [PLANT_TAG_37]
 Magia
+
+[PLANT_TAG_38]
+Espiritual
 
 [PLANT_TEAM_FULL]
 El equipo de plantas está lleno
@@ -51026,6 +51264,10 @@ Te quedates sin movimientos
 [PVZ1KLOTSKI_ROUNDS]
 Movimientos: {NUMBER}
 
+[PVZ1MAUSOLEUM_HARDMODE_SELECT_PLANT_TIPS]
+Solo puedes llevar hasta 2 plantas de segunda generación en el Modo Difícil.
+(Elige plantas de primera generación de la lista superior).
+
 [PVZ1MODE]
 Dimensión del Recuerdo
 
@@ -51480,7 +51722,7 @@ Los zombis aparecen cuando la marea sube
 No tienes suficientes Estabilizadores para empezar la partida.
 
 [PVZ1MODE_TIME_COUNTDOWN]
-Reinicio modo difícil:  
+Reinicio modo difícil:
 
 [PVZ1MODE_TIME_ENERGY_NOT_ENOUGH_LOSS]
 ¡Derrota a los zombis antes de que la energía temporal se agote!
@@ -51823,6 +52065,36 @@ Protege a Roble arquero y alcanza la puntuación objetivo acertando a los zombis
 [PVZ1_MODE_MINIGAME_MODE_DESC_30]
 Evita que los zombis se lleven a los cerditos
 
+[PVZ1_MODE_MINIGAME_MODE_DESC_31]
+Evita que los zombis se lleven a los cerditos
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_32]
+Evita que Guacadrilo choque con los obstáculos y sobrevive al ataque zombi
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_33]
+¡Juguemos bolos en la playa!
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_34]
+Esquiva obstáculos y haz que los dodos crucen el rio
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_35]
+Combina esferas y protege tus plantas
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_36]
+Derriba zombis a cañonazos. Alcanza la puntuación objetivo para ganar
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_37]
+Pon obstáculos y plantas para evitar que los zombis se roben tus piezas
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_38]
+Pon obstáculos y plantas para evitar que los zombis se roben tus piezas
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_39]
+Sobrevive esquivando zombis y proyectiles. Derrota a los enemigos para alcanzar la puntuación objetivo
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_40]
+Arrastra los autos y despeja el área para que Dave regrese a casa
+
 [PVZ1_MODE_MINIGAME_MODE_DESC_41]
 Rompe los jarrones y derrota a los zombis
 
@@ -51941,6 +52213,66 @@ Rompe los jarrones y derrota a los zombis
 Rompe los jarrones y derrota a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_80]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_81]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_82]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_83]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_84]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_85]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_86]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_87]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_88]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_89]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_90]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_91]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_92]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_93]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_94]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_95]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_96]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_97]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_98]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_99]
+Rompe los jarrones y derrota a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_100]
 Rompe los jarrones y derrota a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_101]
@@ -52062,6 +52394,9 @@ Planta con antelación para destruir a los zombis
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_140]
 Planta con antelación para destruir a los zombis
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_141]
+Comanda un ejército zombi y derrota a todas las plantas
 
 [PVZ1_MODE_MINIGAME_START_LEVEL]
 Dimensión del Recuerdo: Minijuegos
@@ -52486,6 +52821,9 @@ Niebla venenosa
 [PVZ1_MODE_MINIGAME_START_LEVEL_140]
 Fuerza descomunal
 
+[PVZ1_MODE_MINIGAME_START_LEVEL_141]
+Era del vapor
+
 [PVZ1_MODE_NO_CHALLENGE_CHOOSE]
 No se seleccionaron objetivos.
 
@@ -52523,6 +52861,24 @@ Daño: {NUMBER} |
 
 [PVZ2TRAINING_TOTALDAMAGETEXT]
 Total: {NUMBER}
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_1]
+Completa el nivel 10 (difícil)
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_2]
+Completa el nivel 5 (difícil)
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_3]
+Completa el nivel 10
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_4]
+Completa el nivel 8
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_5]
+Completa el nivel 6
+
+[PVZ2UNCHARTEDMODE_SHOP_LOCK_6]
+Completa el nivel 3
 
 [PVZ2UNCHARTED_SHOP_TIME_TITLE]
 Se refresca en
@@ -52570,6 +52926,12 @@ Jugador vetado por hacer trampas. No puedes acceder con esta cuenta.
 ¿Deseas comprar esto por ^98FB98^{NUMS} Piezas de jade^oldclr^?
 
 [PVZ2_MAUSOLEUM_MODE_SHOP_BUY_NORMAL_CONFIRM]
+¿Deseas comprar esto por ^A0522D^{NUMS} Monedas de cobre^oldclr^?
+
+[PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_HARD_CONFIRM]
+¿Deseas comprar esto por ^3827F5^{NUMS} Estratagemas^oldclr^?
+
+[PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_NORMAL_CONFIRM]
 ¿Deseas comprar esto por ^A0522D^{NUMS} Monedas de cobre^oldclr^?
 
 [PVZ2_NSCALENDARSUSAGEDESCRIPTION]
@@ -52643,52 +53005,52 @@ Llaves espacio-temporales insuficientes. El número de llaves se actualiza todos
 2. Puedes obtener hasta 5 Llaves, cada día recibes 1 gratis hasta alcanzar el límite.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CHILDREN1]
-Aparece el Zombidito con supercarro chocón para hacer estragos
+Viene el Supercarro chocón para hacer estragos
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CHRISTMAS5]
-Inclínense ante la Zombidita hada blanca, princesa del Reino helado.
+Inclínense ante la Hada blanca
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CHRISTMAS10]
-Prepárate para una batalla contra el Zombi cascabel.
+Batalla contra el Zombi cascabel.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CRUCIBLE]
 Echa un poco de Nutrientes en un Caldero de hechicería y déjalo hervir. Luego, pon algunas plantas y espera a ver qué se cocina.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE1]
-Parece que no hay cambios... ¿o si?
+Regreso a Cuevas congeladas
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE2]
-Los Zombis cabeza de mamut se lanzan al ataque
+Cabeza de mamut al ataque
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE3]
 Aparecen casillas que mueven zombis a otras filas
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE4]
-El Zombi cazador de élite hace su aparición
+Debut del cazador de élite
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE5]
-No parece haber suficiente luz solar.
+No hay suficiente sol
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE6]
-La Comedrejera de élite y sus amiguitas están aquí
+La Comedrejera de élite está aquí
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE7]
-Protege tus plantas del frío viento o se congelarán
+Protege tus plantas del frío
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE8]
-Aparece el Señor del viento para congelar tus plantas a ventarrones
+Aparece el Señor del viento
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE9]
-Aparecen bloques de hielo con plantas y zombis dentro
+Todo viene en bloques de hielo
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE10]
-El Señor del viento y la Comadrejera de élite hacen tregua
+Comadrejera de élite y Señor del viento
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICECREAMCAR]
 Aparecen camiones de helados con zombis dentro. ^E2725B^(Quizás Pinchorroca ayude)^oldclr^
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_KONGMINGLIGHT]
-Linternas flotan y se estrellan contra tus plantas, abrazando las casillas. ¡Expúlsalas cuanto antes!
+Linternas flotan y se estrellan contra tus plantas, abrasando casillas. ¡Expúlsalas cuanto antes!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_MIRROR]
 Los espejos mágicos siempre aparecen en parejas, uno proyecta zombis y el otro los refleja.
@@ -52697,7 +53059,7 @@ Los espejos mágicos siempre aparecen en parejas, uno proyecta zombis y el otro 
 Los zombis corren a toda velocidad
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_NEEDFORSPEED2]
-Un camión monstruo aparece para sembrar el caos en la carretera
+Un camión monstruo aparece para sembrar el caos
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_NEEDFORSPEED3]
 Arrastra los autos y despeja el área para que Dave regrese a casa
@@ -52706,49 +53068,49 @@ Arrastra los autos y despeja el área para que Dave regrese a casa
 Modo clásico, sin mecánicas especiales
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN1]
-Se rumorea que cualquier zombi que entre en ella desaparece
+Convierte zombis en espíritus errantes
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN2]
 ¡Todos deben hacer fila para entrar!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN3]
-Cuenta la leyenda que una vez un zombi entró y nunca más volvió a sentir hambre
+Más cabezas de calabaza
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN4]
-Le encanta volar por los cielos en su escoba mágica
+Le encanta volar en su escoba
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN5]
 Su escoba no tiene frenos
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN6]
-Los rumores dicen que se le ha visto en el mercado de abarrotes
+¡Ji, ji, ji, ji!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN7]
-Una pareja que convertirá tu jardín en un caos total
+Una pareja espeluznante
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN8]
-La casa de las calabazas sigue siendo desconcertante
+Más casas espeluznantes
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN9]
 ¡Zombis y fantasmas! ¡Qué miedo!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN10]
-¡Más zombis, más calabazas, caos total!
+¡Más zombis, más calabazas!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN11]
-La bruja está de vuelta a las andadas
+La bruja está de vuelta
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN12]
-¡Nuez cáscara-rrabias está aquí para defendernos!
+¡Nuez cáscara-rrabias al rescate!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN13]
-El arsenal de hechizos de esta bruja parece no tener fin
+Derrota a la bruja calabaza
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN14]
-Prepara tus defensas, el ataque está por comenzar
+Batalla final, ¿estás listo?
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINSCARECROW]
-Espantapájaros que no espantan pájaros
+Espantapájaros que no espantan
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_RUNNING]
 Evita obstáculos, recoge monedas para acelerar y alcanza la puntuación objetivo
@@ -52758,7 +53120,7 @@ Esta niebla malvada proporciona un fuerte escudo a los zombis
 ^E2725B^(Quizá la brisa del bosque pueda disiparla)^oldclr^
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_SNOWBALL]
-Aparecen bolas de nieve que pueden ser empujadas por los zombis. ¡Derrítelas con fuego!
+Zombis empujan bolas de nieve. ¡Derrítelas con fuego!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_TUNNEL]
 Los zombis caminan por trincheras donde no se puede plantar
@@ -52767,31 +53129,31 @@ Los zombis caminan por trincheras donde no se puede plantar
 ¡Cuidado con los zombis de ZCorp!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP2]
-¿Zombiditos gigantes y Zombisteins pequeños? ¿He visto bien?
+Zombiditos gigantes y Zombisteins pequeños
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP3]
-El suelo cubierto de trozos de papel
+Hay papel tirado en el piso
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP4]
-¡La impresora no funciona bien!
+La impresora no funciona bien
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP5]
-¡Más basura! ¡Trae la aspiradora!
+Más basura en el suelo
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP6]
-ZCorp tiene la tecnología de punta para sus tareas cotidianas
+ZCorp y su desorden
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP7]
-Llega la consultora de ZCorp con su caótica lluvia de ideas
+Llega la consultora de ZCorp
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP8]
-Hay demasiado papel esparcido por el suelo. ¡No olvides hacer limpieza!
+¡No olvides hacer limpieza!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP9]
-¡Más zombis y trozos de papel!
+Más papel tirado, otra vez...
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP10]
-Prepárate para una batalla contra el Z-Mech
+Batalla contra Z-Mech
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_CHILDREN1]
 Carritos chocones
@@ -52806,7 +53168,7 @@ Asalto final
 Calderos de hechicería
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE1]
-Aperitivos
+Nueva glaciación
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE2]
 Cabeza de mamut
@@ -52818,13 +53180,13 @@ Hielo flotante
 Cacería de élite
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE5]
-Hielo indestructible
+Sol invernal
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE6]
 Comadrejas de élite
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE7]
-Guardianes del hielo
+Frío polar
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE8]
 Ventisca de élite
@@ -52833,7 +53195,7 @@ Ventisca de élite
 Bloques de hielo
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE10]
-Batalla decisiva
+Asalto final
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICECREAMCAR]
 Camión de helados
@@ -52920,13 +53282,13 @@ Invasión de ZCorp
 Papeles invertidos
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP3]
-Robot aspirador
+Aspiradora robot
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP4]
 Impresora defectuosa
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP5]
-Robot aspirador II
+Aspiradora robot II
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP6]
 Robots e impresoras
@@ -52998,6 +53360,11 @@ Completa los niveles anteriores.
 3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM]
+1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
+2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
+3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM_2]
 1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
 2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
 3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
@@ -54142,6 +54509,12 @@ Recompensa clasificatoria de la temporada 43 de Dueloz
 [RANK_AVATAR_CONTENT_CONTENT_61059]
 Recompensa clasificatoria de la temporada 44 de Dueloz
 
+[RANK_AVATAR_CONTENT_CONTENT_61060]
+Recompensa clasificatoria de la temporada 45 de Dueloz
+
+[RANK_AVATAR_CONTENT_CONTENT_61061]
+Tras las huellas de la Ruta de la Seda: Dunhuang
+
 [RANK_AVATAR_CONTENT_CONTENT_61500]
 ¡Dame dulces o te haré una travesura!
 
@@ -54339,6 +54712,12 @@ Milagro con alas
 
 [RANK_AVATAR_CONTENT_TITLE_61059]
 Exploradores de ruinas
+
+[RANK_AVATAR_CONTENT_TITLE_61060]
+El inframundo
+
+[RANK_AVATAR_CONTENT_TITLE_61061]
+El esplendor de Dunhuang
 
 [RANK_AVATAR_CONTENT_TITLE_61500]
 Dulce o truco
@@ -63255,9 +63634,6 @@ Ciudad Aérea - Día Final
 [SKYCITY_FINAL_LEVEL1]
 Ciudad Aérea - Día Final
 
-[SKYCITY_KEYGATE_HEADER]
-PUERTA CELESTIAL
-
 [SKYCITY_LEVEL_NAME]
 Ciudad Aérea - Día {LEVEL_NUMBER}
 
@@ -67607,6 +67983,12 @@ El huevo eclosiona en un Zombistein líder que puede escupir ácido al atacar
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER_TITLE]
 Corona infernal
 
+[STORE_PRODUCT_AVATAR_DOOMBELL]
+Se reviste de un escudo de plata que otorga mayor dureza.
+
+[STORE_PRODUCT_AVATAR_DOOMBELL_TITLE]
+Amuleto
+
 [STORE_PRODUCT_AVATAR_DOOMSHROOM]
 Todas las Petasetas del jardín crecerán una fase antes de explotar
 
@@ -67751,6 +68133,12 @@ Crea 1 copia adicional
 [STORE_PRODUCT_AVATAR_ESCAPEROOT_TITLE]
 Casco de minería
 
+[STORE_PRODUCT_AVATAR_EXORCISLILY]
+Libera un amuleto adicional que neutraliza efectos adversos en plantas
+
+[STORE_PRODUCT_AVATAR_EXORCISLILY_TITLE]
+Tocado imperial
+
 [STORE_PRODUCT_AVATAR_EXPLODEONUT]
 Se reviste de una armadura volcánica, la cual, le otorga más dureza y hace más daño al explotar
 
@@ -67847,6 +68235,18 @@ Aturde a los zombis acechados cuando usa Nutrientes
 [STORE_PRODUCT_AVATAR_GHOSTPEPPER_TITLE]
 Moñito púrpura
 
+[STORE_PRODUCT_AVATAR_GLACIERSHROOM]
+Su ataque manual se divide y hace daño de área. Las esquirlas priorizan zombis con mayor salud y congelan.
+
+[STORE_PRODUCT_AVATAR_GLACIERSHROOM_TITLE]
+Gafas naranjas
+
+[STORE_PRODUCT_AVATAR_GLOOMBARA]
+Sin efectos.
+
+[STORE_PRODUCT_AVATAR_GLOOMBARA_TITLE]
+Cuentas
+
 [STORE_PRODUCT_AVATAR_GLUTTONYDRAGON]
 Al usar Nutrientes, come snacks para recuperar más energía
 
@@ -67870,6 +68270,12 @@ Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_GOLDLEAF_TITLE]
 Helado
+
+[STORE_PRODUCT_AVATAR_GOLDMAGNET]
+Funde los objetos atraídos en una enorme moneda que derriba y daña zombis
+
+[STORE_PRODUCT_AVATAR_GOLDMAGNET_TITLE]
+Capa dorada
 
 [STORE_PRODUCT_AVATAR_GRAPESHOT]
 Deja un charco de mermelada que ralentiza a los zombis que lo pisen
@@ -68933,6 +69339,12 @@ Puede repeler zombis grandes con su efecto de Nutrientes
 [STORE_PRODUCT_AVATAR_UMBRELLALEAF_TITLE]
 Flores
 
+[STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK]
+Coste -25
+
+[STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK_TITLE]
+Liebre
+
 [STORE_PRODUCT_AVATAR_VAMPORCINI]
 La salud aumentada tras usar Nutrientes es mucho mayor
 
@@ -69018,7 +69430,7 @@ Los nabos del efecto son más grandes y hacen más daño
 Tiara
 
 [STORE_PRODUCT_AVATAR_ZOYBEANPOD]
-Genera un Zomboidestein ruibarbo al usar Nutrientes, que aturde al enemigo cuando ataca
+Genera un Zomboidestein rábano al usar Nutrientes, que aturde al enemigo cuando ataca
 
 [STORE_PRODUCT_AVATAR_ZOYBEANPOD_TITLE]
 Esquís
@@ -69397,20 +69809,11 @@ Nivel 3
 [SUGARCANE_TOOLTIP]
 Bloquea y retiene zombis; se cura con el tiempo si no recibe daño
 
-[SUGGEST_ATTRIBUTES]
-Atributos recomendados:
-
-[SUGGEST_TUTORIAL_DESCRIPTION]
-¿No sabes qué planta elegir? Las Selecciones poderosas te proporcionarán atacantes agresivos, un defensor fornido y el productor de sol que necesitas para ganar.
-
-[SUGGEST_TUTORIAL_TITLE]
-Selecciones poderosas
-
 [SUMMARY_CLOUD]
 Datos de la nube
 
 [SUMMARY_STAR]
-  
+• Recursos:
 
 [SUMMARY_DAYS]
 {DAY_COUNT}
@@ -69422,7 +69825,7 @@ Descargando de la nube...
 Último acceso: {DAY}/{MONTH} a las {HOUR}:{MIN}
 
 [SUMMARY_LEVEL]
-Niveles jugados:
+Niveles completados:
 
 [SUMMARY_LOCAL]
 Datos locales
@@ -71772,6 +72175,9 @@ A quienes participaron en la temporada 10 del evento: El Tesoro celestial
 [TIANGONG_HEAD_DES_ID_25846]
 A quienes participaron en la temporada 11 del evento: El Tesoro celestial
 
+[TIANGONG_HEAD_DES_ID_25864]
+A quienes participaron en la temporada 12 del evento: El Tesoro celestial
+
 [TIANGONG_HEAD_ID_25698]
 Rey de lingotes
 
@@ -71807,6 +72213,9 @@ Cien escrituras
 
 [TIANGONG_HEAD_ID_25846]
 Kosple
+
+[TIANGONG_HEAD_ID_25864]
+Deseos y estrellas
 
 [TICKETS_PURCHASE_CONFIRMATION]
 Confirmar compra
@@ -71915,6 +72324,9 @@ Tierras ocultas
 
 [TIMESPACE_LEVEL_NAME]
 Fisura temporal
+
+[TIMESPACE_MAUSOLEUM_2_MODE_HARD_LOCKED_CLICKED_HINT]
+Disponible el 30 de abril al completar el Modo fácil.
 
 [TIMESPACE_MAUSOLEUM_MODE_HARD_LOCKED_CLICKED_HINT]
 Disponible el 12 de febrero al completar el Modo fácil.
@@ -72053,6 +72465,9 @@ Gran peticionario II
 
 [TIME_SUMMON_HEAD_ID_25691]
 Peticionario II
+
+[TIME_TUNNEL_SKIP]
+Toca para omitir...
 
 [TITLE_OPEN_CHEST]
 ¡Abre el Cofre!
@@ -72383,6 +72798,9 @@ A quienes participaron en la temporada 13 del evento: Fiesta de disfraces
 [TOYS_HEAD_DES_ID_25845]
 A quienes participaron en la temporada 14 del evento: Fiesta de disfraces
 
+[TOYS_HEAD_DES_ID_25865]
+A quienes participaron en la temporada 15 del evento: Fiesta de disfraces
+
 [TOYS_HEAD_ID_25327]
 Dragón hambriento
 
@@ -72424,6 +72842,9 @@ Mil formas
 
 [TOYS_HEAD_ID_25845]
 Danza de las abejas
+
+[TOYS_HEAD_ID_25865]
+Abismo aterrador
 
 [TOY_NIGHT_CHANCE_TABLE]
 • Bolsa de premios:
@@ -72469,7 +72890,7 @@ Como ya tienes esto, obtienes puntos de bonificación en su lugar
 4. Las fichas obtenidas se convierten en Joyas al final del evento.
 
 [TO_BE_AWAIT]
-Estáte atento para más...
+Próximamente...
 
 [TRAFFIC_JAM_DESCRIPTION]
 ¡Retrasa a los zombis {NUMBER} segundos!
@@ -72484,10 +72905,10 @@ Res.: {NUMBER}
 Atuendos
 
 [TRANS_GENOSIS_AVATAR_SENIOR_DES]
-^FF0000^Obtén 1-3 Piezas de Atuendos al azar.^oldclr^
+^FF0000^1-3 Piezas de atuendos^oldclr^
 
 [TRANS_GENOSIS_AVATAR_SIMPLE_DES]
-^FF0000^Obtén 1 Pieza de Atuendos al azar.^oldclr^
+^FF0000^1 Pieza de atuendos^oldclr^
 
 [TRANS_GENOSIS_BTN]
 FUSIÓN
@@ -72499,10 +72920,10 @@ No disponible
 GRATIS
 
 [TRANS_GENOSIS_HINT]
-Hay Piezas de plantas de alta rareza en la lista que estás seleccionando, ¿seguro que quieres usarlos para la fusión?
+Hay piezas de alta rareza en la lista, ¿seguro que quieres usarlas para la fusión?
 
 [TRANS_GENOSIS_NOTENOUGH]
-No tienes suficientes Piezas para hacer la fusión.
+Selecciona al menos 2 Piezas para hacer la fusión.
 
 [TRANS_GENOSIS_PAY_ENSURE]
 ¿Deseas hacer una ^FF0000^{TYPE}^oldclr^ por ^FF8000^{COST} {CURRENCY}^oldclr^?
@@ -72553,14 +72974,14 @@ Fusión común
 Monedas
 
 [TRANS_GENOSIS_TIPS]
-Esta función te permitirá fusionar Piezas de Plantas y Atuendos para crear más en base a las seleccionadas.
-^FF0000^Ten en cuenta que solo podrás fusionar aquellas Piezas en tu posesión^oldclr^
+Esta función te permitirá fusionar piezas de plantas y atuendos para crear más en base a las seleccionadas.
+^FF0000^Ten en cuenta que solo podrás fusionar aquellas piezas en tu posesión.^oldclr^
 
 [TRANS_GENOSIS_TITLE]
 Transgénesis
 
 [TRANS_GENOSIS_WASTE]
-Dos piezas de plantas legendarias son más que suficientes para obtener plantas de una rareza más alta en la fusión, ¿deseas eliminar las Piezas no necesarias?
+Dos piezas legendarias son más que suficientes para esta fusión, ¿deseas eliminar las piezas sobrantes?
 
 [TRANS_GENOSIS_WASTE_LEFT]
 CONSERVAR
@@ -73323,6 +73744,12 @@ Festival de Sobres rojos
 [UINEWYEARREDPACKET_GACHA]
 Sorteo de Año nuevo
 
+[UIUNCHARTEDENTRY_LOCK_DESCRIPTION]
+Evento bloqueado
+
+[UIUNCHARTEDENTRY_LOCK_UNCHARTED_MAUSOLEUM_2_DESCRIPTION]
+Se desbloquea al completar los niveles del primer capítulo.
+
 [UI_BAG_ACCESSORY_EXCHANGE]
 ACCESORIOS
 
@@ -74073,6 +74500,9 @@ Conquistador de Halloween
 [UNCHARTED_HAYSTACK]
 Césped
 
+[UNCHARTED_HAYSTACK_AVATAR_PLANTFOOD_DESCRIPTION]
+^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+
 [UNCHARTED_HAYSTACK_DESCRIPTION]
 {KEYWORD}Especial: {STAT}permite plantar en trincheras
 {KEYWORD}Características de la planta: {STAT}planta verde, de baja estatura
@@ -74081,6 +74511,9 @@ Césped
 
 [UNCHARTED_HAYSTACK_DESCRIPTION_HEADER]
 El césped te permite plantar sobre el terreno fangoso del Mausoleo de Qin.
+
+[UNCHARTED_HAYSTACK_NEW_SKILL_LEVEL1_DES]
+Te permite plantar sobre el terreno fangoso del Mausoleo de Qin.
 
 [UNCHARTED_HAYSTACK_TOOLTIP]
 Permite plantar sobre terreno fangoso
@@ -74250,8 +74683,14 @@ Alcanza 10 estrellas como récord histórico.
 [UNCHARTED_MAUSOLEUM_DES_ID_25809]
 A quienes alcanzaron la racha 50 de la Zona de infinito en Tierras ocultas: Mausoleo de Qin
 
+[UNCHARTED_MAUSOLEUM_DES_ID_25868]
+A quienes alcanzaron la racha 50 de la Zona de infinito en Tierras ocultas: Mausoleo de Qin - Parte 2
+
 [UNCHARTED_MAUSOLEUM_ID_25809]
 Primer conquistador
+
+[UNCHARTED_MAUSOLEUM_ID_25868]
+Tour por las catacumbas
 
 [UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT1]
 1. Disponibilidad
@@ -74348,6 +74787,15 @@ Remolacha trememenda
 
 [UNCHARTED_PHATBEET_TOOLTIP]
 Inflige daño cada pocos segundos
+
+[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_1]
+Guisantralladora hace 50% más daño y cuesta 150 soles menos
+
+[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_2]
+Guisantralladora tiene un 25 % de probabilidad de liberar guisantes extra en un área de abanico
+
+[UNCHARTED_SHOP_PREVIEW_DESCRIPTION_3]
+Guisantralladora puede potenciarse en el Reino espiritual, disparando guisantes espectrales que hacen más daño
 
 [UNCHARTED_SPRING_FESTIVAL_2024_KEY_INFO_TEXT_1]
 1. Disponibilidad
@@ -74761,10 +75209,10 @@ DESBLOQUEAR
 Avanza al nivel %d para desbloquear
 
 [UNLOCK_WORLD_WARNING]
-El siguiente mundo posee una dificultad bastante elevada. Necesitas ^D22808^plantas de Nvl. {PLANT_LEVEL}^oldclr^ como mínimo para poder viajar.
+El siguiente mundo posee una dificultad bastante elevada. Necesitas ^D22808^plantas de Nvl. {PLANT_LEVEL}^oldclr^ como mínimo, ¿seguro que quieres continuar?
 
 [UNLOCK_WORLD_WARNING_HEAD]
-Incapaz de empezar el mundo
+ADVERTENCIA DE DIFICULTAD
 
 [UNLOCK_ZEN_SLOT]
 ABRIR
@@ -75260,7 +75708,7 @@ Nivel 5
 Sopla ráfagas de viento que dañan a todos los zombis de la línea
 
 [VASEBREAKER_ATLANTIS_LEVEL_NAME_1]
-Desafío submarino: rápidos y mojados
+Desafío submarino: azul infinito
 
 [VASEBREAKER_ATLANTIS_LEVEL_NAME_2]
 Desafío submarino: mar abierto
@@ -75272,10 +75720,10 @@ Desafío submarino: abismo profundo
 Desafío playero: ¡A la playa!
 
 [VASEBREAKER_BEACH_LEVEL_NAME_2]
-Desafío playero: Banquete de mariscos
+Desafío playero: Mar y tierra
 
 [VASEBREAKER_BEACH_LEVEL_NAME_3]
-Desafío playero: Los misterios de la playa
+Desafío playero: Vibra tropical
 
 [VASEBREAKER_DARK_LEVEL_NAME_1]
 Desafío oscuro: Fiesta magnética
@@ -75368,7 +75816,7 @@ Intro: A la izquierda
 Intro: Jarrón jefe
 
 [VASEBREAKER_KONGFU_LEVEL_NAME_1]
-Desafío Kung Fu: ¡Viaje por el Oriente!
+Desafío Kung Fu: Viaje por oriente
 
 [VASEBREAKER_KONGFU_LEVEL_NAME_2]
 Desafío Kung Fu: Jarrones tradicionales
@@ -75398,13 +75846,13 @@ Desafío moderno: Arte explosivo
 Desafío moderno: Paradoja temporal
 
 [VASEBREAKER_NEWYEAR_LEVEL_NAME_1]
-Desafío Año Nuevo: Sin sobresaltos
+Desafío lunar: Sin sobresaltos
 
 [VASEBREAKER_NEWYEAR_LEVEL_NAME_2]
-Desafío Año Nuevo: Unión poderosa
+Desafío lunar: Unión poderosa
 
 [VASEBREAKER_NEWYEAR_LEVEL_NAME_3]
-Desafío Año Nuevo: Nueva vida
+Desafío lunar: Nueva vida
 
 [VASEBREAKER_PACK_01_DESCRIPTION]
 Introducción
@@ -75736,7 +76184,7 @@ OLEADA FINAL
 ¡Nigromancia!
 
 [WARNING_HAMSTER_BALLS]
-¡PELEA DE HÁMSTERES!
+¡PELEA DE HÁMSTERS!
 
 [WARNING_HEIAN_WIND]
 ¡Tifón caótico!
@@ -75832,7 +76280,7 @@ Listos...
 ¡Apareció una bruja!
 
 [WARNING_ZCORPDROP]
-¡Refuerzos ZCorp!
+¡Entrega exprés de ZCorp!
 
 [WARRIOR_DISABLE_PLANT_DIFFICULTY_2]
 Sin peleas
@@ -77514,10 +77962,10 @@ La fuerza de los zombis es 5, no puedes usar Artefactos
 Zombidito misilero
 
 [ZOMBIE_AIR_MISSILE_LAUNCHER_DESCRIPTION]
-Es un ministro honrado por muchos pilotos, concienzudo y trabajador en mantener el orden en el aire. Los zombis planearon darle un cerebro inteligente, aunque esto parece ser su gran ambición antes de su retiro.
+Un antiguo ministro de aviación admirado por muchos pilotos: estricto, trabajador y obsesionado con mantener el orden en el aire. Nadie entendía cómo podía dirigir el tráfico aéreo y coordinar ataques al mismo tiempo. Ahora tampoco, pero al menos ya está muerto.
 
 [ZOMBIE_AIR_MISSILE_LAUNCHER_DESCRIPTION_HEADER]
-Si no deslizas tus dedos rápidamente sobre él, causará un gran daño a tu nave.
+Si no deslizas tus dedos rápidamente sobre él, tu nave terminará hecha chatarra.
 
 [ZOMBIE_ATLANTIS_ARMOR1]
 Caracono del mar
@@ -77591,6 +78039,18 @@ La búsqueda de cerebros es un axioma universal que trasciende el tiempo, la ban
 [ZOMBIE_ATLANTIS_LAND_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme oleada de zombis de la Atlántida.
 
+[ZOMBIE_ATLANTIS_LAND_GARGANTUAR]
+Zombistein atlante
+
+[ZOMBIE_ATLANTIS_LAND_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta plantas con su columna de concreto
+{KEYWORD}Especial: {STAT}lanza al Zombidito marino cuando sufre daño
+
+{FLAVOR}Cuenta la leyenda que imponentes gigantes derribaron Stonehenge, desencadenando el Gran Diluvio que provocó el ahogamiento del Reino del Bien. También existe la leyenda de que las excursiones submarinas baratas son una mala idea.
+
+[ZOMBIE_ATLANTIS_LAND_GARGANTUAR_DESCRIPTION_HEADER]
+Zombi gigante de la ciudad de Atlantis.
+
 [ZOMBIE_ATLANTIS_gargantuar]
 Zombistein marino
 
@@ -77598,7 +78058,7 @@ Zombistein marino
 {KEYWORD}Daño: {STAT}aplasta plantas con su columna de concreto
 {KEYWORD}Especial: {STAT}lanza al Zombidito marino cuando sufre daño
 
-{FLAVOR}Cuenta la leyenda que imponentes gigantes derribaron Stonehenge desencadenando el Gran Diluvio que provocó el ahogamiento del Reino del Bien. Luego está la leyenda de que en el fondo del mar hay experiencias de vuelo asequibles para grupos específicos.
+{FLAVOR}Demuestra que incluso una civilización perdida puede seguir produciendo problemas gigantescos.
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION_HEADER]
 Un enorme zombi de las profundidades marinas, bien equipado para la acción.
@@ -78094,21 +78554,6 @@ El gorro de oso y su overol rosa son las cosas que más aprecia. No puede estar 
 
 [ZOMBIE_CHILDRENSDAY_IMP_DESCRIPTION_HEADER]
 Un zombi pequeño disfrazado de oso para el Día del Niño.
-
-[ZOMBIE_CHILDREN_BALLON]
-Zombidito con globos
-
-[ZOMBIE_CHILDREN_LOLIPOPS]
-Zombi con paleta
-
-[ZOMBIE_CHILDREN_SCHOOLBAG]
-Zombidito escolar
-
-[ZOMBIE_CHILDREN_TOCAR]
-Zombidito con carrito
-
-[ZOMBIE_CHILDREN_TOYGUN]
-Zombidito con burbujas
 
 [ZOMBIE_CHRISTMAS]
 Zombi navideño
@@ -78849,21 +79294,19 @@ Sus jarrones estan repletos de Gallinas zombi, ¡que horror!
 Zombi sanador de élite
 
 [ZOMBIE_ELITE_ROMAN_HEALER_DESCRIPTION]
-Por lo general, los Zombis sanadores solo liberan magia curativa a otros zombis hasta que son derrotados, el alma llega a la cima de las montañas nevadas para derrotar a un dragón, desde el cual el viejo zombi abre una nueva puerta, y el bastón obtiene más poder.
+Los demás sanadores curan heridas menores. Él regresó de las montañas nevadas con un bastón mágico más poderoso, una túnica nueva y una historia sobre un dragón que nadie le cree.
 
 [ZOMBIE_ELITE_ROMAN_HEALER_DESCRIPTION_HEADER]
 Cura zombis y los hace invencibles por unos segundos.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC]
-Zombi de alta tensión
+Zombi electrómano MK-II
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_DESCRIPTION]
-{KEYWORD}Especial: {STAT}las descargas eléctricas pueden ralentizar, aturdir o dañar plantas
-
-{FLAVOR}Fue alcanzado por un rayo... cinco veces. Ahora dice que puede oír los pensamientos de los enchufes y que su pistola de rayos "tiene sentimientos".
+Fue alcanzado por un rayo... cinco veces. Ahora dice que puede oír los pensamientos de los enchufes y que su pistola de rayos "tiene sentimientos".
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_DESCRIPTION_HEADER]
-Dispara rayos que chamuscan tus plantas en fracción de segundos.
+Dispara bolas de plasma a todas las plantas del patio.
 
 [ZOMBIE_EXPLORER]
 Zombi explorador
@@ -79414,7 +79857,7 @@ Señor del viento
 {FLAVOR}En una fría noche de tormenta, él y su choza salieron volando por los aires. Desde ese día le guarda rencor a las ventiscas y desarrolló una resistencia feroz, después de pasar tanto tiempo siendo arrastrado por ellas.
 
 [ZOMBIE_ICEAGE_CHIEF_ELITE_DESCRIPTION_HEADER]
-Congela todas las plantas de su línea. Es resistente a los ataques de ciertas plantas.
+Su ventisca congela plantas y empuja zombis. Es resistente a los ataques de ciertas plantas.
 
 [ZOMBIE_ICEAGE_DESCRIPTION]
 Zombi cavernario estaba ocupado pintando huellas de manos en las paredes de las cuevas cuando le dijeron que empezara a pelear contra las plantas. No sabe por qué pelea contra las plantas, pero espera volver pronto a pintar. Estaba inspirado. Tenía planes para grandes obras. Por fin la escuela de arte estaba dando sus frutos.
@@ -79462,15 +79905,16 @@ Shhhhh... Zombi cazador en realidad no mató al tigre dientes de sable. Encontr�
 Un zombi que puede lanzar bolas de nieve a distancia para enfriar plantas hasta congelarlas en bloques.
 
 [ZOMBIE_ICEAGE_HUNTER_ELITE]
-Zombi cazador de élite
+Cazador de élite
 
 [ZOMBIE_ICEAGE_HUNTER_ELITE_DESCRIPTION]
+{KEYWORD}Especial: {STAT}las bolas de nieve derrotan a las plantas que no pueden congelar
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques de fuego
 
 {FLAVOR}Los zombis organizan una competencia de cacería cada 4 años. Este fue el ganador del evento, sin dudas es un campeón de campeones.
 
 [ZOMBIE_ICEAGE_HUNTER_ELITE_DESCRIPTION_HEADER]
-Lanza bolas de hielo para congelar a tus plantas. Es resistente a los ataques de ciertas plantas.
+Lanza bolas de nieve para congelar plantas al instante. Es resistente a los ataques de ciertas plantas.
 
 [ZOMBIE_ICEAGE_IMP]
 Zombidito yeti
@@ -79526,6 +79970,7 @@ Una zombi escondida en un tronco con una manada de comadrejas de la tundra. Las 
 Comadrejera de élite
 
 [ZOMBIE_ICEAGE_WEASELHOARDER_ELITE_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}deja de liberar comadrejas cuando su tronco es destruido
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques de fuego
 
 {FLAVOR}Un día encontró una ardilla congelada y una bellota dentro de un tronco. Tanto ella como su comadreja mordieron la bellota y así fue como ambas se transformaron en zombis de élite.
@@ -79552,10 +79997,15 @@ Una comadreja más fuerte y veloz que nunca.
 Bestia del hielo
 
 [ZOMBIE_ICEYEARMONSTER_DESCRIPTION]
-El hielo corre por sus venas. No duda, no teme... y no se detiene hasta que todo a su alrededor deja de moverse.
+{KEYWORD}Daño: {STAT}dispara carámbanos que congelan y dañan plantas
+{KEYWORD}Especial: {STAT}crea portales que invocan zombis de Año Nuevo
+{KEYWORD}Especial: {STAT}carga por la línea, congelando el suelo e impidiendo el plantado
+{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques de fuego
+
+{FLAVOR}El hielo corre por sus venas. No duda, no teme... y no se detiene hasta que todo a su alrededor deja de moverse.
 
 [ZOMBIE_ICEYEARMONSTER_DESCRIPTION_HEADER]
-Escupe hielo capaz de congelar tus plantas en cuestión de segundos.
+Devora a la planta más cercana y escupe hielo para congelar al resto. Es resistente a los ataques de ciertas plantas.
 
 [ZOMBIE_IMMUNITY_DIFFICULTY_1]
 Zombis impasibles
@@ -80240,10 +80690,10 @@ Zombi común con un bigote bien arreglado.
 Zombi doctor perdido
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION]
-Es un médico incompetente que no sabe usar jeringas de mano, a sus espaldas todos suelen decir que compró su licencia médica con dinero, ¡eso debe doler!
+En vida soñaba con amar sin fronteras y curar a los muertos. Tras convertirse en zombi, finalmente logró ambas cosas.
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
-Arroja jeringas para reducir la velocidad de ataque de tus plantas.
+Arroja jeringas para acelerar zombis o reducir la velocidad de ataque de tus plantas.
 
 [ZOMBIE_LOSTCITY_EXCAVATOR]
 Zombi excavador
@@ -80341,6 +80791,20 @@ Su puntería es mala y aún así fue reclutado, pero no lo culpen, es que sufre 
 [ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION_HEADER]
 Tirador del ejército Qin, apunta con su arco y flecha a la planta más cercana de su fila.
 
+[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT]
+Arquero del inframundo
+
+[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espirituales, siendo inmune a sus proyectiles o barreras
+
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Un día, se le ocurrió que, si prendía fuego a sus flechas, la potencia de sus disparos aumentaría considerablemente. Sin embargo, como no sabía encender fuego, la idea quedó olvidada durante mucho tiempo. No fue hasta que se convirtió en un espíritu y obtuvo el poder de las llamas fantasmales que por fin pudo hacer realidad su "genial" idea.
+
+[ZOMBIE_MAUSOLEUM_ARCHER_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Lanza proyectiles espectrales para ralentizar a las plantas alcanzadas.
+
 [ZOMBIE_MAUSOLEUM_ARMOR1]
 Bing caracuenco
 
@@ -80349,6 +80813,20 @@ Pasó de servir té en la corte a servir miedo en las calles.
 
 [ZOMBIE_MAUSOLEUM_ARMOR1_DESCRIPTION_HEADER]
 Su cuenco lo hace dos veces más resistente que el Zombi bing básico.
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT]
+Caracuenco del inframundo
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espirituales, siendo inmune a sus proyectiles o barreras
+
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Aprecia profundamente el cuenco que lleva en la cabeza, y este le corresponde con igual devoción. Incluso después de morir y convertirse en espíritu, el cuenco permanece a su lado.
+
+[ZOMBIE_MAUSOLEUM_ARMOR1_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Su cuenco lo hace dos veces más resistente que el Soldado del inframundo.
 
 [ZOMBIE_MAUSOLEUM_ARMOR2]
 Bing con casco
@@ -80359,6 +80837,20 @@ Los bing usan el casco de hierro para cargar agua. Nadie sabe por qué, pero cla
 [ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION_HEADER]
 Su casco de infantería lo hace tres veces más resistente que el Zombi bing básico.
 
+[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT]
+Carayelmo del inframundo
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espirituales, siendo inmune a sus proyectiles o barreras
+
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Protegía su punto más vulnerable con un pesado casco, lo que le hacía sentirse invencible. Durante un entrenamiento del ejército zombi, y con exceso de confianza, decidió demostrar ante todos su "técnica de romper piedras con la cabeza". Fue entonces cuando descubrió, de la peor forma posible, que también podía convertirse en espíritu.
+
+[ZOMBIE_MAUSOLEUM_ARMOR2_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Su casco de infantería lo hace tres veces más resistente que el Soldado del inframundo.
+
 [ZOMBIE_MAUSOLEUM_BASIC]
 Zombi bing
 
@@ -80368,16 +80860,53 @@ Aún cree que su condena es temporal. Doce años más, según los arqueólogos. 
 [ZOMBIE_MAUSOLEUM_BASIC_DESCRIPTION_HEADER]
 Zombi básico del Imperio Qin.
 
+[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT]
+Soldado del inframundo
+
+[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espirituales, siendo inmune a sus proyectiles o barreras
+
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Era un soldado cualquiera hasta que, olvidando que era un zombi, vio su reflejo en un estanque. El susto fue tal que su alma abandonó el cuerpo y comenzó a vagar sin rumbo.
+
+[ZOMBIE_MAUSOLEUM_BASIC_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Forma etérea del Zombi bing.
+
 [ZOMBIE_MAUSOLEUM_CAVALRY]
 Zombi qíbing
 
 [ZOMBIE_MAUSOLEUM_CAVALRY_DESCRIPTION]
-{KEYWORD}Especial: {STAT}camina trincheras a pie
+{KEYWORD}Especial: {STAT}se desplaza por las trincheras del campo
 
 {FLAVOR}Había sido un simple soldado de infantería. Recibió su "caballo" como condecoración por sus victorias, es todo un veterano de guerra.
 
 [ZOMBIE_MAUSOLEUM_CAVALRY_DESCRIPTION_HEADER]
 Soldado de caballería del ejército Qin, se mece sobre su caballo de madera como todo un loco.
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD]
+Zombi bebedor
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION]
+No está ebrio, solo... estratégicamente desorientado.
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION_HEADER]
+Cambia de línea tras beber, rocía a las plantas cercanas con alcohol para embriagarlas.
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT]
+Bebedor del inframundo
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espirituales, siendo inmune a sus proyectiles o barreras
+
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}En vida bebía sin control; en la muerte, el problema solo empeoró. Nadie sabe qué está bebiendo ahora, pero claramente no es buena idea estar delante cuando lo expulsa.
+
+[ZOMBIE_MAUSOLEUM_DRUNKARD_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Forma etérea del Zombi bebedor. Tras desplazarse, lanza una llamarada que destruye la planta que tiene delante.
 
 [ZOMBIE_MAUSOLEUM_FLAG]
 Zombi bing abanderado
@@ -80399,6 +80928,20 @@ Zombistein jiangjun
 
 [ZOMBIE_MAUSOLEUM_GARGANTUAR_DESCRIPTION_HEADER]
 General del ejército Qin, con un espíritu conquistador y una fuerza descomunal.
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP]
+Zombistein del inframundo
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espirituales, siendo inmune a sus proyectiles o barreras
+
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Los Zombisteins del inframundo nunca se han destacado por su memoria; apenas recordaban cómo caminar y aplastar, más por costumbre que por otra cosa. Al convertirse en espíritus, perdieron incluso eso y ahora solo pueden flotar.
+
+[ZOMBIE_MAUSOLEUM_GARGANTUAR_GHOST_SP_DESCRIPTION_HEADER]
+Forma etérea del Zombistein jiangjun.
 
 [ZOMBIE_MAUSOLEUM_IMP]
 Zombidito xiaowei
@@ -80445,10 +80988,10 @@ Zombi reina de espejos
 {KEYWORD}Daño: {STAT}arroja manzanas envenenadas a tus plantas para dormirlas
 {KEYWORD}Especial: {STAT}crea espejos mágicos que reflejan a los zombis que pasen delante de ellos
 
-{FLAVOR}"Espejito, espejito. De este mundo, ¿soy yo lo más bonito?" Esta reina dominó la hechicería a la perfección y, con la ayuda de su espejo mágico, al menos pudo obtener el poder para comandar todo un ejército de zombis.
+{FLAVOR}"Espejito, espejito. De este mundo, ¿soy yo lo más bonito?"
 
 [ZOMBIE_MIRROR_QUEEN_PHASE1_DESCRIPTION_HEADER]
-¡Tiene un poder brutal! Puede convocar zombis a su servicio para que la defiendan mientras lanza todo tipo de hechizos ¡TODO EN UNO!
+La reina maléfica de un cuento de hadas.
 
 [ZOMBIE_MODERN_ALLSTAR]
 Zombi All-Star
@@ -80495,7 +81038,7 @@ Zombi carro solar
 [ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}al derrotarlo, suelta los soles que se robó
 
-{FLAVOR}Zombi carro solar odia la oscuridad, generalmente le gusta conducir su automóvil para tomar el sol, cuando lo hace piensa en como puede vivir de este.
+{FLAVOR}Le encanta la energía renovable. Especialmente cuando la renuevan otras plantas por él.
 
 [ZOMBIE_MODERN_SOLAR_TRUCK_DESCRIPTION_HEADER]
 Roba soles a las plantas que tenga cerca y los usa para empujarlas hacia la izquierda.
@@ -80666,7 +81209,7 @@ Libera una bandada de Gallinas cuando sufre daño
 Zombidito con globos
 
 [ZOMBIE_NEW_PVP_CHILDREN_BALLON_DESCRIPTION_HEADER]
-Sobrevuela las defensa usando varios globos
+Sobrevuela las defensas usando varios globos
 
 [ZOMBIE_NEW_PVP_CHILDREN_TOYCAR]
 Zombidito con carrito
@@ -81047,25 +81590,25 @@ Toro zombi
 Lanza a su jinete por encima de las defensas
 
 [ZOMBIE_NEW_PVP_ZOMBIE_EXPLODENUT]
-Zombi Explotonuez
+Zombi explotonuez
 
 [ZOMBIE_NEW_PVP_ZOMBIE_EXPLODENUT_DESCRIPTION_HEADER]
 Explota al ser destruido, dañando a las plantas cercanas
 
 [ZOMBIE_NEW_PVP_ZOMBIE_GATLINGPEA]
-Zombi Guisantralladora
+Zombi guisantralladora
 
 [ZOMBIE_NEW_PVP_ZOMBIE_GATLINGPEA_DESCRIPTION_HEADER]
 Dispara 4 guisantes a la vez
 
 [ZOMBIE_NEW_PVP_ZOMBIE_JALAPENO]
-Zombi Jalapeño
+Zombi jalapeño
 
 [ZOMBIE_NEW_PVP_ZOMBIE_JALAPENO_DESCRIPTION_HEADER]
 Arrasa con una línea entera de plantas al ser destruido
 
 [ZOMBIE_NEW_PVP_ZOMBIE_SNOWPEA]
-Zombi Hielaguisantes
+Zombi hielaguisantes
 
 [ZOMBIE_NEW_PVP_ZOMBIE_SNOWPEA_DESCRIPTION_HEADER]
 Lanza guisantes helados que dañan y ralentizan plantas
@@ -81477,6 +82020,29 @@ Zombi jingke
 [ZOMBIE_QIN_JINGKE_DESCRIPTION_HEADER]
 Un sicario enviado contra el emperador Qin... y tus plantas.
 
+[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT]
+Sicario del inframundo
+
+[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espirituales, siendo inmune a sus proyectiles o barreras
+
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}Padece una amnesia terrible. En un principio, su misión era matar al señor del mausoleo, pero al llegar olvidó su objetivo y terminó siendo reclutado por él para unirse a su legión. Últimamente, su condición ha empeorado tanto que incluso ha olvidado que ya está muerto, convirtiéndose así en un espíritu.
+
+[ZOMBIE_QIN_JINGKE_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Forma etérea del Zombi jingke. Aniquila plantas de izquierda a derecha una vez es derrotado.
+
+[ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE]
+Monje taoísta
+
+[ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION]
+Los discípulos admiraban su dominio de las artes taoístas y las barreras espirituales. Esa admiración sobrevivió exactamente hasta la noche en que un zombidito lo sorprendió leyendo historietas infantiles de estrategia militar.
+
+[ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION_HEADER]
+Experto en formaciones defensivas. Crea un portal que invoca espíritus cada cierto tiempo.
+
 [ZOMBIE_QIN_SHIELD_SEGMENT]
 Zombi dunwei
 
@@ -81509,6 +82075,7 @@ Zombi impermeable
 [ZOMBIE_RAINCOAT_DESCRIPTION]
 {KEYWORD}Daño: {STAT}fulmina a la mayoría de las plantas del suelo con su patada
 {KEYWORD}Blindaje: {STAT}evita el daño eléctrico gracias al aislamiento de su impermeable
+
 {KEYWORD}Pista: {STAT}el daño eléctrico es efectivo una vez que el impermeable queda destruido
 
 {FLAVOR}Cuando no está atacando patios, Zombi impermeable siempre anda asaltando las tiendas de ropa por la ciudad. Poco importa si le queda bien o mal: si es amarillo y nuevo, le vale. Dr. Zombi se ha ahorrado mucho en coladas, porque Zombi impermeable nunca repite modelito. El único pero es que no todos le quedan bien. "Si es amarillo y nuevo, lo demás no importa y vale", dice siempre Zombi impermeable, admirándose en el espejo.
@@ -81624,8 +82191,6 @@ Una actriz muy buena en lo que hace. Interpreta a Julieta Capuleto de Shakespear
 Zombi perfumista
 
 [ZOMBIE_RENAI_PERFUMER_DESCRIPTION]
-{KEYWORD}Daño: {STAT}lanza botellas de perfume tóxico a las plantas para dañarlas durante un tiempo
-{KEYWORD}Especial: {STAT}las nubes de perfume inmovilizan a las plantas que entran en contacto con éstas
 {KEYWORD}Debilidad: {STAT}Aloe purifica los efectos nocivos de sus perfumes
 
 {FLAVOR}Zombi perfumista ofrece una exquisita variedad de aromas: fragancias dulces, bálsamos embriagadores y esencias cautivadoras. Siempre que van a visitarla, sus clientas exclaman: "¿Como aristócratas... no merecemos más perfume? ¡Más perfume! ¡MÁS PERFUME! Qué aroma tan exquisito... Hmmmm, delicioso."
@@ -81815,6 +82380,18 @@ Puntuación: {NUMBER}
 
 [ZOMBIE_RUSH_HIGHEST_CREDIT]
 Récord: {NUMBER}
+
+[ZOMBIE_SCREENDOOR]
+Zombi portero
+
+[ZOMBIE_SCREENDOOR_DESCRIPTION]
+{KEYWORD}Dureza de la puerta: {STAT}alta
+{KEYWORD}Debilidad: {STAT}Humoseta y Magnetoseta
+
+{FLAVOR}Cuando le dijeron que aún no estaba listo para jugar de portero, se preparó mejor para el día siguiente.
+
+[ZOMBIE_SCREENDOOR_DESCRIPTION_HEADER]
+La puerta es un buen escudo.
 
 [ZOMBIE_SEAGULL]
 Zombi gaviotero
@@ -82049,7 +82626,7 @@ Zombistein conejo
 {KEYWORD}Daño: {STAT}aplasta plantas con su zanahoria gigante
 {KEYWORD}Especial: {STAT}lanza al Zombidito polluelo cuando sufre daño
 
-{FLAVOR}Bajo ese disfraz de conejo puede esconderse un Zombidito... o el mismísimo Zombistein. Descubrirlo suele ser demasiado tarde.
+{FLAVOR}Bajo ese disfraz de conejo puede esconderse un zombidito... o el mismísimo Zombistein. Descubrirlo suele ser demasiado tarde.
 
 [ZOMBIE_SPRING_GARGANTUAR_DESCRIPTION_HEADER]
 Un tipo grandulón que aplasta plantas con una gigantesca zanahoria de metal.
@@ -82058,7 +82635,7 @@ Un tipo grandulón que aplasta plantas con una gigantesca zanahoria de metal.
 Zombidito polluelo
 
 [ZOMBIE_SPRING_IMP_DESCRIPTION]
-Bajo ese disfraz de polluelo puede aparecer un inocente Zombidito... o esconder al verdadero Zombistein. Nunca es buena idea confiarse demasiado.
+Bajo ese disfraz de polluelo puede aparecer un inocente zombidito... o esconder al verdadero Zombistein. Nunca es buena idea confiarse demasiado.
 
 [ZOMBIE_SPRING_IMP_DESCRIPTION_HEADER]
 Un zombi pequeño que ama la primavera y los estragos.
@@ -82539,6 +83116,17 @@ Bruja calabaza
 [ZOMBIE_WITCH_DESCRIPTION_HEADER]
 Elabora todo tipo de pociones y las lanza por todo el patio mientras se mueve a toda velocidad.
 
+[ZOMBIE_YETI]
+Zombi yeti
+
+[ZOMBIE_YETI_DESCRIPTION]
+{KEYWORD}Especial: {STAT}se marcha tras un tiempo
+
+{FLAVOR}Poco se sabe del Zombi yeti a parte de su nombre, fecha de nacimiento, número de la seguridad social, historial académico y laboral, y su plato favorito: tortilla de sesos.
+
+[ZOMBIE_YETI_DESCRIPTION_HEADER]
+Una criatura, cuanto menos, rara.
+
 [ZOMBIE_ZCORP]
 Trabajador de ZCorp
 
@@ -82671,7 +83259,7 @@ Equipo de bobsleigh
 Los equipos zombi de bobsleigh usarán cualquier rastro de hielo para deslizarse por el patio.
 
 [ZOMBIE_ZOMBIE_EXPLODENUT]
-Zombi Explotonuez
+Zombi explotonuez
 
 [ZOMBIE_ZOMBIE_EXPLODENUT_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}si una planta se lo come, no explota
@@ -82682,7 +83270,7 @@ Zombi Explotonuez
 Cuando es derrotado, explota y daña a tus plantas en un área mediana.
 
 [ZOMBIE_ZOMBIE_GATLINGPEA]
-Zombi Guisantralladora
+Zombi guisantralladora
 
 [ZOMBIE_ZOMBIE_GATLINGPEA_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}sus proyectiles no pueden alcanzar a las plantas bajas
@@ -82693,7 +83281,7 @@ Zombi Guisantralladora
 Dispara 4 guisantes a tus plantas a la vez.
 
 [ZOMBIE_ZOMBIE_JALAPENO]
-Zombi Jalapeño
+Zombi jalapeño
 
 [ZOMBIE_ZOMBIE_JALAPENO_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}si una planta se lo come, no explota
@@ -82707,13 +83295,13 @@ Arrasa con una línea entera de plantas si no lo destruyes a tiempo.
 Árbol del dinero
 
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION]
-Su cuerpo está adornado con monedas relucientes que caen con cada golpe. ¡Pero cuidado! Su codicia no tiene límites, y hará todo lo posible por proteger su fortuna.
+Su codicia no tiene límites, y hará todo lo posible por proteger su fortuna.
 
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION_HEADER]
-¡Tiene un árbol lleno de dinero! Derrótalo lo antes posible para obtener las monedas entre sus hojas.
+Está adornado con monedas relucientes que caen con cada golpe.
 
 [ZOMBIE_ZOMBIE_SNOWPEA]
-Zombi Hielaguisantes
+Zombi hielaguisantes
 
 [ZOMBIE_ZOMBIE_SNOWPEA_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}sus proyectiles no pueden alcanzar a las plantas bajas
@@ -82736,10 +83324,12 @@ Un camión enorme que derrapa y se mueve a alta velocidad.
 Bestia roja
 
 [ZOMBIE_ZOMBIE_YEARMONSTER_DESCRIPTION]
-Sólo sale durante el Año Nuevo Chino, y por alguna razón le tiene miedo al color rojo y a las explosiones.
+{KEYWORD}Debilidad: {STAT}le tiene miedo al color rojo y a las explosiones
+
+{FLAVOR}Durante siglos aterrorizó aldeas enteras. La leyenda cuenta que los aldeanos lograron espantar a esta criatura usando petardos y telas rojas.
 
 [ZOMBIE_ZOMBIE_YEARMONSTER_DESCRIPTION_HEADER]
-Escupe fuego que chamusca tus plantas en fracción de segundos.
+Bestia del Año Nuevo Chino. Salta a la planta más cercana y la devora por completo.
 
 [ZOMBIE_ZOMBOSSMECH_BEACH]
 Zombot subtiburotrónico
@@ -82825,8 +83415,9 @@ La creación que destroza Casillas potenciadoras del Futuro lejano.
 Hidra Zombot
 
 [ZOMBIE_ZOMBOSSMECH_HYDRA_DESCRIPTION]
-{KEYWORD}Especial: {STAT}dispara espejos mágicos por el patio
-{KEYWORD}Especial: {STAT}hace invencibles a los zombis por un tiempo
+{KEYWORD}Daño: {STAT}escupe veneno que destruye plantas
+{KEYWORD}Especial: {STAT}dispara espejos mágicos y hace invencibles a los zombis por un tiempo
+{KEYWORD}Especial: {STAT}expulsa niebla mágica que convierte plantas en sapos
 
 {FLAVOR}El Dr. Zombi necesitó tres veces más acero y el triple de mano de obra para terminar su nueva creación. El traje de bruja es por puro capricho.
 
@@ -82852,15 +83443,6 @@ Zombot góndola aerostática
 
 [ZOMBIE_ZOMBOSSMECH_LOSTCITY_DESCRIPTION_HEADER]
 La fortaleza flotante de los cielos.
-
-[ZOMBIE_ZOMBOSSMECH_MODERN1]
-Dr. Zombi
-
-[ZOMBIE_ZOMBOSSMECH_MODERN1_DESCRIPTION]
-Edgar George Zomboss se doctoró en Tanatología en tan solo dos años. Con sus conocimientos de tecnología tanatológica diseñó a su temido Zombot y se puso manos a la obra para dominar los barrios que le tocan.
-
-[ZOMBIE_ZOMBOSSMECH_MODERN1_DESCRIPTION_HEADER]
-El Dr. Zombi es quien manda.
 
 [ZOMBIE_ZOMBOSSMECH_PIRATE]
 Corsario Zombot
@@ -82911,14 +83493,19 @@ Zombot buitre de guerra
 [ZOMBIE_ZOMBOSSMECH_SKYCITY_DESCRIPTION]
 ^E2725B^• Fase 1^oldclr^
 
-{KEYWORD}Daño: {STAT}usa sus filosas garras para dañar plantas, y a veces, raptarlas
 {KEYWORD}Daño: {STAT}ataca a las plantas con descargas eléctricas
-
 {KEYWORD}Especial: {STAT}crea torbellinos que arrasan con filas enteras de plantas
 
 ^E2725B^• Fase 2^oldclr^
 
+{KEYWORD}Daño: {STAT}usa sus filosas garras para dañar plantas, y a veces, raptarlas
+
+^E2725B^• Fase 3^oldclr^
+
+{KEYWORD}Daño: {STAT}libera dos electrodos que destruyen columnas de plantas si no son destruidos a tiempo
 {KEYWORD}Especial: {STAT}de vez en cuando, lanza un ataque masivo por todo el patio
+
+{KEYWORD}Debilidad: {STAT}Níspero ciclónico intercepta sus proyectiles, incluidos torbellinos
 
 {FLAVOR}Bajo la incesante lluvia, atravesando los fuertes vientos y surcando los cielos repletos de relámpagos, ¡llega el Dr. Zombi en su máquina de guerra listo para el combate!
 
@@ -82929,13 +83516,13 @@ La máquina definitiva de Ciudad Aérea.
 Zombot locomotora de vapor
 
 [ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION]
-{KEYWORD}Especial: {STAT}el cañón puede disparar zombiditos y sobrevolar tus defensas
+{KEYWORD}Daño: {STAT}dispara misiles y carbón a tus plantas para destruirlas
 {KEYWORD}Especial: {STAT}libera locomotoras que aplastan todo a su paso
 
 {FLAVOR}Tras su derrota, el Dr. Zombi se había quedado sin ideas para construir una nueva máquina infalible, según el dice. Finalmente, encontró la mejor forma de modificar una antigua locomotora y convertirla en un arma fulminante.
 
 [ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION_HEADER]
-La mayor maquinaría de la Era del Vapor.
+La mayor maquinaria de la Era del Vapor.
 
 [ZOMBIE_ZOMBOSS_QINSHIHUANG]
 Primer Emperador Zomboss
@@ -82963,18 +83550,43 @@ MANDATO DEL CIELO: ¡derrota al emperador ahora!
 [ZOMBIE_ZOMBOSS_QINSHIHUANG_DESCRIPTION_HEADER]
 El primer emperador de China, señor del Palacio subterráneo.
 
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST]
+Emperador umbrío Zomboss
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_BIG_SKILL_WARNING]
+REFORJA REAL: ¡derrota al emperador ahora!
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_DESCRIPTION]
+^E2725B^• Habilidades^oldclr^
+
+^DB8117^- Rugido funesto:^oldclr^ ^A0522D^ruge para acelerar a los zombis y convertirlos en espíritus^oldclr^
+
+^DB8117^- Aliento fantasmal:^oldclr^ ^A0522D^escupe bolas espectrales de hielo o fuego que ruedan y aplastan plantas^oldclr^
+
+^DB8117^- Reforja menor:^oldclr^ ^A0522D^repara 1 segmento de su espada y destruye plantas en 2 columnas al frente^oldclr^
+
+^DB8117^- Reforja parcial:^oldclr^ ^A0522D^repara 2 segmentos de su espada y destruye plantas en 4 columnas al frente^oldclr^
+
+^DB8117^- Reforja real:^oldclr^ ^A0522D^repara su espada por completo y reune almas derrotadas para curarse. Luego, lanza un ataque devastador; derrótalo antes de que lo haga o perderás^oldclr^
+
+{FLAVOR}Impulsado por el rencor de su derrota, el Señor del Palacio Subterráneo absorbió el poder del inframundo, desatando habilidades aún más temibles... y mucho más aterradoras.
+
+[ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_DESCRIPTION_HEADER]
+Forma etérea del Primer Emperador, ahora conocido como el "Rey de las tinieblas"
+
 [ZOMBIE_ZOMBOSS_TEAMBOSS]
 Bestia rugiente Zombot
 
 [ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION]
+{KEYWORD}Daño: {STAT}dispara fuegos artificiales en un alcance amplio
 {KEYWORD}Especial: {STAT}la turbina de la boca puede atraer plantas
-{KEYWORD}Especial: {STAT}dispara fuegos artificiales en un alcance amplio
 {KEYWORD}Debilidades: {STAT}las plantas de fuego bloquean su turbina, las explosivas redirigen fuegos artificiales
 
-{FLAVOR}Parece que alguien no se tomó vacaciones este Año Nuevo...
+{FLAVOR}Diseñada para celebrar el Año Nuevo con luces, color y destrucción masiva. Principalmente destrucción masiva.
 
 [ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION_HEADER]
 Creación festiva del Dr. Zombi, asola todo en una gran explosión.
+
 
 [ZOMBIE_kongfu_basic_armor3]
 Shaolin almirante
@@ -83029,7 +83641,7 @@ Gran premio del Dr. Zombi:
 Vaina de zoja
 
 [ZOYBEANPOD_AVATAR_PLANTFOOD_DESCRIPTION]
-Genera un Zomboidestein ruibarbo que ^848484^aturde^oldclr^ al enemigo por 3 s
+Genera un Zomboidestein rábano que ^848484^aturde^oldclr^ al enemigo por 3 s
 
 [ZOYBEANPOD_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta verde, mágica
@@ -83418,6 +84030,9 @@ Milagro con alas
 [rank_avatar_diy_62]
 Exploradores de ruinas
 
+[rank_avatar_diy_63]
+El inframundo
+
 [rank_avatar_diy_100]
 Vigor juvenil
 
@@ -83426,6 +84041,9 @@ Cielo estrellado
 
 [rank_avatar_diy_102]
 Escuadrón rígido
+
+[rank_avatar_diy_104]
+El esplendor de Dunhuang
 
 [replay]
 REPETIR
@@ -83441,3 +84059,4 @@ Actualizado semanalmente
 
 [view_picks]
 Ver elecciones
+
