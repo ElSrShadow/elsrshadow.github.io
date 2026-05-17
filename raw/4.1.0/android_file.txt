@@ -1,672 +1,6 @@
 ﻿[#OF#]
 # de #
 
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE]
-Lobo con antorcha
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}los ataques gélidos extinguen la antorcha
-
-{FLAVOR}El fuego debería ser un problema para un lobo. A él le da igual.
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE_DESCRIPTION_HEADER]
-Lobo zombi. Calcina plantas al contacto con su antorcha.
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP]
-Zombidito lobo
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP_DESCRIPTION]
-No es el más grande de la manada, pero sí el más insistente cuando hay algo que robar.
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP_DESCRIPTION_HEADER]
-Lobo zombi de pequeña estatura que se mueve rápido por el escenario.
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS]
-Lobo alfa
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS_DESCRIPTION]
-Nadie sabe cómo se elige un alfa en una manada de zombis. Él tampoco, pero nadie se atreve a preguntarlo.
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS_DESCRIPTION_HEADER]
-El líder de la manada. Donde aparece, los ataques se vuelven inevitables.
-
-[ZOMBIE_LOSTCITY_BUG_ARMOR1]
-Zombicho caracono
-
-[ZOMBIE_LOSTCITY_BUG_ARMOR1_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su cono le otorga el doble de dureza que el Zombicho común
-
-{FLAVOR}Encontró su preciado cono en medio de unas ruinas doradas y desde entonces no se lo ha quitado. Dice que lo hace ver "más profesional", aunque no tiene idea de en qué trabaja.
-
-[ZOMBIE_LOSTCITY_BUG_ARMOR1_DESCRIPTION_HEADER]
-Bicho lleva a Zombicho caracono por encima de las defensas terrestres y lo eleva sobre las barreras.
-
-[ZOMBIE_LOSTCITY_BUG_ARMOR2]
-Zombicho caracubo
-
-[ZOMBIE_LOSTCITY_BUG_ARMOR2_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su cubo le otorga el triple de dureza que el Zombicho común
-
-{FLAVOR}Dicen que el cubo no solo lo protege, sino que también lo hace sentir más alto, más fuerte... y más importante. Pero es su bicho quien hace todo el trabajo duro.
-
-[ZOMBIE_LOSTCITY_BUG_ARMOR2_DESCRIPTION_HEADER]
-Bicho lleva a Zombicho caracubo por encima de las defensas terrestres y lo eleva sobre las barreras.
-
-[ZOMBIE_AIR_MISSILE]
-Misil zombidináutico
-
-[ZOMBIE_AIR_MISSILE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}inflige daño masivo al impactar con tu nave
-
-{FLAVOR}La última tecnología artillera fabricada con sudor por los Zombiditos misileros. Se dice que el esfuerzo trae sus frutos y a decir verdad, este es un misil con un gran potencial bastante destructivo que hasta el mismo Dr. Zombi no desea verlo cerca de su base.
-
-[ZOMBIE_AIR_MISSILE_DESCRIPTION_HEADER]
-Es lanzado por los aires, si no deslizas tus dedos rápidamente sobre Zombidito misilero.
-
-[ZOMBIE_SKYCITY_PROTECTOR]
-Escudo volador
-
-[ZOMBIE_SKYCITY_PROTECTOR_DESCRIPTION]
-{KEYWORD}Especial: {STAT}crea un escudo para protegerse de los ataques
-
-{FLAVOR}Nadie sabe cómo funciona su campo de fuerza. Él tampoco, pero presiona botones con mucha confianza.
-
-[ZOMBIE_SKYCITY_PROTECTOR_DESCRIPTION_HEADER]
-Se protege a sí mismo y a los zombis cercanos con un campo de fuerza.
-
-[ZOMBIE_EIGHTIES_8BIT_ARMOR1]
-Caracono de 8-bits
-
-[ZOMBIE_EIGHTIES_8BIT_ARMOR1_DESCRIPTION]
-El casco tiene un diseño de cono vial y una estética retro. Aunque parece salido de una vieja consola, aún protege contra el daño.
-
-[ZOMBIE_EIGHTIES_8BIT_ARMOR1_DESCRIPTION_HEADER]
-Su cono pixelado le da el doble de salud que el zombi de 8-bits ordinario.
-
-[ZOMBIE_EIGHTIES_8BIT_ARMOR2]
-Caracubo de 8-bits
-
-[ZOMBIE_EIGHTIES_8BIT_ARMOR2_DESCRIPTION]
-El cubo encaja perfectamente en su cabeza hecha de pixeles. No sabe para qué sirve, pero le da una falsa sensación de invulnerabilidad... y eso es todo lo que necesita un zombi.
-
-[ZOMBIE_EIGHTIES_8BIT_ARMOR2_DESCRIPTION_HEADER]
-Su cubo pixelado le da el triple de salud que el zombi de 8-bits ordinario.
-
-[ZOMBIE_RENAI_BALLET_IMP]
-Zombidita bailarina de ballet
-
-[ZOMBIE_RENAI_BALLET_IMP_DESCRIPTION]
-{KEYWORD}Especial: {STAT}cruza rápidamente tus defensas al ritmo y compás del ballet
-{KEYWORD}Debilidad: {STAT}el charco de Oliva de Aceite la hace resbalar, aturdiéndola por un tiempo
-
-{FLAVOR}No te quedes ensimismado por el pequeño y adorable tamaño de esta chiquilla. Está dispuesta a darlo todo y hacer que te trague la tierra con su coordinado ballet.
-
-[ZOMBIE_RENAI_BALLET_IMP_DESCRIPTION_HEADER]
-Saldrá en un grupo de 2 al mismo tiempo, ¡y cambiará de rumbo al compás del ballet!
-
-[ZOMBIE_RENAI_ANTONIO]
-Antonio el mercader
-
-[ZOMBIE_RENAI_ANTONIO_DESCRIPTION]
-{KEYWORD}Daño: {STAT}lanza bolsas de oro para aplastar plantas
-{KEYWORD}Especial {STAT}las bolsas de oro atraen zombis a su fila y los ponen en estado frenético
-
-{FLAVOR}Todavía confía demasiado en acuerdos que claramente terminarán mal.
-
-[ZOMBIE_RENAI_ANTONIO_DESCRIPTION_HEADER]
-Un actor poco destacado. Interpreta a Antonio de El Comerciante de Venecia.
-
-[ZOMBIE_WAVE_ELECSHIELDGENERATOR]
-Electro-escudo
-
-[ZOMBIE_WAVE_ELECSHIELDGENERATOR_DESCRIPTION]
-{KEYWORD}Especial: {STAT}bloquea proyectiles mientras permanezca activo
-
-{FLAVOR}Un triunfo de la ingeniería zombi y una tragedia para cualquiera que dependa de proyectiles.
-
-[ZOMBIE_WAVE_ELECSHIELDGENERATOR_DESCRIPTION_HEADER]
-Crea un escudo que se desplaza lentamente y expulsa a cualquier planta con la que entre en contacto.
-
-[ZOMBIE_DIVER]
-Zombi buzo
-
-[ZOMBIE_DIVER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}bucea para evitar ataques
-
-{FLAVOR}Los zombis no respiran; no necesitan oxígeno. Entonces, ¿por qué el Zombi Buzo lleva tubo y bañador? Respuesta: por el qué dirán.
-
-[ZOMBIE_DIVER_DESCRIPTION_HEADER]
-El Zombi buzo puede bucear, lo cual es sorprendentemente obvio, ¿no?
-
-[ZOMBIE_RENAI_TOXICWATER]
-Zombi desinfectante
-
-[ZOMBIE_RENAI_TOXICWATER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}contamina la piscina y daña las plantas acuáticas
-
-{FLAVOR}Está obsesionado con mantener el agua "perfectamente limpia", aunque nadie comparte su definición de limpieza.
-
-[ZOMBIE_RENAI_TOXICWATER_DESCRIPTION_HEADER]
-Zombi encargado del mantenimiento de piscinas. Sus químicos son peligrosos para las plantas.
-
-[ZOMBIE_SUMMER_BUG_ARMOR1]
-Zombicho caracono de verano
-
-[ZOMBIE_SUMMER_BUG_ARMOR1_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su cono le otorga el doble de dureza que el Zombicho común
-
-{FLAVOR}Nadie esperaba que un cono de tráfico fuera el pináculo de la ingeniería defensiva veraniega.
-
-[ZOMBIE_SUMMER_BUG_ARMOR1_DESCRIPTION_HEADER]
-Bicho lleva a Zombicho caracono por encima de tus defensas.
-
-[ZOMBIE_SUMMER_BUG_ARMOR2]
-Zombicho caracubo de verano
-
-[ZOMBIE_SUMMER_BUG_ARMOR2_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su cubo le otorga el triple de dureza que el Zombicho común
-
-{FLAVOR}Prefiere el cubo porque ofrece más sombra y más protección.
-
-[ZOMBIE_SUMMER_BUG_ARMOR2_DESCRIPTION_HEADER]
-Bicho lleva a Zombicho caracubo por encima de tus defensas.
-
-[ZOMBIE_CHILDREN_SCHOOLBAG]
-Zombidito escolar
-
-[ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION]
-Todavía espera con emoción la hora del recreo y cualquier oportunidad para causar problemas.
-
-[ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION_HEADER]
-Zombi pequeño que asiste a la escuela.
-
-[ZOMBIE_CHILDREN_BALLON]
-Zombidito con globos
-
-[ZOMBIE_CHILDREN_BALLON_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}Cactus y Trebolador
-
-{FLAVOR}El viento decide su trayectoria. Él decidió no preocuparse por eso.
-
-[ZOMBIE_CHILDREN_BALLON_DESCRIPTION_HEADER]
-Sobrevuela las defensas usando varios globos.
-
-[ZOMBIE_CHILDREN_TOYCAR]
-Zombidito con carrito
-
-[ZOMBIE_CHILDREN_TOYCAR_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}P.E.Melocotonético lo inmoviliza por una extraña razón
-
-{FLAVOR}Pasó de chocar muebles en casa a chocar plantas profesionalmente.
-
-[ZOMBIE_CHILDREN_TOYCAR_DESCRIPTION_HEADER]
-Usa su carrito de juguete para empujar plantas.
-
-[ZOMBIE_CHILDREN_TOYGUN]
-Zombidito con burbujas
-
-[ZOMBIE_CHILDREN_TOYGUN_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}Trebolador puede expulsar sus burbujas
-
-{FLAVOR}Soplar burbujas era un pasatiempo inocente hasta que empezó a apuntarlas a las plantas.
-
-[ZOMBIE_CHILDREN_TOYGUN_DESCRIPTION_HEADER]
-Dispara burbujas que atrapan plantas y se las llevan volando.
-
-[ZOMBIE_CHILDREN_AIRBUBBLE]
-Burbuja gigante
-
-[ZOMBIE_CHILDREN_AIRBUBBLE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}se lleva plantas por los aires
-{KEYWORD}Debilidad: {STAT}Trebolador y Huracol pueden expulsarla
-
-{FLAVOR}Ligera, silenciosa y mucho más problemática de lo que debería permitir la física.
-
-[ZOMBIE_CHILDREN_AIRBUBBLE_DESCRIPTION_HEADER]
-Gran burbuja flotante creada por las pistolas de burbujas zombis.
-
-[ZOMBIE_CHILDREN_LOLLIPOPS]
-Zombi goloso
-
-[ZOMBIE_CHILDREN_LOLLIPOPS_DESCRIPTION]
-Asegura que una dieta basada únicamente en azúcar fue lo que lo mantuvo "joven".
-
-[ZOMBIE_CHILDREN_LOLLIPOPS_DESCRIPTION_HEADER]
-Arroja paletas de caramelo que impiden el plantado.
-
-[ZOMBIE_SNOW_BALL]
-Bola de nieve
-
-[ZOMBIE_SNOW_BALL_DESCRIPTION]
-{KEYWORD}Especial: {STAT}crece mientras avanza aplastando plantas
-{KEYWORD}Debilidad: {STAT}el fuego la derrite rápidamente
-
-{FLAVOR}Comenzó como una pequeña bola de nieve. Los zombis hicieron el resto de las malas decisiones.
-
-[ZOMBIE_SNOW_BALL_DESCRIPTION_HEADER]
-Enorme bola de nieve empujada por zombis a través del jardín.
-
-[ZOMBIE_SANTA]
-Zanta Clause
-
-[ZOMBIE_SANTA_DESCRIPTION]
-{KEYWORD}Especial: {STAT}sobrevuela el jardín dejando regalos sorpresa
-
-{FLAVOR}La Navidad nunca volvió a ser igual después de que empezó a gruñir "jo jo jo".
-
-[ZOMBIE_SANTA_DESCRIPTION_HEADER]
-Cruza el cielo en su trineo lanzando calcetines llenos de premios.
-
-[ZOMBIE_FEASTIVUS_SWASHBUCKLER]
-Zombi ladrón de lingotes
-
-[ZOMBIE_FEASTIVUS_SWASHBUCKLER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}cruza cuatro casillas del patio
-
-{FLAVOR}Pasó años buscando riquezas legendarias. Luego descubrió que robar era más rápido.
-
-[ZOMBIE_FEASTIVUS_SWASHBUCKLER_DESCRIPTION_HEADER]
-Se balancea con una cuerda para aterrizar en medio de tu patio y robar lingotes.
-
-[WEALTH_GOD]
-Dios de la riqueza
-
-[WEALTH_GOD_DESCRIPTION]
-Se manifiesta cada vez que alguien dice: "esto es inversión segura".
-
-[WEALTH_GOD_DESCRIPTION_HEADER]
-Flota sobre el patio en su nube y deja caer monedas cuando recibe daño.
-
-[ZOMBIE_IZOMBIE_SUNFLOWER]
-Zombi girasol
-
-[ZOMBIE_IZOMBIE_SUNFLOWER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}produce sol para los zombis
-
-{FLAVOR}Todavía sonríe como un girasol normal. Eso es probablemente lo más inquietante de todo.
-
-[ZOMBIE_IZOMBIE_SUNFLOWER_DESCRIPTION_HEADER]
-Extraño vegezombi capaz de producir sol para la invasión zombi.
-
-[ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT]
-Zombi nuez
-
-[ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT_DESCRIPTION]
-Siendo mitad nuez, este zombi sabe cómo romper fácilmente una cáscara dura y llegar al interior. Por 'cáscara' nos referimos a tu cráneo. ¡Y por 'nuez' nos referimos a tus sesos!
-
-[ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT_DESCRIPTION_HEADER]
-Su cabeza de nuez proporciona alta defensa.
-
-[ZOMBIE_IZOMBIE_TUTORIAL_GARGANTUAR]
-Zombistein cáscara-rrabias
-
-[ZOMBIE_IZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta al enemigo con su poste
-
-{FLAVOR}Ten cuidado de no burlarte de él, podría ser lo último que hagas, si no eres un zombi...
-
-[ZOMBIE_IZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION_HEADER]
-Su cabeza alta proporciona una protección absurda contra los ataques.
-
-[ZOMBIE_IZOMBIE_CHICKEN_FARMER]
-Vegezombi granjero
-
-[ZOMBIE_IZOMBIE_CHICKEN_FARMER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}invoca pavos de tofu para atacar plantas
-
-{FLAVOR}Intentó criar pollos normales una vez. El experimento vegetal tomó un rumbo extraño.
-
-[ZOMBIE_IZOMBIE_CHICKEN_FARMER_DESCRIPTION_HEADER]
-Vegezombi que libera agresivos pavos de tofu sobre el jardín.
-
-[ZOMBIE_IZOMBIE_LOSTCITY_DOCTOR]
-Doctor durazno
-
-[ZOMBIE_IZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION]
-{KEYWORD}Especial: {STAT}cura zombis cercanos
-
-{FLAVOR}Asegura que la medicina y la fotosíntesis pueden coexistir pacíficamente. Los zombis son la prueba inquietante de su teoría.
-
-[ZOMBIE_IZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
-Vegezombi médico que utiliza energía vegetal para curar aliados.
-
-[ZOMBIE_ZOMBIE_PUMPKIN]
-Zombi calabaza
-
-[ZOMBIE_ZOMBIE_PUMPKIN_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombi al ser derrotado
-
-{FLAVOR}La magia de Brujalabaza transforma zombis comunes en algo más aterrador... y considerablemente más anaranjado.
-
-[ZOMBIE_ZOMBIE_PUMPKIN_DESCRIPTION_HEADER]
-Criatura creada por Brujalabaza para combatir en el campo de batalla.
-
-[ZOMBIE_ZOMBIE_PUMPKIN_IMP]
-Zombidito calabaza
-
-[ZOMBIE_ZOMBIE_PUMPKIN_IMP_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombidito al ser derrotado
-
-{FLAVOR}La magia oscura es mucho menos elegante cuando viene en tamaño compacto.
-
-[ZOMBIE_ZOMBIE_PUMPKIN_IMP_DESCRIPTION_HEADER]
-Pequeña criatura creada por Brujalabaza para sembrar caos en miniatura.
-
-[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD]
-Gólem de calabaza
-
-[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_DESCRIPTION]
-{KEYWORD}Especial: {STAT}sus hechizos suprimen la curación zombi
-{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombi al ser derrotado
-
-{FLAVOR}Cada hechizo consume energía oscura y una cantidad preocupante de semillas de calabaza.
-
-[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_DESCRIPTION_HEADER]
-Criatura mágica creada por Brujalabaza que debilita la regeneración zombi.
-
-[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_IMP]
-Minigólem de calabaza
-
-[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_IMP_DESCRIPTION]
-{KEYWORD}Especial: {STAT}sus hechizos suprimen la curación zombi
-{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombidito al ser derrotado
-
-{FLAVOR}Brujalabaza lo creó para lanzar maldiciones menores. Él decidió tomárselo demasiado en serio.
-
-[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_IMP_DESCRIPTION_HEADER]
-Pequeña criatura mágica creada por Brujalabaza para sabotear la regeneración zombi.
-
-[ZOMBIE_ZOYBEANPOD_BASIC]
-Zomboide
-
-[ZOMBIE_ZOYBEANPOD_BASIC_DESCRIPTION]
-Además del tofu, a Vaina de zoja se le da bien crear zomboides usando hechizos de un libro antiguo que encontró.
-
-[ZOMBIE_ZOYBEANPOD_BASIC_DESCRIPTION_HEADER]
-Un zomboide hecho a base de tofu, luchará por ti contra los zombis enemigos.
-
-[ZOMBIE_ZOYBEANPOD_ARMOR1]
-Zomboide carazanahoria
-
-[ZOMBIE_ZOYBEANPOD_ARMOR1_DESCRIPTION]
-Un zomboide rico en tofu y betacaroteno.
-
-[ZOMBIE_ZOYBEANPOD_ARMOR1_DESCRIPTION_HEADER]
-Su zanahoria le otorga el doble de dureza que el zomboide básico.
-
-[ZOMBIE_ZOYBEANPOD_ARMOR2]
-Zomboide carasandía
-
-[ZOMBIE_ZOYBEANPOD_ARMOR2_DESCRIPTION]
-Si bien, la sandía lo protege de muchas cosas, le da un toque único a su personalidad.
-
-[ZOMBIE_ZOYBEANPOD_ARMOR2_DESCRIPTION_HEADER]
-Su sandía le otorga el triple de dureza que el zomboide básico.
-
-[ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA]
-Zomboide guisantrallador
-
-[ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA_DESCRIPTION]
-La única solución que encontró para sus problemas fue añadir más guisantes.
-
-[ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA_DESCRIPTION_HEADER]
-Zomboide bien equipado para la acción. Dispara 4 guisantes al enemigo.
-
-[ZOMBIE_ZOYBEANPOD_GARGANTUAR]
-Zomboidestein
-
-[ZOMBIE_ZOYBEANPOD_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta zombis con su gigantesca hoja de ruibarbo
-
-{FLAVOR}Las plantas confían plenamente en él. Principalmente porque discutir con alguien que carga una hoja de ruibarbo del tamaño de un árbol parece mala idea.
-
-[ZOMBIE_ZOYBEANPOD_GARGANTUAR_DESCRIPTION_HEADER]
-Zomboide creado tras un preocupante exceso de tofu.
-
-[ZOMBIE_ZOYBEANPOD_GARGANTUAR2]
-Zomboidestein rábano
-
-[ZOMBIE_ZOYBEANPOD_GARGANTUAR2_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta y aturde zombis con su gigantesco rábano
-
-{FLAVOR}Cambió la hoja de ruibarbo por un rábano gigante. Nadie entendió por qué, pero los zombis dejaron de hacer preguntas rápidamente.
-
-[ZOMBIE_ZOYBEANPOD_GARGANTUAR2_DESCRIPTION_HEADER]
-Variante experimental creada con todavía más tofu.
-
-[ZOMBIE_RADIATED_MID]
-Zombi irradiado
-
-[ZOMBIE_RADIATED_MID_DESCRIPTION]
-La radiación convirtió a un zombi común en algo mucho más difícil de ignorar y considerablemente más brillante en la oscuridad.
-
-[ZOMBIE_RADIATED_MID_DESCRIPTION_HEADER]
-Mutante zombi contaminado tras demasiada exposición radiactiva.
-
-[ZOMBIE_RADIATED_SMALL]
-Zombidito irradiado
-
-[ZOMBIE_RADIATED_SMALL_DESCRIPTION]
-La exposición radiactiva afectó su cuerpo, su cerebro y probablemente su concepto de seguridad personal.
-
-[ZOMBIE_RADIATED_SMALL_DESCRIPTION_HEADER]
-Pequeño mutante zombi deformado por niveles alarmantes de radiación.
-
-[ZOMBIE_RADIATED_LARGE]
-Zombistein irradiado
-
-[ZOMBIE_RADIATED_LARGE_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta enemigos con su fuerza mutante
-
-{FLAVOR}Demasiada radiación, demasiado músculo y definitivamente demasiado entusiasmo destructivo.
-
-[ZOMBIE_RADIATED_LARGE_DESCRIPTION_HEADER]
-Gigantesco mutante creado por un desastre radiactivo.
-
-[ZOMBIE_DEVILS_MUMMY]
-Zombi parasitado
-
-[ZOMBIE_DEVILS_MUMMY_DESCRIPTION]
-{KEYWORD}Especial: {STAT}el parásito debilita lentamente al huésped
-
-{FLAVOR}El insecto abisal consume lentamente a su huésped mientras lo obliga a seguir avanzando.
-
-[ZOMBIE_DEVILS_MUMMY_DESCRIPTION_HEADER]
-Zombi controlado por un parásito invocado por Garra del diablo.
-
-[ZOMBIE_DEVILS_MUMMY_IMP]
-Zombidito parasitado
-
-[ZOMBIE_DEVILS_MUMMY_IMP_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su cuerpo debilitado es controlado por un parásito
-
-{FLAVOR}Demasiado pequeño para resistirse. Demasiado infectado para detenerse.
-
-[ZOMBIE_DEVILS_MUMMY_IMP_DESCRIPTION_HEADER]
-Pequeño zombi dominado por un insecto parasitario abisal.
-
-[ZOMBIE_ARTIFACT_ACID_SMALL]
-Zombidito ácido
-
-[ZOMBIE_ARTIFACT_ACID_SMALL_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su cuerpo corrosivo daña a los zombis cercanos cuando es destruido
-
-{FLAVOR}Pequeño, inestable y peligrosamente corrosivo para todo lo que se acerque demasiado.
-
-[ZOMBIE_ARTIFACT_ACID_SMALL_DESCRIPTION_HEADER]
-Mutante aliado deformado por una sustancia ácida experimental.
-
-[ZOMBIE_ARTIFACT_ACID_MID]
-Zombi ácido
-
-[ZOMBIE_ARTIFACT_ACID_MID_DESCRIPTION]
-{KEYWORD}Especial: {STAT}su cuerpo corrosivo daña a los zombis cercanos cuando es destruido
-
-{FLAVOR}La sustancia que recorre su cuerpo debería haberlo destruido hace tiempo. Claramente decidió ignorar ese detalle.
-
-[ZOMBIE_ARTIFACT_ACID_MID_DESCRIPTION_HEADER]
-Mutante aliado contaminado por peligrosos compuestos corrosivos.
-
-[ZOMBIE_ARTIFACT_ACID_LARGE]
-Zombistein ácido
-
-[ZOMBIE_ARTIFACT_ACID_LARGE_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta enemigos con su enorme fuerza corrosiva
-{KEYWORD}Especial: {STAT}su cuerpo corrosivo daña a los zombis cercanos cuando es destruido
-
-{FLAVOR}Cada paso deja marcas de ácido, destrucción y varias preocupaciones ambientales importantes.
-
-[ZOMBIE_ARTIFACT_ACID_LARGE_DESCRIPTION_HEADER]
-Gigantesco mutante aliado creado tras un accidente químico fuera de control.
-
-[ZOMBIE_SILVERKEY_GARGANTUAR]
-Zombistein del vacío
-
-[ZOMBIE_SILVERKEY_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta zombis usando energía interdimensional
-
-{FLAVOR}Invocado mediante las Llaves abisales, aunque nadie logró explicar exactamente de dónde viene.
-
-[ZOMBIE_SILVERKEY_GARGANTUAR_DESCRIPTION_HEADER]
-Gigantesco guardián surgido a través de un antiguo artefacto dimensional.
-
-[ZOMBIE_TURKEYPULT_BASIC]
-Pavo de tofu
-
-[ZOMBIE_TURKEYPULT_BASIC_DESCRIPTION]
-{KEYWORD}Daño: {STAT}ataca zombis cercanos a picotazos
-
-{FLAVOR}Fue creado por Pavopulta usando tofu, energía vegetal y una preocupante falta de supervisión.
-
-[ZOMBIE_TURKEYPULT_BASIC_DESCRIPTION_HEADER]
-Aliado invocado por Pavopulta para sembrar caos emplumado.
-
-[ZOMBIE_TURKEYPULT_TURKZILLA_LV5]
-Pavozilla
-
-[ZOMBIE_TURKEYPULT_TURKZILLA_LV5_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aturde zombis al aterrizar, luego los ataca a picotazos
-
-{FLAVOR}Nadie esperaba que alimentar demasiado a un pavo de tofu terminara así.
-
-[ZOMBIE_TURKEYPULT_TURKZILLA_LV5_DESCRIPTION_HEADER]
-Versión gigante del pavo de tofu creada al alcanzar el nivel 5.
-
-[ZOMBIE_TURKEYPULT_TURKZILLA]
-Pavozilla calabaza
-
-[ZOMBIE_TURKEYPULT_TURKZILLA_DESCRIPTION]
-{KEYWORD}Daño: {STAT}ataca zombis cercanos a picotazos
-{KEYWORD}Especial: {STAT}su casco de calabaza le otorga mayor resistencia
-
-{FLAVOR}Descubrió que usar una calabaza como casco era ridículo. Luego descubrió que también era efectivo.
-
-[ZOMBIE_TURKEYPULT_TURKZILLA_DESCRIPTION_HEADER]
-Pavozilla reforzado con una resistente armadura de calabaza.
-
-[ZOMBIE_TURKEYPULT_TURKZILLA_AVATAR]
-Pavozilla imperial
-
-[ZOMBIE_TURKEYPULT_TURKZILLA_AVATAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}ataca zombis cercanos a picotazos
-{KEYWORD}Especial: {STAT}su armadura le brinda una protección excepcional
-
-{FLAVOR}Cubierto de armadura y orgullo desmedido, entra al combate como si el jardín ya le perteneciera.
-
-[ZOMBIE_TURKEYPULT_TURKZILLA_AVATAR_DESCRIPTION_HEADER]
-La forma definitiva de Pavozilla, equipada para una destrucción total.
-
-[ZOMBIE_DEVILS_ALIEN_GARGANTUAR]
-Zombistein abisal
-
-[ZOMBIE_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta zombis con su fuerza infernal
-{KEYWORD}Especial: {STAT}deja ácido al ser derrotado
-
-{FLAVOR}Invocado desde las profundidades por Garra del diablo. Nadie sabe exactamente de qué profundidad, y todos prefieren mantenerlo así.
-
-[ZOMBIE_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION_HEADER]
-Criatura abisal llamada al combate mediante antiguos poderes oscuros.
-
-[ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR]
-Zombistein abisal supremo
-
-[ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}destruye zombis con una fuerza devastadora
-{KEYWORD}Especial: {STAT}probabilidad de liberar ácido al atacar, deja ácido cuando es derrotado
-
-{FLAVOR}Incluso las criaturas del abismo parecen incómodas cuando él aparece.
-
-[ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION_HEADER]
-Entidad infernal de enorme poder invocada por Garra del diablo.
-
-[ZOMBIE_CTHULHUACTINIA]
-Acólito abisal
-
-[ZOMBIE_CTHULHUACTINIA_DESCRIPTION]
-{KEYWORD}Especial: {STAT}lucha del lado de las plantas tras ser transformado
-
-{FLAVOR}Nadie sabe qué vio exactamente en el ojo de la anémona. Claramente fue demasiado.
-
-[ZOMBIE_CTHULHUACTINIA_DESCRIPTION_HEADER]
-Extraña criatura creada por la Anémona de tierra mediante energía abisal.
-
-[ZOMBIE_CTHULHUACTINIA_IMP]
-Acólito abisal pequeño
-
-[ZOMBIE_CTHULHUACTINIA_IMP_DESCRIPTION]
-{KEYWORD}Especial: {STAT}ataca zombis tras ser transformado por el ojo
-
-{FLAVOR}Su pequeño cerebro fue el primero en rendirse ante la mirada de la anémona.
-
-[ZOMBIE_CTHULHUACTINIA_IMP_DESCRIPTION_HEADER]
-Versión pequeña de la criatura ocular creada por Anémona de tierra.
-
-[ZOMBIE_GUM]
-Chicle
-
-[ZOMBIE_GUM_DESCRIPTION]
-{KEYWORD}Especial: {STAT}los zombis más fuertes forman barreras más resistentes
-
-{FLAVOR}Un chicle con sabor a jamón.
-
-[ZOMBIE_GUM_DESCRIPTION_HEADER]
-Chicle fabricado por Nuez chicletera. Bloquea a los zombis que tiene detrás.
-
-[ZOMBIE_POISON_GUM]
-Chicle envenenado
-
-[ZOMBIE_POISON_GUM_DESCRIPTION]
-{KEYWORD}Especial: {STAT}los zombis más fuertes forman barreras más resistentes
-
-{FLAVOR}Un chicle cargado de veneno y saña.
-
-[ZOMBIE_POISON_GUM_DESCRIPTION_HEADER]
-Chicle fabricado por Nuez chicletera tras alcanzar el nivel 5. Bloquea zombis y envenena a quien lo coma.
-
-[ZOMBIE_ZOMBIE_SNOWMAN]
-Muñeco de nieve
-
-[ZOMBIE_ZOMBIE_SNOWMAN_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}el fuego lo derrite rápidamente
-
-{FLAVOR}Fue construido para resistir invasiones, no estaciones cálidas.
-
-[ZOMBIE_ZOMBIE_SNOWMAN_DESCRIPTION_HEADER]
-Muñeco de nieve inmóvil creado por Reina flor de nieve.
-
-[ZOMBIE_HAMSTER_BALL]
-Bola de hámster
-
-[ZOMBIE_HAMSTER_BALL_DESCRIPTION]
-{KEYWORD}Especial: {STAT}protege zombis y aplasta plantas al rodar
-{KEYWORD}Debilidad: {STAT}Pinchorroca y plantas explosivas
-
-{FLAVOR}Alguien vio una bola de hámster y pensó: "esto necesita más destrucción".
-
-[ZOMBIE_HAMSTER_BALL_DESCRIPTION_HEADER]
-Gran esfera rodante que protege zombis hasta romperse.
-
 [ACCESSORY_EXCHANGE_FAILED]
 Error en el intercambio
 
@@ -10244,8 +9578,11 @@ Derrota {GRID_ITEMS} casas de calabaza
 [CHALLENGE_DESTROY_PUMPKINSCARECROWS]
 Destruye {GRID_ITEMS} espantapájaros
 
+[CHALLENGE_DESTROY_SCHOOLBUS]
+Destruye {GRID_ITEMS} camiones de helados
+
 [CHALLENGE_DESTROY_SEAURCHINS]
-Destruye {GRID_ITEMS} erizos de mar.
+Destruye {GRID_ITEMS} erizos de mar
 
 [CHALLENGE_DESTROY_SPEAKER]
 Destruye {GRID_ITEMS} altavoces
@@ -10254,7 +9591,7 @@ Destruye {GRID_ITEMS} altavoces
 Destruye {GRID_ITEMS} estatuas zombi
 
 [CHALLENGE_DESTROY_STONEBLOCKS]
-Destruye {GRID_ITEMS} bloques de piedra.
+Destruye {GRID_ITEMS} bloques de piedra
 
 [CHALLENGE_DESTROY_SURFBOARDS]
 Destruye {GRID_ITEMS} tablas de surf
@@ -19347,7 +18684,7 @@ Las llamas del efecto explotan al apagarse, infligiendo daño adicional.
 {KEYWORD}Rocas ardientes: {STAT}en su etapa máxima, lanza rocas ardientes que hacen daño de área
 {KEYWORD}Características de la planta: {STAT}planta anaranjada, destructora, familia de setas
 
-{FLAVOR}Seta pirómana odia el verano. El motivo es simple: el calor es tan intenso que termina sudando en exceso cada vez que intenta entrenar durante esa estación. Para empeorar las cosas, el aire acondicionado de su casa suele averiarse justo cuando más lo necesita. En esos momentos es cuando realmente envidia a Seta criogénica, su hermano gemelo.
+{FLAVOR}Seta pirómana odia el verano. El motivo es simple: el calor es tan intenso que termina sudando a mares cada vez que intenta entrenar durante esa estación. Para empeorar las cosas, el aire acondicionado de su casa suele averiarse justo cuando más lo necesita. En esos momentos es cuando realmente envidia a Seta criogénica, su hermano gemelo.
 
 [FIRESHROOM_DESCRIPTION_HEADER]
 Seta pirómana empieza siendo pequeña y débil. Luego crece, haciendo sus ataques cada vez más ardientes y poderosos.
@@ -23741,7 +23078,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.5.1 (actualizado el 17/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.5.2 (actualizado el 17/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -62063,17 +61400,71 @@ T30-S4-7: La lucha de Vaina
 [S30_MEMORY_LEVEL_NAME_032]
 T30-S4-8: Villancicos
 
+[S30_MEMORY_LEVEL_NAME_033]
+T30-S5-1: Cera y terracota
+
+[S30_MEMORY_LEVEL_NAME_034]
+T30-S5-2: Fuerza descomunal
+
+[S30_MEMORY_LEVEL_NAME_035]
+T30-S5-3: Yin y yang
+
+[S30_MEMORY_LEVEL_NAME_036]
+T30-S5-4: Conservación de energía
+
+[S30_MEMORY_LEVEL_NAME_037]
+T30-S5-5: Dragón maligno
+
+[S30_MEMORY_LEVEL_NAME_038]
+T30-S5-6: Teatro de sombras
+
+[S30_MEMORY_LEVEL_NAME_039]
+T30-S5-7: Escuderos
+
+[S30_MEMORY_LEVEL_NAME_040]
+T30-S5-8: Demonios y monstruos
+
+[S30_MEMORY_LEVEL_NAME_041]
+T30-S6-1: Alicia en el País de las Maravillas
+
+[S30_MEMORY_LEVEL_NAME_042]
+T30-S6-2: Los tres cerditos
+
+[S30_MEMORY_LEVEL_NAME_043]
+T30-S6-3: El cascanueces y el rey ratón
+
+[S30_MEMORY_LEVEL_NAME_044]
+T30-S6-4: Blancanieves y los siete enanitos
+
+[S30_MEMORY_LEVEL_NAME_045]
+T30-S6-5: Ángel guardián
+
+[S30_MEMORY_LEVEL_NAME_046]
+T30-S6-6: Boy scouts
+
+[S30_MEMORY_LEVEL_NAME_047]
+T30-S6-7: El regalo de la infancia
+
+[S30_MEMORY_LEVEL_NAME_048]
+T30-S6-8: El banquete del niño demonio
+
 [S30_MEMORY_LEVEL_NAME_BOSS_1]
-T30-S1: Bólidus
+T30-S1: Esfinge letal
 
 [S30_MEMORY_LEVEL_NAME_BOSS_2]
-T30-S2: Locomotora de vapor
+T30-S2: Carro blindado
 
 [S30_MEMORY_LEVEL_NAME_BOSS_3]
 T30-S3: Jefe de aniversario
 
 [S30_MEMORY_LEVEL_NAME_BOSS_4]
 T30-S4: Bestia rugiente
+
+[S30_MEMORY_LEVEL_NAME_BOSS_5]
+T30-S5: Jefe volcánico
+
+[S30_MEMORY_LEVEL_NAME_BOSS_6]
+T30-S6: Carrito chocón
 
 [SALES_BUY_SUCCESS_TITLE]
 ¡Compra exitosa!
@@ -69813,9 +69204,6 @@ Bloquea y retiene zombis; se cura con el tiempo si no recibe daño
 [SUMMARY_CLOUD]
 Datos de la nube
 
-[SUMMARY_STAR]
-• Recursos:
-
 [SUMMARY_DAYS]
 {DAY_COUNT}
 
@@ -69836,6 +69224,9 @@ Datos locales
 
 [SUMMARY_NOTICE]
 AVISOS
+
+[SUMMARY_STAR]
+• Recursos:
 
 [SUMMARY_START]
 Comenzar
@@ -76559,6 +75950,15 @@ Dios de las Riquezas - Difícil
 [WEALTHGOD_NORMAL]
 Dios de las Riquezas - Normal
 
+[WEALTH_GOD]
+Dios de la riqueza
+
+[WEALTH_GOD_DESCRIPTION]
+Se manifiesta cada vez que alguien dice: "esto es inversión segura".
+
+[WEALTH_GOD_DESCRIPTION_HEADER]
+Flota sobre el patio en su nube y deja caer monedas cuando recibe daño.
+
 [WEB_GAME_PLAYCOUNT_ERROR]
 Boletos insuficientes.
 
@@ -76911,7 +76311,7 @@ El número de flores aumenta a 45, también lanza flores rosadas.
 [WINTERSWEET_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta marrón, destructora
 
-{FLAVOR}Ciruelita había practicado el lanzamiento desde la infancia, y ahora es la pesadilla de varios tenderos. Cuando pierde interés en lo que llama "juego de niños", se llena de determinación y con una mirada de acero, gana todos los premios.
+{FLAVOR}Ciruelita había practicado el lanzamiento desde la infancia, y ahora es la pesadilla de varios feriantes. Cuando pierde interés en lo que llama "cosas de niños", se llena de determinación y con una mirada de acero, gana todos los premios, dejando a los puestos en bancarrota.
 
 [WINTERSWEET_DESCRIPTION_HEADER]
 Ciruelita lanza flores de ciruelo que se dividen al impactar con un objetivo.
@@ -77959,6 +77359,17 @@ Zombi con patito
 [ZOMBIE_12TH_DIFFICULTY_3_DESCRIPTION]
 La fuerza de los zombis es 5, no puedes usar Artefactos
 
+[ZOMBIE_AIR_MISSILE]
+Misil zombidináutico
+
+[ZOMBIE_AIR_MISSILE_DESCRIPTION]
+{KEYWORD}Especial: {STAT}inflige daño masivo al impactar con tu nave
+
+{FLAVOR}La última tecnología artillera fabricada con sudor por los Zombiditos misileros. Se dice que el esfuerzo trae sus frutos y a decir verdad, este es un misil con un gran potencial bastante destructivo que hasta el mismo Dr. Zombi no desea verlo cerca de su base.
+
+[ZOMBIE_AIR_MISSILE_DESCRIPTION_HEADER]
+Es lanzado por los aires, si no deslizas tus dedos rápidamente sobre Zombidito misilero.
+
 [ZOMBIE_AIR_MISSILE_LAUNCHER]
 Zombidito misilero
 
@@ -77967,6 +77378,40 @@ Un antiguo ministro de aviación admirado por muchos pilotos: estricto, trabajad
 
 [ZOMBIE_AIR_MISSILE_LAUNCHER_DESCRIPTION_HEADER]
 Si no deslizas tus dedos rápidamente sobre él, tu nave terminará hecha chatarra.
+
+[ZOMBIE_ARTIFACT_ACID_LARGE]
+Zombistein ácido
+
+[ZOMBIE_ARTIFACT_ACID_LARGE_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta enemigos con su enorme fuerza corrosiva
+{KEYWORD}Especial: {STAT}su cuerpo corrosivo daña a los zombis cercanos cuando es destruido
+
+{FLAVOR}Cada paso deja marcas de ácido, destrucción y varias preocupaciones ambientales importantes.
+
+[ZOMBIE_ARTIFACT_ACID_LARGE_DESCRIPTION_HEADER]
+Gigantesco mutante aliado creado tras un accidente químico fuera de control.
+
+[ZOMBIE_ARTIFACT_ACID_MID]
+Zombi ácido
+
+[ZOMBIE_ARTIFACT_ACID_MID_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cuerpo corrosivo daña a los zombis cercanos cuando es destruido
+
+{FLAVOR}La sustancia que recorre su cuerpo debería haberlo destruido hace tiempo. Claramente decidió ignorar ese detalle.
+
+[ZOMBIE_ARTIFACT_ACID_MID_DESCRIPTION_HEADER]
+Mutante aliado contaminado por peligrosos compuestos corrosivos.
+
+[ZOMBIE_ARTIFACT_ACID_SMALL]
+Zombidito ácido
+
+[ZOMBIE_ARTIFACT_ACID_SMALL_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cuerpo corrosivo daña a los zombis cercanos cuando es destruido
+
+{FLAVOR}Pequeño, inestable y peligrosamente corrosivo para todo lo que se acerque demasiado.
+
+[ZOMBIE_ARTIFACT_ACID_SMALL_DESCRIPTION_HEADER]
+Mutante aliado deformado por una sustancia ácida experimental.
 
 [ZOMBIE_ATLANTIS_ARMOR1]
 Caracono del mar
@@ -78556,6 +78001,69 @@ El gorro de oso y su overol rosa son las cosas que más aprecia. No puede estar 
 [ZOMBIE_CHILDRENSDAY_IMP_DESCRIPTION_HEADER]
 Un zombi pequeño disfrazado de oso para el Día del Niño.
 
+[ZOMBIE_CHILDREN_AIRBUBBLE]
+Burbuja gigante
+
+[ZOMBIE_CHILDREN_AIRBUBBLE_DESCRIPTION]
+{KEYWORD}Especial: {STAT}se lleva plantas por los aires
+{KEYWORD}Debilidad: {STAT}Trebolador y Huracol pueden expulsarla
+
+{FLAVOR}Ligera, silenciosa y mucho más problemática de lo que debería permitir la física.
+
+[ZOMBIE_CHILDREN_AIRBUBBLE_DESCRIPTION_HEADER]
+Gran burbuja flotante creada por las pistolas de burbujas zombis.
+
+[ZOMBIE_CHILDREN_BALLON]
+Zombidito con globos
+
+[ZOMBIE_CHILDREN_BALLON_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}Cactus y Trebolador
+
+{FLAVOR}El viento decide su trayectoria. Él decidió no preocuparse por eso.
+
+[ZOMBIE_CHILDREN_BALLON_DESCRIPTION_HEADER]
+Sobrevuela las defensas usando varios globos.
+
+[ZOMBIE_CHILDREN_LOLLIPOPS]
+Zombi goloso
+
+[ZOMBIE_CHILDREN_LOLLIPOPS_DESCRIPTION]
+Asegura que una dieta basada únicamente en azúcar fue lo que lo mantuvo "joven".
+
+[ZOMBIE_CHILDREN_LOLLIPOPS_DESCRIPTION_HEADER]
+Arroja paletas de caramelo que impiden el plantado.
+
+[ZOMBIE_CHILDREN_SCHOOLBAG]
+Zombidito escolar
+
+[ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION]
+Todavía espera con emoción la hora del recreo y cualquier oportunidad para causar problemas.
+
+[ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION_HEADER]
+Zombi pequeño que asiste a la escuela.
+
+[ZOMBIE_CHILDREN_TOYCAR]
+Zombidito con carrito
+
+[ZOMBIE_CHILDREN_TOYCAR_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}P.E.Melocotonético lo inmoviliza por una extraña razón
+
+{FLAVOR}Pasó de chocar muebles en casa a chocar plantas profesionalmente.
+
+[ZOMBIE_CHILDREN_TOYCAR_DESCRIPTION_HEADER]
+Usa su carrito de juguete para empujar plantas.
+
+[ZOMBIE_CHILDREN_TOYGUN]
+Zombidito con burbujas
+
+[ZOMBIE_CHILDREN_TOYGUN_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}Trebolador puede expulsar sus burbujas
+
+{FLAVOR}Soplar burbujas era un pasatiempo inocente hasta que empezó a apuntarlas a las plantas.
+
+[ZOMBIE_CHILDREN_TOYGUN_DESCRIPTION_HEADER]
+Dispara burbujas que atrapan plantas y se las llevan volando.
+
 [ZOMBIE_CHRISTMAS]
 Zombi navideño
 
@@ -78590,7 +78098,9 @@ Avanza a una determinada posición del patio, y después lanza sorpresas asombro
 Zombi reno
 
 [ZOMBIE_CHRISTMAS_CAMEL_ONEHUMP_DESCRIPTION]
-Este zombi siempre anda en grandes grupos en las celebraciones navideñas, ¡eso sí que es tener amigos con quienes compartir!
+{KEYWORD}Debilidad: {STAT}vulnerable a las plantas que arrasan con una línea de zombis
+
+{FLAVOR}Dicen que eran artistas callejeros que animaban los desfiles navideños a cambio de unas monedas y comida caliente. Una tormenta helada acabó con ellos hace años, pero cada diciembre vuelven a levantarse, aún aferrados a sus disfraces de reno, recorriendo las calles como si la celebración jamás hubiera terminado.
 
 [ZOMBIE_CHRISTMAS_CAMEL_ONEHUMP_DESCRIPTION_HEADER]
 Anda en grandes grupos en las celebraciones navideñas.
@@ -78605,10 +78115,10 @@ Zombi básico de navidad.
 Zombi abanderado navideño
 
 [ZOMBIE_CHRISTMAS_FLAG_DESCRIPTION]
-Aprovecha al máximo para estar unido con todos sus amigos y familiares mientras hondea su colorida y navideña bandera.
+En vida, encabezaba los desfiles navideños del pueblo agitando una enorme bandera hecha de dulces y bastones de caramelo. Incluso después de morir, continúa marchando cada invierno con la misma sonrisa torcida, reuniendo hordas de zombis festivos que lo siguen como si aún escucharan los villancicos de antaño.
 
 [ZOMBIE_CHRISTMAS_FLAG_DESCRIPTION_HEADER]
-Un zombi que hondea una bandera para avisar una gran oleada de zombis con un fuerte espíritu navideño.
+Hondea una bandera acaramelada para avisar una gran oleada de zombis navideños.
 
 [ZOMBIE_CHRISTMAS_GARGANTUAR]
 Zombistein navideño
@@ -78732,6 +78242,28 @@ Zombistein del Salvaje Oeste
 
 [ZOMBIE_COWBOY_GARGANTUAR_DESCRIPTION_HEADER]
 Zombi gigante con conciencia de marca.
+
+[ZOMBIE_CTHULHUACTINIA]
+Acólito abisal
+
+[ZOMBIE_CTHULHUACTINIA_DESCRIPTION]
+{KEYWORD}Especial: {STAT}lucha del lado de las plantas tras ser transformado
+
+{FLAVOR}Nadie sabe qué vio exactamente en el ojo de la anémona. Claramente fue demasiado.
+
+[ZOMBIE_CTHULHUACTINIA_DESCRIPTION_HEADER]
+Extraña criatura creada por la Anémona de tierra mediante energía abisal.
+
+[ZOMBIE_CTHULHUACTINIA_IMP]
+Acólito abisal pequeño
+
+[ZOMBIE_CTHULHUACTINIA_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}ataca zombis tras ser transformado por el ojo
+
+{FLAVOR}Su pequeño cerebro fue el primero en rendirse ante la mirada de la anémona.
+
+[ZOMBIE_CTHULHUACTINIA_IMP_DESCRIPTION_HEADER]
+Versión pequeña de la criatura ocular creada por Anémona de tierra.
 
 [ZOMBIE_DANCER]
 Zombi extra
@@ -78866,10 +78398,13 @@ Devuelve los proyectiles que le disparan.
 Zombi cascabel
 
 [ZOMBIE_DARK_JUGGLER_ELITE_DESCRIPTION]
-"Cascabel, cascabel, lindo cascabel."
+{KEYWORD}Especial: {STAT}su resistencia reduce el tiempo de aturdimiento en gran medida
+{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques físicos
+
+{FLAVOR}"Cascabel, cascabel, lindo cascabel."
 
 [ZOMBIE_DARK_JUGGLER_ELITE_DESCRIPTION_HEADER]
-Devuelve todos los proyectiles del patio y los dispara por varias líneas.
+Devuelve todos los proyectiles del patio y los dispara por varias líneas. Es resistente a los ataques de ciertas plantas.
 
 [ZOMBIE_DARK_KING]
 Rey zombi
@@ -78945,6 +78480,40 @@ La fuerza inicial de los zombis es de Nvl. 5; no se puede usar Artefactos ni Nut
 
 [ZOMBIE_DETAILS]
 Detalles
+
+[ZOMBIE_DEVILS_ALIEN_GARGANTUAR]
+Zombistein abisal
+
+[ZOMBIE_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta zombis con su fuerza infernal
+{KEYWORD}Especial: {STAT}deja ácido al ser derrotado
+
+{FLAVOR}Invocado desde las profundidades por Garra del diablo. Nadie sabe exactamente de qué profundidad, y todos prefieren mantenerlo así.
+
+[ZOMBIE_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION_HEADER]
+Criatura abisal llamada al combate mediante antiguos poderes oscuros.
+
+[ZOMBIE_DEVILS_MUMMY]
+Zombi parasitado
+
+[ZOMBIE_DEVILS_MUMMY_DESCRIPTION]
+{KEYWORD}Especial: {STAT}el parásito debilita lentamente al huésped
+
+{FLAVOR}El insecto abisal consume lentamente a su huésped mientras lo obliga a seguir avanzando.
+
+[ZOMBIE_DEVILS_MUMMY_DESCRIPTION_HEADER]
+Zombi controlado por un parásito invocado por Garra del diablo.
+
+[ZOMBIE_DEVILS_MUMMY_IMP]
+Zombidito parasitado
+
+[ZOMBIE_DEVILS_MUMMY_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cuerpo debilitado es controlado por un parásito
+
+{FLAVOR}Demasiado pequeño para resistirse. Demasiado infectado para detenerse.
+
+[ZOMBIE_DEVILS_MUMMY_IMP_DESCRIPTION_HEADER]
+Pequeño zombi dominado por un insecto parasitario abisal.
 
 [ZOMBIE_DINO]
 Zombi jurásico
@@ -79065,6 +78634,17 @@ Discotrón 3000
 [ZOMBIE_DISCO_MECH_DESCRIPTION_HEADER]
 Suelta zombis disco cuando suelta el ritmo.
 
+[ZOMBIE_DIVER]
+Zombi buzo
+
+[ZOMBIE_DIVER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}bucea para evitar ataques
+
+{FLAVOR}Los zombis no respiran; no necesitan oxígeno. Entonces, ¿por qué el Zombi Buzo lleva tubo y bañador? Respuesta: por el qué dirán.
+
+[ZOMBIE_DIVER_DESCRIPTION_HEADER]
+El Zombi buzo puede bucear, lo cual es sorprendentemente obvio, ¿no?
+
 [ZOMBIE_DUCKYTUBE]
 Zombi con flotador
 
@@ -79139,6 +78719,24 @@ Zombi de neón
 
 [ZOMBIE_EIGHTIES_8BIT]
 Zombi de 8-bits
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR1]
+Caracono de 8-bits
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR1_DESCRIPTION]
+El casco tiene un diseño de cono vial y una estética retro. Aunque parece salido de una vieja consola, aún protege contra el daño.
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR1_DESCRIPTION_HEADER]
+Su cono pixelado le da el doble de salud que el zombi de 8-bits ordinario.
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR2]
+Caracubo de 8-bits
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR2_DESCRIPTION]
+El cubo encaja perfectamente en su cabeza hecha de pixeles. No sabe para qué sirve, pero le da una falsa sensación de invulnerabilidad... y eso es todo lo que necesita un zombi.
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR2_DESCRIPTION_HEADER]
+Su cubo pixelado le da el triple de salud que el zombi de 8-bits ordinario.
 
 [ZOMBIE_EIGHTIES_8BIT_DESCRIPTION]
 Estar hecho de luz y de coordinadas posicionales no tiene ningún efecto en el hambre acuciante de cerebros fuertes de este trasunto de zombi.
@@ -79399,11 +78997,12 @@ Zombidita reina blanca
 
 [ZOMBIE_FAIRY_TALE_IMP_ELITE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}regresa al campo de batalla después de un tiempo
+{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques venenosos
 
-{FLAVOR}También es conocida como la Reina del invierno en el Mundo mágico.
+{FLAVOR}Gobernó el Mundo mágico con una elegancia tan fría como la nieve eterna. Incluso después de caer bajo la plaga zombi, la Reina blanca continúa sentada sobre su trono helado, observando en silencio cómo sus leales súbditos se marchitan a sus pies antes de unirse a su macabro reino.
 
 [ZOMBIE_FAIRY_TALE_IMP_ELITE_DESCRIPTION_HEADER]
-Escapa y convoca al Zombistein de la realeza en cuanto sufre daño.
+Escapa y convoca al Zombistein de la realeza en cuanto sufre daño. Es resistente a los ataques de ciertas plantas.
 
 [ZOMBIE_FAIRY_TALE_KNIGHT]
 Zombi caballero de escolta
@@ -79436,6 +79035,17 @@ Renunció por la presión de sus compañeros en su antiguo trabajo. Por suerte, 
 
 [ZOMBIE_FAT_DIVE_DESCRIPTION_HEADER]
 Su tanque de oxígeno se rompe al recibir daño, expulsando oxígeno y dándole impulso.
+
+[ZOMBIE_FEASTIVUS_SWASHBUCKLER]
+Ladrón de lingotes
+
+[ZOMBIE_FEASTIVUS_SWASHBUCKLER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}cruza cuatro casillas del patio
+
+{FLAVOR}Pasó años buscando riquezas legendarias. Luego descubrió que robar era más rápido.
+
+[ZOMBIE_FEASTIVUS_SWASHBUCKLER_DESCRIPTION_HEADER]
+Se balancea con una cuerda para aterrizar en medio de tu patio y robar lingotes.
 
 [ZOMBIE_FIGURE_SKATING]
 Patinadora artíztica
@@ -79638,6 +79248,17 @@ El mejor regalo de Navidad que nuestro establecimiento podría ofrecerle.
 [ZOMBIE_GIFTBOX_DESCRIPTION_HEADER]
 La caja de regalo lo protege bastante bien.
 
+[ZOMBIE_GUM]
+Chicle
+
+[ZOMBIE_GUM_DESCRIPTION]
+{KEYWORD}Especial: {STAT}los zombis más fuertes forman barreras más resistentes
+
+{FLAVOR}Un chicle con sabor a jamón.
+
+[ZOMBIE_GUM_DESCRIPTION_HEADER]
+Chicle fabricado por Nuez chicletera. Bloquea a los zombis que tiene detrás.
+
 [ZOMBIE_HALLOWEEN]
 Zombi de la perdición
 
@@ -79694,6 +79315,18 @@ Pequeña pero inquietante. Su peculiar peinado hace que más de uno se estremezc
 
 [ZOMBIE_HALLOWEEN_IMP_DESCRIPTION_HEADER]
 Se arrastra por tu patio con una presencia tan extraña como perturbadora.
+
+[ZOMBIE_HAMSTER_BALL]
+Bola de hámster
+
+[ZOMBIE_HAMSTER_BALL_DESCRIPTION]
+{KEYWORD}Especial: {STAT}protege zombis y aplasta plantas al rodar
+{KEYWORD}Debilidad: {STAT}Pinchorroca y plantas explosivas
+
+{FLAVOR}Alguien vio una bola de hámster y pensó: "esto necesita más destrucción".
+
+[ZOMBIE_HAMSTER_BALL_DESCRIPTION_HEADER]
+Gran esfera rodante que protege zombis hasta romperse.
 
 [ZOMBIE_HEIAN_AKINNDO]
 Zombi akindo
@@ -80043,6 +79676,59 @@ Nave furtiva-X
 
 [ZOMBIE_INVISIBLE_PLANE_DESCRIPTION_HEADER]
 Crea un campo de ocultación, el cual, hace invisibles a los zombis detrás de él.
+
+[ZOMBIE_IZOMBIE_CHICKEN_FARMER]
+Vegezombi granjero
+
+[ZOMBIE_IZOMBIE_CHICKEN_FARMER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}invoca pavos de tofu para atacar plantas
+
+{FLAVOR}Intentó criar pollos normales una vez. El experimento vegetal tomó un rumbo extraño.
+
+[ZOMBIE_IZOMBIE_CHICKEN_FARMER_DESCRIPTION_HEADER]
+Vegezombi que libera agresivos pavos de tofu sobre el jardín.
+
+[ZOMBIE_IZOMBIE_LOSTCITY_DOCTOR]
+Doctor durazno
+
+[ZOMBIE_IZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION]
+{KEYWORD}Especial: {STAT}cura zombis cercanos
+
+{FLAVOR}Asegura que la medicina y la fotosíntesis pueden coexistir pacíficamente. Los zombis son la prueba inquietante de su teoría.
+
+[ZOMBIE_IZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
+Vegezombi médico que utiliza energía vegetal para curar aliados.
+
+[ZOMBIE_IZOMBIE_SUNFLOWER]
+Zombi girasol
+
+[ZOMBIE_IZOMBIE_SUNFLOWER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}produce sol para los zombis
+
+{FLAVOR}Todavía sonríe como un girasol normal. Eso es probablemente lo más inquietante de todo.
+
+[ZOMBIE_IZOMBIE_SUNFLOWER_DESCRIPTION_HEADER]
+Extraño vegezombi capaz de producir sol para la invasión zombi.
+
+[ZOMBIE_IZOMBIE_TUTORIAL_GARGANTUAR]
+Zombistein cáscara-rrabias
+
+[ZOMBIE_IZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta al enemigo con su poste
+
+{FLAVOR}Ten cuidado de no burlarte de él, podría ser lo último que hagas, si no eres un zombi...
+
+[ZOMBIE_IZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION_HEADER]
+Su cabeza alta proporciona una protección absurda contra los ataques.
+
+[ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT]
+Zombi nuez
+
+[ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT_DESCRIPTION]
+Siendo mitad nuez, este zombi sabe cómo romper fácilmente una cáscara dura y llegar al interior. Por 'cáscara' nos referimos a tu cráneo. ¡Y por 'nuez' nos referimos a tus sesos!
+
+[ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT_DESCRIPTION_HEADER]
+Su cabeza de nuez proporciona alta defensa.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST]
 Zombi oriental
@@ -80591,7 +80277,7 @@ Zombi dragón chino
 [ZOMBIE_LNY_CAMEL_MANYHUMP_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}vulnerable a las plantas que arrasan con una línea de zombis
 
-{FLAVOR}"¡Miren un dragón!" suelen decir los demás zombis cada vez que ven las decoraciones de este grupo.
+{FLAVOR}"¡Miren, un dragón!"
 
 [ZOMBIE_LNY_CAMEL_MANYHUMP_DESCRIPTION_HEADER]
 Sigue los pasos de otros zombis llevando un dragón festivo a la celebración.
@@ -81871,6 +81557,17 @@ Zombi saltarín
 [ZOMBIE_POGO_DESCRIPTION_HEADER]
 Salta para superar tus defensas.
 
+[ZOMBIE_POISON_GUM]
+Chicle envenenado
+
+[ZOMBIE_POISON_GUM_DESCRIPTION]
+{KEYWORD}Especial: {STAT}los zombis más fuertes forman barreras más resistentes
+
+{FLAVOR}Un chicle cargado de veneno y saña.
+
+[ZOMBIE_POISON_GUM_DESCRIPTION_HEADER]
+Chicle fabricado por Nuez chicletera tras alcanzar el nivel 5. Bloquea zombis y envenena a quien lo coma.
+
 [ZOMBIE_POLE_VAULTING]
 Saltador de pértiga
 
@@ -82070,6 +81767,35 @@ Taoísta de la dinastía Qin, usa una magia extraña para moldear terracota.
 [ZOMBIE_RA]
 Zombi Ra
 
+[ZOMBIE_RADIATED_LARGE]
+Zombistein irradiado
+
+[ZOMBIE_RADIATED_LARGE_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta enemigos con su fuerza mutante
+
+{FLAVOR}Demasiada radiación, demasiado músculo y definitivamente demasiado entusiasmo destructivo.
+
+[ZOMBIE_RADIATED_LARGE_DESCRIPTION_HEADER]
+Gigantesco mutante creado por un desastre radiactivo.
+
+[ZOMBIE_RADIATED_MID]
+Zombi irradiado
+
+[ZOMBIE_RADIATED_MID_DESCRIPTION]
+La radiación convirtió a un zombi común en algo mucho más difícil de ignorar y considerablemente más brillante en la oscuridad.
+
+[ZOMBIE_RADIATED_MID_DESCRIPTION_HEADER]
+Mutante zombi contaminado tras demasiada exposición radiactiva.
+
+[ZOMBIE_RADIATED_SMALL]
+Zombidito irradiado
+
+[ZOMBIE_RADIATED_SMALL_DESCRIPTION]
+La exposición radiactiva afectó su cuerpo, su cerebro y probablemente su concepto de seguridad personal.
+
+[ZOMBIE_RADIATED_SMALL_DESCRIPTION_HEADER]
+Pequeño mutante zombi deformado por niveles alarmantes de radiación.
+
 [ZOMBIE_RAINCOAT]
 Zombi impermeable
 
@@ -82092,6 +81818,18 @@ Zombi impermeable arranca plantas del suelo a patadas. Es resistente al daño de
 
 [ZOMBIE_RA_DESCRIPTION_HEADER]
 Intenta robar soles, solo para guardarlos.
+
+[ZOMBIE_RENAI_ANTONIO]
+Antonio el mercader
+
+[ZOMBIE_RENAI_ANTONIO_DESCRIPTION]
+{KEYWORD}Daño: {STAT}lanza bolsas de oro para aplastar plantas
+{KEYWORD}Especial {STAT}las bolsas de oro atraen zombis a su fila y los ponen en estado frenético
+
+{FLAVOR}Todavía confía demasiado en acuerdos que claramente terminarán mal.
+
+[ZOMBIE_RENAI_ANTONIO_DESCRIPTION_HEADER]
+Un actor poco destacado. Interpreta a Antonio de El Comerciante de Venecia.
 
 [ZOMBIE_RENAI_ARMOR1]
 Aristócrata caracono
@@ -82122,6 +81860,18 @@ Zombi bailarina de ballet
 
 [ZOMBIE_RENAI_BALLET_DESCRIPTION_HEADER]
 Saldrá en un grupo de 4 al mismo tiempo, ¡y cambiará de rumbo al bailar ballet!
+
+[ZOMBIE_RENAI_BALLET_IMP]
+Zombidita bailarina de ballet
+
+[ZOMBIE_RENAI_BALLET_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}cruza rápidamente tus defensas al ritmo y compás del ballet
+{KEYWORD}Debilidad: {STAT}el charco de Oliva de Aceite la hace resbalar, aturdiéndola por un tiempo
+
+{FLAVOR}No te quedes ensimismado por el pequeño y adorable tamaño de esta chiquilla. Está dispuesta a darlo todo y hacer que te trague la tierra con su coordinado ballet.
+
+[ZOMBIE_RENAI_BALLET_IMP_DESCRIPTION_HEADER]
+Saldrá en un grupo de 2 al mismo tiempo, ¡y cambiará de rumbo al compás del ballet!
 
 [ZOMBIE_RENAI_CARVER]
 Zombidito escultor
@@ -82222,6 +81972,17 @@ Sherlock el excéntrico
 
 [ZOMBIE_RENAI_SHERLOCK_DESCRIPTION_HEADER]
 Este actor zombi interpreta a Sherlock Holmes, personaje icónico de Arthur Conan.
+
+[ZOMBIE_RENAI_TOXICWATER]
+Zombi desinfectante
+
+[ZOMBIE_RENAI_TOXICWATER_DESCRIPTION]
+{KEYWORD}Especial: {STAT}contamina la piscina y daña las plantas acuáticas
+
+{FLAVOR}Está obsesionado con mantener el agua "perfectamente limpia", aunque nadie comparte su definición de limpieza.
+
+[ZOMBIE_RENAI_TOXICWATER_DESCRIPTION_HEADER]
+Zombi encargado del mantenimiento de piscinas. Sus químicos son peligrosos para las plantas.
 
 [ZOMBIE_RENAI_WORKER]
 Zombi aristócrata
@@ -82382,6 +82143,17 @@ Puntuación: {NUMBER}
 [ZOMBIE_RUSH_HIGHEST_CREDIT]
 Récord: {NUMBER}
 
+[ZOMBIE_SANTA]
+Zanta Clause
+
+[ZOMBIE_SANTA_DESCRIPTION]
+{KEYWORD}Especial: {STAT}sobrevuela el jardín dejando regalos sorpresa
+
+{FLAVOR}La Navidad nunca volvió a ser igual después de que empezó a gruñir "jo jo jo".
+
+[ZOMBIE_SANTA_DESCRIPTION_HEADER]
+Cruza el cielo en su trineo lanzando calcetines llenos de premios.
+
 [ZOMBIE_SCREENDOOR]
 Zombi portero
 
@@ -82414,6 +82186,17 @@ Curiosidad: en la antigua Atlántida el lanzamiento de erizos era todo un deport
 
 [ZOMBIE_SEAURCHINPITCHER_DESCRIPTION_HEADER]
 Arroja erizos de mar a tus plantas para dañarlas.
+
+[ZOMBIE_SILVERKEY_GARGANTUAR]
+Zombistein del vacío
+
+[ZOMBIE_SILVERKEY_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta zombis usando energía interdimensional
+
+{FLAVOR}Invocado mediante las Llaves abisales, aunque nadie logró explicar exactamente de dónde viene.
+
+[ZOMBIE_SILVERKEY_GARGANTUAR_DESCRIPTION_HEADER]
+Gigantesco guardián surgido a través de un antiguo artefacto dimensional.
 
 [ZOMBIE_SKYCITY]
 Zombi piloto
@@ -82492,6 +82275,17 @@ Estaba preocupado por la idea de saltar de un avión en caída libre a más de 3
 [ZOMBIE_SKYCITY_GGTIMP_DESCRIPTION_HEADER]
 Un zombidito bueno en el aterrizaje.
 
+[ZOMBIE_SKYCITY_PROTECTOR]
+Escudo volador
+
+[ZOMBIE_SKYCITY_PROTECTOR_DESCRIPTION]
+{KEYWORD}Especial: {STAT}crea un escudo para protegerse de los ataques
+
+{FLAVOR}Nadie sabe cómo funciona su campo de fuerza. Él tampoco, pero presiona botones con mucha confianza.
+
+[ZOMBIE_SKYCITY_PROTECTOR_DESCRIPTION_HEADER]
+Se protege a sí mismo y a los zombis cercanos con un campo de fuerza.
+
 [ZOMBIE_SKYCITY_TWINSPLANE]
 Pilotos gemelos
 
@@ -82546,6 +82340,9 @@ Zombi limo
 [ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]
 Un zombi cubierto de baba, cuidado con él ya que le gusta multiplicarse a montones.
 
+[ZOMBIE_SNOW_BALL]
+Bola de nieve
+
 [ZOMBIE_SNOW_BALLROLLER]
 Zombi avalancha
 
@@ -82556,6 +82353,15 @@ Zombi avalancha
 
 [ZOMBIE_SNOW_BALLROLLER_DESCRIPTION_HEADER]
 Rueda una bola de nieve que crece y aplasta todo a su paso.
+
+[ZOMBIE_SNOW_BALL_DESCRIPTION]
+{KEYWORD}Especial: {STAT}crece mientras avanza aplastando plantas
+{KEYWORD}Debilidad: {STAT}el fuego la derrite rápidamente
+
+{FLAVOR}Comenzó como una pequeña bola de nieve. Los zombis hicieron el resto de las malas decisiones.
+
+[ZOMBIE_SNOW_BALL_DESCRIPTION_HEADER]
+Enorme bola de nieve empujada por zombis a través del jardín.
 
 [ZOMBIE_SPEED_DIFFICULTY_1]
 Zombis fugaces
@@ -82783,6 +82589,28 @@ Zombi común que participa en la celebración de Noches de verano.
 [ZOMBIE_SUMMER_BUG]
 Zombicho veraniego
 
+[ZOMBIE_SUMMER_BUG_ARMOR1]
+Zombicho caracono de verano
+
+[ZOMBIE_SUMMER_BUG_ARMOR1_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cono le otorga el doble de dureza que el Zombicho común
+
+{FLAVOR}Nadie esperaba que un cono de tráfico fuera el pináculo de la ingeniería defensiva veraniega.
+
+[ZOMBIE_SUMMER_BUG_ARMOR1_DESCRIPTION_HEADER]
+Bicho lleva a Zombicho caracono por encima de tus defensas.
+
+[ZOMBIE_SUMMER_BUG_ARMOR2]
+Zombicho caracubo de verano
+
+[ZOMBIE_SUMMER_BUG_ARMOR2_DESCRIPTION]
+{KEYWORD}Especial: {STAT}su cubo le otorga el triple de dureza que el Zombicho común
+
+{FLAVOR}Prefiere el cubo porque ofrece más sombra y más protección.
+
+[ZOMBIE_SUMMER_BUG_ARMOR2_DESCRIPTION_HEADER]
+Bicho lleva a Zombicho caracubo por encima de tus defensas.
+
 [ZOMBIE_SUMMER_BUG_DESCRIPTION]
 Las noches de verano a menudo están repletas de insectos, por eso nació esta pareja con tanta naturalidad. No solo se les facilita el trabajo de saquear cerebros, sino que tener un campo de visión más alto les permite ver mejor los fuegos artificiales.
 
@@ -82818,6 +82646,18 @@ Le encantan tanto las salchichas que terminó disfrazándose de una. Nadie sabe 
 
 [ZOMBIE_SUMMER_IMP_DESCRIPTION_HEADER]
 Un pequeño amante de las salchichas que, una vez lanzado, se arrastra lentamente por el patio.
+
+[ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR]
+Zombistein abisal supremo
+
+[ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}destruye zombis con una fuerza devastadora
+{KEYWORD}Especial: {STAT}probabilidad de liberar ácido al atacar, deja ácido cuando es derrotado
+
+{FLAVOR}Incluso las criaturas del abismo parecen incómodas cuando él aparece.
+
+[ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR_DESCRIPTION_HEADER]
+Entidad infernal de enorme poder invocada por Garra del diablo.
 
 [ZOMBIE_SWASHBUCKLER]
 Zombi espadachín
@@ -82865,6 +82705,52 @@ Yeti faraón
 
 [ZOMBIE_TREASUREYETI_EGYPT_DESCRIPTION_HEADER]
 Criatura extraña de Egipto, siempre lleva monedas encima.
+
+[ZOMBIE_TURKEYPULT_BASIC]
+Pavo de tofu
+
+[ZOMBIE_TURKEYPULT_BASIC_DESCRIPTION]
+{KEYWORD}Daño: {STAT}ataca zombis cercanos a picotazos
+
+{FLAVOR}Fue creado por Pavopulta usando tofu, energía vegetal y una preocupante falta de supervisión.
+
+[ZOMBIE_TURKEYPULT_BASIC_DESCRIPTION_HEADER]
+Aliado invocado por Pavopulta para sembrar caos emplumado.
+
+[ZOMBIE_TURKEYPULT_TURKZILLA]
+Pavozilla calabaza
+
+[ZOMBIE_TURKEYPULT_TURKZILLA_AVATAR]
+Pavozilla imperial
+
+[ZOMBIE_TURKEYPULT_TURKZILLA_AVATAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}ataca zombis cercanos a picotazos
+{KEYWORD}Especial: {STAT}su armadura le brinda una protección excepcional
+
+{FLAVOR}Cubierto de armadura y orgullo desmedido, entra al combate como si el jardín ya le perteneciera.
+
+[ZOMBIE_TURKEYPULT_TURKZILLA_AVATAR_DESCRIPTION_HEADER]
+La forma definitiva de Pavozilla, equipada para una destrucción total.
+
+[ZOMBIE_TURKEYPULT_TURKZILLA_DESCRIPTION]
+{KEYWORD}Daño: {STAT}ataca zombis cercanos a picotazos
+{KEYWORD}Especial: {STAT}su casco de calabaza le otorga mayor resistencia
+
+{FLAVOR}Descubrió que usar una calabaza como casco era ridículo. Luego descubrió que también era efectivo.
+
+[ZOMBIE_TURKEYPULT_TURKZILLA_DESCRIPTION_HEADER]
+Pavozilla reforzado con una resistente armadura de calabaza.
+
+[ZOMBIE_TURKEYPULT_TURKZILLA_LV5]
+Pavozilla
+
+[ZOMBIE_TURKEYPULT_TURKZILLA_LV5_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aturde zombis al aterrizar, luego los ataca a picotazos
+
+{FLAVOR}Nadie esperaba que alimentar demasiado a un pavo de tofu terminara así.
+
+[ZOMBIE_TURKEYPULT_TURKZILLA_LV5_DESCRIPTION_HEADER]
+Versión gigante del pavo de tofu creada al alcanzar el nivel 5.
 
 [ZOMBIE_TUTORIAL]
 Zombi básico
@@ -83084,6 +82970,17 @@ Zombistein jarrón
 [ZOMBIE_VASE_GARGANTUAR_DESCRIPTION_HEADER]
 Zombi de tamaño descomunal metido en un espacio diminuto e inhóspito.
 
+[ZOMBIE_WAVE_ELECSHIELDGENERATOR]
+Electro-escudo
+
+[ZOMBIE_WAVE_ELECSHIELDGENERATOR_DESCRIPTION]
+{KEYWORD}Especial: {STAT}bloquea proyectiles mientras permanezca activo
+
+{FLAVOR}Un triunfo de la ingeniería zombi y una tragedia para cualquiera que dependa de proyectiles.
+
+[ZOMBIE_WAVE_ELECSHIELDGENERATOR_DESCRIPTION_HEADER]
+Crea un escudo que se desplaza lentamente y expulsa a cualquier planta con la que entre en contacto.
+
 [ZOMBIE_WEST_BULL]
 Toro zombi
 
@@ -83301,6 +83198,63 @@ Su codicia no tiene límites, y hará todo lo posible por proteger su fortuna.
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION_HEADER]
 Está adornado con monedas relucientes que caen con cada golpe.
 
+[ZOMBIE_ZOMBIE_PUMPKIN]
+Zombi calabaza
+
+[ZOMBIE_ZOMBIE_PUMPKIN_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombi al ser derrotado
+
+{FLAVOR}La magia de Brujalabaza transforma zombis comunes en algo más aterrador... y considerablemente más anaranjado.
+
+[ZOMBIE_ZOMBIE_PUMPKIN_DESCRIPTION_HEADER]
+Criatura creada por Brujalabaza para combatir en el campo de batalla.
+
+[ZOMBIE_ZOMBIE_PUMPKIN_IMP]
+Zombidito calabaza
+
+[ZOMBIE_ZOMBIE_PUMPKIN_IMP_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombidito al ser derrotado
+
+{FLAVOR}La magia oscura es mucho menos elegante cuando viene en tamaño compacto.
+
+[ZOMBIE_ZOMBIE_PUMPKIN_IMP_DESCRIPTION_HEADER]
+Pequeña criatura creada por Brujalabaza para sembrar caos en miniatura.
+
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD]
+Gólem de calabaza
+
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_DESCRIPTION]
+{KEYWORD}Especial: {STAT}sus hechizos suprimen la curación zombi
+{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombi al ser derrotado
+
+{FLAVOR}Cada hechizo consume energía oscura y una cantidad preocupante de semillas de calabaza.
+
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_DESCRIPTION_HEADER]
+Criatura mágica creada por Brujalabaza que debilita la regeneración zombi.
+
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_IMP]
+Minigólem de calabaza
+
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}sus hechizos suprimen la curación zombi
+{KEYWORD}Debilidad: {STAT}se convierte de vuelta en zombidito al ser derrotado
+
+{FLAVOR}Brujalabaza lo creó para lanzar maldiciones menores. Él decidió tomárselo demasiado en serio.
+
+[ZOMBIE_ZOMBIE_PUMPKIN_WIZARD_IMP_DESCRIPTION_HEADER]
+Pequeña criatura mágica creada por Brujalabaza para sabotear la regeneración zombi.
+
+[ZOMBIE_ZOMBIE_SNOWMAN]
+Muñeco de nieve
+
+[ZOMBIE_ZOMBIE_SNOWMAN_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}el fuego lo derrite rápidamente
+
+{FLAVOR}Fue construido para resistir invasiones, no estaciones cálidas.
+
+[ZOMBIE_ZOMBIE_SNOWMAN_DESCRIPTION_HEADER]
+Muñeco de nieve inmóvil creado por Reina flor de nieve.
+
 [ZOMBIE_ZOMBIE_SNOWPEA]
 Zombi hielaguisantes
 
@@ -83312,14 +83266,45 @@ Zombi hielaguisantes
 [ZOMBIE_ZOMBIE_SNOWPEA_DESCRIPTION_HEADER]
 Lanza guisantes helados que dañan y ralentizan a tus plantas.
 
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS]
+Lobo alfa
+
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS_DESCRIPTION]
+Nadie sabe cómo se elige un alfa en una manada de zombis. Él tampoco, pero nadie se atreve a preguntarlo.
+
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS_DESCRIPTION_HEADER]
+El líder de la manada. Donde aparece, los ataques se vuelven inevitables.
+
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE]
+Lobo con antorcha
+
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}los ataques gélidos extinguen la antorcha
+
+{FLAVOR}El fuego debería ser un problema para un lobo. A él le da igual.
+
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE_DESCRIPTION_HEADER]
+Lobo zombi. Calcina plantas al contacto con su antorcha.
+
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP]
+Zombidito lobo
+
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP_DESCRIPTION]
+No es el más grande de la manada, pero sí el más insistente cuando hay algo que robar.
+
+[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP_DESCRIPTION_HEADER]
+Lobo zombi de pequeña estatura que se mueve rápido por el escenario.
+
 [ZOMBIE_ZOMBIE_VAN]
 Bestia veloz
 
 [ZOMBIE_ZOMBIE_VAN_DESCRIPTION]
-Este zombi maneja un camión monstruoso que aplasta todo a su paso. ¿Estás listo para esquivar su embestida y sobrevivir a la locura en la carretera?
+{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques eléctricos
+
+{FLAVOR}Este zombi maneja un camión monstruoso que aplasta todo a su paso. ¿Estás listo para esquivar su embestida y sobrevivir a la locura en la carretera?
 
 [ZOMBIE_ZOMBIE_VAN_DESCRIPTION_HEADER]
-Un camión enorme que derrapa y se mueve a alta velocidad.
+Un camión enorme que derrapa y se mueve a alta velocidad. Es resistente a los ataques de ciertas plantas.
 
 [ZOMBIE_ZOMBIE_YEARMONSTER]
 Bestia roja
@@ -83331,6 +83316,15 @@ Bestia roja
 
 [ZOMBIE_ZOMBIE_YEARMONSTER_DESCRIPTION_HEADER]
 Bestia del Año Nuevo Chino. Salta a la planta más cercana y la devora por completo.
+
+[ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA]
+Zomboide guisantrallador
+
+[ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA_DESCRIPTION]
+La única solución que encontró para sus problemas fue añadir más guisantes.
+
+[ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA_DESCRIPTION_HEADER]
+Zomboide bien equipado para la acción. Dispara 4 guisantes al enemigo.
 
 [ZOMBIE_ZOMBOSSMECH_BEACH]
 Zombot subtiburotrónico
@@ -83588,6 +83582,54 @@ Bestia rugiente Zombot
 [ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION_HEADER]
 Creación festiva del Dr. Zombi, asola todo en una gran explosión.
 
+[ZOMBIE_ZOYBEANPOD_ARMOR1]
+Zomboide carazanahoria
+
+[ZOMBIE_ZOYBEANPOD_ARMOR1_DESCRIPTION]
+Un zomboide rico en tofu y betacaroteno.
+
+[ZOMBIE_ZOYBEANPOD_ARMOR1_DESCRIPTION_HEADER]
+Su zanahoria le otorga el doble de dureza que el zomboide básico.
+
+[ZOMBIE_ZOYBEANPOD_ARMOR2]
+Zomboide carasandía
+
+[ZOMBIE_ZOYBEANPOD_ARMOR2_DESCRIPTION]
+Si bien, la sandía lo protege de muchas cosas, le da un toque único a su personalidad.
+
+[ZOMBIE_ZOYBEANPOD_ARMOR2_DESCRIPTION_HEADER]
+Su sandía le otorga el triple de dureza que el zomboide básico.
+
+[ZOMBIE_ZOYBEANPOD_BASIC]
+Zomboide
+
+[ZOMBIE_ZOYBEANPOD_BASIC_DESCRIPTION]
+Además del tofu, a Vaina de zoja se le da bien crear zomboides usando hechizos de un libro antiguo que encontró.
+
+[ZOMBIE_ZOYBEANPOD_BASIC_DESCRIPTION_HEADER]
+Un zomboide hecho a base de tofu, luchará por ti contra los zombis enemigos.
+
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR]
+Zomboidestein
+
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR2]
+Zomboidestein rábano
+
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR2_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta y aturde zombis con su gigantesco rábano
+
+{FLAVOR}Cambió la hoja de ruibarbo por un rábano gigante. Nadie entendió por qué, pero los zombis dejaron de hacer preguntas rápidamente.
+
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR2_DESCRIPTION_HEADER]
+Variante experimental creada con todavía más tofu.
+
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta zombis con su gigantesca hoja de ruibarbo
+
+{FLAVOR}Las plantas confían plenamente en él. Principalmente porque discutir con alguien que carga una hoja de ruibarbo del tamaño de un árbol parece mala idea.
+
+[ZOMBIE_ZOYBEANPOD_GARGANTUAR_DESCRIPTION_HEADER]
+Zomboide creado tras un preocupante exceso de tofu.
 
 [ZOMBIE_kongfu_basic_armor3]
 Shaolin almirante
