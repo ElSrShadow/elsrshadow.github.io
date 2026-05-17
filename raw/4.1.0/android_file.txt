@@ -225,13 +225,13 @@ Burbuja gigante
 [ZOMBIE_CHILDREN_AIRBUBBLE_DESCRIPTION_HEADER]
 Gran burbuja flotante creada por las pistolas de burbujas zombis.
 
-[ZOMBIE_CHILDREN_LOLIPOPS]
+[ZOMBIE_CHILDREN_LOLLIPOPS]
 Zombi goloso
 
-[ZOMBIE_CHILDREN_LOLIPOPS_DESCRIPTION]
+[ZOMBIE_CHILDREN_LOLLIPOPS_DESCRIPTION]
 Asegura que una dieta basada únicamente en azúcar fue lo que lo mantuvo "joven".
 
-[ZOMBIE_CHILDREN_LOLIPOPS_DESCRIPTION_HEADER]
+[ZOMBIE_CHILDREN_LOLLIPOPS_DESCRIPTION_HEADER]
 Arroja paletas de caramelo que impiden el plantado.
 
 [ZOMBIE_SNOW_BALL]
@@ -17114,7 +17114,7 @@ Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciada por el efecto de N
 ^DB8117^Nutrientes: dispara 3 orbes por la línea. ^D22808^Multiplicador de daño: 50%^oldclr^
 
 [DUCKPEAR_NEW_SKILL_LEVEL5_DES]
-Gana un ^D22808^20% de probabilidad^oldclr^ disparar baba, la cual inmoviliza un Zombistein en su interior.
+Gana un ^D22808^20% de probabilidad^oldclr^ de disparar baba, la cual inmoviliza un Zombistein en su interior.
 
 [DUCKPEAR_PLANTFOOD_DESCRIPTION]
 Dispara 3 orbes por la línea. ^D22808^Multiplicador de daño: 50%^oldclr^
@@ -17135,7 +17135,7 @@ Nivel 3
 Nivel 5
 
 [DUCKPEAR_SKILL_LEVEL5_DES]
-^DB8117^Trampa viscosa:^oldclr^ gana la probabilidad de disparar baba, la cual inmoviliza Zombisteins en su interior.
+^DB8117^Trampa viscosa:^oldclr^ gana la probabilidad de disparar baba, la cual inmoviliza zombisteins en su interior.
 
 [DUCKPEAR_TOOLTIP]
 Escupe agua para dañar zombis y crear charcos
@@ -23123,6 +23123,7 @@ El número de zombis arrastrados aumenta a 7; el área de ataque aumenta a 4x3
 
 [GUARDSHROOM_DESCRIPTION]
 {KEYWORD}Minisetas: {STAT}engullen zombis, potencian setas y otras plantas de una misma casilla
+{KEYWORD}Características de la planta: {STAT}planta marrón, ataque y defensa, familia de setas
 
 {FLAVOR}¿Qué tiene en común 3.154e+13 y Setaguardia? Cuando Dave preguntó, Penny tardó más de 4 horas en completar el censo de Setaguardias y salir del sótano. Penny afirma con convicción que la cifra es precisa y ha prohibido que nadie baje a comprobarlo.
 
@@ -23740,7 +23741,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.5.0 (actualizado el 15/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.5.1 (actualizado el 17/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -31660,10 +31661,10 @@ Arrastra el carro de mina a una nueva ubicación
 ¡Dispersa {COUNT} Papapúm (s) cada {TIME} s!
 
 [MINE_IS_YOURS_GOLDBLOOM_DESCRIPTION]
-¡Dispersa {COUNT} Florecimientos dorados cada {TIME} segundos!
+¡Dispersa {COUNT} Florecimientos dorados cada {TIME} s!
 
 [MINE_IS_YOURS_HYPNOSHROOM_DESCRIPTION]
-¡Dispersa {COUNT} Hipnosetas cada {TIME} segundos!
+¡Dispersa {COUNT} Hipnosetas cada {TIME} s!
 
 [MINE_IS_YOURS_JALAPENO_DESCRIPTION]
 ¡Dispersa {COUNT} Jalapeño (s) cada {TIME} s!
@@ -31672,16 +31673,16 @@ Arrastra el carro de mina a una nueva ubicación
 ¡Dispersa {COUNT} Papapúm (s) primitiva (s) cada {TIME} s!
 
 [MINE_IS_YOURS_SHINEVINE_DESCRIPTION]
-¡Dispersa {COUNT} Enredaderas relucientes cada {TIME} segundos!
+¡Dispersa {COUNT} Enredaderas relucientes cada {TIME} s!
 
 [MINE_IS_YOURS_SQUASH_DESCRIPTION]
-¡Dispersa {COUNT} Apisonaflor(es) cada {TIME} segundos!
+¡Dispersa {COUNT} Apisonaflor(es) cada {TIME} s!
 
 [MINE_IS_YOURS_SUNFLOWER_DESCRIPTION]
 ¡Dispersa {COUNT} Girasol (es) cada {TIME} s!
 
 [MINE_IS_YOURS_TUMBLEWEED_DESCRIPTION]
-¡Dispersa {COUNT} Rodadoras cada {TIME} segundos!
+¡Dispersa {COUNT} Rodadoras cada {TIME} s!
 
 [MINIGAME_COLLECTION_ACTIVITY_TIME_OVER]
 El evento ha terminado.
@@ -62539,7 +62540,7 @@ Cuernos
 Aumenta el daño del efecto de Nutrientes en un 50%
 
 [SEASHROOM_DESCRIPTION]
-{KEYWORD}Características de la planta: {STAT}planta verde, destructora, marina
+{KEYWORD}Características de la planta: {STAT}planta verde, destructora, marina, familia de setas
 
 {FLAVOR}Seta marina y Seta desesporada son primas lejanas. Nadie sabe cuándo divergió el árbol genealógico, pero las reuniones familiares siempre implican una fiesta en la piscina.
 
@@ -63229,8 +63230,8 @@ El veneno inflige más daño y ralentiza zombis. ^D22808^Daño: 54^oldclr^
 
 [SHADOWSHROOM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, al contacto
-{KEYWORD}Especial: {STAT}las Sombrasetas potenciadas provocan que los zombis afectados envenenen a otros zombis
-{KEYWORD}Características de la planta: {STAT}seta azul (púrpura), destructora
+{KEYWORD}Especial: {STAT}las Sombrasetas potenciadas provocan que los zombis afectados envenenen a otros
+{KEYWORD}Características de la planta: {STAT}plantas azul (púrpura), destructora, familia de setas
 
 {FLAVOR}A pesar de ser un hongo venenoso y profundamente no comestible, Sombraseta es una auténtica preciosidad.
 
@@ -81648,7 +81649,7 @@ Zombi guardia
 Guardia caracono
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION]
-Pasaba junto a un edificio cuando de repente le cayó un cono lleno de pintura. Por desgracia su uniforme recién comprado se ensució y ¡tuvo que ir a trabajar con un festival de colores! El lado positivo es que el cubo lo protege donde sea que vaya.
+Pasaba junto a un edificio cuando de repente le cayó un cono lleno de pintura. Por desgracia su uniforme recién comprado se ensució y ¡tuvo que ir a trabajar con un festival de colores! El lado positivo es que el cono lo protege donde sea que vaya.
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION_HEADER]
 Su cono le otorga el doble de dureza que el guardia común.
@@ -81660,7 +81661,7 @@ Guardia caracubo
 ¿Quién diría que usar un cubo serviría como equipo de seguridad? ¡Él, desde luego!
 
 [ZOMBIE_PARKOUR_ARMOR2_DESCRIPTION_HEADER]
-Su cono le otorga el triple de dureza que el guardia común.
+Su cubo le otorga el triple de dureza que el guardia común.
 
 [ZOMBIE_PARKOUR_DESCRIPTION]
 Con ese traje puesto deja de ser ordinario y consigue el protagonismo que tanto añora.
@@ -81684,7 +81685,7 @@ Zombistein guardia
 {KEYWORD}Daño: {STAT}aplasta plantas con su semáforo
 {KEYWORD}Especial: {STAT}lanza al Zombidito perro cuando sufre daño
 
-{FLAVOR}Hoy es su primer día ascenso y lo único que quiere es salir pronto del trabajo para ir a comprarse un nuevo par de zapatos.
+{FLAVOR}Hoy es su primer día de ascenso y lo único que quiere es salir pronto del trabajo para ir a comprarse un nuevo par de zapatos.
 
 [ZOMBIE_PARKOUR_GARGANTUAR_DESCRIPTION_HEADER]
 Un zombi grande que aplica la ley en las estaciones del metro.
