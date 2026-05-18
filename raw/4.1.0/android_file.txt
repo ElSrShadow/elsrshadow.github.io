@@ -6324,7 +6324,7 @@ Lanza proyectiles que infligen más daño con los impactos sucesivos
 Trebolador
 
 [BLOVER_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Cuesta 25 soles menos
 
 [BLOVER_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -7875,7 +7875,7 @@ Zarzamora tiende trampas e inflige daño a los zombis.
 Tiende trampas e inflige daño a los zombis
 
 [BRAMBLE_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [BRAMBLE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}desaparece al ser pisado
@@ -8125,7 +8125,7 @@ Ataca con burbujas alternando de formas al tocarla
 Jade mantecoso
 
 [BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [BUDUHBOOM_DESCRIPTION]
 {KEYWORD}Especial: {STAT}su manteca evita que los zombis limo se dividan
@@ -10692,8 +10692,7 @@ Efecto de Nutrientes ^D22808^garantizado^oldclr^ en cada plantado.
 Cada 4 s, dispara dos misiles que alcanzan al zombi más cercano. ^D22808^Daño: 200 (casilla)^oldclr^
 
 [COBCANNON_PLANTFOOD_DESCRIPTION]
-Dispara una mazorca que se divide en 30 granos, de los cuales, 5 se dirigen a un mismo objetivo como máx.
-^D22808^Daño: 70 (30 en casilla)^oldclr^
+Dispara una mazorca que se divide en 30 granos. ^D22808^Daño: 70 x5 (30 en casilla)^oldclr^
 
 [COBCANNON_REQ_KERNELPULT_HINT]
 No seleccionaste ningún Lanzamaíz para plantar a Mazorcañón, ¿seguro que quieres continuar?
@@ -10702,7 +10701,7 @@ No seleccionaste ningún Lanzamaíz para plantar a Mazorcañón, ¿seguro que qu
 Nivel 2
 
 [COBCANNON_SKILL_LEVEL1_DES]
-^4DD4DB^Recuperación acelerada:^oldclr^ su tiempo de recuperación se reduce en un 15%.
+^4DD4DB^Recuperación acelerada:^oldclr^ su tiempo de recuperación se reduce en un 15%
 
 [COBCANNON_SKILL_LEVEL2]
 Nivel 3
@@ -10819,7 +10818,7 @@ Utilizar objetos:
 Grano de café
 
 [COFFEEBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [COFFEEBEAN_DESCRIPTION]
 {KEYWORD}Uso:{STAT}único e instantáneo
@@ -11600,9 +11599,9 @@ El muñeco de nieve gigante rebota, infligiendo daño 2 veces.
 
 [COTTONYETI_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}el muñeco de nieve rebota en un patrón alternado
-{KEYWORD}Características de la planta: {STAT}planta blanca, destructora
+{KEYWORD}Características de la planta: {STAT}planta blanca, gélida, destructora
 
-{FLAVOR}Intentó dedicarse a los deportes de salto, pero tenía la costumbre de aterrizar sobre otros participantes. Ahora canaliza toda esa energía creando muñecos de nieve con el mismo espíritu explosivo que ella.
+{FLAVOR}Intentó dedicarse a los deportes de salto, pero tenía la costumbre de aterrizar sobre otros participantes. Ahora canaliza toda esa energía creando muñecos de nieve con el mismo espíritu jovial que ella.
 
 [COTTONYETI_DESCRIPTION_HEADER]
 Algodón de nieve crea muñecos de nieve para dañar a los zombis de la fila.
@@ -17311,135 +17310,159 @@ Tus movimientos se agotaron, ¿deseas gastar ^00e46e^{GEM_COUNT} Joyas^oldclr^ p
 ¡Cuidado con esos escudos!
 
 [ELITE_ZOMBIE_TIPS_TEXT_BUMPERCAR]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_BUMPERCAR_ELITE]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_CAKETANK]
-Es inmune a los efectos de control.
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_CHRISTMAS_CAKETANK]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_DARK_JUGGLER_ELITE]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_DARK_KING_ELITE]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_DARK_WIZARD_ELITE]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_HEIAN_ONMYOJI]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_HEIAN_ONMYOJI_PVZ1_HARD]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_HEIAN_ONMYOJI_PVZ1_NORMAL]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_BALLISTA]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_BALLISTA_PVZ1_HARD]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_BALLISTA_PVZ1_NORMAL]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_HEALER]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_HEALER_PVZ1_HARD]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_ROMAN_HEALER_PVZ1_NORMAL]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_SKYCITY_ELECTRIC]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_SKYCITY_ELECTRIC_PVZ1_HARD]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ELITE_SKYCITY_ELECTRIC_PVZ1_NORMAL]
-^573701^Es inmune a los efectos de control, reduce el daño recibido en 500 puntos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_FAIRY_TALE_IMP_ELITE]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_GENERAL_CAESAR_PHASE1]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_GENERAL_ZMECH_PHASE1]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_ARMOR3_ELITE]
-^573701^Tres zombis de un mismo tipo se fusionan como uno solo, volviéndose inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^D22808^Fusión: ^A0522D^tres zombis del mismo tipo se fusionan en uno grande con más salud y daño^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_CHIEF_ELITE]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_HUNTER_ELITE]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_WEASELHOARDER_ELITE]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEAGE_WEASEL_ELITE]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ICEYEARMONSTER]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_HUANGMEI]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_RED_BOY]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_KONGFU_ZOMBOSS_QIGONG]
-Bloquea el daño recibido durante un tiempo con su escudo dorado.
-El escudo tiene dos atributos de resistencia, hielo y fuego.
-También recupera salud mientras se cubre del daño.
+^DB8117^Escudo de oro: ^A0522D^bloquea el daño recibido durante un tiempo^oldclr^
+^FF8000^Atributos del escudo: ^A0522D^otorga resistencia al hielo o fuego^oldclr^
+^98FB98^Curación: ^A0522D^recupera salud mientras se cubre del daño^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_MIRROR_QUEEN_PHASE1]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_PLANTWARS_MIRROR_QUEEN_PHASE3]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_PUMPKIN_HOUSE_GHOST]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_PUMPKIN_KNIGHT]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_PUMPKIN_NECROMANCER]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_HAMLET]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_JULIET]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_ROMEO]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_RENAI_SHERLOCK]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_WITCH]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ZOMBIE_VAN]
-^573701^Es inmune a los efectos de control, se vuelve invencible durante 3 segundos.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_ZOMBIE_YEARMONSTER]
-^573701^Es inmune a los efectos de control.^oldclr^
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TITLE]
 ^2f8101^Zombis de élite^oldclr^
@@ -17448,7 +17471,7 @@ También recupera salud mientras se cubre del daño.
 P.E.Melocotonético
 
 [EMPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [EMPEA_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -19341,41 +19364,41 @@ Plantas especiales
 
 [GACHA_ITEM_AVATAR_DES]
 Recibes ^DB8117^{NUMBER} Monedas^oldclr^ al abrirlo.
-Contiene ^D22808^Atuendos^oldclr^ y ^D22808^Piezas de Atuendos^oldclr^
+Contiene ^D22808^Atuendos^oldclr^ y sus ^D22808^Piezas^oldclr^
 
 [GACHA_ITEM_AVATAR_HEADER]
-Cofre de Atuendos
+Cofre de atuendos
 
 [GACHA_ITEM_AVATAR_HEADER10]
-Cofre de Atuendos x10
+Cofre de atuendos x10
 
 [GACHA_ITEM_DRAW_AVATAR_DES]
-Contiene ^D22808^1 Pieza^oldclr^ de un Atuendo aleatorio
+Contiene ^D22808^1^oldclr^ Pieza aleatoria
 
 [GACHA_ITEM_DRAW_AVATAR_DES_10]
-Contiene ^D22808^1 atuendo^oldclr^ y de ^D22808^10-90 Piezas^oldclr^ de Atuendos aleatorios
+Contiene ^D22808^10-90^oldclr^ Piezas + atuendo
 
 [GACHA_ITEM_DRAW_LEGEND_DES]
-Contiene ^D22808^1 Pieza^oldclr^ de una planta ^7300c7^épica^oldclr^ o ^ef7600^legendaria^oldclr^
+Contiene ^D22808^1^oldclr^ Pieza ^7300c7^épica^oldclr^ o ^ef7600^legendaria^oldclr^
 
 [GACHA_ITEM_DRAW_LEGEND_DES_10]
-Contiene ^D22808^1 planta^oldclr^ y de ^D22808^10-90 Piezas^oldclr^ de plantas ^7300c7^épicas^oldclr^ o ^ef7600^legendarias^oldclr^
+Contiene ^D22808^10-90^oldclr^ Piezas + planta ^7300c7^épica^oldclr^ o ^ef7600^legendaria^oldclr^
 
 [GACHA_ITEM_DRAW_NORMAL_DES]
-Contiene ^D22808^1 Pieza^oldclr^ de una planta ^a3a3a3^común^oldclr^, ^4ca830^especial^oldclr^, ^3365ce^rara^oldclr^ o ^7300c7^épica^oldclr^
+Contiene ^D22808^1^oldclr^ Pieza de calidad ^a3a3a3^común^oldclr^ a ^7300c7^épica^oldclr^
 
 [GACHA_ITEM_DRAW_NORMAL_DES_10]
-Contiene ^D22808^1 planta^oldclr^ y de ^D22808^10-90 Piezas^oldclr^ de plantas ^a3a3a3^comunes^oldclr^, ^4ca830^especiales^oldclr^, ^3365ce^raras^oldclr^ o ^7300c7^épicas^oldclr^
+Contiene ^D22808^10-90^oldclr^ Piezas + planta de calidad ^a3a3a3^común^oldclr^ a ^7300c7^épica^oldclr^
 
 [GACHA_ITEM_DRAW_RARE_DES]
-Contiene ^D22808^1 Pieza^oldclr^ de una planta ^3365ce^rara^oldclr^, ^7300c7^épica^oldclr^ o ^ef7600^legendaria^oldclr^
+Contiene ^D22808^1^oldclr^ Pieza de calidad ^3365ce^rara^oldclr^ a ^ef7600^legendaria^oldclr^
 
 [GACHA_ITEM_DRAW_RARE_DES_10]
-Contiene ^D22808^1 planta^oldclr^ y de ^D22808^10-90 Piezas^oldclr^ de plantas ^3365ce^raras^oldclr^, ^7300c7^épicas^oldclr^ o ^ef7600^legendarias^oldclr^
+Contiene ^D22808^10-90^oldclr^ Piezas + planta de calidad ^3365ce^rara^oldclr^ a ^ef7600^legendaria^oldclr^
 
 [GACHA_ITEM_LEGEND_DES]
-Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas extra.
-^A0522D^Rareza:^oldclr^ ^7300c7^épica^oldclr o ^ef7600^legendaria^oldclr^
+Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas.
+^A0522D^Calidad:^oldclr^ ^7300c7^épica^oldclr o ^ef7600^legendaria^oldclr^
 
 [GACHA_ITEM_LEGEND_HEADER]
 Cofre legendario
@@ -19384,8 +19407,8 @@ Cofre legendario
 Cofre legendario x10
 
 [GACHA_ITEM_NORMAL_DES]
-Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas extra.
-^A0522D^Rareza:^oldclr^ ^a3a3a3^común^oldclr^, ^4ca830^especial^oldclr^, ^3365ce^rara^oldclr^ o ^7300c7^épica^oldclr^
+Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas.
+^A0522D^Calidad:^oldclr^ ^a3a3a3^común^oldclr^ a ^7300c7^épica^oldclr^
 
 [GACHA_ITEM_NORMAL_HEADER]
 Cofre común
@@ -19397,8 +19420,8 @@ Cofre común x10
 Vista previa
 
 [GACHA_ITEM_RARE_DES]
-Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas extra.
-^A0522D^Rareza:^oldclr^ ^3365ce^rara^oldclr^, ^7300c7^épica^oldclr^ o ^ef7600^legendaria^oldclr^
+Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas.
+^A0522D^Calidad:^oldclr^ ^3365ce^rara^oldclr^ a ^ef7600^legendaria^oldclr^
 
 [GACHA_ITEM_RARE_HEADER]
 Cofre raro
@@ -19419,7 +19442,7 @@ Abrir por {NUMBER}
 Se refresca en:
 
 [GAMECENTER_FAILED_DESCRIPTION]
-Tienes que conectarte a Game Center desde fuera de la aplicación PvZ2 para acceder a los logros y marcadores.
+Tienes que conectarte a Game Center desde fuera de la aplicación para acceder a los logros y marcadores.
 
 [GAMECENTER_FAILED_HEADER]
 No te has conectado a Game Center
@@ -21809,7 +21832,7 @@ Come snacks o muerde zombis, acumula energía y la libera en llamaradas
 Florecimiento dorado
 
 [GOLDBLOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [GOLDBLOOM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -21908,7 +21931,7 @@ Completa una Aventura de Plantas.
 Hoja dorada
 
 [GOLDLEAF_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [GOLDLEAF_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -23078,14 +23101,14 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.5.2 (actualizado el 17/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.5.3 (actualizado el 18/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
 Peluda de Brezal
 
 [HEATHSEEKER_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [HEATHSEEKER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}puede apuntar desde cualquier punto del patio
@@ -23907,7 +23930,7 @@ Atrae y quema zombis
 Papa caliente
 
 [HOTPOTATO_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [HOTPOTATO_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único
@@ -24018,7 +24041,7 @@ Salud
 Huracol
 
 [HURRIKALE_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Cuesta 25 soles menos
 
 [HURRIKALE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -24634,7 +24657,7 @@ Imitar {PLANT}
 Imitadora
 
 [IMITATER_AVATAR_PLANTFOOD_DESCRIPTION]
-^FFC300^Ejerce el efecto del Atuendo de la planta a la que imita.^oldclr^
+La planta imitada se recarga un 10% más rápido
 
 [IMITATER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}puede imitar a cualquier otra planta
@@ -24955,7 +24978,7 @@ Puntos: {NUM}
 Zanahoria intensiva
 
 [INTENSIVECARROT_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Cuesta 25 soles menos
 
 [INTENSIVECARROT_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -25077,7 +25100,7 @@ Jaca
 Corona
 
 [JACKFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 10% más rápido
 
 [JACKFRUIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}deja semillas al golpear un zombi
@@ -25199,7 +25222,7 @@ Lanza llamaradas a corta distancia
 Jalapeño
 
 [JALAPENO_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [JALAPENO_DESCRIPTION]
 {KEYWORD}Uso:{STAT}único e instantáneo
@@ -38603,7 +38626,7 @@ Prolonga la duración de la congelación en 1 s
 Recarga rápida +10%
 
 [NEW_AVATAR_DESCRIPTION_IMPPEAR_2]
-Aumenta la duración del aturdimiento en 1 s
+Aumenta la duración del gas en 1 s
 
 [NEW_AVATAR_DESCRIPTION_INFERNO_1]
 Coste -30
@@ -42214,7 +42237,7 @@ Engulle múltiples zombis, escupe aceite que ralentiza
 Nativo
 
 [OLIVE_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [OLIVE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -42773,7 +42796,8 @@ Devora y mastica toda clase de zombis
 Mazorcañón U42
 
 [PARALLEL_COBCANNON_DESCRIPTION]
-{KEYWORD}Uso: tocar para armar, tocar en la casilla objetivo para disparar
+{KEYWORD}Uso: {STAT}plantar sobre 2 Lanzamaíces colindantes
+{KEYWORD}Ataque: {STAT}tocar para armar, tocar en la casilla objetivo para disparar
 {KEYWORD}Alcance: todo el mapa
 {KEYWORD}Especial: al impactar, la mazorca inflige daño en un área de 3x3
 
@@ -42791,7 +42815,7 @@ Petaseta U42
 [PARALLEL_DOOMSHROOM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}deja un cráter al explotar
 
-{FLAVOR}El granjero que cultivó esta seta recibió el Premio a la paz
+{FLAVOR}El granjero que cultivó esta seta recibió el Premio Nobel a la paz
 
 [PARALLEL_DOOMSHROOM_DESCRIPTION_HEADER]
 Variante de Petaseta. Puede infligir una cantidad MASIVA de daño cuando se destruye.
@@ -42895,7 +42919,7 @@ Solanácea U42
 [PARALLEL_NIGHTSHADE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}arroja y regenera hojas cuando está potenciada
 
-{FLAVOR}"Es difícil abandonar los viejos hábitos", dice. Lo más difícil de creer es que existan las coincidencias. Entre todas las posibilidades que tiene este mundo, Solanácea parece no tener variantes en ninguna de las realidades alternativas.
+{FLAVOR}"Es difícil abandonar los viejos hábitos", dice. Lo más difícil de creer es que existan las coincidencias. Entre todas las posibilidades que tiene este mundo, Solanácea parece no tener variantes en ninguna de las realidades alternas.
 
 [PARALLEL_NIGHTSHADE_DESCRIPTION_HEADER]
 La clásica Solanácea de toda la vida, abofetea a los zombis con sus hojas
@@ -43010,7 +43034,7 @@ Sombraseta U42
 
 [PARALLEL_SHADOWSHROOM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, al contacto
-{KEYWORD}Especial: {STAT}las Sombrasetas potenciadas provocan que los zombis envenenados envenenen a otros zombis
+{KEYWORD}Especial: {STAT}las Sombrasetas potenciadas provocan que los zombis envenenados envenenen a otros
 
 {FLAVOR}Sombraseta viene más sombría y venenosa que nunca en este universo distante
 
@@ -43024,13 +43048,15 @@ Envenena zombis periódicamente
 Vainilla de sombra U42
 
 [PARALLEL_SHADOWVANILLA_DESCRIPTION]
-El poder de la oscuridad y las sombras nunca le fallan en los rincones del cosmos.
+{KEYWORD}Especial: {STAT}cuando está potenciada, libera una niebla sombría que debilita zombis
+
+{FLAVOR}El poder de la oscuridad y las sombras nunca le fallan en los rincones del cosmos.
 
 [PARALLEL_SHADOWVANILLA_DESCRIPTION_HEADER]
-Variante de Vainilla de sombra, libera una niebla sombría que debilita zombis en un 50% después de tres ataques seguidos cuando está potenciada.
+Variante de Vainilla de sombra, su niebla sombría debilita zombis un 50%
 
 [PARALLEL_SHADOWVANILLA_TOOLTIP]
-Lanza esferas oscuras de viento; carga sus pétalos y libera nubes que debilitan zombis
+Lanza oscuridad al enemigo, carga sus pétalos y libera nubes debilitantes
 
 [PARALLEL_SPIKEWEED]
 Pinchohierba U41
@@ -43383,27 +43409,6 @@ Nivel 5
 
 [PASSIONFLOWER_TOOLTIP]
 Dispara engranajes por 3 líneas para infligir daño continuo
-
-[PATCH_FAILED_BODY]
-Error al aplicar el contenido. (%d)
-
-[PATCH_FAILED_CANCELLED_HEADER]
-Error al aplicar el parche.
-
-[PATCH_FAILED_HEADER]
-Error al aplicar el parche.
-
-[PATCH_FAILED_SPACE_BODY]
-Espacio en disco insuficiente.
-
-[PATCH_FAILED_SPACE_HEADER]
-Error al aplicar el parche.
-
-[PATCH_IS_AVAILABLE_HEADER]
-Actualización disponible
-
-[PATCH_VERIFICATION_FAILED]
-El contenido descargado puede estar corrupto. La actualización tendrá que ser descargada otra vez.
 
 [PAUSED_HEADER]
 EN PAUSA
@@ -44982,7 +44987,7 @@ Porciento: {NUM}%
 Seta perfumada
 
 [PERFUMESHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [PERFUMESHROOM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}afecta a todos los dinosaurios de una línea
@@ -47292,7 +47297,7 @@ Escacez de semillas III
 El número de semillas que puedes escoger se reduce a 4
 
 [PLANT_PEDIA]
-Enciclopedia de plantas
+Enciclopedia botánica
 
 [PLANT_PEDIA_REWARD]
 Premios de la Enciclopedia
@@ -48005,7 +48010,7 @@ Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciada por el efecto de N
 Cuando su fase de ataque esté completamente cargada, existe un ^D22808^15% de probabilidad^oldclr^ de dar un super puñetazo y lanzar 2 pinchos. ^D22808^Daño: 900^oldclr^
 
 [POKRA_PEDIA]
-Pokra está basada en en molondrón (Abelmoschus esculentus), también llamado "okra" en inglés. Es una herbácea cultivada por sus vainas verdes alargadas y comestibles, conocidas por su textura mucilaginosa. Es un ingrediente común en la cocina africana, caribeña y sureña de Estados Unidos. El nombre del personaje es un juego de palabras entre "poke" (pinchar) y okra.
+Pokra está basada en el molondrón (Abelmoschus esculentus), también llamado "okra" en inglés. Es una herbácea cultivada por sus vainas verdes alargadas y comestibles, conocidas por su textura mucilaginosa. Es un ingrediente común en la cocina africana, caribeña y sureña de Estados Unidos. El nombre del personaje es un juego de palabras entre "poke" (pinchar) y okra.
 
 [POKRA_PEDIA_EXTRA]
 Originaria de África, la okra se difundió rápidamente por Asia y América gracias al comercio. Además de su uso culinario, se le atribuyen propiedades medicinales tradicionales, como ayuda digestiva y antiinflamatoria.
@@ -48041,7 +48046,7 @@ Da puñetazos perforantes que ralentizan zombis, acelera sus ataques con el tiem
 Granada joyera
 
 [POMEGRANATEJEWELER_AVATAR_NAME]
-Banda de comerciante
+Comerciante
 
 [POMEGRANATEJEWELER_AVATAR_PLANTFOOD_DESCRIPTION]
 Lanza rubíes acorazonados que atraen zombis al punto de impacto. ^D22808^Daño: 750^oldclr^
@@ -48420,7 +48425,7 @@ Oferta planta de la semana
 Lirio poderoso
 
 [POWERLILY_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido
 
 [POWERLILY_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -48455,7 +48460,7 @@ Cambia la apariencia de las casillas potenciadoras generadas al plantarse
 {KEYWORD}Uso: {STAT}único e instantáneo
 {KEYWORD}Características de la planta: {STAT}planta púrpura, hábil
 
-{FLAVOR}Rábano casillero a menudo se enorgullece de ser un campeón de Tic Tac Toe. Pero podíamos sentir que lo dijo solo para aliviar de repente la vergüenza de ponerse en cuclillas en el suelo y dibujar algunos círculos.
+{FLAVOR}DJ Rábano casillero arrasó en las pistas de baile con su éxito "Rabatón". ¿Cuál será su último mix? Cuando lo ponga, sentirás el poder.
 
 [POWERPLANT_DESCRIPTION_HEADER]
 Los Rábanos casilleros crean una Casilla potenciadora al plantarlos.
@@ -48497,39 +48502,6 @@ Mezcla poderosa
 [POWERUP_BEGHOULED_SHUFFLE_DESCRIPTION]
 ¡Usa la Mezcla poderosa en Bezombied para mezclar las plantas y conseguir más combinaciones!
 
-[POWERUP_DEMO]
-Sobrevive usando Potenciadores
-
-[POWERUP_FLAMETHROWER]
-Llama poderosa
-
-[POWERUP_FLAMETHROWER_DESCRIPTION]
-¡Mantén pulsado el dedo para derretir hielo y quemar a los zombis en las Cuevas congeladas!
-
-[POWERUP_FLICK]
-Tiro poderoso
-
-[POWERUP_FLICK_DESCRIPTION]
-Desliza sobre un zombi para lanzarlo. ¡Y dos veces para sacarlo de la pantalla!
-
-[POWERUP_NEW_BADGE]
-NUEVO
-
-[POWERUP_PINCH]
-Pellizco poderoso
-
-[POWERUP_PINCH_DESCRIPTION]
-¡Pellizca a un zombi para destruirlo!
-
-[POWERUP_SNOWBALL]
-Poder de nieve
-
-[POWERUP_SNOWBALL_DESCRIPTION]
-Mantén el dedo pulsado sobre un zombi para tirarle bolas de nieve.
-
-[POWERUP_TEXT]
-¡Felicitaciones, esto te hará más fuerte que Zeus!
-
 [POWERUP_VASEBREAKER_BUTTER]
 Mantequilla para zombis
 
@@ -48556,12 +48528,6 @@ Revelar jarrón
 
 [POWERUP_VASEBREAKER_REVEAL_UNLOCK]
 Completa la introducción para desbloquearlo.
-
-[POWERUP_WIZARDFINGER]
-Chispazo poderoso
-
-[POWERUP_WIZARDFINGER_DESCRIPTION]
-¡Mantén el dedo en un zombi para electrocutarlo!
 
 [POWERVINE]
 Enredadera poderosa
@@ -48592,7 +48558,7 @@ Gana un ^D22808^10% de probabilidad^oldclr^ de disparar un rayo que mejora a la 
 
 [POWERVINE_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: inutiliza máquinas de un área 5x5 y lanza una oleada de rayos ^E2725B^(3 si está vinculada).^oldclr^
+^DB8117^Nutrientes: inutiliza máquinas de un área 5x5 y lanza una oleada de rayos ^E2725B^(3 si está vinculada)^oldclr^
 
 [POWERVINE_NEW_SKILL_LEVEL5_DES]
 Cada 2 ataques, dispara un rayo púrpura que ^ff9600^paraliza^oldclr^ al zombi golpeado durante 0.5 s
@@ -48626,9 +48592,6 @@ Se conecta para disparar rayos láser
 
 [PP_LOCKED_PROMPT_INFO]
 ¡El Dr. Zombi secuestró a Dave! Los niveles de la Búsqueda de Penny necesitan combustible, pero cada nivel tiene ventajas que facilitan el juego. ¡Supera los niveles, enfréntate al Dr. Zombi y salva a Dave!
-
-[PREMIUM_PACKS]
-Paquetes prémium
 
 [PREMIUM_PLANT_QUEST_DESC]
 ¡Llévate de paseo una planta prémium y gana premios mientras lo haces!
@@ -48715,7 +48678,7 @@ VISTA PREVIA
 Vista previa de planta
 
 [PREVIEW_WORLD]
-¡Vista previa del mundo!
+Vista previa del mundo
 
 [PREVIOUS_BUTTON]
 ANTERIOR
@@ -48867,13 +48830,13 @@ Sus proyectiles se vuelven azules y tienen un ^D22808^90% de probabilidad^oldclr
 
 [PRIMALRAFFLESIA_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^50% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: lanza baba a 5 zombi aleatorios del patio. ^D22808^Daño: 400 (800 en casilla)^oldclr^
+^DB8117^Nutrientes: lanza baba a 5 zombis aleatorios del patio. ^D22808^Daño: 400 (800 en casilla)^oldclr^
 
 [PRIMALRAFFLESIA_NEW_SKILL_LEVEL5_DES]
-Sus proyectiles se dividen en 4 al impactar, dispersándose en las diagonales y haciendo 80 DPS
+Sus proyectiles se dividen en 4 al impactar, dispersándose en las diagonales y haciendo 80 de daño
 
 [PRIMALRAFFLESIA_PLANTFOOD_DESCRIPTION]
-Lanza baba a 5 zombi aleatorios del patio. ^D22808^Daño: 400 (800 en casilla)^oldclr^
+Lanza baba a 5 zombis aleatorios del patio. ^D22808^Daño: 400 (800 en casilla)^oldclr^
 
 [PRIMALRAFFLESIA_SKILL_LEVEL1]
 Nivel 2
@@ -67154,7 +67117,7 @@ Lanza proyectiles con efectos de ralentización, aturdimiento y daño masivo en 
 Sombreros elegantes
 
 [STORE_PRODUCT_AVATAR_BRAMBLE]
-Recarga rápida
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_BRAMBLE_TITLE]
 Ladrón
@@ -67292,7 +67255,7 @@ Dispara una bala gigante que aturde zombis cuando explota
 Casco de constructor
 
 [STORE_PRODUCT_AVATAR_COFFEEBEAN]
-Recarga rápida
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_COFFEEBEAN_TITLE]
 Antenas
@@ -67886,7 +67849,7 @@ Coste -25
 Espejo frontal
 
 [STORE_PRODUCT_AVATAR_JACKFRUIT]
-Su salud aumenta cada vez que bloquea pasadizos secretos
+Recarga rápida +10%
 
 [STORE_PRODUCT_AVATAR_JACKFRUIT_TITLE]
 Corona
@@ -68138,7 +68101,7 @@ Arroja flechas en llamas que hacen más daño
 Bigote
 
 [STORE_PRODUCT_AVATAR_OLIVE]
-Recarga rápida
+Recarga rápida +20%
 
 [STORE_PRODUCT_AVATAR_OLIVEPIT]
 Genera un torbellino que atrae zombis voladores; puede digerir a 3 zombis más al usar Nutrientes
@@ -68603,7 +68566,7 @@ Tonsura
 Coste -25
 
 [STORE_PRODUCT_AVATAR_SUNBEAN_TITLE]
-Corona de la libertad
+Libertad
 
 [STORE_PRODUCT_AVATAR_SUNFLOWER]
 Puede producir de 1-2 monedas al usar Nutrientes
@@ -68732,7 +68695,7 @@ Puede repeler zombis grandes con su efecto de Nutrientes
 Flores
 
 [STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK]
-Coste -25
+Coste -15
 
 [STORE_PRODUCT_AVATAR_UNCHARTED_HAYSTACK_TITLE]
 Liebre
@@ -69515,7 +69478,7 @@ Frijol solar
 Frijol solar
 
 [SUNBEAN_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera el efecto de Nutrientes^oldclr^
+Cuesta 25 soles menos
 
 [SUNBEAN_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta amarilla, productora de soles
@@ -70310,7 +70273,7 @@ Sobrevive al ataque zombi
 Boniato
 
 [SWEETPOTATO_AVATAR_NAME]
-Moñito rojo
+Corbatín rojo
 
 [SWEETPOTATO_AVATAR_PLANTFOOD_DESCRIPTION]
 Recupera toda su salud al final del efecto.
@@ -70338,7 +70301,7 @@ Atrae zombis de otras líneas cuando se acercan. ^D22808^Atracción: área 1x3^o
 Su salud aumenta en un 20% adicional.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL3_DES]
-Su salud aumenta en un 30% adicional.
+Su salud aumenta en un 40% adicional.
 
 [SWEETPOTATO_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
@@ -71493,7 +71456,7 @@ Escupe bolas de rayos que dañan a los zombis cercanos
 Tomillo tiempillo
 
 [THYMEWARP_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Se recarga un 20% más rápido.
 
 [THYMEWARP_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
@@ -73865,11 +73828,10 @@ Dulce Navidad
 ¿Deseas ir a la Zona de infinito?
 
 [UNCHARTED_ENTRY_DESCRIPTION]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para desbloquear el Modo difícil.
-2. Tras completar un nivel por primera vez, recibirás recompensas por ello.
-3. Se necesitan Llaves del espacio-tiempo para viajar hacia los niveles del Modo difícil.
-4. Hay objetivos extra en el Modo difícil. Después de completarlos, obtendrás Estrellas secretas.
-5. Después de acumular una cantidad determinada de Estrellas secretas, podrás canjearlas por Recompensas y, finalmente, por Objetos de colección.
+1. Completa los niveles y gana premios por primera limpieza.
+2. Los niveles del modo difícil requieren llaves para desbloquearse.
+3. Alcanza los objetivos extra del modo difícil para obtener premios extra.
+4. Puedes canjear los artículos acumulables por premios en la Tienda oculta.
 
 [UNCHARTED_ENTRY_DESCRIPTION_TITLE]
 ¿CÓMO JUGAR?
@@ -73893,7 +73855,7 @@ Conquistador de Halloween
 Césped
 
 [UNCHARTED_HAYSTACK_AVATAR_PLANTFOOD_DESCRIPTION]
-^FF0000^El atuendo no altera su efecto de Nutrientes.^oldclr^
+Cuesta 15 soles menos
 
 [UNCHARTED_HAYSTACK_DESCRIPTION]
 {KEYWORD}Especial: {STAT}permite plantar en trincheras
@@ -74617,59 +74579,6 @@ ABRIR
 
 [UPDATED_WEEKLY]
 Actualizado semanalmente
-
-[UPDATE_DOWNLOADED_BODY]
-Se han descargado los datos de la actualización.
-Toca Aceptar para aplicar el parche.
-
-[UPDATE_DOWNLOAD_PROGRESS]
-Progreso de descarga: {DOWNLOAD_PCT}%
-
-[UPDATE_FIRST_TIME_USER_DOWNLOADED_BODY]
-Se descargaron los datos para el juego completo. Pulsa Aceptar para aplicar el parche o CANCELAR para seguir jugando en los niveles iniciales con gráficos de menor resolución.
-
-[UPDATE_FIRST_TIME_USER_DOWNLOADED_BODY_FORCED]
-Se descargaron los datos del juego. Toca Aceptar para aplicar el parche.
-
-[UPDATE_PATCHING_PROGRESS]
-Aplicando parche: {DOWNLOAD_PCT}%
-
-[UPDATE_REQUIRED_BODY]
-Actualización necesaria.
-Toca Aceptar para descargar la actualización ahora.
-
-[UPDATE_RESTART_BODY]
-Se han descargado los datos de la actualización.
-Reinicia el juego para aplicar los cambios.
-
-[UPDATE_REWARD_BODY]
-Regalo Misterioso x1, Joyas x30, Monedas x50000.
-
-[UPDATE_REWARD_CONTENT]
-¡Hola, jugador! Bienvenido de vuelta a ^FF0000 Plantas vs. Zombis 2 ^oldclr.
-
-Hemos preparado un pequeño ^FF0000 Regalo ^oldclr para ti. ¡A que te gustará!
-
-[UPDATE_REWARD_GET_BUTTON]
-RECIBIR
-
-[UPDATE_REWARD_RANDOM_GIFT]
-Regalo misterioso
-
-[UPDATE_REWARD_TITLE]
-Puedes recibir premios tras actualizar el juego.
-
-[UPDATE_RIGHT_NOW]
-ACTUALIZAR
-
-[UPDATE_UNKNOWN_ERROR_BODY]
-Se ha producido un error desconocido.
-
-[UPDATE_UNKNOWN_ERROR_HEADER]
-Error desconocido
-
-[UPDATE_VERIFICATION_PROGRESS]
-Puliendo zombis, verificando contenido: {DOWNLOAD_PCT}%
 
 [UPGRADE]
 Mejora
