@@ -17424,7 +17424,7 @@ Tus movimientos se agotaron, ¿deseas gastar ^00e46e^{GEM_COUNT} Joyas^oldclr^ p
 [ELITE_ZOMBIE_TIPS_TEXT_KONGFU_ZOMBOSS_QIGONG]
 ^DB8117^Escudo de oro: ^A0522D^bloquea el daño recibido durante un tiempo^oldclr^
 ^FF8000^Atributos del escudo: ^A0522D^otorga resistencia al hielo o fuego^oldclr^
-^98FB98^Curación: ^A0522D^recupera salud mientras se cubre del daño^oldclr^
+^D22808^Curación: ^A0522D^recupera salud mientras se cubre del daño^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_MIRROR_QUEEN_PHASE1]
 ^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
@@ -18288,8 +18288,7 @@ Piezas de plantas
 Sobres rojos
 
 [FESTIVALGAMELEVEL_AVATARSPIECE_REWARD]
-Puedes conseguir:
-^FFFF00 Piezas de Atuendos
+^FFFF00^Obtén piezas de atuendos^oldclr^
 
 [FESTIVALGAMELEVEL_HARD_TITLE]
 Difícil
@@ -18301,11 +18300,10 @@ Legendario
 Normal
 
 [FESTIVALGAMELEVEL_PLANTPIECE_REWARD]
-Puedes conseguir:
-^FFFF00 Piezas de plantas
+^FFFF00^Obtén piezas de plantas^oldclr^
 
 [FESTIVALGAMEMODE_CAISHEN_TITLE]
-Dios de las Riquezas
+Dios de la Riqueza
 
 [FESTIVALGAMEMODE_CANNONGAME_TITLE]
 Cañones fuera
@@ -18333,7 +18331,7 @@ Los boletos expiran
 ^FF0000^Los boletos se reinician al día siguiente, úsalos cuanto antes.^oldclr^
 
 [FESTIVALGAME_LEFTTIME_TIP_AD]
-¿Deseas ^3827F5^gastar {GEM_COUNT} Joyas^oldclr o ^3827F5^ver un anuncio^oldclr para conseguir ^FF8000^1 boleto^oldclr^?
+¿Deseas ^3827F5^gastar {GEM_COUNT} Joyas^oldclr^ o ^3827F5^ver un anuncio^oldclr^ para conseguir ^FF8000^1 boleto^oldclr^?
 ^FF0000^Los boletos se reinician al día siguiente, úsalos cuanto antes.^oldclr^
 
 [FESTIVALGAME_MONTHLY_CARD_LEFTTIME_TIP]
@@ -18341,11 +18339,11 @@ Los boletos expiran
 ^E2725B^Boletos extra por membresía VIP. ^FF0000^Se reinician al día siguiente, úsalos cuanto antes.^oldclr^
 
 [FESTIVALGAME_MONTHLY_CARD_LEFTTIME_TIP_AD]
-¿Deseas ^3827F5^gastar {GEM_COUNT} Joyas^oldclr o ^3827F5^ver un anuncio^oldclr^ para conseguir ^FF8000^1 boleto^oldclr^?
+¿Deseas ^3827F5^gastar {GEM_COUNT} Joyas^oldclr^ o ^3827F5^ver un anuncio^oldclr^ para conseguir ^FF8000^1 boleto^oldclr^?
 ^E2725B^Boletos extra por membresía VIP. ^FF0000^Se reinician al día siguiente, úsalos cuanto antes.^oldclr^
 
 [FESTIVALGAME_OPEN_TIME]
-Disponible los:
+^FF0000^Disponible:
 
 [FESTIVALGAME_TITLE]
 Retos diarios
@@ -19398,7 +19396,7 @@ Contiene ^D22808^10-90^oldclr^ Piezas + planta de calidad ^3365ce^rara^oldclr^ a
 
 [GACHA_ITEM_LEGEND_DES]
 Recibes ^DB8117^{NUMBER} Monedas^oldclr^ y algunas Piezas.
-^A0522D^Calidad:^oldclr^ ^7300c7^épica^oldclr o ^ef7600^legendaria^oldclr^
+^A0522D^Calidad:^oldclr^ ^7300c7^épica^oldclr^ o ^ef7600^legendaria^oldclr^
 
 [GACHA_ITEM_LEGEND_HEADER]
 Cofre legendario
@@ -22388,9 +22386,9 @@ Lotes de crecimiento
 
 [GROWTH_PACKAGE_DESCRIPTION]
 1. Se actualizan hasta 3 tipos de lotes todos los días a las 12:00 AM.
-2. El contenido de los lotes incluye Piezas de Plantas, Pociones, Piezas de Atuendos, Piezas de Colgantes, Piezas de Súper-colgantes, entre otros.
-3. Cada lote está limitado a una compra por día y los puntos correspondientes se obtendrán después de la compra. Los puntos se pueden usar para conseguir recompensas adicionales.
-4. Los puntos acumulados se restablecerán a las 12:00 AM del primer día de cada mes.
+2. Cada lote contiene materiales útiles que puedes usar para mejorar tus plantas.
+3. Obtienes puntos al comprar lotes. Úsalos para obtener premios adicionales.
+4. Los puntos acumulados se restablecen al final de temporada. ¡No olvides reclamar tus premios!
 
 [GROWTH_PACKAGE_DESCRIPTION_TITLE]
 Lotes de crecimiento
@@ -47381,31 +47379,43 @@ Congelar
 Envenenar
 
 [PLANT_SPECIAL_TAG_9]
-Paralizar
+Shock
 
 [PLANT_SPECIAL_TAG_11]
 Hipnotizar
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_1]
-Causa daño continuo a los zombis. Su ataque reduce la Resistencia ígnea de los Zombis de élite en 10 puntos.
+^DB8117^Atributos: ^A0522D^sus quemaduras causan daño continuo a los zombis^oldclr^
+
+^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia ígnea ^A0522D^de los zombis de élite en 10 puntos^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_3]
-Aturde zombis por un tiempo. Su ataque reduce la Resistencia física de los Zombis de élite en 10 puntos.
+^DB8117^Atributos: ^A0522D^puede aturdir zombis con sus ataques^oldclr^
+
+^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia física ^A0522D^de los zombis de élite en 10 puntos^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_5]
-Congela zombis por un tiempo. Su ataque reduce la Resistencia gélida de los Zombis de élite en 10 puntos.
+^DB8117^Atributos: ^A0522D^puede congelar zombis con sus ataques^oldclr^
+
+^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia gélida ^A0522D^de los zombis de élite en 10 puntos^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_7]
-Envenena zombis por un tiempo. Su ataque reduce la Resistencia venenosa de los Zombis de élite en 10 puntos.
+^DB8117^Atributos: ^A0522D^puede envenenar zombis con sus ataques^oldclr^
+
+^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia al veneno ^A0522D^de los zombis de élite en 10 puntos^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_9]
-Paraliza zombis por un tiempo. Su ataque reduce la Resistencia eléctrica de los Zombis de élite en 10 puntos.
+^DB8117^Atributos: ^A0522D^sus ataques eléctricos causan shock en los zombis, inmovilizándolos un tiempo^oldclr^
+
+^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia eléctrica ^A0522D^de los zombis de élite en 10 puntos^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_11]
-Hipnotiza zombis. Su ataque reduce la Resistencia mágica de los Zombis de élite en 10 puntos.
+^DB8117^Atributos: ^A0522D^hipnotiza o transforma zombis con magia^oldclr^
+
+^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia mágica ^A0522D^de los zombis de élite en 10 puntos^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TITLE]
-^2f8101^Resiliencia^oldclr^
+^2f8101^Resistencia y resiliencia^oldclr^
 
 [PLANT_TAG_1]
 Sanador
@@ -56047,10 +56057,9 @@ Búsqueda de Penny
 BIBLIOTECA DE VENTAJAS
 
 [RIFT_LIBRARY_TIPS_DESCRIPTION]
-1. Antes de que comience una partida, los jugadores podrán elegir que Ventajas se llevarán consigo en un nivel.
-2. Pueden llevarse hasta tres Ventajas en un nivel: la primera se selecciona de forma gratuita y las dos son adicionales que requieren de Joyas para utilizarse en un nivel.
-3. Las Ventajas se desbloquean conforme se completen Objetivos extra, y a la vez, pueden mejorarse de nivel conforme completes más objetivos.
-4. Después de que termine una Temporada de La Búsqueda de Penny, se reiniciarán las Ventajas obtenidas, el Progreso de Ventajas y los respectivos niveles de las Ventajas de la temporada anterior.
+1. Puedes elegir hasta 3 ventajas antes de empezar una partida.
+2. Completa objetivos extra para desbloquear ventajas y mejorarlas.
+3. El progreso de ventajas se reinicia entre temporadas.
 
 [RIFT_MODE_0]
 Mecánica 0
@@ -56133,519 +56142,27 @@ Tu puntación en este nivel: {NUMS}
 Recompensas
 
 [RIFT_SEASON_END_NOTICE_CONTENT]
-1. La temporada ha terminado, y este ciclo no puede completarse otra vez, le pedimos a los jugadores que aprovechen el tiempo en la Tienda del espacio-tiempo para canjear sus recompensas preferidas.
-2. Al final de la temporada, el progreso, tanto en mejoras como en los niveles completados, se restablecerá.
-3. La nueva temporada comenzará el próximo período, ¡te esperamos allá!
+La temporada actual ha llegado a su fin. Aprovecha y canjea tus premios favoritos en la Tienda antes del nuevo ciclo.
+
+La nueva temporada comenzará el próximo período, ¡te esperamos allá!
 
 [RIFT_SEASON_END_NOTICE_TITLE]
 Fin de la temporada
 
 [RIFT_SEASON_END_STORE_TIP]
-A medida que comienza la nueva temporada y tus progresos se restablecen, ¡date prisa y canjea tus artículos favoritos en la Tienda!
+Fin de la temporada. Aprovecha y canjea tus premios favoritos antes del nuevo ciclo.
 
 [RIFT_SEASON_END_STORE_TITLE]
 AVISOS
 
 [RIFT_SEASON_END_TIP]
-La temporada actual ha finalizado, no se puede iniciar una partida hasta que empiece una temporada nueva.
+La temporada actual ha finalizado. No se puede iniciar una partida hasta que empiece una temporada nueva.
 
 [RIFT_TIMER_HOURS]
 {HOURS}h
 
 [RIFT_TIMER_SECONDS]
 {SECONDS}s
-
-[RIFT_TITLE_TEXT_01]
-¡La invasión de Roma!
-
-[RIFT_TITLE_TEXT_02]
-Romanos caminantes
-
-[RIFT_TITLE_TEXT_03]
-Roma a la vista
-
-[RIFT_TITLE_TEXT_04]
-Rarezas de la Edad de Hierro
-
-[RIFT_TITLE_TEXT_05]
-Enredos imperiales
-
-[RIFT_TITLE_TEXT_06]
-¡Vidi, Vici, CEREBROZ!
-
-[RIFT_TITLE_TEXT_07]
-Plantas contra romanos
-
-[RIFT_TITLE_TEXT_08]
-Legiones de zombis
-
-[RIFT_TITLE_TEXT_09]
-¡Vienen algunos zombis romanos!
-
-[RIFT_TITLE_TEXT_10]
-Roma dulce Roma
-
-[RIFT_TITLE_TEXT_11]
-César contra ensalada I
-
-[RIFT_TITLE_TEXT_12]
-¡¿No te lo estás pasando bien?!
-
-[RIFT_TITLE_TEXT_13]
-Rumbo a Roma
-
-[RIFT_TITLE_TEXT_14]
-Regreso al antiguo futuro
-
-[RIFT_TITLE_TEXT_15]
-Malos pelos
-
-[RIFT_TITLE_TEXT_16]
-César contra ensalada II
-
-[RIFT_TITLE_TEXT_17]
-Edad más Oscura
-
-[RIFT_TITLE_TEXT_18]
-Columna como si las vieras
-
-[RIFT_TITLE_TEXT_19]
-Adiós, gladiador
-
-[RIFT_TITLE_TEXT_20]
-¡Chao, chao!
-
-[RIFT_TITLE_TEXT_21]
-Saquea los Mares piratas
-
-[RIFT_TITLE_TEXT_22]
-ZCorp SA
-
-[RIFT_TITLE_TEXT_23]
-¡ZCorp SA busca personal!
-
-[RIFT_TITLE_TEXT_24]
-Impulsamos la Zinergía
-
-[RIFT_TITLE_TEXT_25]
-Opciones de tallo
-
-[RIFT_TITLE_TEXT_26]
-Ciudad perdida de la perdición
-
-[RIFT_TITLE_TEXT_27]
-Grandes mentirosillos
-
-[RIFT_TITLE_TEXT_28]
-Vicepresidente ejecutivo de ABCDEFG
-
-[RIFT_TITLE_TEXT_29]
-Fusiones, adquisiciones y CEREBROZ
-
-[RIFT_TITLE_TEXT_30]
-Pensar de forma menos cuadriculada
-
-[RIFT_TITLE_TEXT_31]
-Método ágil
-
-[RIFT_TITLE_TEXT_32]
-Despidos de plantas
-
-[RIFT_TITLE_TEXT_33]
-Ascenso en el campo
-
-[RIFT_TITLE_TEXT_34]
-Cultivar el talento
-
-[RIFT_TITLE_TEXT_35]
-Romper techos de césped
-
-[RIFT_TITLE_TEXT_36]
-Salvaje Oeste
-
-[RIFT_TITLE_TEXT_37]
-Tierra plantada
-
-[RIFT_TITLE_TEXT_38]
-Rocío o no rocío
-
-[RIFT_TITLE_TEXT_39]
-¡Adelante, fruta!
-
-[RIFT_TITLE_TEXT_40]
-Estambre de poder
-
-[RIFT_TITLE_TEXT_41]
-La cereza está en el interior
-
-[RIFT_TITLE_TEXT_42]
-Un hurra por el Asistente
-
-[RIFT_TITLE_TEXT_43]
-Dificultades técnicas
-
-[RIFT_TITLE_TEXT_44]
-Pasaba por aquí
-
-[RIFT_TITLE_TEXT_45]
-Las hazañas del Asistente
-
-[RIFT_TITLE_TEXT_46]
-Salta a la acción
-
-[RIFT_TITLE_TEXT_47]
-Brote sin sentido
-
-[RIFT_TITLE_TEXT_48]
-Nociones florecientes
-
-[RIFT_TITLE_TEXT_49]
-Valles verdes
-
-[RIFT_TITLE_TEXT_50]
-Ararse paso
-
-[RIFT_TITLE_TEXT_51]
-Hasta la próxima cosecha
-
-[RIFT_TITLE_TEXT_52]
-Fondo de semillas
-
-[RIFT_TITLE_TEXT_53]
-Hasta luego, regadío
-
-[RIFT_TITLE_TEXT_54]
-Un, dos, tres, árbol
-
-[RIFT_TITLE_TEXT_55]
-¡Foliz cumpleañoz!
-
-[RIFT_TITLE_TEXT_56]
-Locura del Pantano del Jurásico
-
-[RIFT_TITLE_TEXT_57]
-Los Muertos Panchos
-
-[RIFT_TITLE_TEXT_58]
-Tojo tejo
-
-[RIFT_TITLE_TEXT_59]
-Tremenda Tremolacha
-
-[RIFT_TITLE_TEXT_60]
-Poli de jardinería
-
-[RIFT_TITLE_TEXT_61]
-Dehesafío total
-
-[RIFT_TITLE_TEXT_62]
-Ejuncotor
-
-[RIFT_TITLE_TEXT_63]
-Cono y el Ruibárbaro
-
-[RIFT_TITLE_TEXT_64]
-Germinador
-
-[RIFT_TITLE_TEXT_65]
-Comango
-
-[RIFT_TITLE_TEXT_66]
-Las Cuevas ultracongeladas I
-
-[RIFT_TITLE_TEXT_67]
-Sabios consejos
-
-[RIFT_TITLE_TEXT_68]
-Células madrastra
-
-[RIFT_TITLE_TEXT_69]
-Las Cuevas ultracongeladas II
-
-[RIFT_TITLE_TEXT_70]
-Jefe de los aburridos
-
-[RIFT_TITLE_TEXT_71]
-Arenga de taburete
-
-[RIFT_TITLE_TEXT_72]
-Atleta de ratas
-
-[RIFT_TITLE_TEXT_73]
-Flor de ZCorp
-
-[RIFT_TITLE_TEXT_74]
-Carrera de choques
-
-[RIFT_TITLE_TEXT_75]
-Asiento ardiente
-
-[RIFT_TITLE_TEXT_76]
-Capítulo 11
-
-[RIFT_TITLE_TEXT_77]
-Los Juegos de la Gusa
-
-[RIFT_TITLE_TEXT_78]
-¡Contienda de comida!
-
-[RIFT_TITLE_TEXT_79]
-Coma por comida
-
-[RIFT_TITLE_TEXT_80]
-Un diciembre para desmembrar
-
-[RIFT_TITLE_TEXT_81]
-Feliz Rebotar
-
-[RIFT_TITLE_TEXT_82]
-Regreso al futuro lejano II
-
-[RIFT_TITLE_TEXT_83]
-Visión caleidoscópica
-
-[RIFT_TITLE_TEXT_84]
-Rayos de col
-
-[RIFT_TITLE_TEXT_85]
-La raíz del asunto
-
-[RIFT_TITLE_TEXT_86]
-La Edad aún más Oscura
-
-[RIFT_TITLE_TEXT_87]
-Tierra y agua
-
-[RIFT_TITLE_TEXT_88]
-Sal y chiles
-
-[RIFT_TITLE_TEXT_89]
-Pan y nueces
-
-[RIFT_TITLE_TEXT_90]
-Mares piratas crecientes
-
-[RIFT_TITLE_TEXT_91]
-Las rosas son muy monas
-
-[RIFT_TITLE_TEXT_92]
-Las violetas son lindas
-
-[RIFT_TITLE_TEXT_93]
-Las fresas no son bayas
-
-[RIFT_TITLE_TEXT_94]
-Los tomates son frutas
-
-[RIFT_TITLE_TEXT_95]
-No todas las naranjas son naranjas
-
-[RIFT_TITLE_TEXT_96]
-Y las zanahorias son raíces
-
-[RIFT_TITLE_TEXT_97]
-Palos y piedras
-
-[RIFT_TITLE_TEXT_98]
-El horroróscopo de hoy
-
-[RIFT_TITLE_TEXT_99]
-¡Minúsculo Ranúnculo!
-
-[RIFT_TITLE_TEXT_100]
-Aún más Salvaje Oeste
-
-[RIFT_TITLE_TEXT_101]
-¡Marca Z para zombis!
-
-[RIFT_TITLE_TEXT_102]
-Sabor a zombi
-
-[RIFT_TITLE_TEXT_103]
-Tombatina
-
-[RIFT_TITLE_TEXT_104]
-Había una vez un circo del patio
-
-[RIFT_TITLE_TEXT_105]
-Fuerza bruta
-
-[RIFT_TITLE_TEXT_106]
-El juego de la rosquilla
-
-[RIFT_TITLE_TEXT_107]
-La fruta de la tumba
-
-[RIFT_TITLE_TEXT_108]
-Masticando la Ciudad perdida
-
-[RIFT_TITLE_TEXT_109]
-El despacho de los no-vivos
-
-[RIFT_TITLE_TEXT_110]
-Buen provecho al acecho
-
-[RIFT_TITLE_TEXT_111]
-Línea de muertos vivientes
-
-[RIFT_TITLE_TEXT_112]
-Enraizar y disparar
-
-[RIFT_TITLE_TEXT_113]
-¡Hielo fácil!
-
-[RIFT_TITLE_TEXT_114]
-El comienzo de Chile gélido
-
-[RIFT_TITLE_TEXT_115]
-Final inesperado
-
-[RIFT_TITLE_TEXT_116]
-Escala profesional zombi
-
-[RIFT_TITLE_TEXT_117]
-Logística zombi romana
-
-[RIFT_TITLE_TEXT_118]
-Por la borda
-
-[RIFT_TITLE_TEXT_119]
-Consecuencias zombi
-
-[RIFT_TITLE_TEXT_120]
-Granizada desatada
-
-[RIFT_TITLE_TEXT_121]
-Hogar, nevado hogar
-
-[RIFT_TITLE_TEXT_122]
-Canción de hielo y frío
-
-[RIFT_TITLE_TEXT_123]
-Enfriar o no enfriar
-
-[RIFT_TITLE_TEXT_124]
-Amor a friolera vista
-
-[RIFT_TITLE_TEXT_125]
-Declaración de la menta
-
-[RIFT_TITLE_TEXT_126]
-Con mantequilla
-
-[RIFT_TITLE_TEXT_127]
-Cerebroz y bolloz
-
-[RIFT_TITLE_TEXT_128]
-Electrizar la ciudad
-
-[RIFT_TITLE_TEXT_129]
-Botas con espuelas
-
-[RIFT_TITLE_TEXT_130]
-Trebolador de cuatro hojas
-
-[RIFT_TITLE_TEXT_131]
-Maíz azul y cerebroz
-
-[RIFT_TITLE_TEXT_132]
-Raíces del mal
-
-[RIFT_TITLE_TEXT_133]
-Banquete floral
-
-[RIFT_TITLE_TEXT_134]
-Cosecha terrorífica
-
-[RIFT_TITLE_TEXT_135]
-Apocalipsis verde
-
-[RIFT_TITLE_TEXT_136]
-Zombis en juliana
-
-[RIFT_TITLE_TEXT_137]
-Toque de Margarita
-
-[RIFT_TITLE_TEXT_153]
-Cardo silbante
-
-[RIFT_TITLE_TEXT_155]
-Rayo solar
-
-[RIFT_TITLE_TEXT_157]
-Brote dorado
-
-[RIFT_TITLE_TEXT_159]
-Calabazas dispares
-
-[RIFT_TITLE_TEXT_161]
-Boniato de fuego
-
-[RIFT_TITLE_TEXT_167]
-Esbozo y vista
-
-[RIFT_TITLE_TEXT_168]
-Margarita invernal
-
-[RIFT_TITLE_TEXT_174]
-Nuez explosiva
-
-[RIFT_TITLE_TEXT_175]
-Cirquito
-
-[RIFT_TITLE_TEXT_178]
-Nomeheleches
-
-[RIFT_TITLE_TEXT_180]
-La sombra lo sabe
-
-[RIFT_TITLE_TEXT_181]
-Lodazal
-
-[RIFT_TITLE_TEXT_183]
-Perdido en los pinos
-
-[RIFT_TITLE_TEXT_184]
-Destellos del paso
-
-[RIFT_TITLE_TEXT_185]
-Mentiras abrasadas
-
-[RIFT_TITLE_TEXT_187]
-Felices para siempre
-
-[RIFT_TITLE_TEXT_188]
-Apagón
-
-[RIFT_TITLE_TEXT_189]
-¡Electrocútalo!
-
-[RIFT_TITLE_TEXT_190]
-Ajusta-menta
-
-[RIFT_TITLE_TEXT_191]
-¡Aloe! ¡Al bosque a trabajar!
-
-[RIFT_TITLE_TEXT_192]
-Bloquéame.
-
-[RIFT_TITLE_TEXT_200]
-Un vegetal al rojo vivo
-
-[RIFT_TITLE_TEXT_201]
-Chile rojo -Chile rojo
-
-[RIFT_TITLE_TEXT_202]
-¡Guerra de guisantes!
-
-[RIFT_TITLE_TEXT_203]
-Situación vegiaguda
-
-[RIFT_TITLE_TEXT_BASE]
-¡El mundo de {PLANT}!
-
-[RIFT_TITLE_TEXT_COMMON]
-Viaje a las grietas
 
 [RIFT_TOURNAMENT_LEAGUE_RESULT_DEMOTED]
 (Degradado)
@@ -56658,9 +56175,6 @@ Viaje a las grietas
 
 [RIFT_TOURNAMENT_PLACEMENT_RANK]
 {NUMBER}°
-
-[RIFT_UPDATE_AVAILABLE]
-Hay disponible una nueva actualización de La Búsqueda de Penny. ¡Actualiza ahora!
 
 [RIFT_WORLD_THEME_TITLE]
 Mecánica de esta semana:
@@ -65671,12 +65185,6 @@ Tienda del Renacimiento
 [STATUS_NUM]
 Número de estatuas
 
-[STAT_ANGERMETER]
-LÍMITE DE FURIA
-
-[STAT_AOE_FOCUS]
-DAÑO DE ÁREA (CONCENTRADO)
-
 [STAT_AREA]
 ÁREA
 
@@ -65704,77 +65212,11 @@ Radio
 [STAT_AREA_SQUARE]
 Casilla
 
-[STAT_ARMINGTIME]
-TIEMPO DE ARMADO
-
-[STAT_ARMINGTIME0]
-Lento
-
-[STAT_ARMINGTIME1]
-Mediocre
-
-[STAT_ATTACK_RANGE]
-ALCANCE (CASILLAS)
-
 [STAT_ATTRIBUTE]
 Atributo
 
-[STAT_BOOST]
-Maestría: probabilidad de ser potenciada
-
-[STAT_BUSTTARGETS]
-ROMPER OBJETIVOS
-
-[STAT_BUTTER_PROJECTILE_COUNT]
-PROYECTILES DE MANTEQUILLA
-
-[STAT_BUTTER_PROJECTILE_DAMAGE]
-DAÑO PROYECTILES MANTEQUILLA
-
-[STAT_CLOSE_ATTACK_DAMAGE]
-Daño de ataque a corta distancia
-
-[STAT_COCOON_CHANCE]
-PROBABILIDAD DE CAPULLO
-
-[STAT_COOLDOWN_SPAWN]
-RECARGA DE GENERACIÓN
-
-[STAT_COWERBOOST]
-DEFENSA COBARDE
-
-[STAT_CP-ACTIONDAMAGE]
-DAÑO
-
-[STAT_CP-CHILLTIME]
-ENFRIAR
-
-[STAT_CP-FREEZETIME1]
-CONGELAR
-
-[STAT_CP-FREEZETIME2]
-RADIO DE CONGELAMIENTO
-
-[STAT_CP-RADIUSDAMAGE]
-DAÑO DE ZONA CIRCULAR
-
-[STAT_CRANJELLY_GOODAMAGE]
-DAÑO DE PRINGUE
-
-[STAT_CRANJELLY_GOOLIFETIME]
-TIEMPO DE PRINGUE
-
-[STAT_CRANJELLY_SPAWNS]
-GELATINADORAS GENERADAS
-
 [STAT_DAMAGE]
 DAÑO
-
-[STAT_DAMAGE_3X3DAMAGE]
-DAÑO 3x3
-
-[STAT_DAMAGE_BOOSTED]
-DAÑO (POTENCIADO)
 
 [STAT_DAMAGE_DAMAGE0]
 Ninguno
@@ -65797,227 +65239,26 @@ Enorme
 [STAT_DAMAGE_DAMAGE6]
 Masivo
 
-[STAT_DAMAGE_ELECTRIFIED]
-DAÑO ELECTRIFICADO ADICIONAL
-
-[STAT_DAMAGE_FOCUS]
-DAÑO (CONCENTRADO)
-
-[STAT_DAMAGE_GRIDITEM]
-Daño de artículo de red
-
-[STAT_DAMAGE_GROUNDED]
-DAÑO (EN SUELO)
-
-[STAT_DAMAGE_GROUNDED_PF]
-NUTRIENTES (EN SUELO)
-
-[STAT_DAMAGE_PER_TICK]
-DAÑO POR IMPACTO
-
-[STAT_DAMAGE_PF_TICK]
-DAÑO/TIEMPO DE NUTRIENTES
-
-[STAT_DAMAGE_SPLASH]
-DISPERSIÓN DE DAÑO
-
-[STAT_DAMAGE_SPREAD]
-DAÑO (DISPERSIÓN)
-
-[STAT_DAMAGE_STAGE1]
-DAÑO FASE 1
-
-[STAT_DAMAGE_STAGE2]
-DAÑO FASE 2
-
-[STAT_DAMAGE_STAGE3]
-DAÑO FASE 3
-
-[STAT_DAMAGE_WATER]
-DAÑO EN EL AGUA
-
-[STAT_DAMAGE_WATERED]
-DAÑO (EN AGUA)
-
-[STAT_DAMAGE_WATERED_PF]
-NUTRIENTES (EN AGUA)
-
-[STAT_DAMAGE_WAVE]
-DAÑO DE LLAMARADAS
-
-[STAT_DRAIN_DURATION]
-Duración del drenaje inicial
-
-[STAT_DURATION]
-DURACIÓN
-
-[STAT_EXPLOSIONS]
-EXPLOSIONES
-
-[STAT_FIRERATE]
-CADENCIA DE DISPARO
-
-[STAT_FIRERATE0]
-Lenta
-
-[STAT_FIRERATE1]
-Mediocre
-
 [STAT_FLAME_RESISTENCE]
 Resist. fuego
 
 [STAT_FROST_RESISTENCE]
 Resist. hielo
 
-[STAT_HEALTH_MASTERY]
-Maestría: bonus a Dureza
-
-[STAT_ICEBLOCK_HEALTH]
-Salud del bloque de hielo
-
-[STAT_ICE_PROJECTILE_COUNT]
-PROYECTILES CON NUTRIENTES
-
 [STAT_INSTANTKILL_RESISTENCE]
 Resist. instakill
-
-[STAT_KNOCKBACK_DISTANCE]
-DISTANCIA DE EMPUJE
-
-[STAT_LABEL_DAMAGE_FIRE]
-DAÑOS DE FUEGO
-
-[STAT_LABEL_DAMAGE_ICE]
-DAÑO DE HIELO
-
-[STAT_LABEL_SPECAIL_CHILLEDBONUS]
-BONIFICACIÓN GÉLIDA
-
-[STAT_LABEL_SPECIAL_FREEZECHANCE]
-PROBABILIDAD DE CONGELACIÓN
-
-[STAT_LANE_FLAME_DAMAGE]
-Daño de fuego de línea
-
-[STAT_LEVITATER_ATTACK_COOLDOWN]
-Tiempo entre levitaciones
-
-[STAT_LEVITATER_PLANTFOOD]
-Oportunidades de obtener Nutrientes para levitar
-
-[STAT_LEVITATER_ZOMBIEKILL]
-Oportunidades de levitar sobre el patio
 
 [STAT_LIGHTNING_RESISTENCE]
 Resist. rayo
 
-[STAT_MAGIC_RECHARGE]
-RECARGA MÁGICA
-
 [STAT_MAGIC_RESISTENCE]
 Resist. magia
-
-[STAT_MF-METEORCOUNT]
-Meteoritos por salva
-
-[STAT_MF-METEORCOUNTPF]
-Meteoritos con nutrientes
-
-[STAT_MF_METEORCOUNT]
-Meteoritos por salva
-
-[STAT_MF_METEORCOUNTPF]
-Meteoritos con nutrientes
-
-[STAT_MGP_CHANCE_TO_PF]
-Oportunidades de obtener Nutrientes
-
-[STAT_PFDAMAGE]
-DAÑO DE NUTRIENTES
-
-[STAT_PF_COCOON]
-CAPULLO DE NUTRIENTES
-
-[STAT_PF_DURATION]
-DURACIÓN DE NUTRIENTES
-
-[STAT_PF_POWER]
-Daño de nutrientes
-
-[STAT_PF_ZOMBIE_COUNT]
-NÚMERO DE NUTRIENTES CONSUMIDOS
 
 [STAT_PHYSICAL_RESISTENCE]
 Resist. física
 
-[STAT_PIERCING]
-Maestría: daño perforante
-
-[STAT_PLANTFOOD_DAMAGE_BOOSTED]
-DAÑO DE NUT. (POTENCIADO)
-
-[STAT_PLANTFOOD_DAMAGE_SPLASH]
-DISPERSIÓN DE DAÑO DE NUT.
-
-[STAT_PLANTFOOD_POWER]
-PODER DE NUTRIENTES
-
-[STAT_PLANTFOOD_POWER_ARMOR]
-Blindaje
-
-[STAT_PLANTFOOD_POWER_BEAM]
-Potencia de rayo
-
-[STAT_PLANTFOOD_POWER_BURSTS]
-Ráfagas
-
-[STAT_PLANTFOOD_POWER_CABBAGECOUNT]
-Número de coles
-
-[STAT_PLANTFOOD_POWER_DAMAGE]
-Daño
-
-[STAT_PLANTFOOD_POWER_DUPLICATION]
-Duplicado
-
-[STAT_PLANTFOOD_POWER_DURATION]
-Duración
-
-[STAT_PLANTFOOD_POWER_FREEZEBURSTS]
-Ráfagas congelantes
-
-[STAT_PLANTFOOD_POWER_OVERHEAL]
-Supercuración
-
-[STAT_PLANTFOOD_POWER_THUNDERCLAP]
-Ataques de Estruendo
-
-[STAT_PLANTFOOD_POWER_ZOMBIESGUMMED]
-Zombis chicleteados
-
-[STAT_PLANTFOOD_POWER_ZOMBIESIMPED]
-Zombis zombiditados
-
-[STAT_PLANTFOOD_POWER_ZOMBIESMAGICKED]
-Zombis hechizados
-
-[STAT_PLANTFOOD_PROJECTILES]
-NÚMERO DE PROYECTILES CON NUTRIENTES
-
-[STAT_PLANTFOOD_SWALLOWS]
-Traga zombis
-
-[STAT_PLANTFOOD_TIGER_UPGRADE]
-Tigre definitivo
-
-[STAT_POISON_BOOSTED]
-DAÑO DE VENENO (POTENCIADO)
-
 [STAT_POISON_RESISTENCE]
 Resist. veneno
-
-[STAT_PROJECTILEVOLLEY]
-SALVA DE PROYECTILES
 
 [STAT_RANGE]
 ALCANCE
@@ -66058,9 +65299,6 @@ Al contacto
 [STAT_RECHARGE]
 RECARGA
 
-[STAT_RECHARGE_BEE]
-RECARGA DE ATAQUE
-
 [STAT_RECHARGE_RECHARGE0]
 Muy lenta
 
@@ -66075,15 +65313,6 @@ Mediocre
 
 [STAT_RECHARGE_RECHARGE4]
 Rápida
-
-[STAT_RECOVERY]
-TIEMPO DE RECUPERACIÓN
-
-[STAT_RECOVERY1]
-Normal
-
-[STAT_REGRESSIONTIMER]
-TEMPORIZADOR DE REGRESIÓN
 
 [STAT_RESISTENCE_A]
 A
@@ -66103,308 +65332,8 @@ S
 [STAT_RESISTENCE_SS]
 SS
 
-[STAT_SHOCKWAVES]
-NÚMERO DE ONDAS EXPANSIVAS
-
-[STAT_SHOTSPEED]
-VELOCIDAD DE DISPARO
-
-[STAT_SHOTSPEED1]
-Normal
-
-[STAT_SPAWN_COUNT]
-NÚMERO DE SETAS GENERADAS
-
 [STAT_SPECIAL]
 Especial
-
-[STAT_SPECIAL_AMPHIBIOUS]
-Anfibia
-
-[STAT_SPECIAL_AUTOBOOST]
-Automejora
-
-[STAT_SPECIAL_BARRIER]
-Fuerza de barrera
-
-[STAT_SPECIAL_BASEGUMHEALTH]
-Salud chiclosa
-
-[STAT_SPECIAL_BEECOUNT]
-NÚMERO DE ABEJAS
-
-[STAT_SPECIAL_BEERECHARGE]
-TIEMPO DE RECARGA DE ABEJAS
-
-[STAT_SPECIAL_BLOW]
-Duración del soplido
-
-[STAT_SPECIAL_BONUSMAX]
-Bonus de daño máximo
-
-[STAT_SPECIAL_BUSTSPEED]
-Velocidad de consumo
-
-[STAT_SPECIAL_CAPACITY]
-Capacidad pocera
-
-[STAT_SPECIAL_CHAINMULTIPLIER]
-Multiplicador de cadena de bombas
-
-[STAT_SPECIAL_CHANCE]
-Probabilidad de daños críticos
-
-[STAT_SPECIAL_CHANCEFREEZE]
-Posibilidad de congelar
-
-[STAT_SPECIAL_CHEW]
-Velocidad de masticado
-
-[STAT_SPECIAL_CHILL]
-Refrescar
-
-[STAT_SPECIAL_COLLECTSUN]
-Recolección de soles
-
-[STAT_SPECIAL_CORPSEEXPLOSIONDAMAGE]
-Daño de explosión zombi
-
-[STAT_SPECIAL_COSTEFFICIENCY]
-Eficiencia de coste
-
-[STAT_SPECIAL_DAMAGEBONUS]
-Bonus por planta
-
-[STAT_SPECIAL_DAMAGEMIRRORED]
-Daño replicado
-
-[STAT_SPECIAL_DESTROYOBJECTS]
-Destruir objetos
-
-[STAT_SPECIAL_ELECSLOW]
-Ralentización electrificada
-
-[STAT_SPECIAL_ELECTRIFIED]
-Daño periódico por electrificación
-
-[STAT_SPECIAL_EXPLODE]
-Explotar
-
-[STAT_SPECIAL_FLAMELENGTH]
-Duración de llamas
-
-[STAT_SPECIAL_FOG_SLOW]
-Ralentización de zombis de la niebla
-
-[STAT_SPECIAL_FREETILES]
-Casillas gratis
-
-[STAT_SPECIAL_FREEZE]
-Congelar
-
-[STAT_SPECIAL_GASDURATION]
-Duración del gas
-
-[STAT_SPECIAL_GROW]
-Tiempo de crecimiento
-
-[STAT_SPECIAL_GROWTH]
-Velocidad de crecimiento
-
-[STAT_SPECIAL_HEAL]
-Curar planta
-
-[STAT_SPECIAL_HEALTH]
-Salud de tigre
-
-[STAT_SPECIAL_HEALTH_CONVERSION]
-Salud de la lápida consumible
-
-[STAT_SPECIAL_HYPNOTIZED]
-Curación zombi
-
-[STAT_SPECIAL_ILLUMINATIONPERCENT]
-El zombi ilumina a los demás
-
-[STAT_SPECIAL_IMPINDIGESTION]
-Indigestión de Zombiditos
-
-[STAT_SPECIAL_KNOCKBACK]
-Empujar
-
-[STAT_SPECIAL_LIFESPAN]
-Esperanza de vida
-
-[STAT_SPECIAL_LIGHTNINGDAMAGE]
-Daño de Arco eléctrico
-
-[STAT_SPECIAL_MAXDAMAGE]
-Daño máximo
-
-[STAT_SPECIAL_MAXSTUN]
-Aturdimiento máximo
-
-[STAT_SPECIAL_MAXTARGETS]
-Zombis perforados
-
-[STAT_SPECIAL_MULTISHOT]
-Multidisparo
-
-[STAT_SPECIAL_MURKHEALTH]
-Salud de oscuridad
-
-[STAT_SPECIAL_MURKREGENERATION]
-Regeneración de oscuridad
-
-[STAT_SPECIAL_NOCTARINEBOOST]
-Mejora de daño sombrío
-
-[STAT_SPECIAL_PERFECTSHOT]
-Daños críticos
-
-[STAT_SPECIAL_PFBEECOUNT]
-NÚMERO DE ABEJAS CON NUTRIENTES
-
-[STAT_SPECIAL_PIERCEDAMAGE]
-Daño de perforación
-
-[STAT_SPECIAL_PIERCINGPOWER]
-Poder perforante
-
-[STAT_SPECIAL_PLANTED]
-Soles plantados
-
-[STAT_SPECIAL_PLANTLEVEL]
-Nivel de planta imitada
-
-[STAT_SPECIAL_PLASMAPEA]
-Guisante plasma
-
-[STAT_SPECIAL_POISON]
-Veneno
-
-[STAT_SPECIAL_POWEREDSWALLOWS]
-Tragos potenciados
-
-[STAT_SPECIAL_PUDDLESPAWN]
-PROB. APARICIÓN DE CHARCOS
-
-[STAT_SPECIAL_PULL_CHANCE]
-Probabilidad de tragado de niebla
-
-[STAT_SPECIAL_PUSHES]
-Empujones de hoja
-
-[STAT_SPECIAL_PVINEBOOST]
-Multiplicador de daño
-
-[STAT_SPECIAL_RECHARGE]
-Recarga de dardos
-
-[STAT_SPECIAL_REGENERATION]
-Regeneración
-
-[STAT_SPECIAL_REGENORDER]
-Recargar bulbo
-
-[STAT_SPECIAL_REMOVEOCTOPUS]
-Eliminar pulpo
-
-[STAT_SPECIAL_RESTORELIFE]
-Restaurar vida
-
-[STAT_SPECIAL_REWIND]
-Salud de zombi reiniciada
-
-[STAT_SPECIAL_SHOTBOUNCE]
-Rebotes de disparo
-
-[STAT_SPECIAL_SHOTS]
-Límite de dardos
-
-[STAT_SPECIAL_SHRINK]
-Debilitar zombi
-
-[STAT_SPECIAL_SLOWDOWNFLIERS]
-Voladores al ralentí
-
-[STAT_SPECIAL_SPEARSLAM]
-Golpetazo de lanza
-
-[STAT_SPECIAL_SPIKE]
-Daño de pincho
-
-[STAT_SPECIAL_SPLASH]
-Daño de área
-
-[STAT_SPECIAL_STALL]
-Detener
-
-[STAT_SPECIAL_STUN]
-Aturdir
-
-[STAT_SPECIAL_STUN_1]
-TIEMPO DE ATURDIMIENTO
-
-[STAT_SPECIAL_SUNDEWPFTARGETS]
-Objetivos de nutrientes
-
-[STAT_SPECIAL_SUNDEWTRAPDURATION]
-DURACIÓN DE TRAMPA
-
-[STAT_SPECIAL_TARGET]
-Apuntar a zombi más fuerte
-
-[STAT_SPECIAL_THUNDERCLAP]
-Daño de Estruendo
-
-[STAT_SPECIAL_TORNADODURATION]
-Duración del tornado
-
-[STAT_SPECIAL_TRANSFORM]
-Transformar zombi
-
-[STAT_SPECIAL_TRAPS]
-Trampas
-
-[STAT_SPECIAL_TRIGGERED]
-Sol activado
-
-[STAT_SPECIAL_TURKEYSTRENGTH]
-Nivel de pavo
-
-[STAT_SPECIAL_WARM]
-Radio de calentamiento
-
-[STAT_SPECIAL_WATERDAMAGE]
-Daño en el agua
-
-[STAT_SPECIAL_ZAPPED]
-Zombis electrocutados
-
-[STAT_SPECIAL_ZOMBIE]
-Zombi solar
-
-[STAT_SPECIAL_ZOMBIEGUMHEALTH_PERCENT]
-Mejora de salud chiclosa
-
-[STAT_SPECIAL_ZOMBIEHEAD]
-Daño de cabeza de zombi
-
-[STAT_SPECIAL_ZOMBIESDRAGGED]
-Zombis arrastrados
-
-[STAT_SPECIAL_ZOMBIESSMASHED]
-Zombis aplastados
-
-[STAT_SPECIAL_ZOMBIESUN]
-Hora solar zombi
-
-[STAT_SPECIAL_ZOMBOIDSTRENGTH]
-Nivel de zomboide
-
-[STAT_SPECIAL_ZOMBOIDTYPE]
-Tipo de zomboide
 
 [STAT_SPEED]
 VELOCIDAD
@@ -66426,33 +65355,6 @@ Veloz
 
 [STAT_SPEED_SPEED5]
 Volando
-
-[STAT_SPEICAL_ONDEATH]
-Activación al caer derrotado
-
-[STAT_STAGES]
-MUNDOS DESBLOQUEADOS
-
-[STAT_SUNCOST]
-COSTE EN SOLES
-
-[STAT_SUNPROD]
-PRODUCCIÓN DE SOLES
-
-[STAT_SUNPROD_DOUBLE]
-Doble
-
-[STAT_SUNPROD_LARGE]
-Grande
-
-[STAT_SUNPROD_LOW]
-Baja
-
-[STAT_SUNPROD_NORMAL]
-Normal
-
-[STAT_SUNPROD_VARIABLE]
-Variable
 
 [STAT_TOUGHNESS]
 DUREZA
@@ -66496,65 +65398,11 @@ Grande
 [STAT_TOUGHNESS_TOUGHNESS8]
 Inmortal
 
-[STAT_TRIGGER_RADIUS]
-RADIO DE ACTIVACIÓN
-
-[STAT_USAGE]
-Uso
-
-[STAT_USAGE_EATEN]
-Al ser comida
-
-[STAT_USAGE_GRAVESTONE]
-En una lápida
-
-[STAT_USAGE_SINGLE]
-Único
-
-[STAT_USAGE_SINGLECONTACT]
-Único, al contacto
-
-[STAT_USAGE_SINGLEINSTANT]
-Único, instantáneo
-
-[STAT_USAGE_SINGLEPROXIMITY]
-Uso único, proximidad
-
-[STAT_USAGE_TAP]
-Tocar para usar
-
-[STAT_USAGE_TAPAIM]
-Tocar para apuntar
-
-[STAT_USAGE_TAPDRAG]
-Tocar y arrastrar
-
-[STAT_USAGE_TAPSWAP]
-Tocar para cambiar
-
-[STAT_VAMPORCINI_HP_CAP]
-Tope máximo de salud
-
-[STAT_VAMPORCINI_TICKRATE]
-Tiempo entre drenaje de salud
-
-[STAT_VAMPORCINI_TICKRATE_PF]
-Tiempo entre drenaje de salud con nutrientes
-
 [STAT_VARIABLE]
 ???
 
-[STAT_VARIABLE_CURRANT]
-Línea y columna
-
 [STAT_VARIABLE_VARIABLE]
 ???
-
-[STAT_ZOMBIES_SHRUNK]
-ZOMBIS REDUCIDOS
-
-[STAT__DRAIN_DURATION]
-Duración del drenaje inicial
 
 [STEADY_FAILED_MESSAGE]
 Se ha producido un error al Mejorar el Colgante, código de error: {CODE}.
