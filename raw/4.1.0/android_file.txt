@@ -23094,7 +23094,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 2.0.1 (actualizado el 20/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 2.0.2 (actualizado el 20/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -36534,7 +36534,7 @@ Esta era una base aérea durante la Tercera Guerra Mundial.
 {NPC_ENTER:zombossicon}{EXCITED}Prepárense para un combate aéreo como nunca antes visto.
 
 [NARRATIVE_SKYCITY_INTRO_GARGANTUAR_2]
-{SAY}El Zombistein piloto está aquí para hacer trizas todo plan de resistencia.
+{SAY}El Zombistein aviador está aquí para hacer trizas todo plan de resistencia.
 
 [NARRATIVE_SKYCITY_INTRO_GARGANTUAR_3]
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{EXCITED:crazydaveicon}¡Vaya! Ese zombi sí que sabe mantener el equilibrio para ser tan pesado.
@@ -71579,7 +71579,7 @@ Las Rodadoras recorren la línea a toda velocidad, hacen rebotar a los zombis y 
 Rebota línea abajo
 
 [TUPISTRASTALKER]
-Tupistra acechadora
+Tupistra
 
 [TUPISTRASTALKER_AVATAR_NAME]
 Pañuelo marrón
@@ -71589,13 +71589,13 @@ Las hojas del efecto se quedan clavadas, dañando a los zombis que las pisen.
 
 [TUPISTRASTALKER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}no puede ser atacada cuando está oculta bajo el suelo
-{KEYWORD}Debilidad: {STAT}tras atacar, necesita descansar durante un breve tiempo
+{KEYWORD}Uso: {STAT}necesita descansar un rato tras atacar
 {KEYWORD}Características de la planta: {STAT}planta verde, artista marcial, destructora
 
-{FLAVOR}Es reconocido como un buen shinobi, aunque muchos lo comparan con Berenjena ninja. Tupistra acechadora no se preocupa por esto, porque piensa que ambos luchan de diferentes maneras, él prefiere esconderse entre las sombras para garantizar su propia seguridad.
+{FLAVOR}Es reconocido como un buen shinobi, aunque muchos lo comparan con Berenjena ninja. Tupistra no se preocupa por esto, porque piensa que ambos luchan de diferentes maneras, él prefiere esconderse entre las sombras para garantizar su propia seguridad.
 
 [TUPISTRASTALKER_DESCRIPTION_HEADER]
-Tupistra acechadora sale del suelo repentinamente y ataca a los zombis cercanos con sus hojas afiladas.
+Tupistra sale del suelo repentinamente y ataca a los zombis cercanos con sus hojas afiladas.
 
 [TUPISTRASTALKER_NEW_SKILL_LEVEL1_DES]
 Sale del suelo y ataca a los zombis cercanos con sus hojas afiladas, luego descansa.
@@ -71635,7 +71635,7 @@ Nivel 3
 Nivel 5
 
 [TUPISTRASTALKER_SKILL_LEVEL5_DES]
-^DB8117^Giro 720°:^oldclr^ lanza el doble de hojas en cada ataque.
+^DB8117^Giro 720°:^oldclr^ lanza el doble de hojas en cada ataque
 
 [TUPISTRASTALKER_TOOLTIP]
 Sale del suelo y ataca a los zombis cercanos con sus hojas afiladas
@@ -75325,7 +75325,7 @@ I                 Tanque espacio-temporal              200
 I                 Artefacto: Prisma solar                1
 II                Lanzaguisantes sombrío: Piezas        30
 II                Tripitidora: Piezas                   30
-II                Tupistra acechadora: Piezas           30
+II                Tupistra: Piezas           30
 III               Mago espinoso: Piezas                100
 III               Seta sombría: Piezas                 100
 III               Pieza universal                      100
@@ -76593,7 +76593,7 @@ Un pequeño zombi se sentó sobre un carrito cochón y ahora es todo un experto 
 Avanza desenfrenadamente contra tus plantas para destruirlas al cochar contra ellas.
 
 [ZOMBIE_BUMPERCAR_ELITE]
-Zombidito superchocón
+Zombidito chocón de élite
 
 [ZOMBIE_BUMPERCAR_ELITE_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques eléctricos
@@ -77054,8 +77054,9 @@ Zombi hechicero oscuro
 
 [ZOMBIE_DARK_ARCHMAGE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}sus hechizos duermen plantas en un área mediana
+{KEYWORD}Debilidad: {STAT}Grano de café
 
-{FLAVOR}Odia que se burlen de la forma de su sombrero, suele lanzarle hechizos a quienes se atrevan a mirarlo para que se duerman. Un día pasó junto a un gran espejo y...
+{FLAVOR}Una vez intentó usar magia para hacer su sombrero más intimidante. Desde entonces no puede pasar junto a un espejo sin gritar.
 
 [ZOMBIE_DARK_ARCHMAGE_DESCRIPTION_HEADER]
 Lanza hechizos a las plantas para que se duerman.
@@ -77094,7 +77095,7 @@ Zombi caballero oscuro
 {KEYWORD}Especial: {STAT}carga un potente ataque para arrasar a tus plantas con su lanza
 {KEYWORD}Especial: {STAT}deja su lanza que destruye a la planta donde cae y bloquea ataques
 
-{FLAVOR}Es uno de los pocos zombis que tiene orgullo y gloria en su mente, se transformó en lo que es ahora tras escuchar un filósofo decir: "Aquellos que se ahogan son los que pueden nadar..."
+{FLAVOR}Es uno de los pocos zombis que tiene orgullo y gloria en su mente. Se transformó en lo que es ahora tras escuchar a un filósofo decir: "Aquellos que se ahogan son los que pueden nadar"
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION_HEADER]
 Es lanzado por su fiel corsel zombi sobre la mayoría de tus defensas.
@@ -77103,7 +77104,7 @@ Es lanzado por su fiel corsel zombi sobre la mayoría de tus defensas.
 Alguien gritó, "¡Traed vuestros muertos vivientes!" Y el Zombi campesino de repente apareció aquí. No se acuerda de nada de lo que pasó antes.
 
 [ZOMBIE_DARK_DESCRIPTION_HEADER]
-Zombi súbdito de clase baja común
+Zombi súbdito de clase baja común.
 
 [ZOMBIE_DARK_FLAG]
 Zombi abanderado campesino
@@ -77177,16 +77178,16 @@ Como escribió Shakespeare, "Inquieta vive la cabeza que lleva una corona". Y Re
 Otorga cascos de caballero a los zombis campesinos cercanos.
 
 [ZOMBIE_DARK_KING_ELITE]
-Rey zombi de élite
+Rey de élite
 
 [ZOMBIE_DARK_KING_ELITE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}su resistencia reduce el tiempo de aturdimiento en gran medida
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques físicos
 
-{FLAVOR}En una época oscura gobernada por la insensatez, generaciones de zombis lucharon duramente y finalmente descubrieron una manera de ayudar a sus monarcas a dormir durante mucho tiempo usando oro pesado para aturdirlos.
+{FLAVOR}Está convencido de que un verdadero rey debe sentarse en un trono de oro. Su espalda no comparte esa opinión.
 
 [ZOMBIE_DARK_KING_ELITE_DESCRIPTION_HEADER]
-Invoca zombis y otorga cascos de caballero a los zombis campesinos cercanos. Es resistente a los ataques de ciertas plantas.
+Invoca zombis y promueve a los zombis cercanos en variantes más fuertes. Es resistente a los ataques de ciertas plantas.
 
 [ZOMBIE_DARK_ROGUE]
 Zombi bandido
@@ -77210,16 +77211,18 @@ Todos los zombis están de acuerdo en que los poderes de transformación del Zom
 Transforma plantas en dóciles ovejas
 
 [ZOMBIE_DARK_WIZARD_ELITE]
-Zombi hechicero de élite
+Hechicero de élite
 
 [ZOMBIE_DARK_WIZARD_ELITE_DESCRIPTION]
+{KEYWORD}Especial: {STAT}libera un hechizo que impide que las plantas del área usen Nutrientes
 {KEYWORD}Especial: {STAT}su resistencia reduce el tiempo de aturdimiento en gran medida
+
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques físicos
 
-{FLAVOR}Se convirtió en un hechicero de la élite al sugerir que los libros de hechizos se usasen para acolchar las esquinas de las mesas durante un convento.
+{FLAVOR}Fue ascendido a hechicero de élite después de sobrevivir accidentalmente a un hechizo que salió terriblemente mal.
 
 [ZOMBIE_DARK_WIZARD_ELITE_DESCRIPTION_HEADER]
-Lanza poderosos hechizos para dañar tus plantas. Es resistente a los ataques de ciertas plantas.
+Transforma plantas en ovejas en fracciones de segundos. Es resistente a los ataques de ciertas plantas.
 
 [ZOMBIE_DEFAULT_DIFFICULTY_1]
 Dificultad
@@ -77630,7 +77633,7 @@ Zombi punk
 Empuja a las plantas un espacio cuando suena su música.
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI]
-Zombi onmyoji celestial
+Onmyoji celestial
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}tras agitar su abanico, genera ráfagas de viento destructivas
@@ -77642,7 +77645,7 @@ Zombi onmyoji celestial
 Agita un abanico que desata el caos.
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA]
-Zombi ezcorpión de élite
+Ezcorpión de élite
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_DESCRIPTION]
 Era diferente a los otros zombis desde una edad temprana. Carecía de una comprensión del humor, sátira, acostumbrado a mostrar su extraordinario coeficiente intelectual. Su carro de asedio es uno de sus inventos mas recientes.
@@ -77651,7 +77654,7 @@ Era diferente a los otros zombis desde una edad temprana. Carecía de una compre
 Sus jarrones estan repletos de Gallinas zombi, ¡que horror!
 
 [ZOMBIE_ELITE_ROMAN_HEALER]
-Zombi sanador de élite
+Sanador de élite
 
 [ZOMBIE_ELITE_ROMAN_HEALER_DESCRIPTION]
 Los demás sanadores curan heridas menores. Él regresó de las montañas nevadas con un bastón mágico más poderoso, una túnica nueva y una historia sobre un dragón que nadie le cree.
@@ -77660,7 +77663,7 @@ Los demás sanadores curan heridas menores. Él regresó de las montañas nevada
 Cura zombis y los hace invencibles por unos segundos.
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC]
-Zombi electrómano MK-II
+Electrómano MK-II
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_DESCRIPTION]
 Fue alcanzado por un rayo... cinco veces. Ahora dice que puede oír los pensamientos de los enchufes y que su pistola de rayos "tiene sentimientos".
@@ -77754,7 +77757,7 @@ Reina Zombidita
 La máxima autoridad del Reino mágico. Pide refuerzos en cuanto recibe daño.
 
 [ZOMBIE_FAIRY_TALE_IMP_ELITE]
-Zombidita reina blanca
+Reina blanca
 
 [ZOMBIE_FAIRY_TALE_IMP_ELITE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}regresa al campo de batalla después de un tiempo
@@ -78109,7 +78112,7 @@ Samurái caracono
 Lo consideran un samurái a pesar que no use espadas. Eso sí, tiene una buena defensa en la cabeza.
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION_HEADER]
-Zombi japonés de la clase guerrera, su cono le proporciona una buena protección contra el daño.
+Su cono le proporciona el doble de dureza que el samurái promedio.
 
 [ZOMBIE_HEIAN_ARMOR2]
 Samurái caracubo
@@ -78118,13 +78121,13 @@ Samurái caracubo
 Aunque su cubo parece de madera, en realidad, está hecho de hierro pintado en color marrón.
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION_HEADER]
-Zombi japonés de la clase guerrera, su cubo le proporciona una excelente protección contra el daño.
+Su cubo le proporciona el triple de dureza que el samurái promedio.
 
 [ZOMBIE_HEIAN_FLAG]
 Zombi samurái abanderado
 
 [ZOMBIE_HEIAN_FLAG_DESCRIPTION]
-Los sámurais que sostienen banderas de batalla, muchas veces significa que van a saquear cerebros.
+Está convencido de que agitar una bandera lo convierte automáticamente en un gran líder militar.
 
 [ZOMBIE_HEIAN_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una oleada de zombis samurái.
@@ -78136,17 +78139,17 @@ Zombistein shogun
 {KEYWORD}Daño: {STAT}aplasta plantas con su mazo de madera
 {KEYWORD}Especial: {STAT}lanza al Zombidito ninja cuando sufre daño
 
-{FLAVOR}Es el líder de los zombis samurái en esta área, y en ausencia del Dr. Zombi, ordena a los demás zombis a recoger cerebros.
+{FLAVOR}Su enorme mazo de madera es uno de sus juguetes favoritos. Y no tiene problemas en usarlo contra cualquiera que lo desafíe.
 
 [ZOMBIE_HEIAN_GARGANTUAR_DESCRIPTION_HEADER]
-Zombi colosal japonés de la clase guerrera. El mazo que lleva en su mano, es uno de sus juguetes preferidos.
+Un comandante de proporciones gigantescas.
 
 [ZOMBIE_HEIAN_HANABI]
 Zombi hanabi
 
 [ZOMBIE_HEIAN_HANABI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}al ser derrotado, sus fuegos artificiales se saldrán de control
-{KEYWORD}Debilidad: {STAT}los charcos dejados por Loto helado, pueden apagar sus llamas
+{KEYWORD}Debilidad: {STAT}los charcos dejados por Loto helado pueden apagar sus llamas
 
 {FLAVOR}Todos los días intenta añadir nuevos ingredientes a su barril de fuegos artificiales, y solo él sabe cómo hacerlos estallar. "¡Biu-bang! ¡El fuego es maravilloso!", exclama.
 
@@ -78157,10 +78160,13 @@ Tira fuegos artificiales que lo chamuscan todo si no se les apaga a tiempo.
 Zombidito ninja
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION]
-Los Zombiditos ninja a menudo usan bombas de humo para decirles a todos que están ahí.
+{KEYWORD}Daño: {STAT}arroja peces globo a tus plantas
+{KEYWORD}Debilidad: {STAT}Estefanía devuelve sus proyectiles
+
+{FLAVOR}Los Zombiditos ninja a menudo usan bombas de humo para decirles a todos que están ahí.
 
 [ZOMBIE_HEIAN_NINJA_DESCRIPTION_HEADER]
-Zombi japonés diminuto de la clase guerrera, usa peces globo letales para acabar con tus plantas.
+Zombi ninja de ataque a distancia.
 
 [ZOMBIE_HEIAN_ONMYOJI]
 Zombi onmyoji
@@ -78178,22 +78184,21 @@ Zombi del santuario que empuña un abanico de poder sobrenatural.
 Zombi itamae
 
 [ZOMBIE_HEIAN_SUSHI_DESCRIPTION]
-{KEYWORD}Especial: {STAT}prepara sushi para atraer a los zombis de otras líneas
 {KEYWORD}Especial: {STAT}los zombis que coman su sushi, serán potenciados en fuerza y velocidad
 
 {FLAVOR}El sushi de su restaurante es el más popular entre los zombis, aunque muchos de ellos prefieren el cerebro.
 
 [ZOMBIE_HEIAN_SUSHI_DESCRIPTION_HEADER]
-Prepara sushi para satisfacer el antojo de cerebros de sus compañeros.
+Prepara sushi para atraer a los zombis de otras líneas.
 
 [ZOMBIE_HEIAN_WORKER]
 Zombi samurái
 
 [ZOMBIE_HEIAN_WORKER_DESCRIPTION]
-Después de usar una peluca, se volvió un guerrero de nivel básico.
+Después de ponerse una peluca, decidió que ya estaba listo para convertirse en samurái.
 
 [ZOMBIE_HEIAN_WORKER_DESCRIPTION_HEADER]
-Zombi básico japonés de la clase guerrera.
+Zombi samurái básico.
 
 [ZOMBIE_ICEAGE]
 Zombi cavernario
@@ -78229,7 +78234,7 @@ El bloque de hielo de su cabeza le protege del daño de forma increíble.
 Zombi cabeza de mamút
 
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION]
-Solía ser un zombi normal hasta que vio como uno de sus compañeros fue pisoteado por un mamút. Al ver la fuerza de aquella colosal bestia, le rogó al Dr. Zombi que le hiciera un casco usando el cráneo de un mamut hasta que finalmente obtuvo lo que quería.
+Después de ver a un mamut aplastar a varios zombis de un solo pisotón, decidió que quería un casco igual de resistente. El Dr. Zombi todavía no entiende cómo consiguió el cráneo.
 
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION_HEADER]
 Su cráneo de mamut le proporciona una defensa de nivel superior.
@@ -78324,7 +78329,7 @@ Cuando acaba con tus defensas, camina lento hacia delante.
 Zombi esquiador
 
 [ZOMBIE_ICEAGE_SKI_DESCRIPTION]
-A Zombi esquiador le gustan los desafíos y las aventuras. Desea ser como los artistas que vio cuando era joven, despegando de una pequeña pendiente, haciendo todo tipo de movimientos complejos y luego aterrizando con seguridad. Cuando creció, lo intentó, pero aún era demasiado joven y no vio una señal frente al escenario que decía: "Acto peligroso, no lo intentes en casa"
+Vio a unos artistas hacer acrobacias sobre esquís cuando era joven. Desde entonces, ignora cuidadosamente todas las señales de advertencia.
 
 [ZOMBIE_ICEAGE_SKI_DESCRIPTION_HEADER]
 Esquia sobre tus defensas usando a una Morza zombi.
@@ -78342,7 +78347,10 @@ Zombi fuerte que puede empujar bloques de hielo por el patio.
 Morza zombi
 
 [ZOMBIE_ICEAGE_WALRUS_DESCRIPTION]
-Insatisfecha con su problema de sobrepeso, decidió hacer una rutina para perder peso: correr 5 km al día. Lástima que la pereza siempre corre más rápido que ella.
+{KEYWORD}Especial: {STAT}arrastra placas de hielo mientras se desplaza
+{KEYWORD}Debilidad: {STAT}Torbellota
+
+{FLAVOR}Insatisfecha con su problema de sobrepeso, decidió hacer una rutina para perder peso: correr 5 km al día. Lástima que la pereza siempre corre más rápido que ella.
 
 [ZOMBIE_ICEAGE_WALRUS_DESCRIPTION_HEADER]
 Se acuesta exhausta en el camino, bloqueando los proyectiles de las plantas.
@@ -80968,22 +80976,26 @@ Zombistein del vacío
 Gigantesco guardián surgido a través de un antiguo artefacto dimensional.
 
 [ZOMBIE_SKYCITY]
-Zombi piloto
+Zombi aviador
 
 [ZOMBIE_SKYCITY_ARMOR1]
-Piloto caracono
+Aviador caracono
 
 [ZOMBIE_SKYCITY_ARMOR1_DESCRIPTION]
-Para enfrentar al fuerte viento en el aire, compró un nuevo pegamento. A pesar de que los zombis han sugerido que no debería usarlo para pegarse un cono en la cabeza a gran altitud, pensó que era su símbolo de moda.
+{KEYWORD}Daño: {STAT}daña tu nave con su lanzallamas al estar cerca de ella
+
+{FLAVOR}Para resistir los fuertes vientos de las alturas, compró un nuevo pegamento industrial. Aunque otros zombis le advirtieron que pegarse un cono en la cabeza mientras volaba era una pésima idea, él insistió en que era una declaración de moda.
 
 [ZOMBIE_SKYCITY_ARMOR1_DESCRIPTION_HEADER]
-Su cono pegado lo hace el doble de resistente que los pilotos básicos normales.
+Su cono pegado lo hace el doble de resistente que los aviadores comunes.
 
 [ZOMBIE_SKYCITY_ARMOR2]
-Piloto caracubo
+Aviador caracubo
 
 [ZOMBIE_SKYCITY_ARMOR2_DESCRIPTION]
-Las hélices de su cubo emiten un ruido extraño. Quizá sea hora de cambiarlas, aunque su función sea meramente estética.
+{KEYWORD}Daño: {STAT}daña tu nave con su lanzallamas al estar cerca de ella
+
+{FLAVOR}Las hélices de su cubo emiten un ruido extraño. Quizá sea hora de cambiarlas, aunque su función sea meramente estética.
 
 [ZOMBIE_SKYCITY_ARMOR2_DESCRIPTION_HEADER]
 Su sombrero con forma de cubo proporciona una gran protección contra daños.
@@ -80995,19 +81007,22 @@ Zombidito de combate
 Estudió 97 cursos, aprobó 81 exámenes, experimentó 101 simulaciones... Él y otros siempre mencionan sus excelentes habilidades de vuelo, pero los que se han sentado en su avión parecen reaccionar y volver a mencionar este tema nuevamente.
 
 [ZOMBIE_SKYCITY_BATTLEPLANE_DESCRIPTION_HEADER]
-Utiliza la ametralladora de su avión de combate para atacar a tus plantas y tu nave.
+Dispara a las plantas y a tu nave desde su avión de combate.
 
 [ZOMBIE_SKYCITY_DESCRIPTION]
-No subestimes a los zombis piloto. No es fácil mantener el equilibrio en el aire en lugar de estar de cabeza.
+{KEYWORD}Daño: {STAT}daña tu nave con su lanzallamas al estar cerca de ella
+
+{FLAVOR}No lo subestimes. No es fácil mantener el equilibrio en el aire en lugar de estar de cabeza.
 
 [ZOMBIE_SKYCITY_DESCRIPTION_HEADER]
-Zombi piloto de clase regular.
+Unidad aviadora básica zombi.
 
 [ZOMBIE_SKYCITY_ELECTRIC]
 Zombi electrómano
 
 [ZOMBIE_SKYCITY_ELECTRIC_DESCRIPTION]
 {KEYWORD}Especial: {STAT}las descargas eléctricas pueden ralentizar, aturdir o dañar plantas
+{KEYWORD}Daño: {STAT}daña tu nave con su arma al estar cerca de ella
 
 {FLAVOR}Siempre se queda hasta tarde en su laboratorio para inventar armas más poderosas. "A veces, debes sacrificar tu imagen personal por la ciencia", dice exhausto con su cabello desordenado y chamuscado.
 
@@ -81015,34 +81030,38 @@ Zombi electrómano
 Ataca a las plantas de la línea con una pistola de rayos.
 
 [ZOMBIE_SKYCITY_FLAG]
-Zombi piloto abanderado
+Zombi aviador abanderado
 
 [ZOMBIE_SKYCITY_FLAG_DESCRIPTION]
-"Si quieres caminar a la vanguardia de la moda, el mensaje de la pancarta es muy importante". En realidad, muchos zombis lo siguen pensando que el cerebro pintado en la bandera es real.
+{KEYWORD}Daño: {STAT}daña tu nave con su lanzallamas al estar cerca de ella
+
+{FLAVOR}"Si quieres caminar a la vanguardia de la moda, el mensaje de la pancarta es muy importante". En realidad, muchos zombis lo siguen pensando que el cerebro pintado en la bandera es real.
 
 [ZOMBIE_SKYCITY_FLAG_DESCRIPTION_HEADER]
 Lleva la llegada de una gran ola de zombis voladores.
 
 [ZOMBIE_SKYCITY_GARGANTUAR]
-Zombistein piloto
+Zombistein aviador
 
 [ZOMBIE_SKYCITY_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Daño: {STAT}destroza todo lo que tiene a su paso a puñetazos
-{KEYWORD}Especial: {STAT}lanza varios Zombiditos pilotos cuando sufre daño
+{KEYWORD}Especial: {STAT}lanza varios Zombiditos paracaidistas cuando sufre daño
 
 {FLAVOR}Debido a su enorme tamaño que ocupa más espacio en las rutas de vuelo, se vio obligado a pagar 3 veces la tarifa de viaje. Estaba muy enojado con esto y dijo: "Solo quiero convertirme en un zombidito para no tener problemas ni preocupaciones". Luego vio la billetera vacía de su amigo y dijo: "Pero solo a veces"
 
 [ZOMBIE_SKYCITY_GARGANTUAR_DESCRIPTION_HEADER]
-Un zombi piloto gigante que lo azota todo a mano limpia.
+Unidad colosal que lo azota todo a mano limpia.
 
 [ZOMBIE_SKYCITY_GGTIMP]
 Zombidito paracaidista
 
 [ZOMBIE_SKYCITY_GGTIMP_DESCRIPTION]
-Estaba preocupado por la idea de saltar de un avión en caída libre a más de 30 mil pies de altura. Pero cuando encontró unas gafas, ya no quiso quitárselas. Si bien, convertirse en paracaidista solo por un par de gafas parece tonto, no puedes negar que le quedan bien.
+{KEYWORD}Especial: {STAT}aterriza en la parte trasera de la nave
+
+{FLAVOR}Estaba preocupado por la idea de saltar de un avión en caída libre a más de 30 mil pies de altura. Pero cuando encontró unas gafas, ya no quiso quitárselas. Si bien, convertirse en paracaidista solo por un par de gafas parece tonto, no puedes negar que le quedan bien.
 
 [ZOMBIE_SKYCITY_GGTIMP_DESCRIPTION_HEADER]
-Un zombidito bueno en el aterrizaje.
+Un zombidito bueno en el aterrizaje. Usa plantas como Bipetidora para atacarlo desde atrás.
 
 [ZOMBIE_SKYCITY_PROTECTOR]
 Escudo volador
@@ -81059,7 +81078,9 @@ Se protege a sí mismo y a los zombis cercanos con un campo de fuerza.
 Pilotos gemelos
 
 [ZOMBIE_SKYCITY_TWINSPLANE_DESCRIPTION]
-Sueñan con ir de aventura y explorar el mundo desde el cielo. Sin embargo, nunca han llegado a un acuerdo.
+{KEYWORD}Daño: {STAT}dañan tu nave gravemente al impactar contra ella
+
+{FLAVOR}Sueñan con ir de aventura y explorar el mundo desde el cielo. Sin embargo, nunca han llegado a un acuerdo.
 
 [ZOMBIE_SKYCITY_TWINSPLANE_DESCRIPTION_HEADER]
 Destrozan plantas con su aeronave de doble cabina.
