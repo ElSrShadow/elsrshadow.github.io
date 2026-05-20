@@ -1538,32 +1538,13 @@ Doy mi consentimiento para que los datos personales que se recopilen a través d
 Dinos tu edad.
 
 [AGE_TIP]
-#update
+Notas de la actualización 4.1.1
 
 [AGE_TIP_CONTENT]
-• Notas de la actualización 4.1.1
-
-^E2725B^- Tierras ocultas: Mausoleo de Qin - Parte 2^oldclr^
-
-¡Ya está disponible la segunda parte del Mausoleo de Qin!
-Nuevos desafíos y plantas te esperan, ¡no te los pierdas!
-
-^E2725B^- Nuevas plantas^oldclr^
-
-Dos amigas están de vuelta: Seta congelada y Magnetoseta dorada.
-¡Obténlas en eventos por tiempo limitado!
-
-^E2725B^- Nuevos eventos^oldclr^
-
-Nuevos niveles para: Destructores y Dimensión del Recuerdo
-¡Participa y gana premios!
-
-^E2725B^- Mejoras de rendimiento^oldclr^
-
-1. Se redujo el almacenamiento ocupado tras la instalación.
-2. Optimizado el uso de memoria en tiempo de ejecución.
-3. Se ha mejorado la estabilidad, lo que reduce cierres inesperados.
-4. Reducidos los tiempos de carga al iniciar el juego, y en transiciones.
+1. Tierras ocultas: Mausoleo de Qin - Parte 2
+2. Nuevas plantas: Seta congelada y Magnetoseta dorada
+3. Nuevos niveles para: Destructores y Dimensión del Recuerdo
+4. Mejoras de rendimiento
 
 [AIRSHIP_CRASH_LOSS]
 ¡TU NAVE FUE DESTRUIDA!
@@ -18483,7 +18464,7 @@ Rubíes misteriosos        Variable              10%
 ¿CÓMO JUGAR?
 
 [FIGHT_ZODIAC_INDEX]
-León bailarín: {NUM} derrotados
+León festivo: {NUM} derrotados
 
 [FIGHT_ZODIAC_LIMIT]
 Has alcanzado el límite de compra de hoy, vuelve mañana para más.
@@ -78731,13 +78712,15 @@ Es un líder natural, por lo que no necesita usar el Kung Fu, solo la bandera.
 Un shaolin sosteniendo una bandera, generalmente significa que vienen muchos zombis.
 
 [ZOMBIE_KONGFU_GONG]
-Zombi con gong
+Zombi gong
 
 [ZOMBIE_KONGFU_GONG_DESCRIPTION]
-Es el hermano del Zombi con bomba. Ambos no conocen ninguna técnica de Kung Fu. La diferencia es que él está más interesado en los instrumentos musicales.
+{KEYWORD}Especial: {STAT}invoca Zombis con bomba cuando golpea su gong
+
+{FLAVOR}Aunque presume dominar el antiguo arte del Kung Fu, apenas sabe golpear su enorme gong sin romperse un dedo.
 
 [ZOMBIE_KONGFU_GONG_DESCRIPTION_HEADER]
-Invoca Zombis con bomba cuando golpea su gong.
+Su gong inicia una ceremonia explosiva.
 
 [ZOMBIE_KONGFU_HAMMER]
 Shaolin con martillo
@@ -78862,7 +78845,7 @@ Zombi Qigong
 {KEYWORD}Especial: {STAT}de vez en cuando, dispara energía destructiva para fulminar plantas cercanas
 {KEYWORD}Debilidad: {STAT}sus ataques pueden ser bloqueados por Rábano blanco
 
-{FLAVOR}Es el inspirador de los demás zombis. Se convirtió en zombi y no olvidó sus propias artes marciales, quizá porque practicaba demasiadas técnicas, o, ¿tal vez olvidó algunas?
+{FLAVOR}Tras convertirse en zombi, logró conservar muchas de sus artes marciales. Lástima que olvidó cuándo debía usarlas.
 
 [ZOMBIE_KONGFU_QIGONG_DESCRIPTION_HEADER]
 Utiliza sus fuerzas internas para arrastrar una fila entera de plantas.
@@ -78877,15 +78860,16 @@ Zombidito tigre
 Sobrevuela tus defensas si no deslizas tus dedos rápidamente sobre él.
 
 [ZOMBIE_KONGFU_SELFEXPLODE]
-Zombi con bomba
+Zombi bombardero
 
 [ZOMBIE_KONGFU_SELFEXPLODE_DESCRIPTION]
+{KEYWORD}Daño: {STAT}detona su bomba al contacto, destruyendo plantas alrededor
 {KEYWORD}Debilidad: {STAT}los ataques gélidos desactivan su bomba
 
-{FLAVOR}No conoce ninguna técnica de Kung Fu, por lo que, había vivido pensando que era inferior a los demás zombis, hasta que encontró su talento con explosivos y lentamente ganó fama.
+{FLAVOR}No conoce ninguna técnica de Kung Fu y durante años creyó ser inferior a los demás zombis. Todo cambió cuando descubrió su talento con los explosivos y comenzó a ganarse una temible reputación.
 
 [ZOMBIE_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
-Después de que entre en contacto con una planta, detonará su bomba, destruyendo a las que tiene alrededor.
+Un experto en explosiones.
 
 [ZOMBIE_KONGFU_STRONG_BRONZE]
 Zombistein con garrote
@@ -79029,15 +79013,15 @@ Refuerzo zombi III
 La fuerza de los zombis aumenta en 3 Niveles
 
 [ZOMBIE_LION_DANCE]
-León bailarín
+Zombi león festivo
 
 [ZOMBIE_LION_DANCE_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}3 casillas al frente
 
-{FLAVOR}Se disfrazó de león porque le hace parecer más "feroz"
+{FLAVOR}Siempre soñó con destacar durante la danza del león. Convertirse en zombi definitivamente llamó la atención.
 
 [ZOMBIE_LION_DANCE_DESCRIPTION_HEADER]
-Escupe llamas que achicharran a las plantas cercanas.
+Danza mientras escupe llamas que achicharran a las plantas cercanas.
 
 [ZOMBIE_LNY]
 Zombi lunar
@@ -79856,7 +79840,7 @@ Shaolin con botella
 Se vuelve veloz tras beber de su botella
 
 [ZOMBIE_NEW_PVP_KONGFU_GONG]
-Zombi con gong
+Zombi gong
 
 [ZOMBIE_NEW_PVP_KONGFU_GONG_DESCRIPTION_HEADER]
 Invoca Zombis con bomba cuando golpea su gong
@@ -79892,7 +79876,7 @@ Zombi Qigong
 Arrastra una fila de plantas usando el Qigong
 
 [ZOMBIE_NEW_PVP_KONGFU_SELFEXPLODE]
-Zombi con bomba
+Zombi bombardero
 
 [ZOMBIE_NEW_PVP_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
 Detona su bomba, dañando a las plantas cercanas
@@ -81682,7 +81666,7 @@ Bombardero sano
 Parece que la polvora tiene efectos diferentes en este universo raro.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
-Variante del Zombi con bomba. Detona su bomba cuando su salud llega a 0, curando a los zombis de un área mediana.
+Variante del Zombi bombardero. Detona su bomba cuando su salud llega a 0, curando a los zombis de un área mediana.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR]
 Zombi ex-cavador
