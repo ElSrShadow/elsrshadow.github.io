@@ -1538,12 +1538,32 @@ Doy mi consentimiento para que los datos personales que se recopilen a través d
 Dinos tu edad.
 
 [AGE_TIP]
-Avisos sobre la Edad
+#update
 
 [AGE_TIP_CONTENT]
-Este es un juego de estrategia, adecuado para usuarios de 12 años o más.
+• Notas de la actualización 4.1.1
 
-Se recomienda que los menores realicen compras bajo la supervisión de sus tutores.
+^E2725B^- Tierras ocultas: Mausoleo de Qin - Parte 2^oldclr^
+
+¡Ya está disponible la segunda parte del Mausoleo de Qin!
+Nuevos desafíos y plantas te esperan, ¡no te los pierdas!
+
+^E2725B^- Nuevas plantas^oldclr^
+
+Dos amigas están de vuelta: Seta congelada y Magnetoseta dorada.
+¡Obténlas en eventos por tiempo limitado!
+
+^E2725B^- Nuevos eventos^oldclr^
+
+Nuevos niveles para: Destructores y Dimensión del Recuerdo
+¡Participa y gana premios!
+
+^E2725B^- Mejoras de rendimiento^oldclr^
+
+1. Se redujo el almacenamiento ocupado tras la instalación.
+2. Optimizado el uso de memoria en tiempo de ejecución.
+3. Se ha mejorado la estabilidad, lo que reduce cierres inesperados.
+4. Reducidos los tiempos de carga al iniciar el juego, y en transiciones.
 
 [AIRSHIP_CRASH_LOSS]
 ¡TU NAVE FUE DESTRUIDA!
@@ -9573,7 +9593,7 @@ Destruye {GRID_ITEMS} huchas
 Destruye {GRID_ITEMS} regalos
 
 [CHALLENGE_DESTROY_PUMPKINHOUSE]
-Derrota {GRID_ITEMS} casas de calabaza
+Destruye {GRID_ITEMS} casas de calabaza
 
 [CHALLENGE_DESTROY_PUMPKINSCARECROWS]
 Destruye {GRID_ITEMS} espantapájaros
@@ -13120,7 +13140,7 @@ Supera 2 niveles del Lejano Oeste
 ¡Supera 5 niveles de Aventura!
 
 [DAILY_ALREADY_LOGIN]
-Ya has ^3AAD14^iniciado sesión^oldclr^
+^3AAD14^Registro:^oldclr^
 
 [DAILY_BUNDLE_OFFER]
 Paquete diario
@@ -13198,7 +13218,7 @@ Premios diarios - Noviembre
 Premios diarios - Diciembre
 
 [DAILY_SIGN_REWARD_TOTAL]
-Has iniciado sesión:
+Registro:
 
 [DAILY_SINGLE_RECHARGE_REWARD]
 Recarga única de
@@ -15291,21 +15311,21 @@ Al no permitir perfiles adicionales, eliminarás tus perfiles no principales. ¿
 PROBAR
 
 [DENDROBIUMGUARD]
-Orquídea rompevientos
+Dendrobium
 
 [DENDROBIUMGUARD_AVATAR_PLANTFOOD_DESCRIPTION]
 Es capaz de recuperar toda su salud al usar Nutrientes en el modo Defensa conjunta.
 
 [DENDROBIUMGUARD_DESCRIPTION]
 {KEYWORD}Especial: {STAT}detiene los fuertes vientos del Tifón caótico
-{KEYWORD}Defensa conjunta: {STAT}planta varias en columnas adyacentes, para aumentar la salud y regenerar hojas
+{KEYWORD}Defensa conjunta: {STAT}planta varios en columnas adyacentes, para aumentar la salud y regenerar hojas
 {KEYWORD}Debilidad: {STAT}pierde sus hojas a causa del fuerte viento
 {KEYWORD}Características de la planta: {STAT}planta verde, defensa
 
 {FLAVOR}Siempre se ha adherido fuertemente a la Resistencia contra Desastres naturales, protegiendo a los que ama de los tifones y los zombis.
 
 [DENDROBIUMGUARD_DESCRIPTION_HEADER]
-Orquídea rompevientos resiste a los fuertes vientos de tifones, a la vez que bloquea a los zombis atacantes.
+Resiste a los fuertes vientos de tifones, a la vez que bloquea a los zombis atacantes.
 
 [DENDROBIUMGUARD_FAMILY]
 Orchidaceae
@@ -15326,24 +15346,24 @@ El tiempo de regeneración de sus hojas se reduce en 10 s ^D22808^(ahora 50 s)^o
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
 ^DB8117^Nutrientes: derriba zombis 1 casilla, recupera sus hojas y parte de su salud.^oldclr^
-^E2725B^Defensa conjunta: propaga esta habilidad a otras Orquídeas rompevientos^oldclr^
+^E2725B^Defensa conjunta: propaga esta habilidad a otros Dendrobium^oldclr^
 
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL5_DES]
 Cuando aún tiene hojas, existe un ^D22808^50% de probabilidad^oldclr^ de repeler a los zombis con ellas.
 ^FF0000^La habilidad se activa cada 20 s^oldclr^
 
 [DENDROBIUMGUARD_PEDIA]
-Orquídea rompevientos está basada en el dendrobium (Dendrobium spp.), un género de orquídeas epífitas con flores delicadas y variadas, que pueden ser blancas, lilas, amarillas o rosadas. Son apreciadas por su belleza y se cultivan como plantas ornamentales en climas tropicales o subtropicales.
+Dendrobium es un género de orquídeas epífitas con flores delicadas y variadas, que pueden ser blancas, lilas, amarillas o rosadas. Son apreciadas por su belleza y se cultivan como plantas ornamentales en climas tropicales o subtropicales.
 
 [DENDROBIUMGUARD_PEDIA_EXTRA]
 Originarias de Asia y Oceanía, estas orquídeas tienen un importante uso en la medicina tradicional, especialmente en la cultura china. Su nombre popular "hierba de las hadas" resalta su apariencia etérea y encantadora.
 
 [DENDROBIUMGUARD_PLANTFOOD_DESCRIPTION]
 Derriba zombis por 1 casilla, recupera sus hojas y parte de su salud.
-^E2725B^Defensa conjunta: propaga esta habilidad a otras Orquídeas rompevientos^oldclr^
+^E2725B^Defensa conjunta: propaga esta habilidad a otros Dendrobium^oldclr^
 
 [DENDROBIUMGUARD_PRODUCT_SHORT_DESC]
-Resiste a los fuertes vientos de tifones, bloquea a los zombis atacantes
+Dendrobium resiste a los fuertes vientos de tifones. También bloquea a los zombis atacantes.
 
 [DENDROBIUMGUARD_SKILL_LEVEL1]
 Nivel 2
@@ -15364,7 +15384,7 @@ Nivel 5
 ^DB8117^Repulsión:^oldclr^ cuando aún tiene hojas, existe la probabilidad de repeler a los zombis atacantes con ellas.
 
 [DENDROBIUMGUARD_TOOLTIP]
-Resiste a los fuertes vientos de tifones, bloquea a los zombis atacantes
+Resiste tifones y bloquea a los zombis atacantes
 
 [DEODARCEDAR]
 Capaci-cono
@@ -23099,7 +23119,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 1.5.3 (actualizado el 18/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 2.0.0 (actualizado el 20/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -23512,7 +23532,7 @@ Conéctate a Internet o reinicia el juego e inténtalo de nuevo.
 Resistencia zombi
 
 [HITPOINTS_UP_ZOMBIE_DESCRIPTION]
-La velocidad de los zombis aumenta al doble
+La dureza de los zombis aumenta al doble
 
 [HOCUSCROCUS]
 Alazafrán
@@ -34040,7 +34060,7 @@ Combina las esferas de alrededor para destruir los bloques de hielo y liberar el
 {PLAYFUL:winnie}No técnicamente, pero si podemos proteger a las plantas de los fuertes vientos.
 
 [NARRATIVE_HEIAN_11_INTRO_6]
-{SAY:winnie}Detecto una planta eficaz para este trabajo: Orquídea rompevientos.
+{SAY:winnie}Detecto una planta eficaz para este trabajo: Dendrobium.
 
 [NARRATIVE_HEIAN_11_INTRO_7]
 {SAY:winnie}Plantémosla delante de nuestras plantas para evitar que salgan volando.
@@ -46102,7 +46122,7 @@ Tócala para desatar poderosas ráfagas de fuego
 Dispara humo que puede infligir daño a todos los zombis de un área
 
 [PLANTTRIAL_ICESHROOM_DESC]
-Crece con el lanzamiento de sus ataques mágicos de hielo cada vez más poderosos frente a los zombis
+Crece con el lanzamiento de ataques cada vez más fríos y potentes
 
 [PLANTTRIAL_KERNELPULT_DESC]
 Arroja mantequilla y maíz a los zombis
@@ -46111,7 +46131,7 @@ Arroja mantequilla y maíz a los zombis
 Dispara gotas de limonada a los zombis
 
 [PLANTTRIAL_LOTUSSHOWER_DESC]
-Dispara semillas explosivas en la tierra y torpedos explosivos en el agua
+Dispara semillas explosivas en tierra y torpedos bajo el agua
 
 [PLANTTRIAL_SNAPDRAGON_DESC]
 Echa fuego en un área delante de ella
@@ -46126,13 +46146,13 @@ Dispara estrellas en 5 direcciones
 Proporciona el doble de sol que el Girasol
 
 [PLANTWARS_HEAD_DES_ID_25594]
-A quienes reunieron 15 Estrellas en la 1ra Temporada de Ezcape del vacío
+A quienes reunieron 15 Estrellas en la 1ra temporada de Ezcape del vacío
 
 [PLANTWARS_HEAD_DES_ID_25607]
-A quienes reunieron 15 Estrellas en la 2da Temporada de Ezcape del vacío
+A quienes reunieron 15 Estrellas en la 2da temporada de Ezcape del vacío
 
 [PLANTWARS_HEAD_DES_ID_25697]
-A quienes reunieron 15 Estrellas en la 3ra Temporada de Ezcape del vacío
+A quienes reunieron 15 Estrellas en la 3ra temporada de Ezcape del vacío
 
 [PLANTWARS_HEAD_ID_25594]
 Experto en ezcapes
@@ -46147,13 +46167,13 @@ Ezcape express
 1. Disponibilidad
 
 [PLANTWARS_KEY_INFO_TEXT_2]
-El evento está disponible del 31 de octubre al 21 de noviembre.
+El evento está disponible del 31 de octubre al 21 de noviembre
 
 [PLANTWARS_KEY_INFO_TEXT_3]
 2. Desbloqueo de niveles
 
 [PLANTWARS_KEY_INFO_TEXT_4]
-Los niveles se desbloquean con el tiempo, uno cada día.
+Los niveles se desbloquean con el tiempo, uno cada día
 
 [PLANTWARS_KEY_INFO_TEXT_5]
 3. Objetivos de Nivel
@@ -46170,7 +46190,7 @@ Las recompensas de cada nivel no son repetibles
 [PLANTWARS_KEY_INFO_TEXT_ALL]
 1. Horario: 31 de octubre al 21 de noviembre.
 2. Desbloqueo de niveles: se desbloquea un nivel cada día.
-3. Objetivos: puedes obtener recompensas después de completarlos objetivos de nivel
+3. Objetivos: puedes obtener recompensas después de completar los objetivos de nivel
 4. Recompensas: se obtienen una sola vez al completar objetivos
 
 [PLANTWARS_KEY_INFO_TITLE]
@@ -47385,34 +47405,34 @@ Shock
 Hipnotizar
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_1]
-^DB8117^Atributos: ^A0522D^sus quemaduras causan daño continuo a los zombis^oldclr^
+^DB8117^Atributos: ^A0522D^quemaduras^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia ígnea ^A0522D^de los zombis de élite en 10 puntos^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia ígnea^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_3]
-^DB8117^Atributos: ^A0522D^puede aturdir zombis con sus ataques^oldclr^
+^DB8117^Atributos: ^A0522D^aturdir^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia física ^A0522D^de los zombis de élite en 10 puntos^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia física^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_5]
-^DB8117^Atributos: ^A0522D^puede congelar zombis con sus ataques^oldclr^
+^DB8117^Atributos: ^A0522D^congelar^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia gélida ^A0522D^de los zombis de élite en 10 puntos^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia gélida^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_7]
-^DB8117^Atributos: ^A0522D^puede envenenar zombis con sus ataques^oldclr^
+^DB8117^Atributos: ^A0522D^envenenar^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia al veneno ^A0522D^de los zombis de élite en 10 puntos^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia al veneno^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_9]
-^DB8117^Atributos: ^A0522D^sus ataques eléctricos causan shock en los zombis, inmovilizándolos un tiempo^oldclr^
+^DB8117^Atributos: ^A0522D^shock eléctrico^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia eléctrica ^A0522D^de los zombis de élite en 10 puntos^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia eléctrica^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_11]
-^DB8117^Atributos: ^A0522D^hipnotiza o transforma zombis con magia^oldclr^
+^DB8117^Atributos: ^A0522D^magia^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^los ataques reducen la ^D22808^Resistencia mágica ^A0522D^de los zombis de élite en 10 puntos^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia mágica^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TITLE]
 ^2f8101^Resistencia y resiliencia^oldclr^
@@ -50091,10 +50111,10 @@ Los zombis controlados por su efecto, ganan un 50% de salud y daño.
 {KEYWORD}Debilidad: {STAT}al ser derrotados, los zombis calabaza se transforman de vuelta al zombi original
 {KEYWORD}Características de la planta: {STAT}planta anaranjada, mágica
 
-{FLAVOR}Brujalabaza vivía sola en un bosque de pantano místico, es misteriosa y poderosa; puede usar una variedad de hechizos mágicos. Por ejemplo, le ordena a su escoba mágica que barra el piso para ella, la ayude a cocinar y lave los platos, también crea todo tipo de pociones extrañas.
+{FLAVOR}Entre calderos burbujeantes y libros de hechizos, Brujalabaza pasa las noches creando nuevas pociones para defender el jardín. Su escoba mágica siempre está cerca para echarle una mano... o un escobazo.
 
 [PUMPKINWITCH_DESCRIPTION_HEADER]
-Brujalabaza lanza calabazas mágicas que controlan a un zombi para que luche por ti.
+Lanza calabazas mágicas capaces de hechizar zombis y ponerlos bajo tu control.
 
 [PUMPKINWITCH_FAMILY]
 Cucurbitaceae
@@ -50138,7 +50158,7 @@ Lanza 5 calabazas a zombis aleatorios del patio.
 ^FF8000^Zombis calabaza: son un 30% más fuertes, no se transforman de vuelta al ser derrotados.^oldclr^
 
 [PUMPKINWITCH_PRODUCT_SHORT_DESC]
-Lanza calabazas mágicas que controlan a un zombi para que luche por ti
+Lanza calabazas mágicas que controlan zombis
 
 [PUMPKINWITCH_SKILL_LEVEL1]
 Nivel 2
@@ -50156,10 +50176,10 @@ Nivel 3
 Nivel 5
 
 [PUMPKINWITCH_SKILL_LEVEL5_DES]
-^DB8117^Magia oscura:^oldclr^ gana la probabilidad de disparar una calabaza que convierte zombis en gólems, los cuales lanzan hechizos y suprimen la curación zombi.
+^DB8117^Magia oscura:^oldclr^ gana la probabilidad de disparar una calabaza que convierte zombis en gólems, los cuales lanzan hechizos y suprimen la curación zombi
 
 [PUMPKINWITCH_TOOLTIP]
-Lanza calabazas mágicas que controlan a un zombi para que luche por ti
+Lanza calabazas mágicas que controlan zombis
 
 [PUMPKIN_AVATAR_NAME]
 Vela blanca
@@ -62867,15 +62887,27 @@ Cerrar sesión de {NAME}
 Salvia solar
 
 [SOLARSAGE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}vulnerable a las alimañas y a los mechs.
+{KEYWORD}Especial: {STAT}los zombis iluminados tienen la posibilidad de contagiar a otro zombis
+{KEYWORD}Debilidad: {STAT}vulnerable a las alimañas y a los mechs
+{KEYWORD}Características de la planta: {STAT}planta amarilla, productora de soles
 
 {FLAVOR}"Ommm", Salvia solar tararea en voz baja. Pero no engaña a nadie. Todos sabemos que está pensando en carreras de coches y bulldozers.
 
 [SOLARSAGE_DESCRIPTION_HEADER]
 Salvia solar ilumina a los zombis para que tomen mejores decisiones y se marchen, dejando tras ellos un rastro de soles.
 
-[SOLARSAGE_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Ilumina a los zombis que tiene alrededor, provocando que se peleen con los demás. Si no hay zombis en el área de efecto, produce sol.
+[SOLARSAGE_NEW_SKILL_LEVEL1_DES]
+Ilumina a los zombis que sueltan 10 soles cada 5 s ^FF0000^(máx. 60 s)^oldclr^
+^FF8000^Infectividad solar: los zombis iluminados contagian a otros zombis ^D22808^(0.5% probable)^oldclr^
+^E2725B^Especial: produce 10 soles al plantarse, y 25 al activarse^oldclr^
+
+[SOLARSAGE_NEW_SKILL_LEVEL4_DES]
+Gana un ^D22808^X% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
+^DB8117^Nutrientes: ilumina a los zombis de alrededor. Si no hay zombis en el área de efecto, produce sol.^oldclr^
+^FF8000^Infectividad solar: 25% probable^oldclr^
+
+[SOLARSAGE_PLANTFOOD_DESCRIPTION]
+Ilumina a los zombis que tiene alrededor, provocando que se peleen con los demás. Si no hay zombis en el área de efecto, produce sol.
 
 [SOLARSAGE_TOOLTIP]
 Ilumina a los zombis para conseguir soles
@@ -77630,7 +77662,7 @@ Zombi onmyoji celestial
 
 [ZOMBIE_ELITE_HEIAN_ONMYOJI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}tras agitar su abanico, genera ráfagas de viento destructivas
-{KEYWORD}Debilidad: {STAT}Orquídea rompevientos puede proteger tus plantas de sus ráfagas de viento
+{KEYWORD}Debilidad: {STAT}Dendrobium puede proteger tus plantas de sus ráfagas de viento
 
 {FLAVOR}Antaño, danzaba bajo cerezos en flor. Hoy, solo ruge el viento que convoca a su paso... y a su apetito.
 
@@ -78163,7 +78195,7 @@ Zombi onmyoji
 
 [ZOMBIE_HEIAN_ONMYOJI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}genera ráfagas destructivas al agitar su abanico
-{KEYWORD}Debilidad: {STAT}Orquídea rompevientos puede proteger tus plantas de sus potentes ráfagas
+{KEYWORD}Debilidad: {STAT}Dendrobium puede proteger tus plantas de sus potentes ráfagas
 
 {FLAVOR}Se dice que su abanico posee un poder tan enorme que, con un solo movimiento, podría reducir su santuario a pedazos.
 
@@ -80390,11 +80422,11 @@ Zombi buscador de oro
 Se lanza sobre tus defensas cuando se acaba la mecha
 
 [ZOMBIE_PUMPKIN_HOUSE_GHOST]
-Rey Calabaza
+Espectro calabaza
 
 [ZOMBIE_PUMPKIN_HOUSE_GHOST_DESCRIPTION]
-{KEYWORD}Especial: {STAT}inmune a proyectiles rectos y plantas defensivas
-{KEYWORD}Debilidad: {STAT}los proyectiles perforadores destrozan su calabaza, dejándolo expuesto al daño
+{KEYWORD}Especial: {STAT}inmune a proyectiles físicos y plantas defensivas
+{KEYWORD}Debilidades: {STAT}magia, proyectiles perforadores, explosiones
 
 {FLAVOR}Tras sobrevivir a la Casa de las Calabazas, este espíritu ya no teme a espadas ni balas. Lástima que siga siendo solo una cabeza.
 
@@ -80408,18 +80440,21 @@ Caballero sin cabeza
 {KEYWORD}Especial: {STAT}invoca Caballeros fantasma para sembrar el caos
 {KEYWORD}Especial: {STAT}deja llamas tras de sí mientras carga contra tus plantas
 
-{FLAVOR}Cuando fue derrotado por las plantas, un Caballero zombi decidió usar el hechizo de la inmortalidad porque no estaba dispuesto a aceptar la derrota y se convirtió en lo que vez ahora: un guerrero vengativo que domina los hechizos y las llamas. Regresará al mundo cada Halloween para sembrar el miedo hasta cumplir los propósitos que tenía antes de morir.
+{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques mágicos
+
+{FLAVOR}Cuando fue derrotado por las plantas, un Caballero zombi se negó a aceptar su destino y recurrió a un antiguo hechizo de inmortalidad. Lo que ves ahora es un guerrero maldito que domina las llamas y la magia oscura. Cada Halloween regresará para sembrar el miedo y terminar la guerra que jamás pudo ganar en vida.
 
 [ZOMBIE_PUMPKIN_KNIGHT_DESCRIPTION_HEADER]
-Un poderoso caballero que puede invocar espíritus y cargar contra tus plantas mientras deja estelas de fuego.
+Un poderoso caballero que puede invocar espíritus y turbar el ambiente.
 
 [ZOMBIE_PUMPKIN_KNIGHT_GHOST]
 Caballero fantasma
 
 [ZOMBIE_PUMPKIN_KNIGHT_GHOST_DESCRIPTION]
 {KEYWORD}Especial: {STAT}no puede ser atacado mientras es invisible
+{KEYWORD}Debilidades: {STAT}magia, proyectiles perforadores, explosiones
 
-{FLAVOR}Convocada por el Caballero sin cabeza, ésta alma en pena vino a este mundo para ayudarlo a obtener su venganza.
+{FLAVOR}Condenada a vagar eternamente entre los muertos, esta alma en pena regresó del inframundo para luchar bajo el mando del Caballero sin cabeza.
 
 [ZOMBIE_PUMPKIN_KNIGHT_GHOST_DESCRIPTION_HEADER]
 Cuando no hay plantas en su línea, se vuelve invisible y flota hacia la planta más cercana para destruirla.
@@ -80430,18 +80465,21 @@ Samhain
 [ZOMBIE_PUMPKIN_NECROMANCER_DESCRIPTION]
 ^E2725B^• Habilidades^oldclr^
 
-^DB8117^- Hipnosis de ultratumba:^oldclr^ ^A0522D^duerme plantas y las arrastra bajotierra, Grano de café contrarresta esta habilidad^oldclr^
+^DB8117^- Fantasmas aterradores:^oldclr^ ^A0522D^invoca fantasmas que duermen plantas del susto^oldclr^
 
-^DB8117^- Conjuro zombi:^oldclr^ ^A0522D^convoca las almas de los zombis derrotados^oldclr^
+^DB8117^- Conjuro zombi:^oldclr^ ^A0522D^convoca las almas de los zombis derrotados para que le curen^oldclr^
+
+^DB8117^- Almas de ultratumba:^oldclr^ ^A0522D^se lleva a las plantas dormidas al inframundo^oldclr^
 
 ^DB8117^- Escudo mágico:^oldclr^ ^A0522D^absorbe daño de plantas no mágicas^oldclr^
 
+{KEYWORD}Debilidad: {STAT}Grano de café neutraliza los efectos de los fantasmas
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques mágicos
 
-{FLAVOR}Aspiró a convertirse en caballero hasta que una flecha le atravesó la rodilla. Su ambición se transformó en convertirse en hechicero a partir de entonces.
+{FLAVOR}Los rituales le otorgaron dominio sobre la muerte, pero consumieron todo lo que quedaba de su humanidad. Desde entonces, las almas errantes responden a su llamado durante la noche de Halloween.
 
 [ZOMBIE_PUMPKIN_NECROMANCER_DESCRIPTION_HEADER]
-Un hechicero que arrastra plantas hacia el inframundo mientras invoca espíritus desde el más allá.
+Un hechicero que controla los poderes del inframundo.
 
 [ZOMBIE_PUMPKIN_SCARECROW_BIRD]
 Cuervo zombi
@@ -80513,7 +80551,6 @@ Escudero del ejército Qin, su escudo le proporciona una alta defensa.
 Zombi fangshì
 
 [ZOMBIE_QIN_TAOIST_DESCRIPTION]
-{KEYWORD}Especial: {STAT}convierte zombis en Guerreros de terracota
 {KEYWORD}Especial: {STAT}revive a los Guerreros de terracota
 
 {FLAVOR}Siente una inexplicable afinidad por las estatuas... y los zombis lo saben.
@@ -81763,13 +81800,15 @@ Es capaz de lanzar a su Zombi jinete por encima de la mayoría de tus defensas.
 Bruja calabaza
 
 [ZOMBIE_WITCH_DESCRIPTION]
-{KEYWORD}Especial: {STAT}esparce pociones que dañan plantas y potencian zombis
-{KEYWORD}Debilidad: {STAT}Nuez cáscara-rrabias le hace frente
+{KEYWORD}Daño: {STAT}esparce pociones que dañan plantas y potencian zombis
+{KEYWORD}Especial: {STAT}puede volar
 
-{FLAVOR}Es una zombi parcial. ¿Pociones dañinas para las plantas pero benéficas para los suyos? Hay algo que no cuadra en todo esto.
+{KEYWORD}Debilidad: {STAT}Nuez cáscara-rrabias
+
+{FLAVOR}Nadie sabe si sigue siendo humana o si la magia terminó consumiéndola hace mucho tiempo. Vive rodeada de pociones, humo verdoso y extraños experimentos que ni los propios zombis se atreven a probar. Cada Halloween aparece nuevamente en busca de ingredientes para sus rituales.
 
 [ZOMBIE_WITCH_DESCRIPTION_HEADER]
-Elabora todo tipo de pociones y las lanza por todo el patio mientras se mueve a toda velocidad.
+Experta en magia, maldiciones y pociones sospechosamente tóxicas.
 
 [ZOMBIE_YETI]
 Zombi yeti
@@ -82010,7 +82049,7 @@ Muñeco de nieve
 {FLAVOR}Fue construido para resistir invasiones, no estaciones cálidas.
 
 [ZOMBIE_ZOMBIE_SNOWMAN_DESCRIPTION_HEADER]
-Muñeco de nieve inmóvil creado por Reina flor de nieve.
+Muñeco de nieve inmóvil creado por Reina flor de hielo.
 
 [ZOMBIE_ZOMBIE_SNOWPEA]
 Zombi hielaguisantes
@@ -82254,7 +82293,7 @@ Zombot buitre de guerra
 
 ^E2725B^• Fase 3^oldclr^
 
-{KEYWORD}Daño: {STAT}libera dos electrodos que destruyen columnas de plantas si no son destruidos a tiempo
+{KEYWORD}Daño: {STAT}libera dos electrodos que chamuscan columnas de plantas si no son destruidos a tiempo
 {KEYWORD}Especial: {STAT}de vez en cuando, lanza un ataque masivo por todo el patio
 
 {KEYWORD}Debilidad: {STAT}Níspero ciclónico intercepta sus proyectiles, incluidos torbellinos
@@ -82324,7 +82363,7 @@ REFORJA REAL: ¡derrota al emperador ahora!
 {FLAVOR}Impulsado por el rencor de su derrota, el Señor del Palacio Subterráneo absorbió el poder del inframundo, desatando habilidades aún más temibles... y mucho más aterradoras.
 
 [ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_DESCRIPTION_HEADER]
-Forma etérea del Primer Emperador, ahora conocido como el "Rey de las tinieblas"
+Forma etérea del Primer Emperador, ahora conocido como  "El rey de las tinieblas"
 
 [ZOMBIE_ZOMBOSS_TEAMBOSS]
 Bestia rugiente Zombot
