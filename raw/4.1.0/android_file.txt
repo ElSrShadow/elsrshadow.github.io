@@ -75,7 +75,7 @@ Tu cuenta ha sido eliminada, crea una nueva para comenzar el juego.
 Inicio de sesión acumulativo
 
 [ACCUMULATE_RECHARGE_REWARD]
-Acumula {NUM} Fragmentos de mapas para reclamar premios, recarga hasta 30 ¥ por día para obtener más.
+Acumula {NUM} Fragmentos de mapas para reclamar premios, recarga hasta 30 元 por día para obtener más.
 
 [ACCUMU_GIFT]
 Premios
@@ -244,7 +244,7 @@ El evento ha terminado.
 [ACTIVITY_GROUP_BUY_DESCRIPTION]
 1. Horario: 9:00 AM - 9:00 PM del dia siguiente. El último día finaliza a las 24h
 2. Gasta Joyas durante el evento para comprar artículos y recibir un jugoso descuento.
-3. Se pueden conseguir Cupones por la recarga de ¥. Los Cupones se usan para canjear artículos especiales.
+3. Se pueden conseguir Cupones por la recarga de 元. Los Cupones se usan para canjear artículos especiales.
 4. Las plantas que se pueden adquirir son de Nvl. 2 ó 3, se convierten en Piezas si ya las posees.
 
 [ACTIVITY_GROUP_BUY_TITLE]
@@ -316,7 +316,7 @@ DESCRIPCIÓN DEL EVENTO
 DESCRIPCIÓN DEL EVENTO
 
 [ACTIVITY_NEW_PIGGY_BANK_BTN]
-Comprar x30 ¥
+Comprar x30 元
 
 [ACTIVITY_NEW_PIGGY_BANK_DESC]
 Compra una hucha y ahorra hasta un ^ff0000^99%^oldclr^ al comprar Joyas ^ff0000^(máx. 2.970)^oldclr^
@@ -779,7 +779,7 @@ Las Raíces de escape no pueden intercambiarse con una planta que utilice Nutrie
 Las Raíces de escape no pueden intercambiarse con esa planta
 
 [ADVICE_FIRST_RECHARGE]
-Recarga ¥ por primera vez para obtener un regalo especial
+Recarga 元 por primera vez para obtener un regalo especial
 
 [ADVICE_GENE]
 ¡Potenciador de genes desbloqueado!
@@ -1349,7 +1349,7 @@ Toca en el botón para empezar.
 Los zombis solo pueden colocarse en el lado derecho del patio
 
 [AD_FREE_BUY]
-18 ¥
+18 元
 
 [AD_FREE_BUY_SUCCESS_TEXT]
 ¡Los anuncios se han ido para siempre!
@@ -9685,7 +9685,7 @@ Cuestión de puntería - III
 Cuestión de puntería
 
 [CHALLENGE_PLANT_DEFEAT_ZOMBIES]
-Usa a {NAME} para derrotar a {NUMBER} zombis.
+Usa a {NAME} para derrotar a {NUMBER} zombis
 
 [CHALLENGE_PLANT_DEFEAT_ZOMBIES_NAME]
 Plantas liquidantes
@@ -10256,10 +10256,10 @@ La explosión de Chile gélido es tan destructiva como su frialdad. Inflige gran
 Explota y deja varias líneas congeladas
 
 [CHNAGE_SPEED_TIPS]
-Recarga 20 ¥ para desbloquear el Botón turbo.
+Recarga 20 元 para desbloquear el Botón turbo.
 
 [CHNAGE_SPEED_TIPS_QQ]
-Recarga 20 ¥ para desbloquear el Botón turbo.
+Recarga 20 元 para desbloquear el Botón turbo.
 
 [CHOMPER]
 Planta carnívora
@@ -10396,13 +10396,13 @@ Si este mensaje aparece más de una vez, conéctate a Internet o desactiva el Ce
 Obteniendo info de recompensas...
 
 [CHRISTMAS_GOLDEN_EGG_HAMMERS_INFO]
-Todos los dias recibes {HAMMERS} Martilllos de oro por la recarga diaria de {RMB} ¥
+Todos los dias recibes {HAMMERS} Martilllos de oro por la recarga diaria de {RMB} 元
 
 [CHRISTMAS_GOLDEN_EGG_NOT_BUY_BUTTON]
 CANCELAR
 
 [CHRISTMAS_GOLDEN_EGG_NOT_ENOUGH_HAMMER]
-No hay suficientes martillos, ¿deseas recargar ¥ para conseguir más?
+No hay suficientes martillos, ¿deseas recargar 元 para conseguir más?
 
 [CHRISTMAS_GOLDEN_EGG_NOT_ENOUGH_HAMMER_LEFT]
 No hay suficientes martillos, vuelve mañana por más.
@@ -10954,7 +10954,7 @@ Nivel 5
 Exhala una niebla fría en el área que tiene delante
 
 [COLLECTABLE_AD_TITLE]
-Coleccionables por ¥
+Coleccionables por 元
 
 [COLLECTED_LEVEL]
 Guardado a favoritos
@@ -13203,7 +13203,7 @@ Registro:
 
 [DAILY_SINGLE_RECHARGE_REWARD]
 Recarga única de
-¥
+元
 
 [DAMAGE]
 Daño
@@ -13557,10 +13557,10 @@ Lotes de infinito
 Lotes
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-Descuento: {NUMBER} ¥
+Descuento: {NUMBER} 元
 
 [DANGERROOM_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-Precio inicial: {NUMBER} ¥
+Precio inicial: {NUMBER} 元
 
 [DANGERROOM_START_FAILED]
 No se puede iniciar la Zona de infinito
@@ -13623,6 +13623,9 @@ ENTRENAR
 
 [DANGERROOM_TRAINING_START_HINT]
 ¡Haz empezado el Entrenamiento del Infinito!
+
+[DANGERROOM_USER_SCORE]
+    
 
 [DANGERROOM_WORLD_TRAVEL]
 Viajar a {WORLDNAME}
@@ -13729,7 +13732,7 @@ Camino a la paz - Nivel {LEVEL_NUMBER}
 Puntuación máxima:
 
 [DANGER_ROOM_HIGHEST_LEVEL_REACHED]
-Nivel más alto alcanzado:% d
+Nivel más alto alcanzado: %d
 
 [DANGER_ROOM_ICEAGE_LEVEL_NAME]
 Campo de Batalla Helado - Nivel {LEVEL_NUMBER}
@@ -13783,7 +13786,7 @@ Próximo hito:
 {NUMBER} alcanzado(s)
 
 [DANGER_ROOM_PIRATE_LEVEL_NAME]
-Botín del muerto  - Nivel {LEVEL_NUMBER}
+Botín del muerto - Nivel {LEVEL_NUMBER}
 
 [DANGER_ROOM_PIRATE_TITLE_WELCOME]
 ¡Bienvenido al Botín del muerto!
@@ -13824,12 +13827,6 @@ Museo del Renacimiento - Nivel {LEVEL_NUMBER}
 [DANGER_ROOM_RENAI_TITLE_WELCOME]
 ¡Te damos la bienvenida al Museo del Renacimiento!
 
-[DANGER_ROOM_REWARD_FLAME_THROWER]
-Añade una utilización gratis de Llama poderosa
-
-[DANGER_ROOM_REWARD_FLICK_ZOMBIE]
-Añade una utilización gratis de Tiro poderoso
-
 [DANGER_ROOM_REWARD_FOURTH_CARD]
 Revelar por
 
@@ -13847,9 +13844,6 @@ Te permite empezar con {PF_COUNT} Nutrientes adicionales
 
 [DANGER_ROOM_REWARD_PLANTFOOD_DESC_SINGULAR]
 Te permite empezar con un Nutriente adicional.
-
-[DANGER_ROOM_REWARD_SNOWBALL]
-Añade una utilización gratis de Poder de nieve
 
 [DANGER_ROOM_REWARD_SUN_DESC]
 Te permite empezar con {SUN_COUNT} soles adicionales
@@ -14244,7 +14238,7 @@ Derrota a cualquier Jefe 3 veces.
 Comprado
 
 [DAVE_TREASURE_BUY_1]
-Comprar x ^FFFF00^60 ¥^oldclr^
+Comprar x ^FFFF00^60 元^oldclr^
 
 [DAVE_TREASURE_BUY_2]
 Activar prémium
@@ -14257,7 +14251,7 @@ Comprueba si tienes los privilegios o refresca la pestaña
 
 [DAVE_TREASURE_DESCRIPTION]
 Obtén ^FFFF00^Fragmentos de mapa^FFFF00^ completando misiones.
-También puedes conseguir más al recargar ¥
+También puedes conseguir más al recargar 元
 (Los fragmentos especiales son exclusivos del pase prémium)
 
 [DAVE_TREASURE_ENDLESSBEATBOSS_5]
@@ -15205,7 +15199,7 @@ Derrota a {NUMBER} Zombis bailones
 Derrota al Dios de las Riquezas {NUMBER} veces
 
 [DEFEAT_X_FEASTIVUS_SWASHBUCKLER]
-Derrota {NUMBER} Ladrones de lingotes
+Derrota a {NUMBER} Ladrones de lingotes
 
 [DEFEAT_X_FISHERMEN]
 Derrota a {NUMBER} Pescadores
@@ -15220,16 +15214,16 @@ Derrota a {NUMBER} Zombidinsteins de ZCorp
 Derrota a {NUMBER} Asistentes ZCorp
 
 [DEFEAT_X_ICEAGE_GARGANTUAR]
-Derrota a {NUMBER} Zombisteins perezosos.
+Derrota a {NUMBER} Zombisteins perezosos
 
 [DEFEAT_X_IMPS]
-Derrota {NUMBER} Zombiditos.
+Derrota a {NUMBER} Zombiditos
 
 [DEFEAT_X_JUGGLERS]
 Derrota a {NUMBER} Zombis bufones
 
 [DEFEAT_X_KINGS]
-Derrota a {NUMBER} Reyes zombi.
+Derrota a {NUMBER} Reyes zombi
 
 [DEFEAT_X_LUNARZOMBIES]
 Derrota {NUMBER} Zombis de Año Nuevo
@@ -15250,31 +15244,31 @@ Derrota a {NUMBER} Romanos.
 Derrota a {NUMBER} Zombis carabusto
 
 [DEFEAT_X_STONEZOMBIES]
-Derrota a {NUMBER} zombi (s) creados por lápidas.
+Derrota a {NUMBER} zombi (s) creados por lápidas
 
 [DEFEAT_X_SURFERS]
-Derrota a {NUMBER} Zombis surfistas.
+Derrota a {NUMBER} Zombis surfistas
 
 [DEFEAT_X_TOMBRAISERS]
-Derrota a {NUMBER} Zombis levantatumbas.
+Derrota a {NUMBER} Zombis levantatumbas
 
 [DEFEAT_X_YETIS]
-Derrota a {NUMBER} Yetis.
+Derrota a {NUMBER} Yetis
 
 [DEFEAT_X_ZCORPIONS]
-Derrota a {NUMBER} Zombis ezcorpiones.
+Derrota a {NUMBER} Zombis ezcorpiones
 
 [DEFEAT_X_ZCORPS]
-Derrota a {NUMBER} Zombis de ZCorp Inc.
+Derrota {NUMBER} Zombis de ZCorp SA
 
 [DEFEAT_X_ZCORPZOMBIES]
 Derrota {NUMBER} zombis de ZCorp
 
 [DEFEAT_X_ZOMBIES]
-Derrota a {NUMBER} zombis.
+Derrota {NUMBER} zombis
 
 [DEFEAT_ZMECH_X_TIMES]
-Derrota a Z-Mech {NUMBER} veces.
+Derrota al Z-Mech {NUMBER} veces
 
 [DELETE_BUTTON]
 BORRAR
@@ -18271,7 +18265,7 @@ Completa el día 16 del Salvaje Oeste para ir a la Búsqueda de Penny
 Reventón de petardos
 
 [FESTIVAL2019_ONEYUAN_TITLE]
-Premios por 1 ¥
+Premios por 1 元
 
 [FESTIVAL2019_REDPACLET_DIAMOND]
 Joyas
@@ -20640,7 +20634,7 @@ Cofres
 Joyas
 
 [GEM_BUY_RMB]
-¥
+元
 
 [GEM_NOT_ENOUGH_DIALOG_TEXT]
 ¿Comprar más Joyas?
@@ -21299,7 +21293,7 @@ Nivel 5
 Salta hacia adelante y hacia atrás, esquivando al Zombistein
 
 [GET_ACCESSORY_PIECE]
-¡Conseguiste Piezas de Colgantes!
+Tienes un premio: ¡PIEZAS DE COLGANTES!
 
 [GET_ADDITION]
 ¡Nueva bonificación!
@@ -21308,7 +21302,7 @@ Salta hacia adelante y hacia atrás, esquivando al Zombistein
 ANUNCIO
 
 [GET_CRYSTAL]
-Consigue {ITEM}
+{ITEM}
 
 [GET_FREE_MYSTERY_CRYSTAL_BUTTON]
 OBTENER
@@ -21317,7 +21311,7 @@ OBTENER
 Puedes conseguir más Piezas en:
 
 [GET_PLANT_PIECE]
-¡Conseguiste Piezas para plantas!
+Tienes un premio: ¡PIEZAS PARA PLANTAS!
 
 [GET_RANDOM_BUNDLE_OFFER]
 Recibe un Paquete al azar cada día
@@ -21421,7 +21415,7 @@ Completa 1 Nivel en la Zona de Infinito
 Completa 1 Nivel en la Dimensión del Recuerdo
 
 [GIFT_FOR_RETURN_TASK_NAME_9]
-Completa 1 Nivel en la Dimensión del Recuerdo (Modo dificil)
+Completa 1 Nivel en la Dimensión del Recuerdo (Difícil)
 
 [GIFT_FOR_RETURN_TASK_NAME_10]
 Completa 1 Búsqueda de Penny
@@ -21454,13 +21448,13 @@ Abre 3 Cofres secretos
 Publica 1 Nivel en el Patio de la Creatividad
 
 [GIFT_FOR_RETURN_TASK_NAME_20]
-Completa una Misión especial del Tronco de Viaje
+Completa una misión especial del Tronco de Viaje
 
 [GIFT_FOR_RETURN_TASK_NAME_21]
-Compra un artículo en la Tienda de Rubíes misteriosos
+Compra un artículo en la Tienda misteriosa
 
 [GIFT_FOR_RETURN_UPDATE_NEW_1]
-^FFFF00 Nueva interfaz  ^oldclr           La información de plantas ahora es más detallada
+^FFFF00^Nueva interfaz:^oldclr^ la información de plantas ahora es más detallada
 
 [GIFT_FOR_RETURN_UPDATE_NEW_2]
 Nuevas plantas
@@ -21472,10 +21466,10 @@ Controla la gravedad con este nuevo artefacto y derrota zombis
 Aparato gravitacional
 
 [GIFT_FOR_RETURN_UPDATE_NEW_4]
-^FFFF00 Nuevo modo ^oldclr            Enemigos más fuertes, retos más complejos
+^FFFF00^Nuevo modo - Ezcape del vacío:^oldclr^ enemigos más fuertes, retos más complejos
 
 [GIFT_FOR_RETURN_WELCOME_1]
-^FFFF00 ¡Bienvenido de vuelta, {NAME}! ^oldclr
+^FFFF00^¡Bienvenido de vuelta, {NAME}!^oldclr^
 
 [GIFT_FOR_RETURN_WELCOME_2]
 Han pasado muchas cosas interesantes durante tu ausencia.
@@ -23100,7 +23094,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 2.0.0 (actualizado el 20/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.0^oldclr^ | ^87CEFA^Parche: 2.0.1 (actualizado el 20/5/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -23355,14 +23349,14 @@ Por cada 6 balas del efecto, el sigte. proyectil perforará la armadura del enem
 
 [HELICONIAGUNNER_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}ataca por su fila, y en las diagonales
-{KEYWORD}Especial: {STAT}prioriza a los zombis más cercanos a tu casa
+{KEYWORD}Uso: {STAT}necesita recargar munición después de una ronda de ataques
 {KEYWORD}Especial: {STAT}puede inmovilizar hasta 3 zombis con redes
 {KEYWORD}Características de la planta: {STAT}planta amarilla (roja), temperamental, destructora, familia de armas
 
 {FLAVOR}Se unió al ejército en plena adolescencia rebelde. Compartía aposentos con Granada metralla y Rábano militar, quienes aprendieron rápido a convivir con su temperamento feroz... o apartarse.
 
 [HELICONIAGUNNER_DESCRIPTION_HEADER]
-Heliconia acribilla a los zombis de todas direcciones con su potente ametralladora. Necesita cambiar de munición después de una ronda de ataques.
+Heliconia acribilla a los zombis de todas direcciones con su potente ametralladora, priorizando a los más cercanos a tu casa.
 
 [HELICONIAGUNNER_NEW_SKILL_LEVEL1_DES]
 Acribilla a los zombis con su ametralladora. ^D22808^Munición: 30 balas, 3 redes^oldclr^
@@ -23390,7 +23384,7 @@ Acribilla a los zombis con su ametralladora
 Nivel 2
 
 [HELICONIAGUNNER_SKILL_LEVEL1_DES]
-^4DD4DB^Ametralladora mejorada:^oldclr^ aumenta la capacidad de la ametralladora en un 20% junto a la velocidad de disparo.
+^4DD4DB^Ametralladora mejorada:^oldclr^ aumenta la capacidad de la ametralladora en un 20% junto a la velocidad de disparo
 
 [HELICONIAGUNNER_SKILL_LEVEL2]
 Nivel 3
@@ -23402,7 +23396,7 @@ Nivel 3
 Nivel 5
 
 [HELICONIAGUNNER_SKILL_LEVEL5_DES]
-^DB8117^Arma definitiva:^oldclr^ dispara 3 cohetes teledirigidos, que explotan cuando impactan contra un zombi.
+^DB8117^Arma definitiva:^oldclr^ dispara 3 cohetes teledirigidos, que explotan cuando impactan contra un zombi
 
 [HELICONIAGUNNER_TOOLTIP]
 Acribilla a los zombis con su ametralladora
@@ -25430,7 +25424,7 @@ Colócate en las posiciones más altas de tu marcador para ascender a una liga m
 Las tablas de clasificación duran un periodo de 5 semanas, empezando los viernes a las 3:00 PM, y terminando a las 9:00 PM del mismo dia en la 6ta semana.
 
 [JOUST_HOWTOPLAY_6_DESCRIPTION]
-Recibes un Guantelete gratis cada 8 h. También puedes comprarlos con Joyas o ¥, pero no recibirás más gratis hasta que se agoten.
+Recibes un Guantelete gratis cada 8 h. También puedes comprarlos con Joyas o 元, pero no recibirás más gratis hasta que se agoten.
 
 [JOUST_HOW_TO_PLAY]
 ¿CÓMO JUGAR?
@@ -27796,7 +27790,7 @@ No tienes Boletos suficientes para participar en el sorteo. ¿Deseas gastar ^382
 No tienes suficientes Boletos para participar en los sorteos. ¿Deseas gastar ^3827F5^{NUMBER} Joyas^oldclr^ para completar los que faltan?
 
 [LIMIT_LOTTERY_PACKETS_BIG]
-25 ¥ ^FF0000^(Límite de compra: 5)^oldclr^
+25 元 ^FF0000^(Límite de compra: 5)^oldclr^
 
 [LIMIT_LOTTERY_PACKETS_DESCRIPTION]
 Compra ^DD7ECB^6.000 Monedas^oldclr^ y obtén ^DD7ECB^60+^oldclr^
@@ -27804,10 +27798,10 @@ Usa las monedas para girar la ruleta y
 obtener Trofeos que se canjean por plantas.
 
 [LIMIT_LOTTERY_PACKETS_SMALL]
-6 ¥ ^FF0000^(Límite de compra: 1)^oldclr^
+6 元 ^FF0000^(Límite de compra: 1)^oldclr^
 
 [LIMIT_LOTTERY_PACKETS_SUPER_BIG]
-328 ¥ ^FF0000^(Límite de compra: 66)^oldclr^
+328 元 ^FF0000^(Límite de compra: 66)^oldclr^
 
 [LIMIT_TIMES_NOT_ENOUGH]
 Agotado el número de intentos.
@@ -27922,7 +27916,7 @@ Nivel 3
 [LONGMALILY_SKILL_LEVEL5]
 Nivel 5
 
-[LONGMALILY_SKILL_LEVEL5_DES
+[LONGMALILY_SKILL_LEVEL5_DES]
 ^DB8117^Ascenso del dragón:^oldclr^ sus ataques evolucionan a la forma dragón, atravesando todas las filas y generando ondas de choque.
 
 [LONGMALILY_TOOLTIP]
@@ -27953,13 +27947,13 @@ Ahorra hasta un {PERCENT}%
 Burbujas del ahorro
 
 [LOST_NETWORK_ACTIVE_BUY_BUTTON]
-{COST} ¥
+{COST} 元
 
 [LOST_NETWORK_ACTIVE_OLD_COST_1]
 Costo:
 
 [LOST_NETWORK_ACTIVE_OLD_COST_3]
-¥
+元
 
 [LOST_NETWORK_ACTIVE_PLANT_LEVEL1]
 {PLANT} al Nvl. 1
@@ -28264,13 +28258,13 @@ ACTUALIZAR
 Actualiza el juego para conseguir nuevos contenidos.
 
 [LUCKBAG_ANNOUNCEMENT_CONTENT]
-Selecciona 6 plantas y gasta ¥ para abrir la bolsa, recibirás al azar una planta legendaria y otra épica.
+Selecciona 6 plantas y gasta 元 para abrir la bolsa, recibirás al azar una planta legendaria y otra épica.
 
 [LUCKBAG_ANNOUNCEMENT_TITLE]
 Bolsas de regalo
 
 [LUCKBAG_BUY]
-45 ¥
+45 元
 
 [LUCKBAG_CHANCE_TABLE]
 • Probabilidades de plantas:
@@ -28792,7 +28786,7 @@ El campo se encoge infligiendo daño nueva vez y dejando otro más pequeño. ^D2
 [MANGOSTEEN_DESCRIPTION]
 {KEYWORD}Área: {STAT}3x3
 {KEYWORD}Especial: {STAT}inflige más daño en un área mayor después de cierto tiempo
-{KEYWORD}Debilidad: {STAT}descansa después de realizar una serie de ataques
+{KEYWORD}Uso: {STAT}descansa después de realizar una serie de ataques
 {KEYWORD}Características de la planta: {STAT}planta púrpura (azul), electrizante, destructora
 
 {FLAVOR}Mangostán pasa gran parte del tiempo esperando tormentas eléctricas. La paciencia no es opcional cuando eres una batería con hojas.
@@ -28842,7 +28836,7 @@ Reune energía para liberar campos eléctricos; crece y libera más con el tiemp
 Nivel 2
 
 [MANGOSTEEN_SKILL_LEVEL1_DES]
-^4DD4DB^Ampliación de potencia:^oldclr^ el número de ataques aumenta en 1; se reduce el tiempo de sobrecarga en 5 segundos.
+^4DD4DB^Ampliación de potencia:^oldclr^ el número de ataques aumenta en 1; reduce el tiempo de sobrecarga en 5 s
 
 [MANGOSTEEN_SKILL_LEVEL2]
 Nivel 3
@@ -31068,7 +31062,7 @@ Ventajas
 Info
 
 [MINIGAME_COLLECTION_TIPS_INFO]
-¥
+元
 
 [MINIGAME_COLLECTION_TITLE]
 Maratón de minijuegos
@@ -31514,16 +31508,16 @@ GRATIS
 ^FF0000^GRATIS^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE1]
-^FF0000^12.5 ¥^oldclr^
+^FF0000^12.5 元^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE2]
-^FF0000^50 ¥^oldclr^
+^FF0000^50 元^oldclr^
 
 [MONTHLY_CARD_ORIGINAL_PRICE3]
-^FF0000^150 ¥^oldclr^
+^FF0000^150 元^oldclr^
 
 [MONTHLY_CARD_PRICE]
-{NUM} ¥
+{NUM} 元
 
 [MONTHLY_CARD_QUERY_FAILED]
 No se pudo comprar la tarjeta
@@ -36988,7 +36982,7 @@ Mientras más días accedas, mejores recompensas obtendrás.
 {SAY:winnieicon}Este signo indica que habrá Zombisteins en este lugar. Tengamos cuidado.
 
 [NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_1]
-{NPC_ENTER:crazydaveicon}{EXCITED}¡Hola, vecino! ¿Sabías que si recargas ¥ consigues mejores premios?
+{NPC_ENTER:crazydaveicon}{EXCITED}¡Hola, vecino! ¿Sabías que si recargas 元 consigues mejores premios?
 
 [NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_2]
 {PLAYFUL}¡Así es! Tenemos un buen lote a un pequeño precio, ¡échale un buen vistazo!
@@ -37790,7 +37784,7 @@ Introduce el código para restaurar tu Bolso de regalos.
 Restaurar bolsos
 
 [NEWER_PRESENT_ADVANCE_DES]
-Recarga ^FF0000^12 ¥^oldclr^ para conseguir a ^00FF00^Hielaguisantes^oldclr^, ^DB8117^Monedas^oldclr^ y ^4DD4DB^Joyas^oldclr^
+Recarga ^FF0000^12 元^oldclr^ para conseguir a ^00FF00^Hielaguisantes^oldclr^, ^DB8117^Monedas^oldclr^ y ^4DD4DB^Joyas^oldclr^
 (Recibes ^4DD4DB^155 Joyas^oldclr^ extra)
 
 [NEWER_PRESENT_ADVANCE_TITLE]
@@ -37800,18 +37794,18 @@ Regalo platino
 RECARGAR
 
 [NEWER_PRESENT_DES]
-Recarga ^FF0000^12 ¥^oldclr^ para conseguir a ^00FF00^Repetidora^oldclr^, ^DB8117^Monedas^oldclr^ y ^4DD4DB^Joyas^oldclr^
+Recarga ^FF0000^12 元^oldclr^ para conseguir a ^00FF00^Repetidora^oldclr^, ^DB8117^Monedas^oldclr^ y ^4DD4DB^Joyas^oldclr^
 (Recibes ^4DD4DB^30 Joyas^oldclr^ extra)
 
 [NEWER_PRESENT_FIRSTRECHARGE_DES]
-Compra un paquete de Joyas por tan solo ^FF0000^2 ¥^oldclr^
+Compra un paquete de Joyas por tan solo ^FF0000^2 元^oldclr^
 (Recibes ^4DD4DB^155^oldclr^ extra)
 
 [NEWER_PRESENT_FIRSTRECHARGE_TITLE]
 Lotes por primera recarga
 
 [NEWER_PRESENT_FOR_CHINAMOBILEMM_DES]
-Compra artículos en la Tienda por tan solo 0.1 ¥
+Compra artículos en la Tienda por tan solo 0.1 元
 ¡Oportunidades limitadas, aprovéchalas!
 
 [NEWER_PRESENT_NEW_TITLE]
@@ -42286,7 +42280,7 @@ Se ha alcanzado el límite de dispositivos vinculados. ^ff0000^(Solo se permiten
 Se ha producido un error al enlazar el archivo. ^ff0000^(Solo se puede enlazar 3 veces)^oldclr^
 
 [ONEYUAN_SHOR_DESCRIPTION]
-Abre huevos por tan solo 1 ¥, podrás conseguir plantas épicas y legendarias en ellos.
+Abre huevos por tan solo 1 元, podrás conseguir plantas épicas y legendarias en ellos.
 
 [ONE_CLICK_TO_RECEIVE]
 Toca para recibir
@@ -43795,7 +43789,7 @@ Doctor en botánica
 La parada en boxes de Penny
 
 [PENNY_ADVANCED_GUIDE_BUY]
-Comprar por ^FFFF00^30 ¥^oldclr^
+Comprar por ^FFFF00^30 元^oldclr^
 
 [PENNY_ADVANCED_GUIDE_DES]
 ^FF9E6B^Descripción del evento:^oldclr^
@@ -45933,13 +45927,13 @@ No puedes plantar en armaduras pesadas
 No puedes plantar sobre cajas registradoras
 
 [PLANTING_NOT_ON_MAGIC_MIRROR]
-{PLANT_NAME} no puede plantarse en espejos mágicos
+No puedes plantar en espejos mágicos
 
 [PLANTING_NOT_ON_MANHOLE]
 No puedes plantar en alcantarillas
 
 [PLANTING_NOT_ON_NECROMANCER_STONE]
-Destruye la pila de piedras antes
+Destruye todas las lápidas para liberar la maldición
 
 [PLANTING_NOT_ON_OBSTACLE]
 No puedes plantar en el hielo
@@ -45954,7 +45948,7 @@ No puedes plantar eso en Baldosas Vitruvianas
 No puedes plantar en Ruedas Vitruvianas
 
 [PLANTING_NOT_ON_ROOF]
-{PLANT_NAME} no puede plantarse en el tejado
+{PLANT_NAME} rompería el tejado
 
 [PLANTING_NOT_ON_SCARECROW]
 No puedes plantar en espantapájaros
@@ -45987,13 +45981,13 @@ No puedes plantar sobre guerreros de terracota
 No puedes plantar sobre trenes
 
 [PLANTING_NOT_ON_UNCHARTED_HAYSTACK]
-No puedes colocar a {PLANT_NAME} sobre césped
+{PLANT_NAME} dañaría el césped
 
 [PLANTING_NOT_ON_VAN_MIST]
 No se puedes plantar en casillas en llamas
 
 [PLANTING_NOT_ON_YUANBAO]
-No puedes plantar sobre lingotes de oro.
+No puedes plantar sobre lingotes de oro
 
 [PLANTING_ON_BESIEGE_BOX]
 Solo puedes plantar sobre algunas cajas
@@ -46062,19 +46056,19 @@ Los primeros 3 Búmerans no cuestan soles, ¡disfrúta del show!
 Da rápidos puñetazos a los enemigos que tiene delante y detrás
 
 [PLANTTRIAL_BUY_BUTTON_NAME_1]
-{NUMBER} ¥
+{NUMBER} 元
 
 [PLANTTRIAL_BUY_BUTTON_NAME_2]
 {NUMBER} Joyas
 
 [PLANTTRIAL_BUY_DIALOG_NAME_1]
-¿Deseas comprar ^98FB98^{PLANT_NAME} al Nvl. {PLANT_LEVEL}^oldclr^ + ^DB8117^{COIN_NUM} Monedas^oldclr^ por ^FF0000^{COST_NUM} ¥^oldclr^?
+¿Deseas comprar ^98FB98^{PLANT_NAME} al Nvl. {PLANT_LEVEL}^oldclr^ + ^DB8117^{COIN_NUM} Monedas^oldclr^ por ^FF0000^{COST_NUM} 元^oldclr^?
 
 [PLANTTRIAL_BUY_DIALOG_NAME_2]
 ¿Deseas comprar ^98FB98^{PLANT_NAME} al Nvl. {PLANT_LEVEL}^oldclr^ + ^DB8117^{COIN_NUM} Monedas^oldclr^ por ^3827F5^{COST_NUM} Joyas^oldclr^?
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_1]
-¿Deseas comprar ^98FB98^{PLANT_NAME} al Nvl. {PLANT_LEVEL}^oldclr^ por ^FF0000^{COST_NUM} ¥^oldclr^?
+¿Deseas comprar ^98FB98^{PLANT_NAME} al Nvl. {PLANT_LEVEL}^oldclr^ por ^FF0000^{COST_NUM} 元^oldclr^?
 Recibes ^DB8117^{COIN_NUM} Monedas^oldclr^ como bonificación.
 
 [PLANTTRIAL_BUY_DIALOG_NAME_MM_2]
@@ -46666,16 +46660,16 @@ Paquete de regalo de plantas
 Toca para ver el paquete de regalo
 
 [PLANT_BAG_REWARD]
-Lotes por tiempo limitado, al recargar 1000 ¥
+Lotes por tiempo limitado, al recargar 1000 元
 
 [PLANT_BAG_REWARD_COINS]
 Como tienes todas las plantas en la tienda, ¡obtienes 60.000 Monedas como recompensa!
 
 [PLANT_BAG_REWARD_TIPS]
-Recarga 10 ¥ para recibir una planta fuerte al azar.
+Recarga 10 元 para recibir una planta fuerte al azar.
 
 [PLANT_BAG_REWARD_TIPS_QQ]
-Recarga 10 ¥ para recibir una planta fuerte al azar.
+Recarga 10 元 para recibir una planta fuerte al azar.
 
 [PLANT_BUY_FULL_PIECE]
 Desbloquear
@@ -46714,7 +46708,7 @@ Prueba de super-plantas
 Compras res.: ^FF0000^{NUM}^oldclr^
 
 [PLANT_CULTIVATE_BUNDLE_PRICE]
-20 ¥
+20 元
 
 [PLANT_CULTIVATE_CONFIRM_SELECT]
 ¿Seguro que deseas probar esta planta: ^D22808^{NAME}^oldclr^?
@@ -47362,10 +47356,10 @@ Vista previa
 Plantas por tiempo limitado
 
 [PLANT_SPECIAL_PURCHASE_BTN_DISCOUNT_PRICE]
-Descuento: 68 ¥
+Descuento: 68 元
 
 [PLANT_SPECIAL_PURCHASE_BTN_NORMAL_PRICE]
-Precio inicial: 198 ¥
+Precio inicial: 198 元
 
 [PLANT_SPECIAL_TAG_1]
 Quemar
@@ -48174,7 +48168,7 @@ Atuendos
 
 [POSEIDON_DESCRIPTION]
 1. Compra Lotes para obtener fichas de Poseidón y usarlas en los sorteos.
-2. Por cada compra de 100 ¥, recibes un Cofre de Poseidón como cortesía.
+2. Por cada compra de 100 元, recibes un Cofre de Poseidón como cortesía.
 3. Obtienes un 6.6% de descuento al participar en el primer sorteo.
 4. Las fichas y cofres se convierten en Monedas y Joyas al final del evento, ¡úsalas cuanto antes!
 
@@ -49219,7 +49213,7 @@ Obtuviste {GEMS} Joyas
 Activar
 
 [PRODUCT_DIAMONDS_REWARD_CLOSED]
-Los eventos de compra por 1 ¥ no están disponibles, vuelve más tarde.
+Los eventos de compra por 1 元 no están disponibles, vuelve más tarde.
 
 [PRODUCT_DIAMONDS_REWARD_CLOSED_TITLE]
 ¡El evento no está disponible!
@@ -49492,7 +49486,7 @@ Pase de Joyas
 Consigue Joyas al completar niveles
 
 [PRODUCT_GEM_REWARD]
-1 ¥
+1 元
 
 [PRODUCT_GEM_REWARD_GET_FAILED]
 Se produjo un error en la recepción de regalos, verifica tu conexión a Internet e inténtalo de nuevo más tarde.
@@ -49585,7 +49579,7 @@ Bolsa extragrande
 Lote del coleccionista
 
 [PRODUCT_MONTHLY_CARD]
-Tarjeta mensual de 30 ¥
+Tarjeta mensual de 30 元
 
 [PRODUCT_MONTHLY_CARD_CM]
 Tarjeta VIP
@@ -49600,7 +49594,7 @@ Tarjeta épica
 Compra una Tarjeta épica
 
 [PRODUCT_MONTHLY_CARD_SHORTDESC]
-Compra una Tarjeta de 30 ¥
+Compra una Tarjeta de 30 元
 
 [PRODUCT_MONTHLY_CARD_SPECIAL_01]
 Súper-tarjeta semanal
@@ -49712,15 +49706,15 @@ Compra un Cofre personalizado
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
 • Regalo diario: 15 Joyas
-• Paquete de 2 ¥: contiene 30 Joyas y una Bolsa pequeña (10% probable)
-• Paquete de 3 ¥: contiene 90 Joyas y una Bolsa mediana (10% probable)
-• Paquete de 6 ¥: contiene 180 Joyas y una Bolsa grande (10% probable)
+• Paquete de 2 元: contiene 30 Joyas y una Bolsa pequeña (10% probable)
+• Paquete de 3 元: contiene 90 Joyas y una Bolsa mediana (10% probable)
+• Paquete de 6 元: contiene 180 Joyas y una Bolsa grande (10% probable)
 
 [PRODUCT_NEW_YEAR_PACK_3_SHORTDESC]
-Paquete de 3 ¥
+Paquete de 3 元
 
 [PRODUCT_NEW_YEAR_PACK_6_SHORTDESC]
-Paquete de 6 ¥
+Paquete de 6 元
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
 Fiesta de disfraces
@@ -52301,7 +52295,7 @@ No alcanzaste todos los objetivos.
 ¡Objetivos completados!
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_BTN]
-45 ¥
+45 元
 
 [PVZ2_UNCHARTED_MODE_FESTIVAL_REWARD_PURCHASE_TITLE]
 Activar beneficios premium
@@ -54321,7 +54315,7 @@ Por favor lea y acepte el acuerdo
 No.: {NUMBER}
 
 [RECALL_OFFER_BANK_BUY]
-18 ¥
+18 元
 
 [RECALL_OFFER_BANK_SELECT_CONFIRM_1]
 Las plantas seleccionadas en el paquete determinan las Piezas a recibir. ¡Son todas Piezas!
@@ -54339,7 +54333,7 @@ Las plantas seleccionadas en el paquete determinan las Piezas de la planta que r
 Paquetes diarios de Piezas épicas
 
 [RECALL_OFFER_BEAR_BUNDLE_BUY]
-128 ¥
+128 元
 
 [RECALL_OFFER_BEAR_BUY]
 Compra cualquiera de los Paquetes anteriores
@@ -54489,17 +54483,17 @@ Fecha del Evento
 Ocultar
 
 [RECHARGE_NOTICE_DESC]
-2 ¥: Duplicador de Monedas
-10 ¥: Planta aleatoria
-20 ¥: Botón turbo
-30 ¥: Petacereza
+2 元: Duplicador de Monedas
+10 元: Planta aleatoria
+20 元: Botón turbo
+30 元: Petacereza
 
 [RECHARGE_NOTICE_DESC_FOR_LOTTERY]
-2 ¥: Duplicador de Monedas
-6 ¥: Boletos diarios para Lotería
-10 ¥: Planta aleatoria
-20 ¥: Botón turbo
-30 ¥: Petacereza
+2 元: Duplicador de Monedas
+6 元: Boletos diarios para Lotería
+10 元: Planta aleatoria
+20 元: Botón turbo
+30 元: Petacereza
 
 [RECHARGE_NOTICE_TITLE]
 Premios por recarga acumulativa
@@ -54511,25 +54505,25 @@ Paquete de primera recarga
 Paquete de Recarga
 
 [RECHARGE_PIECE]
-Conseguiste 30 Piezas de Petacereza por la recarga de ¥
+Conseguiste 30 Piezas de Petacereza por la recarga de 元
 
 [RECHARGE_PROGRESS]
 Progreso acumulado
 
 [RECHARGE_REWARD_BAG]
-Conseguiste una planta al azar por la recarga de 10 ¥
+Conseguiste una planta al azar por la recarga de 10 元
 
 [RECHARGE_REWARD_BOMB]
-Desbloqueaste a Petacereza por la recarga de 30 ¥
+Desbloqueaste a Petacereza por la recarga de 30 元
 
 [RECHARGE_REWARD_COIN]
-Desbloqueaste el Duplicador de Monedas por la recarga de 2 ¥
+Desbloqueaste el Duplicador de Monedas por la recarga de 2 元
 
 [RECHARGE_REWARD_LOTTERY]
-Conseguiste 2 Boletos de Lotería por la recarga de 6 ¥
+Conseguiste 2 Boletos de Lotería por la recarga de 6 元
 
 [RECHARGE_REWARD_PLANT_PIECES]
-Has conseguido 30 Piezas de Petacereza por la recarga de ¥
+Has conseguido 30 Piezas de Petacereza por la recarga de 元
 
 [RECHARGE_REWARD_PLANT_SELECT_ORANGE_3_1]
 Recarga legendaria de Nvl. 3
@@ -54544,19 +54538,19 @@ Recarga épica de Nvl. 3
 Premio por recarga: elección épica
 
 [RECHARGE_REWARD_SPEEDUP]
-Desbloqueaste el Botón turbo por la recarga de 20 ¥
+Desbloqueaste el Botón turbo por la recarga de 20 元
 
 [RECHARGE_REWARD_TITLE]
-Recarga de {RECHARGE_COUNT} ¥
+Recarga de {RECHARGE_COUNT} 元
 
 [RECHARGE_SHOW_BTN]
 Mostrar
 
 [RECHARGE_TOTAL_NUM]
-{NUMBER}¥ recargados
+{NUMBER}元 recargados
 
 [RECHARGE_TOTAL_NUM_INVISIBLE]
-***¥ recargados
+***元 recargados
 
 [RECONSTRUCTION]
 La Gran Reforma
@@ -61469,7 +61463,7 @@ Tienda oculta
 Límite de compra: {NUMBER}
 
 [SECRET_BUY_STR]
-{NUMBER} ¥
+{NUMBER} 元
 
 [SECRET_BUY_STR_FREE]
 GRATIS
@@ -62420,19 +62414,19 @@ Reduce a los zombis y los debilita
 Nivel 2
 
 [SHRINKINGVIOLET_SKILL_LEVEL1_DES]
-^4DD4DB^Intimidación gigante:^oldclr^ gana la habilidad de reducir el tamaño de los Zombisteins.
+^4DD4DB^Intimidación gigante:^oldclr^ su habilidad ahora afecta a Zombisteins
 
 [SHRINKINGVIOLET_SKILL_LEVEL2]
 Nivel 3
 
 [SHRINKINGVIOLET_SKILL_LEVEL2_DES]
-^DD7ECB^Reducción efectiva:^oldclr^ el daño que infligen los zombis al ser reducidos de tamaño se disminuye.
+^DD7ECB^Reducción efectiva:^oldclr^ disminuye el daño de los zombis reducidos
 
 [SHRINKINGVIOLET_SKILL_LEVEL5]
 Nivel 5
 
 [SHRINKINGVIOLET_SKILL_LEVEL5_DES]
-^DB8117^Violeta asustadora:^oldclr^ aturde a los zombis reducidos.
+^DB8117^Violeta asustadora:^oldclr^ aturde a los zombis reducidos
 
 [SHRINKINGVIOLET_TOOLTIP]
 Reduce a los zombis y los debilita
@@ -62443,17 +62437,14 @@ Reducir
 [SIGN_NOW]
 Acceder
 
-[SINGLESEED.CARNIVAL.1G]
-¡Fanfarria!
-
 [SINGLE_HANDED_TUTORIAL_1]
-¡Mueve el carro de mina hacia arriba y hacia abajo para poder atacar a zombis de diferentes líneas!
+Mueve el carro de mina para atacar zombis de diferentes líneas
 
 [SINGLE_HANDED_TUTORIAL_2]
-¡Recoge los nutrientes reforzados para mejorar tus plantas!
+MEJORA: destruye zombis para mejorar tus plantas
 
 [SINGLE_HANDED_TUTORIAL_3]
-¡Mueve el carro de mina para evitar el daño del misil!
+ATAQUE DE MISILES: ¡mueve el carro de mina!
 
 [SKILL_ATTRIBUTE]
 Propiedades
@@ -63755,7 +63746,7 @@ Genera nuevas Setas esporadas de los zombis derrotados
 Recarga diaria
 
 [SPRINGACTIVITYREWARDDES]
-Recarga hasta 30 ¥ hoy para conseguir premios especiales
+Recarga hasta 30 元 hoy para conseguir premios especiales
 
 [SPRINGACTIVITYREWARDERROR]
 Tus recargas se han agotado. Vuelve mañana para más.
@@ -63965,7 +63956,7 @@ Durante el evento, ¡los jugadores pueden obtener plantas y trajes raros!
 Recarga de primavera
 
 [SPRING_GIFT_ACTIVITY_REWARD_DES]
-Recarga hasta 30 ¥ para obtener premios lujosos
+Recarga hasta 30 元 para obtener premios lujosos
 
 [SPRING_GIFT_DES]
 ¡Has conseguido a ^ffff00 {PLANT_NAME} ^oldclr al ^ff0000 Nvl. 3 ^oldclr!
@@ -64471,7 +64462,7 @@ Derrota {NUMBER} Shaolines monje
 Derrota {NUMBER} Zombiditos tigre
 
 [STARCHALLENGE_DEFEAT_X_PUMPKIN_HOUSE_GHOST]
-Derrota al Rey calabaza {NUMBER} veces
+Derrota {NUMBER} Espectros calabaza
 
 [STARCHALLENGE_DEFEAT_X_PVZ1ZOMBIES]
 Derrota a {NUMBER} zombis clásicos
@@ -65810,7 +65801,7 @@ Comprar
 LO MÁS POPULAR
 
 [STORE_PRODUCT_ACTIVITY_DES]
-DESCRIPCIÓN DEL EVENTO: recarga hasta {NUM} ¥ para obtener ^FF0000^atuendos exclusivos^oldclr^
+DESCRIPCIÓN DEL EVENTO: recarga hasta {NUM} 元 para obtener ^FF0000^atuendos exclusivos^oldclr^
 
 [STORE_PRODUCT_ACTIVITY_ONLYONCE]
 Solo una vez
@@ -67664,10 +67655,10 @@ La niebla del efecto aturde zombis
 Serpiente celestial
 
 [STORE_PRODUCT_CHARGECANAWARD]
-Puedes recibir premios por la recarga de {NUM} ¥
+Puedes recibir premios por la recarga de {NUM} 元
 
 [STORE_PRODUCT_CHARGE_ACCUMULATE]
-Recarga acumulada: {NUM} ¥
+Recarga acumulada: {NUM} 元
 
 [STORE_PRODUCT_CHARGE_TITLE]
 Atuendos por recarga
@@ -74779,7 +74770,7 @@ Amigos de WeChat
 Círculo de amigos
 
 [WEEKLY_RECHARGEREWARD_DES]
-Recargar ¥ de forma acumulativa y obtén Piezas raras.
+Recargar 元 de forma acumulativa y obtén Piezas raras.
 El dinero recargado se reinicia al final del evento
 
 [WEEK_DAY_SEPARATE]
@@ -75621,13 +75612,13 @@ Contenido del Paquete
 Límite de compra:  ^FF0000{NUMS}^oldclr^
 
 [WORLD_LEVEL_PACKAGE_PRICE_0]
-6 ¥
+6 元
 
 [WORLD_LEVEL_PACKAGE_PRICE_1]
-30 ¥
+30 元
 
 [WORLD_LEVEL_PACKAGE_PRICE_2]
-60 ¥
+60 元
 
 [WORLD_LEVEL_PACKAGE_TIPS_DESC]
 1. Completa niveles para obtener ofertas de Paquetes de mundo.
@@ -79030,7 +79021,7 @@ Zombi lunar
 Caracono lunar
 
 [ZOMBIE_LNY_ARMOR1_DESCRIPTION]
-Aún recuerda aquel feliz día en el cual se ganó una fortuna, aquel cono hecho de lingotes de oro que lleva en su cabeza.
+Aún recuerda aquel feliz día en el cual se ganó una fortuna: aquel cono hecho de lingotes de oro que lleva en su cabeza.
 
 [ZOMBIE_LNY_ARMOR1_DESCRIPTION_HEADER]
 Su cono de lingotes lo hace dos veces más resistente que el Zombi lunar básico.
@@ -79039,7 +79030,7 @@ Su cono de lingotes lo hace dos veces más resistente que el Zombi lunar básico
 Caracubo lunar
 
 [ZOMBIE_LNY_ARMOR2_DESCRIPTION]
-Siempre toca las campanadas a las 12 de la noche en vísperas de Año Nuevo, de modo que, cuando un guisante golpea su cabeza, empieza la celebración.
+Marca las doce campanadas cada víspera de Año Nuevo. Cuando un guisante impacta su cabeza, anuncia el inicio del festejo lunar.
 
 [ZOMBIE_LNY_ARMOR2_DESCRIPTION_HEADER]
 Su cubo con campanas de oro lo hace tres veces más resistente que el Zombi lunar básico.
@@ -79050,34 +79041,34 @@ Zombi dragón chino
 [ZOMBIE_LNY_CAMEL_MANYHUMP_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}vulnerable a las plantas que arrasan con una línea de zombis
 
-{FLAVOR}"¡Miren, un dragón!"
+{FLAVOR}El dragón mide quince metros. El orgullo zombi, apenas dos.
 
 [ZOMBIE_LNY_CAMEL_MANYHUMP_DESCRIPTION_HEADER]
 Sigue los pasos de otros zombis llevando un dragón festivo a la celebración.
 
 [ZOMBIE_LNY_DESCRIPTION]
-Algunas personas suelen preguntarse por qué los zombis celebran el Año Nuevo.
+Cada Año Nuevo promete comer menos cerebros. Nunca dura mucho.
 
 [ZOMBIE_LNY_DESCRIPTION_HEADER]
-Zombis comunes que solo aparecen en el Año Nuevo.
+Zombi que celebra el festival lunar.
 
 [ZOMBIE_LNY_FLAG]
 Zombi abanderado lunar
 
 [ZOMBIE_LNY_FLAG_DESCRIPTION]
-Es un líder natural, y su equipo lo necesita, aún más en este momento especial de hoy.
+Ensayó todo el año para este desfile.
 
 [ZOMBIE_LNY_FLAG_DESCRIPTION_HEADER]
-Un Zombi de Año Nuevo con una bandera suele significar la llegada de una gran oleada de zombis.
+Su bandera anuncia el festejo de muchos zombis de Año Nuevo.
 
 [ZOMBIE_LNY_IMP]
 Zombidito lunar
 
 [ZOMBIE_LNY_IMP_DESCRIPTION]
-Un ávido fanático de los explosivos se apresuraba a hacer estallar los petardos durante el Año Nuevo hasta que todo salió mal y se convirtió en zombi.
+Le advirtieron que dejara los petardos. Técnicamente, sí los dejó.
 
 [ZOMBIE_LNY_IMP_DESCRIPTION_HEADER]
-Un pequeño zombi demasiado entusiasta con la pirotecnia, su frenesí lo hará explotar por los aires.
+Un pequeño entusiasta de la pirotecnia, su frenesí lo hará explotar por los aires.
 
 [ZOMBIE_LOSTCITY]
 Zombi aventurero
@@ -82530,10 +82521,10 @@ Premio de ZPS:
 Límite de compra: ^FF0000^1^oldclr^
 
 [ZSHOP_CHALLENGE_ONE_PRICE]
-1 ¥
+1 元
 
 [ZSHOP_CHALLENGE_TEN_PRICE]
-6 ¥
+6 元
 
 [ZSHOP_ITEM_LOCK_ALERT]
 Imposible comprar el objeto, verifica que cumplas con las condiciones establecidas.
