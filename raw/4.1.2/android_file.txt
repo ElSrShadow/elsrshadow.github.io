@@ -1,728 +1,6 @@
 ﻿[#OF#]
 # de #
 
-[ZOMBIE_ENDLESSWEALTH]
-Dios de la Riqueza
-
-[ZOMBIE_ENDLESSWEALTH_DESCRIPTION]
-Se manifiesta cada vez que alguien dice: "esto es inversión segura".
-
-[ZOMBIE_ENDLESSWEALTH_DESCRIPTION_HEADER]
-Flota sobre el patio en su nube y deja caer monedas cuando recibe daño.
-
-[ZOMBIE_SOLARSAGE_ENLIGHTENED]
-Zombi iluminado
-
-[ZOMBIE_SOLARSAGE_ENLIGHTENED_DESCRIPTION]
-{KEYWORD}Especial: {STAT}tiene la posibilidad de contagiar su iluminación a otros zombis
-
-{FLAVOR}Cambió su forma de pensar tras ser cuestionado por Salvia solar de una forma muy elocuente: "Si nunca has comido un cerebro, ¿por qué quieres comerte uno?"
-
-[ZOMBIE_SOLARSAGE_ENLIGHTENED_DESCRIPTION_HEADER]
-Se marcha de tu patio, dejando un rastro de sol tras de sí.
-
-[ZOMBIE_SOLARSAGE_ENLIGHTENED_ADVANCED]
-Zombi arhat
-
-[ZOMBIE_SOLARSAGE_ENLIGHTENED_ADVANCED_DESCRIPTION]
-{KEYWORD}Especial: {STAT}tiene la posibilidad de contagiar su iluminación a otros zombis
-
-{FLAVOR}Su sabiduría es tan profunda que otros zombis alcanzan la iluminación simplemente al estar cerca de él. O puede que sea contagioso. Nadie está seguro.
-
-[ZOMBIE_SOLARSAGE_ENLIGHTENED_ADVANCED_DESCRIPTION_HEADER]
-Versión definitiva del Zombi iluminado. Suelta sol a mayor intervalo y tiene más chance de iluminar otros zombis.
-
-[rank_avatar_diy_67]
-Por las nubes
-
-[RANK_AVATAR_CONTENT_CONTENT_61064]
-Recompensa clasificatoria de la temporada 46 de Dueloz
-
-[RANK_AVATAR_CONTENT_TITLE_61064]
-Por las nubes
-
-[DEFEAT_X_IMP]
-Derrota {NUMBER} Zombiditos
-
-[UNCHARTED_CHILDRENSDAY_HEAD_ID_25899]
-Como un rayo
-
-[UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25899]
-A quienes reunieron todas las estrellas en Tierras ocultas: Patio de juegos (2026)
-
-[S30_MEMORY_LEVEL_NAME_049]
-T30-S7-1: Día del Niño
-
-[S30_MEMORY_LEVEL_NAME_050]
-T30-S7-2: Hogar de ensueño
-
-[S30_MEMORY_LEVEL_NAME_051]
-T30-S7-3: Tierra de chucherías
-
-[S30_MEMORY_LEVEL_NAME_052]
-T30-S7-4: Risas y alegría
-
-[S30_MEMORY_LEVEL_NAME_053]
-T30-S7-5: Espíritu inocente
-
-[S30_MEMORY_LEVEL_NAME_054]
-T30-S7-6: Burbujas mágicas
-
-[S30_MEMORY_LEVEL_NAME_055]
-T30-S7-7: Fresco y dulce
-
-[S30_MEMORY_LEVEL_NAME_056]
-T30-S7-8: Derrapes en las curvas
-
-[S30_MEMORY_LEVEL_NAME_057]
-T30-S8-1: Croles y mariposas
-
-[S30_MEMORY_LEVEL_NAME_058]
-T30-S8-2: No hay vacaciones
-
-[S30_MEMORY_LEVEL_NAME_059]
-T30-S8-3: Carreras sobre hielo
-
-[S30_MEMORY_LEVEL_NAME_060]
-T30-S8-4: Experto en bloqueos
-
-[S30_MEMORY_LEVEL_NAME_061]
-T30-S8-5: Competencias olímpicas
-
-[S30_MEMORY_LEVEL_NAME_062]
-T30-S8-6: Muñecas realistas
-
-[S30_MEMORY_LEVEL_NAME_063]
-T30-S8-7: Campeonato de obstáculos
-
-[S30_MEMORY_LEVEL_NAME_064]
-T30-S8-8: La pasión del fútbol
-
-[S30_MEMORY_LEVEL_NAME_BOSS_7]
-T30-S7: Corsario de galletas 2
-
-[S30_MEMORY_LEVEL_NAME_BOSS_8]
-T30-S8: Conquistador del deporte
-
-[S31_MEMORY_LEVEL_NAME_BOSS_1]
-T31-S1: Buitre de guerra
-
-[S31_MEMORY_LEVEL_NAME_001]
-T31-S1-1: Zombis melosos
-
-[S31_MEMORY_LEVEL_NAME_002]
-T31-S1-2: Ignición
-
-[S31_MEMORY_LEVEL_NAME_003]
-T31-S1-3: No hay marcha atrás
-
-[S31_MEMORY_LEVEL_NAME_004]
-T31-S1-4: Plantador anónimo
-
-[S31_MEMORY_LEVEL_NAME_005]
-T31-S1-5: Pan y vino
-
-[S31_MEMORY_LEVEL_NAME_006]
-T31-S1-6: Ú N I C O
-
-[S31_MEMORY_LEVEL_NAME_007]
-T31-S1-7: Subiendo de nivel
-
-[S31_MEMORY_LEVEL_NAME_008]
-T31-S1-8: CMTNH2
-
-[S31_MEMORY_LEVEL_NAME_009]
-T31-S2-1: Jornada del jardinero
-
-[S31_MEMORY_LEVEL_NAME_010]
-T31-S2-2: La disco nunca morirá
-
-[S31_MEMORY_LEVEL_NAME_011]
-T31-S2-3: El infiltrado
-
-[S31_MEMORY_LEVEL_NAME_012]
-T31-S2-4: As de jarrones
-
-[S31_MEMORY_LEVEL_NAME_013]
-T31-S1-5: Ultimatum
-
-[S31_MEMORY_LEVEL_NAME_014]
-T31-S1-6: Gravedad inhóspita
-
-[S31_MEMORY_LEVEL_NAME_015]
-T31-S2-7: 25/8
-
-[S31_MEMORY_LEVEL_NAME_016]
-T31-S2-8: Fiesta de palomitas
-
-[WARNING_SUPERFANIMP_DROP]
-¡Fiesta de fans!
-
-[WARNING_FOOTBALLIMP_DROP]
-¡Balones de fútbol!
-
-[PVZ1MODE_DAVECUP]
-Torneo de patiobol
-
-[PVZ1MODE_DAVECUP_NORMAL_DESC]
-Aparecen balones de fútbol que pueden ser patiados por los zombis
-
-[ELITE_ZOMBIE_TIPS_TEXT_BUBBLE_MACHINE_IMP]
-^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
-^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
-
-[ELITE_ZOMBIE_TIPS_TEXT_GENERAL_TREADMILL_PHASE1]
-^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
-
-[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_TOMORROW_DESC]
-Disponible mañana a las 12:00 AM
-
-[rank_avatar_diy_66]
-Remate de volley
-
-[RANK_AVATAR_CONTENT_CONTENT_61063]
-Recompensa clasificatoria de la temporada 45 de Dueloz
-
-[RANK_AVATAR_CONTENT_TITLE_61063]
-Remate de volley
-
-[rank_avatar_diy_65]
-Duelo en el césped
-
-[RANK_AVATAR_CONTENT_CONTENT_61062]
-A quienes se clasificaron en la 1ra temporada de la Copa Dave
-
-[RANK_AVATAR_CONTENT_TITLE_61062]
-Duelo en el césped
-
-[HOMINGTHISTLE_SKILL_LEVEL5]
-Nivel 5
-
-[HOMINGTHISTLE_SKILL_LEVEL5_DES]
-^DB8117^Dardos perforantes:^oldclr^ gana la probabilidad de disparar dardos que atraviesan a múltiples zombis
-
-[ZOMBIE_DOLPHIN_RIDER_ZOMBIE]
-Zombi con delfín
-
-[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
-{KEYWORD}Velocidad: {STAT}rápido, lento tras saltar
-
-{KEYWORD}Especial: {STAT}salta la primera planta que encuentre
-{KEYWORD}Debilidad: {STAT}Nuez cáscara-rrabias
-
-{FLAVOR}El delfín es un delfín zombi.
-
-[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION_HEADER]
-El Zombi con delfín usa a su mascota para explotar tus puntos débiles.
-
-[ZOMBIE_SPORTZBALL_BUCKETHEAD]
-Caracubo de patiobol
-
-[ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION]
-No sabe porque lleva un cubo en la cabeza. Piensa que es para protegerse de las palomitas que le caen desde las gradas.
-
-[ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION_HEADER]
-Un zombi con un cubo y gran pasión por los deportes.
-
-[ZOMBIE_SPORTZBALL_WIZARD]
-Mago de patiobol
-
-[ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION]
-Afirma que puede predecir el resultado de todos los partidos; su secreto: convertir al portero rival en el propio balón.
-
-[ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION_HEADER]
-Transforma plantas en balones de fútbol.
-
-[ZOMBIE_SPORTZBALL_IMP]
-Zombidito balón de fútbol
-
-[ZOMBIE_SPORTZBALL_IMP_DESCRIPTION]
-{KEYWORD}Especial: {STAT}deja un balón de fútbol al ser derrotado
-
-{FLAVOR}Siempre ha soñado con "ser uno con la multitud". Desde que se metió dentro de un balón de fútbol, ese sueño se ha cumplido a medias: ahora pasa mucho tiempo volando por el campo, aunque normalmente es porque le dan una patada.
-
-[ZOMBIE_SPORTZBALL_IMP_DESCRIPTION_HEADER]
-Pequeño zombi disfrazado de balón.
-
-[ZOMBIE_SPORTZBALL_GARGANTUAR]
-Zombistein árbitro de fútbol
-
-[ZOMBIE_SPORTZBALL_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}patea balones de futbol para dañar plantas
-{KEYWORD}Especial: {STAT}lanza al Zombidito balón de futbol cuando sufre daños
-
-{FLAVOR}Antes era árbitro de fútbol profesional, hasta que se dio cuenta de que estrellar a los delanteros contra el poste funcionaba mucho mejor que sonar su silbato. Ahora, lo único que quiere es marcar un espectacular "hat-trick" contra la línea defensiva de las plantas.
-
-[ZOMBIE_SPORTZBALL_GARGANTUAR_DESCRIPTION_HEADER]
-Gigantesco árbitro amante del fútbol.
-
-[ZOMBIE_GOALKEEPER_ZOMBIE]
-Zombi guardametas
-
-[ZOMBIE_GOALKEEPER_ZOMBIE_DESCRIPTION]
-Para él, lo más vergonzoso no es fallar el balón, sino lanzarse a por una parada y darse cuenta de que el rival es Pinchohierba. "¿Eso no cuenta como falta?", le pregunta siempre al árbitro mientras yace en el suelo jadeando.
-
-[ZOMBIE_GOALKEEPER_ZOMBIE_DESCRIPTION_HEADER]
-Bloquea proyectiles dirigidos hacia él.
-
-[ZOMBIE_SWIMMINGRING]
-Zombi con flotador
-
-[ZOMBIE_SWIMMINGRING_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aumenta el movimiento en el agua
-
-{FLAVOR}La comunidad científica discute sobre el origen del flotador de patito, y su clasificación siembra más dudas. Está claro que no se trata de un pato.
-
-[ZOMBIE_SWIMMINGRING_DESCRIPTION_HEADER]
-Con su aparato de flotación con forma de patito, este zombi puede nadar por el agua con facilidad.
-
-[ZOMBIE_SWIMMINGRINGCONE]
-Caracono con flotador
-
-[ZOMBIE_SWIMMINGRINGCONE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aumenta el movimiento en el agua
-
-{FLAVOR}Le ha llevado muchas horas encontrar la estrella de mar perfecta para decorar su cono. Mírala. En serio, ¡MÍRALA! Es magnífica, ¿verdad? ¡Qué tamaño! ¡Qué color! ¿¡¿No?!?
-
-[ZOMBIE_SWIMMINGRINGCONE_DESCRIPTION_HEADER]
-El cono con estrella de mar le da más resistencia al daño que los zombis con flotador de patito normales.
-
-[ZOMBIE_SWIMMINGRINGBUCKET]
-Caracubo con flotador
-
-[ZOMBIE_SWIMMINGRINGBUCKET_DESCRIPTION]
-{KEYWORD}Especial: {STAT}aumenta el movimiento en el agua
-
-{FLAVOR}Se necesita un gran intelecto para innovar, ir más allá de las convenciones existentes y hacer algo distinto. Puede que otros se pusieran un cubo en la cabeza para protegerse, pero a pocos se les ocurrió pintarlo de verde. ¡Una genialidad!
-
-[ZOMBIE_SWIMMINGRINGBUCKET_DESCRIPTION_HEADER]
-Su sorprentemente robusto cubo de caracola lo convierte en el más resistente de los zombis con flotador de patito.
-
-[SOLARSAGE_SKILL_LEVEL1]
-Nivel 2
-
-[SOLARSAGE_SKILL_LEVEL1_DES]
-^4DD4DB^Sabiduría celestial:^oldclr^ aumenta la producción solar y la probabilidad de infectividad zombi
-
-[SOLARSAGE_SKILL_LEVEL2]
-Nivel 3
-
-[SOLARSAGE_SKILL_LEVEL2_DES]
-^DD7ECB^Inspiración divina:^oldclr^ mejora los efectos del Nvl. 2 al doble
-
-[SOLARSAGE_SKILL_LEVEL5]
-Nivel 5
-
-[SOLARSAGE_SKILL_LEVEL5_DES]
-^DB8117^Nirvana:^oldclr^ los zombis afectados por su habilidad se convierten en Zombis arhat que producen soles a menor intervalo y tienen más posibilidad de infectar a otros
-
-[STORE_PRODUCT_AVATAR_SOLARSAGE]
-Revive a las plantas y zombis que cayan caído a su alrededor
-
-[STORE_PRODUCT_AVATAR_SOLARSAGE_TITLE]
-Alfombra
-
-[SOLARSAGE_AVATAR_NAME]
-Alfombra
-
-[SOLARSAGE_NEW_SKILL_LEVEL1_DES]
-Ilumina a los zombis que sueltan 10 soles cada 5 s ^FF0000^(máx. 60 s)^oldclr^
-^FF8000^Infectividad solar: los zombis iluminados contagian a otros zombis ^D22808^(10% probable)^oldclr^
-^E2725B^Especial: produce 10 soles al plantarse, y 25 al activarse^oldclr^
-
-[SOLARSAGE_NEW_SKILL_LEVEL2_DES]
-Su producción solar aumenta en un 50%
-^FF8000^Infectividad solar: la probabilidad aumenta a un 20%^oldclr^
-
-[SOLARSAGE_NEW_SKILL_LEVEL3_DES]
-Su producción solar aumenta en un 100%
-^FF8000^Infectividad solar: la probabilidad aumenta a un 30%^oldclr^
-
-[SOLARSAGE_NEW_SKILL_LEVEL4_DES]
-Gana un ^D22808^25% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: ilumina a los zombis de alrededor. Si no hay zombis en el área de efecto, produce 100 soles.^oldclr^
-^FF8000^Infectividad solar: 25% probable^oldclr^
-
-[SOLARSAGE_NEW_SKILL_LEVEL5_DES]
-Los zombis afectados por su habilidad se convierten en Zombis arhat que producen soles cada 2.5 s y tienen un 40% de causar infectividad solar.
-
-[SOLARSAGE_PLANTFOOD_DESCRIPTION]
-Ilumina a los zombis que tiene alrededor, provocando que se peleen con los demás. Si no hay zombis en el área de efecto, produce sol.
-
-[SOLARSAGE_AVATAR_PLANTFOOD_DESCRIPTION]
-Revive a las plantas de un área 3x3 y zombis que cayan caído en los últimos 5 s
-
-[GENE_SEQUENCE_LEVEL_UP_BATCH]
-¿Deseas mejorar el lote de secuencias por {NUMS} de escencia genética?
-
-[GENE_SEQUENCE_NEW_LEVEL_UP]
-Mejora genética
-
-[PLEASE_RESELECT_WARNING]
-Si cambias la recompensa, el número de burbujas de premio se reiniciará. ¿Estás seguro?
-
-[NEW_AVATAR_DESCRIPTION_REPEATER_4]
-Al atacar, existe un 50% de probabilidad de disparar un guisante extra
-
-[NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_4]
-Niño juguetón
-
-[NEW_AVATAR_SHORT_DESCRIPTION_GOLDENCASSIA_2]
-Railete de flores
-
-[NEW_AVATAR_DESCRIPTION_GOLDENCASSIA_2]
-Coste -20
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_3]
-Alas
-
-[NEW_AVATAR_DESCRIPTION_MANDRAKE_3]
-Coste -15
-
-[NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_2]
-Peinado rebelde
-
-[NEW_AVATAR_DESCRIPTION_PUFFSHROOM_2]
-Recarga rápida +20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BEANCHEMIST_1]
-Gafas rojas
-
-[NEW_AVATAR_SHORT_DESCRIPTION_WHITEMELON_1]
-Mochila
-
-[NEW_AVATAR_DESCRIPTION_WHITEMELON_1]
-Recarga rápida +10%
-
-[NEW_AVATAR_DESCRIPTION_BEANCHEMIST_1]
-Recuperación -10%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_3]
-Micrófono
-
-[NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_3]
-Coste -10
-
-[TOOL_PACKET_SKILL_SWITCH_PEAVINE]
-Simbiosis
-
-[ZOMBIE_TRENCH_COAT_IMPS]
-Zombidimpostor
-
-[ZOMBIE_TRENCH_COAT_IMPS_DESCRIPTION]
-{KEYWORD}Especial: {STAT}inmune a los efectos de control
-{KEYWORD}Especial: {STAT}se divide en tres al ser derrotado
-
-{FLAVOR}Cada uno de los zombiditos comparte un mismo sueño: poder alcanzar la alacena de la cocina para tomar algunas galletas. Esa gabardina de detective es el "pase de adulto" que han encontrado en el mercadillo de antigüedades para zombis; aunque está claro que la talla está hecha a medida para un zombi más ancho que ellos tres juntos.
-
-[ZOMBIE_TRENCH_COAT_IMPS_DESCRIPTION_HEADER]
-Definitivamente no son tres zombiditos.
-
-[ZOMBIE_PLUSHIE_CART]
-Camión de peluchez
-
-[ZOMBIE_PLUSHIE_CART_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}Pinchohierba
-{KEYWORD}Pista: {STAT}gasta soles para agotar los peluches y obtener tus plantas de vuelta
-
-{FLAVOR}El conductor insiste en que esto es una "iniciativa de abrazos móviles", pero nadie le cree desde el incidente de la avalancha de ositos en el estacionamiento del supermercado. Aun así, los zombis siguen haciendo fila para conseguir el modelo edición limitada con cerebro bordado.
-
-[ZOMBIE_PLUSHIE_CART_DESCRIPTION_HEADER]
-Reemplaza tus semilleros con girasoles de peluche. Empieza a aplastar plantas cuando se agotan sus existencias.
-
-[ZOMBIE_BUBBLE_MACHINE_IMP]
-Zombidito máquina de burbujas
-
-[ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION]
-{KEYWORD}Especial: {STAT}lanza un suministro de caramelos que bloquea el plantado
-
-{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques gélidos
-{KEYWORD}Debilidad: {STAT}Trebolador puede expulsar sus burbujas
-
-{FLAVOR}Mientras los demás zombiditos tiraban piedras a las ventanas, este ya había dado el salto tecnológico de las travesuras a las "armas ligeras", usando el dinero que había ahorrado haciendo recados para el Dr. Zombi.
-
-[ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION_HEADER]
-Máquina flotante que dispara una ráfaga de burbujas gigantes. Es resistente a los ataques de ciertas plantas.
-
-[LEVEL_EDITOR_HEAD_ID_25880]
-Como el viento
-
-[LEVEL_EDITOR_HEAD_DES_ID_25880]
-Si no sabes hacia dónde te lleva el camino, déjate llevar por el viento.
-
-[TEXTPLAYER_HEAD_ID_25878]
-Pionero en pruebas
-
-[TEXTPLAYER_HEAD_DES_ID_25878]
-A quienes probaron la beta de la versión 4.1.2
-
-[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_CHILDRENSDAY_2026]
-1. Disponibilidad
-
-[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_CHILDRENSDAY_2026]
-Los niveles estarán disponibles una vez se active el evento, salvo los del Modo difícil que se desbloquean dos por día.
-
-[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_CHILDRENSDAY_2026]
-2. Contenido del nivel
-
-[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_CHILDRENSDAY_2026]
-La fuerza de los zombis es 3, el número aumenta en el Modo difícil según los objetivos seleccionados.
-
-[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_CHILDRENSDAY_2026]
-3. Objetivos del nivel
-
-[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_CHILDRENSDAY_2026]
-Cada nivel tiene objetivos específicos que se pueden completar para obtener recompensas.
-
-[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_CHILDRENSDAY_2026]
-4. Recompensas por objetivos
-
-[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHILDRENSDAY_2026]
-Las recompensas no son repetibles.
-
-[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY_2026]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
-
-[PVZ2_UNCHARTED_MODE_MODE_TITLE_BMIELITE]
-Guerra de burbujas
-
-[PVZ2_UNCHARTED_MODE_MODE_DESC_BMIELITE]
-El Zombidito máquina de burbujas está listo para el combate.
-
-[PVZ2_UNCHARTED_MODE_MODE_TITLE_GULLIVER]
-Túnel de Gulliver
-
-[PVZ2_UNCHARTED_MODE_MODE_DESC_GULLIVER]
-El extremo más ancho encoge zombis, y el más angosto, los agranda
-
-[PVZ2_UNCHARTED_MODE_MODE_TITLE_PLUSHIE]
-Peluches a domicilio
-
-[PVZ2_UNCHARTED_MODE_MODE_DESC_PLUSHIE]
-Aparece un camión de peluches que cambia tus plantas por felpa
-
-[HOMINGTHISTLE_NEW_SKILL_LEVEL5_DES]
-Gana un ^D22808^40% de probabilidad^oldclr^ de disparar dardos que atraviesan hasta 5 objetivos
-
-[DAVECUP_PREDICT_COUNTDOWN]
-Predicciones terminan en: 
-
-[DAVECUP_LOCK_COUNTDOWN]
-Te toca bloquear:
-
-[DAVECUP_BATTLE_COUNTDOWN]
-El partido inicia en: 
-
-[DAVECUP_PREDICT_TIPS]
-Usa tus puntos para votar por un equipo, ¡si resulta ganador obtendrás premios!
-
-[DAVECUP_LOCK_TIPS]
-Los equipos eligen que plantas o zombis bloquear antes de empezar.
-
-[DAVECUP_ALL_SUPPORT]
-TODOS
-
-[DAVECUP_SUPPORT_LEFT]
-PLANTAS
-
-[DAVECUP_SUPPORT_RIGHT]
-ZOMBIS
-
-[DAVECUP_ROUND]
-Ronda: ^FFFF00^{NUM}^oldclr^
-
-[DAVECUP_CURRENT_SCORE]
-Ptos: ^FFFF00^{NUM}^oldclr^
-
-[DAVECUP_BYSTANDER]
-Visionario
-
-[DAVECUP_SELECT_SUPPORT]
-Haz tus predicciones
-
-[GINGLEBELL_HOWTOPLAY_7_DESCRIPTION]
-Modificador 4: los objetivos se mueven por vías y aceleran al recibir daño
-
-[TIANGONG_HEAD_ID_25879]
-Póltira mágica
-
-[TIANGONG_HEAD_DES_ID_25879]
-A quienes participaron en la temporada 13 del evento: El Tesoro celestial
-
-[DAVECUP_NOT_OPEN]
-La Copa Dave aún no ha comenzado
-
-[DAVECUP_MATCH_BUTTON]
-JUGAR
-
-[DAVECUP_INFO_BUTTON]
-INFO
-
-[DAVECUP_INFO_DESC]
-¡Bienvenido a la Copa Dave, donde jugadores compiten al mejor de ocho por rondas! Los equipos se dividen en:
-
-- EQUIPO VERDE: gana si sobrevive y protege la línea final.
-- EQUIPO Z: gana si llega a la línea de meta.
-
-Las reglas del partido son:
-
-1. DESEMPATE: se hace un partido de Zombis contra Zombis y gana el primero que cruce la meta o derrote a los rivales.
-2. ÁNIMOS: las unidades reciben una bonificación de velocidad y ataque al inicio del partido.
-3. MUERTE SÚBITA: cuando el partido alcanza los 60 s, las unidades pierden salud por segundo. Sobrevive quien quede en pie.
-4. RECOMPENSAS: al final del partido, se te otorgan puntos segun el puesto alcanzado.
-5. RANKING: los puntos te permiten subir a una liga más competitiva y ganar mejores premios.
-
-[DAVECUP_MAIN_SCREEN_QUEUEING_WAITED_TIME]
-Esperando: {TIME}
-
-[DAVECUP_MAIN_SCREEN_CANCEL_MATCH_TITLE]
-Cancelar emparejamiento
-
-[DAVECUP_MAIN_SCREEN_CANCEL_BUTTON_TITLE]
-CANCELAR
-
-[DAVECUP_MAIN_SCREEN_CANCEL_MATCH_DESC]
-¿Desea cancelar el emparejamiento?
-
-[DAVECUP_MAIN_SCREEN_MATCH_TIME_DESC]
-Tiempo estimado: {TIME}
-
-[DAVECUP_MAIN_SCREEN_SEARCH_TIME_DESC]
-Buscando jugadores: {TIME}
-
-[DAVECUP_MAIN_SCREEN_SEARCH_PLAYER_DESC]
-Jugadores encontrados: ^00FF00^{NUM}/{MAX}^oldclr^
-
-[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_TITLE]
-Liga
-
-[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_DESC]
-Se desbloquea en: {NUM}
-
-[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_DESC]
-{NUM}/{MAX}
-
-[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LV_TITLE]
-^FFFF00^Nvl. {NUM}^oldclr^
-
-[DAVECUP_OPENSTAGE_TIPS]
-¡COMIENZA EL PARTIDO!
-
-[DAVECUP_HALFSTAGE_TIPS]
-¡CUARTOS DE FINAL!
-
-[DAVECUP_FINALSTAGE_TIPS]
-¡GRAN FINAL!
-
-[DAVECUP_THIS_ROUND_RANK]
-Puesto
-
-[DAVECUP_THIS_ROUND_PLAYERNAME]
-Jugador
-
-[DAVECUP_THIS_ROUND_POINTS_CHANGE]
-Variación de puntos
-
-[DAVECUP_THIS_ROUND_TOTAL_POINTS]
-Puntuación total
-
-[DAVECUP_NEXT_ROUND_START_COUNTDOWN]
-{TIME} s
-
-[DAVECUP_SETTLEMENT_TILE]
-Resultados
-
-[DAVECUP_FINAL_SETTLEMENT_YOUR_RANK_INFO]
-Tu puesto
-
-[DAVECUP_FINAL_SETTLEMENT_TOTAL_SCORE]
-Tu puntuación final
-
-[DAVECUP_FINAL_SETTLEMENT_CORRECT_TIMES]
-Predicciones acertadas: {NUMBER}
-
-[DAVECUP_FINAL_SETTLEMENT_ALLIN_TIMES]
-Predicciones hechas: {NUMBER}
-
-[DAVECUP_FINAL_SETTLEMENT_MILESTONE_LEVEL_INFO]
-Tu rango
-
-[DAVECUP_FINAL_SETTLEMENT_MILESTONE_POINTS]
-Premio: {NUMBER} ptos
-
-[DAVECUP_FINAL_SETTLEMENT_MILESTONE_BUTTON]
-HITOS
-
-[DAVECUP_FINAL_SETTLEMENT_BACKACTIVITY_BUTTON]
-ATRÁS
-
-[PVZ_ERROR_76071]
-No estás en una sala
-
-[PVZ_ERROR_76072]
-No estás en la fase de predicciones
-
-[PVZ_ERROR_76073]
-Equipo de apoyo no válido
-
-[PVZ_ERROR_76074]
-Ya has hecho tus predicciones.
-
-[PVZ_ERROR_76075]
-Apoyo total no activado.
-
-[PVZ_ERROR_76076]
-No estás en la fase de combate.
-
-[PVZ_ERROR_76077]
-Ronda no coincidente.
-
-[PVZ_ERROR_76078]
-Ganador no válido.
-
-[PVZ_ERROR_76079]
-Error al verificar el resultado.
-
-[PVZ_ERROR_76080]
-Datos del jugador inexistentes.
-
-[PVZ_ERROR_76081]
-No hay hitos que reclamar.
-
-[PVZ_ERROR_76082]
-No se puede abandonar la partida.
-
-[PVZ_ERROR_76083]
-ID de emoticono no válido.
-
-[PVZ_ERROR_76084]
-Configuración faltante: ZvZ
-
-[PVZ_ERROR_76085]
-Demasiadas solicitudes, inténtalo más tarde.
-
-[PVZ_ERROR_76086]
-Error en el emparejamiento: el evento está cerrado hoy.
-
-[PVZ_ERROR_76087]
-No hay puntos suficientes para apostar.
-
-[DAVECUP_DESCRIPTION_TITLE]
-Copa Dave
-
-[DAVECUP_DESCRIPTION]
-1. Compite contra otros ganadores y defiende o llega a la línea de meta para ganar.
-2. Puedes visionar otros partidos. Haz tus predicciones y gana premios.
-3. Consigues puntos al final de los partidos, con los cuales te clasificas en nuevas ligas.
-
-[DAVECUP_HEAD_ID_25889]
-Jóvenes futbolistas
-
-[DAVECUP_HEAD_DES_ID_25889]
-A quienes compitieron en la 1ra temporada de la Copa Dave
-
 [ACCESSORY_EXCHANGE_FAILED]
 Error en el intercambio
 
@@ -3011,6 +2289,9 @@ Desafío invernal
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_CHILDRENSDAY_2025]
 1. Disponibilidad
 
+[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_CHILDRENSDAY_2026]
+1. Disponibilidad
+
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_CHRISTMAS_202512]
 1. Disponibilidad
 
@@ -3036,6 +2317,9 @@ Este evento estará disponible desde el 31 de octubre hasta el 21 de noviembre.
 Los niveles estarán disponibles una vez se active el evento, salvo los del Modo difícil que se desbloquean dos por día.
 
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_CHILDRENSDAY_2025]
+Los niveles estarán disponibles una vez se active el evento, salvo los del Modo difícil que se desbloquean dos por día.
+
+[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_CHILDRENSDAY_2026]
 Los niveles estarán disponibles una vez se active el evento, salvo los del Modo difícil que se desbloquean dos por día.
 
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_CHRISTMAS_202512]
@@ -3065,6 +2349,9 @@ Los niveles estarán disponibles una vez se active el evento, salvo los del Modo
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_CHILDRENSDAY_2025]
 2. Contenido del nivel
 
+[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_CHILDRENSDAY_2026]
+2. Contenido del nivel
+
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_CHRISTMAS_202512]
 2. Contenido del nivel
 
@@ -3090,6 +2377,9 @@ Los niveles se desbloquean con el tiempo, uno por día respectivamente.
 La fuerza de los zombis es 3, el número aumenta en el Modo difícil según los objetivos seleccionados.
 
 [ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_CHILDRENSDAY_2025]
+La fuerza de los zombis es 3, el número aumenta en el Modo difícil según los objetivos seleccionados.
+
+[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_CHILDRENSDAY_2026]
 La fuerza de los zombis es 3, el número aumenta en el Modo difícil según los objetivos seleccionados.
 
 [ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_CHRISTMAS_202512]
@@ -3122,6 +2412,9 @@ La fuerza de los zombis es 3, el número aumenta en el Modo difícil según los 
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_CHILDRENSDAY_2025]
 3. Objetivos del nivel
 
+[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_CHILDRENSDAY_2026]
+3. Objetivos del nivel
+
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_CHRISTMAS_202512]
 3. Objetivos del nivel
 
@@ -3152,6 +2445,9 @@ Cada nivel tiene objetivos específicos que se pueden completar para obtener rec
 [ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_CHILDRENSDAY_2025]
 Cada nivel tiene objetivos específicos que se pueden completar para obtener recompensas.
 
+[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_CHILDRENSDAY_2026]
+Cada nivel tiene objetivos específicos que se pueden completar para obtener recompensas.
+
 [ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_CHRISTMAS_202512]
 Cada nivel tiene objetivos específicos que se pueden completar para obtener recompensas.
 
@@ -3177,6 +2473,9 @@ Cada nivel tiene objetivos específicos que se pueden completar para obtener rec
 4. Recompensas de misiones
 
 [ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_CHILDRENSDAY_2025]
+4. Recompensas por objetivos
+
+[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_CHILDRENSDAY_2026]
 4. Recompensas por objetivos
 
 [ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_CHRISTMAS_202512]
@@ -3205,6 +2504,9 @@ Las recompensas no son repetibles. El avatar estará disponible desde: 30/05/202
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHILDRENSDAY_2025]
 Las recompensas no son repetibles. El avatar estará disponible desde: 30/05/2025 - 28/06/2025
+
+[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHILDRENSDAY_2026]
+Las recompensas no son repetibles.
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHRISTMAS_202512]
 Las recompensas no son repetibles. El avatar estará disponible desde: 24/12/2025 - 31/01/2026
@@ -13152,7 +12454,7 @@ Nivel 5
 Absorbe zombis para cargar un potente ataque láser
 
 [CUKEPACKAGE_1]
-Paquete de Pepinos tácticos
+Lote táctico
 
 [CUKEPACKAGE_2]
 COMPRAR
@@ -13161,7 +12463,7 @@ COMPRAR
 Premio acumulativo
 
 [CUMULATIVE_SCORE_OBTAIN]
-Alcanza esta puntuación:
+^397F24^Alcanza esta puntuación:^oldclr^
 
 [CUP]
 Trofeo dorado
@@ -14404,7 +13706,7 @@ ENTRENAR
 ¡Haz empezado el Entrenamiento del Infinito!
 
 [DANGERROOM_USER_SCORE]
-    
+
 
 [DANGERROOM_WORLD_TRAVEL]
 Viajar a {WORLDNAME}
@@ -14860,6 +14162,166 @@ Por el consumo diario de Joyas, ¡obtienes Piezas de plantas raras y Colgantes!
 [DAVECLUB_ACTIVITY_DES_10653]
 ¡Estos paquetes son de sumo valor e importancia, contienen plantas legendarias de Nvl. 5 dentro!
 La compra de éstos es por Tiempo Limitado, así que, ¡no te lo pierdas!
+
+[DAVECUP_ALL_SUPPORT]
+TODOS
+
+[DAVECUP_BATTLE_COUNTDOWN]
+El partido inicia en:
+
+[DAVECUP_BYSTANDER]
+Visionario
+
+[DAVECUP_CURRENT_SCORE]
+Ptos: ^FFFF00^{NUM}^oldclr^
+
+[DAVECUP_DESCRIPTION]
+1. Compite contra otros ganadores y defiende o llega a la línea de meta para ganar.
+2. Puedes visionar otros partidos. Haz tus predicciones y gana premios.
+3. Consigues puntos al final de los partidos, con los cuales te clasificas en nuevas ligas.
+
+[DAVECUP_DESCRIPTION_TITLE]
+Copa Dave
+
+[DAVECUP_FINALSTAGE_TIPS]
+¡GRAN FINAL!
+
+[DAVECUP_FINAL_SETTLEMENT_ALLIN_TIMES]
+Predicciones hechas: {NUMBER}
+
+[DAVECUP_FINAL_SETTLEMENT_BACKACTIVITY_BUTTON]
+ATRÁS
+
+[DAVECUP_FINAL_SETTLEMENT_CORRECT_TIMES]
+Predicciones acertadas: {NUMBER}
+
+[DAVECUP_FINAL_SETTLEMENT_MILESTONE_BUTTON]
+HITOS
+
+[DAVECUP_FINAL_SETTLEMENT_MILESTONE_LEVEL_INFO]
+Tu rango
+
+[DAVECUP_FINAL_SETTLEMENT_MILESTONE_POINTS]
+Premio: {NUMBER} ptos
+
+[DAVECUP_FINAL_SETTLEMENT_TOTAL_SCORE]
+Tu puntuación final
+
+[DAVECUP_FINAL_SETTLEMENT_YOUR_RANK_INFO]
+Tu puesto
+
+[DAVECUP_HALFSTAGE_TIPS]
+¡CUARTOS DE FINAL!
+
+[DAVECUP_HEAD_DES_ID_25889]
+A quienes compitieron en la 1ra temporada de la Copa Dave
+
+[DAVECUP_HEAD_ID_25889]
+Jóvenes futbolistas
+
+[DAVECUP_INFO_BUTTON]
+INFO
+
+[DAVECUP_INFO_DESC]
+¡Bienvenido a la Copa Dave, donde jugadores compiten al mejor de ocho por rondas! Los equipos se dividen en:
+
+- EQUIPO VERDE: gana si sobrevive y protege la línea final.
+- EQUIPO Z: gana si llega a la línea de meta.
+
+Las reglas del partido son:
+
+1. DESEMPATE: se hace un partido de Zombis contra Zombis y gana el primero que cruce la meta o derrote a los rivales.
+2. ÁNIMOS: las unidades reciben una bonificación de velocidad y ataque al inicio del partido.
+3. MUERTE SÚBITA: cuando el partido alcanza los 60 s, las unidades pierden salud por segundo. Sobrevive quien quede en pie.
+4. RECOMPENSAS: al final del partido, se te otorgan puntos segun el puesto alcanzado.
+5. RANKING: los puntos te permiten subir a una liga más competitiva y ganar mejores premios.
+
+[DAVECUP_LOCK_COUNTDOWN]
+Te toca bloquear:
+
+[DAVECUP_LOCK_TIPS]
+Los equipos eligen que plantas o zombis bloquear antes de empezar.
+
+[DAVECUP_MAIN_SCREEN_CANCEL_BUTTON_TITLE]
+CANCELAR
+
+[DAVECUP_MAIN_SCREEN_CANCEL_MATCH_DESC]
+¿Desea cancelar el emparejamiento?
+
+[DAVECUP_MAIN_SCREEN_CANCEL_MATCH_TITLE]
+Cancelar emparejamiento
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_DESC]
+{NUM}/{MAX}
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_DESC]
+Se desbloquea en: {NUM}
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_TOMORROW_DESC]
+Disponible mañana a las 12:00 AM
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LV_TITLE]
+^FFFF00^Nvl. {NUM}^oldclr^
+
+[DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_TITLE]
+Liga
+
+[DAVECUP_MAIN_SCREEN_MATCH_TIME_DESC]
+Tiempo estimado: {TIME}
+
+[DAVECUP_MAIN_SCREEN_QUEUEING_WAITED_TIME]
+Esperando: {TIME}
+
+[DAVECUP_MAIN_SCREEN_SEARCH_PLAYER_DESC]
+Jugadores encontrados: ^00FF00^{NUM}/{MAX}^oldclr^
+
+[DAVECUP_MAIN_SCREEN_SEARCH_TIME_DESC]
+Buscando jugadores: {TIME}
+
+[DAVECUP_MATCH_BUTTON]
+JUGAR
+
+[DAVECUP_NEXT_ROUND_START_COUNTDOWN]
+{TIME} s
+
+[DAVECUP_NOT_OPEN]
+La Copa Dave aún no ha comenzado
+
+[DAVECUP_OPENSTAGE_TIPS]
+¡COMIENZA EL PARTIDO!
+
+[DAVECUP_PREDICT_COUNTDOWN]
+Predicciones terminan en:
+
+[DAVECUP_PREDICT_TIPS]
+Usa tus puntos para votar por un equipo, ¡si resulta ganador obtendrás premios!
+
+[DAVECUP_ROUND]
+Ronda: ^FFFF00^{NUM}^oldclr^
+
+[DAVECUP_SELECT_SUPPORT]
+Haz tus predicciones
+
+[DAVECUP_SETTLEMENT_TILE]
+Resultados
+
+[DAVECUP_SUPPORT_LEFT]
+PLANTAS
+
+[DAVECUP_SUPPORT_RIGHT]
+ZOMBIS
+
+[DAVECUP_THIS_ROUND_PLAYERNAME]
+Jugador
+
+[DAVECUP_THIS_ROUND_POINTS_CHANGE]
+Variación de puntos
+
+[DAVECUP_THIS_ROUND_RANK]
+Puesto
+
+[DAVECUP_THIS_ROUND_TOTAL_POINTS]
+Puntuación total
 
 [DAVEKITCHEN_DESCRIPTION]
 1. Completa misiones para conseguir ingredientes. Las misiones se refrescan cada día.
@@ -15996,6 +15458,9 @@ Derrota a {NUMBER} Asistentes ZCorp
 
 [DEFEAT_X_ICEAGE_GARGANTUAR]
 Derrota a {NUMBER} Zombisteins perezosos
+
+[DEFEAT_X_IMP]
+Derrota {NUMBER} Zombiditos
 
 [DEFEAT_X_IMPS]
 Derrota a {NUMBER} Zombiditos
@@ -18105,6 +17570,10 @@ Tus movimientos se agotaron, ¿deseas gastar ^00e46e^{GEM_COUNT} Joyas^oldclr^ p
 [ELIMINATE_TIP_SHIELD]
 ¡Cuidado con esos escudos!
 
+[ELITE_ZOMBIE_TIPS_TEXT_BUBBLE_MACHINE_IMP]
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+^FF8000^Escudo: ^A0522D^otorga invencibilidad durante 3 s^oldclr^
+
 [ELITE_ZOMBIE_TIPS_TEXT_BUMPERCAR]
 ^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 ^FF8000^Escudo: ^A0522D^reduce el daño recibido en 500 puntos^oldclr^
@@ -18182,6 +17651,9 @@ Tus movimientos se agotaron, ¿deseas gastar ^00e46e^{GEM_COUNT} Joyas^oldclr^ p
 ^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_GENERAL_CAESAR_PHASE1]
+^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
+
+[ELITE_ZOMBIE_TIPS_TEXT_GENERAL_TREADMILL_PHASE1]
 ^DB8117^Resistencia: ^A0522D^inmune a los efectos de control^oldclr^
 
 [ELITE_ZOMBIE_TIPS_TEXT_GENERAL_ZMECH_PHASE1]
@@ -22024,6 +21496,12 @@ Efectos:
 [GENE_SEQUENCE_LEVEL_UP]
 ¿Deseas usar una Escencia genética para mejorar esta Secuencia?
 
+[GENE_SEQUENCE_LEVEL_UP_BATCH]
+¿Deseas mejorar el lote de secuencias por {NUMS} de escencia genética?
+
+[GENE_SEQUENCE_NEW_LEVEL_UP]
+Mejora genética
+
 [GENE_SEQUENCE_SHOP]
 Tienda de Secuencias
 
@@ -22370,6 +21848,9 @@ Modificador 2: aparecen objetivos móviles, su velocidad aumenta cuando los atac
 
 [GINGLEBELL_HOWTOPLAY_6_DESCRIPTION]
 Modificador 3: aparecen objetivos fijos, reaparecen en otra casilla al ser dañados
+
+[GINGLEBELL_HOWTOPLAY_7_DESCRIPTION]
+Modificador 4: los objetivos se mueven por vías y aceleran al recibir daño
 
 [GINGLEBELL_PARTIC_NUM]
 Participantes: {NUMBER}
@@ -23928,7 +23409,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 30/5/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 3/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -24592,6 +24073,9 @@ Gana un ^D22808^50% de probabilidad^oldclr^ de disparar 2 cardos a la vez.
 Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
 ^DB8117^Nutrientes: dispara a todos los zombis del patio. ^D22808^Daño: 240 (x10)^oldclr^
 
+[HOMINGTHISTLE_NEW_SKILL_LEVEL5_DES]
+Gana un ^D22808^40% de probabilidad^oldclr^ de disparar dardos que atraviesan hasta 5 objetivos
+
 [HOMINGTHISTLE_PEDIA]
 El cardo (Cirsium spp.) es una planta silvestre de tallos espinosos y flores púrpuras o rosadas, muy resistente y fácil de encontrar en terrenos abiertos. Sus espinas la protegen de herbívoros, y su flor atrae a numerosos polinizadores. Es una especie común en zonas templadas y secas.
 
@@ -24615,6 +24099,12 @@ Nivel 3
 
 [HOMINGTHISTLE_SKILL_LEVEL2_DES]
 ^DD7ECB^Combo mejorado:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+
+[HOMINGTHISTLE_SKILL_LEVEL5]
+Nivel 5
+
+[HOMINGTHISTLE_SKILL_LEVEL5_DES]
+^DB8117^Dardos perforantes:^oldclr^ gana la probabilidad de disparar dardos que atraviesan a múltiples zombis
 
 [HOMINGTHISTLE_TOOLTIP]
 Ataca al objetivo que esté más a la izquierda en cualquier línea
@@ -28056,6 +27546,9 @@ Obtuviste esto en la 3ra temporada del evento: Lotes cromáticos
 [LEVEL_EDITOR_HEAD_DES_ID_25848]
 Prepara las palomitas. ¡Es noche de películas!
 
+[LEVEL_EDITOR_HEAD_DES_ID_25880]
+Si no sabes hacia dónde te lleva el camino, déjate llevar por el viento.
+
 [LEVEL_EDITOR_HEAD_ID_25343]
 Medalla del Creador
 
@@ -28136,6 +27629,9 @@ Haz de luz
 
 [LEVEL_EDITOR_HEAD_ID_25848]
 Cinéfilo
+
+[LEVEL_EDITOR_HEAD_ID_25880]
+Como el viento
 
 [LEVEL_EDITOR_NAME_SET]
 Nombre del nivel
@@ -39095,6 +38591,9 @@ Daño +10%
 [NEW_AVATAR_DESCRIPTION_ASPARAGUS_1]
 Tiempo de recuperación -20%
 
+[NEW_AVATAR_DESCRIPTION_BEANCHEMIST_1]
+Recuperación -10%
+
 [NEW_AVATAR_DESCRIPTION_BEARBERRY_1]
 Daño +10%
 
@@ -39413,6 +38912,9 @@ Gana un 50% de producir 75 soles extra por ráfaga
 [NEW_AVATAR_DESCRIPTION_GOLDENCASSIA_1]
 Salud +15%
 
+[NEW_AVATAR_DESCRIPTION_GOLDENCASSIA_2]
+Coste -20
+
 [NEW_AVATAR_DESCRIPTION_GRAPESHOT_1]
 Recarga rápida +20%
 
@@ -39566,6 +39068,9 @@ Daño eléctrico +20%
 [NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_2]
 Daño eléctrico +15%
 
+[NEW_AVATAR_DESCRIPTION_LIGHTNINGREED_3]
+Coste -10
+
 [NEW_AVATAR_DESCRIPTION_LILYPAD_1]
 Su salud aumenta en 150 puntos
 
@@ -39583,6 +39088,9 @@ Coste -10
 
 [NEW_AVATAR_DESCRIPTION_MANDRAKE_1]
 Daño +20%
+
+[NEW_AVATAR_DESCRIPTION_MANDRAKE_3]
+Coste -15
 
 [NEW_AVATAR_DESCRIPTION_MANGOSTEEN_1]
 Daño +10%
@@ -39782,6 +39290,9 @@ Coste -10
 [NEW_AVATAR_DESCRIPTION_PUFFSHROOM_1]
 Daño +10%
 
+[NEW_AVATAR_DESCRIPTION_PUFFSHROOM_2]
+Recarga rápida +20%
+
 [NEW_AVATAR_DESCRIPTION_PUMPKINWITCH_1]
 Recarga rápida +15%
 
@@ -39802,6 +39313,9 @@ Vel. de ataque +15%
 
 [NEW_AVATAR_DESCRIPTION_REPEATER_3]
 Aumenta el daño y velocidad de ataque en un 5%
+
+[NEW_AVATAR_DESCRIPTION_REPEATER_4]
+Al atacar, existe un 50% de probabilidad de disparar un guisante extra
 
 [NEW_AVATAR_DESCRIPTION_RHEUMNOBILE_1]
 Coste -50
@@ -39983,6 +39497,9 @@ Recarga rápida +10%
 [NEW_AVATAR_DESCRIPTION_WALLNUT_3]
 Salud +20%
 
+[NEW_AVATAR_DESCRIPTION_WHITEMELON_1]
+Recarga rápida +10%
+
 [NEW_AVATAR_DESCRIPTION_WINTERMELON]
 Aumenta la probabilidad de los efectos del Nvl. 2 en un 7%
 
@@ -40102,6 +39619,9 @@ Gafas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ASPARAGUS_1]
 Mohicano
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BEANCHEMIST_1]
+Gafas rojas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_1]
 Gafas de oso
@@ -40460,6 +39980,9 @@ Pompones dorados
 [NEW_AVATAR_SHORT_DESCRIPTION_GOLDENCASSIA_1]
 Dunhuang
 
+[NEW_AVATAR_SHORT_DESCRIPTION_GOLDENCASSIA_2]
+Railete de flores
+
 [NEW_AVATAR_SHORT_DESCRIPTION_GRAPESHOT_1]
 Globos de fiesta
 
@@ -40640,6 +40163,9 @@ Orejitas de conejo
 [NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_2]
 Sombrero
 
+[NEW_AVATAR_SHORT_DESCRIPTION_LIGHTNINGREED_3]
+Micrófono
+
 [NEW_AVATAR_SHORT_DESCRIPTION_LILYPAD_1]
 Rana
 
@@ -40660,6 +40186,9 @@ Casco rosa
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_2]
 Ciclista
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_3]
+Alas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_1]
 Gorro punteado
@@ -40886,6 +40415,9 @@ Cosplay de Jaca
 [NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_1]
 Helado derretido
 
+[NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_2]
+Peinado rebelde
+
 [NEW_AVATAR_SHORT_DESCRIPTION_PUMPKINWITCH_1]
 Telaraña
 
@@ -40906,6 +40438,9 @@ Casco vikingo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_3]
 Arquero
+
+[NEW_AVATAR_SHORT_DESCRIPTION_REPEATER_4]
+Niño juguetón
 
 [NEW_AVATAR_SHORT_DESCRIPTION_RHEUMNOBILE_1]
 Árbol navideño
@@ -41113,6 +40648,9 @@ Patas de cangrejo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WATERRABBIT_1]
 Gorro de pingüino
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WHITEMELON_1]
+Mochila
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_1]
 Sombrero ventilador
@@ -48811,6 +48349,9 @@ Ezcape del vacío
 [PLEASE_ENTER_NAME]
 Escribe tu nombre:
 
+[PLEASE_RESELECT_WARNING]
+Si cambias la recompensa, el número de burbujas de premio se reiniciará. ¿Estás seguro?
+
 [PLEASE_SET_WISH_FIRST]
 Reclama todas las recompensas antes de pedir el deseo.
 
@@ -51580,6 +51121,12 @@ REPRODUCIR
 [PVZ1MODE_CREDITS_TIPS]
 Se desbloquea tras completar el Modo difícil.
 
+[PVZ1MODE_DAVECUP]
+Torneo de patiobol
+
+[PVZ1MODE_DAVECUP_NORMAL_DESC]
+Aparecen balones de fútbol que pueden ser patiados por los zombis
+
 [PVZ1MODE_DEATHHOLE]
 Agujero de muerte
 
@@ -53232,6 +52779,9 @@ Llaves espacio-temporales insuficientes. El número de llaves se actualiza todos
 1. Usa Llaves espacio-temporales para desbloquear niveles en el Modo difícil.
 2. Puedes obtener hasta 5 Llaves, cada día recibes 1 gratis hasta alcanzar el límite.
 
+[PVZ2_UNCHARTED_MODE_MODE_DESC_BMIELITE]
+El Zombidito máquina de burbujas está listo para el combate.
+
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CHILDREN1]
 Viene el Supercarro chocón para hacer estragos
 
@@ -53243,6 +52793,9 @@ Batalla contra el Zombi cascabel.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CRUCIBLE]
 Echa un poco de Nutrientes en un Caldero de hechicería y déjalo hervir. Luego, pon algunas plantas y espera a ver qué se cocina.
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_GULLIVER]
+El extremo más ancho encoge zombis, y el más angosto, los agranda
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE1]
 Regreso a Cuevas congeladas
@@ -53294,6 +52847,9 @@ Arrastra los autos y despeja el área para que Dave regrese a casa
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_NOMOD]
 Modo clásico, sin mecánicas especiales
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_PLUSHIE]
+Aparece un camión de peluches que cambia tus plantas por felpa
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_PUMPKINHALLOWEEN1]
 Convierte zombis en espíritus errantes
@@ -53383,6 +52939,9 @@ Más papel tirado, otra vez...
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP10]
 Batalla contra Z-Mech
 
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_BMIELITE]
+Guerra de burbujas
+
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_CHILDREN1]
 Carritos chocones
 
@@ -53394,6 +52953,9 @@ Asalto final
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_CRUCIBLE]
 Calderos de hechicería
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_GULLIVER]
+Túnel de Gulliver
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ICEAGE1]
 Nueva glaciación
@@ -53445,6 +53007,9 @@ Tráfico alocado
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_NOMOD]
 Partida clásica
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_PLUSHIE]
+Peluches a domicilio
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_PUMPKINHALLOWEEN1]
 Casa de las Calabazas
@@ -53568,6 +53133,11 @@ Completa los niveles anteriores.
 3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY_2025]
+1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
+2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
+3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY_2026]
 1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
 2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
 3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
@@ -53829,6 +53399,57 @@ Esas plantas no están permitidas
 
 [PVZ_ERROR_76049]
 Asegurate de que hayas seleccionado todas tus plantas
+
+[PVZ_ERROR_76071]
+No estás en una sala
+
+[PVZ_ERROR_76072]
+No estás en la fase de predicciones
+
+[PVZ_ERROR_76073]
+Equipo de apoyo no válido
+
+[PVZ_ERROR_76074]
+Ya has hecho tus predicciones.
+
+[PVZ_ERROR_76075]
+Apoyo total no activado.
+
+[PVZ_ERROR_76076]
+No estás en la fase de combate.
+
+[PVZ_ERROR_76077]
+Ronda no coincidente.
+
+[PVZ_ERROR_76078]
+Ganador no válido.
+
+[PVZ_ERROR_76079]
+Error al verificar el resultado.
+
+[PVZ_ERROR_76080]
+Datos del jugador inexistentes.
+
+[PVZ_ERROR_76081]
+No hay hitos que reclamar.
+
+[PVZ_ERROR_76082]
+No se puede abandonar la partida.
+
+[PVZ_ERROR_76083]
+ID de emoticono no válido.
+
+[PVZ_ERROR_76084]
+Configuración faltante: ZvZ
+
+[PVZ_ERROR_76085]
+Demasiadas solicitudes, inténtalo más tarde.
+
+[PVZ_ERROR_76086]
+Error en el emparejamiento: el evento está cerrado hoy.
+
+[PVZ_ERROR_76087]
+No hay puntos suficientes para apostar.
 
 [PVZ_ERROR_90000]
 Error en la sincronización con la nube.
@@ -54745,6 +54366,15 @@ Recompensa clasificatoria de la temporada 45 de Dueloz
 [RANK_AVATAR_CONTENT_CONTENT_61061]
 Tras las huellas de la Ruta de la Seda: Dunhuang
 
+[RANK_AVATAR_CONTENT_CONTENT_61062]
+A quienes se clasificaron en la 1ra temporada de la Copa Dave
+
+[RANK_AVATAR_CONTENT_CONTENT_61063]
+Recompensa clasificatoria de la temporada 45 de Dueloz
+
+[RANK_AVATAR_CONTENT_CONTENT_61064]
+Recompensa clasificatoria de la temporada 46 de Dueloz
+
 [RANK_AVATAR_CONTENT_CONTENT_61500]
 ¡Dame dulces o te haré una travesura!
 
@@ -54948,6 +54578,15 @@ El inframundo
 
 [RANK_AVATAR_CONTENT_TITLE_61061]
 El esplendor de Dunhuang
+
+[RANK_AVATAR_CONTENT_TITLE_61062]
+Duelo en el césped
+
+[RANK_AVATAR_CONTENT_TITLE_61063]
+Remate de volley
+
+[RANK_AVATAR_CONTENT_TITLE_61064]
+Por las nubes
 
 [RANK_AVATAR_CONTENT_TITLE_61500]
 Dulce o truco
@@ -61887,6 +61526,54 @@ T30-S6-7: Regalos exprés
 [S30_MEMORY_LEVEL_NAME_048]
 T30-S6-8: Banquete de zombiditos
 
+[S30_MEMORY_LEVEL_NAME_049]
+T30-S7-1: Día del Niño
+
+[S30_MEMORY_LEVEL_NAME_050]
+T30-S7-2: Hogar de ensueño
+
+[S30_MEMORY_LEVEL_NAME_051]
+T30-S7-3: Tierra de chucherías
+
+[S30_MEMORY_LEVEL_NAME_052]
+T30-S7-4: Risas y alegría
+
+[S30_MEMORY_LEVEL_NAME_053]
+T30-S7-5: Espíritu inocente
+
+[S30_MEMORY_LEVEL_NAME_054]
+T30-S7-6: Burbujas mágicas
+
+[S30_MEMORY_LEVEL_NAME_055]
+T30-S7-7: Fresco y dulce
+
+[S30_MEMORY_LEVEL_NAME_056]
+T30-S7-8: Derrapes en las curvas
+
+[S30_MEMORY_LEVEL_NAME_057]
+T30-S8-1: Croles y mariposas
+
+[S30_MEMORY_LEVEL_NAME_058]
+T30-S8-2: No hay vacaciones
+
+[S30_MEMORY_LEVEL_NAME_059]
+T30-S8-3: Carreras sobre hielo
+
+[S30_MEMORY_LEVEL_NAME_060]
+T30-S8-4: Experto en bloqueos
+
+[S30_MEMORY_LEVEL_NAME_061]
+T30-S8-5: Competencias olímpicas
+
+[S30_MEMORY_LEVEL_NAME_062]
+T30-S8-6: Muñecas realistas
+
+[S30_MEMORY_LEVEL_NAME_063]
+T30-S8-7: Campeonato de obstáculos
+
+[S30_MEMORY_LEVEL_NAME_064]
+T30-S8-8: La pasión del fútbol
+
 [S30_MEMORY_LEVEL_NAME_BOSS_1]
 T30-S1: Esfinge letal
 
@@ -61904,6 +61591,63 @@ T30-S5: Góndola volcánica
 
 [S30_MEMORY_LEVEL_NAME_BOSS_6]
 T30-S6: Corsario de galletas
+
+[S30_MEMORY_LEVEL_NAME_BOSS_7]
+T30-S7: Corsario de galletas 2
+
+[S30_MEMORY_LEVEL_NAME_BOSS_8]
+T30-S8: Conquistador del deporte
+
+[S31_MEMORY_LEVEL_NAME_001]
+T31-S1-1: Zombis melosos
+
+[S31_MEMORY_LEVEL_NAME_002]
+T31-S1-2: Ignición
+
+[S31_MEMORY_LEVEL_NAME_003]
+T31-S1-3: No hay marcha atrás
+
+[S31_MEMORY_LEVEL_NAME_004]
+T31-S1-4: Plantador anónimo
+
+[S31_MEMORY_LEVEL_NAME_005]
+T31-S1-5: Pan y vino
+
+[S31_MEMORY_LEVEL_NAME_006]
+T31-S1-6: Ú N I C O
+
+[S31_MEMORY_LEVEL_NAME_007]
+T31-S1-7: Subiendo de nivel
+
+[S31_MEMORY_LEVEL_NAME_008]
+T31-S1-8: CMTNH2
+
+[S31_MEMORY_LEVEL_NAME_009]
+T31-S2-1: Jornada del jardinero
+
+[S31_MEMORY_LEVEL_NAME_010]
+T31-S2-2: La disco nunca morirá
+
+[S31_MEMORY_LEVEL_NAME_011]
+T31-S2-3: El infiltrado
+
+[S31_MEMORY_LEVEL_NAME_012]
+T31-S2-4: As de jarrones
+
+[S31_MEMORY_LEVEL_NAME_013]
+T31-S1-5: Ultimatum
+
+[S31_MEMORY_LEVEL_NAME_014]
+T31-S1-6: Gravedad inhóspita
+
+[S31_MEMORY_LEVEL_NAME_015]
+T31-S2-7: 25/8
+
+[S31_MEMORY_LEVEL_NAME_016]
+T31-S2-8: Fiesta de palomitas
+
+[S31_MEMORY_LEVEL_NAME_BOSS_1]
+T31-S1: Buitre de guerra
 
 [SALES_BUY_SUCCESS_TITLE]
 ¡Compra exitosa!
@@ -63840,6 +63584,12 @@ Cerrar sesión de {NAME}
 [SOLARSAGE]
 Salvia solar
 
+[SOLARSAGE_AVATAR_NAME]
+Alfombra
+
+[SOLARSAGE_AVATAR_PLANTFOOD_DESCRIPTION]
+Revive a las plantas de un área 3x3 y zombis que cayan caído en los últimos 5 s
+
 [SOLARSAGE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los zombis iluminados tienen la posibilidad de contagiar a otro zombis
 {KEYWORD}Debilidad: {STAT}vulnerable a las alimañas y a los mechs
@@ -63850,6 +63600,49 @@ Salvia solar
 
 [SOLARSAGE_DESCRIPTION_HEADER]
 Salvia solar ilumina a los zombis para que tomen mejores decisiones y se marchen, dejando tras ellos un rastro de soles.
+
+[SOLARSAGE_NEW_SKILL_LEVEL1_DES]
+Ilumina a los zombis que sueltan 10 soles cada 5 s ^FF0000^Tope intervalo solar: 60 s^oldclr^
+^FF8000^Infectividad solar: los zombis iluminados contagian a otros zombis ^D22808^(10% probable)^oldclr^
+^E2725B^Especial: produce 50 soles al plantarse, y 100 al activarse^oldclr^
+
+[SOLARSAGE_NEW_SKILL_LEVEL2_DES]
+Su producción solar aumenta en un 50%
+^FF8000^Infectividad solar: la probabilidad aumenta a un 20%^oldclr^
+
+[SOLARSAGE_NEW_SKILL_LEVEL3_DES]
+Su producción solar aumenta en un 100%
+^FF8000^Infectividad solar: la probabilidad aumenta a un 30%^oldclr^
+
+[SOLARSAGE_NEW_SKILL_LEVEL4_DES]
+Gana un ^D22808^25% de probabilidad^oldclr^ de ser potenciada por Nutrientes al plantarse.
+^DB8117^Nutrientes: ilumina a los zombis de un área 3x3 alrededor y produce 100 soles^oldclr^
+^FF8000^Infectividad solar: 25% probable^oldclr^
+
+[SOLARSAGE_NEW_SKILL_LEVEL5_DES]
+Los zombis afectados por su habilidad se convierten en Zombis arhat.
+^D22808^Zombi arhat: suelta soles cada 2.5 s y tiene un 40% de causar infectividad solar^oldclr^
+
+[SOLARSAGE_PLANTFOOD_DESCRIPTION]
+Ilumina a los zombis de un área 3x3 alrededor y produce 100 soles.
+
+[SOLARSAGE_SKILL_LEVEL1]
+Nivel 2
+
+[SOLARSAGE_SKILL_LEVEL1_DES]
+^4DD4DB^Sabiduría celestial:^oldclr^ aumenta la producción solar y la probabilidad de infectividad zombi
+
+[SOLARSAGE_SKILL_LEVEL2]
+Nivel 3
+
+[SOLARSAGE_SKILL_LEVEL2_DES]
+^DD7ECB^Inspiración divina:^oldclr^ mejora los efectos del Nvl. 2 al doble
+
+[SOLARSAGE_SKILL_LEVEL5]
+Nivel 5
+
+[SOLARSAGE_SKILL_LEVEL5_DES]
+^DB8117^Nirvana:^oldclr^ los zombis afectados por su habilidad se convierten en Zombis arhat que producen soles a menor intervalo y tienen más posibilidad de infectar a otros
 
 [SOLARSAGE_TOOLTIP]
 Ilumina a los zombis para conseguir soles
@@ -66391,7 +66184,7 @@ Línea y columna
 ???
 
 [STEADY_FAILED_MESSAGE]
-Se ha producido un error al Mejorar el Colgante, código de error: {CODE}.
+Se ha producido un error al Mejorar el Colgante. Código de error: {CODE}
 
 [STEADY_MAX]
 ¡Nivel máximo!
@@ -66400,7 +66193,7 @@ Se ha producido un error al Mejorar el Colgante, código de error: {CODE}.
 Era del Vapor
 
 [STEAM_CONTINUITYHIT_GOAL]
-x{NUMBER}
+{NUMBER}
 
 [STEAM_FINALE_NAME]
 Era del Vapor - Día Final
@@ -68302,6 +68095,12 @@ Dispara una ráfaga de 3 enormes guisantes congelados
 
 [STORE_PRODUCT_AVATAR_SNOWPEA_TITLE]
 Sombrero invernal
+
+[STORE_PRODUCT_AVATAR_SOLARSAGE]
+Revive a las plantas y zombis que cayan caído a su alrededor
+
+[STORE_PRODUCT_AVATAR_SOLARSAGE_TITLE]
+Alfombra
 
 [STORE_PRODUCT_AVATAR_SPARTANBAMBOO]
 Las ondas expansivas generan ondas más poderosas
@@ -70861,6 +70660,12 @@ A quienes recargaron a montones en los eventos de Año Nuevo (2025)
 [TEN_THOUSAND_HEAD_ID_25636]
 Aficionado festivo
 
+[TEXTPLAYER_HEAD_DES_ID_25878]
+A quienes probaron la beta de la versión 4.1.2
+
+[TEXTPLAYER_HEAD_ID_25878]
+Pionero en pruebas
+
 [THEATER_PACKETS_DESCRIPTION]
 Elige un ^FFFF00^Paquete^oldclr^ para poder jugar rondas y conseguir muchas ^ef7600^Recompensas^oldclr^
 
@@ -71383,6 +71188,9 @@ A quienes participaron en la temporada 11 del evento: El Tesoro celestial
 [TIANGONG_HEAD_DES_ID_25864]
 A quienes participaron en la temporada 12 del evento: El Tesoro celestial
 
+[TIANGONG_HEAD_DES_ID_25879]
+A quienes participaron en la temporada 13 del evento: El Tesoro celestial
+
 [TIANGONG_HEAD_ID_25698]
 Rey de lingotes
 
@@ -71421,6 +71229,9 @@ Kosple
 
 [TIANGONG_HEAD_ID_25864]
 Deseos y estrellas
+
+[TIANGONG_HEAD_ID_25879]
+Póltira mágica
 
 [TICKETS_PURCHASE_CONFIRMATION]
 Confirmar compra
@@ -71770,6 +71581,9 @@ Añade 1 unidad de Nutrientes
 
 [TOOL_PACKET_DESC_TOOL_RIFT_PLANT_LEVELUP]
 El nivel de las plantas aumenta en 1 (hasta el 3 como máx)
+
+[TOOL_PACKET_SKILL_SWITCH_PEAVINE]
+Simbiosis
 
 [TOOL_PACKET_TOOL_RIFT_ARTIFACT]
 Artefactos de reserva
@@ -73367,8 +73181,14 @@ A quienes reunieron todas las estrellas en Tierras ocultas: Patio de juegos
 [UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25709]
 A quienes reunieron todas las estrellas en Tierras ocultas: Patio de juegos (2025)
 
+[UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25899]
+A quienes reunieron todas las estrellas en Tierras ocultas: Patio de juegos (2026)
+
 [UNCHARTED_CHILDRENSDAY_HEAD_ID_25709]
 El Gran Hermano
+
+[UNCHARTED_CHILDRENSDAY_HEAD_ID_25899]
+Como un rayo
 
 [UNCHARTED_CHILDRENSDAY_ID_25547]
 Mangostán feliz
@@ -75345,6 +75165,9 @@ OLEADA FINAL
 [WARNING_FISH_WAVE_TIP]
 ¡Cardumen!
 
+[WARNING_FOOTBALLIMP_DROP]
+¡Balones de fútbol!
+
 [WARNING_GRAVESTONE_SPAWN]
 ¡Nigromancia!
 
@@ -75434,6 +75257,9 @@ Listos...
 
 [WARNING_STANDARD_3]
 ¡A PLANTAR!
+
+[WARNING_SUPERFANIMP_DROP]
+¡Fiesta de fans!
 
 [WARNING_THUNDER_TIP]
 ¡Tormenta eléctrica!
@@ -77595,6 +77421,20 @@ Zombictor
 [ZOMBIE_BOBSLED_PUNK_DESCRIPTION_HEADER]
 Una maravilla tecnológica del gran norte blanco, Zombictor convierte tu patio en un páramo desolado.
 
+[ZOMBIE_BUBBLE_MACHINE_IMP]
+Zombidito máquina de burbujas
+
+[ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}lanza un suministro de caramelos que bloquea el plantado
+
+{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques venenosos
+{KEYWORD}Debilidad: {STAT}Trebolador puede expulsar sus burbujas
+
+{FLAVOR}Mientras los demás zombiditos tiraban piedras a las ventanas, este ya había dado el salto tecnológico de las travesuras a las "armas ligeras", usando el dinero que había ahorrado haciendo recados para el Dr. Zombi.
+
+[ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION_HEADER]
+Máquina flotante que dispara una ráfaga de burbujas gigantes. Es resistente a los ataques de ciertas plantas.
+
 [ZOMBIE_BUMPERCAR]
 Zombidito chocón
 
@@ -78414,6 +78254,20 @@ Zombi buzo
 [ZOMBIE_DIVER_DESCRIPTION_HEADER]
 El Zombi buzo puede bucear, lo cual es sorprendentemente obvio, ¿no?
 
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE]
+Zombi con delfín
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION]
+{KEYWORD}Velocidad: {STAT}rápido, lento tras saltar
+
+{KEYWORD}Especial: {STAT}salta la primera planta que encuentre
+{KEYWORD}Debilidad: {STAT}Nuez cáscara-rrabias
+
+{FLAVOR}El delfín es un delfín zombi.
+
+[ZOMBIE_DOLPHIN_RIDER_ZOMBIE_DESCRIPTION_HEADER]
+El Zombi con delfín usa a su mascota para explotar tus puntos débiles.
+
 [ZOMBIE_DUPLICATE]
 Clon zombi
 
@@ -78642,6 +78496,15 @@ Fue alcanzado por un rayo... cinco veces. Ahora dice que puede oír los pensamie
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_DESCRIPTION_HEADER]
 Dispara bolas de plasma a todas las plantas del patio.
+
+[ZOMBIE_ENDLESSWEALTH]
+Dios de la Riqueza
+
+[ZOMBIE_ENDLESSWEALTH_DESCRIPTION]
+Se manifiesta cada vez que alguien dice: "esto es inversión segura".
+
+[ZOMBIE_ENDLESSWEALTH_DESCRIPTION_HEADER]
+Flota sobre el patio en su nube y deja caer monedas cuando recibe daño.
 
 [ZOMBIE_EXPLORER]
 Zombi explorador
@@ -78972,6 +78835,15 @@ El mejor regalo de Navidad que nuestro establecimiento podría ofrecerle.
 
 [ZOMBIE_GIFTBOX_DESCRIPTION_HEADER]
 La caja de regalo lo protege bastante bien.
+
+[ZOMBIE_GOALKEEPER_ZOMBIE]
+Zombi guardametas
+
+[ZOMBIE_GOALKEEPER_ZOMBIE_DESCRIPTION]
+Para él, lo más vergonzoso no es fallar el balón, sino lanzarse a por una parada y darse cuenta de que el rival es Pinchohierba. "¿Eso no cuenta como falta?", le pregunta siempre al árbitro mientras yace en el suelo jadeando.
+
+[ZOMBIE_GOALKEEPER_ZOMBIE_DESCRIPTION_HEADER]
+Bloquea proyectiles dirigidos hacia él.
 
 [ZOMBIE_GUM]
 Chicle
@@ -81280,6 +81152,18 @@ Zombi diosa del reflejo
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3_DESCRIPTION_HEADER]
 La clásica reina de un cuento de hadas. Es resistente a los ataques de ciertas plantas.
 
+[ZOMBIE_PLUSHIE_CART]
+Camión de peluchez
+
+[ZOMBIE_PLUSHIE_CART_DESCRIPTION]
+{KEYWORD}Debilidad: {STAT}Pinchohierba
+{KEYWORD}Pista: {STAT}gasta soles para agotar los peluches y obtener tus plantas de vuelta
+
+{FLAVOR}El conductor insiste en que esto es una "iniciativa de abrazos móviles", pero nadie le cree desde el incidente de la avalancha de ositos en el estacionamiento del supermercado. Aun así, los zombis siguen haciendo fila para conseguir el modelo edición limitada con cerebro bordado.
+
+[ZOMBIE_PLUSHIE_CART_DESCRIPTION_HEADER]
+Reemplaza tus semilleros con girasoles de peluche. Empieza a aplastar plantas cuando se agotan sus existencias.
+
 [ZOMBIE_POGO]
 Zombi saltarín
 
@@ -82116,6 +82000,17 @@ Rueda una bola de nieve que crece y aplasta todo a su paso.
 [ZOMBIE_SNOW_BALL_DESCRIPTION_HEADER]
 Enorme bola de nieve empujada por zombis a través del jardín.
 
+[ZOMBIE_SOLARSAGE_ENLIGHTENED]
+Zombi iluminado
+
+[ZOMBIE_SOLARSAGE_ENLIGHTENED_DESCRIPTION]
+{KEYWORD}Especial: {STAT}tiene la posibilidad de contagiar su iluminación a otros zombis
+
+{FLAVOR}Cambió su forma de pensar tras ser cuestionado por Salvia solar de una forma muy elocuente: "Si nunca has comido un cerebro, ¿por qué quieres comerte uno?"
+
+[ZOMBIE_SOLARSAGE_ENLIGHTENED_DESCRIPTION_HEADER]
+Se marcha de tu patio, dejando un rastro de sol tras de sí.
+
 [ZOMBIE_SPEED_DIFFICULTY_1]
 Zombis fugaces
 
@@ -82133,6 +82028,47 @@ Zombis fugaces III
 
 [ZOMBIE_SPEED_DIFFICULTY_3_DESCRIPTION]
 La velocidad de los zombis aumenta en un 150%
+
+[ZOMBIE_SPORTZBALL_BUCKETHEAD]
+Caracubo de patiobol
+
+[ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION]
+No sabe porque lleva un cubo en la cabeza. Piensa que es para protegerse de las palomitas que le caen desde las gradas.
+
+[ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION_HEADER]
+Un zombi con un cubo y gran pasión por los deportes.
+
+[ZOMBIE_SPORTZBALL_GARGANTUAR]
+Zombistein árbitro de fútbol
+
+[ZOMBIE_SPORTZBALL_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}patea balones de futbol para dañar plantas
+{KEYWORD}Especial: {STAT}lanza al Zombidito balón de futbol cuando sufre daños
+
+{FLAVOR}Antes era árbitro de fútbol profesional, hasta que se dio cuenta de que estrellar a los delanteros contra el poste funcionaba mucho mejor que sonar su silbato. Ahora, lo único que quiere es marcar un espectacular "hat-trick" contra la línea defensiva de las plantas.
+
+[ZOMBIE_SPORTZBALL_GARGANTUAR_DESCRIPTION_HEADER]
+Gigantesco árbitro amante del fútbol.
+
+[ZOMBIE_SPORTZBALL_IMP]
+Zombidito balón de fútbol
+
+[ZOMBIE_SPORTZBALL_IMP_DESCRIPTION]
+{KEYWORD}Especial: {STAT}deja un balón de fútbol al ser derrotado
+
+{FLAVOR}Siempre ha soñado con "ser uno con la multitud". Desde que se metió dentro de un balón de fútbol, ese sueño se ha cumplido a medias: ahora pasa mucho tiempo volando por el campo, aunque normalmente es porque le dan una patada.
+
+[ZOMBIE_SPORTZBALL_IMP_DESCRIPTION_HEADER]
+Pequeño zombi disfrazado de balón.
+
+[ZOMBIE_SPORTZBALL_WIZARD]
+Mago de patiobol
+
+[ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION]
+Afirma que puede predecir el resultado de todos los partidos; su secreto: convertir al portero rival en el propio balón.
+
+[ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION_HEADER]
+Transforma plantas en balones de fútbol.
 
 [ZOMBIE_SPRING]
 Zombi de primavera
@@ -82423,6 +82359,39 @@ Zombi espadachín
 [ZOMBIE_SWASHBUCKLER_DESCRIPTION_HEADER]
 Se balancea con una cuerda para aterrizar en medio de tu patio
 
+[ZOMBIE_SWIMMINGRING]
+Zombi con flotador
+
+[ZOMBIE_SWIMMINGRINGBUCKET]
+Caracubo con flotador
+
+[ZOMBIE_SWIMMINGRINGBUCKET_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aumenta el movimiento en el agua
+
+{FLAVOR}Se necesita un gran intelecto para innovar, ir más allá de las convenciones existentes y hacer algo distinto. Puede que otros se pusieran un cubo en la cabeza para protegerse, pero a pocos se les ocurrió pintarlo de verde. ¡Una genialidad!
+
+[ZOMBIE_SWIMMINGRINGBUCKET_DESCRIPTION_HEADER]
+Su sorprentemente robusto cubo de caracola lo convierte en el más resistente de los zombis con flotador de patito.
+
+[ZOMBIE_SWIMMINGRINGCONE]
+Caracono con flotador
+
+[ZOMBIE_SWIMMINGRINGCONE_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aumenta el movimiento en el agua
+
+{FLAVOR}Le ha llevado muchas horas encontrar la estrella de mar perfecta para decorar su cono. Mírala. En serio, ¡MÍRALA! Es magnífica, ¿verdad? ¡Qué tamaño! ¡Qué color! ¿¡¿No?!?
+
+[ZOMBIE_SWIMMINGRINGCONE_DESCRIPTION_HEADER]
+El cono con estrella de mar le da más resistencia al daño que los zombis con flotador de patito normales.
+
+[ZOMBIE_SWIMMINGRING_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aumenta el movimiento en el agua
+
+{FLAVOR}La comunidad científica discute sobre el origen del flotador de patito, y su clasificación siembra más dudas. Está claro que no se trata de un pato.
+
+[ZOMBIE_SWIMMINGRING_DESCRIPTION_HEADER]
+Con su aparato de flotación con forma de patito, este zombi puede nadar por el agua con facilidad.
+
 [ZOMBIE_TOMB_RAISER]
 Zombi levantatumbas
 
@@ -82458,6 +82427,18 @@ Yeti faraón
 
 [ZOMBIE_TREASUREYETI_EGYPT_DESCRIPTION_HEADER]
 Criatura extraña de Egipto, siempre lleva monedas encima.
+
+[ZOMBIE_TRENCH_COAT_IMPS]
+Zombidimpostor
+
+[ZOMBIE_TRENCH_COAT_IMPS_DESCRIPTION]
+{KEYWORD}Especial: {STAT}inmune a los efectos de control
+{KEYWORD}Especial: {STAT}se divide en tres al ser derrotado
+
+{FLAVOR}Cada uno de los zombiditos comparte un mismo sueño: poder alcanzar la alacena de la cocina para tomar algunas galletas. Esa gabardina de detective es el "pase de adulto" que han encontrado en el mercadillo de antigüedades para zombis; aunque está claro que la talla está hecha a medida para un zombi más ancho que ellos tres juntos.
+
+[ZOMBIE_TRENCH_COAT_IMPS_DESCRIPTION_HEADER]
+Definitivamente no son tres zombiditos.
 
 [ZOMBIE_TURKEYPULT_BASIC]
 Pavo de tofu
@@ -83021,15 +83002,6 @@ Zombi hielaguisantes
 [ZOMBIE_ZOMBIE_SNOWPEA_DESCRIPTION_HEADER]
 Lanza guisantes helados que dañan y ralentizan a tus plantas.
 
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS]
-Lobo alfa
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS_DESCRIPTION]
-Nadie sabe cómo se elige un alfa en una manada de zombis. Él tampoco, pero nadie se atreve a preguntarlo.
-
-[ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_BOSS_DESCRIPTION_HEADER]
-El líder de la manada. Donde aparece, los ataques se vuelven inevitables.
-
 [ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE]
 Lobo con antorcha
 
@@ -83055,6 +83027,9 @@ Lobo zombi de pequeña estatura que se mueve rápido por el escenario.
 Bestia veloz
 
 [ZOMBIE_ZOMBIE_VAN_DESCRIPTION]
+{KEYWORD}Especial: {STAT}de vez en cuando, deja humo que obstaculiza tu visión
+
+{KEYWORD}Debilidad: {STAT}Trebolador y Huracol expulsan el humo
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques eléctricos
 
 {FLAVOR}Este zombi maneja un camión monstruoso que aplasta todo a su paso. ¿Estás listo para esquivar su embestida y sobrevivir a la locura en la carretera?
@@ -83832,6 +83807,15 @@ Exploradores de ruinas
 
 [rank_avatar_diy_63]
 El inframundo
+
+[rank_avatar_diy_65]
+Duelo en el césped
+
+[rank_avatar_diy_66]
+Remate de volley
+
+[rank_avatar_diy_67]
+Por las nubes
 
 [rank_avatar_diy_100]
 Vigor juvenil
