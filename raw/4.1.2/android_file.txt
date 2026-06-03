@@ -23,7 +23,7 @@ Colgantes
 Valor: ^DB8117^{PRICE} Monedas^oldclr^
 
 [ACCESSORY_STEADY_SUCCESS_INFO]
-¡^FF0000^{NAME}^oldclr^ ha alcanzado el ^FF0000^Nvl. {LEVEL}^oldclr^!
+^8B4513^{NAME}^oldclr^ ha alcanzado el ^3827F5^Nvl. {LEVEL}^oldclr^
 
 [ACCESSORY_STEADY_SUCCESS_TITLE]
 ¡Sube de Nivel!
@@ -32,7 +32,7 @@ Valor: ^DB8117^{PRICE} Monedas^oldclr^
 Equipado por: ^397F24^{PLANT}^oldclr^
 
 [ACCOUNT_BIND_TITLE_REWARD]
-Recompensas por Vinculación de Cuentas
+PREMIOS POR VINCULAR CUENTAS
 
 [ACCOUNT_REMOVE_CONTENT_1]
 Estás a punto de eliminar tu cuenta, lo cual significa que:
@@ -72,7 +72,7 @@ Su eliminación esta programada para realizarse a las {TIME}
 Tu cuenta ha sido eliminada, crea una nueva para comenzar el juego.
 
 [ACCUMULATED_LOGIN_TITLE]
-Inicio de sesión acumulativo
+PREMIOS AL AÑO
 
 [ACCUMULATE_RECHARGE_REWARD]
 Acumula {NUM} Fragmentos de mapas para reclamar premios, recarga hasta 30 元 por día para obtener más.
@@ -331,7 +331,7 @@ Hucha de ahorros
 Siempre buscamos mejorar nuestro juego. Recibes Joyas y Cupones de atuendos al completar la encuesta.
 
 [ACTIVITY_NEW_PLAYER_SURVEY_REWARD_TITLE]
-Recompensas por encuesta
+RECOMPENSAS POR ENCUESTA
 
 [ACTIVITY_NEW_PLAYER_SURVEY_TIPS]
 SOBRE ESTA ENCUESTA
@@ -3286,7 +3286,7 @@ Cupones insuficientes, no puedes potenciar este Artefacto.
 ^ec6a00^Legendario: 1%^oldclr^
 
 [ARTIFACT_BLESS_DESCRIPTION_TITLE]
-¿CÓMO FUNCIONAN LOS CUPONES DE ARTEFACTOS?
+SOBRE LOS CUPONES DE ARTEFACTO
 
 [ARTIFACT_BLESS_LEGEND_TIPS]
 La probabilidad de obtener Cupones avanzados aumenta en ^ff0000^{LEFT_COUNT}^oldclr^
@@ -3479,8 +3479,9 @@ COMPRAR AHORA
 [ARTIFACT_DEMO_LEVEL_WON_MESSAGE_TEXT]
 Este Artefacto puede comprarse en la Tienda de Artefactos.
 
+O
 [ARTIFACT_DEMO_LEVEL_WON_MESSAGE_TITLE]
-Adquirir Artefactos
+OBTENCIÓN DE ARTEFACTOS
 
 [ARTIFACT_DETAILS_PREVIEW]
 Detalles del Artefacto
@@ -3609,19 +3610,19 @@ Mejora las plantas de un área 3x3 a versiones más poderosas con mayor coste. C
 ACEPTAR
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT]
-Este Artefacto puede obtenerse de forma gratuita durante el viaje a la Dimensión del Recuerdo.
+Puede conseguirse en: Dimensión del Recuerdo
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT2]
-Este Artefacto puede obtenerse por tiempo limitado en El Tesoro del Dragón.
+Puede conseguirse en: El Tesoro del Dragón
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]
-Este Artefacto puede obtenerse por tiempo limitado en La Caza del Tesoro.
+Puede conseguirse en: La Caza del Tesoro
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT4]
-Este Artefacto puede obtenerse por tiempo limitado en La Fuente de los Deseos.
+Puede conseguirse en: La Fuente de los Deseos
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TITLE]
-Adquirir Artefactos
+OBTENCIÓN DE ARTEFACTOS
 
 [ARTIFACT_GASHAPON]
 Gachapón
@@ -4044,10 +4045,10 @@ Sin Artefactos disponibles.
 Sin detalles
 
 [ARTIFACT_PRESENT_NEW_TITLE]
-Paquete de Artefactos
+Lote del inventor
 
 [ARTIFACT_PRESENT_UNLOCK_TIP]
-Cada Paquete tiene un número máximo de compras.
+Cada lote tiene un límite de compras.
 
 [ARTIFACT_PREVIEW]
 Vista previa
@@ -5030,7 +5031,7 @@ Lanza 10 jarrones con sorpresas dentro
 Lanzajarrones
 
 [AWARD_SCREEN_AVATAR_PLANT_LOCKED]
-^FF0000^(La planta correspondiente a este Atuendo no se ha desbloqueado)^oldclr^
+^FF0000^(La planta de este atuendo está bloqueada)^oldclr^
 
 [AWARD_SCREEN_COSTUME_DESCRIPTION]
 ¡Tu {PLANT} tiene un NUEVO atuendo!
@@ -5109,28 +5110,28 @@ Objetivos de {LEVELNAME}
 Consigue más completando niveles, abriendo Cofres o jugando eventos.
 
 [AWARD_SCREEN_PIECE_FIREGOURD_TITLE]
-¡Piezas de Calabaza de fuego!
+Piezas: Calabaza de fuego
 
 [AWARD_SCREEN_PIECE_GRAVEBUSTER_TITLE]
-¡Piezas de Comepiedras!
+Piezas: Comepiedras
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERBUTTER_DESCRIPTION]
 Echa mantequilla a un solo zombi en Rompejarrones
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERBUTTER_TITLE]
-Potenciador Mantequilla para zombis
+Potenciador: Mantequilla para zombis
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERMOVE_DESCRIPTION]
 Reubica un jarrón en Rompejarrones
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERMOVE_TITLE]
-Potenciador Mover jarrón
+Potenciador: Mover jarrón
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERREVEAL_DESCRIPTION]
 Revela los contenidos de un jarrón en Rompejarrones
 
 [AWARD_SCREEN_POWERUP_VASEBREAKERREVEAL_TITLE]
-Potenciador Revelar jarrón
+Potenciador: Revelar jarrón
 
 [AWARD_SCREEN_PRIZE]
 ¡Tienes un PREMIO!
@@ -6089,7 +6090,7 @@ Hemos detectado que tu cuenta actual no coincide con la cuenta local. Toca en "A
 VINCULAR
 
 [BIND_UNIQUE_ID_HINT]
-Detectamos que estás conectado en un nuevo dispositivo. Dirígete a la interfaz inicial y toca en "Vincular dispositivo" para vincularlo.
+Detectamos que estás conectado en un nuevo dispositivo. Dirígete a la interfaz inicial y toca en "Vincular dispositivo" para agregarlo.
 
 [BIND_UNIQUE_ID_TITLE]
 Vincular dispositivo
@@ -6180,7 +6181,7 @@ REINTENTAR
 Consigue un sinúmero de Atuendos y otras recompensas durante 7 días.
 
 [BIRTHZ_DIALOG_LVTITLE]
-Recompensas por nivel
+RECOMPENSAS POR NIVEL
 
 [BIRTHZ_DIALOG_START]
 EMPEZAR
@@ -7458,74 +7459,8 @@ Nivel 5
 [BOOPHONEGEISHA_TOOLTIP]
 Lanza su abanico para dañar zombis de varias líneas, en la ida y a la vuelta
 
-[BOOST_ALREADY_ACTIVE]
-¡Esta planta ya está mejorada! ¡Úsala en un nivel!
-
-[BOOST_COMBAT_BOUNTY_HUNTER]
-Los zombis derrotados dejan caer monedas
-
-[BOOST_COMBAT_EXTRA_TOUGH]
-Protección extra contra los ataques
-
-[BOOST_COMBAT_FAST_RECHARGE]
-Se recarga más rápido
-
-[BOOST_COMBAT_FIRST_STRIKE]
-Obtiene gratis el efecto de los Nutrientes
-
-[BOOST_COMBAT_RAPID_FIRE]
-Mayor velocidad de ataque
-
-[BOOST_COMBAT_SHOVEL_BOMB]
-Explota cuando la quitan
-
-[BOOST_COMBAT_SUN_DISCOUNT]
-Coste de soles reducido
-
-[BOOST_DETAIL_BOUNTY_HUNTER]
-Los zombis derrotados por esta planta dejan caer monedas. Esta mejora dura 1 nivel.
-
-[BOOST_DETAIL_EXTRA_TOUGH]
-Protección extra para los zombis. Esta mejora dura 1 nivel.
-
-[BOOST_DETAIL_FAST_RECHARGE]
-Se recarga más rápido. Esta mejora dura 1 nivel.
-
-[BOOST_DETAIL_FIRST_STRIKE]
-Obtiene gratis el efecto de los Nutrientes al plantarla. Esta mejora dura 1 nivel.
-
-[BOOST_DETAIL_RAPID_FIRE]
-Mayor velocidad al atacar. Esta mejora dura un nivel.
-
-[BOOST_DETAIL_SHOVEL_BOMB]
-Explota cuando la quitan. Esta mejora dura un nivel.
-
-[BOOST_DETAIL_SUN_DISCOUNT]
-El plantado cuesta menos soles. Esta mejora dura un nivel.
-
-[BOOST_TITLE_BOUNTY_HUNTER]
-Cazarrecompensas
-
-[BOOST_TITLE_EXTRA_TOUGH]
-Dureza extra
-
-[BOOST_TITLE_FAST_RECHARGE]
-Recarga rápida
-
-[BOOST_TITLE_FIRST_STRIKE]
-Primer golpe
-
-[BOOST_TITLE_RAPID_FIRE]
-Fuego rápido
-
-[BOOST_TITLE_SHOVEL_BOMB]
-Bomba pala
-
-[BOOST_TITLE_SUN_DISCOUNT]
-Descuento de soles
-
 [BORROW_PLANT_STRONG]
-Plantas prestadas de Nvl. Fuerte
+Super-plantas prestadas
 
 [BORROW_PLANT_TITLE]
 Plantas prestadas
@@ -7540,7 +7475,7 @@ Piezas legendarias
 Fiebre del jefe
 
 [BOSS_BUSTER_CANNON_DESCRIPTION]
-¡Penny dispara {DAMAGE} puntos de daño Rompejefes cada {TIME} segundos!
+¡Penny dispara {DAMAGE} puntos de daño Rompejefes cada {TIME} s!
 
 [BOSS_CHALLENGE_ERROR]
 Ocurrió una excepción inesperada.
@@ -8468,20 +8403,20 @@ Comprar
 Tiempo restante:
 
 [BUYPLANT_TITLE]
-^ff0000^{PLANTNAME}^oldclr^ por tiempo limitado
+^397F24^{PLANTNAME}^oldclr^ por tiempo limitado
 
 [BUY_AD_MOWER_LEFT_TIMES]
 {NUMBER} restante (s)
 
 [BUY_AVATAR_DESC]
-Tienes: ^00FF00^{MAX_COUNT} Piezas^oldclr^ de Atuendo.
+Tienes: ^00FF00^{MAX_COUNT} Piezas de atuendo^oldclr^
 Se necesitan: ^FF0000^{NEED_COUNT} Piezas^oldclr^. ¿Comprar más?
 
 [BUY_AVATAR_TITLE]
-Piezas de Atuendo insuficientes
+Piezas de atuendo insuficientes
 
 [BUY_COUNT_MAX]
-Agotados el límite de compra del día de hoy, ¡vuelve mañana para más!
+Agotado el límite de compra, ¡vuelve mañana para más!
 
 [BUY_GACHA_DESC]
 No tienes suficientes Llaves, ¿quieres comprar ^FF0000^{KEY_COUNT} Llaves^oldclr^ para abrir el Cofre?
@@ -9389,36 +9324,6 @@ Zombi caballero oscuro
 
 [CAVALRY_ZOMBIE_DES]
 Invoca 1 Zombi caballero oscuro.
-
-[CDN_DOWNLOAD_DESCRIPTION]
-Tenemos que actualizar los datos del juego. Nos llevará unos minutos. El juego volverá al menú principal cuando la actualización se complete.
-
-[CDN_DOWNLOAD_PROGRESS_DESCRIPTION]
-Descargando datos de actualización. El juego volverá al menú principal cuando la descarga se complete.
-
-[CDN_DOWNLOAD_PROGRESS_TITLE]
-Actualizando datos...
-
-[CDN_DOWNLOAD_TITLE]
-Actualización de datos
-
-[CDN_ERROR_DISABLED]
-Se deshabilitó la descarga, inténtalo más tarde.
-
-[CDN_ERROR_GENERIC]
-Se produjo un error durante la descarga, inténtalo más tarde.
-
-[CDN_ERROR_IN_PROGRESS]
-Ya hay una descarga en proceso.
-
-[CDN_ERROR_TITLE]
-Error en la actualización de datos
-
-[CDN_RETRY_DESCRIPTION]
-Puedes volver a intentar realizar la descarga o cancelar y no acceder a la función.
-
-[CDN_RETRY_TITLE]
-No se pudieron actualizar los datos
 
 [CELERYSTALKER]
 Apio furtivo
@@ -10461,13 +10366,13 @@ Los Huevos de Oro no están disponibles o el evento ya ha terminado.
 Evento no disponible
 
 [CHRISTMAS_GOLDEN_EGG_CONNECTING]
-Si este mensaje aparece más de una vez, conéctate a Internet o desactiva el Centro de actividades e inténtalo de nuevo.
+Si este mensaje aparece más de una vez, refresca la interfaz o conéctate a una red estable.
 
 [CHRISTMAS_GOLDEN_EGG_CONNECTING_TITLE]
 Obteniendo info de recompensas...
 
 [CHRISTMAS_GOLDEN_EGG_HAMMERS_INFO]
-Todos los dias recibes {HAMMERS} Martilllos de oro por la recarga diaria de {RMB} 元
+Recibes {HAMMERS} Martilllos de oro por la recarga diaria de {RMB} 元
 
 [CHRISTMAS_GOLDEN_EGG_NOT_BUY_BUTTON]
 CANCELAR
@@ -10488,7 +10393,7 @@ Todas tus plantas en la bolsa de premios han alcanzado el Nvl. 3, ¡participa en
 No hay recompensas
 
 [CHRISTMAS_GOLDEN_EGG_UNCONNECTED]
-Puede ser que el evento haya finalizado o que no tengas Internet. Conéctate a una red o intenta cerrar el Centro de actividades y accede de nuevo.
+Puede ser que el evento haya finalizado o que tu conexión sea débil.
 
 [CHRISTMAS_GOLDEN_EGG_UNCONNECTED_TITLE]
 Error de conexión
@@ -10560,7 +10465,7 @@ Conéctate a Internet o cierra el centro de actividades para recibir tu premio.
 No hay internet
 
 [CHRISTMAS_RECHARGE_REWARD]
-Premios navideños por recarga:
+Tus regalos:
 
 [CITRON]
 Pomelo
@@ -10880,7 +10785,7 @@ Código de activación inválido o no disponible.
 Ingresa un código para recibir regalos
 
 [CODE_REWARD_TITLE]
-Códigos de Regalo
+CÓDIGOS DE REGALO
 
 [CODE_TIME_RANGE]
 Tiempo de uso:
@@ -10970,7 +10875,7 @@ Necesitas más monedas de oro. Elige el siguiente paquete de monedas de oro.
 Bocadragón gélido
 
 [COLDSNAPDRAGON_AVATAR_NAME]
-Cubo de hielo
+Bloque de hielo
 
 [COLDSNAPDRAGON_AVATAR_PLANTFOOD_DESCRIPTION]
 ^0072FF^Congela o enfría^oldclr^ a los zombis en pantalla durante 8 s
@@ -11192,14 +11097,14 @@ Número de reembolsos
 ¿Deseas restablecer la nivelación de tu ^FF0000^Super-colgante favorito^oldclr^ por ^3827F5^10 Joyas^oldclr^?
 
 [CONFIRM_RESET_TITLE]
-Restablecer nivelación
+RESTABLECER NIVELACIÓN
 
 [CONFIRM_STEADY]
 ¿Seguro que deseas mejorar este Colgante? Se gastarán los siguientes materiales:
 ^A048CF^{MAT1} x{NUM1}^oldclr^ - ^3827F5^{MAT2} x{NUM2}^oldclr^ y ^DB8117^{MAT3} x{NUM3}^oldclr^
 
 [CONFIRM_STEADY_TITLE]
-Mejorar colgante
+MEJORAR COLGANTE
 
 [CONFIRM_TO_EXCHANGE1]
 ¿Deseas canjear ^FF0000^{ITEM} x{NUM}^oldclr^ por ^FF8000^{NUMBER} Trofeo (s)^oldclr^?
@@ -11304,7 +11209,7 @@ Obtuviste premios al gastar {GEM_COST} Joyas, ¡disfrútalo!
 ¡Se ha producido un error!
 
 [CONSUMPTION_STATUE2019_REWARD]
-Estatuas del Renacimiento x{NUM}
+Estatuas x{NUM}
 
 [CONSUMPTION_STATUE2019_REWARD_1]
 Estatuas x{NUM}
@@ -11461,7 +11366,7 @@ Prueba de precisión - Fase 3
 Tu foto será guardada solo en este dispositivo.
 
 [CORNUCOPIA_ACTIVITY_COUNTDOWN_TITLE]
-El evento termina en
+Termina en
 
 [CORNUCOPIA_ACTIVITY_TIME_OVER]
 El evento ha terminado
@@ -11566,7 +11471,7 @@ Cosecha acelerada
 Cosechar recompensas
 
 [CORNUCOPIA_LEADERBOARD_COUNTDOWN_TITLE]
-La tabla de clasif. se publica en
+Liga termina en
 
 [CORNUCOPIA_LEVEL_DESC]
 {NUM1}/{NUM2}
@@ -11609,7 +11514,7 @@ Progreso global
 Compras: {NUM1}/{NUM2}
 
 [CORNUCOPIA_SHOP_COUNTDOWN_TITLE]
-La tienda se refresca en
+Se refresca en
 
 [CORNUCOPIA_SHOP_ITEM_LOCK_DESCRIPTION_1]
 Se desbloquea en la Marca 1
@@ -13888,7 +13793,7 @@ REGLAS
 Recompensa actual:
 
 [DANGER_ROOM_PLAYER_CURRENT_REWARD_VALUE]
-x{REWARD_COUNT}
+{REWARD_COUNT}
 
 [DANGER_ROOM_PLAYER_HIGHEST_SCORE]
 Puntuación más alta:
@@ -16632,7 +16537,9 @@ El Tesoro del Dragón
 
 [DRAGON_TREASURE_DESCRIPTION]
 1. Selecciona 3 recompensas de tu elección y gasta 20 Cristales de dragón para cada sorteo, con la probabilidad de obtener la recompensa final.
+
 2. La bolsa de premios se reinicia tras obtener todas las recompensas; puedes gastar 10 Cristales de dragón tras obtener 5 recompensas para reiniciarla.
+
 3. Una vez finalizado el evento, los Cristales se convertirán en Joyas, y los puntos restantes, en Monedas.
 
 [DRAGON_TREASURE_DESCRIPTION_TITLE]
@@ -16927,7 +16834,7 @@ Nivel 5
 ^DB8117^Rasen-shuriken:^oldclr^ gana la probabilidad de lanzar una estrella torbellino que arroja a los zombis fuera del patio.
 
 [EGGPLANTNINJA_TOOLTIP]
-Lanza shurikens a los zombis para infligirles daño en la ida y a la vuelta
+Lanza shurikens que golpean zombis de varias líneas, ¡dos veces!
 
 [EGRETFLOWER]
 Flor de garceta
@@ -17847,15 +17754,6 @@ Defiende e inflige daño a los zombis que la atacan.
 
 [END_BUTTON]
 FINALIZAR
-
-[ENERGY_TRACK1_TEST3]
-ENERGY_TRACK1_TEST3
-
-[ENERGY_TRACK1_TEST10]
-ENERGY_TRACK1_TEST10
-
-[ENERGY_TRACK1_TEST99]
-ENERGY_TRACK1_TEST99
 
 [ENTER_GAME]
 Acceder al juego
@@ -19074,13 +18972,14 @@ Ya has recibido la recompensa de hoy, ¡vuelve mañana!
 Medalla por Primera recarga
 
 [FIRST_REWARD_TITLE]
-Recompensas por primera completación
+Premios por primera limpieza
 
 [FISHHOOKGRASS]
 Hierba anzuelo
 
 [FISHHOOKGRASS_AVATAR_PLANTFOOD_DESCRIPTION]
-Los zombis impactados por su anzuelo serán envenenados por un tiempo.
+Pesca a 2 zombis adicionales con Nutrientes ^D22808^(ahora 7)^oldclr^
+^FF8000^Envenena a los zombis que no puede pescar por un tiempo^oldclr^
 
 [FISHHOOKGRASS_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}línea al frente
@@ -22529,7 +22428,7 @@ Dispara 3 tipos diferentes de misiles a los zombis
 Siniestrosa
 
 [GRIMROSE_AVATAR_PLANTFOOD_DESCRIPTION]
-Tras arrastrar al suelo a un zombi, arrastrará rápidamente a 2 adicionales.
+Con Nutrientes, arrastra a 2 zombis adicionales ^D22808^(ahora 3)^oldclr^
 
 [GRIMROSE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}Siniestrosa potenciada puede arrastrar a 3 zombis antes de expirar
@@ -22542,7 +22441,8 @@ Tras arrastrar al suelo a un zombi, arrastrará rápidamente a 2 adicionales.
 Siniestrosa es una planta sombría que se comporta como una Zampalga terrestre y arrastra a los zombis al suelo.
 
 [GRIMROSE_NEW_SKILL_LEVEL1_DES]
-Arrastra un zombi al suelo o le hace 200 DPS (si es grande o de Nvl. superior).
+Arrastra un zombi al suelo, luego expira.
+^FFF000^Límite: zombis grandes o de Nvl. superior (hace 200 DPS si lo excede)^oldclr^
 ^A048CF^Potenciada: puede arrastrar hasta 3 zombis antes de expirar.^oldclr^
 
 [GRIMROSE_NEW_SKILL_LEVEL2_DES]
@@ -23409,7 +23309,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 3/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.1.1 (actualizado el 3/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -40536,7 +40436,7 @@ Demonio y ángel
 Pañuelo rojo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPORESHROOM_1]
-Bolsa de papel
+Sombrero de origami
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPRINGBEAN_1]
 Falda hawaiana
@@ -55258,7 +55158,7 @@ Jugador: ^FFFF00^{NAME}^oldclr^
 ^FFFF00^{NAME}^oldclr^ ganó el 12° premio de Año Nuevo:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]
-^0775F7^{ITEM}^oldclr^ x{NUMS}
+^0775F7^{ITEM} x{NUMS}^oldclr^
 
 [REDPACKETWIDGET_SELECT_DESCRIPTION]
 Elige uno de los siguientes disfraces
@@ -56409,85 +56309,85 @@ RENDIRSE
 {SCORE}
 
 [RIFT_CHECK_FAILED_TEXT_21622]
-La configuración actual es incorrecta.
+Configuración errónea.
 
 [RIFT_CHECK_FAILED_TEXT_21623]
-Los datos de registro del jugador son anormales.
+DETECTOR DE TRAMPAS: datos de jugador anormales.
 
 [RIFT_CHECK_FAILED_TEXT_21624]
-El coste en Soles de las plantas coincide de forma anormal.
+DETECTOR DE TRAMPAS: el coste de las plantas no es válido.
 
 [RIFT_CHECK_FAILED_TEXT_22003]
-No se pudo leer la información de combate.
+Imposible leer la información de combate.
 
 [RIFT_CHECK_FAILED_TEXT_46208]
-No se pudo analizar el parámetro.
+Error al analizar el parámetro del nivel.
 
 [RIFT_CHECK_FAILED_TEXT_46310]
-El número de veces que el nivel recibe datos es anormal.
+DETECTOR DE TRAMPAS: se recibieron datos inusuales.
 
 [RIFT_CHECK_FAILED_TEXT_46320]
-Los datos sobre el número de serie del jugador son anormales.
+DETECTOR DE TRAMPAS: el ID de usuario no coincide.
 
 [RIFT_CHECK_FAILED_TEXT_46321]
-Falta el número de serie.
+No se pudo obtener el ID de jugador.
 
 [RIFT_CHECK_FAILED_TEXT_46322]
-Los datos sobre el tiempo transcurrido son anormales.
+DETECTOR DE TRAMPAS: el tiempo transcurrido no coincide.
 
 [RIFT_CHECK_FAILED_TEXT_46323]
-El coste en Soles de las plantas es anormal.
+DETECTOR DE TRAMPAS: el coste de las plantas ha sido alterado.
 
 [RIFT_CHECK_FAILED_TEXT_46324]
-La recarga del Paquete de Semillas de las plantas es anormal.
+DETECTOR DE TRAMPAS: la recarga de las plantas ha sido alterada.
 
 [RIFT_CHECK_FAILED_TEXT_46325]
-El Nivel de las plantas es anormal.
+DETECTOR DE TRAMPAS: el nivel de las plantas ha sido alterado.
 
 [RIFT_CHECK_FAILED_TEXT_46326]
-Los Atributos de Familia de las plantas son anormales.
+DETECTOR DE TRAMPAS: se alteraron los atributos de familia de las plantas.
 
 [RIFT_CHECK_FAILED_TEXT_46327]
-La información sobre los Colgantes de las plantas es anormal.
+DETECTOR DE TRAMPAS: la información de colgantes de las plantas no es válida.
 
 [RIFT_CHECK_FAILED_TEXT_46328]
-Los datos sobre la Velocidad de Ataque de las plantas son anormales.
+DETECTOR DE TRAMPAS: la vel. de las plantas ha sido alterada.
 
 [RIFT_CHECK_FAILED_TEXT_46329]
-El número de Soles iniciales es anormal.
+DETECTOR DE TRAMPAS: número de soles iniciales inusual.
 
 [RIFT_CHECK_FAILED_TEXT_46330]
-El número de Nutrientes es anormal.
+DETECTOR DE TRAMPAS: la cantidad de Nutrientes es anormal.
 
 [RIFT_CHECK_FAILED_TEXT_46331]
-La planta utilizada es inválida o no existe.
+DETECTOR DE TRAMPAS: ID de planta inválido.
 
 [RIFT_CHECK_FAILED_TEXT_46332]
-La información de los zombis coincide de forma anormal.
+DETECTOR DE TRAMPAS: la información de los zombis del nivel fue alterada.
 
 [RIFT_CHECK_FAILED_TEXT_46333]
-Los atributos de las plantas coinciden de forma anormal.
+DETECTOR DE TRAMPAS: las propiedades de las plantas fueron alteradas.
 
 [RIFT_CHECK_FAILED_TEXT_46334]
-El número de usos de los Artefactos coincide de forma anormal.
+DETECTOR DE TRAMPAS: los usos de artefactos fueron alterados.
 
 [RIFT_CHECK_FAILED_TEXT_46335]
-La cantidad de soles que caen del cielo coincide de forma anormal.
+DETECTOR DE TRAMPAS: la cantidad de sol goteante fue alterada.
 
 [RIFT_CHECK_FAILED_TEXT_46336]
-El número de Nutrientes coincide de forma anormal.
+DETECTOR DE TRAMPAS: el límite de Nutrientes del nivel no coincide.
 
 [RIFT_CHECK_FAILED_TEXT_46337]
-El número de usos restantes de los Artefactos coincide de forma anormal.
+DETECTOR DE TRAMPAS: el límite de uso de Artefactos del nivel no coincide.
 
 [RIFT_CHECK_FAILED_TEXT_46338]
-El número de zombis derrotados coincide de forma anormal.
+DETECTOR DE TRAMPAS: la cantidad de zombis derrotados no coincide.
 
 [RIFT_CHECK_FAILED_TEXT_46339]
-El número de Soles gastados es mayor al número de Soles reunidos.
+DETECTOR DE TRAMPAS: los soles gastados exceden la cantidad actual.
 
 [RIFT_CHECK_FAILED_TEXT_46341]
-El número de plantas colocadas coincide de forma anormal.
+DETECTOR DE TRAMPAS: la cantidad de plantas colocadas no coincide.
 
 [RIFT_CHECK_FAILED_TITLE]
 Se ha producido un error
@@ -56567,7 +56467,7 @@ Monedas del espacio-tiempo insuficientes.
 Tablas de clasificación
 
 [RIFT_LEADERBOARD_KEEP]
-Mantenido en la misma liga
+Misma liga
 
 [RIFT_LEADERBOARD_LEAGUE_STR]
 Liga:
@@ -56591,7 +56491,7 @@ Liga actual
 Liga próxima
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL3]
-Liga post-próxima
+Liga posterior
 
 [RIFT_LEADERBOARD_SEASON_REWARD_HEADER]
 Recompensas por temporada
@@ -56627,18 +56527,6 @@ BIBLIOTECA DE VENTAJAS
 1. Puedes elegir hasta 3 ventajas antes de empezar una partida.
 2. Completa objetivos extra para desbloquear ventajas y mejorarlas.
 3. El progreso de ventajas se reinicia entre temporadas.
-
-[RIFT_MODE_0]
-Mecánica 0
-
-[RIFT_MODE_1]
-Mecánica 1
-
-[RIFT_MODE_DESC_0]
-Descripción de la mecánica 0
-
-[RIFT_MODE_DESC_1]
-Descripción de la mecánica 1
 
 [RIFT_NAME]
 Búsqueda de Penny
@@ -56706,7 +56594,7 @@ Puntación total: {NUMS}
 Tu puntación en este nivel: {NUMS}
 
 [RIFT_REWARD_RESULT_TITLE]
-Recompensas
+RECOMPENSAS
 
 [RIFT_SEASON_END_NOTICE_CONTENT]
 La temporada actual ha llegado a su fin. Aprovecha y canjea tus premios favoritos en la Tienda antes del nuevo ciclo.
@@ -56714,7 +56602,7 @@ La temporada actual ha llegado a su fin. Aprovecha y canjea tus premios favorito
 La nueva temporada comenzará el próximo período, ¡te esperamos allá!
 
 [RIFT_SEASON_END_NOTICE_TITLE]
-Fin de la temporada
+FIN DE LA TEMPORADA
 
 [RIFT_SEASON_END_STORE_TIP]
 Fin de la temporada. Aprovecha y canjea tus premios favoritos antes del nuevo ciclo.
@@ -56933,7 +56821,7 @@ Gana un ^D22808^50% de probabilidad^oldclr^ de infligir el doble de daño a los 
 
 [ROSESWORDMAN_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: realiza varias estocadas en un área mayor. ^D22808^Daño: 1.600 (área 3x3)^oldclr^
+^DB8117^Nutrientes: realiza varias estocadas en un área 3x3 al frente. ^D22808^Daño: 1.600^oldclr^
 
 [ROSESWORDMAN_NEW_SKILL_LEVEL5_DES]
 Tiene un ^D22808^30% de probabilidad^oldclr^ de cargar un ataque por 4 casillas que daña zombis en la ida y a la vuelta.
@@ -62226,7 +62114,7 @@ Premios
 Disponible
 
 [SECRET_STORE_END_LABEL]
-El evento termina en
+Termina en
 
 [SECRET_STORE_END_TIME]
 {TIME}
@@ -62262,7 +62150,7 @@ Utilizar a {PLANT_NAME} en este nivel sería eficiente, ¿seguro que quieres con
 No seleccionaste ningún Nenúfar, ¿seguro que quieres continuar?
 
 [SEED_CHOOSER_RECALL_PLANTS]
-Recuperar
+()
 
 [SEED_CHOOSER_RENT_PLANT]
 Alquilar {RENT_COST}
@@ -62273,9 +62161,6 @@ Alquilar {RENT_COST}
 [SEED_CHOOSER_SKY_CITY_PLANT_SURVIVE_WARNING]
 No seleccionaste plantas voladoras, ¿seguro que quieres continuar?
 
-[SEED_CHOOSER_SUGGEST_PLANTS]
-Pista
-
 [SEED_CHOOSER_SUN_WARNING]
 No seleccionaste ninguna planta productora de sol, ¿seguro que quieres continuar?
 
@@ -62284,9 +62169,6 @@ Encontrable en {WorldName}
 
 [SEED_CHOOSER_WARNING_TITLE]
 ¡ATENCIÓN!
-
-[SEED_CHOOSER_ZOMBIE_RESISTANCE_FLOATER_TITLE]
-Fortalezas y debilidades
 
 [SELECTED_PERKS_HEADER]
 Ventajas seleccionadas:
@@ -62355,10 +62237,10 @@ El servicio todavía está en curso, inténtalo de nuevo más tarde.
 ¡Sólo pueden introducirse hasta 8 caracteres!
 
 [SETTINGHEADSHOT_2]
-Información de la cuenta
+Info de la cuenta
 
 [SETTINGHEADSHOT_3]
-Volver al menú
+MENÚ
 
 [SETTINGHEADSHOT_4]
 x500 Cambiar nombre
@@ -62929,7 +62811,7 @@ Lanza oscuridad al enemigo, carga sus pétalos y libera nubes debilitantes
 Cancelar
 
 [SHARE_GET_AWARD]
-Compartir Regalos
+COMPARTIR REGALOS
 
 [SHIELD_POTION]
 Poción de invencibilidad
@@ -65122,7 +65004,7 @@ Derrota a {COUNT} zombis usando toneles explosivos
 Toneles explosivos
 
 [STARCHALLENGE_BEACH_CONVEYOR]
-Sobrevive al ataque zombi en la Playa de la Gran Ola con las plantas de la cinta transportadora
+Derrota a los zombis playeros con las plantas de la cinta transportadora
 
 [STARCHALLENGE_BEACH_CONVEYOR_NAME]
 Entrega especial
@@ -65194,7 +65076,7 @@ Para ganar esta estrella:
 Para ganar esta estrella:
 
 [STARCHALLENGE_CONVEYORBELT]
-Sobrevive al ataque zombi con las plantas de la cinta transportadora
+Sobrevive con las plantas de la cinta transportadora
 
 [STARCHALLENGE_CORRAL_MINIGAME]
 ¡Sobrevive al ataque zombi!
@@ -65209,7 +65091,7 @@ Sobrevive a un ataque masivo en el Salvaje Oeste
 Salvaje Oeste - Día Final
 
 [STARCHALLENGE_DARK_CONVEYOR]
-Sobrevive al ataque zombi en la Edad Oscura con las plantas de la cinta transportadora
+Derrota a los zombis campesinos con las plantas de la cinta transportadora
 
 [STARCHALLENGE_DARK_CONVEYOR_NAME]
 Entrega especial
@@ -65320,7 +65202,7 @@ Cacería de zombis
 Derrota a {NUMBER} zombis con Reina flor de fuego
 
 [STARCHALLENGE_FUTURE_CONVEYOR]
-Sobrevive al ataque zombi en el Futuro lejano con las plantas de la cinta transportadora
+Derrota a los zombis futuristas con las plantas de la cinta transportadora
 
 [STARCHALLENGE_FUTURE_FINALE]
 Sobrevive a un ataque masivo en el Futuro lejano
@@ -65383,7 +65265,7 @@ Derrota a los zombis de bronce
 Terror de bronce
 
 [STARCHALLENGE_KONGFU_CONVEYOR_BELT]
-Sobrevive al ataque zombi en la Dinastía del Kung Fu con las plantas de la cinta transportadora
+Derrota a los zombis shaolin con las plantas de la cinta transportadora
 
 [STARCHALLENGE_KONGFU_CONVEYOR_BELT_NAME]
 Entrega especial
@@ -65413,13 +65295,13 @@ Derrota a {NUMBER} zombis con Guayalava
 No utilices ninguna cortadora de césped para completar el objetivo
 
 [STARCHALLENGE_LOSTCITY_BOSS]
-Sobrevive a un ataque masivo en la Ciudad perdida y derrota al Zombot góndola aerostática
+Derrota al Zombot góndola aerostática
 
 [STARCHALLENGE_LOSTCITY_BOSS_NAME]
 Ciudad Perdida - Día Final
 
 [STARCHALLENGE_LOSTCITY_CONVEYOR]
-Sobrevive al ataque zombi en la Ciudad perdida con las plantas de la cinta transportadora
+Derrota a los zombis de Ciudad perdida con las plantas de la cinta transportadora
 
 [STARCHALLENGE_LOSTCITY_CONVEYOR_NAME]
 Entrega especial
@@ -65455,7 +65337,7 @@ Rompe los jarrones y derrota a los zombis de la Ciudad perdida
 Rompejarrones perdido
 
 [STARCHALLENGE_MASTER_THE_CONVEYOR]
-Sobrevive al ataque zombi con las plantas de la cinta transportadora
+Sobrevive con las plantas de la cinta transportadora
 
 [STARCHALLENGE_MASTER_THE_CONVEYOR_NAME]
 Entrega especial
@@ -65560,7 +65442,7 @@ Sobrevive con {COUNT} plantas o más
 Supervivencia vegetal
 
 [STARCHALLENGE_POOYAN]
-Sobrevive esquivando zombis y proyectiles. Derrota a los enemigos para alcanzar la puntuación objetivo
+Sobrevive esquivando proyectiles y derrota zombis para alcanzar la puntuación objetivo
 
 [STARCHALLENGE_POOYAN_NAME]
 Combate aéreo
@@ -65889,7 +65771,7 @@ Horario de ventas
 ¡Cuidado con la Planta carnívora!
 
 [STAR_CHALLENGE_FUTURE_CONVEYOR]
-Sobrevive al ataque zombi con las plantas de la cinta transportadora
+Sobrevive con las plantas de la cinta transportadora
 
 [STAR_CONVERT_INFO]
 1. Completa Niveles del Modo aventura para conseguir Estrellas.
@@ -66193,7 +66075,7 @@ Se ha producido un error al Mejorar el Colgante. Código de error: {CODE}
 Era del Vapor
 
 [STEAM_CONTINUITYHIT_GOAL]
-{NUMBER}
+x{NUMBER}
 
 [STEAM_FINALE_NAME]
 Era del Vapor - Día Final
@@ -66852,7 +66734,7 @@ Moño rojo
 Crea 1 clon adicional
 
 [STORE_PRODUCT_AVATAR_CHILIBEAN_TITLE]
-Pañales de bebé
+Pañales
 
 [STORE_PRODUCT_AVATAR_CHOMPER]
 Prolonga la duración de su súper-eructo
@@ -66894,7 +66776,7 @@ Antenas
 Congela a todos los zombis en pantalla al usar Nutrientes
 
 [STORE_PRODUCT_AVATAR_COLDSNAPDRAGON_TITLE]
-Cubo de hielo
+Bloque de hielo
 
 [STORE_PRODUCT_AVATAR_CONVALLARIACHEMIST]
 Las flores del efecto hacen más daño por veneno y daño por salpicadura
@@ -66963,13 +66845,13 @@ La electricidad se propaga para infligir daño a otros zombis
 Alas y alo
 
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER]
-El huevo eclosiona en un Zombistein líder que puede escupir ácido al atacar
+El huevo eclosiona en un Zombistein abisal supremo que puede escupir ácido al atacar
 
 [STORE_PRODUCT_AVATAR_DEVILSFLOWER_TITLE]
 Corona infernal
 
 [STORE_PRODUCT_AVATAR_DOOMBELL]
-Se reviste de un escudo de plata que otorga mayor dureza.
+Se reviste de un escudo de plata que otorga mayor dureza
 
 [STORE_PRODUCT_AVATAR_DOOMBELL_TITLE]
 Amuleto
@@ -67155,13 +67037,13 @@ Crea pilares de llamas para aumentar el daño infligido
 Fogata
 
 [STORE_PRODUCT_AVATAR_FIRESHROOM]
-Al final del efecto, sus llamas explotarán e infligirán daño a los zombis atrapados
+Al final del efecto, sus llamas explotan y dañan a los zombis atrapados
 
 [STORE_PRODUCT_AVATAR_FIRESHROOM_TITLE]
 Calabaza
 
 [STORE_PRODUCT_AVATAR_FISHHOOKGRASS]
-Envenena a los zombis con su anzuelo cuando usa Nutrientes
+Pesca 2 zombis adicionales con Nutrientes; envenena a los que no puede pescar
 
 [STORE_PRODUCT_AVATAR_FISHHOOKGRASS_TITLE]
 Traje de pescador
@@ -67272,7 +67154,7 @@ Parasol
 Da 50 soles tras consumir una lápida por completo
 
 [STORE_PRODUCT_AVATAR_GRAVEBUSTER_TITLE]
-Sombrero mexicano
+Sombrero
 
 [STORE_PRODUCT_AVATAR_GREENTURNIP]
 Su misil explota tras llegar a la penúltima casilla del patio
@@ -67281,7 +67163,7 @@ Su misil explota tras llegar a la penúltima casilla del patio
 Casco militar
 
 [STORE_PRODUCT_AVATAR_GRIMROSE]
-Tras arrastrar al suelo a un zombi, arrastrará rápidamente a 2 más
+Con Nutrientes, arrastra a 2 zombis adicionales
 
 [STORE_PRODUCT_AVATAR_GRIMROSE_TITLE]
 Sombrero ancho
@@ -67323,7 +67205,7 @@ Repele a los zombis de la línea al usar Nutrientes
 Gorra y lentes
 
 [STORE_PRODUCT_AVATAR_HATMUSHROOM]
-El primer zombi impactado por su sombrero gigante, será rebobinado en el tiempo
+Rebobina al primer zombi impactado por su sombrero gigante
 
 [STORE_PRODUCT_AVATAR_HATMUSHROOM_TITLE]
 Monóculo de oro
@@ -67365,7 +67247,7 @@ Lanza hojas blindadas que aturden zombis al contacto cada pocos segundos
 Moñito azul
 
 [STORE_PRODUCT_AVATAR_HOLONUT]
-Su efecto de Nutrientes ahora cubre dos columnas.
+Su efecto de Nutrientes ahora cubre dos columnas
 
 [STORE_PRODUCT_AVATAR_HOLONUT_TITLE]
 Caja holográfica
@@ -67446,7 +67328,7 @@ Gafas de esquí
 Su armadura explota al final del efecto
 
 [STORE_PRODUCT_AVATAR_ICYCURRANT_TITLE]
-Chupete de bebé
+Chupete
 
 [STORE_PRODUCT_AVATAR_IMITATER]
 Reduce la recarga de la planta imitada
@@ -67551,7 +67433,7 @@ La lluvia acidifica el agua de la Playa de la Gran Ola por un tiempo
 Salvavidas
 
 [STORE_PRODUCT_AVATAR_LEVITATER]
-Empuja 3 zombis adicionales y expulsa por lo menos uno del patio.
+Empuja 3 zombis adicionales y expulsa por lo menos uno del patio
 
 [STORE_PRODUCT_AVATAR_LEVITATER_TITLE]
 Antenas
@@ -67596,7 +67478,7 @@ Corbatín rojo
 Con Nutrientes, devuelve los objetos metálicos atraídos por todo el patio
 
 [STORE_PRODUCT_AVATAR_MAGNETSHROOM_TITLE]
-Capa de magneto
+Capa morada
 
 [STORE_PRODUCT_AVATAR_MAGNIFYINGGRASS]
 Aumenta el daño que infligen los rayos
@@ -67839,7 +67721,7 @@ Con Nutrientes, refleja balas por las diagonales
 Máscara aeronáutica
 
 [STORE_PRODUCT_AVATAR_PINECONE]
-Dispara bolas de fuego púrpuras que hacen más daño junto a daño de área
+Dispara piñas en fuego púrpura que hacen más daño junto a daño de área
 
 [STORE_PRODUCT_AVATAR_PINECONE_TITLE]
 Vaquero
@@ -68130,7 +68012,7 @@ Cop y Robber
 Dispara 1 espora gigante extra
 
 [STORE_PRODUCT_AVATAR_SPORESHROOM_TITLE]
-Sombrero de origami
+Bolsa de papel
 
 [STORE_PRODUCT_AVATAR_SPRINGBEAN]
 Con Nutrientes, aturde a los zombis después de empujarlos
