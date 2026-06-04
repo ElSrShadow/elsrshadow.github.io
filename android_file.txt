@@ -63631,16 +63631,16 @@ Se usan para desbloquear niveles en el Modo difícil.
 2. ¿Cómo se consiguen?
 
 [SPACETIME_KEY_INFO_TEXT_4]
-Todos los días recibirás 1 Llave espacio-temporal. Existe un límite de llaves, luego de alcanzar ese límite, ya no recibirás más.
+Todos los días recibirás 1 Llave. Existe un límite de llaves, luego de alcanzar ese límite, ya no recibirás más.
 
 [SPACETIME_KEY_INFO_TEXT_5]
 3. Límite de llaves
 
 [SPACETIME_KEY_INFO_TEXT_6]
-Puedes obtener hasta 5 Llaves del Espacio-tiempo.
+Puedes obtener hasta 7 Llaves.
 
 [SPACETIME_KEY_INFO_TITLE]
-Llaves del espacio-tiempo
+LLAVES DEL ESPACIO-TIEMPO
 
 [SPACETIME_KEY_INFO_TITLE_UNCHARTED_NEEDFORSPEED_202406]
 DESCRIPCIÓN DEL EVENTO
