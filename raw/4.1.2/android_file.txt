@@ -13834,9 +13834,6 @@ Te permite empezar con un Nutriente adicional.
 [DANGER_ROOM_REWARD_SUN_DESC]
 Te permite empezar con {SUN_COUNT} soles adicionales
 
-[DANGER_ROOM_REWARD_WIZARD_FINGER]
-Añade una utilización gratis de Chispazo poderoso
-
 [DANGER_ROOM_SKYCITY_LEVEL_NAME]
 Cementerio aéreo - Nivel {LEVEL_NUMBER}
 
@@ -13858,7 +13855,7 @@ Arboleda mágica - Nivel {LEVEL_NUMBER}
 [DANGER_ROOM_TIP_CONTENT]
 Progreso: {PROGRESS_COUNT}/{MAX_COUNT}
 Puntuación: {SCORE_COUNT}
-Recompensa: x{REWARD_COUNT}.
+Recompensa: x{REWARD_COUNT}
 
 [DANGER_ROOM_TIP_TITLE_1]
 ¡Ya empezó el desafío!
@@ -23309,7 +23306,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.3 (actualizado el 4/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.4 (actualizado el 4/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -27326,7 +27323,7 @@ RECARGAR
 Déjame pensarlo
 
 [LEVEL_OF_PLANT]
-Planta de Nvl. {PLANT_LEVEL}: 
+Planta de Nvl. {PLANT_LEVEL}:  
 
 [LEVELEDITOR_SHOP_TIPS_DESC]
 1. Crea o juega Niveles para obtener Monedas que pueden canjearse en la tienda.
@@ -28601,7 +28598,7 @@ Bolsas de regalo
 [LUCKYCHEST_DES_DESCRIPTION]
 1. Gana cofres con tu 1ra, 5ta y 10ma victoria diaria.
 
-2. Cada recompensas es aleatoria, consulta la tabla de probabilidades para más info,
+2. Cada recompensa es aleatoria, consulta la tabla de probabilidades para más info.
 
 3. El contenido tiene la posibilidad de mejorar al tocar el cofre hasta 3 veces.
 
@@ -31368,16 +31365,17 @@ Juega a los Minijuegos y obtén ^FFB400^Monedas^oldclr^ que pueden ^27A800^canje
 Ayuda
 
 [MINIGAME_PERK_BOWLING]
-Añade 5 nueces al usarse y da más Nueces o Explotonueces durante 10 s. ^FF0000^Usos: {NUMBER}^oldclr^
+Añade 5 nueces y da más Explotonueces durante 10 s. ^FF0000^Usos: {NUMBER}^oldclr^
 
 [MINIGAME_PERK_GAME_COIN_INCREASED]
 Aumenta las Monedas obtenidas al final del nivel en un {NUMBER}%
 
 [MINIGAME_PERK_GAME_DURATION_INCREASED]
-La partida dura {NUMBER} s más
+La partida dura {NUMBER} segundos adicionales
 
 [MINIGAME_PERK_KILL_ALL_ZOMBIE_DESCRIPTION]
-Elimina a todos los zombis del patio. ^FF0000^Usos: {NUMBER}^oldclr^
+Elimina a todos los zombis del patio.
+^FF0000^Usos: {NUMBER}^oldclr^
 
 [MINIGAME_PERK_PLANTS_STATS_INCREASED_DESCRIPTION]
 Aumenta los atributos de las plantas en un {NUMBER3}%
@@ -31392,7 +31390,7 @@ Reinicia el plantado y hace que el sombrero solo dé plantas por 10 s. ^FF0000^U
 Cada 20 s, aturde a todos los zombis durante {NUMBER} s
 
 [MINIGAME_PERK_TEAM_SKY]
-Desbloquea nuevos escuadrones de plantas
+Desbloquea nuevos escuadrones de plantas en Combate aéreo
 
 [MINIGAME_PERK_TIME_BACK]
 Retrocede el tiempo, revirtiendo 5 pasos. ^FF0000^Usos: {NUMBER}^oldclr^
@@ -54885,7 +54883,7 @@ Descuento: {DISCOUNT}
 ¡Ahorra con éstos Lotes y aprovecha las Ofertas que se van!
 
 [RECHARGEBUNDLE_FAMILY_TOTAL]
-Piezas de plantas x{NUMBER}
+{NUMBER} Piezas
 
 [RECHARGEBUNDLE_LIMIT_TIME]
 Tiempo límite: 6 - 14 de julio a las 12:00
