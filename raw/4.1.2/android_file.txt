@@ -1,6 +1,9 @@
 ﻿[#OF#]
 # de #
 
+[LEVEL_OF_PLANT]
+{PLANTNAME} al Nvl. {PLANT_LEVEL}
+
 [ACCESSORY_EXCHANGE_FAILED]
 Error en el intercambio
 
@@ -23309,7 +23312,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.1 (actualizado el 4/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.2 (actualizado el 4/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -31355,7 +31358,7 @@ Añade 5 nueces al usarse y da más Nueces o Explotonueces durante 10 s. Usos: {
 Aumenta las Monedas obtenidas al final del nivel en un {NUMBER}%
 
 [MINIGAME_PERK_GAME_DURATION_INCREASED]
-La partida dura {NUMBER} segundos más
+La partida dura {NUMBER} s más
 
 [MINIGAME_PERK_KILL_ALL_ZOMBIE_DESCRIPTION]
 Elimina a todos los zombis del patio. Usos: {NUMBER}
@@ -56504,7 +56507,7 @@ x{FUEL_AMT}   JUGAR
 Recompensas
 
 [RIFT_LEVEL_SETUP_MAX_SCORE]
-Mejor puntuación: ^EC6A00^{NUMS}^oldclr^
+^A0522D^Mejor puntuación: ^EC6A00^{NUMS}^oldclr^
 
 [RIFT_LEVEL_SETUP_TITLE]
 Selecciona la dificultad del nivel {LEVEL_NUMBER}:
@@ -64662,7 +64665,7 @@ Sobrevive a un ataque masivo en la Playa de la Gran Ola
 Playa de la Gran Ola - Día Final
 
 [STARCHALLENGE_BESIEGE]
-Pon obstáculos y plantas para evitar que los zombis lleguen a la línea de meta
+Pon obstáculos y plantas para evitar que los zombis se roben tus piezas
 
 [STARCHALLENGE_BESIEGE_NAME]
 Asedio
@@ -64683,7 +64686,7 @@ Intrusos fugitivos
 Expulsa a {COUNT} zombis del patio
 
 [STARCHALLENGE_BLOW_ZOMBIE_NAME]
-Volando zombis
+No se permiten zombis
 
 [STARCHALLENGE_BUFFERTILE_ZOMBIE_KILL_DESC]
 Derrota a {COUNT} zombis que hayan sido potenciados por Casillas especiales
@@ -64692,7 +64695,7 @@ Derrota a {COUNT} zombis que hayan sido potenciados por Casillas especiales
 Casillas malditas
 
 [STARCHALLENGE_BULLET_SYMBOL]
-•
+
 
 [STARCHALLENGE_CAMEL_MINIGAME]
 Combina símbolos para destruir a los zombis
@@ -71443,7 +71446,7 @@ Como ya tienes esto, obtienes puntos de bonificación en su lugar
 Próximamente...
 
 [TRAFFIC_JAM_DESCRIPTION]
-¡Retrasa a los zombis {NUMBER} segundos!
+¡Retrasa a los zombis {NUMBER} s!
 
 [TRAINING_CHALLENGE_ZERO_NAME]
 Destrucción doble
