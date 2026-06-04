@@ -23309,7 +23309,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.1.1 (actualizado el 3/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.2.1 (actualizado el 3/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -28053,7 +28053,7 @@ No tienes Boletos suficientes para participar en el sorteo. ¿Deseas gastar ^382
 No tienes suficientes Boletos para participar en los sorteos. ¿Deseas gastar ^3827F5^{NUMBER} Joyas^oldclr^ para completar los que faltan?
 
 [LIMIT_LOTTERY_PACKETS_BIG]
-25 元 ^FF0000^(Límite de compra: 5)^oldclr^
+25 元 ^FF0000^(Máx: 5)^oldclr^
 
 [LIMIT_LOTTERY_PACKETS_DESCRIPTION]
 Compra ^DD7ECB^6.000 Monedas^oldclr^ y obtén ^DD7ECB^60+^oldclr^
@@ -28061,10 +28061,10 @@ Usa las monedas para girar la ruleta y
 obtener Trofeos que se canjean por plantas.
 
 [LIMIT_LOTTERY_PACKETS_SMALL]
-6 元 ^FF0000^(Límite de compra: 1)^oldclr^
+6 元 ^FF0000^(Máx: 1)^oldclr^
 
 [LIMIT_LOTTERY_PACKETS_SUPER_BIG]
-328 元 ^FF0000^(Límite de compra: 66)^oldclr^
+328 元 ^FF0000^(Máx: 66)^oldclr^
 
 [LIMIT_TIMES_NOT_ENOUGH]
 Agotado el número de intentos.
@@ -49731,85 +49731,85 @@ Bóveda de joyas
 Montaña de joyas
 
 [PRODUCT_GEM_1480_DESC]
-¡1480 Joyas!
+¡1.480 Joyas!
 
 [PRODUCT_GEM_1480_DESC_ANDROID]
-¡1480 Joyas!
+¡1.480 Joyas!
 
 [PRODUCT_GEM_1480_DESC_IOS]
-¡1480 Joyas!
+¡1.480 Joyas!
 
 [PRODUCT_GEM_1480_DESC_IOS_EXTRA]
-1480 Joyas + ^FF0000^500 extra^oldclr^
+1.480 Joyas + ^FF0000^500 extra^oldclr^
 
 [PRODUCT_GEM_1480_SHORT_DESC]
-Joyas x1480
+Joyas x1.480
 
 [PRODUCT_GEM_1500_DESC_ANDROID]
-¡1500 Joyas!
+¡1.500 Joyas!
 
 [PRODUCT_GEM_1500_DESC_ANDROID_EXTRA]
-1500 Joyas + ^FF0000^400 extra^oldclr^
+1.500 Joyas + ^FF0000^400 extra^oldclr^
 
 [PRODUCT_GEM_1500_SHORT_DESC]
-Joyas x1500
+Botín de joyas
 
 [PRODUCT_GEM_3000_DESC_ANDROID]
-¡3000 Joyas!
+3.000 Joyas + ^FF0000^40 Piezas^oldclr^
 
 [PRODUCT_GEM_3000_DESC_ANDROID_EXTRA]
-3000 Joyas + ^FF0000^1125 extra^oldclr^
+3.000 Joyas + ^FF0000^1.125 extra^oldclr^
 
 [PRODUCT_GEM_3000_SHORT_DESC]
-Joyas x3000
+Carrito de joyas
 
 [PRODUCT_GEM_3080_DESC]
-¡3080 Joyas!
+¡3.080 Joyas!
 
 [PRODUCT_GEM_3080_SHORT_DESC]
-Joyas x3080
+Joyas x3.080
 
 [PRODUCT_GEM_3980_DESC]
-¡3980 Joyas!
+¡3.980 Joyas!
 
 [PRODUCT_GEM_3980_SHORT_DESC]
-Joyas x3980
+Joyas x3.980
 
 [PRODUCT_GEM_4108_DESC_IOS]
-¡4108 Joyas!
+¡4.108 Joyas!
 
 [PRODUCT_GEM_4108_DESC_IOS_EXTRA]
-4108 Joyas + ^FF0000^1288 extra^oldclr^
+4.108 Joyas + ^FF0000^1.288 extra^oldclr^
 
 [PRODUCT_GEM_4108_SHORT_DESC]
-Joyas x4108
+Joyas x4.108
 
 [PRODUCT_GEM_6000_DESC_ANDROID]
-¡6000 Joyas!
+6.000 Joyas + ^FF0000^60 Piezas^oldclr^
 
 [PRODUCT_GEM_6000_DESC_ANDROID_EXTRA]
-6000 Joyas + ^FF0000^2500 extra^oldclr^
+6.000 Joyas + ^FF0000^2.500 extra^oldclr^
 
 [PRODUCT_GEM_6000_SHORT_DESC]
-Joyas x6000
+Oferta de joyas
 
 [PRODUCT_GEM_7500_DESC_ANDROID]
-¡7500 Joyas!
+7.500 Joyas + ^FF0000^100 Piezas^oldclr^
 
 [PRODUCT_GEM_7500_DESC_ANDROID_EXTRA]
-7500 Joyas + ^FF0000^4100 extra^oldclr^
+7.500 Joyas + ^FF0000^4.100 extra^oldclr^
 
 [PRODUCT_GEM_7500_SHORT_DESC]
-Joyas x7500
+Superoferta de joyas
 
 [PRODUCT_GEM_8468_DESC_IOS]
-¡8468 Joyas!
+¡8.468 Joyas!
 
 [PRODUCT_GEM_8468_DESC_IOS_EXTRA]
-8468 Joyas + ^FF0000^2588 extra^oldclr^
+8.468 Joyas + ^FF0000^2.588 extra^oldclr^
 
 [PRODUCT_GEM_8468_SHORT_DESC]
-Joyas x8468
+Joyas x8.468
 
 [PRODUCT_GEM_ADVANCE_NEWER_PRESENT_ANDROID]
 ¡105 Joyas!
@@ -52609,36 +52609,6 @@ Jugador vetado por hacer trampas. No puedes acceder con esta cuenta.
 [PVZ2_MAUSOLEUM_SECONDHALF_MODE_SHOP_BUY_NORMAL_CONFIRM]
 ¿Deseas comprar esto por ^A0522D^{NUMS} Monedas de cobre^oldclr^?
 
-[PVZ2_NSCALENDARSUSAGEDESCRIPTION]
-Esta aplicación quiere acceder a tu calendario para mostrar anuncios interactivos.
-
-[PVZ2_NSCAMERAUSAGEDESCRIPTION]
-Esta aplicación quiere acceder a tu cámara para actualizar tu foto de perfil y mostrar anuncios interactivos.
-
-[PVZ2_NSCalendarsUsageDescription]
-Esta aplicación quiere acceder a tu calendario para mostrar anuncios interactivos.
-
-[PVZ2_NSCameraUsageDescription]
-Esta aplicación quiere acceder a tu cámara para actualizar tu foto de perfil y mostrar anuncios interactivos.
-
-[PVZ2_NSLOCATIONWHENINUSEUSAGEDESCRIPTION]
-Esta aplicación quiere acceder a tu ubicación cuando está en uso para mostrar anuncios interactivos.
-
-[PVZ2_NSLocationWhenInUseUsageDescription]
-Esta aplicación quiere acceder a tu ubicación cuando está en uso para mostrar anuncios interactivos.
-
-[PVZ2_NSPHOTOLIBRARYUSAGEDESCRIPTION]
-Esta aplicación quiere guardar imágenes en tu biblioteca de fotos para mostrar anuncios interactivos.
-
-[PVZ2_NSPhotoLibraryUsageDescription]
-Esta aplicación quiere guardar imágenes en tu biblioteca de fotos para mostrar anuncios interactivos.
-
-[PVZ2_NSREMINDERSUSAGEDESCRIPTION]
-Esta aplicación quiere enviar recordatorios para mostrar anuncios interactivos.
-
-[PVZ2_NSRemindersUsageDescription]
-Esta aplicación quiere enviar recordatorios para mostrar anuncios interactivos.
-
 [PVZ2_UNCHARTED_CHALLENGE_TITLE]
 Objetivos del Nivel
 
@@ -52653,9 +52623,9 @@ Insignia de pase
 Tarjeta del pase
 
 [PVZ2_UNCHARTED_MAUSOLEUM_TIPS_DESC_UNCHARTED]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: obtienes Oro y Joyas
+• Modo difícil: lo mismo que el modo fácil + Estratagemas
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_END_PLAY_LOSS]
 No alcanzaste todos los objetivos.
@@ -52673,17 +52643,17 @@ Activar beneficios premium
 {NUMS}/{NUMS_MAX}
 
 [PVZ2_UNCHARTED_MODE_KEY_NOT_ENOUGH]
-Llaves espacio-temporales insuficientes. El número de llaves se actualiza todos los días, ¡vuelve mañana!
+Llaves insuficientes. El número de llaves se actualiza todos los días, ¡vuelve mañana!
 
 [PVZ2_UNCHARTED_MODE_KEY_TIPS_DESC]
 1. Usa Llaves espacio-temporales para desbloquear niveles en el Modo difícil.
-2. Puedes obtener hasta 5 Llaves, cada día recibes 1 gratis hasta alcanzar el límite.
+2. Puedes obtener hasta 7 Llaves, cada día recibes 1 gratis hasta alcanzar el límite.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_BMIELITE]
 El Zombidito máquina de burbujas está listo para el combate.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CHILDREN1]
-Viene el Supercarro chocón para hacer estragos
+Viene el Mega-carro chocón para hacer estragos
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CHRISTMAS5]
 Inclínense ante la Hada blanca
@@ -52695,7 +52665,8 @@ Batalla contra el Zombi cascabel.
 Echa un poco de Nutrientes en un Caldero de hechicería y déjalo hervir. Luego, pon algunas plantas y espera a ver qué se cocina.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_GULLIVER]
-El extremo más ancho encoge zombis, y el más angosto, los agranda
+Los zombis pequeños que lo crucen se vuelven gigantes y viceversa.
+Los proyectiles rectos se reducen y hacen menos daño.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE1]
 Regreso a Cuevas congeladas
@@ -53018,72 +52989,72 @@ Completa los niveles anteriores para desbloquear la Pelea con el Jefe en el Modo
 Completa los niveles anteriores.
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: obtienes Oro y Joyas
+• Modo difícil: lo mismo que el modo fácil + Estrellas secretas
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ARBORDAY]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: obtienes Oro, Joyas, Piezas de plantas y atuendos
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: Oro, Joyas, Piezas de plantas y atuendos, Tiques de temporada y Cupones de atuendo
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY_2025]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: Oro, Joyas, Piezas de plantas y atuendos, Tiques de temporada y Cupones de atuendo
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHILDRENSDAY_2026]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: Oro, Joyas, Piezas de plantas y atuendos, Tiques de temporada y Cupones de atuendo
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_CHRISTMAS_202512]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: Oro, Joyas, Piezas de plantas y atuendos
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ICEAGE]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: Oro, Joyas, Piezas de plantas y atuendos
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ICEAGE_202411]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: Oro, Joyas, Piezas de plantas y atuendos
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: obtienes Oro y Joyas
+• Modo difícil: lo mismo que el modo fácil + Estratagemas
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_MAUSOLEUM_2]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: obtienes Monedas de cobre, Oro y Joyas
+• Modo difícil: lo mismo que el modo fácil + Piezas de jade
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_NO42_UNIVERSE]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: Oro, Joyas, Piezas de plantas y atuendos
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_SPRING_FESTIVAL_2024]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: Oro, Joyas, Piezas de plantas y atuendos
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ZCORP]
-1. Cada mundo tiene niveles normales y difíciles. Completa los niveles normales para recibir premios y desbloquear el Modo difícil.
-2. Se necesitan Llaves espacio-temporales para viajar hacia los niveles del Modo difícil.
-3. Hay objetivos extra en el Modo difícil. Complétalos para obtener Estrellas y canjéalas en la Tienda.
+• Modo fácil: Oro, Joyas, Rubíes, Piezas de plantas y atuendos
+• Modo difícil: más recompensas por objetivo
+• Recompensas fijas: Oro
 
 [PVZ2_UNCHARTED_MODE_TIPS_TITLE]
-CONSEJOS
+INFO
 
 [PVZ2_UNCHARTED_MODE_UNLOCK_HARD_LEVEL]
 ¿Deseas usar ^3827F5^1 Llave espacio-temporal^oldclr^ para desbloquear este nivel?
@@ -53092,14 +53063,14 @@ CONSEJOS
 Récord: {NUMS}/99
 
 [PVZ2_UNCHARTED_NO42_UNIVERSE_HARD_LEVEL_MAIN_GOAL_DESC]
-Reúne sol para cultivar plantas y resistir la invasión zombi.
-Completa los objetivos extra para conseguir un avatar exclusivo.
+1. Reúne sol para cultivar plantas y resistir la invasión zombi.
+2. Completa los objetivos extra para conseguir un avatar exclusivo.
 
 [PVZ2_UNCHARTED_NORMAL_LEVEL_MAIN_GOAL_DESC]
 Reúne sol para cultivar plantas y resistir la invasión zombi.
 
 [PVZ2_UNCHARTED_SPECIAL_LEVEL_MAIN_GOAL_DESC]
-Desliza hacia arriba o abajo para evitar obstáculos, alcanza la puntuación objetivo para ganar.
+Desliza para evitar obstáculos, alcanza la puntuación objetivo para ganar.
 
 [PVZ2_UNCHARTED_ZOMBIE_TITLE]
 Zombis
@@ -53138,7 +53109,7 @@ Solo se pueden vincular 3 dispositivos por año.
 El nombre del nivel no es válido.
 
 [PVZ_ERROR_21508]
-Alcanzado el límite de veces restantes, no se puede comprar este artículo.
+Has alcanzado el límite de compra de este artículo.
 
 [PVZ_ERROR_21509]
 Alcanzado el límite de compras, no se puede comprar este artículo.
@@ -53153,7 +53124,7 @@ Se ha producido un error en los datos.
 El evento ya ha finalizado.
 
 [PVZ_ERROR_40023]
-No hay suficientes desafíos.
+No hay suficientes boletos.
 
 [PVZ_ERROR_40024]
 Los datos de la Zona de Infinito son inválidos.
@@ -68763,7 +68734,7 @@ Muchos premios te esperan en los eventos diarios del Festival Veraniego.
 ¡Festival Veraniego - Nivel superado!
 
 [SUMMERY_LOTTERY_LACK_MATERIAL]
-{ITEM} insuficiente. Consigue suficiente material para poder girar la ruleta y obtener premios.
+Material insuficiente: {ITEM}. Consigue suficiente para girar la ruleta y obtener premios.
 
 [SUMMERY_LOTTERY_NET_ERROR]
 Error de conexión, no se pudo girar la ruta.
@@ -70843,7 +70814,9 @@ Ruleta de la Suerte
 
 [THE_LIMIT_LOTTERY_OVERVIEW_CONTENT]
 1. Usa Monedas para girar la ruleta y obtener premios exclusivos, incluidas plantas de Nvl. 3 (las plantas que ya tengas se convertirán en Piezas).
+
 2. Obtienes una bonificación de suerte por cada sorteo, lo que te permite obtener mejores premios.
+
 3. Cuando el bonus de suerte llega al 100%, este se reinicia y recibes un Trofeo que puedes canjear por plantas o atuendos en la Tienda.
 
 [THE_LIMIT_LOTTERY_OVERVIEW_TITLE]
