@@ -1,9 +1,6 @@
 ﻿[#OF#]
 # de #
 
-[LEVEL_OF_PLANT]
-{PLANTNAME} al Nvl. {PLANT_LEVEL}
-
 [ACCESSORY_EXCHANGE_FAILED]
 Error en el intercambio
 
@@ -12603,7 +12600,7 @@ Error al compartir el archivo, verifica si el cliente de la plataforma para comp
 Compartido con éxito.
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SHARE_TITLE]
-Compartir Nivel
+COMPARTIR NIVEL
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_AUTHOR]
 Autor:
@@ -19613,7 +19610,7 @@ Cofre raro x10
 Toca para abrir
 
 [GACHA_POOL_SHOW]
-Vista previa de premios
+Vista previa
 
 [GACHA_TEM_DRAW_PRICE]
 Abrir por {NUMBER}
@@ -23312,7 +23309,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.2 (actualizado el 4/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.3 (actualizado el 4/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -23456,8 +23453,11 @@ Genera ondas sonoras cuando los proyectiles la sobrevuelan
 
 [HEAVENTREASURE_DESCRIPTION]
 1. Compra paquetes de regalo para obtener llaves, y úsalas para obtener atuendos y otros premios de lujo en sorteos.
+
 2. Recibes códigos promocionales al comprar un paquete de regalo.
+
 3. Las monedas y cupones se conservarán en la próxima actualización del evento.
+
 4. El progreso del evento se actualizará el primer día de cada mes.
 
 [HEAVENTREASURE_DESCRIPTION_TITLE]
@@ -23473,7 +23473,13 @@ Descuentos
 El código promocional caducó, ¿quieres comprar un paquete para reactivarlo?
 
 [HEAVEN_TREASURE_DESCRIPTION_1]
-Consigue descuentos mientras más veces participes en sorteos.
+1. Recibes un código al comprar un paquete de llaves al precio original.
+
+2. El porcentaje de descuento aumenta conforme abras más cofres.
+
+3. Puedes compartir el código con tus amigos. Recibirás hasta un 70% de reembolso en las compras del evento.
+
+4. El código solo puede canjearse por 3 personas.
 
 [HEAVEN_TREASURE_DESCRIPTION_TITLE_1]
 SOBRE LOS DESCUENTOS
@@ -23491,7 +23497,7 @@ Sin descuento
 Aún no tienes un cupón de descuento, compra la oferta primero
 
 [HEAVEN_TREASURE_SHOP_BUY_CONFIRM]
-¿Quieres abrir el cofre por ^DB8117^{NUMS} Monedas espirituales^oldclr^?
+¿Quieres abrir el cofre? ^DB8117^Coste: {NUMS} Llaves de oro^oldclr^
 
 [HEAVEN_TREASURE_TAB1]
 Premios
@@ -23527,9 +23533,9 @@ Tienda
 Usar código promocional
 
 [HEAVEN_TREASURE_USE_CODE_DES]
-^A0522D^1. Introduce un código promocional para obtener un 30% de descuento en los Paquetes del evento.^oldclr^
-^A0522D^2. Los jugadores que compren la oferta al precio original obtendrán un código promocional.^oldclr^
-^A0522D^3. Otros jugadores pueden usar el código, recibes un 70% de reembolso en artículos al compartirlo.^oldclr^
+^A0522D^1. Introduce un código promocional para obtener un 30% de descuento en los Paquetes del evento.
+
+2. Puedes conseguir un código promocional al comprar paquetes y compartirlo para recibir reembolsos en artículos.^oldclr^
 
 [HEAVEN_TREASURE_USE_CODE_SUCCESS]
 Enhorabuena, ¡tienes un 30% de descuento!
@@ -27319,6 +27325,9 @@ RECARGAR
 [LET_ME_THINK]
 Déjame pensarlo
 
+[LEVEL_OF_PLANT]
+Planta de Nvl. {PLANT_LEVEL}: 
+
 [LEVELEDITOR_SHOP_TIPS_DESC]
 1. Crea o juega Niveles para obtener Monedas que pueden canjearse en la tienda.
 2. También recibes monedas diarias, al calificar niveles o con reproducciones de nivel
@@ -27997,7 +28006,7 @@ REGLAS DEL EVENTO
 Recompensas por Clasificación
 
 [LIMITED_SUMMON_SHORT_DESCRIPTION]
-Realiza peticiones por tiempo limitado y compra Paquetes para conseguir plantas nuevas.
+Realiza peticiones para conseguir plantas de tiempo limitado.
 
 [LIMITED_SUMMON_TIMES_ONCE]
 Pedir x1
@@ -28016,7 +28025,9 @@ Duración del VIP
 
 [LIMITED_SUMMON_WISH_DESCRIPTION]
 1. Obtén cupones comprando Paquetes o activando Privilegios VIP y úsalos para peticionar tus plantas preferidas.
+
 2. Privilegios VIP: inicia sesión durante 3 días consecutivos para recibir Cupones de petición.
+
 3. Clasificaciones: los jugadores se clasifican en una lista según el número de peticiones realizadas.
 
 [LIMITED_SUMMON_WISH_DESCRIPTION_2]
@@ -28589,10 +28600,15 @@ Bolsas de regalo
 
 [LUCKYCHEST_DES_DESCRIPTION]
 1. Gana cofres con tu 1ra, 5ta y 10ma victoria diaria.
-2. Cada recompensas es aleatoria, el contenido tiene la posibilidad de mejorar al tocar el cofre hasta 3 veces.
+
+2. Cada recompensas es aleatoria, consulta la tabla de probabilidades para más info,
+
+3. El contenido tiene la posibilidad de mejorar al tocar el cofre hasta 3 veces.
+
+4. Si así lo deseas, puedes compartir tus cofres con tus amigos en las redes sociales.
 
 [LUCKYCHEST_DES_TITLE]
-Cofres diarios
+COFRES DIARIOS
 
 [LUCKY_LIST]
 Lista de afortunados
@@ -31352,7 +31368,7 @@ Juega a los Minijuegos y obtén ^FFB400^Monedas^oldclr^ que pueden ^27A800^canje
 Ayuda
 
 [MINIGAME_PERK_BOWLING]
-Añade 5 nueces al usarse y da más Nueces o Explotonueces durante 10 s. Usos: {NUMBER}
+Añade 5 nueces al usarse y da más Nueces o Explotonueces durante 10 s. ^FF0000^Usos: {NUMBER}^oldclr^
 
 [MINIGAME_PERK_GAME_COIN_INCREASED]
 Aumenta las Monedas obtenidas al final del nivel en un {NUMBER}%
@@ -31361,7 +31377,7 @@ Aumenta las Monedas obtenidas al final del nivel en un {NUMBER}%
 La partida dura {NUMBER} s más
 
 [MINIGAME_PERK_KILL_ALL_ZOMBIE_DESCRIPTION]
-Elimina a todos los zombis del patio. Usos: {NUMBER}
+Elimina a todos los zombis del patio. ^FF0000^Usos: {NUMBER}^oldclr^
 
 [MINIGAME_PERK_PLANTS_STATS_INCREASED_DESCRIPTION]
 Aumenta los atributos de las plantas en un {NUMBER3}%
@@ -31370,7 +31386,7 @@ Aumenta los atributos de las plantas en un {NUMBER3}%
 La velocidad de los zombis se reduce en un {NUMBER}%
 
 [MINIGAME_PERK_REFRESH_CARD]
-Reinicia el plantado y hace que el sombrero solo de plantas por 10 s. Usos: {NUMBER}
+Reinicia el plantado y hace que el sombrero solo dé plantas por 10 s. ^FF0000^Usos: {NUMBER}^oldclr^
 
 [MINIGAME_PERK_STUCK_ALL_ZOMBIE_DESCRIPTION]
 Cada 20 s, aturde a todos los zombis durante {NUMBER} s
@@ -31379,10 +31395,10 @@ Cada 20 s, aturde a todos los zombis durante {NUMBER} s
 Desbloquea nuevos escuadrones de plantas
 
 [MINIGAME_PERK_TIME_BACK]
-Retrocede el tiempo, revirtiendo 5 pasos. Usos: {NUMBER}
+Retrocede el tiempo, revirtiendo 5 pasos. ^FF0000^Usos: {NUMBER}^oldclr^
 
 [MINIGAME_PERK_XRAY]
-Revela todos los paneles de los Camellos durante 10 s. Usos: {NUMBER}
+Revela todos los paneles de los Camellos durante 10 s. ^FF0000^Usos: {NUMBER}^oldclr^
 
 [MINIGAME_RANK_NOTOPEN]
 Sin clasificación
@@ -31391,13 +31407,17 @@ Sin clasificación
 Ver resultados
 
 [MINIGAME_REWARD_RANK_TIP]
-Tu clasificación: ^FF0000^{RANK}^oldclr^
+Puesto: ^FF8000^{RANK}^oldclr^
 Tu recompensa:
 
 [MINIGAME_RULE_TXT]
-^FF0000^1. Diviértete jugando minijuegos y gana puntos mientras lo haces.
-2. Al final de los niveles obtendrás Energía de refuerzo, úsala para mejorar tus ventajas.
-3. Alcanza hitos mientras más puntos acumules para obtener Recompensas.^oldclr^
+^D22808^1. Diviértete jugando minijuegos y gana puntos mientras lo haces.
+
+2. Los minijuegos se desbloquean conforme vayas completando los disponibles, incluyendo los del modo díficil.
+
+3. Al final de los niveles obtendrás Energía de refuerzo, úsala para mejorar tus ventajas.
+
+4. Alcanza hitos mientras más puntos acumules para obtener Recompensas.^oldclr^
 
 [MINIGAME_RULE_TXT2]
 ^FFC300^REGLAS DEL EVENTO^oldclr^
@@ -42608,13 +42628,13 @@ Error al vincular la cuenta
 La cuenta ha sido vinculada por otro dispositivo. Desvincúlala primero.
 
 [ONBINDING_FAILED_45015]
-Se ha alcanzado el límite de dispositivos vinculados. ^ff0000^(Solo se permiten hasta 3 dispositivos)^oldclr^
+Se ha alcanzado el límite de dispositivos vinculados. ^FF0000^(Máx. 3)^oldclr^
 
 [ONBINDING_FAILED_45020]
-Se ha producido un error al enlazar el archivo. ^ff0000^(Solo se puede enlazar 3 veces)^oldclr^
+Se ha producido un error al enlazar el archivo.
 
 [ONEYUAN_SHOR_DESCRIPTION]
-Abre huevos por tan solo 1 元, podrás conseguir plantas épicas y legendarias en ellos.
+Abre huevos y consigue plantas épicas o legendarias en ellos
 
 [ONE_CLICK_TO_RECEIVE]
 Toca para recibir
@@ -72270,7 +72290,7 @@ Segundo aniversario
 ACEPTAR
 
 [TWO_YEAR_SHARE_BUTTON]
-Compartir
+COMPARTIR
 
 [TWO_YEAR_SHARE_FAILED_NO_CONNECT]
 Se ha producido un error al compartir, ¡verifica tu conexión a Internet e inténtalo de nuevo más tarde!
@@ -75180,7 +75200,7 @@ No es un OK Corral - III
 Salvaje Oeste - Día {LEVEL_NUMBER}
 
 [WE_CHAT_SHARE]
-Compartir
+COMPARTIR
 
 [WHITE]
 Común
