@@ -2738,19 +2738,19 @@ Lanza semillas aturdidoras por tres líneas
 Aplica
 
 [APPLY_CONDITION_DESCRIPTION]
-¡Aplica {CONDITION} durante {DURATION} segundos cada {TIME} segundos!
+¡Aplica {CONDITION} durante {DURATION} s cada {TIME} s!
 
 [APPLY_CONDITION_DESCRIPTION_HYPNOTIZED]
-¡{NUMBER} zombis {CONDITION} cada {TIME} segundos!
+¡{CONDITION} {NUMBER} zombis cada {TIME} s!
 
 [APPLY_CONDITION_DESCRIPTION_PLANTFOOD]
-¡{NUMBER} zombi(s) recibe(n) {CONDITION} extra cada {TIME} segundos!
+¡{NUMBER} zombi(s) recibe(n) {CONDITION} extra cada {TIME} s!
 
 [APPLY_CONDITION_DESCRIPTION_SHRINKING]
-¡Inflige {CONDITION} a {NUMBER} zombis cada {TIME} segundos!
+¡{CONDITION} {NUMBER} zombis cada {TIME} s!
 
 [APPLY_DAMAGE_CONDITION_DESCRIPTION]
-¡Inflige {DAMAGE} de daño de {CONDITION} durante {DURATION} segundos cada {TIME} segundos!
+¡Inflige {DAMAGE} de daño de {CONDITION} durante {DURATION} s cada {TIME} s!
 
 [APP_UPDATE_REQUIRED]
 Descarga la última versión de Plants vs. Zombies 2 desde la App Store.
@@ -15776,7 +15776,7 @@ AVISOS
 Elige un grado de dificultad
 
 [DIFFICULTY_MODIFIERS_LABEL]
-Modif. de dificultad:
+Mod. de dif.
 
 [DIFFICULTY_RECOMMENDATION_TEXT]
 Recomendado:
@@ -22419,10 +22419,10 @@ Nivel 3
 Dispara 3 tipos diferentes de misiles a los zombis
 
 [GRID_IS_YOURS_BOOSTTILE3_DESCRIPTION]
-¡Dispersa {COUNT} casillas potenciadoras de tres usos cada {TIME} segundos!
+¡Dispersa {COUNT} casillas potenciadoras de tres usos cada {TIME} s!
 
 [GRID_IS_YOURS_BOOSTTILE_DESCRIPTION]
-¡Dispersa {COUNT} casillas potenciadoras de un solo uso cada {TIME} segundos!
+¡Dispersa {COUNT} casillas potenciadoras de un solo uso cada {TIME} s!
 
 [GRIMROSE]
 Siniestrosa
@@ -23309,7 +23309,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.2.1 (actualizado el 3/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.1 (actualizado el 4/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -31280,7 +31280,7 @@ Arrastra el carro de mina a una nueva ubicación
 ¡Bien hecho! Puedes plantar en carros de mina vacíos
 
 [MINE_IS_YOURS_CHILIBEAN_DESCRIPTION]
-¡Dispersa {COUNT} Frijoles cada {TIME} segundos!
+¡Dispersa {COUNT} Frijoles cada {TIME} s!
 
 [MINE_IS_YOURS_DESCRIPTION]
 ¡Dispersa {COUNT} Papapúm (s) cada {TIME} s!
@@ -31460,37 +31460,37 @@ Maestro del jarrón
 Minijuegos
 
 [MINI_GAME_PERK_NAME_ITEM_KILL_ALL_ZOMBIES]
-Ventaja - Muerte instantánea
+Muerte instantánea
 
 [MINI_GAME_PERK_NAME_MINI_GAME_COIN_INCREASED]
-Ventaja - Reserva de oro
+Reserva de oro
 
 [MINI_GAME_PERK_NAME_MINI_GAME_DURATION_INCREASED]
-Ventaja - Tiempo extra
+Tiempo extra
 
 [MINI_GAME_PERK_NAME_PLANT_STATS_INCREASED]
-Ventaja - Plantas potenciadas
+Plantas potenciadas
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_BOWLING]
-Ventaja - Lluvia de nueces
+Lluvia de nueces
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_REFRESH_CARD]
-Ventaja - Plantado seguro
+Plantado seguro
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_TEAM_SKY]
-Ventaja - Escuadrón aéreo
+Escuadrón aéreo
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_TIME_BACK]
-Ventaja - Vuelta atrás
+Vuelta atrás
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_X_RAY]
-Ventaja - Rayos X
+Rayos X
 
 [MINI_GAME_PERK_NAME_ZOMBIE_GLOBAL_STUCK]
-Ventaja - Aturdir zombis
+Aturdir zombis
 
 [MINI_GAME_PERK_NAME_ZOMBIE_SPEED_REDUCED]
-Ventaja - Lento pero seguro
+Lento pero seguro
 
 [MINI_GAME_T1]
 Memoria de momia
@@ -35461,7 +35461,7 @@ Combina las esferas de alrededor para destruir los bloques de hielo y liberar el
 {NPC_ENTER:winnieicon}{SAY}Visita la sección "Accesorios" de vez en cuando para ver los nuevos Atuendos que posees.
 
 [NARRATIVE_NEWAVATAR_FINISH_TUTORIAL_2]
-{EXCITED}Los nuevos Atuendos también añaden efectos adicionales a las plantas que los equipen.
+{EXCITED}Los atuendos secundarios añaden efectos pasivos a las plantas que los equipen.
 
 [NARRATIVE_NEWAVATAR_OPEN_TUTORIAL_1]
 {NPC_ENTER:winnieicon}{PLAYFUL}Has desbloqueado los diferentes Atuendos para plantas.
@@ -35474,7 +35474,9 @@ Combina las esferas de alrededor para destruir los bloques de hielo y liberar el
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_DISCOUNTSHOP_INTRO_2]
 {NPC_ENTER:winnieicon}{PLAYFUL:winnieicon}La Tienda de descuentos es justo lo que necesitas.
-Obtienes jugosos descuentos mientras más Joyas compres.
+
+[NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_DISCOUNTSHOP_INTRO_3]
+{SAY:winnieicon}Obtienes jugosos descuentos mientras más Joyas compres.
 
 [NARRATIVE_NEWPLAYER_COLLECTION_ACTIVITY_NOTICE_SEVENDAYS_INTRO_1]
 {NPC_ENTER:crazydaveicon}{TIRED}¡Uf! Creo que acabo de pasar por una batalla intensa...
@@ -45398,103 +45400,103 @@ Detener
 Frijol solar
 
 [PERK_NAME_BOSSBUSTERCANNON]
-Ventaja - Rompejefes
+Rompejefes
 
 [PERK_NAME_FLICK]
-Ventaja - Antigravedad
+Antigravedad
 
 [PERK_NAME_GRIDISYOURS_BOOSTTILE]
-Ventaja - Casilla potenciadora
+Casilla potenciadora
 
 [PERK_NAME_GRIDISYOURS_BOOSTTILE3]
-Ventaja - Casilla potenciadora triple
+Casilla potenciadora triple
 
 [PERK_NAME_HEAVYWATERING]
-Ventaja - Gran regadío
+Gran regadío
 
 [PERK_NAME_MINEISYOURS]
-Ventaja - Lanzaminas
+Lanzaminas
 
 [PERK_NAME_MINEISYOURSSUNFLOWER]
-Ventaja - Lanzagirasoles
+Lanzagirasoles
 
 [PERK_NAME_MINEISYOURS_CHILIBEAN]
-Ventaja - Limpiacosechas
+Limpiacosechas
 
 [PERK_NAME_MINEISYOURS_GOLDBLOOM]
-Ventaja - Sol a la fuga
+Sol a la fuga
 
 [PERK_NAME_MINEISYOURS_HYPNOSHROOM]
-Ventaja - Generador de esbirros
+Generador de esbirros
 
 [PERK_NAME_MINEISYOURS_JALAPENO]
-Ventaja - Lanzajalapeños
+Lanzajalapeños
 
 [PERK_NAME_MINEISYOURS_PRIMALPOTATOMINE]
-Ventaja - Lanzaminas
+Lanzaminas
 
 [PERK_NAME_MINEISYOURS_SHINEVINE]
-Ventaja - Hora de brillar
+Hora de brillar
 
 [PERK_NAME_MINEISYOURS_SQUASH]
-Ventaja - Apisonante
+Apisonante
 
 [PERK_NAME_MINEISYOURS_TUMBLEWEED]
-Ventaja - Reyerta de rodadoras
+Reyerta de rodadoras
 
 [PERK_NAME_MOARSCORE]
-Ventaja - Mejora de puntuación
+Mejora de puntuación
 
 [PERK_NAME_PENNYJUGGLED]
-Ventaja - Blindaje de guisantes
+Blindaje de guisantes
 
 [PERK_NAME_PENNYSHIELD]
-Ventaja - Escudo de Penny
+Escudo de Penny
 
 [PERK_NAME_PENNYSHIELDMULTIPLE]
-Ventaja - Escudos de Penny
+Escudos de Penny
 
 [PERK_NAME_PLANTHEALING]
-Ventaja - Hipercuración
+Hipercuración
 
 [PERK_NAME_QUICKDELIVERY]
-Ventaja - Entrega exprés
+Entrega exprés
 
 [PERK_NAME_SHOCKWAVE]
-Ventaja - Onda sónica
+Onda sónica
 
 [PERK_NAME_SUNBANK]
-Ventaja - Banco solar
+Banco solar
 
 [PERK_NAME_SUNBREAK]
-Ventaja - Destello solar
+Destello solar
 
 [PERK_NAME_TRAFFICJAM]
-Ventaja - Atasco
+Atasco
 
 [PERK_NAME_UTILITYBELT_CHERRYBOMB]
-Ventaja - Recolectacerezas
+Recolectacerezas
 
 [PERK_NAME_UTILITYBELT_HURRIKALE]
-Ventaja - Huracol veloz
+Huracol veloz
 
 [PERK_NAME_UTILITYBELT_HYPNOSHROOM]
-Ventaja - Zombistein instantáneo
+Zombistein instantáneo
 
 [PERK_NAME_UTILITYBELT_ICEBLOOM]
-Ventaja - Brotes helados
+Brotes helados
 
 [PERK_NAME_UTILITYBELT_IMPPEAR]
-Ventaja - Zombidito posibilito
+Zombidito posibilito
 
 [PERK_NAME_UTILITYBELT_PUFFBALL]
-Ventaja - Desesporación poderosa
+Desesporación poderosa
 
 [PERK_NAME_ZOMBIEINHIBITOR]
-Ventaja - Esfumazombis
+Esfumazombis
 
 [PERK_NAME_ZOMBIEINHIBITOR_BIRTHDAYZ]
-Ventaja - Fiezta de cumpleañoz
+Fiezta de cumpleañoz
 
 [PERK_NEXT_LEVEL]
 SIGUIENTE NIVEL
@@ -49629,25 +49631,27 @@ Combustible gratis - VIP
 ¡^3827F5^20^oldclr^ Joyas!
 
 [PRODUCT_GEM_20_DESC_ANDROID_EXTRA]
-20 Joyas
+^3827F5^20^oldclr^ Joyas +
+^FF0000^10 extra^oldclr^
 
 [PRODUCT_GEM_20_SHORT_DESC]
 Joyas de bolsillo
 
 [PRODUCT_GEM_60_DESC]
-¡60 Joyas!
+^3827F5^60^oldclr^ Joyas
 
 [PRODUCT_GEM_60_DESC_ANDROID]
-¡60 Joyas!
+¡^3827F5^60^oldclr^ Joyas!
 
 [PRODUCT_GEM_60_DESC_IOS]
-¡60 Joyas!
+¡^3827F5^20^oldclr^ Joyas!
 
 [PRODUCT_GEM_60_DESC_IOS_EXTRA]
-60 Joyas + ^FF0000^3 extra^oldclr^
+^3827F5^60^oldclr^ Joyas +
+^FF0000^30 extra^oldclr^
 
 [PRODUCT_GEM_60_DESC_QQ]
-¡60 Joyas!
+¡^3827F5^60^oldclr^ Joyas!
 
 [PRODUCT_GEM_60_SHORT_DESC]
 Cartera de joyas
@@ -49656,7 +49660,8 @@ Cartera de joyas
 ¡^3827F5^100^oldclr^ Joyas!
 
 [PRODUCT_GEM_100_DESC_ANDROID_EXTRA]
-100 Joyas + ^FF0000^10 extra^oldclr^
+^3827F5^100^oldclr^ Joyas +
+^FF0000^50 extra^oldclr^
 
 [PRODUCT_GEM_100_SHORT_DESC]
 Bolsa de Joyas
@@ -49665,7 +49670,8 @@ Bolsa de Joyas
 ¡^3827F5^200^oldclr^ Joyas!
 
 [PRODUCT_GEM_200_DESC_ANDROID_EXTRA]
-200 Joyas + ^FF0000^30 extra^oldclr^
+^3827F5^200^oldclr^ Joyas +
+^FF0000^30 extra^oldclr^
 
 [PRODUCT_GEM_200_SHORT_DESC]
 Cofre de Joyas
@@ -49674,142 +49680,157 @@ Cofre de Joyas
 ¡^3827F5^300^oldclr^ Joyas!
 
 [PRODUCT_GEM_300_DESC_ANDROID_EXTRA]
-300 Joyas + ^FF0000^60 extra^oldclr^
+^3827F5^300^oldclr^ Joyas +
+^FF0000^60 extra^oldclr^
 
 [PRODUCT_GEM_300_SHORT_DESC]
 Tesoro de Joyas
 
 [PRODUCT_GEM_330_DESC]
-¡330 Joyas!
+^3827F5^330^oldclr^ Joyas!
 
 [PRODUCT_GEM_330_DESC_ANDROID]
-¡330 Joyas!
+¡^3827F5^330^oldclr^ Joyas!
 
 [PRODUCT_GEM_330_DESC_IOS]
-¡330 Joyas!
+¡^3827F5^330^oldclr^ Joyas!
 
 [PRODUCT_GEM_330_DESC_IOS_EXTRA]
-330 Joyas + ^FF0000^60 extra^oldclr^
+^3827F5^330^oldclr^ Joyas +
+^FF0000^60 extra^oldclr^
 
 [PRODUCT_GEM_330_DESC_QQ]
-¡330 Joyas!
+¡^3827F5^330^oldclr^ Joyas!
 
 [PRODUCT_GEM_330_SHORT_DESC]
 Colección de joyas
 
 [PRODUCT_GEM_700_DESC_ANDROID]
-¡700 Joyas!
+¡^3827F5^700^oldclr^ Joyas!
 
 [PRODUCT_GEM_700_DESC_ANDROID_EXTRA]
-700 Joyas + ^FF0000^250 extra^oldclr^
+^3827F5^700^oldclr^ Joyas +
+^FF0000^250 extra^oldclr^
 
 [PRODUCT_GEM_700_SHORT_DESC]
 Regalo de joyas
 
 [PRODUCT_GEM_780_DESC]
-¡780 Joyas!
+^3827F5^780^oldclr^ Joyas
 
 [PRODUCT_GEM_780_DESC_ANDROID]
-¡780 Joyas!
+¡^3827F5^780^oldclr^ Joyas!
 
 [PRODUCT_GEM_780_DESC_IOS]
-¡780 Joyas!
+¡^3827F5^780^oldclr^ Joyas!
 
 [PRODUCT_GEM_780_DESC_IOS_EXTRA]
-780 Joyas + ^FF0000^200 extra^oldclr^
+^3827F5^780^oldclr^ Joyas +
+^FF0000^200 extra^oldclr^
 
 [PRODUCT_GEM_780_SHORT_DESC]
 Bóveda de joyas
 
 [PRODUCT_GEM_1000_DESC_ANDROID]
-¡1.000 Joyas!
+¡^3827F5^1.000^oldclr^ Joyas!
 
 [PRODUCT_GEM_1000_DESC_ANDROID_EXTRA]
-1.000 Joyas + ^FF0000^500 extra^oldclr^
+^3827F5^1.000^oldclr^ Joyas +
+^FF0000^500 extra^oldclr^
 
 [PRODUCT_GEM_1000_SHORT_DESC]
 Montaña de joyas
 
 [PRODUCT_GEM_1480_DESC]
-¡1.480 Joyas!
+^3827F5^1.480^oldclr^ Joyas
 
 [PRODUCT_GEM_1480_DESC_ANDROID]
-¡1.480 Joyas!
+¡^3827F5^1.480^oldclr^ Joyas!
 
 [PRODUCT_GEM_1480_DESC_IOS]
-¡1.480 Joyas!
+¡^3827F5^1.480^oldclr^ Joyas!
 
 [PRODUCT_GEM_1480_DESC_IOS_EXTRA]
-1.480 Joyas + ^FF0000^500 extra^oldclr^
+^3827F5^1.480^oldclr^ Joyas +
+^FF0000^500 extra^oldclr^
 
 [PRODUCT_GEM_1480_SHORT_DESC]
-Joyas x1.480
+Muchas joyas
 
 [PRODUCT_GEM_1500_DESC_ANDROID]
-¡1.500 Joyas!
+¡^3827F5^1.500^oldclr^ Joyas!
 
 [PRODUCT_GEM_1500_DESC_ANDROID_EXTRA]
-1.500 Joyas + ^FF0000^400 extra^oldclr^
+^3827F5^1.500^oldclr^ Joyas +
+^FF0000^400 extra^oldclr^
 
 [PRODUCT_GEM_1500_SHORT_DESC]
 Botín de joyas
 
 [PRODUCT_GEM_3000_DESC_ANDROID]
-3.000 Joyas + ^FF0000^40 Piezas^oldclr^
+^3827F5^3.000^oldclr^ Joyas +
+^FF0000^40 Piezas^oldclr^
 
 [PRODUCT_GEM_3000_DESC_ANDROID_EXTRA]
-3.000 Joyas + ^FF0000^1.125 extra^oldclr^
+^3827F5^3.000^oldclr^ Joyas +
+^FF0000^1.125 extra^oldclr^
 
 [PRODUCT_GEM_3000_SHORT_DESC]
 Carrito de joyas
 
 [PRODUCT_GEM_3080_DESC]
-¡3.080 Joyas!
+^3827F5^3.080^oldclr^ Joyas
 
 [PRODUCT_GEM_3080_SHORT_DESC]
-Joyas x3.080
+Joyas, joyas, joyas
 
 [PRODUCT_GEM_3980_DESC]
-¡3.980 Joyas!
+¡^3827F5^3.980^oldclr^ Joyas!
 
 [PRODUCT_GEM_3980_SHORT_DESC]
-Joyas x3.980
+Llueve joyas
 
 [PRODUCT_GEM_4108_DESC_IOS]
-¡4.108 Joyas!
+¡^3827F5^4.108^oldclr^ Joyas!
 
 [PRODUCT_GEM_4108_DESC_IOS_EXTRA]
-4.108 Joyas + ^FF0000^1.288 extra^oldclr^
+^3827F5^4.108^oldclr^ Joyas +
+^FF0000^1.288 extra^oldclr^
 
 [PRODUCT_GEM_4108_SHORT_DESC]
-Joyas x4.108
+Mar de joyas
 
 [PRODUCT_GEM_6000_DESC_ANDROID]
-6.000 Joyas + ^FF0000^60 Piezas^oldclr^
+^3827F5^6.000^oldclr^ Joyas +
+^FF0000^60 Piezas^oldclr^
 
 [PRODUCT_GEM_6000_DESC_ANDROID_EXTRA]
-6.000 Joyas + ^FF0000^2.500 extra^oldclr^
+^3827F5^6.000^oldclr^ Joyas +
+^FF0000^2.500 extra^oldclr^
 
 [PRODUCT_GEM_6000_SHORT_DESC]
 Oferta de joyas
 
 [PRODUCT_GEM_7500_DESC_ANDROID]
-7.500 Joyas + ^FF0000^100 Piezas^oldclr^
+^3827F5^7.500^oldclr^ Joyas +
+^FF0000^100 Piezas^oldclr^
 
 [PRODUCT_GEM_7500_DESC_ANDROID_EXTRA]
-7.500 Joyas + ^FF0000^4.100 extra^oldclr^
+^3827F5^7.500^oldclr^ Joyas +
+^FF0000^4.100 extra^oldclr^
 
 [PRODUCT_GEM_7500_SHORT_DESC]
 Superoferta de joyas
 
 [PRODUCT_GEM_8468_DESC_IOS]
-¡8.468 Joyas!
+¡^3827F5^8.468^oldclr^ Joyas!
 
 [PRODUCT_GEM_8468_DESC_IOS_EXTRA]
-8.468 Joyas + ^FF0000^2.588 extra^oldclr^
+^3827F5^8.468^oldclr^ Joyas +
+^FF0000^2.588 extra^oldclr^
 
 [PRODUCT_GEM_8468_SHORT_DESC]
-Joyas x8.468
+Superjoyas
 
 [PRODUCT_GEM_ADVANCE_NEWER_PRESENT_ANDROID]
 ¡105 Joyas!
@@ -52665,8 +52686,8 @@ Batalla contra el Zombi cascabel.
 Echa un poco de Nutrientes en un Caldero de hechicería y déjalo hervir. Luego, pon algunas plantas y espera a ver qué se cocina.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_GULLIVER]
-Los zombis pequeños que lo crucen se vuelven gigantes y viceversa.
-Los proyectiles rectos se reducen y hacen menos daño.
+1. Los zombis pequeños se vuelven gigantes y viceversa.
+2. Reduce los proyectiles, los cuales, hacen menos daño.
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ICEAGE1]
 Regreso a Cuevas congeladas
@@ -63632,16 +63653,16 @@ Se usan para desbloquear niveles en el Modo difícil.
 2. ¿Cómo se consiguen?
 
 [SPACETIME_KEY_INFO_TEXT_4]
-Todos los días recibirás 1 Llave espacio-temporal. Existe un límite de llaves, luego de alcanzar ese límite, ya no recibirás más.
+Todos los días recibirás 1 Llave. Existe un límite de llaves, luego de alcanzar ese límite, ya no recibirás más.
 
 [SPACETIME_KEY_INFO_TEXT_5]
 3. Límite de llaves
 
 [SPACETIME_KEY_INFO_TEXT_6]
-Puedes obtener hasta 5 Llaves del Espacio-tiempo.
+Puedes obtener hasta 7 Llaves.
 
 [SPACETIME_KEY_INFO_TITLE]
-Llaves del espacio-tiempo
+LLAVES DEL ESPACIO-TIEMPO
 
 [SPACETIME_KEY_INFO_TITLE_UNCHARTED_NEEDFORSPEED_202406]
 DESCRIPCIÓN DEL EVENTO
@@ -63682,12 +63703,13 @@ Entra en trance tras derrotar un zombi por 5 s, reduciendo el intervalo de ataqu
 ^FF8000^Reduce la recarga del paquete de semillas en 6 s^oldclr^
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL4_DES]
-Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
+Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciado Nutrientes al plantarse.
 ^DB8117^Nutrientes: genera 2 ondas que hacen 750 DPS en un área 3x2 y derriban zombis 1 casilla.^oldclr^
 ^E2725B^Extra: +1 proyectil por mej. de Nvl^oldclr^
 
 [SPARTANBAMBOO_NEW_SKILL_LEVEL5_DES]
 Cada 6 s, arroja su lanza para dañar zombis a distancia. ^D22808^Daño: 90 (área 3x3)^oldclr^
+^E2725B^Tip: combínalo con otros Bambú espartanos para aumentar el daño^oldclr^
 
 [SPARTANBAMBOO_PLANTFOOD_DESCRIPTION]
 Genera 2 ondas que hacen 750 DPS en un área 3x2 y derriban zombis 1 casilla.
@@ -63712,7 +63734,7 @@ Nivel 3
 Nivel 5
 
 [SPARTANBAMBOO_SKILL_LEVEL5_DES]
-^DB8117^Espartano avivado:^oldclr^ puede arrojar su lanza a largo alcance dentro de un área mediana
+^DB8117^Espartano avivado:^oldclr^ puede arrojar su lanza a largo alcance dentro de un área mediana. Combínalo con otros espartanos para mas daño
 
 [SPARTANBAMBOO_TOOLTIP]
 Resiste y golpea a los zombis que se encuentren a 2 casillas
@@ -63740,354 +63762,6 @@ Sorpresa inesperada II
 
 [SPECIALIST_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
 Las plantas mágicas se recargan el triple de lento y no pueden usar Nutrientes
-
-[SPECIALOFFER_1]
-Oferta especial 1
-
-[SPECIALOFFER_1_DESC]
-Oferta especial
-
-[SPECIALOFFER_2]
-Oferta especial 2
-
-[SPECIALOFFER_2_DESC]
-Oferta especial
-
-[SPECIALOFFER_3]
-Oferta especial 3
-
-[SPECIALOFFER_3_DESC]
-Oferta especial
-
-[SPECIALOFFER_4]
-Oferta especial 4
-
-[SPECIALOFFER_4_DESC]
-Oferta especial
-
-[SPECIALOFFER_5]
-Oferta especial 5
-
-[SPECIALOFFER_5_DESC]
-Oferta especial
-
-[SPECIALOFFER_6]
-Oferta especial 6
-
-[SPECIALOFFER_6_DESC]
-Oferta especial
-
-[SPECIALOFFER_7]
-Oferta especial 7
-
-[SPECIALOFFER_7_DESC]
-Oferta especial
-
-[SPECIALOFFER_8]
-Oferta especial 8
-
-[SPECIALOFFER_8_DESC]
-Oferta especial
-
-[SPECIALOFFER_9]
-Oferta especial 9
-
-[SPECIALOFFER_9_DESC]
-Oferta especial
-
-[SPECIALOFFER_10]
-Oferta especial 10
-
-[SPECIALOFFER_10_DESC]
-Oferta especial
-
-[SPECIALOFFER_11]
-Oferta especial 11
-
-[SPECIALOFFER_11_DESC]
-Oferta especial
-
-[SPECIALOFFER_12]
-Oferta especial 12
-
-[SPECIALOFFER_12_DESC]
-Oferta especial
-
-[SPECIALOFFER_13]
-Oferta especial 13
-
-[SPECIALOFFER_13_DESC]
-Oferta especial
-
-[SPECIALOFFER_14]
-Oferta especial 14
-
-[SPECIALOFFER_14_DESC]
-Oferta especial
-
-[SPECIALOFFER_15]
-Oferta especial 15
-
-[SPECIALOFFER_15_DESC]
-Oferta especial
-
-[SPECIALOFFER_16]
-Oferta especial 16
-
-[SPECIALOFFER_16_DESC]
-Oferta especial
-
-[SPECIALOFFER_17]
-Oferta especial 17
-
-[SPECIALOFFER_17_DESC]
-Oferta especial
-
-[SPECIALOFFER_18]
-Oferta especial 18
-
-[SPECIALOFFER_18_DESC]
-Oferta especial
-
-[SPECIALOFFER_19]
-Oferta especial 19
-
-[SPECIALOFFER_19_DESC]
-Oferta especial
-
-[SPECIALOFFER_20]
-Oferta especial 20
-
-[SPECIALOFFER_20_DESC]
-Oferta especial
-
-[SPECIALOFFER_21]
-Oferta especial 21
-
-[SPECIALOFFER_21_DESC]
-Oferta especial
-
-[SPECIALOFFER_22]
-Oferta especial 22
-
-[SPECIALOFFER_22_DESC]
-Oferta especial
-
-[SPECIALOFFER_23]
-Oferta especial 23
-
-[SPECIALOFFER_23_DESC]
-Oferta especial
-
-[SPECIALOFFER_24]
-Oferta especial 24
-
-[SPECIALOFFER_24_DESC]
-Oferta especial
-
-[SPECIALOFFER_25]
-Oferta especial 25
-
-[SPECIALOFFER_25_DESC]
-Oferta especial
-
-[SPECIALOFFER_26]
-Oferta especial 26
-
-[SPECIALOFFER_26_DESC]
-Oferta especial
-
-[SPECIALOFFER_27]
-Oferta especial 27
-
-[SPECIALOFFER_27_DESC]
-Oferta especial
-
-[SPECIALOFFER_28]
-Oferta especial 28
-
-[SPECIALOFFER_28_DESC]
-Oferta especial
-
-[SPECIALOFFER_29]
-Oferta especial 29
-
-[SPECIALOFFER_29_DESC]
-Oferta especial
-
-[SPECIALOFFER_30]
-Oferta especial 30
-
-[SPECIALOFFER_30_DESC]
-Oferta especial
-
-[SPECIALOFFER_31]
-Oferta especial 31
-
-[SPECIALOFFER_31_DESC]
-Oferta especial
-
-[SPECIALOFFER_32]
-Oferta especial 32
-
-[SPECIALOFFER_32_DESC]
-Oferta especial
-
-[SPECIALOFFER_33]
-Oferta especial 33
-
-[SPECIALOFFER_33_DESC]
-Oferta especial
-
-[SPECIALOFFER_34]
-Oferta especial 34
-
-[SPECIALOFFER_34_DESC]
-Oferta especial
-
-[SPECIALOFFER_35]
-Oferta especial 35
-
-[SPECIALOFFER_35_DESC]
-Oferta especial
-
-[SPECIALOFFER_36]
-Oferta especial 36
-
-[SPECIALOFFER_36_DESC]
-Oferta especial
-
-[SPECIALOFFER_37]
-Oferta especial 37
-
-[SPECIALOFFER_37_DESC]
-Oferta especial
-
-[SPECIALOFFER_38]
-Oferta especial 38
-
-[SPECIALOFFER_38_DESC]
-Oferta especial
-
-[SPECIALOFFER_39]
-Oferta especial 39
-
-[SPECIALOFFER_39_DESC]
-Oferta especial
-
-[SPECIALOFFER_40]
-Oferta especial 40
-
-[SPECIALOFFER_40_DESC]
-Oferta especial
-
-[SPECIALOFFER_41]
-Oferta especial 41
-
-[SPECIALOFFER_41_DESC]
-Oferta especial
-
-[SPECIALOFFER_42]
-Oferta especial 42
-
-[SPECIALOFFER_42_DESC]
-Oferta especial
-
-[SPECIALOFFER_43]
-Oferta especial 43
-
-[SPECIALOFFER_43_DESC]
-Oferta especial
-
-[SPECIALOFFER_44]
-Oferta especial 44
-
-[SPECIALOFFER_44_DESC]
-Oferta especial
-
-[SPECIALOFFER_45]
-Oferta especial 45
-
-[SPECIALOFFER_45_DESC]
-Oferta especial
-
-[SPECIALOFFER_46]
-Oferta especial 46
-
-[SPECIALOFFER_46_DESC]
-Oferta especial
-
-[SPECIALOFFER_47]
-¡Oferta especial!
-
-[SPECIALOFFER_47_DESC]
-Oferta especial
-
-[SPECIALOFFER_48]
-¡Oferta especial!
-
-[SPECIALOFFER_48_DESC]
-Oferta especial
-
-[SPECIALOFFER_49]
-¡Oferta especial!
-
-[SPECIALOFFER_49_DESC]
-Oferta especial
-
-[SPECIALOFFER_50]
-¡Oferta especial!
-
-[SPECIALOFFER_50_DESC]
-Oferta especial
-
-[SPECIALOFFER_51]
-¡Oferta especial!
-
-[SPECIALOFFER_51_DESC]
-Oferta especial
-
-[SPECIALOFFER_52]
-¡Oferta especial!
-
-[SPECIALOFFER_52_DESC]
-Oferta especial
-
-[SPECIALOFFER_53]
-¡Oferta especial!
-
-[SPECIALOFFER_53_DESC]
-Oferta especial
-
-[SPECIALOFFER_54]
-¡Oferta especial!
-
-[SPECIALOFFER_54_DESC]
-Oferta especial
-
-[SPECIALOFFER_55]
-¡Oferta especial!
-
-[SPECIALOFFER_55_DESC]
-Oferta especial
-
-[SPECIALOFFER_56]
-¡Oferta especial!
-
-[SPECIALOFFER_56_DESC]
-Oferta especial
-
-[SPECIALOFFER_57]
-¡Oferta especial!
-
-[SPECIALOFFER_57_DESC]
-Oferta especial
-
-[SPECIALOFFER_58]
-¡Oferta especial!
-
-[SPECIALOFFER_58_DESC]
-Oferta especial
 
 [SPECIAL_LEVEL_ACITVATED]
 El evento comenzará después de completar el Día 5 del Antiguo Egipto.
@@ -64254,7 +63928,8 @@ Rompe 1 objeto rodante, hiere a los zombis que osen pisarla
 Bipetidora
 
 [SPLITPEA_AVATAR_PLANTFOOD_DESCRIPTION]
-Al final del efecto, dispara un guisante helado y uno en llamas hacia delante. ^D22808^Daño: 800^oldclr^
+Al final del efecto, dispara un guisante helado (hacia atrás) y uno en llamas (hacia adelante).
+^D22808^Daño: 800 (ambos proyectiles)^oldclr^
 
 [SPLITPEA_DESCRIPTION]
 {KEYWORD}Cadencia: {STAT}1x delante, 2x detrás
@@ -64317,7 +63992,7 @@ Seta esporada
 Bolsa de papel
 
 [SPORESHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Aumenta el número de esporas gigantes en 1 ^D22808^(ahora 4)
+Aumenta el número de esporas gigantes en 1 ^D22808^(ahora 4)^oldclr^
 
 [SPORESHROOM_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta púrpura, destructora, familia de setas
@@ -78786,6 +78461,7 @@ Zombi akindo
 [ZOMBIE_HEIAN_AKINNDO_DESCRIPTION]
 {KEYWORD}Especial: {STAT}su sombrero de paja lo protege de proyectiles arrojadizos
 {KEYWORD}Especial: {STAT}usa sus recipientes para robar Nutrientes
+
 {KEYWORD}Debilidad: {STAT}al derrotarlo, suelta los Nutrientes que se robó
 
 {FLAVOR}Se rumorea que los atículos que vende tienen poderes sobrenaturales.
@@ -83698,4 +83374,3 @@ Actualizado semanalmente
 
 [view_picks]
 Ver elecciones
-
