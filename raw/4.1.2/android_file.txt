@@ -3477,9 +3477,8 @@ MÁS TARDE
 COMPRAR AHORA
 
 [ARTIFACT_DEMO_LEVEL_WON_MESSAGE_TEXT]
-Este Artefacto puede comprarse en la Tienda de Artefactos.
+Puede conseguirse en: Tienda de Artefactos
 
-O
 [ARTIFACT_DEMO_LEVEL_WON_MESSAGE_TITLE]
 OBTENCIÓN DE ARTEFACTOS
 
@@ -3490,7 +3489,7 @@ Detalles del Artefacto
 Degrada-zombis
 
 [ARTIFACT_DEVOLVE_DESCRIPTION]
-Convierte a los zombis en variantes más débiles.
+Convierte a los zombis en variantes más débiles
 
 [ARTIFACT_DEVOLVE_SKILL_1]
 Nivel 1
@@ -5043,7 +5042,7 @@ Lanzajarrones
 Regalo misterioso
 
 [AWARD_SCREEN_GOAL_FAILED]
-^ff0000^Objetivo no conseguido^oldclr^
+^FF0000^Objetivo no conseguido^oldclr^
 
 [AWARD_SCREEN_LAWN_MOWER_TRIGGERED]
 ¡Se activaron una o más cortadoras!
@@ -7572,7 +7571,7 @@ Ahora que estás en la fría cima, ¡innumerables personas te observan y elogian
 ¡Has superado las puntuaciones de los demás en los interminables retos del Campo de batalla helado!
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25180]
-¡Has superado las puntuaciones de los demás en los interminables retos en el Cementerio aéreo!
+¡Has superado las puntuaciones de los demás en los interminables retos en el Cementerio de aviones!
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25190]
 ¡Has superado las puntuaciones de los demás en los interminables retos del Templo marchito!
@@ -7581,7 +7580,7 @@ Ahora que estás en la fría cima, ¡innumerables personas te observan y elogian
 ¡Has superado las puntuaciones de los demás en los interminables retos en los Grandes éxitos!
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25210]
-¡Has superado las puntuaciones de los demás en los interminables retos en la Autopista a la sala del peligro!
+¡Has superado las puntuaciones de los demás en los interminables retos en la Autopista al peligro!
 
 [BOSS_CHALLENGE_HEAD_DES_ID_25300]
 ¡Has superado las puntuaciones de los demás en los interminables retos de los Pozos de Cere-brea!
@@ -10108,10 +10107,10 @@ Patio de juegos - Día 9
 Patio de juegos - Día 9 (Difícil)
 
 [CHILDRENDAY_LEVEL_NAME_10]
-Patio de juegos - Día final
+Patio de juegos - Día Final
 
 [CHILDRENDAY_LEVEL_NAME_10_H]
-Patio de juegos - Día final (Difícil)
+Patio de juegos - Día Final (Difícil)
 
 [CHILDREN_DAY_CAN_GOT]
 Eventos del Día del Niño
@@ -10453,10 +10452,10 @@ Festivus - Día 9
 Festivus - Día 9 (Difícil)
 
 [CHRISTMAS_NAME_10]
-Festivus - Día final
+Festivus - Día Final
 
 [CHRISTMAS_NAME_10_H]
-Festivus - Día final (Difícil)
+Festivus - Día Final (Difícil)
 
 [CHRISTMAS_OPEN_UNCONNECTED]
 Conéctate a Internet o cierra el centro de actividades para recibir tu premio.
@@ -13732,9 +13731,6 @@ Dojo del Kung Fu - Nivel {LEVEL_NUMBER}
 [DANGER_ROOM_KONGFU_TITLE_WELCOME]
 ¡Bienvenido al Dojo del Kung Fu!
 
-[DANGER_ROOM_LEVEL_NAME]
-Isla del peligro - Nivel {LEVEL_NUMBER}
-
 [DANGER_ROOM_LEVEL_NUMBER]
 Nivel {NUMBER}
 
@@ -13835,10 +13831,10 @@ Te permite empezar con un Nutriente adicional.
 Te permite empezar con {SUN_COUNT} soles adicionales
 
 [DANGER_ROOM_SKYCITY_LEVEL_NAME]
-Cementerio aéreo - Nivel {LEVEL_NUMBER}
+Cementerio de aviones - Nivel {LEVEL_NUMBER}
 
 [DANGER_ROOM_SKYCITY_TITLE_WELCOME]
-¡Bienvenido al Cementerio aéreo!
+¡Bienvenido al Cementerio de aviones!
 
 [DANGER_ROOM_STEAM_LEVEL_NAME]
 Industria del caos - Nivel {LEVEL_NUMBER}
@@ -13870,7 +13866,7 @@ Recompensa: x{REWARD_COUNT}
 ¡Prepárate para la última batalla!
 
 [DANGER_ROOM_TITLE_GAME_OVER]
-Fin de la partida
+FIN DE LA PARTIDA
 
 [DANGER_ROOM_TITLE_LEVEL_1]
 Nvl. 1
@@ -13910,9 +13906,6 @@ Nvl. 9
 
 [DANGER_ROOM_TITLE_START_LEVEL]
 Comenzar Nvl. {NUMBER}
-
-[DANGER_ROOM_TITLE_WELCOME]
-¡Te damos la bienvenida a la Isla del peligro!
 
 [DANGER_ROOM_X_NUMBER]
 x {NUMBER}
@@ -19314,10 +19307,10 @@ Bosque encantado - Día 14
 Bosque encantado - Día 14 (Difícil)
 
 [FOREST_LEVEL_NAME_15]
-Bosque encantado - Día final
+Bosque encantado - Día Final
 
 [FOREST_LEVEL_NAME_15_H]
-Bosque encantado - Día final (Difícil)
+Bosque encantado - Día Final (Difícil)
 
 [FORMAT_ERROR]
 El formato es inválido
@@ -19335,13 +19328,13 @@ Se necesita una conexión a Internet para reclamar Joyas gratis.
 Mejora gratis
 
 [FREE_TIMES]
-Gratis x{NUMBER}
+x{NUMBER}
 
 [FRIEND_LIST_TITLE]
 Amigos
 
 [FRIEND_TIME_HOUR]
-%dh
+%d h
 
 [FRIEND_TIME_MIN_SECOND]
 %02d:%02d
@@ -23306,7 +23299,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.4 (actualizado el 4/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.5 (actualizado el 5/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -23532,7 +23525,7 @@ Usar código promocional
 [HEAVEN_TREASURE_USE_CODE_DES]
 ^A0522D^1. Introduce un código promocional para obtener un 30% de descuento en los Paquetes del evento.
 
-2. Puedes conseguir un código promocional al comprar paquetes y compartirlo para recibir reembolsos en artículos.^oldclr^
+2. Recibes un código al comprar paquetes. Puedes compartirlo para recibir reembolsos en artículos.^oldclr^
 
 [HEAVEN_TREASURE_USE_CODE_SUCCESS]
 Enhorabuena, ¡tienes un 30% de descuento!
@@ -24600,10 +24593,10 @@ Cuevas escalofriantes - Día 9 (Difícil)
 Cuevas escalofriantes - Día 9
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_10_H]
-Cuevas escalofriantes - Día final (Difícil)
+Cuevas escalofriantes - Día Final (Difícil)
 
 [ICEGAE_NIGHTMARE_LEVEL_NAME_10_N]
-Cuevas escalofriantes - Día final
+Cuevas escalofriantes - Día Final
 
 [ICELOTUS]
 Loto helado
@@ -25949,7 +25942,7 @@ Te clasificaste para:
 Ascendiste a:
 
 [JOUST_TOURNAMENT_LEAGUE_RESULT_STAY]
-Te clasificaste para:
+Mantenido en:
 
 [JOUST_TOURNAMENT_LEAGUE_REWARDS_DESCRIPTION1]
 ¡Sé el que más coronas reúna de tu liga y gana el torneo!
@@ -27323,7 +27316,7 @@ RECARGAR
 Déjame pensarlo
 
 [LEVEL_OF_PLANT]
-Planta de Nvl. {PLANT_LEVEL}:  
+Planta de Nvl. {PLANT_LEVEL} - 
 
 [LEVELEDITOR_SHOP_TIPS_DESC]
 1. Crea o juega Niveles para obtener Monedas que pueden canjearse en la tienda.
@@ -31613,12 +31606,6 @@ Tócala para lanzar ráfagas heladas
 [MISTAKE_CLICK]
 CANCELAR
 
-[MKTG_EIGHTIES_1]
-¡Hola, fans de Plants vs. Zombies 2! Vueltacasete de neón, cara A, está aquí. Hemos retocado el juego para asegurarnos de que siga siendo divertido. ¡Gracias por jugar! Como siempre, danos tu opinión del juego y valóranos después de cada actualización.
-
-[MKTG_EIGHTIES_2]
-¡Hola, fans de Plants vs. Zombies 2! Vueltacasete de neón, cara A, está aquí. Hemos retocado el juego para asegurarnos de que siga siendo divertido. ¡Gracias por jugar! Como siempre, danos tu opinión del juego y valóranos después de cada actualización.
-
 [MOAR_SCORE_DESCRIPTION]
 ¡Aumenta la puntuación en un {NUMBER}%!
 
@@ -31626,7 +31613,7 @@ CANCELAR
 Tiempos Modernos
 
 [MODERN_DANGER_ROOM_NAME]
-Autopista a la sala del peligro
+Autopista al peligro
 
 [MODERN_LEVEL_NAME]
 Tiempos modernos - Día {LEVEL_NUMBER}
@@ -37849,10 +37836,10 @@ Carrera de velocidad - Día 6
 Carrera de velocidad - Día 6 (Difícil)
 
 [NEEDFORSPEED_LEVEL_NAME_07]
-Carrera de velocidad - Día final
+Carrera de velocidad - Día Final
 
 [NEEDFORSPEED_LEVEL_NAME_07_H]
-Carrera de velocidad - Día final (Difícil)
+Carrera de velocidad - Día Final (Difícil)
 
 [NEEDFORSPEED_SUNFLOWER_DES_ID_25561]
 ¡Bienvenido al mundo de Need for Speed: The Gathering con Girasol!
@@ -38402,10 +38389,10 @@ Festival lunar - Noche 3
 Festival lunar - Noche 3 (Difícil)
 
 [NEWYEAR_LEVEL_NAME_07]
-Festival lunar - Día final
+Festival lunar - Día Final
 
 [NEWYEAR_LEVEL_NAME_07_H]
-Festival lunar - Día final (Difícil)
+Festival lunar - Día Final (Difícil)
 
 [NEWYEAR_PACK_TEN]
 Comprar x10
@@ -41945,10 +41932,10 @@ Mausoleo de Qin - Día 9
 Mausoleo de Qin - Día 9 (Difícil)
 
 [NOQIN_LEVEL_NAME_10]
-Mausoleo de Qin - Día final
+Mausoleo de Qin - Día Final
 
 [NOQIN_LEVEL_NAME_10_H]
-Mausoleo de Qin - Día final (Difícil)
+Mausoleo de Qin - Día Final (Difícil)
 
 [NOQIN_LEVEL_NAME_DANGERROOM]
 Mausoleo perpetuo - Nivel {LEVEL_NUMBER}
@@ -63824,10 +63811,10 @@ Fiesta de parkour - Día 6
 Fiesta de parkour - Día 6 (Difícil)
 
 [SPECIAL_LEVEL_NAME_07]
-Fiesta de parkour - Día final
+Fiesta de parkour - Día Final
 
 [SPECIAL_LEVEL_NAME_07_H]
-Fiesta de parkour - Día final (Difícil)
+Fiesta de parkour - Día Final (Difícil)
 
 [SPEEDUP_STAFF]
 Cetro de aceleración
@@ -70228,7 +70215,7 @@ Refrescar con Monedas de teatro
 Refrescar
 
 [THEATER_REFRESH_CURRENCY_CONFIRM]
-¿Seguro que quieres gastar una Moneda de teatro para refrescar la Tienda de teatros?
+¿Seguro que quieres refrescar la Tienda de teatros? ^DB8117^Coste: 1 Moneda de teatro^oldclr^
 
 [THEATER_SHOP_TITLE]
 Tienda de Teatros
@@ -70330,7 +70317,7 @@ Los zombis se vuelven invisibles y solo pueden ser vistos por ciertas plantas
 Invisibles
 
 [THEME_KNIGHT_CHEATING_DESCRIPTION]
-Los Zombis caballeros cargarán contra tus plantas con toda furia
+Los Zombis caballeros cargan contra tus plantas con toda furia
 
 [THEME_KNIGHT_CHEATING_NAME]
 Furia medieval
@@ -70342,13 +70329,13 @@ Las plantas de alcance cuerpo a cuerpo no pueden usar Nutrientes
 K.O vegetal
 
 [THEME_LEMON_DESCRIPTION]
-Caerá una lluvia ácida del cielo, la cual, dañará a las plantas y a los zombis.
+Cae una lluvia ácida que daña plantas y zombis
 
 [THEME_LEMON_NAME]
 Lluvia ácida
 
 [THEME_LIGHTING_DESCRIPTION]
-De tanto en tanto, caen rayos que dañan tus plantas. La electricidad se propaga en el agua.
+De tanto en tanto, caen rayos que dañan tus plantas. La electricidad se propaga en el agua
 
 [THEME_LIGHTING_NAME]
 Rayos y centellas
@@ -70360,7 +70347,7 @@ Los zombis se vuelven inmunes a la parálisis y reciben un 50% de daño eléctri
 Resistencia al rayo
 
 [THEME_MAGE_CHEATING_DESCRIPTION]
-El Zombi mago transformará a tus plantas en ovejas en fracciones de segundos.
+El Zombi mago transforma plantas a toda velocidad
 
 [THEME_MAGE_CHEATING_NAME]
 Mago veloz
@@ -76280,16 +76267,16 @@ ZCorp SA - Día 8 (Difícil)
 ZCorp SA - Día 8
 
 [ZCORP_LEVEL_NAME_09_H]
-ZCorp - Día 9 (Difícil)
+ZCorp SA - Día 9 (Difícil)
 
 [ZCORP_LEVEL_NAME_09_N]
-ZCorp - Día 9
+ZCorp SA - Día 9
 
 [ZCORP_LEVEL_NAME_10_H]
-ZCorp - Día final (Difícil)
+ZCorp SA - Día Final (Difícil)
 
 [ZCORP_LEVEL_NAME_10_N]
-ZCorp - Día final
+ZCorp SA - Día Final
 
 [ZENGARDEN_SHOP_BUY_CONFIRM]
 ¿Deseas comprar eso por ^DB8117^{NUMS} Monedas Zen^oldclr^?
@@ -76973,13 +76960,13 @@ Zombictor
 Una maravilla tecnológica del gran norte blanco, Zombictor convierte tu patio en un páramo desolado.
 
 [ZOMBIE_BUBBLE_MACHINE_IMP]
-Zombidito máquina de burbujas
+Máquina de burbujas
 
 [ZOMBIE_BUBBLE_MACHINE_IMP_DESCRIPTION]
 {KEYWORD}Especial: {STAT}lanza un suministro de caramelos que bloquea el plantado
 
-{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques venenosos
 {KEYWORD}Debilidad: {STAT}Trebolador puede expulsar sus burbujas
+{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques venenosos
 
 {FLAVOR}Mientras los demás zombiditos tiraban piedras a las ventanas, este ya había dado el salto tecnológico de las travesuras a las "armas ligeras", usando el dinero que había ahorrado haciendo recados para el Dr. Zombi.
 
@@ -76990,7 +76977,10 @@ Máquina flotante que dispara una ráfaga de burbujas gigantes. Es resistente a 
 Zombidito chocón
 
 [ZOMBIE_BUMPERCAR_DESCRIPTION]
-Un pequeño zombi se sentó sobre un carrito cochón y ahora es todo un experto conduciéndolo. Ten cuidado con él, no vaya ser que te choque.
+{KEYWORD}Patrón de ataque: {STAT}se mueve por las diagonales, aplastando plantas
+{KEYWORD}Especial: {STAT}devuelve proyectiles de vez en cuando
+
+{FLAVOR}Un pequeño zombi se sentó sobre un carrito cochón y ahora es todo un experto conduciéndolo. Ten cuidado con él, no vaya ser que te choque.
 
 [ZOMBIE_BUMPERCAR_DESCRIPTION_HEADER]
 Avanza desenfrenadamente contra tus plantas para destruirlas al cochar contra ellas.
@@ -76999,6 +76989,7 @@ Avanza desenfrenadamente contra tus plantas para destruirlas al cochar contra el
 Zombidito mega-chocón
 
 [ZOMBIE_BUMPERCAR_ELITE_DESCRIPTION]
+{KEYWORD}Patrón de ataque: {STAT}se mueve por las diagonales, aplastando plantas
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques eléctricos
 
 {FLAVOR}Este pequeño es todo un profesional manejando este sofisticado carrito chocón, y le gusta llevar la destrucción a otro nivel.
@@ -79828,7 +79819,7 @@ Los Ingenieros zombi consideraban al cono naranja la cumbre de la tecnología de
 El cono blindado ofrece una protección fenomenal al portador.
 
 [ZOMBIE_MIRROR_QUEEN_PHASE1]
-Zombi reina de espejos
+Reina de espejos
 
 [ZOMBIE_MIRROR_QUEEN_PHASE1_DESCRIPTION]
 {KEYWORD}Daño: {STAT}arroja manzanas envenenadas a tus plantas para dormirlas
@@ -80679,33 +80670,23 @@ Lustraba botas y robaba en las calles de Londres, pero solo conseguía zapatos g
 [ZOMBIE_PIRATE_IMP_DESCRIPTION_HEADER]
 Le gusta el espacio compacto de los toneles y de los cañones.
 
-[ZOMBIE_PLANTWARS_ICEYEARMONSTER]
-Bestia terror del hielo
-
-[ZOMBIE_PLANTWARS_ICEYEARMONSTER_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques de fuego
-
-{FLAVOR}Esta bestia ha evolucionado, convirtiéndose más fría y poderosa que nunca.
-
-[ZOMBIE_PLANTWARS_ICEYEARMONSTER_DESCRIPTION_HEADER]
-Escupe hielo que congela tus plantas en fracción de segundos. También es resistente a los ataques de ciertas plantas.
-
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3]
-Zombi diosa del reflejo
+Diosa del reflejo
 
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3_DESCRIPTION]
 {KEYWORD}Daño: {STAT}arroja manzanas envenenadas a tus plantas para dormirlas
 {KEYWORD}Especial: {STAT}crea espejos mágicos que reflejan a los zombis que pasen delante de ellos
+
 {KEYWORD}Especial: {STAT}su resistencia reduce el tiempo de aturdimiento en gran medida
 {KEYWORD}Debilidad: {STAT}la resistencia puede romperse con ataques físicos
 
-{FLAVOR}Pasa mucho tiempo frente al espejo ensimismada con su belleza, deseando ser más hermosa y poderosa. Parece que el deseo de la reina se hará realidad algun día.
+{FLAVOR}Pasa horas frente al espejo, cautivada por su propia belleza. Su colección de cosméticos y productos de cuidado personal crece sin cesar, pues jamás considera que su apariencia sea lo suficientemente perfecta.
 
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3_DESCRIPTION_HEADER]
-La clásica reina de un cuento de hadas. Es resistente a los ataques de ciertas plantas.
+Una zombi obsesionada con su apariencia. Es resistente a los ataques de ciertas plantas.
 
 [ZOMBIE_PLUSHIE_CART]
-Camión de peluchez
+Camión de peluches
 
 [ZOMBIE_PLUSHIE_CART_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}Pinchohierba
