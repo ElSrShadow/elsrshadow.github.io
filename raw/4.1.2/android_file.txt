@@ -1436,7 +1436,7 @@ Nivel 5
 Envía zombis al vacío, haciéndolos vulnerables a la magia
 
 [AFTER_LEVEL_SCORE]
-Obtienes:
+Puntos
 
 [AGAVE]
 Agave
@@ -1546,14 +1546,15 @@ Doy mi consentimiento para que los datos personales que se recopilen a través d
 Dinos tu edad.
 
 [AGE_TIP]
-Notas de la actualización 4.1.2
+Notas de la actualización 4.1.3
 
 [AGE_TIP_CONTENT]
-1. Nuevo modo de juego: Copa Dave
-2. Tierras ocultas: Patio de juegos (2026)
-3. Nueva planta: Salvia solar
-4. Nuevos zombis: Patiobol, Piscina y Día del Niño
-5. Nuevas habilidades para: Cardo teledirigido (Nvl. 5)
+1. Correción de errores y cierres inesperados
+2. Nuevo modo de juego: Copa Dave
+3. Tierras ocultas: Patio de juegos (2026)
+4. Nueva planta: Salvia solar
+5. Nuevos zombis: Patiobol, Piscina y Día del Niño
+6. Nuevas habilidades para: Cardo teledirigido (Nvl. 5)
 
 [AIRSHIP_CRASH_LOSS]
 ¡TU NAVE FUE DESTRUIDA!
@@ -12210,7 +12211,7 @@ Operación y mantenimiento.
 Gerente de operaciones
 
 [CROWNFLOWER]
-Flor de corona
+Protea
 
 [CROWNFLOWER_AVATAR_NAME]
 Gafas de cobre
@@ -12220,6 +12221,7 @@ Dispara bolas de plasma, las cuales, crean cadenas de rayos para dañar a los zo
 
 [CROWNFLOWER_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}línea al frente
+
 {KEYWORD}Especial: {STAT}el daño de sus ataques aumenta con el paso del tiempo
 {KEYWORD}Debilidad: {STAT}los zombis grandes bloquean sus láseres
 
@@ -12228,7 +12230,7 @@ Dispara bolas de plasma, las cuales, crean cadenas de rayos para dañar a los zo
 {FLAVOR}Un repentino ataque de zombis cambió su vida. Cuando estaba en peligro, apareció Frijol láser como su salvador. Desde entonces, decidió convertirse en su aprendiz.
 
 [CROWNFLOWER_DESCRIPTION_HEADER]
-Flor de corona dispara un rayo láser, el cual, inflige daño al primer zombi con el que se encuentre.
+Protea dispara un rayo láser, el cual, inflige daño al primer zombi con el que se encuentre.
 
 [CROWNFLOWER_FAMILY]
 Proteaceae
@@ -12255,13 +12257,13 @@ Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciada por el efecto de N
 ^A048CF^Láser púrpura: daño x7 + derribo^oldclr^
 
 [CROWNFLOWER_PEDIA]
-La flor de corona (Protea cynaroides) es un arbusto originario de Sudáfrica, conocido por sus flores rojas o rosadas rodeadas de brácteas que forman una corona. Florece en primavera y principios de verano.
+La protea (Protea cynaroides) es un arbusto originario de Sudáfrica, conocido por sus flores rojas o rosadas rodeadas de brácteas que forman una corona, de ahí su otro nombre "flor corona". Florece en primavera y principios de verano.
 
 [CROWNFLOWER_PEDIA_EXTRA]
-Esta planta es la flor nacional de Sudáfrica y su nombre (Protea) proviene de "Proteus", un dios griego asociado con el cambio. Fue popularizada como planta ornamental, especialmente en el mercado de flores cortadas por su aspecto majestuoso.
+Esta planta es la flor nacional de Sudáfrica. Su nombre proviene de "Proteus", un dios griego asociado con el cambio. Fue popularizada como planta ornamental, especialmente en el mercado de flores cortadas por su aspecto majestuoso.
 
 [CROWNFLOWER_PLANTFOOD_DESCRIPTION]
-Lanza 3 orbes eléctricos que arrojan a los zombis pequeños y medianos. ^D22808^Daño: 1.000^oldclr^
+Dispara 3 orbes que expulsan a los zombis pequeños y medianos. ^D22808^Daño: 1.000^oldclr^
 
 [CROWNFLOWER_PRODUCT_SHORT_DESC]
 Dispara rayos láser cuyo daño aumenta con el paso del tiempo
@@ -13405,10 +13407,10 @@ MÁS TARDE
 Se necesita una conexión a Internet para Autorefrescar.
 
 [DANGERROOM_RANK_IN]
-Puesto: {N}
+{N}
 
 [DANGERROOM_RANK_OUT]
-^FF0000^Puesto: {N}%^oldclr^
+^FF0000^{N}%^oldclr^
 
 [DANGERROOM_RECOMMEND_PRESENT]
 Regalos de infinito
@@ -13610,7 +13612,7 @@ ENTRENAR
 ¡Haz empezado el Entrenamiento del Infinito!
 
 [DANGERROOM_USER_SCORE]
-
+Puesto:
 
 [DANGERROOM_WORLD_TRAVEL]
 Viajar a {WORLDNAME}
@@ -13789,7 +13791,7 @@ REGLAS
 Recompensa actual:
 
 [DANGER_ROOM_PLAYER_CURRENT_REWARD_VALUE]
-{REWARD_COUNT}
+x{REWARD_COUNT}
 
 [DANGER_ROOM_PLAYER_HIGHEST_SCORE]
 Puntuación más alta:
@@ -13851,7 +13853,7 @@ Arboleda mágica - Nivel {LEVEL_NUMBER}
 [DANGER_ROOM_TIP_CONTENT]
 Progreso: {PROGRESS_COUNT}/{MAX_COUNT}
 Puntuación: {SCORE_COUNT}
-Recompensa: x{REWARD_COUNT}
+Premio: {REWARD_COUNT} reliquias
 
 [DANGER_ROOM_TIP_TITLE_1]
 ¡Ya empezó el desafío!
@@ -19515,7 +19517,7 @@ x{NUMBER}
 No se pudo adquirir el Cofre.
 
 [GACHA_GOT_AVATAR_HINT]
-¡Has conseguido {PIECE_COUNT} Piezas de Atuendos!
+¡Has conseguido {PIECE_COUNT} Piezas de atuendo!
 
 [GACHA_GOT_PLANT_HINT]
 ¡Has conseguido {PIECE_COUNT} Piezas!
@@ -19609,10 +19611,10 @@ Abrir por {NUMBER}
 Se refresca en:
 
 [GAMECENTER_FAILED_DESCRIPTION]
-Tienes que conectarte a Game Center desde fuera de la aplicación para acceder a los logros y marcadores.
+Conéctate a Game Center para acceder a los logros y marcadores.
 
 [GAMECENTER_FAILED_HEADER]
-No te has conectado a Game Center
+Game Center no iniciado
 
 [GAME_OVER]
 FIN DE LA PARTIDA
@@ -19641,7 +19643,7 @@ Los zombis alcanzados por su efecto, se incendiarán y recibirán daño durante 
 {FLAVOR}Sus pétalos pueden podar un seto, cortar una cuerda o partir un zombi en dos. Ella llama a eso "versatilidad"
 
 [GARDENERGRASS_DESCRIPTION_HEADER]
-Hierba jardinera corta a los zombis atacantes con los afilados pétalos, y ocasionalmente, los aturde durante un tiempo.
+Hierba jardinera corta a los zombis atacantes con sus afilados pétalos, y ocasionalmente, los aturde durante un tiempo.
 
 [GARDENERGRASS_FAMILY]
 Proteaceae
@@ -20863,7 +20865,7 @@ Selecciona las Piezas de plantas que deseas intercambiar por Piezas específicas
 El coste en soles de Torbellota se reduce en {Param_1}
 
 [GENE_DESCRIPTION_AEONIUM]
-El ataque de Siempreviva tiene un {Param_1}% de atrapar zombis grandes.
+El ataque de Siempreviva tiene un {Param_1}% de atrapar zombis grandes
 
 [GENE_DESCRIPTION_AGAVE]
 Agave tiene un {Param_1}% de sobrecargar su espada a partir del Nvl. 2, dañando la 3ra - 5ta casilla
@@ -20905,10 +20907,10 @@ Trebolador se recarga un {Param_1}% más rápido
 El efecto de Nutrientes de Bonk Choy inflige un {Param_1}% más de daño
 
 [GENE_DESCRIPTION_BOOMFLOWER]
-Los globos de Flor petaglobera tienen un {Param_1}% de aturdir zombis 1 segundo.
+Los globos de Flor petaglobera tienen un {Param_1}% de aturdir zombis por 1 s
 
 [GENE_DESCRIPTION_BUBBLECORAL]
-Coral burbuja gana un {Param_1}% de disparar una burbuja que expulsa zombis pequeños y derriba a los grandes.
+Coral burbuja gana un {Param_1}% de disparar una burbuja que expulsa zombis pequeños y derriba a los grandes
 
 [GENE_DESCRIPTION_BURDOCKBATTER]
 Bardana de beisbol tiene un {Param_1}% de permanecer potenciada tras usar Nutrientes
@@ -20950,10 +20952,10 @@ El coste en soles de Cococañón se reduce en {Param_1}
 Bocadragón gélido ataca un {Param_1}% más rápido
 
 [GENE_DESCRIPTION_CONVALLARIACHEMIST]
-El veneno de Lirio de alquimia hace un {Param_1}% de daño por cada acumulación extra.
+El veneno de Lirio de alquimia hace un {Param_1}% de daño por cada acumulación extra
 
 [GENE_DESCRIPTION_CROWNFLOWER]
-El efecto de Nutrientes de Flor corona inflige un {Param_1}% más de daño
+El efecto de Nutrientes de Protea inflige un {Param_1}% más de daño
 
 [GENE_DESCRIPTION_DOUBLESAMARA]
 Níspero ciclónico se recarga un {Param_1}% más rápido
@@ -23299,7 +23301,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.2^oldclr^ | ^87CEFA^Parche: 1.3.5 (actualizado el 5/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 6/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -39573,7 +39575,7 @@ Sombrero mandarín
 Vendaje de momia
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_4]
-Héroe holográfico
+Puños de hierba
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BOOMFLOWER_1]
 Cintillo de cuernos
@@ -42819,7 +42821,7 @@ Descripción
 ¿CÓMO JUGAR?
 
 [OVER_PLAYER]
-Se estima:
+Puesto + 
 
 [OWNED_PIECES]
 {PIECE_COUNT}
@@ -45477,7 +45479,7 @@ Onda sónica
 Banco solar
 
 [PERK_NAME_SUNBREAK]
-Destello solar
+Pausa solar
 
 [PERK_NAME_TRAFFICJAM]
 Atasco
@@ -61436,7 +61438,7 @@ T30-S7-6: Burbujas mágicas
 T30-S7-7: Fresco y dulce
 
 [S30_MEMORY_LEVEL_NAME_056]
-T30-S7-8: Derrapes en las curvas
+T30-S7-8: Carrito chocón
 
 [S30_MEMORY_LEVEL_NAME_057]
 T30-S8-1: Croles y mariposas
@@ -61454,7 +61456,7 @@ T30-S8-4: Experto en bloqueos
 T30-S8-5: Competencias olímpicas
 
 [S30_MEMORY_LEVEL_NAME_062]
-T30-S8-6: Muñecas realistas
+T30-S8-6: Muñeca de porcelana
 
 [S30_MEMORY_LEVEL_NAME_063]
 T30-S8-7: Campeonato de obstáculos
@@ -64700,7 +64702,7 @@ Derrota a {COUNT} zombis que hayan sido potenciados por Casillas especiales
 Casillas malditas
 
 [STARCHALLENGE_BULLET_SYMBOL]
-
+ • 
 
 [STARCHALLENGE_CAMEL_MINIGAME]
 Combina símbolos para destruir a los zombis
@@ -70158,7 +70160,7 @@ Formación de plantas
 ¡Compra exitosa!
 
 [TELECOM_PURCHASE_TIPS]
-¿Deseas comprar %s por %d?
+¿Deseas comprar ^00e46e^%s^oldclr^ por ^DB8117^%d^oldclr^?
 
 [TELEPORTATOMINE]
 Teletranspapum
@@ -75731,11 +75733,11 @@ Burbuja de premios                  1                10,00%
 
 SORTEOS              ARTÍCULO                             CANTIDAD
 ---------------------------------------------------------------
-10                   Flor de corona: Piezas               10
-30                   Flor de corona: Piezas               10
-60                   Flor de corona: Piezas               20
-100                  Flor de corona: Piezas               40
-150                  Flor de corona: Piezas               60
+10                   Protea: Piezas               10
+30                   Protea: Piezas               10
+60                   Protea: Piezas               20
+100                  Protea: Piezas               40
+150                  Protea: Piezas               60
 
 [WISHING_POOL_SHORT_DESCRIPTION]
 Realiza sorteos y gana recompensas que se vuelven mejores
