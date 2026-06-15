@@ -14,19 +14,19 @@ T31-D-02: Pasos mortales
 T31-D-03: Semillas en peligro
 
 [S31_MEMORY_LEVEL_NAME_4]
-T31-D-04: Sin rodeos
+T31-D-04: Piratas y monjes
 
 [S31_MEMORY_LEVEL_NAME_5]
-T31-D-05: Nieve espesa
+T31-D-05: Helada hostil
 
 [S31_MEMORY_LEVEL_NAME_6]
-T31-D-06: Calor infernal
+T31-D-06: Asado de zombis
 
 [S31_MEMORY_LEVEL_NAME_7]
 T31-D-07: Se buscan voluntarios
 
 [S31_MEMORY_LEVEL_NAME_8]
-T31-D-08: Fiesta atlética
+T31-D-08: Atletas de Roma
 
 [S31_MEMORY_LEVEL_NAME_9]
 T31-D-09: Enemigo de enemigos
@@ -14228,7 +14228,7 @@ Nivel 5
 Impacta a objetivos de alta prioridad
 
 [DATA_ERROR_CONTENT]
-Supervisa las anomalías de datos causadas por programas de terceros y reinicia el juego.
+Mods detectados. Elimina las modificaciones y accede al juego con datos limpios.
 
 [DATA_ERROR_HEADER]
 Error de datos
@@ -14249,7 +14249,7 @@ Obtén Piezas de plantas raras y Colgantes al gastar Joyas
 Contienen plantas legendarias de Nvl. 5 por tiempo limitado
 
 [DAVECUP_ALL_SUPPORT]
-TODOS
+ALL-IN
 
 [DAVECUP_BATTLE_COUNTDOWN]
 El partido inicia en:
@@ -14272,7 +14272,7 @@ DESCRIPCIÓN
 ¡GRAN FINAL!
 
 [DAVECUP_FINAL_SETTLEMENT_ALLIN_TIMES]
-Predicciones hechas: {NUMBER}
+Todo o nada usados: {NUMBER}
 
 [DAVECUP_FINAL_SETTLEMENT_BACKACTIVITY_BUTTON]
 ATRÁS
@@ -14287,10 +14287,10 @@ HITOS
 Tu rango
 
 [DAVECUP_FINAL_SETTLEMENT_MILESTONE_POINTS]
-Premio: {NUMBER} ptos
+Ptos de temporada: {NUMBER}
 
 [DAVECUP_FINAL_SETTLEMENT_TOTAL_SCORE]
-Tu puntuación final
+Puntuación final
 
 [DAVECUP_FINAL_SETTLEMENT_YOUR_RANK_INFO]
 Tu puesto
@@ -14310,7 +14310,7 @@ INFO
 [DAVECUP_INFO_DESC]
 ¡Bienvenido a la Copa Dave, donde ocho jugadores realizan predicciones y compiten por puntos!
 
-Reglas del evento:
+^A0522D^• Reglas del evento:^oldclr^
 
 1. VOTACIÓN: cada jugador debe elegir un equipo y predecir si resultará ganador.
 2. PUNTOS: se descuentan por votación. Obtienes más por cada acierto en las predicciones.
@@ -14387,16 +14387,16 @@ Haz tus predicciones
 Resultados
 
 [DAVECUP_SUPPORT_LEFT]
-PLANTAS
+VERDE
 
 [DAVECUP_SUPPORT_RIGHT]
-ZOMBIS
+PÚRPURA
 
 [DAVECUP_THIS_ROUND_PLAYERNAME]
 Jugador
 
 [DAVECUP_THIS_ROUND_POINTS_CHANGE]
-Suma de puntos
+Variación de puntos
 
 [DAVECUP_THIS_ROUND_RANK]
 Puesto
@@ -23485,7 +23485,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 15/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.1.1 (actualizado el 15/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -61664,28 +61664,28 @@ T30-S7: Corsario de galletas 2
 T30-S8: Maestro del deporte
 
 [S31_MEMORY_LEVEL_NAME_001]
-T31-S1-1: Zombis melosos
+T31-S1-1: Summer Fezt
 
 [S31_MEMORY_LEVEL_NAME_002]
-T31-S1-2: Ignición
+T31-S1-2: Festival de bengalas
 
 [S31_MEMORY_LEVEL_NAME_003]
-T31-S1-3: No hay marcha atrás
+T31-S1-3: Plaga de insectos
 
 [S31_MEMORY_LEVEL_NAME_004]
 T31-S1-4: Plantador anónimo
 
 [S31_MEMORY_LEVEL_NAME_005]
-T31-S1-5: Pan y vino
+T31-S1-5: Invasión a la propiedad
 
 [S31_MEMORY_LEVEL_NAME_006]
-T31-S1-6: Ú N I C O
+T31-S1-6: La misión de Colipoder
 
 [S31_MEMORY_LEVEL_NAME_007]
-T31-S1-7: Subiendo de nivel
+T31-S1-7: Guerra nocturna
 
 [S31_MEMORY_LEVEL_NAME_008]
-T31-S1-8: No hay nadie igual
+T31-S1-8: Guerra nocturna 2
 
 [S31_MEMORY_LEVEL_NAME_009]
 T31-S2-1: Jornada del jardinero
@@ -64952,7 +64952,7 @@ Derrota {NUMBER} Espectros calabaza
 Derrota a {NUMBER} zombis clásicos
 
 [STARCHALLENGE_DEFEAT_X_SKYCITY_BASICS]
-Derrota {NUMBER} Zombis piloto
+Derrota a {NUMBER} Zombis aviadores
 
 [STARCHALLENGE_DEFEAT_X_TERRACOTTA]
 Derrota {NUMBER} Guerreros de terracota
