@@ -1,6 +1,195 @@
 ﻿[#OF#]
 # de #
 
+[DAVECUP_WAITING]
+En espera...
+
+[S31_MEMORY_LEVEL_NAME_1]
+T31-D-01: Gigantópolis
+
+[S31_MEMORY_LEVEL_NAME_2]
+T31-D-02: Pasos mortales
+
+[S31_MEMORY_LEVEL_NAME_3]
+T31-D-03: Semillas en peligro
+
+[S31_MEMORY_LEVEL_NAME_4]
+T31-D-04: Sin rodeos
+
+[S31_MEMORY_LEVEL_NAME_5]
+T31-D-05: Nieve espesa
+
+[S31_MEMORY_LEVEL_NAME_6]
+T31-D-06: Calor infernal
+
+[S31_MEMORY_LEVEL_NAME_7]
+T31-D-07: Se buscan voluntarios
+
+[S31_MEMORY_LEVEL_NAME_8]
+T31-D-08: Fiesta atlética
+
+[S31_MEMORY_LEVEL_NAME_9]
+T31-D-09: Enemigo de enemigos
+
+[S31_MEMORY_LEVEL_NAME_10]
+T31-D-10: Entre sombras
+
+[S31_MEMORY_LEVEL_NAME_11]
+T31-D-11: Última parada
+
+[S31_MEMORY_LEVEL_NAME_12]
+T31-D-12: Las puertas del inframundo
+
+[S31_MEMORY_LEVEL_NAME_13]
+T31-D-13: Luz y oscuridad
+
+[S31_MEMORY_LEVEL_NAME_14]
+T31-D-14: No se aceptan hongos
+
+[S31_MEMORY_LEVEL_NAME_15]
+T31-D-15: En la boca del lobo
+
+[S31_MEMORY_LEVEL_NAME_16]
+T31-D-16: Mal presagio
+
+[S31_MEMORY_LEVEL_NAME_BOSS_9]
+T31-S9: Bólidus
+
+[NARRATIVE_PVZ1_S31_1_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¿Te imaginas qué pasaría si todos los zombis fueran gigantes?
+
+[NARRATIVE_PVZ1_S31_1_H_INTRO_2]
+{SAY:winnie}Predigo un futuro no muy hipotético: aplastarían a nuestras plantas en un abrir y cerrar de ojos.
+
+[NARRATIVE_PVZ1_S31_1_H_INTRO_3]
+{SAY:crazydave}¡Ah, caray! Eso no lo vi venir.
+
+[NARRATIVE_PVZ1_S31_2_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Los zombis nos han vuelto a retar a un duelo de baile.
+
+[NARRATIVE_PVZ1_S31_2_H_INTRO_2]
+{SAY:crazydave}¡Mis pasos de baile los van a mandar seis pies bajo tierra!
+
+[NARRATIVE_PVZ1_S31_2_H_INTRO_3]
+{SAY:winnie}Y cuando lleguen allí, dejarán agujeros donde no podremos plantar.
+
+[NARRATIVE_PVZ1_S31_3_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Es la señal SOS! Los girasoles están en peligro.
+
+[NARRATIVE_PVZ1_S31_3_H_INTRO_2]
+{SAY:winnie}Parece que nos encontramos en nuestra primera misión de rescate de semillas.
+
+[NARRATIVE_PVZ1_S31_3_H_INTRO_3]
+{SAY:winnie}Si fracasamos, las semillas de un futuro muy distinto quedarán plantadas.
+
+[NARRATIVE_PVZ1_S31_5_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Dicen que el hielo no aparece de la noche a la mañana.
+
+[NARRATIVE_PVZ1_S31_5_H_INTRO_2]
+{SAY:crazydave}¿Será que estos zombis llevan congelados desde la Edad de Hielo?
+
+[NARRATIVE_PVZ1_S31_5_H_INTRO_3]
+{SAY:winnie}Yo estaría más preocupada por no terminar convertida en una paleta humana.
+
+[NARRATIVE_PVZ1_S31_6_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}¡Mira eso! Parece una barbacoa zombi al aire libre.
+
+[NARRATIVE_PVZ1_S31_6_H_INTRO_2]
+{SAY:winnie}Recuerda: para cocinar zombis hacen falta paciencia, buen fuego y no acabar chamuscado en el intento.
+
+[NARRATIVE_PVZ1_S31_7_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Me falta un zombi gigante para completar mi colección.
+
+[NARRATIVE_PVZ1_S31_7_H_INTRO_2]
+{SAY:winnie}Con estos zombificadores no será difícil. Solo nos falta encontrar algunos "voluntarios".
+
+[NARRATIVE_PVZ1_S31_8_H_INTRO_1]
+{NPC_ENTER:zombossicon}{SAY:zombossicon}¡¿Cómo se atreven a celebrar unos juegos deportivos delante de la gloriosa legión zombi de la Antigua Roma?!
+
+[NARRATIVE_PVZ1_S31_8_H_INTRO_2]
+{SAY:zombossicon}¡Los verdugos de las Olimpiadas les harán pagar semejante insolencia!
+
+[NARRATIVE_PVZ1_S31_8_H_INTRO_3]
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{TIRED:crazydave}Presiento que el público está a punto de saltar al campo de juego.
+
+[NARRATIVE_PVZ1_S31_9_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Los zombis hipnotizados se convierten en aliados muy valiosos.
+
+[NARRATIVE_PVZ1_S31_9_H_INTRO_2]
+{EXCITED:crazydave}¡Eso sí que me gusta! Nada mejor que una buena pelea de zombis.
+
+[NARRATIVE_PVZ1_S31_10_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Tenemos problemas. Nuestra reserva de sol ha sido limitada a solo 50 unidades.
+
+[NARRATIVE_PVZ1_S31_10_H_INTRO_2]
+{SAY:crazydave}Parece que ha llegado la hora de que nuestro nuevo amigo entre en acción.
+
+[NARRATIVE_PVZ1_S31_10_H_INTRO_3]
+{SAY:winnie}No olvides a Planterna. Los zombis parecen haber desarrollado una inquietante habilidad para desaparecer de la vista.
+
+[NARRATIVE_PVZ1_S31_11_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Los guacadrilos ya están esperando en la zona de salida.
+
+[NARRATIVE_PVZ1_S31_11_H_INTRO_2]
+{SAY:winnie}Esos aguacates son muy importantes para nosotros. No dejes que los zombis se les acerquen.
+
+[NARRATIVE_PVZ1_S31_11_H_INTRO_3]
+{PLAYFUL:crazydave}¡Entonces procuremos que esta no sea su última parada!
+
+[NARRATIVE_PVZ1_S31_12_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Oscuridad, humedad y un aire misterioso... ¿habrá alguna planta a la que le guste vivir aquí?
+
+[NARRATIVE_PVZ1_S31_12_H_INTRO_2]
+{SAY:winnie}Quizá este lugar sea más hospitalario de lo que parece. Pronto podríamos recibir ayuda inesperada.
+
+[NARRATIVE_PVZ1_S31_13_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Parece que los zombis se han vuelto mucho más peligrosos.
+
+[NARRATIVE_PVZ1_S31_13_H_INTRO_2]
+{SAY:winnie}Las plantas sombrías pueden marcar la diferencia. Usa el sol con cuidado y planifica bien tus defensas.
+
+[NARRATIVE_PVZ1_S31_13_H_INTRO_3]
+{PLAYFUL:winnie}¡Adelante! Nos espera uno de esos desafíos que nadie olvida.
+
+[NARRATIVE_PVZ1_S31_14_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¿Y los hongos? ¿Se fueron de vacaciones?
+
+[NARRATIVE_PVZ1_S31_14_H_INTRO_2]
+{SAY:winnie}Parece que tendremos que confiar en Roble arquero.
+
+[NARRATIVE_PVZ1_S31_14_H_INTRO_3]
+{SAY:winnie}Apunta de maravilla, pero solo a los objetivos que tiene a la vista.
+
+[NARRATIVE_PVZ1_S31_15_H_INTRO_1]
+{NPC_ENTER:zombossicon}{PLAYFUL:zombossicon}¿Qué tal? ¿Alguna vez se preguntaron quién dibujó ese mapa del tesoro?
+
+[NARRATIVE_PVZ1_S31_15_H_INTRO_2]
+{SAY:zombossicon}¡Porque los verdaderos cazatesoros han venido a reclamar su premio!
+
+[NARRATIVE_PVZ1_S31_15_H_INTRO_3]
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Si hay una X marcada en el suelo, tiene que haber un tesoro cerca.
+
+[NARRATIVE_PVZ1_S31_15_H_INTRO_4]
+{SAY:crazydave}Así es como funciona.
+
+[NARRATIVE_PVZ1_S31_15_H_INTRO_5]
+{SAY:winnie}Dave, me temo que entendimos mal el mapa. Nosotros somos el tesoro.
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Solo me basta una planta para acabar con todos estos zombis.
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_2]
+{SAY:winnie}Estoy detectando una señal desconocida, usuario Dave.
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_3]
+{NPC_ENTER:zombossicon}{SAY:zombossicon}¡Arrogante necio! Hoy caerás ante mi poder.
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_4]
+{NPC_EXIT:zombossicon}{SAY:crazydave}Este tipo sí que sabe hacer una entrada dramática.
+
+[NARRATIVE_PVZ1_S31_16_H_INTRO_5]
+{SAY:winnie}Quizá no esté fanfarroneando. Será mejor que nos preparemos.
+
 [ACCESSORY_EXCHANGE_FAILED]
 Error en el intercambio
 
@@ -8040,7 +8229,7 @@ Coral burbuja
 Moño con corazón
 
 [BUBBLECORAL_AVATAR_PLANTFOOD_DESCRIPTION]
-Aumenta el número de burbujas dispersas al usar Nutrientes.
+Aumenta el número de burbujas dispersas al usar Nutrientes. ^D22808^Burbujas dispersas: 24^oldclr^
 
 [BUBBLECORAL_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}una fila
@@ -13502,10 +13691,10 @@ ACEPTAR
 Saltar nivel
 
 [DANGERROOM_SKIP_LEVEL_NEXT_BOSS_MSG]
-Saltar {NUMS} Nvl
+Saltar {NUMS} Niveles
 
 [DANGERROOM_SKIP_LEVEL_TITLE]
-Saltar nivel
+SALTAR NIVEL
 
 [DANGERROOM_SKIP_TXT]
 ¿Deseas saltar hasta el ^D22808^Nivel {TOLEVEL}^oldclr^?
@@ -14054,11 +14243,10 @@ Asociación de Dave
 Paquetes de Dave
 
 [DAVECLUB_ACTIVITY_DES_10651]
-Por el consumo diario de Joyas, ¡obtienes Piezas de plantas raras y Colgantes!
+Obtén Piezas de plantas raras y Colgantes al gastar Joyas
 
 [DAVECLUB_ACTIVITY_DES_10653]
-¡Estos paquetes son de sumo valor e importancia, contienen plantas legendarias de Nvl. 5 dentro!
-La compra de éstos es por Tiempo Limitado, así que, ¡no te lo pierdas!
+Contienen plantas legendarias de Nvl. 5 por tiempo limitado
 
 [DAVECUP_ALL_SUPPORT]
 TODOS
@@ -14073,12 +14261,12 @@ Visionario
 Ptos: ^FFFF00^{NUM}^oldclr^
 
 [DAVECUP_DESCRIPTION]
-1. Compite contra otros ganadores y defiende o llega a la línea de meta para ganar.
-2. Puedes visionar otros partidos. Haz tus predicciones y gana premios.
-3. Consigues puntos al final de los partidos, con los cuales te clasificas en nuevas ligas.
+1. Compite contra otros jugadores haciendo predicciones y ganando puntos por cada acierto.
+
+2. Los puntos te permiten calificarte en ligas más competitivas con mejores premios.
 
 [DAVECUP_DESCRIPTION_TITLE]
-Copa Dave
+DESCRIPCIÓN
 
 [DAVECUP_FINALSTAGE_TIPS]
 ¡GRAN FINAL!
@@ -14120,18 +14308,14 @@ Jóvenes futbolistas
 INFO
 
 [DAVECUP_INFO_DESC]
-¡Bienvenido a la Copa Dave, donde jugadores compiten al mejor de ocho por rondas! Los equipos se dividen en:
+¡Bienvenido a la Copa Dave, donde ocho jugadores realizan predicciones y compiten por puntos!
 
-- EQUIPO VERDE: gana si sobrevive y protege la línea final.
-- EQUIPO Z: gana si llega a la línea de meta.
+Reglas del evento:
 
-Las reglas del partido son:
-
-1. DESEMPATE: se hace un partido de Zombis contra Zombis y gana el primero que cruce la meta o derrote a los rivales.
-2. ÁNIMOS: las unidades reciben una bonificación de velocidad y ataque al inicio del partido.
-3. MUERTE SÚBITA: cuando el partido alcanza los 60 s, las unidades pierden salud por segundo. Sobrevive quien quede en pie.
-4. RECOMPENSAS: al final del partido, se te otorgan puntos segun el puesto alcanzado.
-5. RANKING: los puntos te permiten subir a una liga más competitiva y ganar mejores premios.
+1. VOTACIÓN: cada jugador debe elegir un equipo y predecir si resultará ganador.
+2. PUNTOS: se descuentan por votación. Obtienes más por cada acierto en las predicciones.
+3. RECOMPENSAS: al final del partido, se te otorgan puntos de temporada segun el puesto alcanzado.
+4. RANKING: los puntos de temporada te permiten subir a una liga más competitiva y ganar mejores premios.
 
 [DAVECUP_LOCK_COUNTDOWN]
 Te toca bloquear:
@@ -14191,7 +14375,7 @@ La Copa Dave aún no ha comenzado
 Predicciones terminan en:
 
 [DAVECUP_PREDICT_TIPS]
-Usa tus puntos para votar por un equipo, ¡si resulta ganador obtendrás premios!
+Vota por un equipo y obtén puntos si resulta ganador
 
 [DAVECUP_ROUND]
 Ronda: ^FFFF00^{NUM}^oldclr^
@@ -14212,13 +14396,13 @@ ZOMBIS
 Jugador
 
 [DAVECUP_THIS_ROUND_POINTS_CHANGE]
-Variación de puntos
+Suma de puntos
 
 [DAVECUP_THIS_ROUND_RANK]
 Puesto
 
 [DAVECUP_THIS_ROUND_TOTAL_POINTS]
-Puntuación total
+Puntuación
 
 [DAVEKITCHEN_DESCRIPTION]
 1. Completa misiones para conseguir ingredientes. Las misiones se refrescan cada día.
@@ -23301,7 +23485,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 6/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 15/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -30493,20 +30677,14 @@ Alcanza el Nivel {NUMBER}
 [MAUSOLEUM_TASKDESCRIPTION_TITLE]
 Misiones de infinito
 
-[MAX_LEVEL_QUEST_DESC]
-¡Alucina con algunos Lanzaguisantes que no son tan simples!
-
-[MAX_LEVEL_QUEST_TITLE]
-¡Las plantas que subieron de nivel son INCREÍBLES!
-
 [MAX_LEVEL_TO_SKIP]
-El salto máximo es hasta: Nivel {NUMBER}
+^FF0000^El salto máximo es hasta: Nivel {NUMBER}^oldclr^
 
 [MAYBEE]
 Melífera
 
 [MAYBEE_AVATAR_NAME]
-Antenas de abeja
+Antenas
 
 [MAYBEE_AVATAR_PLANTFOOD_DESCRIPTION]
 Libera 2 abejas adicionales ^D22808^(8 en total)^oldclr^
@@ -35949,10 +36127,7 @@ Ahora las plantas maniobran como auténticos pilotos de élite.
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Nuestro suministro de sol ha desaparecido!
 
 [NARRATIVE_PVZ1_S27_7_H_INTRO_2]
-{SAY:winnie}Eso veo. Debemos usar las nuevas armas para ganar esta batalla.
-
-[NARRATIVE_PVZ1_S27_7_H_INTRO_3]
-{SAY:winnie}Por cierto, ten cuidado con los zombis luminosos. Son una trampa.
+{SAY:winnie}Eso veo. Debemos derrotar a los zombis para obtener semillas de plantas libres de costo.
 
 [NARRATIVE_PVZ1_S27_8_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Esos mecas deben tener un buen gusto por la comida, especialmente por mi cerebro.
@@ -43013,7 +43188,7 @@ Orquídea de bolsillo
 Gorro rojo
 
 [PAPHIOPEDILUM_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza más artículos al usar Nutrientes.
+Lanza más artículos al usar Nutrientes. ^D22808^Artículos disparados: 10^oldclr^
 
 [PAPHIOPEDILUM_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}línea delantera, superior e inferior
@@ -61441,28 +61616,28 @@ T30-S7-7: Fresco y dulce
 T30-S7-8: Carrito chocón
 
 [S30_MEMORY_LEVEL_NAME_057]
-T30-S8-1: Croles y mariposas
+T30-S8-1: Clazes de natación
 
 [S30_MEMORY_LEVEL_NAME_058]
-T30-S8-2: No hay vacaciones
+T30-S8-2: Vegezombis
 
 [S30_MEMORY_LEVEL_NAME_059]
-T30-S8-3: Carreras sobre hielo
+T30-S8-3: Carreras de bobsleigh
 
 [S30_MEMORY_LEVEL_NAME_060]
-T30-S8-4: Experto en bloqueos
+T30-S8-4: Guardametas
 
 [S30_MEMORY_LEVEL_NAME_061]
-T30-S8-5: Competencias olímpicas
+T30-S8-5: Competencia olímpica
 
 [S30_MEMORY_LEVEL_NAME_062]
-T30-S8-6: Muñeca de porcelana
+T30-S8-6: La FIZA
 
 [S30_MEMORY_LEVEL_NAME_063]
-T30-S8-7: Campeonato de obstáculos
+T30-S8-7: Campeonato de fútbol
 
 [S30_MEMORY_LEVEL_NAME_064]
-T30-S8-8: La pasión del fútbol
+T30-S8-8: Gran final
 
 [S30_MEMORY_LEVEL_NAME_BOSS_1]
 T30-S1: Esfinge letal
@@ -61486,7 +61661,7 @@ T30-S6: Corsario de galletas
 T30-S7: Corsario de galletas 2
 
 [S30_MEMORY_LEVEL_NAME_BOSS_8]
-T30-S8: Conquistador del deporte
+T30-S8: Maestro del deporte
 
 [S31_MEMORY_LEVEL_NAME_001]
 T31-S1-1: Zombis melosos
@@ -61510,7 +61685,7 @@ T31-S1-6: Ú N I C O
 T31-S1-7: Subiendo de nivel
 
 [S31_MEMORY_LEVEL_NAME_008]
-T31-S1-8: CMTNH2
+T31-S1-8: No hay nadie igual
 
 [S31_MEMORY_LEVEL_NAME_009]
 T31-S2-1: Jornada del jardinero
@@ -61534,7 +61709,7 @@ T31-S1-6: Gravedad inhóspita
 T31-S2-7: 25/8
 
 [S31_MEMORY_LEVEL_NAME_016]
-T31-S2-8: Fiesta de palomitas
+T31-S2-8: Fiesta pop
 
 [S31_MEMORY_LEVEL_NAME_BOSS_1]
 T31-S1: Buitre de guerra
@@ -61591,7 +61766,7 @@ Ventas de verano
 ¿Seguro que quieres vender este Colgante?
 
 [SALE_CONFIRM_TITLE]
-Vender Colgantes
+VENDER COLGANTES
 
 [SALE_FAVOURITE_CONFIRM_MESSAGE]
 ¿Deseas vender tu ^FF0000^Colgante favorito^oldclr^ por monedas?
@@ -61669,7 +61844,7 @@ Lirio de Gorgona
 Joyería
 
 [SARRACENIA_AVATAR_PLANTFOOD_DESCRIPTION]
-La distancia de petrificación al usar Nutrientes aumenta a 13 casillas
+La distancia de petrificación al usar Nutrientes aumenta en 6 casillas ^D22808^(ahora 13 en total)^oldclr^
 
 [SARRACENIA_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los espíritus que pasen por plantas venenosas infligirán más daño
@@ -63070,7 +63245,7 @@ HABILIDADES
 Se mejora en {TIME}
 
 [SKIP_LEVEL]
-Saltar {NUMBER} Niveles
++{NUMBER} Nvl
 
 [SKIP_PERK]
 SALTAR VENTAJAS
@@ -63475,7 +63650,7 @@ Alfombra
 Revive a las plantas de un área 3x3 y zombis que cayan caído en los últimos 5 s
 
 [SOLARSAGE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}los zombis iluminados tienen la posibilidad de contagiar a otro zombis
+{KEYWORD}Especial: {STAT}los zombis iluminados tienen la posibilidad de contagiar a otros zombis
 {KEYWORD}Debilidad: {STAT}vulnerable a las alimañas y a los mechs
 
 {KEYWORD}Características de la planta: {STAT}planta amarilla, productora de soles
@@ -68367,7 +68542,7 @@ Datos locales
 AVISOS
 
 [SUMMARY_STAR]
-• Recursos:
+
 
 [SUMMARY_START]
 Comenzar
