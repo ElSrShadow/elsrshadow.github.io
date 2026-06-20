@@ -13264,7 +13264,7 @@ TODO
 ¿Deseas gastar Joyas para ^00FF00^reclamar^oldclr^ otro premio?
 
 [DAILYSIGN_SUPPLYMENTARY_ONE_BUTTON]
-1 EXTRA
++1
 
 [DAILYSIGN_SUPPLYMENTARY_TEXT1]
 Este mes:
@@ -14744,11 +14744,11 @@ Crece tras 12 ataques, liberando nubes que ^848484^aturden^oldclr^ por 2 s ^E272
 ^FF0000^Límite: zombis de Nvl. 2 (aturdimiento)^oldclr^
 
 [DAZEYCHAIN_NEW_SKILL_LEVEL2_DES]
-Reduce le número de ataques necesarios para crecer en 1 ^D22808^(ahora 11)^oldclr^
+Reduce el número de ataques necesarios para crecer en 1 ^D22808^(ahora 11)^oldclr^
 ^FF0000^Límite: zombis de Nvl. 3 (aturdimiento)^oldclr^
 
 [DAZEYCHAIN_NEW_SKILL_LEVEL3_DES]
-Reduce le número de ataques necesarios para crecer en 2 ^D22808^(ahora 10)^oldclr^
+Reduce el número de ataques necesarios para crecer en 2 ^D22808^(ahora 10)^oldclr^
 ^FF0000^Límite: zombis de Nvl. 5 (aturdimiento)^oldclr^
 
 [DAZEYCHAIN_NEW_SKILL_LEVEL4_DES]
@@ -14757,7 +14757,7 @@ Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciadas por Nutrientes al
 ^FF0000^Límite: zombis de Nvl. 7 (aturdimiento)^oldclr^
 
 [DAZEYCHAIN_NEW_SKILL_LEVEL5_DES]
-Reduce le número de ataques necesarios para crecer en 4 ^D22808^(ahora 8)^oldclr^
+Reduce el número de ataques necesarios para crecer en 4 ^D22808^(ahora 8)^oldclr^
 ^FF8000^En su forma más poderosa, la nube de gas se queda estática al alcanzar a un zombi.^oldclr^
 ^FF0000^Límite: zombis de Nvl. 10 (aturdimiento)^oldclr^
 
@@ -14777,7 +14777,7 @@ Crecen al atacar, liberando nubes aturdidoras
 Nivel 2
 
 [DAZEYCHAIN_SKILL_LEVEL1_DES]
-^4DD4DB^Caristecnia:^oldclr^ se reduce el número de ataques necesarios para que crezca.
+^4DD4DB^Caristenia:^oldclr^ se reduce el número de ataques necesarios para que crezca.
 
 [DAZEYCHAIN_SKILL_LEVEL2]
 Nivel 3
@@ -14795,15 +14795,15 @@ Nivel 5
 Crecen al atacar, liberando nubes aturdidoras
 
 [DECOMPRESS_TIPS_1]
-Descomprimiendo archivos, por favor espera...
+Descomprimiendo datos...
 
 [DECOMPRESS_TIPS_2]
 Extrayendo {NUMBER1}/{NUMBER2} archivos...
-Tiempo estimado: {NUMBER3} segundos.
+Tiempo estimado: {NUMBER3} s
 
 [DECOMPRESS_TIPS_3]
 Cargando recursos...
-Tiempo estimado: 3 segundos.
+Tiempo estimado: 3 s
 
 [DEFAULT_LEVEL_COMPLETE_BODY]
 ¡Derrotaste a los zombis!
@@ -22711,16 +22711,16 @@ Descuento mín.: 50%
 ¡Ya has adquirido este artículo del grupo!
 
 [GROUP_BUY_CAN_EXCHANGE]
-Límite de compra: ^FF0000 {NUMBER}^oldclr^
+Límite de compra: ^FF0000^{NUMBER}^oldclr^
 
 [GROUP_BUY_CAN_EXCHANGE_UNLIMITED]
-^FF0000 Sin límites de compra^oldclr^
+Límite de compra: ^FF0000^no hay^oldclr^
 
 [GROUP_BUY_DAVE_TICKET_NOT_ENOUGH]
 Boletos de Dave insuficientes, consigue más gastando Joyas.
 
 [GROUP_BUY_DESCRIPTION]
-Precio orig.: {NUMBER1} Oferta: ^FF0000 {NUMBER2}^oldclr^ Descuento: {NUMBER3}
+Precio: ^3827F5^{NUMBER1} ^397F24^-{NUMBER3}% dto ^FF0000^({NUMBER2})^oldclr^
 
 [GROUP_BUY_ECITON]
 Vista previa
@@ -23482,7 +23482,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.0 (actualizado el 20/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.1 (actualizado el 20/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -66114,6 +66114,24 @@ Consigue Bolsas de Año Nuevo
 
 [STORE_CATEGORY_NAME_NEWER_PRESENT_DESC]
 Compra el lote para principiantes.
+
+[STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_1]
+Lote místico
+
+[STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_2]
+Lote sol bruto
+
+[STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_3]
+Lote de leyendas
+
+[STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_4]
+Lote sexy
+
+[STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_5]
+Lote explosivo
+
+[STORE_CATEGORY_NAME_NEWER_PRESENT_SHORT_DESC_6]
+Lote infernal
 
 [STORE_CATEGORY_NAME_PENNYSHANDBOOK]
 Guía avanzada
