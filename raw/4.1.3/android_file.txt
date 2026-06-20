@@ -70,9 +70,6 @@ T31-S9: Bólidus
 [NARRATIVE_PVZ1_S31_2_H_INTRO_2]
 {SAY:crazydave}¡Mis pasos de baile los van a mandar seis pies bajo tierra!
 
-[NARRATIVE_PVZ1_S31_2_H_INTRO_3]
-{SAY:winnie}Y cuando lleguen allí, dejarán agujeros donde no podremos plantar.
-
 [NARRATIVE_PVZ1_S31_3_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Es la señal SOS! Los girasoles están en peligro.
 
@@ -143,13 +140,16 @@ T31-S9: Bólidus
 {SAY:winnie}Quizá este lugar sea más hospitalario de lo que parece. Pronto podríamos recibir ayuda inesperada.
 
 [NARRATIVE_PVZ1_S31_13_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Parece que los zombis se han vuelto mucho más peligrosos.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Lo que faltaba. Los zombis se volvieron más fuertes.
 
 [NARRATIVE_PVZ1_S31_13_H_INTRO_2]
 {SAY:winnie}Las plantas sombrías pueden marcar la diferencia. Usa el sol con cuidado y planifica bien tus defensas.
 
 [NARRATIVE_PVZ1_S31_13_H_INTRO_3]
-{PLAYFUL:winnie}¡Adelante! Nos espera uno de esos desafíos que nadie olvida.
+{TIRED:crazydave}Eso parece una misión imposible. Me rindo. 
+
+[NARRATIVE_PVZ1_S31_13_H_INTRO_4]
+{PLAYFUL:winnie}¡Anímate! Nos espera uno de esos desafíos que nadie olvida.
 
 [NARRATIVE_PVZ1_S31_14_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¿Y los hongos? ¿Se fueron de vacaciones?
@@ -3149,7 +3149,7 @@ Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciado por el efecto de N
 ^FF0000^Límite: zombis pequeños o medianos de Nvl. 8^oldclr^
 
 [AQUAWEED_NEW_SKILL_LEVEL5_DES]
-Gana un 40% de invocar a un tiburón rojo que debora zombis al instante.
+Gana un ^D22808^40% de probabilidad^oldclr^ de invocar a un tiburón rojo que devora zombis de un bocado.
 ^FF0000^Límite: zombis pequeños o medianos de Nvl. 10^oldclr^
 
 [AQUAWEED_PLANTFOOD_DESCRIPTION]
@@ -3159,19 +3159,19 @@ Invoca tiburones grandes por varias líneas.
 Nivel 2
 
 [AQUAWEED_SKILL_LEVEL1_DES]
-^4DD4DB^Entrenador de tiburones:^oldclr^ gana un 15% de invocar dos tiburones. Reduce el tiempo de invocación.
+^4DD4DB^Entrenador de tiburones:^oldclr^ gana un 15% de invocar dos tiburones. Reduce el tiempo de invocación
 
 [AQUAWEED_SKILL_LEVEL2]
 Nivel 3
 
 [AQUAWEED_SKILL_LEVEL2_DES]
-^DD7ECB^Domador experto:^oldclr^ mejora los efectos del Nivel 2.
+^DD7ECB^Domador experto:^oldclr^ mejora los efectos del Nivel 2
 
 [AQUAWEED_SKILL_SUPERSKILL]
 Nivel 5
 
 [AQUAWEED_SKILL_SUPERSKILL_DES]
-^DB8117^Rey del mar:^oldclr^ posibilidad de invocar a un tiburón rojo que debora zombis al instante.
+^DB8117^Rey del mar:^oldclr^ posibilidad de invocar a un tiburón rojo que devora zombis de un bocado
 
 [AQUAWEED_TOOLTIP]
 Invoca tiburones que muerden zombis hasta devorarlos
@@ -3362,7 +3362,7 @@ Convierte una casilla en un charco de ácido. Disuelve zombis pequeños con el t
 ^98FB98^Habilidad activa:^oldclr^ los zombis disueltos se convierten en Mutantes de ácido que luchan a tu lado. Al ser derrotados, causarán grandes daños al enemigo en un área 3x3
 
 [ARTIFACT_ARCADE]
-Máquina recreativa
+Arcade
 
 [ARTIFACT_ARCADE_DESCRIPTION]
 Tócalo para plantar Lanzaguisantes, toca repetidamente para disparar una salva
@@ -6072,13 +6072,13 @@ Arroja pociones para convertir zombis en guisantes
 Nivel 2
 
 [BEANCHEMIST_SKILL_LEVEL1_DES]
-^4DD4DB^Fuerza heredada:^oldclr^ los guisantes creados son del nivel actual de la planta +1 (Nvl. máx: 5).
+^4DD4DB^Fuerza heredada:^oldclr^ los guisantes creados son del nivel actual de la planta +1 (Nvl. máx: 5)
 
 [BEANCHEMIST_SKILL_LEVEL2]
 Nivel 3
 
 [BEANCHEMIST_SKILL_LEVEL2_DES]
-^DD7ECB^Preparación acelerada:^oldclr^ reduce el tiempo entre ataques a 13 segundos.
+^DD7ECB^Preparación acelerada:^oldclr^ reduce el tiempo entre ataques a 13 s
 
 [BEANCHEMIST_SKILL_LEVEL5]
 Nivel 5
@@ -7572,7 +7572,7 @@ Tócala para generar globos explosivos
 Nivel 2
 
 [BOOMFLOWER_SKILL_LEVEL1_DES]
-^4DD4DB^Plantado económico:^oldclr^ el tiempo de recuperación se reduce en 1 segundo; su coste en soles se reduce en 50.
+^4DD4DB^Plantado económico:^oldclr^ el tiempo de recuperación se reduce en 1 s; su coste en soles se reduce en 50
 
 [BOOMFLOWER_SKILL_LEVEL2]
 Nivel 3
@@ -8205,7 +8205,7 @@ Ataca a los zombis cercanos con una cadena de cuchillas
 Nivel 2
 
 [BROMELBLADE_SKILL_LEVEL1_DES]
-^4DD4DB^Estocada letal:^oldclr^ gana un 20% de probabilidad de lanzar estocada directa, la cual, arroja a los zombis por los aires.
+^4DD4DB^Estocada letal:^oldclr^ gana un 20% de probabilidad de lanzar una estocada directa, la cual, arroja a los zombis por los aires
 
 [BROMELBLADE_SKILL_LEVEL2]
 Nivel 3
@@ -8217,7 +8217,7 @@ Nivel 3
 Nivel 5
 
 [BROMELBLADE_SKILL_LEVEL5_DES]
-^DB8117^Espigas ascendentes:^oldclr^ existe la posibilidad de liberar un ataque más potente tras dos estocadas letales.
+^DB8117^Espigas ascendentes:^oldclr^ existe la posibilidad de liberar un ataque más potente tras dos estocadas letales
 
 [BROMELBLADE_TOOLTIP]
 Ataca a los zombis cercanos con una cadena de cuchillas
@@ -8290,7 +8290,7 @@ Nivel 2
 Nivel 3
 
 [BUBBLECORAL_SKILL_LEVEL2_DES]
-^DD7ECB^Súper burbujas:^oldclr^ mejora los efectos del Nvl. 2 al doble
+^DD7ECB^Glicerina copiosa:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [BUBBLECORAL_SKILL_LEVEL5]
 Nivel 5
@@ -8355,7 +8355,7 @@ Nivel 2
 Nivel 3
 
 [BUDUHBOOM_SKILL_LEVEL2_DES]
-^DD7ECB^Manteca abundante:^oldclr^ mejora los efectos del Nvl. 2 al doble
+^DD7ECB^Aumento mantecoso:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [BUDUHBOOM_TOOLTIP]
 Inflige daños enormes en un área y deja mantequilla en algunas casillas
@@ -8429,19 +8429,19 @@ Golpea zombis cercanos, batea guisantes que infligen más daño o los aturden
 Nivel 2
 
 [BURDOCKBATTER_SKILL_LEVEL1_DES]
-^4DD4DB^Bateo potente:^oldclr^ los guisantes bateados por Tiro recto derriban zombis 0.5 casillas, los bateados por Tipo curvo los aturden durante 1 s adicional.
+^4DD4DB^Picheo potente:^oldclr^ los guisantes bateados por Tiro recto derriban zombis 0.5 casillas, los bateados por Tipo curvo los aturden durante 1 s adicional
 
 [BURDOCKBATTER_SKILL_LEVEL2]
 Nivel 3
 
 [BURDOCKBATTER_SKILL_LEVEL2_DES]
-^DD7ECB^Bateador experto:^oldclr^ mejora los efectos del Nvl. 2 al doble.
+^DD7ECB^Bateador experto:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [BURDOCKBATTER_SKILL_LEVEL5]
 Nivel 5
 
 [BURDOCKBATTER_SKILL_LEVEL5_DES]
-^DB8117^Jonrón:^oldclr^ el Tiro curvo tiene la posibilidad de convertir guisantes en meteoros que hacen mucho daño.
+^DB8117^Jonrón:^oldclr^ el Tiro curvo tiene la posibilidad de convertir guisantes en meteoros que hacen mucho daño
 
 [BURDOCKBATTER_TOOLTIP]
 Golpea zombis cercanos, batea guisantes que infligen más daño o los aturden
@@ -8577,7 +8577,7 @@ CAMBIAR
 CONFIRMAR
 
 [BUTTON_UNBIND]
-DESEQUIPAR
+DESELEC
 
 [BUTTON_UNUSEBLE]
 EQUIPAR
@@ -8726,7 +8726,7 @@ Material insuficiente.
 ¿Seguro que deseas comprar este artículo?
 
 [BUY_MYSTERY_SHOP_TIP]
-Confirmar compra
+CONFIRMAR COMPRA
 
 [BUY_NOW]
 Comprar
@@ -8950,19 +8950,19 @@ Dispara una espina penetrante y se esconde para infligir daño terrestre
 Nivel 2
 
 [CACTUS_SKILL_LEVEL1_DES]
-^4DD4DB^Espina eléctrica:^oldclr^ gana la probabilidad de disparar espinas eléctricas, las cuales, aturden zombis.
+^4DD4DB^Espina eléctrica:^oldclr^ gana la probabilidad de disparar espinas eléctricas, las cuales, aturden zombis
 
 [CACTUS_SKILL_LEVEL2]
 Nivel 3
 
 [CACTUS_SKILL_LEVEL2_DES]
-^DD7ECB^Punción potente:^oldclr^ gana la habilidad de poder perforar más zombis con sus espinas.
+^DD7ECB^Punción potente:^oldclr^ gana la habilidad de perforar a más zombis con sus espinas
 
 [CACTUS_SKILL_LEVEL5]
 Nivel 5
 
 [CACTUS_SKILL_LEVEL5_DES]
-^DB8117^Cactus pequeño:^oldclr^ gana la probabilidad de lanzar un cactus pequeño, el cual, funciona como proyectil, o bien, como defensa y ofensiva a la vez.
+^DB8117^Cactus pequeño:^oldclr^ gana la probabilidad de lanzar un cactus pequeño, el cual, funciona como proyectil, o bien, como defensa y ofensiva a la vez
 
 [CACTUS_TOOLTIP]
 Dispara una espina penetrante y se esconde para infligir daño terrestre
@@ -9027,25 +9027,25 @@ Selecciona tus plantas en la Bolsa de premios.
 Selecciona una planta
 
 [CALL_OF_WISH_TASK_NAME_1]
-Inicia sesión.
+Inicia sesión
 
 [CALL_OF_WISH_TASK_NAME_2]
-Consumir cualquier número de Joyas.
+Gasta cualquier número de Joyas
 
 [CALL_OF_WISH_TASK_NAME_3]
-Completa una Aventura de plantas.
+Completa una Aventura de plantas
 
 [CALL_OF_WISH_TASK_NAME_4]
-Completa 3 Niveles de cualquier Mundo.
+Completa 3 Niveles de cualquier Mundo
 
 [CALL_OF_WISH_TASK_NAME_5]
-Obtén 20 Piezas de cualquier planta.
+Obtén 20 Piezas de cualquier planta
 
 [CALL_OF_WISH_TASK_NAME_6]
-Completa una Misión.
+Completa una Misión
 
 [CALL_OF_WISH_TASK_NAME_7]
-Obtén 50 Puntos hoy.
+Obtén 50 Puntos hoy
 
 [CALL_OF_WISH_TENTH]
 x10
@@ -9986,16 +9986,13 @@ Rompejarrones - III
 Rompejarrones
 
 [CHALLENGE_ZOMBIE_EXPLODENUT]
-No hagas detonar {NUM_EXPLODE} Zombis Explotonuez
+No hagas detonar {NUM_EXPLODE} Zombis explotonuez
 
 [CHALLENGE_ZOMBIE_JALAPENO]
-No hagas detonar {NUM_EXPLODE} Zombis Jalapeño
+No hagas detonar {NUM_EXPLODE} Zombis jalapeño
 
 [CHALLENGE_ZOMBIE_PEA]
-No dejes que más de {NUM_HITS} plantas sean golpeadas por guisantes
-
-[CHAMPIONS_PINATA_2023]
-Piñata de Temporada de campeones
+Evita que más de {NUM_HITS} plantas sean golpeadas por guisantes
 
 [CHANGENAME_GET_TIP_FAILED]
 No se pudo cambiar de nombre
@@ -10081,13 +10078,13 @@ Explota con los zombis en un área mediana
 Nivel 2
 
 [CHERRYBOMB_SKILL1_LEVEL1_DES]
-^4DD4DB^Pequeña cereza:^oldclr^ gana un 50% de probabilidad de crear una Petacereza pequeña, la cual, explota al contacto.
+^4DD4DB^Brotes de cerezo:^oldclr^ gana un 50% de probabilidad de crear una Petacereza pequeña, la cual, explota al contacto.
 
 [CHERRYBOMB_SKILL1_LEVEL2]
 Nivel 3
 
 [CHERRYBOMB_SKILL1_LEVEL2_DES]
-^DD7ECB^Piromaniaco:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+^DD7ECB^Pequeña cereza:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
 
 [CHERRY_BOMB]
 Petacereza
@@ -11450,7 +11447,7 @@ Las flores venenosas infligen daño por salpicadura y aplican 3 capas de veneno.
 
 {KEYWORD}Características de la planta: {STAT}planta azul, destructora
 
-{FLAVOR}Lirio de alquimia estudia en la escuela primaria para médicos, con la esperanza de salvar a las plantas heridas, pero para los zombis, solo encuentra la muerte como la única solución de salvarlas.
+{FLAVOR}Lirio de alquimia estudia en la escuela primaria para médicos, con la esperanza de salvar a las plantas heridas, pero para los zombis, la muerte es la única cura que conoce.
 
 [CONVALLARIACHEMIST_DESCRIPTION_HEADER]
 Lirio de alquimia lanza flores venenosas a los zombis de la línea.
@@ -12974,7 +12971,7 @@ Deshabilitar avisos
 (Ya vinculado)
 
 [CUSTOM_LEVEL_SETTING_LINKED_DESCRIPTION]
-Puedes iniciar sesión en la Plataforma de Creadores y usar la función de Incentivo a la Creación una vez vincules tu teléfono.
+Inicia sesión en la Plataforma de Creadores y usa la función de Incentivo a la Creación una vez vincules tu teléfono.
 
 ^FF0000^Solo se admiten números de teléfonos de China continental (+86)^oldclr^
 
@@ -12990,7 +12987,7 @@ Puedes iniciar sesión en la Plataforma de Creadores y usar la función de Incen
 (No vinculado)
 
 [CUSTOM_LEVEL_SETTING_NOT_VERIFIED]
-(Usuario no verificado)
+(No verificado)
 
 [CUSTOM_LEVEL_SETTING_PHONE]
 Vincular teléfono
@@ -13007,7 +13004,7 @@ Número no vinculado. ^E2725B^Vincúlalo para obtener recompensas.^oldclr^
 Número vinculado: {NUMBER1} ^FF0000^(se puede volver a usar en {NUMBER2} d)^oldclr^
 
 [CUSTOM_LEVEL_SETTING_PHONE_HINT3]
-Número vinculado: {NUMBER1} ^FF0000^(se puede volver a usar ahora)^oldclr^
+Número vinculado: {NUMBER1}
 
 [CUSTOM_LEVEL_SETTING_RECOMMEND]
 Recomendaciones
@@ -16474,19 +16471,19 @@ Lanza proyectiles a 3 líneas, se divide al ser destruido
 Nivel 2
 
 [DRAGONBRUIT_SKILL_LEVEL1_DES]
-^4DD4DB^Poder sombrío:^oldclr^ en su fase normal, existe un 30% de entrar en la forma sombría por 10 segundos; si está potenciado, sus proyectiles tienen un 30% de afectar a los zombis de una misma casilla.
+^4DD4DB^Poder sombrío:^oldclr^ en su fase normal, existe un 30% de entrar en la forma sombría por 10 s; si está potenciado, sus proyectiles tienen un 30% de afectar a los zombis de una misma casilla
 
 [DRAGONBRUIT_SKILL_LEVEL2]
 Nivel 3
 
 [DRAGONBRUIT_SKILL_LEVEL2_DES]
-^DD7ECB^Fusión de sombras:^oldclr^ aumenta la probabilidad de los efectos del Nvl. 2 en un 20%, extiende la duración del estado sombrío en 5 segundos.
+^DD7ECB^Fusión de sombras:^oldclr^ aumenta la probabilidad de los efectos del Nvl. 2 en un 20%, extiende la duración del estado sombrío en 5 s
 
 [DRAGONBRUIT_SKILL_LEVEL5]
 Nivel 5
 
 [DRAGONBRUIT_SKILL_LEVEL5_DES]
-^A048CF^Mutación elemental:^oldclr^ cada 20 s, la cabeza central se transformará en una variante elemental al azar. La variante explota al ser destruída.
+^A048CF^Mutación elemental:^oldclr^ cada 20 s, la cabeza central se transformará en una variante elemental al azar. La variante explota al ser destruída
 
 [DRAGONBRUIT_TOOLTIP]
 Lanza proyectiles a 3 líneas, se divide al ser destruido
@@ -16495,7 +16492,7 @@ Lanza proyectiles a 3 líneas, se divide al ser destruido
 Maestro caña
 
 [DRAGONCANEMARTIAL]
-Medalla del Maestro caña
+Maestro del nunchaku
 
 [DRAGONCANE_AVATAR_PLANTFOOD_DESCRIPTION]
 Su efecto de Nutrientes inflige daño adicional. ^D22808^Daño: 1.280^oldclr^
@@ -16505,7 +16502,7 @@ Su efecto de Nutrientes inflige daño adicional. ^D22808^Daño: 1.280^oldclr^
 
 {KEYWORD}Características de la planta: {STAT}planta púrpura, artista marcial, destructora
 
-{FLAVOR}Maestro caña es un fanático de Bruce Lee. Para mostrar su respeto, empezó a practicar Taewondo, y como fruto de sus entrenamientos, puede usar muy bien los nunchakus de caña.
+{FLAVOR}Maestro caña asegura que la verdadera fuerza proviene de la disciplina, la concentración y años de entrenamiento. También ayuda tener dos nunchakus gigantes atados a los brazos.
 
 [DRAGONCANE_DESCRIPTION_HEADER]
 Maestro caña golpea a los zombis que tiene en frente con sus nunchakus en una sucesión rápida de ataques.
@@ -18270,7 +18267,7 @@ Ninguno.
 Error al realizar la compra, actualiza tu juego.
 
 [EXCHANGEAVATAR_PURCHASE]
-Confirmar compra
+CANJEAR ATUENDOS
 
 [EXCHANGEAVATAR_TEXT1]
 Tienes ^FF0000^{COUNT} cupones^oldclr
@@ -20140,10 +20137,10 @@ El evento ha terminado. Esto es lo que aún no has recogido: {GEMS} Joyas.
 Obtener %d Joyas
 
 [GEMRETURN_REWARD_NOW]
-Confirmar devolución
+ACTIVAR PASE DE GEMAS
 
 [GEMS_PURCHASE_CONFIRMATION]
-Confirmar compra
+CONFIRMAR COMPRA
 
 [GEMS_PURCHASE_CONFIRMATION_BODY]
 ¿Quieres comprar {THING_TO_PURCHASE}?
@@ -21427,7 +21424,7 @@ Frustrella inflige un {Param_1}% más de daño
 La salud de Planterna aumenta en un {Param_1}%
 
 [GENE_DESCRIPTION_SUGARCANE]
-La salud de Caña de azúcar aumenta en un {Param_1}%
+La salud de Bambú monje aumenta en un {Param_1}%
 
 [GENE_DESCRIPTION_SUNBEAN]
 Frijol solar se recarga un {Param_1}% más rápido
@@ -23484,8 +23481,8 @@ Avatar: {NAME}
 Curación
 
 [HEALTH_NOTICE_CONTENT_3]
-^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^ y ^DD7ECB^ShadowVT^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.1.1 (actualizado el 15/6/2026)^oldclr^
+^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.0 (actualizado el 20/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -23496,7 +23493,6 @@ Se recarga un 20% más rápido
 
 [HEATHSEEKER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}puede apuntar desde cualquier punto del patio
-{KEYWORD}Especial: {STAT}sus dardos pueden destruir armaduras pesadas
 
 {KEYWORD}Características de la planta: {STAT}planta púrpura, destructora
 
@@ -23628,7 +23624,7 @@ Nivel 5
 Genera ondas sonoras cuando los proyectiles la sobrevuelan
 
 [HEAVENTREASURE_DESCRIPTION]
-1. Compra paquetes de regalo para obtener llaves, y úsalas para obtener atuendos y otros premios de lujo en sorteos.
+1. Compra paquetes de regalo para obtener llaves, y úsalas para desbloquear atuendos y otros premios de lujo en sorteos.
 
 2. Recibes códigos promocionales al comprar un paquete de regalo.
 
@@ -28734,7 +28730,7 @@ FILA        CALIDAD            PROBABILIDAD
 6           Épica              63.6%
 
 [LUCKBAG_CONFIRM]
-Confirmar compra
+CONFIRMAR COMPRA
 
 [LUCKBAG_CONFIRM_CONTENT]
 Plantas seleccionadas:
@@ -28872,13 +28868,13 @@ Efectos: Daño mágico +12% | Aturdir +2%
 Efectos: Daño mágico +16% | Aturdir +4%
 
 [MAGIC_BOOK_1_BOOST_DES_3]
-Efectos: Daño mágico +20% | Aturdir +6% | ^DB8117^Devolver soles (10% probable)^oldclr^
+Efectos: Daño mágico +20% | Aturdir +6% | ^DB8117^Reembolso solar (10% probable)^oldclr^
 
 [MAGIC_BOOK_1_BOOST_DES_4]
-Efectos: Daño mágico +24% | Aturdir +8% | ^DB8117^Devolver soles (15% probable)^oldclr^
+Efectos: Daño mágico +24% | Aturdir +8% | ^DB8117^Reembolso solar (15% probable)^oldclr^
 
 [MAGIC_BOOK_1_BOOST_DES_5]
-Efectos: Daño mágico +27% | Aturdir +10% | ^DB8117^Devolver soles (20% probable)^oldclr^
+Efectos: Daño mágico +27% | Aturdir +10% | ^DB8117^Reembolso solar (20% probable)^oldclr^
 
 [MAGIC_BOOK_1_DES]
 Un libro sacado de una vieja estantería, quedará como nuevo tras una buena limpieza.
@@ -37555,7 +37551,7 @@ Abramos estos Cofres, tal vez haya plantas que puedan ayudarnos.
 {SAY:crazydave}Que extraño, ¿dónde estamos? ¿Seguimos en el patio trasero?
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_3]
-{SAY:winnie}Ubicación confirmada. La ubicación actual es el misterioso laboratorio del Dr. Zombi.
+{SAY:winnie}Ubicación confirmada. La locación actual es el misterioso laboratorio del Dr. Zombi.
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_4]
 {SPECIAL9:crazydave}¿Sabes qué? Ya extraño mi patio trasero, creo que es hora de volver.
@@ -37593,7 +37589,7 @@ Abramos estos Cofres, tal vez haya plantas que puedan ayudarnos.
 [NARRATIVE_TUTORIAL_RIFT_INTRO_3]
 {NPC_EXIT:crazydaveicon}{NPC_EXIT:winnieicon}{NPC_ENTER:zombossicon}{SAY}Al parecer, Penny ha rastreado mi señal.
 
-[NARRATIVE_TUTORIAL_RIFT_INTRO_5]
+[NARRATIVE_TUTORIAL_RIFT_INTRO_4]
 {SAY}Tendré que ingeníarmelas para detenerla, no puedo dejar que se lleve a Dave.
 
 [NARRATIVE_TUTORIAL_STAR1_INTRO_1]
@@ -37922,7 +37918,7 @@ Pues, ¡déjame decirte que no!
 ¿Seguro que quieres comprar esas Piezas?
 
 [NATIONALDAY_ACTIVE_BUY_DIALOG_TITLE]
-Comprar Piezas
+COMPRAR PIEZAS
 
 [NATIONALDAY_ACTIVE_CONTENT]
 Participa en la rifa durante el evento, es probable que obtengas la nueva planta: ¡Girasol cantante!
@@ -37950,7 +37946,7 @@ La oferta termina en:
 {NUMBER}d
 
 [NATIONAL_SHOP_BUY]
-Canjear
+CANJEAR
 
 [NATIONAL_SHOP_BUY_FAILED_TEXT]
 Se produjo un error al intentar canjear el artículo, ¡asegúrate de poseer suficientes Medallas nacionales!
@@ -38031,8 +38027,7 @@ Girasol veloz
 Error en la actualización
 
 [NEED_CONNTECT_INTERNET_FOR_RECHARGE_CHECK_TEXT]
-No se pudo obtener la información de actualización.
-Comprueba el estado de tu red para asegurarte de que el juego se actualice correctamente.
+Se requiere Internet para que el juego se actualice correctamente.
 
 [NEKOTAIL]
 Rabo de gato
@@ -38332,7 +38327,7 @@ A medida que aumente el número de turnos, se desbloquearán zombis más poderos
 
 [NEWYEARPACK_DESCRIPTION]
 1. Recibes Joyas al comprar paquetes, con la probabilidad de obtener una Bolsa de Atuendos.
-2. La décima compra de un Paquete de Año Nuevo garantiza que obtengas una Bolsa de Atuendos.
+2. La décima compra garantiza que obtengas una Bolsa de Atuendos.
 3. El límite de compra de los paquetes se reinicia diariamente, la garantía de compra es acumulativa.
 4. Las bolsas se guardan en tu Mochila. Ábrelas para obtener el Atuendo de tu preferencia.
 5. Las recargas que hagas en cualquier parte del juego se sumarán al progreso acumulativo de este evento.
@@ -40851,7 +40846,7 @@ Categoría
 Filtro
 
 [NEW_PLANT_UI_SORT_BY_TYPE_CONFIRM_BTN_TEXT]
-Confirmar selección
+CONFIRMAR SELECCIÓN
 
 [NEW_PLANT_UI_SORT_BY_TYPE_P_0]
 Tirador
@@ -40959,7 +40954,7 @@ AVISOS
 ¿Deseas guardar los cambios de esta formación?
 
 [NEW_PLANT_UI_TEAM_EDIT_SCREEN_EDIT_TEAM_TITLE]
-Confirmar edición
+CONFIRMAR EDICIÓN
 
 [NEW_PLANT_UI_TEAM_EDIT_SCREEN_TEAM_TITLE]
 Nombre del equipo
@@ -41109,7 +41104,7 @@ Olla de gran maestro
 El cofre garantiza 5 cartas legendarias de tu elección. ¿Deseas comprarlo?
 
 [NEW_PVP_FREE_CHEST_BUY_CONFIRM_TITLE]
-Confirmar compra
+CONFIRMAR COMPRA
 
 [NEW_PVP_FREE_PLAY_ERROR_CODE_1]
 ¡La sala no existe!
@@ -47645,7 +47640,7 @@ Invencible por 3 s:
 Coste -
 
 [PLANT_FAMILY_SKILL_PLANT_SUN_REFUND]
-Devolver soles:
+Reembolso solar:
 
 [PLANT_FAMILY_SKILL_REGENERATION]
 Regenerar salud:
@@ -57911,7 +57906,7 @@ T7-D-06: Criogenia
 T7-S1-7: Salvavidas III
 
 [S7_MEMORY_LEVEL_NAME_007_H]
-Peligro al acecho
+T7-D-07: Peligro al acecho
 
 [S7_MEMORY_LEVEL_NAME_008]
 T7-S1-8: Batalla de élite
@@ -58121,7 +58116,7 @@ T8-D-01: Fuerza aplastante
 T8-S1-2: Control de multitudes II
 
 [S8_MEMORY_LEVEL_NAME_002_H]
-T8-D-02: Guardían del tiempo
+T8-D-02: Guardián del tiempo
 
 [S8_MEMORY_LEVEL_NAME_003]
 T8-S1-3: Control de multitudes III
@@ -58130,7 +58125,7 @@ T8-S1-3: Control de multitudes III
 T8-D-03: Civiles y militares
 
 [S8_MEMORY_LEVEL_NAME_004]
-T8-S1-4: Batala de élite
+T8-S1-4: Batalla de élite
 
 [S8_MEMORY_LEVEL_NAME_004_H]
 T8-D-04: Golpeando fuerte
@@ -58691,7 +58686,7 @@ T10-S2-8: Batalla de élite
 T10-D-16: Amuleto encantado
 
 [S10_MEMORY_LEVEL_NAME_017]
-T10-S3-1: Nuevos comienzos 1
+T10-S3-1: Nuevos comienzos
 
 [S10_MEMORY_LEVEL_NAME_018]
 T10-S3-2: Nuevos comienzos 2
@@ -59255,7 +59250,7 @@ T12-S6-3: Trueno estruendoso III
 T12-S6-4: Batalla de élite
 
 [S12_MEMORY_LEVEL_NAME_045]
-T12-S6-5: El poder del faraón 1
+T12-S6-5: El poder del faraón
 
 [S12_MEMORY_LEVEL_NAME_046]
 T12-S6-6: El poder del faraón II
@@ -59318,7 +59313,7 @@ T12-S8-8: Batalla de élite
 T13-S1-1: Verano encantador
 
 [S13_MEMORY_LEVEL_NAME_001_H]
-T13-D-01: Vacaciones de primavera
+T13-D-01: Vacaciones de verano
 
 [S13_MEMORY_LEVEL_NAME_002]
 T13-S1-2: Verano encantador II
@@ -59387,19 +59382,19 @@ T13-S2-4: Viendo las estrellas
 T13-D-12: Viendo las estrellas
 
 [S13_MEMORY_LEVEL_NAME_013]
-T13-S2-5: Rodillos ardientes
+T13-S2-5: Peligro rodante
 
 [S13_MEMORY_LEVEL_NAME_013_H]
 T13-D-13: Adictos al agua
 
 [S13_MEMORY_LEVEL_NAME_014]
-T13-S2-6: Rodillos ardientes II
+T13-S2-6: Peligro rodante 2
 
 [S13_MEMORY_LEVEL_NAME_014_H]
 T13-D-14: Barrera de coral
 
 [S13_MEMORY_LEVEL_NAME_015]
-T13-S2-7: Rodillos ardientes III
+T13-S2-7: Peligro rodante 3
 
 [S13_MEMORY_LEVEL_NAME_015_H]
 T13-D-15: Corriente desafiante
@@ -60482,7 +60477,7 @@ T26-S3-6: Aves marinas
 T26-S3-7: Kraken
 
 [S26_MEMORY_LEVEL_NAME_024]
-T26-S3-8: Vacaciones de Guisante marino
+T26-S3-8: Las vacaciones de Guisante marino
 
 [S26_MEMORY_LEVEL_NAME_025]
 T26-S4-1: Frío y cortante
@@ -60584,7 +60579,7 @@ T26-S7-8: La PRE-historia
 T26-S8-1: Torneo de lanzadores
 
 [S26_MEMORY_LEVEL_NAME_058]
-T26-S8-2: Crisis de vaba
+T26-S8-2: Crisis no-existencial
 
 [S26_MEMORY_LEVEL_NAME_059]
 T26-S8-3: Erosión
@@ -60926,7 +60921,7 @@ T28-D-06: Congelación total
 T28-S1-6: Bosque fúngico
 
 [S28_MEMORY_LEVEL_NAME_7]
-T28-D-07: Bajo los focos
+T28-D-07: Bajo los reflectores
 
 [S28_MEMORY_LEVEL_NAME_007]
 T28-S1-7: Ruinas perdidas
@@ -62211,7 +62206,7 @@ Gana un ^D22808^5% de probabilidad^oldclr^ de ser potenciada por Nutrientes al p
 Crea 1 clon. Todas las Setas marinas disparan una ráfaga de 30 esporas y reinician su temporizador de vida.
 
 [SEASHROOM_PRODUCT_SHORT_DESC]
-Dispara a corta distancia en el agua por tiempo limitado.
+Dispara a corta distancia en el agua por tiempo limitado
 
 [SEASHROOM_SKILL_LEVEL1]
 Nivel 2
@@ -62223,10 +62218,10 @@ Nivel 2
 Nivel 3
 
 [SEASHROOM_SKILL_LEVEL2_DES]
-^DD7ECB^Vida plena:^oldclr^ mejora los efectos del Nvl. 2 al doble.
+^DD7ECB^Vida plena:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [SEASHROOM_TOOLTIP]
-Dispara a corta distancia en el agua por tiempo limitado.
+Dispara a corta distancia en el agua por tiempo limitado
 
 [SECONDS]
 s
@@ -62235,7 +62230,7 @@ s
 Segundo premio
 
 [SECRET_AREA_STAR_NOT_ENOUGH]
-Material insuficiente. Se necesitan {NUM} Estrellas secretas para reclamar el premio.
+Material insuficiente. Se necesitan ^3827F5^{NUM} Estrellas secretas^oldclr^ para reclamar el premio.
 
 [SECRET_AREA_STORE]
 Tienda oculta
@@ -63387,13 +63382,13 @@ Efectos: Daño +12% | Potencia acumulada +2% / 5 s (máx. 20%)
 Efectos: Daño +15% | Potencia acumulada +3% / 5 s (máx. 30%)
 
 [SLINGSHOT_2_BOOST_DES_3]
-Efectos: Daño +18% | Potencia acumulada +4% / 5 s (máx. 40%) | ^DB8117^Devolver soles (10% probable)^oldclr^
+Efectos: Daño +18% | Potencia acumulada +4% / 5 s (máx. 40%) | ^DB8117^Reembolso solar (10% probable)^oldclr^
 
 [SLINGSHOT_2_BOOST_DES_4]
-Efectos: Daño +21% | Potencia acumulada +5% / 5 s (máx. 50%) | ^DB8117^Devolver soles (15% probable)^oldclr^
+Efectos: Daño +21% | Potencia acumulada +5% / 5 s (máx. 50%) | ^DB8117^Reembolso solar (15% probable)^oldclr^
 
 [SLINGSHOT_2_BOOST_DES_5]
-Efectos: Daño +24% | Potencia acumulada +6% / 5 s (máx. 60%) | ^DB8117^Devolver soles (20% probable)^oldclr^
+Efectos: Daño +24% | Potencia acumulada +6% / 5 s (máx. 60%) | ^DB8117^Reembolso solar (20% probable)^oldclr^
 
 [SLINGSHOT_2_DES]
 El mango de madera tiene un agarre cómodo.
@@ -64284,18 +64279,6 @@ Nivel 3
 [SPRINGBEAN_TOOLTIP]
 Empuja a los zombis hacia atrás y al agua si está cerca
 
-[SPRINGENING24_AD_PINATA]
-PIÑATA DE ANUNCIO DE PRIMAVERIDAD
-
-[SPRINGENING24_MINI_PINATA]
-MINIPIÑATA DE PRIMAVERIDAD
-
-[SPRINGENING24_PINATA]
-PIÑATA DE PRIMAVERIDAD
-
-[SPRINGENING24_PREMIUM_PINATA]
-PIÑATA PRÉMIUM DE PRIMAVERIDAD
-
 [SPRINGFESTIVAL_2024_NAME_01]
 Festival de primavera - Día 1
 
@@ -64877,7 +64860,7 @@ Derrota a {COUNT} zombis que hayan sido potenciados por Casillas especiales
 Casillas malditas
 
 [STARCHALLENGE_BULLET_SYMBOL]
- • 
+•
 
 [STARCHALLENGE_CAMEL_MINIGAME]
 Combina símbolos para destruir a los zombis
@@ -68452,7 +68435,7 @@ Aturde a los zombis cercanos de la línea
 ¡TU SUBMARINO SE HUNDIÓ!
 
 [SUGARCANE]
-Caña de azúcar
+Bambú monje
 
 [SUGARCANE_AVATAR_NAME]
 Tiara
@@ -68465,16 +68448,16 @@ Su salto daña a los zombis alcanzados. ^D22808^Daño: 1.600^oldclr^
 
 {KEYWORD}Características de la planta: {STAT}planta verde, artista marcial, defensa
 
-{FLAVOR}Su infancia consistió en hacer mandados y trabajar para una compañía de la ciudad. Esperaba convertirse en actor principal algún día, por lo que aprendió todo tipo de artes marciales. Finalmente, sus esfuerzos dieron sus frutos.
+{FLAVOR}Bambú monje siempre soñó con convertirse en actor principal. Gracias a años de entrenamiento, finalmente lo logró. Sus escenas de combate reciben excelentes críticas de las plantas y pésimas de los zombis.
 
 [SUGARCANE_DESCRIPTION_HEADER]
-Caña de azúcar bloquea y retiene a los zombis atacantes. Puede recuperar salud con el tiempo cuando no es atacado.
+Bambú monje bloquea y retiene a los zombis atacantes. Puede recuperar salud con el tiempo cuando no es atacado.
 
 [SUGARCANE_FAMILY]
-Saccharum
+Poaceae
 
 [SUGARCANE_GENUS]
-Poaceae
+Diversos
 
 [SUGARCANE_NEW_SKILL_LEVEL1_DES]
 Bloquea y retiene zombis, empujándolos 0,5 casillas hacia atrás.
@@ -68488,13 +68471,13 @@ Su salud aumenta en un 30% adicional.
 
 [SUGARCANE_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^40% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: da un backflip, derriba a los zombis golpeados 1 casilla y los ^848484^aturde^oldclr^ ^DB8117^por 5 s^oldclr^
+^DB8117^Nutrientes: da un backflip, derriba a los zombis golpeados y los ^848484^aturde ^DB8117^por 5 s^oldclr^
 
 [SUGARCANE_PEDIA]
-La caña de azúcar (Saccharum officinarum) es una planta arbustiva, originaria del Sudeste Asíatico y Nueva Guinea. Su principal característica es su tallo cilíndrico, rico en jugo azucarado, el cual es la principal fuente de azúcar en el mundo. Se desarrolla principalmente en climas tropicales y subtropicales, requiriendo suelos fértiles y abundante agua. De su azúcar se elabora alcohol, biocombustibles y otros derivados.
+El bambú es una planta de crecimiento rápida perteneciente a la familia de las gramíneas, aunque puede alcanzar tamaños arbóreos. Se caracteriza por sus tallos huecos y segmentados, conocidos como cañas, y hojas alargadas. Es muy valorado por su resistencia y versatilidad en construcción, alimentación y diseño.
 
 [SUGARCANE_PEDIA_EXTRA]
-Fue domesticada hace más de 8,000 años. Su cultivo y procesamiento se expandieron a India y, posteriormente, a Persia, desde donde llegó al Mediterráneo y Europa gracias a las rutas comerciales. Con la colonización europea, fue introducida en América durante el siglo XVI, estableciéndose como un cultivo clave en el comercio transatlántico.
+Ha sido utilizado durante milenios en Asia para construir viviendas, fabricar herramientas, instrumentos musicales y como alimento (brotes tiernos). Su uso se ha expandido globalmente por su sostenibilidad y aplicaciones ecológicas. Hoy es símbolo de fortaleza, flexibilidad y crecimiento en muchas culturas orientales
 
 [SUGARCANE_PLANTFOOD_DESCRIPTION]
 Da un backflip, derriba a los zombis golpeados 1 casilla y los ^848484^aturde^oldclr por 5 s
@@ -68567,19 +68550,19 @@ USAR
 ^FF0000^Se perderá el progreso más reciente guardado.^oldclr^
 
 [SUMMARY_USE_OLDER_DATA_HEADER]
-Confirmar uso de datos
+CONFIRMAR USO DE DATOS
 
 [SUMMEREVENTGAMEMODE_DAYS_TITLE]
-Festival Veraniego - Día {DAY}
+Festival de verano - Día {DAY}
 
 [SUMMEREVENT_7_BEACH_FINALE_NAME]
-Festival Veraniego - Día Final
+Festival de verano - Día Final
 
 [SUMMEREVENT_7_BEACH_FINALE_NAME1]
-Festival Veraniego - Día Final
+Festival de verano - Día Final
 
 [SUMMEREVENT_BEACH_FINALE]
-Sobrevive a un ataque masivo en los eventos del Festival Veraniego
+Sobrevive a un ataque masivo en el Festival de verano
 
 [SUMMEREVENT_BEACH_LEVEL_NAME]
 Festival Veraniego - Día {LEVEL_NUMBER}
@@ -68594,7 +68577,7 @@ Muchos premios te esperan en los eventos diarios del Festival Veraniego.
 ¡Festival Veraniego - Nivel superado!
 
 [SUMMERY_LOTTERY_LACK_MATERIAL]
-Material insuficiente: {ITEM}. Consigue suficiente para girar la ruleta y obtener premios.
+Material insuficiente: ^D22808^{ITEM}^oldclr^. Consigue suficiente para girar la ruleta y obtener premios.
 
 [SUMMERY_LOTTERY_NET_ERROR]
 Error de conexión, no se pudo girar la ruta.
@@ -69098,13 +69081,13 @@ Efectos: Producción solar +20 ^FF0000^(a partir del Nvl. 4)^oldclr^ | Recarga r
 Efectos: Producción solar +20 ^FF0000^(a partir del Nvl. 4)^oldclr^ | Recarga rápida +21%
 
 [SUN_GEAR_1_BOOST_DES_3]
-Efectos: Producción solar +25 ^FF0000^(a partir del Nvl. 4)^oldclr^ | Recarga rápida +24% | ^DB8117^Devolver soles (15% probable)^oldclr^
+Efectos: Producción solar +25 ^FF0000^(a partir del Nvl. 4)^oldclr^ | Recarga rápida +24% | ^DB8117^Reembolso solar (15% probable)^oldclr^
 
 [SUN_GEAR_1_BOOST_DES_4]
-Efectos: Producción solar +25 ^FF0000^(a partir del Nvl. 4)^oldclr^ | Recarga rápida +27% | ^DB8117^Devolver soles (20% probable)^oldclr^
+Efectos: Producción solar +25 ^FF0000^(a partir del Nvl. 4)^oldclr^ | Recarga rápida +27% | ^DB8117^Reembolso solar (20% probable)^oldclr^
 
 [SUN_GEAR_1_BOOST_DES_5]
-Efectos: Producción solar +25 ^FF0000^(a partir del Nvl. 4)^oldclr^ | Recarga rápida +30% | ^DB8117^Devolver soles (25% probable)^oldclr^
+Efectos: Producción solar +25 ^FF0000^(a partir del Nvl. 4)^oldclr^ | Recarga rápida +30% | ^DB8117^Reembolso solar (25% probable)^oldclr^
 
 [SUN_GEAR_1_DES]
 Pertenece a un tipo desconocido de mecanismo, solo se sabe que tiene un buen diseño.
@@ -69479,13 +69462,13 @@ Efectos: Reiniciar recarga (13% probable) | Recarga rápida +13%
 Efectos: Reiniciar recarga (16% probable) | Recarga rápida +16%
 
 [SUPER_CLOCK_14_BOOST_DES_3]
-Efectos: Reiniciar recarga (19% probable) | Recarga rápida +19% | ^DB8117^Devolver soles (10% probable)^oldclr^
+Efectos: Reiniciar recarga (19% probable) | Recarga rápida +19% | ^DB8117^Reembolso solar (10% probable)^oldclr^
 
 [SUPER_CLOCK_14_BOOST_DES_4]
-Efectos: Reiniciar recarga (19% probable) | Recarga rápida +19% | ^DB8117^Devolver soles (13% probable)^oldclr^
+Efectos: Reiniciar recarga (19% probable) | Recarga rápida +19% | ^DB8117^Reembolso solar (13% probable)^oldclr^
 
 [SUPER_CLOCK_14_BOOST_DES_5]
-Efectos: Reiniciar recarga (25% probable) | Recarga rápida +25% | ^DB8117^Devolver soles (16% probable)^oldclr^
+Efectos: Reiniciar recarga (25% probable) | Recarga rápida +25% | ^DB8117^Reembolso solar (16% probable)^oldclr^
 
 [SUPER_CLOCK_14_DES]
 Un error antiguo con sus partes bien preservadas.
@@ -69503,13 +69486,13 @@ Efectos: Reiniciar recarga (16% probable) | Recarga rápida +16%
 Efectos: Reiniciar recarga (19% probable) | Recarga rápida +19%
 
 [SUPER_CLOCK_15_BOOST_DES_3]
-Efectos: Reiniciar recarga (25% probable) | Recarga rápida +25% | ^DB8117^Devolver soles (10% probable)^oldclr^
+Efectos: Reiniciar recarga (25% probable) | Recarga rápida +25% | ^DB8117^Reembolso solar (10% probable)^oldclr^
 
 [SUPER_CLOCK_15_BOOST_DES_4]
-Efectos: Reiniciar recarga (31% probable) | Recarga rápida +25% | ^DB8117^Devolver soles (15% probable)^oldclr^
+Efectos: Reiniciar recarga (31% probable) | Recarga rápida +25% | ^DB8117^Reembolso solar (15% probable)^oldclr^
 
 [SUPER_CLOCK_15_BOOST_DES_5]
-Efectos: Reiniciar recarga (37% probable) | Recarga rápida +37% | ^DB8117^Devolver soles (20% probable)^oldclr^
+Efectos: Reiniciar recarga (37% probable) | Recarga rápida +37% | ^DB8117^Reembolso solar (20% probable)^oldclr^
 
 [SUPER_CLOCK_15_DES]
 Su energía permite controlar el tiempo a quien lo porte.
@@ -69859,7 +69842,8 @@ Succiona al primer zombi que se le acerca o le inflige 200 DPS (si es grande).
 Usa al zombi atrapado para golpear a otros zombis frente a él, haciéndolos retroceder 1 casilla.
 
 [TANGLEKELP_NEW_SKILL_LEVEL3_DES]
-Puede golpear a los zombis de otras filas con sus ataques. ^D22808^Información de alcance: línea superior, central e inferior (una tras otra)^oldclr^
+Puede golpear a los zombis de otras filas con sus ataques.
+^D22808^Información de alcance: línea superior, central e inferior (una tras otra)^oldclr^
 
 [TANGLEKELP_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^15% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
@@ -70949,7 +70933,7 @@ Deseos y estrellas
 Póltira mágica
 
 [TICKETS_PURCHASE_CONFIRMATION]
-Confirmar compra
+CONFIRMAR COMPRA
 
 [TICKETS_PURCHASE_CONFIRMATION_BODY]
 ¿Quieres comprar: {THING_TO_PURCHASE}?
@@ -71275,9 +71259,6 @@ Zampatumbas traga lápidas y emite una niebla que ralentiza zombis y se los trag
 
 [TOMBTANGLER_DESCRIPTION_PLANTFOOD]
 {KEYWORD}Nutrientes: {STAT}Arrastra bajo tierra hasta 2 zombis aleatorios.
-
-[TOMBTANGLER_STANDARD_PINATA]
-Piñata de aventuras de Zampatumbas
 
 [TOMBTANGLER_TOOLTIP]
 Se planta sobre lápidas. ¡La niebla ralentiza zombis y puede tragárselos!
@@ -71664,7 +71645,7 @@ Selecciona al menos 2 Piezas para hacer la fusión.
 ¿Deseas hacer una ^FF0000^{TYPE}^oldclr^ por ^FF8000^{COST} {CURRENCY}^oldclr^?
 
 [TRANS_GENOSIS_PAY_ENSURE_TITLE]
-Confirmar fusión
+CONFIRMAR FUSIÓN
 
 [TRANS_GENOSIS_PIECES_TABLE_TITLE]
 Lista de Piezas
@@ -71791,13 +71772,13 @@ Efectos: Recarga rápida +20% | Tiempo de recuperación -15%
 Efectos: Recarga rápida +25% | Tiempo de recuperación -20%
 
 [TRAVEL_TOGETHER_1_BOOST_DES_3]
-Efectos: Recarga rápida +30% | Tiempo de recuperación -25% | Devolver soles (15% probable)
+Efectos: Recarga rápida +30% | Tiempo de recuperación -25% | Reembolso solar (15% probable)
 
 [TRAVEL_TOGETHER_1_BOOST_DES_4]
-Efectos: Recarga rápida +35% | Tiempo de recuperación -30% | Devolver soles (20% probable)
+Efectos: Recarga rápida +35% | Tiempo de recuperación -30% | Reembolso solar (20% probable)
 
 [TRAVEL_TOGETHER_1_BOOST_DES_5]
-Efectos: Recarga rápida +40% | Tiempo de recuperación -35% | Devolver soles (25% probable)
+Efectos: Recarga rápida +40% | Tiempo de recuperación -35% | Reembolso solar (25% probable)
 
 [TRAVEL_TOGETHER_1_DES]
 Una cápsula llena de recuerdos felices, ¡guárdala y ábrela de nuevo cuando crezcas!
@@ -71879,7 +71860,9 @@ Material genético         100                   10%
 
 [TREASURE_PAVILION_DESCRIPTION]
 1. Gana Cupones del Cazatesoros y úsalos para obtener premios raros, abre varios cofres y obtén mejores Tesoros.
+
 2. Cada recompensa legendaria o épica solo puede obtenerse una vez, la probabilidad se dividirá a partes iguales entre los demás premios.
+
 3. Los Cupones se convertirán en Joyas una vez finalizado el evento.
 
 [TREASURE_PAVILION_DESCRIPTION_TITLE]
@@ -73225,8 +73208,11 @@ Dulce Navidad
 
 [UNCHARTED_ENTRY_DESCRIPTION]
 1. Completa los niveles y gana premios por primera limpieza.
+
 2. Los niveles del modo difícil requieren llaves para desbloquearse.
+
 3. Alcanza los objetivos extra del modo difícil para obtener premios extra.
+
 4. Puedes canjear los artículos acumulables por premios en la Tienda oculta.
 
 [UNCHARTED_ENTRY_DESCRIPTION_TITLE]
@@ -73825,7 +73811,7 @@ Bajo revisión
 ???
 
 [UNEQUIP]
-DESEQUIPAR
+DESELEC
 
 [UNIQUE_ACCELERATE]
 Maceta energética
