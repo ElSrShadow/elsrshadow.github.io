@@ -11,3 +11,4 @@ Enlace de descarga: https://github.com/ElSrShadow/elsrshadow.github.io/releases
 ## Creditos:
 - Fran - Realización de la traducción de la inmensa cantidad de textos del juego
 - ShadowVT - Hosteo de repositorio, testing, cambio de fuentes y (futuras) texturas
+- Gameplays con el pepe - Testing y diseño de texturas, implementación de mods
