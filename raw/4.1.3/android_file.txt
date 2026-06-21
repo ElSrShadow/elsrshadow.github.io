@@ -53,7 +53,7 @@ T31-D-15: En la boca del lobo
 T31-D-16: Mal presagio
 
 [S31_MEMORY_LEVEL_NAME_BOSS_9]
-T31-S9: Bólidus
+T31: Bólidus
 
 [NARRATIVE_PVZ1_S31_1_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¿Te imaginas qué pasaría si todos los zombis fueran gigantes?
@@ -14255,7 +14255,7 @@ El partido inicia en:
 Visionario
 
 [DAVECUP_CURRENT_SCORE]
-Ptos: ^FFFF00^{NUM}^oldclr^
+Puntos: ^FFFF00^{NUM}^oldclr^
 
 [DAVECUP_DESCRIPTION]
 1. Compite contra otros jugadores haciendo predicciones y ganando puntos por cada acierto.
@@ -14375,7 +14375,7 @@ Predicciones terminan en:
 Vota por un equipo y obtén puntos si resulta ganador
 
 [DAVECUP_ROUND]
-Ronda: ^FFFF00^{NUM}^oldclr^
+Ronda: ^FFFF00^{NUM}/8^oldclr^
 
 [DAVECUP_SELECT_SUPPORT]
 Haz tus predicciones
@@ -22720,7 +22720,7 @@ Límite de compra: ^FF0000^no hay^oldclr^
 Boletos de Dave insuficientes, consigue más gastando Joyas.
 
 [GROUP_BUY_DESCRIPTION]
-Precio: ^3827F5^{NUMBER1} ^397F24^-{NUMBER3}% dto ^FF0000^({NUMBER2})^oldclr^
+Precio: ^48A8F5^{NUMBER1} ^62D83E^-{NUMBER3}% dto ^F20D0D^({NUMBER2})^oldclr^
 
 [GROUP_BUY_ECITON]
 Vista previa
@@ -22744,7 +22744,7 @@ COMPRAR
 Nvl. {NUMBER}
 
 [GROUP_BUY_RETURN]
-Devoluciones por la compra de artículos por grupos
+Devoluciones por grupos
 
 [GROUP_BUY_SUCCESS]
 ¡Compra realizada con éxito!
@@ -22763,8 +22763,11 @@ Lotes de crecimiento
 
 [GROWTH_PACKAGE_DESCRIPTION]
 1. Se actualizan hasta 3 tipos de lotes todos los días a las 12:00 AM.
+
 2. Cada lote contiene materiales útiles que puedes usar para mejorar tus plantas.
+
 3. Obtienes puntos al comprar lotes. Úsalos para obtener premios adicionales.
+
 4. Los puntos acumulados se restablecen al final de temporada. ¡No olvides reclamar tus premios!
 
 [GROWTH_PACKAGE_DESCRIPTION_TITLE]
@@ -23046,7 +23049,7 @@ Cuando un zombi enterrado recibe otro ataque devastador, queda enterrado aún m�
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: lanza un martillo enorme que entierra o ^848484^aturde^oldclr^ ^DB8117^zombis por 3 s. ^D22808^Daño: 300^oldclr^
+^DB8117^Nutrientes: lanza un martillo enorme que entierra o ^848484^aturde ^DB8117^zombis por 3 s. ^D22808^Daño: 300^oldclr^
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL5_DES]
 Si un zombi enterrado profundo es alcanzado por otro ataque devastador, cae derrotado al instante.
@@ -23142,7 +23145,7 @@ Produce soles al inicio, repele zombis a otras líneas cuando crece
 Nivel 2
 
 [HAPPYLEEK_SKILL_LEVEL1_DES]
-^4DD4DB^Crecimiento sano:^oldclr^ el tiempo entre rebrotes se reduce en 10 segundos. No pierde hojas cuando repele zombis por primera vez.
+^4DD4DB^Crecimiento sano:^oldclr^ el tiempo entre rebrotes se reduce en 10 s. No pierde hojas cuando repele zombis por primera vez.
 
 [HAPPYLEEK_SKILL_LEVEL2]
 Nivel 3
@@ -23457,19 +23460,19 @@ Cabecea y echa mantequilla a los zombis
 Nivel 2
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL1_DES]
-^4DD4DB^Concentración mantecosa:^oldclr^ la probabilidad de echar mantequilla aumenta a un 15%; la mantequilla dura 1 s más.
+^4DD4DB^Concentración mantecosa:^oldclr^ la probabilidad de echar mantequilla aumenta a un 15%; la mantequilla dura 1 s más
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL2]
 Nivel 3
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL2_DES]
-^DD7ECB^Manteca doble:^oldclr^ la probabilidad de echar mantequilla se duplica, con un máximo de 2 mantequillas liberadas al mismo tiempo.
+^DD7ECB^Manteca doble:^oldclr^ la probabilidad de echar mantequilla se duplica, con un máximo de 2 piezas liberadas al mismo tiempo
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL5]
 Nivel 5
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL5_DES]
-^DB8117^Cabezazo pringoso:^oldclr^ gana la probabilidad de que al atacar, haga más daño junto con daño por salpicadura y eche 3 piezas de manteca a la vez.
+^DB8117^Cabezazo pringoso:^oldclr^ gana la probabilidad de que al atacar, haga más daño junto con daño por salpicadura y eche 3 piezas de manteca a la vez
 
 [HEADBUTTERLETTUCE_TOOLTIP]
 Cabecea y echa mantequilla a los zombis
@@ -23482,7 +23485,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.1 (actualizado el 20/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.2 (actualizado el 21/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -24562,7 +24565,7 @@ Nivel 3
 Nivel 5
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL5_DES]
-^DB8117^Música sanadora:^oldclr^ restaura la salud de las plantas de su alrededor en un 10% cada 15 segundos (no afecta a plantas instantáneas).
+^DB8117^Música sanadora:^oldclr^ restaura la salud de las plantas de su alrededor en un 10% cada 15 s (no afecta a plantas instantáneas)
 
 [HYDROCOTYLEDRUMMER_TOOLTIP]
 Mejora a las plantas de sus alrededores, la mejora es mayor en plantas musicales
@@ -42395,11 +42398,11 @@ Juega 1 partida de la Dimensión del Recuerdo en el Modo difícil.
 Derrota a 1 Zombi de élite en la Dimensión del Recuerdo.
 
 [NOVICESEVENDAYS_UNLOCK]
-Se desbloquea en {NUM} días.
+Se desbloquea en {NUM} d
 
 [NO_AUTH_DESC]
-Algunos permisos son necesarios para implementar la funcionalidad principal de este juego, y si te niegas a autorizarlos, no podremos proporcionarte la correcta funcionalidad del mismo.
-^FF0000 Si algunas características no están disponibles debido a la falta de permisos, sal del juego y vuelve a activar la autorización.^oldclr
+Algunos permisos son necesarios para que el juego funcione correctamente.
+^FF0000^Cierra el juego y activa los premisos en los ajustes del sistema.^oldclr^
 
 [NO_AUTH_TITLE]
 Sin permisos autorizados
@@ -42415,9 +42418,6 @@ Sin clasificación
 
 [NO_THANKS]
 NO, GRACIAS
-
-[NO_WINDOWED_MODE]
-Modo sin ventanas
 
 [NO_WIN_REWARD]
 Sin recompensas.
@@ -61683,28 +61683,28 @@ T31-S1-7: Guerra nocturna
 T31-S1-8: Guerra nocturna 2
 
 [S31_MEMORY_LEVEL_NAME_009]
-T31-S2-1: Jornada del jardinero
+T31-S2-1: Legumicultura
 
 [S31_MEMORY_LEVEL_NAME_010]
-T31-S2-2: La disco nunca morirá
+T31-S2-2: El baile del zombi
 
 [S31_MEMORY_LEVEL_NAME_011]
-T31-S2-3: El infiltrado
+T31-S2-3: Mucho ruido, muchas nueces
 
 [S31_MEMORY_LEVEL_NAME_012]
-T31-S2-4: As de jarrones
+T31-S2-4: Jarrones picantes
 
 [S31_MEMORY_LEVEL_NAME_013]
-T31-S1-5: Ultimatum
+T31-S1-5: El baile del zombi 2
 
 [S31_MEMORY_LEVEL_NAME_014]
-T31-S1-6: Gravedad inhóspita
+T31-S1-6: Limpieza de tejado
 
 [S31_MEMORY_LEVEL_NAME_015]
-T31-S2-7: 25/8
+T31-S2-7: Hongos vs Zombis
 
 [S31_MEMORY_LEVEL_NAME_016]
-T31-S2-8: Fiesta pop
+T31-S2-8: Maíz y mantequilla
 
 [S31_MEMORY_LEVEL_NAME_BOSS_1]
 T31-S1: Buitre de guerra
