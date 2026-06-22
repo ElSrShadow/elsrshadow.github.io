@@ -7926,16 +7926,16 @@ Medalla del renacido
 Rango: {RANK}
 
 [BOSS_CHALLENGE_LOTTERY_5TH_MATERIAL_COST]
-^3827F5^{COUNT}^oldclr^
+  ^00AAE4^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_CHRISMAS_MATERIAL_COST]
-^A0522D^{COUNT}^oldclr^
+  ^A0522D^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_MATERIAL_COST]
-^3827F5^{COUNT}^oldclr^
+  ^00AAE4^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_NATIONAL_MATERIAL_COST]
-^DB8117^{COUNT}^oldclr^
+  ^DB8117^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_NO_REWARD_TIP]
 No obtuviste recompensas, ¡buena suerte para la próxima!
@@ -23494,7 +23494,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.3 (actualizado el 22/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.4 (actualizado el 22/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
