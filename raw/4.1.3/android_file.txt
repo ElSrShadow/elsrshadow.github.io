@@ -1,6 +1,15 @@
 ﻿[#OF#]
 # de #
 
+[ADVICE_ABOUT_PLANT_ARMORFLAME]
+Coloca a P-Mech en un espacio libre de 2 casillas
+
+[ARMORFLAME]
+P-Mech
+
+[ARMORFLAME_TOOLTIP]
+Fusiona múltiples plantas para que puedas sembrar el caos
+
 [DAVECUP_WAITING]
 En espera...
 
@@ -1317,7 +1326,7 @@ No puedes plantar en zombificadores
 Ahora tienes demasiado que plantar
 
 [ADVICE_PLANT_NOT_WITH_AQUAVINE]
-No puedes plantar esto sobre Enredadera acuática
+No puedes plantar esto sobre Acuaenredadera
 
 [ADVICE_PLANT_ONLY_ON_WAVES]
 Las plantas acuáticas solo se pueden plantar en el agua
@@ -3046,7 +3055,7 @@ d) Nuevo zombi: desbloquea un nuevo zombi.
 e) Sushi: alimenta zombis con sushi.
 
 [AQUAVINE]
-Enredadera acuática
+Acuaenredadera
 
 [AQUAVINE_AVATAR_NAME]
 Gafas púrpuras
@@ -8302,7 +8311,7 @@ Nivel 5
 Ataca con burbujas alternando de formas al tocarla
 
 [BUDUHBOOM]
-Jade mantecoso
+Bad'ah Bum
 
 [BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
 Se recarga un 20% más rápido
@@ -8334,7 +8343,7 @@ Arroja 1 pieza adicional de mantequilla tras explotar ^D22808^(ahora 3)^oldclr^
 Arroja 2 piezas adicionales de mantequilla tras explotar ^D22808^(ahora 4)^oldclr^
 
 [BUDUHBOOM_PEDIA]
-Jade mantecoso está basado en el jade cristalino (Aptenia haeckeliana), una suculenta originaria de Sudáfrica. Se caracteriza por sus hojas carnosas, dispuestas en rosetas, formando una especie de "ventana". Este rasgo le permite aprovechar la luz solar durante períodos de sequía. Es muy apreciada como planta ornamental, se cultiva principalmente en jardines o como planta en maceta.
+Bad'ah Bum está basado en el jade cristalino (Aptenia haeckeliana), una suculenta originaria de Sudáfrica. Se caracteriza por sus hojas carnosas, dispuestas en rosetas, formando una especie de "ventana". Este rasgo le permite aprovechar la luz solar durante períodos de sequía. Es muy apreciada como planta ornamental, se cultiva principalmente en jardines o como planta en maceta.
 
 [BUDUHBOOM_PEDIA_EXTRA]
 Esta planta se ha difundido por todo el mundo debido a su capacidad para sobrevivir en climas secos y su atractivo visual. Es popular como planta ornamental en jardines de rocas y como suculenta de interior. Además, su técnica de reproducción por esquejes y división de plantas la hace fácilmente cultivable en diversas regiones.
@@ -16434,7 +16443,7 @@ Gana un aura sombría por 10 segundos.
 
 {KEYWORD}Características de la planta: {STAT}planta púrpura, destructora
 
-{FLAVOR}No todas las cabezas de Pitahydra tienen su propio nombre, pero cada una de ellas tiene su propia personalidad. La del medio es la tranquila y racional. La de la izquierda es un poco tímida y reservada. La de la derecha... Bueno, siempre va muy derecha.
+{FLAVOR}No todas las cabezas tienen su propio nombre, pero cada una de ellas tiene su propia personalidad. La del medio es la tranquila y racional. La de la izquierda es un poco tímida y reservada. La de la derecha... Bueno, siempre va muy derecha.
 
 [DRAGONBRUIT_DESCRIPTION_HEADER]
 Lanza 3 proyectiles explosivos con vainas de semillas a zombis en 3 líneas adyacentes. Al ser destruido, se divide en 3 plantas más pequeñas.
@@ -18445,14 +18454,14 @@ Nivel 5
 Explota cuando se la comen
 
 [EXPLODEOVINE]
-Enredadera explosiva
+Explotorredadera
 
 [EXPLODEOVINE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}debe plantarse sobre plantas no trepadoras
 
 {KEYWORD}Características de la planta: {STAT}planta anaranjada, trepadora, explosiva, defensa
 
-{FLAVOR}Enredadera explosiva está siempre a punto de explotar. Pero lo que se dice a punto: ya ha elegido el color y todo.
+{FLAVOR}Explotorredadera está siempre a punto de explotar. Pero lo que se dice a punto: ya ha elegido el color y todo.
 
 [EXPLODEOVINE_DESCRIPTION_HEADER]
 Las Enredaderas explosivas desencadenan una explosión con derribo al plantarlas y explotan con aún más potencia cuando se las comen.
@@ -18977,7 +18986,7 @@ Tócala para desatar poderosas ráfagas de fuego
 Toca en Calabaza de fuego para destruir esos estantes
 
 [FIREPEASHOOTER]
-Quemaguisantes
+Lanzaguisantes de fuego
 
 [FIREPEASHOOTER_AVATAR_NAME]
 Fogata
@@ -18991,10 +19000,10 @@ Crea pilares de llamas junto a sus llamas ordinarias, para aumentar el daño inf
 
 {KEYWORD}Características de la planta: {STAT}planta anaranjada, fuego, destructora, familia de guisantes
 
-{FLAVOR}Quemaguisantes sabe que lo que hace tiene un aspecto emocionante. Pero trabajar con el fuego es un asunto muy serio a la par que peligroso. Por eso, en su tiempo libre da charlas a los niños sobre la importancia de la seguridad contra el fuego. "Soy un profesional entrenado", explica. "Niños, no lo intentéis en casa".
+{FLAVOR}Lanzaguisantes de fuego sabe que lo que hace tiene un aspecto emocionante. Pero trabajar con el fuego es un asunto muy serio a la par que peligroso. Por eso, en su tiempo libre da charlas a los niños sobre la importancia de la seguridad contra el fuego. "Soy un profesional entrenado", explica. "Niños, no lo intentéis en casa".
 
 [FIREPEASHOOTER_DESCRIPTION_HEADER]
-Quemaguisantes dispara guisantes en llamas en la línea.
+Lanzaguisantes de fuego dispara guisantes en llamas en la línea.
 
 [FIREPEASHOOTER_NEW_SKILL_LEVEL1_DES]
 Lanza guisantes en llamas y ^FF8000^calienta a las plantas cercanas^oldclr^
@@ -20383,10 +20392,10 @@ Calabaza de fuego + Atuendo
 Calabaza de fuego al Nvl. 3 + Atuendo
 
 [GEMS_RESTORE_CODE_RECHARGE_FIREPEASHOOTER_LV0_SUCCEED_CONTENT]
-Quemaguisantes + Atuendo
+Lanzaguisantes de fuego + Atuendo
 
 [GEMS_RESTORE_CODE_RECHARGE_FIREPEASHOOTER_LV3_SUCCEED_CONTENT]
-Quemaguisantes al Nvl. 3 + Atuendo
+Lanzaguisantes de fuego al Nvl. 3 + Atuendo
 
 [GEMS_RESTORE_CODE_RECHARGE_FIRESHROOM_LV0_SUCCEED_CONTENT]
 Seta pirómana + Atuendo
@@ -21175,7 +21184,7 @@ El daño de la explosión de Explotonuez aumenta en un {Param_1}%
 El Coste en soles de Calabaza de fuego se reduce en {Param_1}
 
 [GENE_DESCRIPTION_FIREPEASHOOTER]
-Los guisantes en llamas de Quemaguisantes inflige un {Param_1}% más de daño
+Los guisantes en llamas de Lanzaguisantes de fuego inflige un {Param_1}% más de daño
 
 [GENE_DESCRIPTION_FLAMELADY]
 Las llamaradas se vuelven turquesa y hacen un {Param_2}% más daño; {Param_1}% de lanzar 3 bolas de fuego extra
@@ -21220,7 +21229,7 @@ Es un {Param_1}% más probable que Cardo teledirigido dispare un combo de cardos
 Reduce el tiempo de recuperación de Comandate habas en un {Param_1}%
 
 [GENE_DESCRIPTION_HOTDATE]
-Dátil ardiente se recarga un {Param_1}% más rápido
+Cita ardiente se recarga un {Param_1}% más rápido
 
 [GENE_DESCRIPTION_HURRIKALE]
 Huracol se recarga un {Param_1}% más rápido
@@ -23485,7 +23494,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.2 (actualizado el 21/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.3 (actualizado el 22/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -24266,7 +24275,7 @@ Nivel 5
 Envia tropas para atacar zombis por varias líneas
 
 [HOTDATE]
-Dátil ardiente
+Cita ardiente
 
 [HOTDATE_AVATAR_PLANTFOOD_DESCRIPTION]
 Tras finalizar su efecto de Nutrientes, se volverá invencible durante 3 s
@@ -24276,10 +24285,10 @@ Tras finalizar su efecto de Nutrientes, se volverá invencible durante 3 s
 
 {KEYWORD}Características de la planta: {STAT}planta anaranjada, llena de amor, destructora
 
-{FLAVOR}Dátil ardiente es un encanto. Amable, con mucha conversación, con opiniones interesantes y escucha con mucha atención. Los zombis forman filas para ser incinerados con su fuego.
+{FLAVOR}Cita ardiente es un encanto. Amable, con mucha conversación, con opiniones interesantes y escucha con mucha atención. Los zombis forman filas para ser incinerados con su fuego.
 
 [HOTDATE_DESCRIPTION_HEADER]
-Dátil ardiente atrae zombis de las líneas superior e inferior a la suya, y después desata una línea de fuego cuando es comido.
+Cita ardiente atrae zombis de las líneas superior e inferior a la suya, y después desata una línea de fuego cuando es comido.
 
 [HOTDATE_FAMILY]
 Arecaceae
@@ -34568,7 +34577,7 @@ Combina las esferas de alrededor para destruir los bloques de hielo y liberar el
 {EXCITED:crazydave}¡Hará frío en el infierno antes de que pase eso, Penny!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_4]
-{SAY:crazydave}¡Es la hora de Quemaguisantes!
+{SAY:crazydave}¡Es la hora de Lanzaguisantes de fuego!
 
 [NARRATIVE_ICEAGE_INTRO_FIREPEASHOOTER_5]
 {PLAYFUL:crazydave}¡Prenderá fuego a esos zombis y dará calor a los de su alrededor!
@@ -34739,7 +34748,7 @@ Combina las esferas de alrededor para destruir los bloques de hielo y liberar el
 {PLAYFUL:winnie}Gracias por preguntar, usuario Dave. Mis sistemas de calefacción ya funcionan con normalidad.
 
 [NARRATIVE_ICEAGE_OUTRO_FIREPEASHOOTER_3]
-{SAY:winnie}Recluté a Quemaguisantes al equipo y lo entrené hasta el Nivel 3
+{SAY:winnie}Recluté a Lanzaguisantes de fuego al equipo y lo entrené hasta el Nivel 3
 
 [NARRATIVE_ICEAGE_OUTRO_FIREPEASHOOTER_4]
 {SAY:crazydave}¡Ahora sí que podemos plantar a lo grande! ¡Sigamos derritiendo zombis, Penny!
@@ -36617,7 +36626,7 @@ B. Viajar al pasado y colocar tus trampas
 {SAY:zbcommander}Inutilizan nuestras máquinas al explotar. Mandad zombis a pie primero, luego a los mecas.
 
 [NARRATIVE_PVZ1_S30_12_H_INTRO_4]
-{SAY:zbcommander}Ah, y cuidado con Dátil ardiente. Atrae zombis y los desvía de su ruta.
+{SAY:zbcommander}Ah, y cuidado con Cita ardiente. Atrae zombis y los desvía de su ruta.
 
 [NARRATIVE_PVZ1_S30_12_H_INTRO_5]
 {EXCITED:crazydave}¿Comandante Z? ¡Hace tiempo que no te veía!
@@ -55548,7 +55557,7 @@ Prueba a la letal ^ff0000^Pokra^oldclr^ y recibe Estatuas que podrás canjear po
 Prueba a la planta y recibe recompensas mientras juegas.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_2_1]
-Prueba al poderoso ^ff0000^Arroz pegajoso^oldclr^ y recibe Estatuas que podrás canjear por Recompensas.
+Prueba a ^ff0000^Arroz bomba pegajosa^oldclr^ y recibe Estatuas que podrás canjear por Recompensas.
 
 [RENAISSANCE_CHALLENGE_ACTIVITY_DESCRIPTION_3]
 Prueba a la planta y recibe recompensas mientras juegas.
@@ -61709,6 +61718,9 @@ T31-S2-8: Maíz y mantequilla
 [S31_MEMORY_LEVEL_NAME_BOSS_1]
 T31-S1: Buitre de guerra
 
+[S31_MEMORY_LEVEL_NAME_BOSS_2]
+T31-S2: Zomboss veraniego
+
 [SALES_BUY_SUCCESS_TITLE]
 ¡Compra exitosa!
 
@@ -65973,7 +65985,7 @@ Protege tus plantas de peces globo; daña al enemigo con sus hojas
 PASO {NUMBER}
 
 [STICKYBOMBRICE]
-Arroz pegajoso
+Arroz bomba pegajosa
 
 [STICKYBOMBRICE_AVATAR_NAME]
 Gafas de abuelita
@@ -65989,10 +66001,10 @@ Arroja arroz negro que acumula hasta 3 bombas por zombi, estas derriban zombis 0
 
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
-{FLAVOR}Arroz pegajoso confía ciegamente en las bombas, en el arroz y en el concepto abstracto de la pegajosidad. Ha publicado artículos científicos sobre las tres cosas.
+{FLAVOR}Arroz bomba pegajosa confía ciegamente en las bombas, en el arroz y en el concepto abstracto de la pegajosidad. Ha publicado artículos científicos sobre las tres cosas.
 
 [STICKYBOMBRICE_DESCRIPTION_HEADER]
-Arroz pegajoso arroja bombas de arroz pegajosas con temporizador a los zombis.
+Arroz bomba pegajosa arroja bombas de arroz pegajosas con temporizador a los zombis.
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL1_DES]
 Arroja bombas de arroz que inmovilizan zombis y explotan al cabo de 1,25 s
@@ -70009,7 +70021,7 @@ Misión épica: ¡Raíz de escape!
 Misión épica: ¡Explotonuez!
 
 [TASK_WEEKLY_PLANTCHALLENGE_FIREPEASHOOTER]
-Misión épica: ¡Quemaguisantes!
+Misión épica: ¡Lanzaguisantes de fuego!
 
 [TASK_WEEKLY_PLANTCHALLENGE_GRAPESHOT]
 Misión épica: ¡Uva de racimo!
@@ -70018,7 +70030,7 @@ Misión épica: ¡Uva de racimo!
 Misión épica: ¡Cardo teledirigido!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HOTDATE]
-Misión épica: ¡Dátil ardiente!
+Misión épica: ¡Cita ardiente!
 
 [TASK_WEEKLY_PLANTCHALLENGE_HURRIKALE]
 Misión épica: ¡Huracol!
@@ -79453,7 +79465,7 @@ Shaolin con antorcha
 Lleva una antorcha con la cual puede destruir a tus plantas instantáneamente.
 
 [ZOMBIE_KONGFU_ZOMBOSS_BLADE]
-Zomboss Héroe Espadachín
+Héroe de la Espada
 
 [ZOMBIE_KONGFU_ZOMBOSS_BLADE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}su escudo reduce el daño recibido durante unos segundos
@@ -79465,7 +79477,7 @@ Zomboss Héroe Espadachín
 Invoca Zombis shaolin mientras ataca plantas con su gigantesca espada y escudo.
 
 [ZOMBIE_KONGFU_ZOMBOSS_EXPLOSIVE]
-Zomboss Cabeza de Pólvora
+Cabeza de Pólvora
 
 [ZOMBIE_KONGFU_ZOMBOSS_EXPLOSIVE_DESCRIPTION]
 {KEYWORD}Daño: {STAT}arroja bombas que infligen daño masivo en un área mediana
@@ -79477,7 +79489,7 @@ Zomboss Cabeza de Pólvora
 Lanza todo tipo de explosivos y zombis.
 
 [ZOMBIE_KONGFU_ZOMBOSS_QIGONG]
-Zomboss Maestro del Qigong
+Maestro del Qigong
 
 [ZOMBIE_KONGFU_ZOMBOSS_QIGONG_DESCRIPTION]
 ^E2725B^• Habilidades^oldclr^
