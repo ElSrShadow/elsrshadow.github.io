@@ -7926,16 +7926,16 @@ Medalla del renacido
 Rango: {RANK}
 
 [BOSS_CHALLENGE_LOTTERY_5TH_MATERIAL_COST]
-Costo: {COUNT} Cristales azules
+^3827F5^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_CHRISMAS_MATERIAL_COST]
-Costo: {COUNT} Piezas navideñas
+^A0522D^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_MATERIAL_COST]
-Costo: {COUNT} Cristales
+^3827F5^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_NATIONAL_MATERIAL_COST]
-Costo: {COUNT} Medallas nacionales
+^DB8117^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_NO_REWARD_TIP]
 No obtuviste recompensas, ¡buena suerte para la próxima!
@@ -7945,8 +7945,8 @@ No se puedo obtener la recompensa.
 <Código de error: {NUM}>
 
 [BOSS_CHALLENGE_REWARD_RANK_TIP]
-Tu clasificación en este evento fue: ^FF0000^{RANK}^oldclr^
-Como recompensa obtienes:
+Puesto: ^FF0000^{RANK}^oldclr^
+Tus recompensas:
 
 [BOSS_CHALLENGE_TIME]
 Tiempo: ^FFFF00^{TIME}^oldclr^
