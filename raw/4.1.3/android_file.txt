@@ -23494,7 +23494,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.4 (actualizado el 22/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.5 (actualizado el 22/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -44495,7 +44495,7 @@ Producir soles|ca=Infligir daño a los zombis|Bloquear zombis|Curar a las planta
 Producir soles|Infligir daño a los zombis|ca=Bloquear zombis|Curar a las plantas dañadas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_CHOMPER]
-Plantarla detrás para atacar a los zombis|Plantarla delante para bloquear zombis|Plantarla detrás para producir sol|ca=Plantarla delante para atacar a los zombis|
+ca=Plantarla delante para atacar a los zombis|Plantarla delante para bloquear zombis|Plantarla detrás para producir sol|Plantarla detrás para atacar a los zombis|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_ELECTRICBLUEBERRY]
 Plantarlo delante para bloquear zombis|Plantarlo detrás para producir sol|Plantarlo delante para atacar a los zombis|ca=Plantarlo detrás para atacar a los zombis|
@@ -44510,19 +44510,19 @@ ca=Plantarla delante para atacar a los zombis|Plantarla detrás para bloquear zo
 ca=Plantarla delante para bloquear zombis|Plantarla detrás para bloquear zombis|Plantarla detrás para producir sol|Plantarla detrás para atacar a los zombis|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_CHOMPER]
-Inmune|Veloz|ca=Vulnerable|Lenta
+ca=Vulnerable|Veloz|Inmune|Lenta
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_ELECTRICBLUEBERRY]
 ca=Verdadero|Falso| | |
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_PRIMALSUNFLOWER]
-Explosivos|ca=Grandes|Normales|Pequeños|
+ca=Grandes|Explosivos|Normales|Pequeños|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_SQUASH]
-La casilla donde está plantada|ca=1 casilla a la izquierda y 1 a la derecha|1 casilla a la izquierda|1 casilla a la derecha|
+La casilla donde está plantada|1 casilla a la derecha|1 casilla a la izquierda|ca=1 casilla a la izquierda y 1 a la derecha|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_TALLNUT]
-Puede atacar más rápido|ca=Bloquea a los zombis que vuelan bajo|Salta más alto|Puede detectar zombis invisibles|
+Puede atacar más rápido|Puede detectar zombis invisibles|Salta más alto|ca=Bloquea a los zombis que vuelan bajo|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_CHOMPER]
 Verdadero|ca=Falso| | |
@@ -44531,10 +44531,10 @@ Verdadero|ca=Falso| | |
 ca=Verdadero|Falso| | |
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_PRIMALSUNFLOWER]
-Aumenta su salud|Aumenta su poder de ataque|Se reduce su coste en soles|ca=Produce soles adicionales|
+Aumenta su salud|Aumenta su poder de ataque|ca=Produce soles adicionales|Se reduce su coste en soles|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_SQUASH]
-Verdadero|ca=Falso| | |
+ca=Falso|Verdadero| | |
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_TALLNUT]
 ca=Verdadero|Falso| | |
@@ -44555,7 +44555,7 @@ Usarla para dañar zombis grandes|Plantarla para eliminar zombis pequeños y med
 1 Nuez|3 Nueces|4 Nueces|ca=2 Nueces|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_CHOMPER]
-Aumenta la probabilidad de lanzar púas eléctricas|ca=Empuja a los zombis más lejos; se reduce su tiempo de digestión aún más|Gana la probabilidad de disparar 2 semillas de manzana a la vez|Al ser destruida, dejará una pequeña versión de si misma|
+Aumenta la probabilidad de lanzar púas eléctricas|Gana la probabilidad de disparar 2 semillas de manzana a la vez|ca=Empuja a los zombis más lejos; se reduce su tiempo de digestión aún más|Al ser destruida, dejará una pequeña versión de si misma|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_ELECTRICBLUEBERRY]
 ca=Gana la habilidad de atacar a cualquier zombi del patio|Gana la probabilidad de disparar estrellas azules|Gana la probabilidad de que al explotar, genere una Papapúm|Gana la probabilidad de disparar guisantes de fuego azules|
@@ -44579,7 +44579,7 @@ Gana la probabilidad de devolver los soles que cuesta al plantarse|Gana la proba
 Gana la probabilidad de devolver los soles que cuesta al plantarse|Gana la probabilidad de ser invencible al plantarse|Gana la probabilidad de infligir daño de área al plantarse|ca=Gana la probabilidad de ser potenciado por el efecto de Nutrientes al plantarse|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_SQUASH]
-Su tiempo de recuperación es reducido|ca=Aumenta la probabilidad de permanecer en el patio tras aplastar a un zombi|Gana la probabilidad de disparar balas perforantes|Gana la probabilidad de lanzar un fuerte rayo|
+ca=Aumenta la probabilidad de permanecer en el patio tras aplastar a un zombi|Su tiempo de recuperación es reducido|Gana la probabilidad de disparar balas perforantes|Gana la probabilidad de lanzar un fuerte rayo|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_TALLNUT]
 ca=Aumenta la probabilidad de caer y dañar zombis cuando es destruida|Gana la habilidad de atraer a los zombis cercanos|Deja semillas explosivas al ser destruida|Se reduce su tiempo de recuperación|
@@ -44603,16 +44603,16 @@ Gana la probabilidad de devolver los soles que cuesta al plantarse|Gana la proba
 Dispara una ráfaga ondeante de guisantes|Lanza coles gigantes a todos los zombis y obstáculos|ca=Atrae a varios zombis, se los devora y eructa para empujar a los demás|Dispara una ráfaga de guisantes, seguida de un guisante gigante|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_ELECTRICBLUEBERRY]
-Echa fuego en un área de 3x3 en frente de ella|ca=Electrocuta a 3 zombis al azar|Aumenta el poder de ataque de las plantas cercanas|Envía una onda de choque que inflige daño masivo|
+Echa fuego en un área de 3x3 en frente de ella|Aumenta el poder de ataque de las plantas cercanas|ca=Electrocuta a 3 zombis al azar|Envía una onda de choque que inflige daño masivo|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_PRIMALSUNFLOWER]
-ca=Produce múltiples soles al instante|Dispara un poderoso rayo de arcoiris a los zombis|Hace que todas las plantas sean invencibles|Aumenta el poder y la velocidad de ataque de las plantas cercanas|
+Hace que todas las plantas sean invencibles|Dispara un poderoso rayo de arcoiris a los zombis|ca=Produce múltiples soles al instante|Aumenta el poder y la velocidad de ataque de las plantas cercanas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_SQUASH]
 Transforma un zombi en un Hongo|Envenena a todos los zombis en pantalla|ca=Aplasta a 2 objetivos aleatorios; luego, regresa a su posición inicial|Dispara 4 ráfagas heladas por el patio|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_TALLNUT]
-Dispara joyas a todos los zombis del patio|Cura las plantas de sus alrededores|ca=Se reviste de una armadura metálica pesada|Dispara 3 misiles que dejan llamaradas radioactivas|
+ca=Se reviste de una armadura metálica pesada|Cura las plantas de sus alrededores|Dispara joyas a todos los zombis del patio|Dispara 3 misiles que dejan llamaradas radioactivas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_CHOMPER]
 Dispara bolas de fuego junto con su efecto de Nutrientes ordinario|Emite un láser púrpura y más grande, que inflige daño por salpicadura|Crea 3 clones de si mismo en lugar de 2|ca=Se prolonga la duración de su súper-eructo|
@@ -44624,7 +44624,7 @@ ca=Reduce y debilita a los zombis electrocutados|Aumenta la producción solar|De
 Dispara guisantes en llamas gigantes|ca=Da una moneda de oro gigante|Los charcos de agua helada congelan zombis|Reduce la recarga del paquete de semillas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_SQUASH]
-Dispara un laser rojo que inflige más daño|ca=Ataca a 3 objetivos en lugar de 2|Lanza flechas en llamas|Aplasta a los zombis dos veces y los entierra bajotierra por un tiempo|
+Dispara un laser rojo que inflige más daño|Lanza flechas en llamas|ca=Ataca a 3 objetivos en lugar de 2|Aplasta a los zombis dos veces y los entierra bajotierra por un tiempo|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_TALLNUT]
 Cuando el fruto gigante explote, creará 3 pequeños|ca=Se reviste de una armadura de cristal pesada|Dispara bayas gigantes en llamas|Dispara guisantes de hielo, fuego y de fuego azul, junto a los normales|
