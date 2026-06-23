@@ -1,6 +1,9 @@
 ﻿[#OF#]
 # de #
 
+[DAILY_ACHIEVEMENT_OBTAIN]
+
+
 [ADVICE_ABOUT_PLANT_ARMORFLAME]
 Coloca a P-Mech en un espacio libre de 2 casillas
 
@@ -7926,16 +7929,16 @@ Medalla del renacido
 Rango: {RANK}
 
 [BOSS_CHALLENGE_LOTTERY_5TH_MATERIAL_COST]
-  ^00AAE4^{COUNT}^oldclr^
+      ^4DD4DB^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_CHRISMAS_MATERIAL_COST]
-  ^A0522D^{COUNT}^oldclr^
+      ^A0522D^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_MATERIAL_COST]
-  ^00AAE4^{COUNT}^oldclr^
+      ^4DD4DB^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_NATIONAL_MATERIAL_COST]
-  ^DB8117^{COUNT}^oldclr^
+      ^DB8117^{COUNT}^oldclr^
 
 [BOSS_CHALLENGE_NO_REWARD_TIP]
 No obtuviste recompensas, ¡buena suerte para la próxima!
@@ -10438,7 +10441,7 @@ Planta carnívora
 Visera
 
 [CHOMPER_AVATAR_PLANTFOOD_DESCRIPTION]
-Se prolonga la duración de su súper-eructo.
+El eructo de su efecto puede desarmar zombis de cascos
 
 [CHOMPER_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}gran retardo entre mordiscos
@@ -23494,7 +23497,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.2.5 (actualizado el 22/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.3.0 (actualizado el 23/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -26413,7 +26416,7 @@ Nivel 3
 ^DD7ECB^Giros rápidos:^oldclr^ frena zombis con sus bastones, estos giran un 16.7% más rápido.
 
 [KIWIFRUIT_SUPERSKILL_DES]
-^DB8117^Doppelgänger:^oldclr^ gana la probabilidad de convocar pequeños clones que golpean zombis durante un tiempo.
+^DB8117^Clon de sombra:^oldclr^ gana la probabilidad de convocar pequeños clones que golpean zombis durante un tiempo.
 
 [KIWIFRUIT_SUPERSKILL_NAME]
 Nivel 5
@@ -26431,7 +26434,7 @@ Dinastía del Kung Fu - Día Final
 Dinastía del Kung Fu - Día {LEVEL_NUMBER}
 
 [KONGFU_ZOMBIE]
-Maestro del Qigong
+Qigong perfeccionado
 
 [KONGFU_ZOMBIE_DESCRIPTION]
 Triplica la salud del Zombi Gigong
@@ -26551,271 +26554,7 @@ Nivel 5
 Arroja su lanza para dañar a los zombis de la línea
 
 [LANTERN_RIDDLES_0]
-¿En qué provincia de China se encuentran las cuevas de Mogao?
-
-[LANTERN_RIDDLES_1]
-La cueva de Mogao también es conocida como _________ por sus estatuas y murales.
-
-[LANTERN_RIDDLES_2]
-¿Sobre qué se excavaron las cuevas de Mogao?
-
-[LANTERN_RIDDLES_3]
-¿A qué tipo de clima pertenece Dunhuang?
-
-[LANTERN_RIDDLES_4]
-¿Cuál es el patrimonio cultural más famoso de Dunhuang?
-
-[LANTERN_RIDDLES_5]
-¿En qué época se excavaron las cuevas de Mogao?
-
-[LANTERN_RIDDLES_6]
-¿Qué ruta importante pasaba por Dunhuang en la antigüedad?
-
-[LANTERN_RIDDLES_7]
-¿Qué significa el nombre de Dunhuang?
-
-[LANTERN_RIDDLES_8]
-¿Cuántas cuevas se conservan en las cuevas de Mogao?
-
-[LANTERN_RIDDLES_9]
-¿En qué lista figuran las cuevas de Mogao?
-
-[LANTERN_RIDDLES_10]
-¿Cuál es el tema principal de los murales de Dunhuang?
-
-[LANTERN_RIDDLES_11]
-ca=Hadas|Aves|Instrumentos|Animales|
-
-[LANTERN_RIDDLES_12]
-¿Por qué algunas Feitian tienen la piel negra?
-
-[LANTERN_RIDDLES_13]
-¿Qué instrumento sostiene Cactus en su nuevo disfraz?
-
-[LANTERN_RIDDLES_14]
-¿De qué origen eran los pigmentos utilizados en los murales?
-
-[LANTERN_RIDDLES_15]
-¿Cuál de los siguientes colores NO aparece en los murales de Dunhuang?
-
-[LANTERN_RIDDLES_16]
-¿Cuál de los siguientes NO es un tema representado en los murales de Dunhuang?
-
-[LANTERN_RIDDLES_17]
-¿Cuál era la función principal de los Feitian en los murales?
-
-[LANTERN_RIDDLES_18]
-¿Cuál es el mural de mayor tamaño en Dunhuang?
-
-[LANTERN_RIDDLES_19]
-¿Durante qué dinastía se excavaron más cuevas en Mogao?
-
-[LANTERN_RIDDLES_20]
-¿Qué instrumento aparece con mayor frecuencia en los murales de Dunhuang?
-
-[LANTERN_RIDDLES_21]
-¿Cuál de las siguientes es una obra representativa de los murales de Dunhuang?
-
-[LANTERN_RIDDLES_22]
-¿Cuánto tiempo duró la excavación de las cuevas de Mogao?
-
-[LANTERN_RIDDLES_23]
-¿Desde qué dinastía las figuras de donantes en los murales empezaron a representarse a tamaño casi real?
-
-[LANTERN_RIDDLES_24]
-¿Cómo se llama la decoración del techo en las cuevas de Dunhuang?
-
-[LANTERN_RIDDLES_25]
-¿De qué materiales están hechas principalmente las esculturas policromadas de Mogao?
-
-[LANTERN_RIDDLES_26]
-¿Cuál es el tema principal de las esculturas policromadas?
-
-[LANTERN_RIDDLES_27]
-¿Cuál es la altura aproximada de la escultura más grande en Mogao?
-
-[LANTERN_RIDDLES_28]
-¿Por qué muchas esculturas en Mogao no tienen manos?
-
-[LANTERN_RIDDLES_29]
-¿Quién suele ser la figura central en las cuevas de Dunhuang?
-
-[LANTERN_RIDDLES_30]
-¿Cuál es el primer paso en la creación de una escultura policromada?
-
-[LANTERN_RIDDLES_31]
-¿Cómo se llaman las pequeñas esculturas adheridas a las paredes en Mogao?
-
-[LANTERN_RIDDLES_32]
-¿Cómo suelen ser las expresiones faciales de los Reyes Celestiales en las esculturas?
-
-[LANTERN_RIDDLES_33]
-¿Con qué se pintaban los murales de Dunhuang?
-
-[LANTERN_RIDDLES_34]
-¿En cuántas partes se dividen las cuevas de Mogao?
-
-[LANTERN_RIDDLES_35]
-En la antigüedad, Dunhuang era un importante _____ en el intercambio cultural.
-
-[LANTERN_RIDDLES_36]
-¿En qué dinastía se descubrió la Cueva de los Manuscritos en Dunhuang?
-
-[LANTERN_RIDDLES_37]
-¿Qué se guardaba principalmente en la Cueva de los Manuscritos?
-
-[LANTERN_RIDDLES_38]
-¿En qué idioma están escritos los manuscritos encontrados?
-
-[LANTERN_RIDDLES_39]
-¿Quiénes eran los principales habitantes de la antigua Dunhuang?
-
-[LANTERN_RIDDLES_40]
-¿Por qué los camellos son adecuados para viajar por el desierto?
-
-[LANTERN_RIDDLES_41]
-Si Dunhuang está en el desierto, ¿de dónde proviene el agua de sus ríos?
-
-[LANTERN_RIDDLES_42]
-¿Cómo es el clima de Dunhuang?
-
-[LANTERN_RIDDLES_43]
-¿Quién descubrió la Cueva de los Manuscritos?
-
-[LANTERN_RIDDLES_44]
-¿De qué vivía principalmente la gente en la antigua Dunhuang?
-
-[LANTERN_RIDDLES_45]
-¿Por qué se dejó de excavar en las cuevas de Mogao?
-
-[LANTERN_RIDDLES_46]
-¿Qué dinastía NO participó en la excavación de las cuevas de Mogao?
-
-[LANTERN_RIDDLES_47]
-¿Qué significa aproximadamente el nombre Dunhuang?
-
-[LANTERN_RIDDLES_48]
-En la nueva versión, ¿qué atuendo temático fue agregado?
-
-[LANTERN_RIDDLES_49]
-El budismo es clave en la cultura de Dunhuang, ¿de dónde llegó a China?
-
-[LANTERN_RIDDLES_50]
-En la nueva versión, ¿qué tipo de cuernos tiene Girasol primitivo?
-
-[LANTERN_RIDDLES_51]
-Al visitar Mogao, ¿qué NO está permitido?
-
-[LANTERN_RIDDLES_52]
-¿Cuál es la principal dificultad para conservar los murales?
-
-[LANTERN_RIDDLES_53]
-¿Cómo se llamaban en la antigüedad las campanillas decorativas?
-
-[LANTERN_RIDDLES_54]
-¿Qué nivel turístico tiene Mogao actualmente?
-
-[LANTERN_RIDDLES_55]
-Durante la visita, ¿qué no se debe hacer?
-
-[LANTERN_RIDDLES_56]
-¿Cómo podemos aprender sobre la cultura de Dunhuang?
-
-[LANTERN_RIDDLES_57]
-En las esculturas, ¿quién es el joven que suele estar junto al Buda?
-
-[LANTERN_RIDDLES_58]
-¿Todas las cuevas de Mogao están abiertas al público?
-
-[LANTERN_RIDDLES_59]
-¿Cómo pueden los niños ayudar a proteger la cultura de Dunhuang?
-
-[LANTERN_RIDDLES_60]
-¿Qué suelen sostener los Feitian en los murales?
-
-[LANTERN_RIDDLES_61]
-En las esculturas, ¿qué figura representa a un general?
-
-[LANTERN_RIDDLES_62]
-¿Cómo se numeran las cuevas de Mogao?
-
-[LANTERN_RIDDLES_63]
-¿Cuál es un producto típico de Dunhuang?
-
-[LANTERN_RIDDLES_64]
-¿A qué jugaban los niños en la antigua Dunhuang?
-
-[LANTERN_RIDDLES_65]
-¿Qué danza de los murales se caracteriza por giros continuos?
-
-[LANTERN_RIDDLES_66]
-¿Cuál es la forma más común de las cuevas de Mogao?
-
-[LANTERN_RIDDLES_67]
-¿En qué materiales están hechas las pinturas halladas en la Cueva de los Manuscritos?
-
-[LANTERN_RIDDLES_68]
-¿Qué animación incluye elementos de los Feitian de Dunhuang?
-
-[LANTERN_RIDDLES_69]
-¿Qué significa la palabra "Mogao"?
-
-[LANTERN_RIDDLES_70]
-¿En qué criatura está inspirada Azálea imperial?
-
-[LANTERN_RIDDLES_71]
-En los murales de Dunhuang, ¿qué planta aparece con más frecuencia?
-
-[LANTERN_RIDDLES_72]
-Junto al Buda, ¿qué anciano suele aparecer?
-
-[LANTERN_RIDDLES_73]
-En el evento, ¿cuántos sobres rojos se pueden obtener como máximo?
-
-[LANTERN_RIDDLES_74]
-Tras el descubrimiento de la Cueva de los Manuscritos, los objetos...
-
-[LANTERN_RIDDLES_75]
-El entorno de las cuevas de Mogao es principalmente...
-
-[LANTERN_RIDDLES_76]
-¿Cuál era la religión principal en la antigua Dunhuang?
-
-[LANTERN_RIDDLES_77]
-En los murales, ¿qué animal transporta mercancías en la Ruta de la Seda?
-
-[LANTERN_RIDDLES_78]
-¿Por qué algunos murales están borrosos?
-
-[LANTERN_RIDDLES_80]
-En Dunhuang, ¿qué es el "zaojing" en el techo de las cuevas?
-
-[LANTERN_RIDDLES_81]
-El comercio en la antigua Dunhuang prosperó porque estaba ubicada en...
-
-[LANTERN_RIDDLES_82]
-¿Para qué se usaban las cuevas de Mogao?
-
-[LANTERN_RIDDLES_83]
-¿Qué pigmento era el más raro en los murales?
-
-[LANTERN_RIDDLES_84]
-En las esculturas, ¿qué significa una mano con la palma hacia arriba?
-
-[LANTERN_RIDDLES_85]
-¿Qué incluye principalmente el arte de Dunhuang?
-
-[LANTERN_RIDDLES_86]
-¿En qué año Mogao fue declarado Patrimonio de la Humanidad?
-
-[LANTERN_RIDDLES_87]
-Al visitar Dunhuang, los niños deben...
-
-[LANTERN_RIDDLES_88]
-En los murales, las cintas de los Feitian representan...
-
-[LANTERN_RIDDLES_89]
-¿En qué dinastía se dejó de excavar en Mogao?
+¿ ... ?
 
 [LANTERN_RIDDLES_ACCMULATED_REWARD]
 Gran acertijo - Día {DAY}
@@ -26824,268 +26563,7 @@ Gran acertijo - Día {DAY}
 Respondido
 
 [LANTERN_RIDDLES_ANSWER_0]
-ca=Gansu|Sichuan|Shaanxi|Qinghai|
-
-[LANTERN_RIDDLES_ANSWER_1]
-ca=Cueva de los Mil Budas|Cueva artística|Peña de estatuas|Peña de Buda|
-
-[LANTERN_RIDDLES_ANSWER_2]
-ca=Acantilados|Montañas|Llanuras|Desiertos|
-
-[LANTERN_RIDDLES_ANSWER_3]
-ca=Templado|Árido|Tropical|Subtropical|
-
-[LANTERN_RIDDLES_ANSWER_4]
-ca=Cuevas de Mogao|Montaña cantante|Yangguán|Paisaje de Yadan|
-
-[LANTERN_RIDDLES_ANSWER_5]
-ca=Dinastías del Norte y Sur|Dinastía Han|Dinastía Qin|Dinastía Tang|
-
-[LANTERN_RIDDLES_ANSWER_6]
-ca=Ruta de la Seda|Ruta del Té|Canal de Pekín-Hangzhou|Ruta marítima|
-
-[LANTERN_RIDDLES_ANSWER_7]
-ca=Grandeza|Pueblo feliz|Nombre de un emperador|Melones|
-
-[LANTERN_RIDDLES_ANSWER_8]
-ca=Más de 700|Más de 1.000|Más de 2.000|Más de 3.000|
-
-[LANTERN_RIDDLES_ANSWER_9]
-ca=Patrimonio Cultural de la Humanidad|Patrimonio de Mogao|Patrimonio de Cuevas|Patrimonio Geológico Mundial|
-
-[LANTERN_RIDDLES_ANSWER_10]
-ca=Escrituras budistas|Personajes|Animales|Arquitectura|
-
-[LANTERN_RIDDLES_ANSWER_12]
-ca=La pintura se oxidó|Decisión de los artesanos|Son de ese color|Vandalismo|
-
-[LANTERN_RIDDLES_ANSWER_13]
-ca=Tambor|Guitarra|Flauta|Violín|
-
-[LANTERN_RIDDLES_ANSWER_14]
-ca=Minerales|Eran sintéticos|Vegetales|Insectos|
-
-[LANTERN_RIDDLES_ANSWER_15]
-ca=Morado|Amarillo|Azul|Rojo|
-
-[LANTERN_RIDDLES_ANSWER_16]
-ca=Cultura y religión|Guerras|Agricultura|Vida imperial|
-
-[LANTERN_RIDDLES_ANSWER_17]
-ca=Esparcir flores y bailar|Limpiar|Guiar a personas|Servir de decoración|
-
-[LANTERN_RIDDLES_ANSWER_18]
-ca=Pintura del Monte Wutai|Historia del Rey Ciervo|500 bandidos iluminados|Salida de Zhang Yichao|
-
-[LANTERN_RIDDLES_ANSWER_19]
-ca=Dinastía Tang|Dinastía Song|Dinastías del Norte y Sur|Dinastía Ming|
-
-[LANTERN_RIDDLES_ANSWER_20]
-ca=Pipa|Piano|Violín|Guitarra|
-
-[LANTERN_RIDDLES_ANSWER_21]
-ca=Ciervo de nueve colores|La Mona Lisa|Festival Qingming|Montañas Fuchun|
-
-[LANTERN_RIDDLES_ANSWER_22]
-ca=Más de mil años|Trescientos años|Algunas décadas|Menos de diez años|
-
-[LANTERN_RIDDLES_ANSWER_23]
-ca=Dinastía Tang|Dinastía Song|Dinastías del Norte y del Sur|Dinastía Ming|
-
-[LANTERN_RIDDLES_ANSWER_24]
-ca=Zaojing|Encaje|Patrón|Marco|
-
-[LANTERN_RIDDLES_ANSWER_25]
-ca=Madera, paja y arcilla|Piedra|Madera|Metal|
-
-[LANTERN_RIDDLES_ANSWER_26]
-ca=Figuras budistas|Emperadores antiguos|Gente común|Animales|
-
-[LANTERN_RIDDLES_ANSWER_27]
-ca=30 metros|10 metros|50 metros|100 metros|
-
-[LANTERN_RIDDLES_ANSWER_28]
-ca=Desgaste y daño|Decisión de los artesanos|Fueron comidas por insectos|Son así|
-
-[LANTERN_RIDDLES_ANSWER_29]
-ca=Buda Shakyamuni|Emperador de Jade|Guanyin|Laozi|
-
-[LANTERN_RIDDLES_ANSWER_30]
-ca=Construir la estructura base|Aplicar color|Dejar secar|Pulir|
-
-[LANTERN_RIDDLES_ANSWER_31]
-ca=Escultura adherida|Escultura exenta|Relieve|Escultura en ladrillo|
-
-[LANTERN_RIDDLES_ANSWER_32]
-ca=Enojadas|Adoloridas|Felices|Tristes|
-
-[LANTERN_RIDDLES_ANSWER_33]
-ca=Pincel|Pluma|Lápiz|Marcador|
-
-[LANTERN_RIDDLES_ANSWER_34]
-ca=Antecámara, pasillo y sala principal|Escaleras|Pasillo|Puerta|
-
-[LANTERN_RIDDLES_ANSWER_35]
-ca=Nodo|Destino final|Punto de partida|Lugar irrelevante|
-
-[LANTERN_RIDDLES_ANSWER_36]
-ca=Dinastía Qing|Dinastía Tang|Dinastía Song|Dinastía Ming|
-
-[LANTERN_RIDDLES_ANSWER_37]
-ca=Textos budistas|Oro|Alimentos|Armas|
-
-[LANTERN_RIDDLES_ANSWER_38]
-ca=Chino|Sogdiano|Tochario|Uigur|
-
-[LANTERN_RIDDLES_ANSWER_39]
-ca=Diversos grupos étnicos|Solo han|Solo hui|Solo tibetanos|
-
-[LANTERN_RIDDLES_ANSWER_40]
-ca=Resisten la sequía|Les gusta la arena|Corren muy rápido|Pueden nadar|
-
-[LANTERN_RIDDLES_ANSWER_41]
-ca=Del deshielo de montañas nevadas|Del mar|De pozos artificiales|De la lluvia|
-
-[LANTERN_RIDDLES_ANSWER_42]
-ca=Seco, de lluvia escasa|Caluroso y lluvioso|Frío y seco|Templado y húmedo|
-
-[LANTERN_RIDDLES_ANSWER_43]
-ca=Un monje taoísta|Un agricultor|Un académico|Un funcionario|
-
-[LANTERN_RIDDLES_ANSWER_44]
-ca=Agricultura y comercio|Pesca|Caza|Pastoreo|
-
-[LANTERN_RIDDLES_ANSWER_45]
-ca=Declive de la Ruta de la Seda|Falta de materiales|Los artesanos se fueron|Guerras|
-
-[LANTERN_RIDDLES_ANSWER_46]
-ca=Dinastía Qing|Dinastía Tang|Dinastía Song|Dinastías del Norte y del Sur|
-
-[LANTERN_RIDDLES_ANSWER_47]
-ca=Grande y próspero|Pequeño y débil|Alto y peligroso|Bajo y plano|
-
-[LANTERN_RIDDLES_ANSWER_48]
-ca=Dosel ceremonial|Paraguas|Toldo|Sombrero|
-
-[LANTERN_RIDDLES_ANSWER_49]
-ca=India|Persia|Grecia|Roma|
-
-[LANTERN_RIDDLES_ANSWER_50]
-ca=Cuernos de ciervo|Cuernos de toro|Cuernos de oveja|Colmillos de elefante|
-
-[LANTERN_RIDDLES_ANSWER_51]
-ca=Tomar fotos|Observar en silencio|Seguir indicaciones|Cuidar el patrimonio|
-
-[LANTERN_RIDDLES_ANSWER_52]
-ca=Se decoloran y desprenden fácilmente|Falta de dinero|Falta de protección|Ubicación remota|
-
-[LANTERN_RIDDLES_ANSWER_53]
-ca=Todas las anteriores|Fengduo|Tiemah|Campana espanta-aves|
-
-[LANTERN_RIDDLES_ANSWER_54]
-ca=Sin clasificación|Categoría 5A|Categoría 4A|Categoría 3A|
-
-[LANTERN_RIDDLES_ANSWER_55]
-ca=Rayar los murales|Observar en silencio|Seguir indicaciones|Cuidar el patrimonio|
-
-[LANTERN_RIDDLES_ANSWER_56]
-ca=Leyendo libros y viendo documentales|No aprender|Solo escuchar a otros|Adivinar|
-
-[LANTERN_RIDDLES_ANSWER_57]
-ca=Ananda|Kashyapa|Guanyin|Rey Celestial|
-
-[LANTERN_RIDDLES_ANSWER_58]
-ca=Solo algunas|Todas|Ninguna|Solo 10|
-
-[LANTERN_RIDDLES_ANSWER_59]
-ca=Aprendiendo sobre él|No visitando|Dañando el patrimonio|No hacer nada|
-
-[LANTERN_RIDDLES_ANSWER_60]
-ca=Instrumentos musicales|Libros|Comida|Juguetes|
-
-[LANTERN_RIDDLES_ANSWER_61]
-ca=Rey Celestial|Bodhisattva|Discípulo|Donante|
-
-[LANTERN_RIDDLES_ANSWER_62]
-ca=Según su ubicación geográfica|Por orden cronológico|Por tamaño|Por número de estatuas|
-
-[LANTERN_RIDDLES_ANSWER_63]
-ca=Uvas|Lichi|Mango|Banana|
-
-[LANTERN_RIDDLES_ANSWER_64]
-ca=El escondite|Luz verde|Videojuegos|Tabletas|
-
-[LANTERN_RIDDLES_ANSWER_65]
-ca=Danza Huxuan|Danza moderna|Breakdance|Ballet|
-
-[LANTERN_RIDDLES_ANSWER_66]
-ca=Cuadrada|Circular|Ovalada|Irregular|
-
-[LANTERN_RIDDLES_ANSWER_67]
-ca=Seda, tela de cáñamo y papel|Madera|Plástico|Placas de cobre|
-
-[LANTERN_RIDDLES_ANSWER_68]
-ca=El ciervo de nueve colores|Peppa Pig|Beastars|One Piece|
-
-[LANTERN_RIDDLES_ANSWER_69]
-ca=Desierto alto|No alto|El más alto|Con altura|
-
-[LANTERN_RIDDLES_ANSWER_70]
-ca=Feitian|Buda|Arhat|Donante|
-
-[LANTERN_RIDDLES_ANSWER_71]
-ca=Loto|Rosa|Peonía|Crisantemo|
-
-[LANTERN_RIDDLES_ANSWER_72]
-ca=Kashyapa|Ananda|Guanyin|Rey Celestial|
-
-[LANTERN_RIDDLES_ANSWER_73]
-ca=10|7|5|13|
-
-[LANTERN_RIDDLES_ANSWER_74]
-ca=Se dispersaron en el extranjero|Permanecieron en China|Se perdieron|Fueron destruidos|
-
-[LANTERN_RIDDLES_ANSWER_75]
-ca=Desierto|Bosque|Océano|Pradera|
-
-[LANTERN_RIDDLES_ANSWER_76]
-ca=Budismo|Cristianismo|Islam|Taoísmo|
-
-[LANTERN_RIDDLES_ANSWER_77]
-ca=Camello|Caballo|Buey|Burro|
-
-[LANTERN_RIDDLES_ANSWER_78]
-ca=Envejecimiento|Daño humano|Lluvia|Viento|
-
-[LANTERN_RIDDLES_ANSWER_80]
-ca=Decoración|Ventana|Iluminación|Ventilación|
-
-[LANTERN_RIDDLES_ANSWER_81]
-ca=Una ruta clave|La costa|Zona montañosa|Llanura|
-
-[LANTERN_RIDDLES_ANSWER_82]
-ca=Rituales budistas|Vivienda|Guardar alimentos|Guerra|
-
-[LANTERN_RIDDLES_ANSWER_83]
-ca=Azul lapislázuli|Rojo ocre|Amarillo tierra|Negro tinta|
-
-[LANTERN_RIDDLES_ANSWER_84]
-ca=Satisfacer el deseo|Enojo|Rechazo|Cansancio|
-
-[LANTERN_RIDDLES_ANSWER_85]
-ca=Murales y esculturas|Caligrafía y pintura|Solo esculturas|Solo murales|
-
-[LANTERN_RIDDLES_ANSWER_86]
-ca=1987|1977|1997|2007|
-
-[LANTERN_RIDDLES_ANSWER_87]
-ca=Proteger el patrimonio|Hacer ruido|Tomar fotos|Tirar basura|
-
-[LANTERN_RIDDLES_ANSWER_88]
-ca=El vuelo|Estética|Decoración|Abrigo|
-
-[LANTERN_RIDDLES_ANSWER_89]
-ca=Dinastía Ming|Dinastía Tang|Dinastía Song|Dinastías del Norte y Sur|
+ca=A|B|C|D|
 
 [LANTERN_RIDDLES_BACK]
 VOLVER
@@ -44332,34 +43810,34 @@ La Búsqueda de Penny
 Examen de admisión
 
 [PENNY_CLASSROOM_BEGINNER_LEVEL_TITLE]
-El examen de admisión de {NAME}
+¡Examen de admisión!
 
 [PENNY_CLASSROOM_EASY_LEVEL]
-Examen básico
+Examen
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_CHOMPER]
-Planta carnívora puede acabar con los zombis de un bocado. Incluso, puede tragarse algunos zombis con habilidades especiales.
+Planta carnívora puede acabar con los zombis de un bocado
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_ELECTRICBLUEBERRY]
-Arándano eléctrico electrocuta a los zombis con sus poderosas nubes de tormenta. Mejóralo al Nivel 3 para que su rango de alcance se expanda a todo el patio.
+Arándano eléctrico electrocuta a los zombis con sus poderosas nubes de tormenta
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_PRIMALSUNFLOWER]
-Hierba lupa hace un daño decente, pero solo si hay suficiente sol. Plántala junto a Girasol primitivo y verás que buen equipo hacen.
+Hierba lupa hace un daño decente, pero solo si hay suficiente sol
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_SQUASH]
-Apisonaflor aplasta a los zombis que se le acerquen. Reune a los zombis en una misma casilla para eliminarlos de un pisotón.
+Apisonaflor aplasta a los zombis que se le acerquen
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_TALLNUT]
-Nuez cáscara-rabias puede bloquear zombis terrestres y voladores. Mejórala al Nivel 3 para causar grandes daños en un área mediana.
+Nuez cáscara-rabias puede bloquear zombis terrestres y voladores
 
 [PENNY_CLASSROOM_EASY_LEVEL_LOCK_DESC]
 Se desbloquea después de completar el ^FF0000^Examen de admisión^oldclr^
 
 [PENNY_CLASSROOM_EASY_LEVEL_TITLE]
-El examen básico de {NAME}
+¡Examen!
 
 [PENNY_CLASSROOM_FINAL_BONUS_TIPS]
-¡Completa el Examen final para convertirte en un experto en botánica y ganar ^ED7424^plantas de Nivel 4^oldclr^!
+¡Completa el Examen final para ganar ^ED7424^plantas de Nivel 4^oldclr^!
 
 [PENNY_CLASSROOM_FINAL_BONUS_TITLE]
 Recompensa final
@@ -44374,52 +43852,52 @@ Premios por aprobación
 Examen final
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_CHOMPER]
-Tras alcanzar el Nivel 5, Planta carnívora puede crecer a un tamaño colosal y devorarse a todos los zombis que estén 3 casillas frente a ella.
+Tras alcanzar el Nivel 5, Planta carnívora puede devorarse a muchos zombis
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_ELECTRICBLUEBERRY]
-Tras alcanzar el Nivel 5, Arándano eléctrico puede liberar una gran nube de tormenta que arrasa con hordas de zombis en un patrón de cruz.
+Tras alcanzar el Nivel 5, Arándano eléctrico puede liberar una gran nube de tormenta
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_PRIMALSUNFLOWER]
-A medida que más plantes Tomates definitivos o Estrellas nucleares, más costosas se vuelven. Es en esos momentos cuando necesitas a Girasol primitivo.
+Planta muchos Girasoles primitivos para tener un buen suministro de sol 
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_SQUASH]
-Después de aplastar a un zombi, Apisonaflor desaparecerá. Súbelo de Nivel para que pueda permanecer por más tiempo en el patio y aplastar a más zombis.
+Apisonaflor puede aplastar más zombis con mayor nivel de planta
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_TALLNUT]
-Al usar Nutrientes, Nuez cáscara-rabias obtiene una armadura extremadamente resistente y util para bloquear a los zombis voladores.
+Nuez cáscara-rabias gana una armadura resistente cuando usa Nutrientes
 
 [PENNY_CLASSROOM_HARD_LEVEL_LOCK_DESC]
-Se desbloquea después de completar el ^FF0000^Examen avanzando^oldclr^
+Se desbloquea después de completar el ^FF0000^Examen intermedio^oldclr^
 
 [PENNY_CLASSROOM_HARD_LEVEL_TITLE]
-El examen final de {NAME}
+¡Examen final!
 
 [PENNY_CLASSROOM_LEVEL_BTN]
 CURSO
 
 [PENNY_CLASSROOM_NORMAL_LEVEL]
-Examen avanzado
+Examen intermedio
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_CHOMPER]
-El eructo de Planta carnívora empuja a los zombis por la línea. Puedes combinarlo con el dulce encanto de Boniato para repeler y atraer zombis.
+Combina el eructo de Planta carnívora con Boniato para empujar y atraer zombis
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_ELECTRICBLUEBERRY]
-Cuando Arándano eléctrico alcanza el Nivel 4, puede electrocutar a múltiples zombis a la vez al plantarse si es potenciado por el efecto de Nutrientes.
+Sube a Arándano eléctrico al Nvl. 4 para electrocutar a múltiples zombis
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_PRIMALSUNFLOWER]
-Puedes combinar a Rábano casillero con Girasol primitivo. Una alta producción de soles permite plantarlo cuando su coste es muy elevado.
+Rábano casillero y Girasol primitivo hacen muy buen equipo, ¡prúebalo!
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_SQUASH]
-Algunos zombis tienen habilidades especiales de largo alcance que pueden anularse con la fuerza de Apisonaflor.
+Apisonaflor es muy bueno contra zombis de gran blindaje
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_TALLNUT]
-Gracias a su resistencia, Nuez cáscara-rabias es una planta efectiva para bloquear gallinas y comadrejas.
+Nuez cáscara-rabias es efectiva para bloquear gallinas y comadrejas
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_LOCK_DESC]
-Se desbloquea después de completar el ^FF0000 Examen de evaluación básica ^oldclr.
+Se desbloquea después de completar el ^FF0000^Examen básico^oldclr^
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_TITLE]
-El examen avanzado de {NAME}
+¡Examen intermedio!
 
 [PENNY_CLASSROOM_PLANT_DESC_CHOMPER]
 ^A0522D^Habilidad:^oldclr^ devora un zombi y después lo mastica un rato
@@ -44479,767 +43957,768 @@ Temática del examen
 [PENNY_CLASSROOM_START_LEVEL_TITLE]
 Descripción del curso
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_0_CHOMPER]
-Producir soles|ca=Infligir daño a los zombis|Bloquear zombis|Curar a las plantas dañadas|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_0_ELECTRICBLUEBERRY]
-Producir soles|ca=Infligir daño a los zombis|Bloquear zombis|Curar a las plantas dañadas|
+[PENNY_CLASSROOM_SURVEY_QUESTION_0_PRIMALSUNFLOWER]
+¿Cuál es la función principal de Girasol primitivo?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_PRIMALSUNFLOWER]
-ca=Producir soles|Infligir daño a los zombis|Bloquear zombis|Curar a las plantas dañadas|
+ca=Producir soles|Dañar zombis|Bloquear zombis|Curar plantas|
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_0_SQUASH]
-Producir soles|ca=Infligir daño a los zombis|Bloquear zombis|Curar a las plantas dañadas|
+[PENNY_CLASSROOM_SURVEY_CORRECT_0_PRIMALSUNFLOWER]
+¡Correcto!
+Girasol primitivo produce soles.
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_0_TALLNUT]
-Producir soles|Infligir daño a los zombis|ca=Bloquear zombis|Curar a las plantas dañadas|
+[PENNY_CLASSROOM_SURVEY_WRONG_0_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: pertenece a la familia solar.
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_1_CHOMPER]
-ca=Plantarla delante para atacar a los zombis|Plantarla delante para bloquear zombis|Plantarla detrás para producir sol|Plantarla detrás para atacar a los zombis|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_1_ELECTRICBLUEBERRY]
-Plantarlo delante para bloquear zombis|Plantarlo detrás para producir sol|Plantarlo delante para atacar a los zombis|ca=Plantarlo detrás para atacar a los zombis|
+[PENNY_CLASSROOM_SURVEY_QUESTION_1_PRIMALSUNFLOWER]
+¿Dónde conviene plantar a Girasol primitivo?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_PRIMALSUNFLOWER]
-Plantarlo delante para bloquear zombis|Plantarlo detrás para atacar a los zombis|ca=Plantarlo detrás para producir sol|Plantarlo delante para producir sol|
+ca=Detrás|Delante|Encima de plantas|En lápidas|
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_1_SQUASH]
-ca=Plantarla delante para atacar a los zombis|Plantarla detrás para bloquear zombis|Plantarla detrás para atacar a los zombis|Plantarla delante para producir sol|
+[PENNY_CLASSROOM_SURVEY_CORRECT_1_PRIMALSUNFLOWER]
+¡Correcto!
+Se planta detrás, donde puede producir sol sin peligro.
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_1_TALLNUT]
-ca=Plantarla delante para bloquear zombis|Plantarla detrás para bloquear zombis|Plantarla detrás para producir sol|Plantarla detrás para atacar a los zombis|
+[PENNY_CLASSROOM_SURVEY_WRONG_1_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: debe estar lejos de los zombis.
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_2_CHOMPER]
-ca=Vulnerable|Veloz|Inmune|Lenta
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_2_ELECTRICBLUEBERRY]
-ca=Verdadero|Falso| | |
+[PENNY_CLASSROOM_SURVEY_QUESTION_2_PRIMALSUNFLOWER]
+Girasol primitivo produce soles...
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_PRIMALSUNFLOWER]
 ca=Grandes|Explosivos|Normales|Pequeños|
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_2_SQUASH]
-La casilla donde está plantada|1 casilla a la derecha|1 casilla a la izquierda|ca=1 casilla a la izquierda y 1 a la derecha|
+[PENNY_CLASSROOM_SURVEY_CORRECT_2_PRIMALSUNFLOWER]
+¡Correcto!
+Girasol primitivo produce soles grandes.
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_2_TALLNUT]
-Puede atacar más rápido|Puede detectar zombis invisibles|Salta más alto|ca=Bloquea a los zombis que vuelan bajo|
+[PENNY_CLASSROOM_SURVEY_WRONG_2_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: cada sol vale más de lo normal.
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_3_CHOMPER]
-Verdadero|ca=Falso| | |
+[PENNY_CLASSROOM_SURVEY_QUESTION_3_PRIMALSUNFLOWER]
+¿Qué mejora recibe Girasol primitivo en Pantano del Jurásico?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_3_PRIMALSUNFLOWER]
+ca=Produce más sol|Aumenta su salud|Hace más daño|Cuesta menos sol|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_3_PRIMALSUNFLOWER]
+¡Correcto!
+En Pantano del Jurásico produce soles adicionales.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_3_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: su producción solar aumenta en su mundo natal.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_4_PRIMALSUNFLOWER]
+¿Qué obtiene Girasol primitivo al Nivel 2?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_4_PRIMALSUNFLOWER]
+ca=Chance de dar sol extra|Dispara un rayo|Hace daño continuo|Aturde zombis|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_4_PRIMALSUNFLOWER]
+¡Correcto!
+Al Nivel 2 puede producir soles adicionales.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_4_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: mejora su producción de sol.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_5_PRIMALSUNFLOWER]
+¿Qué obtiene Girasol primitivo al Nivel 3?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_5_PRIMALSUNFLOWER]
+ca=Siempre da sol extra|Dispara bolas de fuego|Congela zombis|Da monedas|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_5_PRIMALSUNFLOWER]
+¡Correcto!
+Al Nivel 3 siempre produce sol extra.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_5_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: mejora la probabilidad del Nivel 2 hasta el máximo.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_6_PRIMALSUNFLOWER]
+¿Qué obtiene Girasol primitivo al Nivel 4?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_6_PRIMALSUNFLOWER]
+ca=Chance Nutrientes al plantarlo|Recarga rápida|Reembolso solar|Modo invencible|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_6_PRIMALSUNFLOWER]
+¡Correcto!
+Desde el Nivel 4 puede recibir Nutrientes al plantarlo.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_6_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: puede activar una habilidad poderosa al ser plantado.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_7_PRIMALSUNFLOWER]
+¿Cómo se llama su habilidad de Nivel 5?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_7_PRIMALSUNFLOWER]
+ca=Pétalos iluminados|Guisantes de plasma|Pequeña cereza|GEAR 5|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_7_PRIMALSUNFLOWER]
+¡Correcto!
+"Pétalos iluminados" le permite producir mucho sol.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_7_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: está relacionada con una parte de una flor.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_8_PRIMALSUNFLOWER]
+¿Cuál es su habilidad de Nutrientes?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_8_PRIMALSUNFLOWER]
+ca=Dar muchos soles|Rayo láser|Lluvia de guisantes|Potencia plantas cercanas|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_8_PRIMALSUNFLOWER]
+¡Correcto!
+Con Nutrientes produce muchos soles al instante.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_8_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: aumenta la producción de inmediato.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_9_PRIMALSUNFLOWER]
+¿Qué hace su atuendo?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_9_PRIMALSUNFLOWER]
+ca=Producir una moneda gigante|Dispara fuego|Soles infinitos|Recarga instantánea|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_9_PRIMALSUNFLOWER]
+¡Correcto!
+Su atuendo produce una moneda de oro gigante.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_9_PRIMALSUNFLOWER]
+Incorrecto.
+Pista: recompensa al jugador con riqueza.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_0_ELECTRICBLUEBERRY]
+¿Cuál es la función principal de Arándano eléctrico?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_0_ELECTRICBLUEBERRY]
+ca=Dañar zombis|Producir sol|Bloquear zombis|Curar plantas|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_0_ELECTRICBLUEBERRY]
+¡Correcto!
+Arándano eléctrico ataca y daña zombis.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_0_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: invoca nubes de rayos.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_1_ELECTRICBLUEBERRY]
+¿Dónde conviene plantar a Arándano eléctrico?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_1_ELECTRICBLUEBERRY]
+ca=En zona segura|En primera línea|Sobre otras plantas|En lápidas|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_1_ELECTRICBLUEBERRY]
+¡Correcto!
+Debe plantarse en una zona segura para atacar a distancia.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_1_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: hace mucho daño, pero resiste poco.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_2_ELECTRICBLUEBERRY]
+Sus nubes de rayos pueden perseguir zombis.
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_2_ELECTRICBLUEBERRY]
+ca=Verdadero|Falso| | |
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_2_ELECTRICBLUEBERRY]
+¡Correcto!
+Sus nubes de rayos persiguen zombis para dañarlos.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_2_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: las nubes buscan a sus objetivos.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_3_ELECTRICBLUEBERRY]
+Al principio, su alcance es de 3 casillas a cada lado.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_ELECTRICBLUEBERRY]
 ca=Verdadero|Falso| | |
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_3_PRIMALSUNFLOWER]
-Aumenta su salud|Aumenta su poder de ataque|ca=Produce soles adicionales|Se reduce su coste en soles|
+[PENNY_CLASSROOM_SURVEY_CORRECT_3_ELECTRICBLUEBERRY]
+¡Correcto!
+Su alcance inicial cubre 3 casillas a cada lado.
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_3_SQUASH]
-ca=Falso|Verdadero| | |
+[PENNY_CLASSROOM_SURVEY_WRONG_3_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: puede atacar a ambos lados, pero no toda la fila.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_4_ELECTRICBLUEBERRY]
+¿Qué obtiene Arándano eléctrico al Nivel 2?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_4_ELECTRICBLUEBERRY]
+ca=Alcance de toda la fila|Lanza mantequilla|Dispara estrellas|Alarga veneno|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_4_ELECTRICBLUEBERRY]
+¡Correcto!
+Al Nivel 2, sus nubes pueden perseguir zombis por toda la fila.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_4_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: mejora la capacidad de rastreo de sus nubes.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_5_ELECTRICBLUEBERRY]
+¿Qué obtiene Arándano eléctrico al Nivel 3?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_5_ELECTRICBLUEBERRY]
+ca=Alcance de todo el campo|Mejora fuego azul|Deja minas|Dispara guisantes|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_5_ELECTRICBLUEBERRY]
+¡Correcto!
+Al Nivel 3, sus nubes pueden perseguir zombis por todo el campo.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_5_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: sus nubes ya no se limitan a una fila.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_6_ELECTRICBLUEBERRY]
+¿Qué obtiene Arándano eléctrico al Nivel 4?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_6_ELECTRICBLUEBERRY]
+ca=Chance Nutrientes al plantarlo|Reembolso solar|Escudo|Daño de área|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_6_ELECTRICBLUEBERRY]
+¡Correcto!
+Desde el Nivel 4 puede recibir Nutrientes al plantarlo.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_6_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: puede activar una habilidad poderosa al ser plantado.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_7_ELECTRICBLUEBERRY]
+¿Qué obtiene Arándano eléctrico al Nivel 5?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_7_ELECTRICBLUEBERRY]
+ca=Nube de rayos en cruz|Lanza rocas|Mejora fuego morado|Devuelve sol|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_7_ELECTRICBLUEBERRY]
+¡Correcto!
+Al Nivel 5 puede convertir su nube en una nube de rayos en cruz.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_7_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: puede atacar a varios zombis en distintas direcciones.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_8_ELECTRICBLUEBERRY]
+¿Cuál es su habilidad de Nutrientes?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_8_ELECTRICBLUEBERRY]
+ca=Nube gigante de 3 ataques|Lanza fuego|Mejora plantas|Corte de espada|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_8_ELECTRICBLUEBERRY]
+¡Correcto!
+Libera una nube gigante que ataca 3 veces seguidas.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_8_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: crea una versión mucho más fuerte de su nube.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_9_ELECTRICBLUEBERRY]
+¿Qué hace su atuendo?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_9_ELECTRICBLUEBERRY]
+ca=Encoge y debilita zombis|Produce más sol|Deja jugo de uva|Lanza mantequilla|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_9_ELECTRICBLUEBERRY]
+¡Correcto!
+Su nube gigante encoge zombis y reduce sus habilidades por un tiempo.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_9_ELECTRICBLUEBERRY]
+Incorrecto.
+Pista: sus rayos debilitan zombis.
+
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_0_TALLNUT]
+¿Cuál es la función principal de Nuez cáscara-rabias?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_0_TALLNUT]
+ca=Bloquear zombis|Producir sol|Dañar zombis|Curar plantas|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_0_TALLNUT]
+¡Correcto!
+Nuez cáscara-rabias bloquea el avance de los zombis.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_0_TALLNUT]
+Incorrecto.
+Pista: es una nuez con una cáscara muy resistente.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_1_TALLNUT]
+¿Dónde conviene plantar a Nuez cáscara-rabias?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_1_TALLNUT]
+ca=En primera línea|En zona segura|Para producir sol|Para atacar|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_1_TALLNUT]
+¡Correcto!
+Se planta en primera línea para detener zombis.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_1_TALLNUT]
+Incorrecto.
+Pista: tiene mucha vida y resiste ataques.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_2_TALLNUT]
+¿Qué ventaja tiene su gran altura?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_2_TALLNUT]
+ca=Bloquea zombis voladores|Se mueve más rápido|Salta más alto|Ve más lejos|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_2_TALLNUT]
+¡Correcto!
+Nuez cáscara-rabias puede bloquear zombis voladores.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_2_TALLNUT]
+Incorrecto.
+Pista: su altura detiene zombis que pasan por arriba.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_3_TALLNUT]
+Con Primeros auxilios para Nueces, se puede plantar otra encima para curarla.
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_TALLNUT]
 ca=Verdadero|Falso| | |
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_4_CHOMPER]
-Gana la probabilidad de lanzar zombis con salud baja fuera del patio|Aumenta el poder de ataque de las plantas cercanas|ca=Empuja a los zombis hacia atrás; se reduce su tiempo de digestión|La duración de las llamaradas aumenta en un segundo|
+[PENNY_CLASSROOM_SURVEY_CORRECT_3_TALLNUT]
+¡Correcto!
+Primerios axulios para Nueces permite curar nueces si se planta otra encima.
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_4_ELECTRICBLUEBERRY]
-Gana la probabilidad de lanzar mantequilla a los zombis|Gana la probabilidad de disparar estrellas rojas|ca=Gana la habilidad de atacar a cualquier zombi de su línea|Aumenta la duración del veneno|
+[PENNY_CLASSROOM_SURVEY_WRONG_3_TALLNUT]
+Incorrecto.
+Pista: Primerios axulios para Nueces permite curar nueces al superponerlas.
 
-[PENNY_CLASSROOM_SURVEY_ANSWER_4_PRIMALSUNFLOWER]
-ca=Gana la probabilidad de producir soles adicionales|Sus ataques causan daño continuo|Dispara 2 láseres en lugar de 1|Sus ataques tienen la posibilidad de aturdir zombis|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_4_SQUASH]
-Usarla para dañar zombis grandes|Plantarla para eliminar zombis pequeños y medianos|Usarla para ahorrar soles por su bajo coste|ca=Plantarla detrás para producir sol|
+[PENNY_CLASSROOM_SURVEY_QUESTION_4_TALLNUT]
+¿Cuánta vida tiene frente a una Nuez normal?
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_TALLNUT]
-1 Nuez|3 Nueces|4 Nueces|ca=2 Nueces|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_5_CHOMPER]
-Aumenta la probabilidad de lanzar púas eléctricas|Gana la probabilidad de disparar 2 semillas de manzana a la vez|ca=Empuja a los zombis más lejos; se reduce su tiempo de digestión aún más|Al ser destruida, dejará una pequeña versión de si misma|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_5_ELECTRICBLUEBERRY]
-ca=Gana la habilidad de atacar a cualquier zombi del patio|Gana la probabilidad de disparar estrellas azules|Gana la probabilidad de que al explotar, genere una Papapúm|Gana la probabilidad de disparar guisantes de fuego azules|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_5_PRIMALSUNFLOWER]
-Convierte los soles en fuego|ca=Aumenta la probabilidad de producir soles adicionales|Sus ataques tienen la posibilidad de congelar zombis|Gana la probabilidad de lanzar 3 rebanas de sandía|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_5_SQUASH]
-ca=Gana la probabilidad de permanecer en el patio tras aplastar a un zombi|Por cada 15 golpes realizados, realizará un gancho|Gana la probabilidad de disparar 2 cardos a la vez|Gana la habilidad de regenerar sus hojas caídas|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_5_TALLNUT]
-Gana la habilidad de atacar a los zombis|ca=Gana la probabilidad de caer y dañar zombis cuando es destruida|Gana la habilidad de reducir a los zombis cercanos|Gana la probabilidad de liberar un relámpago rojo|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_6_CHOMPER]
-Gana la probabilidad de devolver los soles que cuesta al plantarse|Gana la probabilidad de ser invencible al plantarse|Gana la probabilidad de infligir daño de área al plantarse|ca=Gana la probabilidad de ser potenciada por el efecto de Nutrientes al plantarse|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_6_ELECTRICBLUEBERRY]
-Gana la probabilidad de devolver los soles que cuesta al plantarse|Gana la probabilidad de ser invencible al plantarse|Gana la probabilidad de infligir daño de área al plantarse|ca=Gana la probabilidad de ser potenciado por el efecto de Nutrientes al plantarse|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_6_PRIMALSUNFLOWER]
-Gana la probabilidad de devolver los soles que cuesta al plantarse|Gana la probabilidad de ser invencible al plantarse|Gana la probabilidad de infligir daño de área al plantarse|ca=Gana la probabilidad de ser potenciado por el efecto de Nutrientes al plantarse|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_6_SQUASH]
-ca=Aumenta la probabilidad de permanecer en el patio tras aplastar a un zombi|Su tiempo de recuperación es reducido|Gana la probabilidad de disparar balas perforantes|Gana la probabilidad de lanzar un fuerte rayo|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_6_TALLNUT]
-ca=Aumenta la probabilidad de caer y dañar zombis cuando es destruida|Gana la habilidad de atraer a los zombis cercanos|Deja semillas explosivas al ser destruida|Se reduce su tiempo de recuperación|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_7_CHOMPER]
-ca=Gana la probabilidad de crecer a un tamaño colosal y devorarse a múltiples zombis|Gana la habilidad de golpear a los zombis 7 veces seguidas|Gana la habilidad de atacar con fuego púrpura|Gana la probabilidad de lanzar un cactus pequeño|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_7_ELECTRICBLUEBERRY]
-Gana la probabilidad de disparar una roca|Gana la habilidad de atacar con fuego púrpura|ca=Gana la probabilidad de crear una gran nube de tormenta|Devuelve los soles que cuesta al plantarse|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_7_PRIMALSUNFLOWER]
-Gana la habilidad de atacar con guisantes plasmáticos|Gana la probabilidad de liberar relámpagos rojos|ca=Ilumina sus pétalos y produce soles adicionales cuando todos están iluminados|Gana la probabilidad de crear una Petacereza pequeña|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_7_SQUASH]
-Gana la probabilidad de devolver los soles que cuesta al plantarse|Gana la probabilidad de ser invencible al plantarse|Gana la probabilidad de infligir daño de área al plantarse|ca=Gana la probabilidad de ser potenciado por el efecto de Nutrientes al plantarse|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_7_TALLNUT]
-Gana la probabilidad de devolver los soles que cuesta al plantarse|Gana la probabilidad de ser invencible al plantarse|Gana la probabilidad de infligir daño de área al plantarse|ca=Gana la probabilidad de ser potenciada por el efecto de Nutrientes al plantarse|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_8_CHOMPER]
-Dispara una ráfaga ondeante de guisantes|Lanza coles gigantes a todos los zombis y obstáculos|ca=Atrae a varios zombis, se los devora y eructa para empujar a los demás|Dispara una ráfaga de guisantes, seguida de un guisante gigante|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_8_ELECTRICBLUEBERRY]
-Echa fuego en un área de 3x3 en frente de ella|Aumenta el poder de ataque de las plantas cercanas|ca=Electrocuta a 3 zombis al azar|Envía una onda de choque que inflige daño masivo|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_8_PRIMALSUNFLOWER]
-Hace que todas las plantas sean invencibles|Dispara un poderoso rayo de arcoiris a los zombis|ca=Produce múltiples soles al instante|Aumenta el poder y la velocidad de ataque de las plantas cercanas|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_8_SQUASH]
-Transforma un zombi en un Hongo|Envenena a todos los zombis en pantalla|ca=Aplasta a 2 objetivos aleatorios; luego, regresa a su posición inicial|Dispara 4 ráfagas heladas por el patio|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_8_TALLNUT]
-ca=Se reviste de una armadura metálica pesada|Cura las plantas de sus alrededores|Dispara joyas a todos los zombis del patio|Dispara 3 misiles que dejan llamaradas radioactivas|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_9_CHOMPER]
-Dispara bolas de fuego junto con su efecto de Nutrientes ordinario|Emite un láser púrpura y más grande, que inflige daño por salpicadura|Crea 3 clones de si mismo en lugar de 2|ca=Se prolonga la duración de su súper-eructo|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_9_ELECTRICBLUEBERRY]
-ca=Reduce y debilita a los zombis electrocutados|Aumenta la producción solar|Deja un charco de mermelada de uva|Lanza mantequilla en llamas|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_9_PRIMALSUNFLOWER]
-Dispara guisantes en llamas gigantes|ca=Da una moneda de oro gigante|Los charcos de agua helada congelan zombis|Reduce la recarga del paquete de semillas|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_9_SQUASH]
-Dispara un laser rojo que inflige más daño|Lanza flechas en llamas|ca=Ataca a 3 objetivos en lugar de 2|Aplasta a los zombis dos veces y los entierra bajotierra por un tiempo|
-
-[PENNY_CLASSROOM_SURVEY_ANSWER_9_TALLNUT]
-Cuando el fruto gigante explote, creará 3 pequeños|ca=Se reviste de una armadura de cristal pesada|Dispara bayas gigantes en llamas|Dispara guisantes de hielo, fuego y de fuego azul, junto a los normales|
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_0_CHOMPER]
-¡La respuesta es correcta!
-La función de Planta carnívora es infligir daño a los zombis.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_0_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-La función de Arándano eléctrico es infligir daño a los zombis.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_0_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-La función de Girasol primitivo es producir soles.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_0_SQUASH]
-¡La respuesta es correcta!
-La función de Apisonaflor es infligir daño a los zombis.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_0_TALLNUT]
-¡La respuesta es correcta!
-La función de Nuez cáscara-rabias es bloquear zombis.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_1_CHOMPER]
-¡La respuesta es correcta!
-Planta carnívora se planta delante para atacar a los zombis.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_1_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-Arándano eléctrico se planta detrás para atacar a los zombis.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_1_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-Girasol primitivo se planta detrás para producir sol.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_1_SQUASH]
-¡La respuesta es correcta!
-Apisonaflor se planta delante para atacar a los zombis.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_1_TALLNUT]
-¡La respuesta es correcta!
-Nuez cáscara-rabias se planta delante para bloquear zombis.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_2_CHOMPER]
-¡La respuesta es correcta!
-Planta carnívora se vuelve vulnerable mientras mastica.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_2_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-Las nubes de tormenta desatadas por Arándano eléctrico pueden perseguir a los zombis.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_2_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-Girasol primitivo da soles grandes.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_2_SQUASH]
-¡La respuesta es correcta!
-El rango de alcance de Apisonaflor es 1 casilla a la izquierda y 1 a la derecha.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_2_TALLNUT]
-¡La respuesta es correcta!
-Nuez cáscara-rabias bloquea a los zombis que vuelan bajo.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_3_CHOMPER]
-¡La respuesta es correcta!
-Planta carnívora no puede devorar zombis grandes; en lugar de engullírselos, les da mordiscos para infligirles daño.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_3_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-Arándano eléctrico ataca 3 casillas a la izquierda y 3 a la derecha.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_3_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-Girasol primitivo produce soles adicionales cuando se planta en Pantano del Jurásico.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_3_SQUASH]
-¡La respuesta es correcta!
-Tras aplastar a un zombi, Apisonaflor no se vuelve invencible; más bien, desaparece.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_3_TALLNUT]
-¡La respuesta es correcta!
-Nuez cáscara-rabias puede recuperar su salud si se planta otra encima con los Primeros auxilios para nueces.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_4_CHOMPER]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 2, Planta carnívora gana la habilidad de empujar a los zombis hacia atrás mientras se reduce su tiempo de digestión.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_4_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-Arándano eléctrico gana la habilidad de atacar a cualquier zombi de su línea tras alcanzar el Nivel 2.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_4_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-Girasol primitivo gana la probabilidad de producir soles adicionales tras alcanzar el Nivel 2.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_4_SQUASH]
-¡La respuesta es correcta!
-Apisonaflor no produce soles, y por ello, se planta delante para atacar a los zombis.
+ca=2 veces|1 vez|1.2 veces|1.5 veces|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_4_TALLNUT]
-¡La respuesta es correcta!
-La salud de Nuez cáscara-rabias equivale a 2 Nueces.
+¡Correcto!
+Tiene 8000 de vida, el doble que una Nuez normal.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_5_CHOMPER]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 3, Planta carnívora empuja a los zombis más lejos mientras mastica aún más rapido.
+[PENNY_CLASSROOM_SURVEY_WRONG_4_TALLNUT]
+Incorrecto.
+Pista: una Nuez normal tiene 4000 de vida.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_5_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-Arándano eléctrico gana la habilidad de atacar a cualquier zombi del patio tras alcanzar el Nivel 3.
+[PENNY_CLASSROOM_SURVEY_QUESTION_5_TALLNUT]
+¿Qué obtiene Nuez cáscara-rabias al Nivel 2?
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_5_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 3, la probabilidad de que Girasol primitivo produzca soles adicionales aumenta.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_5_SQUASH]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 2, Apisonaflor gana la probabilidad de permanecer en el patio tras aplastar a un zombi.
+[PENNY_CLASSROOM_SURVEY_ANSWER_5_TALLNUT]
+ca=Puede caer y dañar|Ataca a la derecha|Encoge zombis|Lanza rayos|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_5_TALLNUT]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 2, Nuez cáscara-rabias gana la probabilidad de caer y dañar zombis cuando es destruida.
+¡Correcto!
+Al Nivel 2, puede caer a la derecha al morir y dañar zombis.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_6_CHOMPER]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 4, Planta carnívora gana la probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
+[PENNY_CLASSROOM_SURVEY_WRONG_5_TALLNUT]
+Incorrecto.
+Pista: al morir, puede usar su gran cuerpo como ataque.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_6_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 4, Arándano eléctrico gana la probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
+[PENNY_CLASSROOM_SURVEY_QUESTION_6_TALLNUT]
+¿Qué obtiene Nuez cáscara-rabias al Nivel 3?
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_6_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 4, Girasol primitivo gana la probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_6_SQUASH]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 3, la probabilidad de que Apisonaflor permanezca en el patio tras aplastar a un zombi aumenta.
+[PENNY_CLASSROOM_SURVEY_ANSWER_6_TALLNUT]
+ca=Siempre cae y daña|Atrae zombis|Deja semillas bomba|Reduce recarga|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_6_TALLNUT]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 3, la probabilidad de que Nuez cáscara-rabias caiga y dañe zombis cuando es destruida aumenta.
+¡Correcto!
+Al Nivel 3, siempre cae a la derecha al morir y daña zombis.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_7_CHOMPER]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 5, Planta carnívora gana la probabilidad de crecer a un tamaño colosal y devorarse a múltiples zombis.
+[PENNY_CLASSROOM_SURVEY_WRONG_6_TALLNUT]
+Incorrecto.
+Pista: mejora la habilidad obtenida al Nivel 2.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_7_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 5, Arándano eléctrico gana la probabilidad de crear una gran nube de tormenta.
+[PENNY_CLASSROOM_SURVEY_QUESTION_7_TALLNUT]
+¿Qué obtiene Nuez cáscara-rabias al Nivel 4?
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_7_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 5, Girasol primitivo ilumina sus pétalos y produce soles adicionales cuando todos están iluminados.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_7_SQUASH]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 4, Apisonaflor gana la probabilidad de ser potenciado por el efecto de Nutrientes al plantarse.
+[PENNY_CLASSROOM_SURVEY_ANSWER_7_TALLNUT]
+ca=Chance Nutrientes al plantarse|Reembolso solar|Obtiene escudo|Daño de área|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_7_TALLNUT]
-¡La respuesta es correcta!
-Tras alcanzar el Nivel 4, Nuez cáscara-rabias gana la probabilidad de ser potenciada por el efecto de Nutrientes al plantarse.
+¡Correcto!
+Desde el Nivel 4 puede recibir Nutrientes al plantarlo.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_8_CHOMPER]
-¡La respuesta es correcta!
-El efecto de Nutrientes de Planta carnívora es atraer a varios zombis, devorárselos y eructar para empujar a los demás.
+[PENNY_CLASSROOM_SURVEY_WRONG_7_TALLNUT]
+Incorrecto.
+Pista: puede activar una habilidad poderosa al ser plantada.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_8_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-El efecto de Nutrientes de Arándano eléctrico es electrocutar a 3 zombis al azar.
+[PENNY_CLASSROOM_SURVEY_QUESTION_8_TALLNUT]
+¿Cuál es su habilidad de Nutrientes?
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_8_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-El efecto de Nutrientes de Girasol primitivo es producir múltiples soles al instante.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_8_SQUASH]
-¡La respuesta es correcta!
-El efecto de Nutrientes de Apisonaflor es aplastar a 2 objetivos aleatorios, para luego, regresar a su posición inicial.
+[PENNY_CLASSROOM_SURVEY_ANSWER_8_TALLNUT]
+ca=Armadura de acero|Cura plantas|Lanza una gema|Dispara bombas|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_8_TALLNUT]
-¡La respuesta es correcta!
-El efecto de Nutrientes de Nuez cáscara-rabias es revestirse de una armadura metálica pesada.
+¡Correcto!
+Con Nutrientes obtiene una resistente armadura de acero.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_9_CHOMPER]
-¡La respuesta es correcta!
-El Efecto del Atuendo de Nuez cáscara-rabias es prolongar la duración de su súper-eructo.
+[PENNY_CLASSROOM_SURVEY_WRONG_8_TALLNUT]
+Incorrecto.
+Pista: le permite resistir zombis durante más tiempo.
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_9_ELECTRICBLUEBERRY]
-¡La respuesta es correcta!
-El Efecto del Atuendo de Arándano eléctrico es reducir y debilitar a los zombis electrocutados.
+[PENNY_CLASSROOM_SURVEY_QUESTION_9_TALLNUT]
+¿Qué hace su atuendo?
 
-[PENNY_CLASSROOM_SURVEY_CORRECT_9_PRIMALSUNFLOWER]
-¡La respuesta es correcta!
-El Efecto del Atuendo de Girasol primitivo es dar una moneda de oro gigante.
-
-[PENNY_CLASSROOM_SURVEY_CORRECT_9_SQUASH]
-¡La respuesta es correcta!
-El Efecto del Atuendo de Apisonaflor es atacar a 3 objetivos en lugar de 2.
+[PENNY_CLASSROOM_SURVEY_ANSWER_9_TALLNUT]
+ca=Armadura de cristal|Invoca una fresa|Dispara balas de oro|Lanza guisantes|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_9_TALLNUT]
-¡La respuesta es correcta!
-El Efecto del Atuendo de Nuez cáscara-rabias es revestirse de una armadura de cristal pesada.
+¡Correcto!
+Su atuendo mejora la armadura a una más resistente.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_9_TALLNUT]
+Incorrecto.
+Pista: hace que su armadura sea aún más resistente.
+
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_0_CHOMPER]
+¿Cuál es la función principal de Planta carnívora?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_0_CHOMPER]
+ca=Devorar zombis|Producir sol|Bloquear zombis|Curar plantas|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_0_CHOMPER]
+¡Correcto!
+Planta carnívora devora y digiere zombis cercanos.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_0_CHOMPER]
+Incorrecto.
+Pista: ataca usando su enorme boca.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_1_CHOMPER]
+¿Dónde conviene plantar a Planta carnívora?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_1_CHOMPER]
+ca=En primera línea|En zona segura|Para bloquear|Para producir sol|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_1_CHOMPER]
+¡Correcto!
+Se planta en primera línea para devorar zombis.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_1_CHOMPER]
+Incorrecto.
+Pista: puede eliminar zombis al instante, pero solo a corta distancia.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_2_CHOMPER]
+¿Qué necesita Planta carnívora mientras digiere?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_2_CHOMPER]
+ca=Protección de otras plantas|Nada|Más sol|Más zombis|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_2_CHOMPER]
+¡Correcto!
+Mientras digiere, no puede defenderse y necesita protección.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_2_CHOMPER]
+Incorrecto.
+Pista: durante la digestión queda vulnerable.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_3_CHOMPER]
+Planta carnívora puede devorar zombis gigantes.
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_3_CHOMPER]
+ca=Falso|Verdadero| | |
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_3_CHOMPER]
+¡Correcto!
+No puede devorar zombis gigantes, pero sí puede morderlos.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_3_CHOMPER]
+Incorrecto.
+Pista: un zombi gigante es demasiado grande para su boca.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_4_CHOMPER]
+¿Qué obtiene Planta carnívora al Nivel 2?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_4_CHOMPER]
+ca=Empuja zombis y digiere menos|Expulsa zombis|Cura y aumenta daño|Alarga fuego|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_4_CHOMPER]
+¡Correcto!
+Al Nivel 2 empuja otros zombis y reduce el tiempo de digestión.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_4_CHOMPER]
+Incorrecto.
+Pista: tras devorar, dificulta que otros zombis se acerquen.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_5_CHOMPER]
+¿Qué obtiene Planta carnívora al Nivel 3?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_5_CHOMPER]
+ca=Reduce más la digestión|Lanza espinas eléctricas|Deja una nuez bebé|Dispara más núcleos|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_5_CHOMPER]
+¡Correcto!
+Al Nivel 3 reduce aún más el tiempo de digestión.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_5_CHOMPER]
+Incorrecto.
+Pista: puede devorar zombis con mayor frecuencia.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_6_CHOMPER]
+¿Qué obtiene Planta carnívora al Nivel 4?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_6_CHOMPER]
+ca=Chance Nutrientes al plantarse|Reembolso solar|Obtiene escudo|Daño de área|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_6_CHOMPER]
+¡Correcto!
+Desde el Nivel 4 puede recibir Nutrientes al plantarla.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_6_CHOMPER]
+Incorrecto.
+Pista: puede activar una habilidad poderosa al ser plantada.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_7_CHOMPER]
+¿Qué obtiene Planta carnívora al Nivel 5?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_7_CHOMPER]
+ca=Devora 3 casillas al frente|Combo de golpes|Lanza bolas de fuego|Dispara cactus|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_7_CHOMPER]
+¡Correcto!
+Al Nivel 5 puede devorar o morder zombis en las 3 casillas frente a ella.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_7_CHOMPER]
+Incorrecto.
+Pista: puede atacar varios zombis a mayor distancia.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_8_CHOMPER]
+¿Cuál es su habilidad de Nutrientes?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_8_CHOMPER]
+ca=Atrae 3 zombis y los expulsa|Disparo en abanico|Lanza coles gigantes|Dispara 60 guisantes|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_8_CHOMPER]
+¡Correcto!
+Atrae 3 zombis, los devora o muerde y luego los expulsa al fondo.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_8_CHOMPER]
+Incorrecto.
+Pista: puede alcanzar zombis que están lejos.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_9_CHOMPER]
+¿Qué hace su atuendo?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_9_CHOMPER]
+ca=Quita cubos al expulsar zombis|Amplía fuego|Añade daño láser|Lanza una mina|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_9_CHOMPER]
+¡Correcto!
+Su atuendo puede quitar los cubos de los zombis al expulsarlos.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_9_CHOMPER]
+Incorrecto.
+Pista: mejora el efecto de expulsar zombis.
+
+
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_0_SQUASH]
+¿Cuál es la función principal de Apisonaflor?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_0_SQUASH]
+ca=Dañar zombis|Producir sol|Bloquear zombis|Curar plantas|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_0_SQUASH]
+¡Correcto!
+Apisonaflor aplasta zombis, pero desaparece tras atacar.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_0_SQUASH]
+Incorrecto.
+Pista: salta sobre los zombis para aplastarlos.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_1_SQUASH]
+¿Dónde conviene usar a Apisonaflor?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_1_SQUASH]
+ca=En primera línea|En zona segura|Para bloquear|Para producir sol|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_1_SQUASH]
+¡Correcto!
+Se usa en primera línea para aplastar zombis.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_1_SQUASH]
+Incorrecto.
+Pista: su alcance para saltar es limitado.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_2_SQUASH]
+¿Cuál es el alcance de salto de Apisonaflor?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_2_SQUASH]
+ca=Su casilla y una a cada lado|Solo su casilla|Una casilla al frente|Su casilla y una al frente|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_2_SQUASH]
+¡Correcto!
+Puede atacar su casilla, una delante y una detrás.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_2_SQUASH]
+Incorrecto.
+Pista: puede saltar tanto a la derecha como a la izquierda.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_3_SQUASH]
+Al detectar y fijar a un zombi, Apisonaflor se vuelve invencible.
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_3_SQUASH]
+ca=Verdadero|Falso| | |
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_3_SQUASH]
+¡Correcto!
+Al fijar un objetivo, Apisonaflor se vuelve invencible.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_3_SQUASH]
+Incorrecto.
+Pista: al prepararse para saltar, ningún daño puede detenerla.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_4_SQUASH]
+¿Cuál NO es un buen uso para Apisonaflor?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_4_SQUASH]
+ca=Esperar para producir sol|Eliminar zombis élite|Prepararse ante una emboscada|Ahorrar sol al inicio|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_4_SQUASH]
+¡Correcto!
+No produce sol, así que no sirve para esperar en una zona segura.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_4_SQUASH]
+Incorrecto.
+Pista: es una planta de ataque que desaparece tras aplastar.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_5_SQUASH]
+¿Qué obtiene Apisonaflor al Nivel 2?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_5_SQUASH]
+ca=Chance de volver tras aplastar|Lanza un gancho|Dispara 2 misiles|Recupera hojas|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_5_SQUASH]
+¡Correcto!
+Al Nivel 2 puede volver a su lugar tras aplastar, en vez de desaparecer.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_5_SQUASH]
+Incorrecto.
+Pista: puede aplastar a más zombis.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_6_SQUASH]
+¿Qué obtiene Apisonaflor al Nivel 3?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_6_SQUASH]
+ca=Más chance de volver|Descansa menos|Rebota más|Lanza dardos|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_6_SQUASH]
+¡Correcto!
+Al Nivel 3 aumenta la probabilidad de volver tras aplastar.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_6_SQUASH]
+Incorrecto.
+Pista: mejora la habilidad obtenida al Nivel 2.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_7_SQUASH]
+¿Qué obtiene Apisonaflor al Nivel 4?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_7_SQUASH]
+ca=Chance Nutrientes al plantarse|Reembolso solar|Obtiene escudo|Daño de área|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_7_SQUASH]
+¡Correcto!
+Desde el Nivel 4 puede recibir Nutrientes al plantarlo.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_7_SQUASH]
+Incorrecto.
+Pista: puede activar una habilidad poderosa al ser plantado.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_8_SQUASH]
+¿Cuál es su habilidad de Nutrientes?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_8_SQUASH]
+ca=Aplasta a 2 zombis|Convierte un zombi|Envenena zombis|Lanza misiles de hielo|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_8_SQUASH]
+¡Correcto!
+Aplasta a 2 zombis del patio y luego vuelve a su posición.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_8_SQUASH]
+Incorrecto.
+Pista: puede atacar varias veces sin limitarse a su alcance normal.
+
+[PENNY_CLASSROOM_SURVEY_QUESTION_9_SQUASH]
+¿Qué hace su atuendo?
+
+[PENNY_CLASSROOM_SURVEY_ANSWER_9_SQUASH]
+ca=Añade otro salto|Usa un bastón mágico|Mejora un láser|Dispara flechas|
+
+[PENNY_CLASSROOM_SURVEY_CORRECT_9_SQUASH]
+¡Correcto!
+Su atuendo añade un salto adicional a su efecto de Nutrientes.
+
+[PENNY_CLASSROOM_SURVEY_WRONG_9_SQUASH]
+Incorrecto.
+Pista: mejora la cantidad de saltos de su habilidad definitiva.
 
 [PENNY_CLASSROOM_SURVEY_DEFAULT_DIALOG_DESC]
-Toca en la opción para responder la pregunta.
+Selecciona la respuesta correcta
 
 [PENNY_CLASSROOM_SURVEY_HINT]
-Selecciona una opción para enviar la respuesta.
+Elige una respuesta y toca en 'SIGUIENTE' para continuar
 
 [PENNY_CLASSROOM_SURVEY_NEXT_QUESTION]
-Próxima pregunta
+SIGUIENTE
 
 [PENNY_CLASSROOM_SURVEY_NUM_TITLE]
 Pregunta {NUMS}/10
 
-[PENNY_CLASSROOM_SURVEY_QUESTION_0_CHOMPER]
-¿Cuál es la función de Planta carnívora?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_0_ELECTRICBLUEBERRY]
-¿Cuál es la función de Arándano eléctrico?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_0_PRIMALSUNFLOWER]
-¿Cuál es la función de Girasol primitivo?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_0_SQUASH]
-¿Cuál es la función de Apisonaflor?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_0_TALLNUT]
-¿Cuál es la función de Nuez cáscara-rabias?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_1_CHOMPER]
-¿Cómo se usa Planta carnívora?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_1_ELECTRICBLUEBERRY]
-¿Cómo se usa Arándano eléctrico?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_1_PRIMALSUNFLOWER]
-¿Cómo se usa Girasol primitivo?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_1_SQUASH]
-¿Cómo se usa Apisonaflor?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_1_TALLNUT]
-¿Cómo se usa Nuez cáscara-rabias?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_2_CHOMPER]
-Tras engullirse a un zombi entero, Planta carnívora lo mastica durante un tiempo y se vuelve...
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_2_ELECTRICBLUEBERRY]
-Las nubes de tormenta desatadas por Arándano eléctrico persiguen a los zombis.
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_2_PRIMALSUNFLOWER]
-¿Cómo son los soles que da Girasol primitivo?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_2_SQUASH]
-¿Cuál es el rango de alcance de Apisonaflor?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_2_TALLNUT]
-¿Cuáles son las ventajas de Nuez cáscara-rabias?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_3_CHOMPER]
-Planta carnívora puede devorar zombis grandes.
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_3_ELECTRICBLUEBERRY]
-El rango de alcance de Arándano eléctrico es 3 casillas a la izquierda y 3 a la derecha.
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_3_PRIMALSUNFLOWER]
-¿Qué mejoras recibe Girasol primitivo cuando se planta en Pantano del Jurásico?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_3_SQUASH]
-Tras aplastar a un zombi, Apisonaflor se vuelve invencible.
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_3_TALLNUT]
-Nuez cáscara-rabias recupera su salud si se planta otra encima con los Primeros auxilios para nueces.
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_4_CHOMPER]
-¿Qué habilidades obtiene Planta carnívora tras alcanzar el Nivel 2?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_4_ELECTRICBLUEBERRY]
-¿Qué habilidades obtiene Arándano eléctrico tras alcanzar el Nivel 2?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_4_PRIMALSUNFLOWER]
-¿Qué habilidades obtiene Girasol primitivo tras alcanzar el Nivel 2?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_4_SQUASH]
-Como planta de uso único, ¿cuál NO es la forma apropiada de usarla?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_4_TALLNUT]
-¿A cúantas Nueces equivale la salud de Nuez cáscara-rabias?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_5_CHOMPER]
-¿Qué habilidades obtiene Planta carnívora tras alcanzar el Nivel 3?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_5_ELECTRICBLUEBERRY]
-¿Qué habilidades obtiene Arándano eléctrico tras alcanzar el Nivel 3?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_5_PRIMALSUNFLOWER]
-¿Qué habilidades obtiene Girasol primitivo tras alcanzar el Nivel 3?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_5_SQUASH]
-¿Qué habilidades obtiene Apisonaflor tras alcanzar el Nivel 2?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_5_TALLNUT]
-¿Qué habilidades obtiene Nuez cáscara-rabias tras alcanzar el Nivel 2?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_6_CHOMPER]
-¿Qué habilidades obtiene Planta carnívora tras alcanzar el Nivel 4?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_6_ELECTRICBLUEBERRY]
-¿Qué habilidades obtiene Arándano eléctrico tras alcanzar el Nivel 4?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_6_PRIMALSUNFLOWER]
-¿Qué habilidades obtiene Girasol primitivo tras alcanzar el Nivel 4?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_6_SQUASH]
-¿Qué habilidades obtiene Apisonaflor tras alcanzar el Nivel 3?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_6_TALLNUT]
-¿Qué habilidades obtiene Nuez cáscara-rabias tras alcanzar el Nivel 3?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_7_CHOMPER]
-¿Qué habilidades obtiene Planta carnívora tras alcanzar el Nivel 5?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_7_ELECTRICBLUEBERRY]
-¿Qué habilidades obtiene Arándano eléctrico tras alcanzar el Nivel 5?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_7_PRIMALSUNFLOWER]
-¿Qué habilidades obtiene Girasol primitivo tras alcanzar el Nivel 5?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_7_SQUASH]
-¿Qué habilidades obtiene Apisonaflor tras alcanzar el Nivel 4?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_7_TALLNUT]
-¿Qué habilidades obtiene Nuez cáscara-rabias tras alcanzar el Nivel 4?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_8_CHOMPER]
-¿Cúal es el efecto de Nutrientes de Planta carnívora?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_8_ELECTRICBLUEBERRY]
-¿Cúal es el efecto de Nutrientes de Arándano eléctrico?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_8_PRIMALSUNFLOWER]
-¿Cúal es el efecto de Nutrientes de Girasol primitivo?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_8_SQUASH]
-¿Cúal es el efecto de Nutrientes de Apisonaflor?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_8_TALLNUT]
-¿Cúal es el efecto de Nutrientes de Nuez cáscara-rabias?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_9_CHOMPER]
-¿Cúal es el Efecto del Atuendo de Planta carnívora?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_9_ELECTRICBLUEBERRY]
-¿Cúal es el Efecto del Atuendo de Arándano eléctrico?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_9_PRIMALSUNFLOWER]
-¿Cúal es el Efecto del Atuendo de Girasol primitivo?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_9_SQUASH]
-¿Cúal es el Efecto del Atuendo de Apisonaflor?
-
-[PENNY_CLASSROOM_SURVEY_QUESTION_9_TALLNUT]
-¿Cúal es el Efecto del Atuendo de Nuez cáscara-rabias?
-
 [PENNY_CLASSROOM_SURVEY_REDO_QUESTION]
-Volver a responder
-
-[PENNY_CLASSROOM_SURVEY_WRONG_0_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Planta carnívora es una planta de la familia cuerpo a cuerpo, y su función está relacionada con la táctica ofensiva.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_0_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Arándano eléctrico es una planta de la familia eléctrica, y su función está relacionada con la táctica ofensiva.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_0_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Girasol primitivo es una planta de la familia solar, y su función está relacionada con el sol.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_0_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Apisonaflor es una planta de la familia cuerpo a cuerpo, y su función está relacionada con la táctica ofensiva.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_0_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Nuez cáscara-rabias es una planta de la familia defensiva, y su función está relacionada con la táctica defensiva.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_1_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Planta carnívora tiene un rango de alcance muy limitado.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_1_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Arándano eléctrico necesita un lugar seguro donde atacar de manera constante.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_1_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Girasol primitivo necesita un lugar seguro donde producir sol de manera constante.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_1_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Apisonaflor tiene un rango de alcance muy limitado.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_1_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Nuez cáscara-rabias tiene una salud muy alta que le permite resistir el ataque de los zombis.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_2_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Planta carnívora no puede atacar mientras mastica.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_2_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: las nubes de tormenta desatadas por Arándano eléctrico actúan como rastreadores.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_2_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: el tamaño de los soles que da Girasol primitivo es relativamente alto.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_2_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Apisonaflor no solo puede saltar hacia la derecha, sino también, hacia la izquierda.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_2_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Nuez cáscara-rabias es una planta alta que no solo bloquea a los zombis que andan a pie.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_3_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: los zombis grandes no caben en la boca de Planta carnívora.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_3_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: el rango de alcance de Arándano eléctrico es relativamente corto.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_3_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: el número de soles que Girasol primitivo produce aumenta cuando se planta en su entorno.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_3_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Apisonaflor es una planta de uso único.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_3_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: los Primeros auxilios para nueces permiten reparar al completo las plantas defensivas dañadas al plantarlos encima.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_4_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 2, Planta carnívora puede defenderse de los zombis atacantes mientras mastica más rápido.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_4_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: el rango de alcance de Arándano aumenta ligeramente tras alcanzar el Nivel 2.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_4_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: el número de soles que Girasol primitivo produce aumenta tras alcanzar el Nivel 2.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_4_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: Apisonaflor sirve para dañar y eliminar zombis.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_4_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: intenta sumar una Nuez más otra Nuez, ¿lo tienes?
-
-[PENNY_CLASSROOM_SURVEY_WRONG_5_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 3, mejoran las habilidades que Planta carnívora obtuvo al Nivel 2.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_5_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: el rango de alcance de Arándano aumenta considerablemente tras alcanzar el Nivel 3.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_5_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 3, mejoran las habilidades que Girasol primitivo obtuvo al Nivel 2.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_5_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 2, Apisonaflor puede usarse con mayor frecuencia.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_5_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 2, Nuez cáscara-rabias puede usar su cuerpo como arma cuando es destruida.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_6_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 4, Planta carnívora gana la probabilidad de liberar una habilidad muy poderosa al plantarse.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_6_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 4, Arándano eléctrico gana la probabilidad de liberar una habilidad muy poderosa al plantarse.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_6_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 4, Girasol primitivo gana la probabilidad de liberar una habilidad muy poderosa al plantarse.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_6_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 3, mejoran las habilidades que Apisonaflor obtuvo al Nivel 2.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_6_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 3, mejoran las habilidades que Nuez cáscara-rabias obtuvo al Nivel 2.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_7_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 5, Planta carnívora puede devorarse a más zombis a la vez.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_7_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 5, Arándano eléctrico libera nubes de tormenta más poderosas.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_7_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 5, Girasol primitivo brilla y produce más soles.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_7_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 4, Apisonaflor gana la probabilidad de liberar una habilidad muy poderosa al plantarse.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_7_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: tras alcanzar el Nivel 4, Nuez cáscara-rabias gana la probabilidad de liberar una habilidad muy poderosa al plantarse.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_8_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: al usar Nutrientes, Planta carnívora puede atraer y devorarse a varios zombis para después empujar a los demás.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_8_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: al usar Nutrientes, Arándano eléctrico puede atacar a múltiples zombis.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_8_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: al usar Nutrientes, Girasol primitivo puede producir soles con rapidez.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_8_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: al usar Nutrientes, Apisonaflor puede aplastar a múltiples zombis.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_8_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: al usar Nutrientes, Nuez cáscara-rabias obtiene una mayor protección contra el daño.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_9_CHOMPER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: con su Atuendo, Planta carnívora eructa más fuerte.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_9_ELECTRICBLUEBERRY]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: con su Atuendo, Arándano eléctrico roba el poder de los zombis electrocutados.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_9_PRIMALSUNFLOWER]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: con su Atuendo, Girasol primitivo no solo da soles, sino, algo más.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_9_SQUASH]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: con su Atuendo, Apisonaflor puede aplastar a más zombis.
-
-[PENNY_CLASSROOM_SURVEY_WRONG_9_TALLNUT]
-La respuesta es incorrecta, inténtalo de nuevo.
-Pista: con su Atuendo, Nuez cáscara-rabias obtiene una armadura más resistente.
+RECONTESTAR
 
 [PENNY_CLASSROOM_TEST_BTN]
 PRUEBA
 
 [PENNY_CLASSROOM_TEST_NOT_OPEN]
-NO DISPONIBLE
+PRUEBA
 
 [PENNY_CLASSROOM_TIPS]
-1. Después de completar los cursos en El Aula de Penny, podrás obtener Puntos de clase y canjearlos por Recompensas en la Cooperativa escolar.
-2. Los cursos en el Aula de Penny se abrirán secuencialmente por la cantidad de días. Solo se abrirá un curso por día.
-3. Después de completar el curso anterior, podrás lanzarte a completar el próximo curso. Una vez completado el curso, no podrás repetirlo.
-4. Después de completar el curso correspondiente de 5 plantas en cada etapa, podrás recibir un Título de clase de esa etapa y desbloquear el curso de la siguiente etapa.
-5. El Nivel de las plantas en un curso es un nivel fijo, y por ende, no es el mismo que Nivel de las plantas que tiene el jugador.
-6. El Aula de Penny se cerrará después de que el jugador canjee todos los Artículos en la Cooperativa escolar.
+1. Completa cursos y obtén puntos que pueden canjearse en la tienda.
+2. Los cursos se abren día por día y deben completarse en orden. Una vez completado el curso, no podrás repetirlo.
+3. El Aula de Penny se cerrará después de que canjees todos los artículos de la tienda.
 
 [PENNY_CLASSROOM_TITLE]
 El Aula de Penny
 
 [PENNY_CLASS_LEVEL1]
-Examen de evaluación básica - Girasol primitivo
+Examen - Girasol primitivo
 
 [PENNY_CLASS_LEVEL2]
-Examen de evaluación básica - Arándano eléctrico
+Examen - Arándano eléctrico
 
 [PENNY_CLASS_LEVEL3]
-Examen de evaluación básica - Nuez cáscara-rabias
+Examen - Nuez cáscara-rabias
 
 [PENNY_CLASS_LEVEL4]
-Examen de evaluación básica - Planta carnívora
+Examen - Planta carnívora
 
 [PENNY_CLASS_LEVEL5]
-Examen de evaluación básica - Apisonaflor
+Examen - Apisonaflor
 
 [PENNY_CLASS_LEVEL6]
-Examen de evaluación avanzada - Girasol primitivo
+Examen intermedio - Girasol primitivo
 
 [PENNY_CLASS_LEVEL7]
-Examen de evaluación avanzada - Arándano eléctrico
+Examen intermedio - Arándano eléctrico
 
 [PENNY_CLASS_LEVEL8]
-Examen de evaluación avanzada - Nuez cáscara-rabias
+Examen intermedio - Nuez cáscara-rabias
 
 [PENNY_CLASS_LEVEL9]
-Examen de evaluación avanzada - Planta carnívora
+Examen intermedio - Planta carnívora
 
 [PENNY_CLASS_LEVEL10]
-Examen de evaluación avanzada - Apisonaflor
+Examen intermedio - Apisonaflor
 
 [PENNY_CLASS_LEVEL11]
 Examen final - Girasol primitivo
@@ -66581,7 +66060,7 @@ Crea 1 clon adicional
 Pañales
 
 [STORE_PRODUCT_AVATAR_CHOMPER]
-Prolonga la duración de su súper-eructo
+El súper-eructo puede desarmar zombis de cascos
 
 [STORE_PRODUCT_AVATAR_CHOMPER_TITLE]
 Gorra playera
@@ -70697,7 +70176,7 @@ Ruleta de la Suerte
 REGLAS DEL EVENTO
 
 [THE_MATERIAL_NOT_ENOUGH]
-Material insuficiente: {NAME}
+Material insuficiente: ^D22808^{NAME}^oldclr^
 
 [THE_N_DAY]
 Día {NUM}
