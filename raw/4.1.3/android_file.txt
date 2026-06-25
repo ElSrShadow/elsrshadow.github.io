@@ -5435,7 +5435,7 @@ Nivel 2
 Nivel 3
 
 [BAMBOO_SKILL1_LEVEL2_DES]
-^DD7ECB^Súper-excabadora:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+^DD7ECB^Superbroca:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
 
 [BAMBOO_TOOLTIP]
 Perfora a los zombis de su alcance
@@ -6720,13 +6720,13 @@ Da rápidos puñetazos a los enemigos que tiene delante y detrás
 Nivel 2
 
 [BONKCHOY_SKILL1_LEVEL1_DES]
-^4DD4DB^Gancho:^oldclr^ por cada 15 golpes, realizará un gancho para hacer rebotar a un zombi por los aires.
+^4DD4DB^Uppercut:^oldclr^ por cada 15 golpes, realizará un gancho para hacer rebotar a un zombi por los aires.
 
 [BONKCHOY_SKILL1_LEVEL2]
 Nivel 3
 
 [BONKCHOY_SKILL1_LEVEL2_DES]
-^DD7ECB^Maestro del boxeo:^oldclr^ el número de golpes necesarios para realizar un gancho se reduce a 7.
+^DD7ECB^Maestro del boxeo:^oldclr^ el número de golpes necesarios para realizar un gancho se reduce a 7
 
 [BONKCHOY_SKILL1_LEVEL5]
 Nivel 5
@@ -8885,16 +8885,16 @@ Lanza coles al enemigo
 Nivel 2
 
 [CABBAGEPULT_SKILL1_LEVEL1_DES]
-^4DD4DB^Coles rápidos:^oldclr^ su velocidad de ataque aumenta en un 25%.
+^4DD4DB^Coles rápidos:^oldclr^ su velocidad de ataque aumenta en un 25%
 
 [CABBAGEPULT_SKILL1_LEVEL2]
 Nivel 3
 
 [CABBAGEPULT_SKILL1_LEVEL2_DES]
-^DD7ECB^Ataque veloz:^oldclr^ mejora los efectos del Nvl. 2 al doble.
+^DD7ECB^Ataque veloz:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [CABBAGEPULT_SUPERSKILL_DES]
-^DB8117^Col de oro:^oldclr^ gana la habilidad de lanzar coles dorados, los cuales, se dividen en 2 coles más pequeños e infligen más daño.
+^DB8117^Col de oro:^oldclr^ gana la habilidad de lanzar coles dorados, los cuales, se dividen en 2 coles más pequeños e infligen más daño
 
 [CABBAGEPULT_SUPERSKILL_NAME]
 Nivel 5
@@ -10394,7 +10394,7 @@ Los zombis que lo comen son destruidos y liberan gas
 Nivel 2
 
 [CHILIBEAN_SKILL1_LEVEL1_DES]
-^4DD4DB^Gas maloliente:^oldclr^ los zombis son aturdidos por el gas 1.5 segundos más.
+^4DD4DB^Gas maloliente:^oldclr^ los zombis son aturdidos por el gas 1.5 s más
 
 [CHILIBEAN_SKILL1_LEVEL2]
 Nivel 3
@@ -10515,9 +10515,6 @@ Devora un zombi y después lo mastica un rato
 [CHOOSER_OBJECTIVES]
 Objetivo: {MINSCORE}
 
-[CHOOSER_POWERUPS]
-POTENCIADORES
-
 [CHOOSER_RESET_BUTTON]
 Borrar mazo
 
@@ -10537,13 +10534,13 @@ Piezas de colgantes
 Piezas
 
 [CHRISTMAS_ACCESSORY_COIN_BUTTON]
-Recibir {COINS} Monedas
+{COINS} Monedas
 
 [CHRISTMAS_ACCESSORY_FREE_BUTTON]
 GRATIS
 
 [CHRISTMAS_ACCESSORY_GEM_BUTTON]
-Recibir {GEMS} Joyas
+{GEMS} Joyas
 
 [CHRISTMAS_ACCESSORY_REFRESH_HINT]
 El contenido del paquete se restablece diariamente.
@@ -10717,7 +10714,7 @@ Dispara bolas poderosas de plasma
 Nivel 2
 
 [CITRON_SKILL1_LEVEL1_DES]
-^4DD4DB^Acumulación de energía:^oldclr^ su tiempo de recuperación es reducido en un 25%.
+^4DD4DB^Acumulación de energía:^oldclr^ su tiempo de recuperación es reducido en un 25%
 
 [CITRON_SKILL1_LEVEL2]
 Nivel 3
@@ -10745,14 +10742,16 @@ Al usar Nutrientes, los zombis pequeños o medianos impactados por su ataque ser
 
 [CLAWGLORIOSA_DESCRIPTION]
 {KEYWORD}Área: {STAT}1 casilla por delante
+
 {KEYWORD}Especial: {STAT}usa al primer zombi que se le acerque como escudo
 {KEYWORD}Debilidad: {STAT}tras agarrar a un zombi, necesita descansar para volver a empezar
+
 {KEYWORD}Carácteristicas de la planta: {STAT}planta roja, temperamental
 
-{FLAVOR}Anteriormente, su gancho podía estirarse o acortarse a su gusto, sin embargo, debido a una fuerza mayor, el gancho perdió su función original. Pese a esto, Garra de tigre empezó a entrenar boxeo con su puño derecho y después de un duro esfuerzo, perfeccionó sus habilidades.
+{FLAVOR}Aprendió que un buen boxeador siempre protege su cara. Como no encontró una guardia mejor, empezó a usar zombis. Su entrenador no aprobó la técnica, pero tampoco quiso corregirlo.
 
 [CLAWGLORIOSA_DESCRIPTION_HEADER]
-Garra de tigre agarra al primer zombi que se le acerque y lo usa como escudo mientras golpea a los demás zombis atacantes con su puño derecho.
+Garra de tigre agarra al primer zombi que se le acerque y lo usa como escudo mientras golpea a los demás con su puño derecho.
 
 [CLAWGLORIOSA_FAMILY]
 Colchicaceae
@@ -10953,19 +10952,19 @@ Toca en el Cococañón para disparar un coco explosivo
 Nivel 2
 
 [COCONUTCANNON_SKILL1_LEVEL1_DES]
-^4DD4DB^Recuperación acelerada:^oldclr^ el tiempo de recuperación se reduce en un 25%.
+^4DD4DB^Recuperación acelerada:^oldclr^ el tiempo de recuperación se reduce en un 25%
 
 [COCONUTCANNON_SKILL1_LEVEL2]
 Nivel 3
 
 [COCONUTCANNON_SKILL1_LEVEL2_DES]
-^DD7ECB^Recuperación veloz:^oldclr^ el tiempo de recuperación se reduce en un 40%.
+^DD7ECB^Recuperación veloz:^oldclr^ el tiempo de recuperación se reduce en un 40%
 
 [COCONUTCANNON_SKILL1_LEVEL5]
 Nivel 5
 
 [COCONUTCANNON_SKILL1_LEVEL5_DES]
-^DB8117^Cocos gigantes:^oldclr^ gana la habilidad de disparar cocos gigantes que se dividen en 5 escombros.
+^DB8117^Cocos gigantes:^oldclr^ gana la habilidad de disparar cocos gigantes que se dividen en 5 escombros
 
 [COCONUTCANNON_TOOLTIP]
 Toca en el Cococañón para disparar un coco explosivo
@@ -14296,7 +14295,7 @@ HITOS
 Tu rango
 
 [DAVECUP_FINAL_SETTLEMENT_MILESTONE_POINTS]
-Ptos de temporada: {NUMBER}
+Ptos de temporada: +{NUMBER}
 
 [DAVECUP_FINAL_SETTLEMENT_TOTAL_SCORE]
 Puntuación final
@@ -17192,13 +17191,13 @@ Lanza volantes o los volea según que tan lejos estén los zombis de ella
 Nivel 2
 
 [ELAEOCARPUS_SKILL1_LEVEL1_DES]
-^4DD4DB^Saque extendido:^oldclr^ la distancia requerida para volear cambia de 3 casillas a 4.
+^4DD4DB^Saque extendido:^oldclr^ la distancia requerida para volear cambia de 3 casillas a 4
 
 [ELAEOCARPUS_SKILL1_LEVEL2]
 Nivel 3
 
 [ELAEOCARPUS_SKILL1_LEVEL2_DES]
-^DD7ECB^Voleo extremo:^oldclr^ el alcance del volante al ser voleado cambia de un zombi a una casilla.
+^DD7ECB^Voleo extremo:^oldclr^ el alcance del volante al ser voleado cambia de un zombi a una casilla
 
 [ELAEOCARPUS_SUPERSKILL_DES]
 ^DB8117^Maestra del bádminton:^oldclr^ la salud requerida para eliminar zombis al hacer saques rápidos aumenta en un 10%
@@ -17601,7 +17600,7 @@ Cultivada desde hace siglos en el sur de China, la castaña de agua se expandió
 Carga por la línea contra zombis medianos mientras deja hielo. ^D22808^Daño: 2.000^oldclr^
 
 [ELEOCURLING_PRODUCT_SHORT_DESC]
-Giran y dañan a los zombis de la línea; pueden dejar hielo en el camino
+Giran por la línea y dejan hielo ocasionalmente
 
 [ELEOCURLING_SKILL_LEVEL1]
 Nivel 2
@@ -17622,7 +17621,7 @@ Nivel 5
 ^DB8117^Equipo imparable:^oldclr^ puede que la castaña grande inflija daño en una casilla; la pequeña tiene la posibilidad de atravesar zombis.
 
 [ELEOCURLING_TOOLTIP]
-Giran y dañan a los zombis de la línea; pueden dejar hielo en el camino
+Giran por la línea y dejan hielo ocasionalmente
 
 [ELIMINATE_BUY_PLANTFOOD_TIP]
 Los Nutrientes te garantizan una victoria más rápida.
@@ -19148,6 +19147,7 @@ Ya has recibido la recompensa de hoy, ¡vuelve mañana!
 
 [FIRST_RECHARGE_EXTRA_TIPS]
 1. Recarga por primera vez comprando Joyas con dinero real.
+
 2. Inicia sesión durante tres días para conseguir recompensas.
 
 [FIRST_RECHARGE_HEAD_DES_ID_25391]
@@ -21028,7 +21028,7 @@ Joyas por Recargas
 COMPRAR
 
 [GEM_REWARD]
-Joyas a obtener: {NUM}
+¡{NUM} Joyas!
 
 [GEM_STORE]
 : Joyas
@@ -21037,13 +21037,13 @@ Joyas a obtener: {NUM}
 ¿Te has quedado sin Joyas? ¡Gasta Dinero real aquí para obtener más!
 
 [GENERAL_PLANT_CHIPS_EXCHANGE]
-¿Deseas cambiar {NUM1} Piezas de {NAME1} por {NUM2} Piezas específicas para {NAME2}?
+¿Deseas usar ^00AAE4^{NUM1} {NAME1}^oldclr^ para fabricar ^A0522D^{NUM2} Piezas para {NAME2}^oldclr^?
 
 [GENERAL_PLANT_CHIPS_EXCHANGE_NUMBER]
-Intercambiar Piezas x{NUM}
+Fabricar {NUM} Piezas
 
 [GENERAL_PLANT_CHIPS_EXCHANGE_TIPS]
-Selecciona las Piezas de plantas que deseas intercambiar por Piezas específicas.
+Selecciona las Piezas que desees fabricar
 
 [GENE_DESCRIPTION]
 1. Las Secuencias genéticas se pueden mejorar con Material genético. También pueden intercambiarse en el Almacén de genes por Genes universales, cada una tiene un precio según su rareza.
@@ -22783,7 +22783,7 @@ Lotes de crecimiento
 4. Los puntos acumulados se restablecen al final de temporada. ¡No olvides reclamar tus premios!
 
 [GROWTH_PACKAGE_DESCRIPTION_TITLE]
-Lotes de crecimiento
+LOTES DE CRECIMIENTO
 
 [GROWTH_PACKAGE_DISCOUNT]
 Lote especial
@@ -22792,7 +22792,7 @@ Lote especial
 Lote de valor
 
 [GROWTH_PACKAGE_LIMIT]
-Habrá diferentes paquetes de crecimiento todos los días. Cada artículo está limitado a 1 compra por día.
+Diferentes lotes diarios. Límite de compra: 1
 
 [GUACODILE]
 Guacadrilo
@@ -23497,7 +23497,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.3.0 (actualizado el 23/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.3^oldclr^ | ^87CEFA^Parche: 1.3.1 (actualizado el 25/6/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -25700,13 +25700,13 @@ Acaba con los zombis de una línea entera
 Nivel 2
 
 [JALAPENO_SKILL1_LEVEL1_DES]
-^4DD4DB^Cruz de fuego:^oldclr^ gana la habilidad de arrasar zombis en patrón de cruz.
+^4DD4DB^Cruz de fuego:^oldclr^ gana la habilidad de arrasar zombis en patrón de cruz
 
 [JALAPENO_SKILL1_LEVEL2]
 Nivel 3
 
 [JALAPENO_SKILL1_LEVEL2_DES]
-^DD7ECB^Pequeño descuento:^oldclr^ su coste en soles se reduce en 25.
+^DD7ECB^Pequeño descuento:^oldclr^ su coste en soles se reduce en 25
 
 [JALAPENO_TOOLTIP]
 Acaba con los zombis de una línea entera
@@ -28733,8 +28733,8 @@ El campo se encoge infligiendo daño nueva vez y dejando otro más pequeño. ^D2
 
 [MANGOSTEEN_DESCRIPTION]
 {KEYWORD}Área: {STAT}3x3
-{KEYWORD}Especial: {STAT}inflige más daño en un área mayor después de cierto tiempo
 {KEYWORD}Uso: {STAT}descansa después de realizar una serie de ataques
+{KEYWORD}Especial: {STAT}inflige más daño en un área mayor después de cierto tiempo
 
 {KEYWORD}Características de la planta: {STAT}planta púrpura (azul), electrizante, destructora
 
@@ -28779,7 +28779,7 @@ Originario del sudeste asiático, el mangostán ha sido valorado tanto por su sa
 Libera un enorme campo eléctrico que hace grandes daños. ^D22808^Daño: 1.200 (área 5x5)^oldclr^
 
 [MANGOSTEEN_PRODUCT_SHORT_DESC]
-Reune energía para liberar campos eléctricos; crece y libera más con el tiempo
+Reune energía para liberar campos eléctricos
 
 [MANGOSTEEN_SKILL_LEVEL1]
 Nivel 2
@@ -28800,7 +28800,7 @@ Nivel 5
 ^DB8117^Corriente paralizante:^oldclr^ libera una descarga que inmoviliza al primer zombi pequeño o mediano ^ff0000^(la habilidad no se reactiva hasta que el zombi sea derrotado)^oldclr
 
 [MANGOSTEEN_TOOLTIP]
-Reune energía para liberar campos eléctricos; crece y libera más con el tiempo
+Reune energía para liberar campos eléctricos
 
 [MAPLEBLADE]
 Arce samurái
@@ -28925,7 +28925,7 @@ Se prolonga la duración del efecto en 1 s ^D22808^(ahora 4 s)^oldclr^
 {FLAVOR}Plantorcha siempre trata de decirles a todos que Flor boxeadora es su descendiente, pero no solo puede incendiar guisantes, sino que también es un guerrero que tiene una actitud de "dejar que los puños hablen".
 
 [MATCHFLOWER_DESCRIPTION_HEADER]
-Flor boxeadora golpea a los enemigos que tiene en frente con sus puños ardientes. Cuanto más ataque, más violenta y potente se volverá.
+Flor boxeadora golpea a los enemigos que tiene en frente con sus puños ardientes. Cuanto más ataque, más fuerte se volverá.
 
 [MATCHFLOWER_NEW_SKILL_LEVEL1_DES]
 Conecta 3 puñetazos y 1 gancho que dobla el daño.
@@ -28949,28 +28949,28 @@ Sus ataques tienen un ^D22808^25% de probabilidad^oldclr^ de desencadenar explos
 Se enfada y deja caer chispas en un área 3x3 durante 3 s. ^D22808^Daño por segundo: 100^oldclr^
 
 [MATCHFLOWER_PRODUCT_SHORT_DESC]
-Golpea a los enemigos que tiene en frente; cuanto más ataca, más potente se vuelve
+Golpea enemigos, prende guisantes cuando se enfurece
 
 [MATCHFLOWER_SKILL_LEVEL1]
 Nivel 2
 
 [MATCHFLOWER_SKILL_LEVEL1_DES]
-^4DD4DB^Experto en boxeo:^oldclr^ la cantidad de golpes necesarios para que entre en llamas se reduce en 2.
+^4DD4DB^Experto en boxeo:^oldclr^ la cantidad de golpes necesarios para que entre en llamas se reduce en 2
 
 [MATCHFLOWER_SKILL_LEVEL2]
 Nivel 3
 
 [MATCHFLOWER_SKILL_LEVEL2_DES]
-^DD7ECB^Furia azul:^oldclr^ gana la habilidad de atacar con fuego azul, infligiendo mayor daño a los enemigos.
+^DD7ECB^Furia azul:^oldclr^ gana la habilidad de atacar con fuego azul, infligiendo mayor daño a los enemigos
 
 [MATCHFLOWER_SKILL_LEVEL5]
 Nivel 5
 
 [MATCHFLOWER_SKILL_LEVEL5_DES]
-^DB8117^Puño explosivo:^oldclr^ sus ataques tienen la posibilidad de generar explosiones que infligen grandes daños en un área pequeña.
+^DB8117^Puño explosivo:^oldclr^ sus ataques tienen la posibilidad de generar explosiones que infligen grandes daños en un área pequeña
 
 [MATCHFLOWER_TOOLTIP]
-Golpea a los enemigos que tiene en frente; cuanto más ataca, más potente se vuelve
+Golpea enemigos, prende guisantes cuando se enfurece
 
 [MATERIAL_AWARD_HEADER1]
 ¡Conseguiste {NUMBER} Moneda (z)!
@@ -29471,7 +29471,7 @@ Piezas específicas
 Peticiones por tiempo limitado
 
 [MAT_GENERAL_PLANT_CHIPS_USE]
-Se usa para Mejorar de Nivel a una planta específica que tenga Piezas insuficientes.
+Se usa para fabricar Piezas de una planta específica o para mejorar plantas que no tengan Piezas suficientes
 
 [MAT_GENE_FACTOR]
 Material genético
@@ -29510,7 +29510,7 @@ Cupón de petición
 Peticiones por tiempo limitado, comprando Paquetes de Regalo o activando los Privilegios VIP.
 
 [MAT_LIMITED_SUMMON_TICKET_USE]
-Se usa para realizar Peticiones por timpo limitado.
+Se usa para realizar Peticiones por tiempo limitado.
 
 [MAT_LIMITLOTTERY_CRYSTAL]
 Moneda púrpura
@@ -31258,7 +31258,7 @@ Nivel 2
 Nivel 3
 
 [MISSILETOE_SKILL_LEVEL2_DES]
-^DD7ECB^Recarga impetuosa:^oldclr^ mejora los efectos del Nvl. 2 al doble.
+^DD7ECB^Recarga impetuosa:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [MISSILETOE_SKILL_LEVEL5]
 Nivel 5
@@ -31411,7 +31411,7 @@ Convierte zombis en muñecos de nieve y los hace vulnerables al fuego
 Nivel 2
 
 [MONOTROPA_SKILL_LEVEL1_DES]
-^4DD4DB^Gran ventisca:^oldclr^ la distancia de su ataque aumenta en 2 casillas.
+^4DD4DB^Gran ventisca:^oldclr^ la distancia de su ataque aumenta en 2 casillas
 
 [MONOTROPA_SKILL_LEVEL2]
 Nivel 3
@@ -31423,7 +31423,7 @@ Nivel 3
 Nivel 5
 
 [MONOTROPA_SKILL_LEVEL5_DES]
-^DB8117^Hipotermia:^oldclr^ después de que el muñeco de nieve se derrita, el zombi dentro será ralentizado durante 2 segundos.
+^DB8117^Hipotermia:^oldclr^ después de que el muñeco de nieve se derrita, el zombi dentro será ralentizado durante 2 s
 
 [MONOTROPA_TOOLTIP]
 Convierte zombis en muñecos de nieve y los hace vulnerables al fuego
@@ -31623,13 +31623,13 @@ Nivel 2
 Nivel 3
 
 [MORNINGGLORY_SKILL_LEVEL2_DES]
-^DD7ECB^Banda musical:^oldclr^ se puede plantar una Gloria matutina adicional para aumentar el daño aún más.
+^DD7ECB^Banda musical:^oldclr^ se puede plantar una Gloria matutina adicional para aumentar el daño aún más
 
 [MORNINGGLORY_SKILL_LEVEL5]
 Nivel 5
 
 [MORNINGGLORY_SKILL_LEVEL5_DES]
-^DB8117^Ondas rítmicas:^oldclr^ gana la probabilidad de lanzar ondas potentes que infligen daño masivo a los zombis de tres filas, pero en un alcance menor.
+^DB8117^Ondas rítmicas:^oldclr^ gana la probabilidad de lanzar ondas potentes que infligen daño masivo a los zombis de tres filas, pero en un alcance menor
 
 [MORNINGGLORY_TOOLTIP]
 Ataca con ondas rítmicas, refleja proyectiles sónicos
@@ -41708,181 +41708,181 @@ No se puede saltar misiones, puede ser que la función no esté disponible ahora
 Puntos acumulados
 
 [NOVICESEVENDAYS_TASK_NAME_1]
-Completa Antiguo Egipto - Día 2.
+Completa Antiguo Egipto - Día 2
 
 [NOVICESEVENDAYS_TASK_NAME_2]
-Recolecta 5 Estrellas.
+Recolecta 5 Estrellas
 
 [NOVICESEVENDAYS_TASK_NAME_3]
-Mejora una planta subiéndola de Nivel.
+Mejora una planta subiéndola de Nivel
 
 [NOVICESEVENDAYS_TASK_NAME_4]
-Abre 10 Cofres.
+Abre 10 Cofres
 
 [NOVICESEVENDAYS_TASK_NAME_5]
-Completa Antiguo Egipto - Día 10.
+Completa Antiguo Egipto - Día 10
 
 [NOVICESEVENDAYS_TASK_NAME_6]
-Completa Antiguo Egipto - Día 15.
+Completa Antiguo Egipto - Día 15
 
 [NOVICESEVENDAYS_TASK_NAME_7]
-Juega una partida en Dueloz.
+Juega una partida en Dueloz
 
 [NOVICESEVENDAYS_TASK_NAME_7_CHANGE]
-Juega 1 partida en la Dimensión del Recuerdo.
+Juega 1 partida en la Dimensión del Recuerdo
 
 [NOVICESEVENDAYS_TASK_NAME_8]
-Juega una partida en los Retos diarios.
+Juega una partida en los Retos diarios
 
 [NOVICESEVENDAYS_TASK_NAME_9]
-Completa una Aventura de plantas.
+Completa una Aventura de plantas
 
 [NOVICESEVENDAYS_TASK_NAME_10]
-Juega una partida en Batallaz.
+Juega una partida en Batallaz
 
 [NOVICESEVENDAYS_TASK_NAME_11]
-Completa una misión diaria en el Tronco de Viaje.
+Completa una misión diaria en el Tronco de Viaje
 
 [NOVICESEVENDAYS_TASK_NAME_12]
-Completa Mares Piratas - Día 2.
+Completa Mares Piratas - Día 2
 
 [NOVICESEVENDAYS_TASK_NAME_13]
-Completa Mares Piratas - Día 10.
+Completa Mares Piratas - Día 10
 
 [NOVICESEVENDAYS_TASK_NAME_14]
-Recolecta 20 Estrellas.
+Recolecta 20 Estrellas
 
 [NOVICESEVENDAYS_TASK_NAME_15]
-Alcanza el Nivel 1 en la Zona de Infinito.
+Alcanza el Nivel 1 en la Zona de Infinito
 
 [NOVICESEVENDAYS_TASK_NAME_16]
-Juega una partida en La Búsqueda de Penny.
+Juega una partida en La Búsqueda de Penny
 
 [NOVICESEVENDAYS_TASK_NAME_17]
-Juega 2 partidas en Dueloz.
+Juega 2 partidas en Dueloz
 
 [NOVICESEVENDAYS_TASK_NAME_17_CHANGE]
-Juega 2 partidas en la Dimensión del Recuerdo.
+Juega 2 partidas en la Dimensión del Recuerdo
 
 [NOVICESEVENDAYS_TASK_NAME_18]
-Completa una misión de mundos en el Tronco de Viaje.
+Completa una misión de mundos en el Tronco de Viaje
 
 [NOVICESEVENDAYS_TASK_NAME_19]
-Completa Mares Piratas - Día 11.
+Completa Mares Piratas - Día 11
 
 [NOVICESEVENDAYS_TASK_NAME_20]
-Completa Mares Piratas - Día 13.
+Completa Mares Piratas - Día 13
 
 [NOVICESEVENDAYS_TASK_NAME_21]
-Recolecta 35 Estrellas.
+Recolecta 35 Estrellas
 
 [NOVICESEVENDAYS_TASK_NAME_22]
-Refresca las propiedades de una Familia de plantas una vez.
+Refresca las propiedades de una Familia de plantas una vez
 
 [NOVICESEVENDAYS_TASK_NAME_23]
-Mejora tu Base al Nvl. 3 en el Laboratorio de Jardinería.
+Mejora tu Base al Nvl. 3 en el Laboratorio de Jardinería
 
 [NOVICESEVENDAYS_TASK_NAME_23_CHANGE]
-Juega 5 partidas en la Dimensión del Recuerdo.
+Juega 5 partidas en la Dimensión del Recuerdo
 
 [NOVICESEVENDAYS_TASK_NAME_24]
-Alcanza el Nivel 25 en la Zona de Infinito.
+Alcanza el Nivel 25 en la Zona de Infinito
 
 [NOVICESEVENDAYS_TASK_NAME_25]
-Canjea un artículo en las Tiendaz de Intercambioz.
+Canjea un artículo en las Tiendaz de Intercambioz
 
 [NOVICESEVENDAYS_TASK_NAME_25_CHANGE]
-Completa 3 Niveles en la Dimensión del Recuerdo.
+Completa 3 Niveles en la Dimensión del Recuerdo
 
 [NOVICESEVENDAYS_TASK_NAME_26]
-Derrota al Jefe de Mares Piratas.
+Derrota al Jefe de Mares Piratas
 
 [NOVICESEVENDAYS_TASK_NAME_27]
-Completa una Búsqueda de Penny (dificultad de 2 Jalapeños).
+Completa una Búsqueda de Penny (dificultad de 2 Jalapeños)
 
 [NOVICESEVENDAYS_TASK_NAME_28]
-Completa 5 Aventuras de plantas.
+Completa 5 Aventuras de plantas
 
 [NOVICESEVENDAYS_TASK_NAME_29]
-Juega 3 partidas en Batallaz.
+Juega 3 partidas en Batallaz
 
 [NOVICESEVENDAYS_TASK_NAME_30]
-Juega 5 partidas en La Búsqueda de Penny.
+Juega 5 partidas en La Búsqueda de Penny
 
 [NOVICESEVENDAYS_TASK_NAME_31]
-Alcanza el Nivel 50 en la Zona de Infinito.
+Alcanza el Nivel 50 en la Zona de Infinito
 
 [NOVICESEVENDAYS_TASK_NAME_32]
-Recolecta 45 Estrellas.
+Recolecta 45 Estrellas
 
 [NOVICESEVENDAYS_TASK_NAME_33]
-Completa Antiguo Egipto - Día 8 en el Modo Difícil.
+Completa Antiguo Egipto - Día 8 (Difícil)
 
 [NOVICESEVENDAYS_TASK_NAME_34]
-Juega 3 partidas en los Retos diarios.
+Juega 3 partidas en los Retos diarios
 
 [NOVICESEVENDAYS_TASK_NAME_35]
-Juega 3 partidas en Dueloz.
+Juega 3 partidas en Dueloz
 
 [NOVICESEVENDAYS_TASK_NAME_35_CHANGE]
-Derrota a 1 Zombi de élite en la Dimensión del Recuerdo.
+Derrota a 1 Zombi de élite en la Dimensión del Recuerdo
 
 [NOVICESEVENDAYS_TASK_NAME_36]
-Completa un Reto diario en el Modo Difícil (uno por cada modo).
+Completa un Reto diario en el Modo Difícil (uno por cada modo)
 
 [NOVICESEVENDAYS_TASK_NAME_37]
-Mejora un Supercolgante subiéndolo de Nivel.
+Mejora un Supercolgante subiéndolo de Nivel
 
 [NOVICESEVENDAYS_TASK_NAME_38]
-Abre 15 Cofres.
+Abre 15 Cofres
 
 [NOVICESEVENDAYS_TASK_NAME_39]
-Completa 7 Aventuras de plantas.
+Completa 7 Aventuras de plantas
 
 [NOVICESEVENDAYS_TASK_NAME_40]
-Completa Antiguo Egipto - Día 14 en el Modo Difícil.
+Completa Antiguo Egipto - Día 14 (Difícil)
 
 [NOVICESEVENDAYS_TASK_NAME_41]
-Inicia sesión un día en los Premios por Inicio de Sesión diaria.
+Inicia sesión un día en los Premios diarios
 
 [NOVICESEVENDAYS_TASK_NAME_42]
-Compra una planta en la Tienda de Rubíes misteriosos.
+Compra una planta en la Tienda misteriosa
 
 [NOVICESEVENDAYS_TASK_NAME_43]
-Completa 3 Retos diarios en el Modo Difícil (3 por cada modo).
+Completa 3 Retos diarios en el Modo Difícil (3 por cada modo)
 
 [NOVICESEVENDAYS_TASK_NAME_44]
-Juega 7 partidas en Batallaz.
+Juega 7 partidas en Batallaz
 
 [NOVICESEVENDAYS_TASK_NAME_45]
-Fusiona Piezas una vez en Transgénesis.
+Fusiona Piezas una vez en Transgénesis
 
 [NOVICESEVENDAYS_TASK_NAME_46]
-Derrota al Dr. Zombi una vez en La Búsqueda de Penny.
+Derrota al Dr. Zombi una vez en La Búsqueda de Penny
 
 [NOVICESEVENDAYS_TASK_NAME_47]
-Completa Mares Piratas - Día 5 en el Modo Difícil.
+Completa Mares Piratas - Día 5 (Difícil)
 
 [NOVICESEVENDAYS_TASK_NAME_48]
-Recolecta 60 Estrellas.
+Recolecta 60 Estrellas
 
 [NOVICESEVENDAYS_TASK_NAME_49]
-Desbloquea el Salvaje Oeste.
+Desbloquea el Salvaje Oeste
 
 [NOVICESEVENDAYS_TASK_NAME_50]
-Juega 1 partida en la Dimensión del Recuerdo.
+Juega 1 partida en la Dimensión del Recuerdo
 
 [NOVICESEVENDAYS_TASK_NAME_51]
-Juega 2 partidas en la Dimensión del Recuerdo.
+Juega 2 partidas en la Dimensión del Recuerdo
 
 [NOVICESEVENDAYS_TASK_NAME_52]
-Juega 3 partidas en la Dimensión del Recuerdo.
+Juega 3 partidas en la Dimensión del Recuerdo
 
 [NOVICESEVENDAYS_TASK_NAME_53]
-Juega 1 partida de la Dimensión del Recuerdo en el Modo difícil.
+Juega 1 partida de la Dimensión del Recuerdo en el Modo difícil
 
 [NOVICESEVENDAYS_TASK_NAME_54]
-Derrota a 1 Zombi de élite en la Dimensión del Recuerdo.
+Derrota a 1 Zombi de élite en la Dimensión del Recuerdo
 
 [NOVICESEVENDAYS_UNLOCK]
 Se desbloquea en {NUM} d
@@ -45023,7 +45023,7 @@ Encanta a los dinosaurios para que se vuelvan en contra de los zombis
 Nivel 2
 
 [PERFUMESHROOM_SKILL_LEVEL1_DES]
-^4DD4DB^Encanto extendido:^oldclr^ su efecto encantador dura 1 segundo más.
+^4DD4DB^Encanto extendido:^oldclr^ su efecto encantador dura 1 s más
 
 [PERFUMESHROOM_SKILL_LEVEL2]
 Nivel 3
@@ -45553,16 +45553,16 @@ Nivel 2
 Nivel 3
 
 [PINECONE_SKILL_LEVEL2_DES]
-^DD7ECB^Francotirador experto:^oldclr^ se duplica la probabilidad de los efectos del Nvl. 2
+^DD7ECB^Francotirador experto:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
 
 [PINECONE_SKILL_LEVEL5]
 Nivel 5
 
 [PINECONE_SKILL_LEVEL5_DES]
-^DB8117^Granada de pinón:^oldclr^ gana la probabilidad de disparar una semilla explosiva que inflige daño y expulsa zombis en una casilla.
+^DB8117^Granada de piñón:^oldclr^ gana la probabilidad de disparar una semilla explosiva que inflige daño y expulsa zombis en una casilla.
 
 [PINECONE_TOOLTIP]
-Dispara semillas de piñón a los zombis, lanza ataques potentes al derrotarlos
+Dispara semillas de piñón a los zombis
 
 [PINKSTARFRUIT]
 Frustrella ángel
@@ -45715,7 +45715,7 @@ Lanza un tornado enorme que atrae zombis medianos en un área 3x3 y hace 270 DPS
 Nivel 2
 
 [PLANTAIN_SKILL_LEVEL1_DES]
-^4DD4DB^Danza rápida:^oldclr^ el tiempo de recuperación se reduce en un segundo.
+^4DD4DB^Danza rápida:^oldclr^ el tiempo de recuperación se reduce en 1 s
 
 [PLANTAIN_SKILL_LEVEL2]
 Nivel 3
@@ -45799,7 +45799,7 @@ Defensor blanco
 Defensor infinito
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE5]
-Defensores jurásico
+Defensor jurásico
 
 [PLANTDEFENCEGAMEMODE_DAYS_TITLE6]
 Defensor duro
@@ -48044,7 +48044,7 @@ Originaria de África, la okra se difundió rápidamente por Asia y América gra
 Lanza 3 pinchos gigantes ^E2725B^(+1 por cada mej. de Nivel). ^D22808^Daño: 600^oldclr^
 
 [POKRA_PRODUCT_SHORT_DESC]
-Da puñetazos perforantes que ralentizan zombis, acelera sus ataques con el tiempo
+Da puñetazos perforantes que aceleran
 
 [POKRA_SKILL_LEVEL1]
 Nivel 2
@@ -48065,7 +48065,7 @@ Nivel 5
 ^DB8117^Súper-puñetazo:^oldclr^ cuando su fase de ataque esté completamente cargada, tiene la probabilidad de dar un super puñetazo y lanzar dos pinchos
 
 [POKRA_TOOLTIP]
-Da puñetazos perforantes que ralentizan zombis, acelera sus ataques con el tiempo
+Da puñetazos perforantes que aceleran
 
 [POMEGRANATEJEWELER]
 Granada joyera
@@ -48875,7 +48875,7 @@ Lanza baba a 5 zombis aleatorios del patio. ^D22808^Daño: 400 (800 en casilla)^
 Nivel 2
 
 [PRIMALRAFFLESIA_SKILL_LEVEL1_DES]
-^4DD4DB^Baba azul:^oldclr^ sus proyectiles se vuelven azules y ganan la probabilidad de explotar por una segunda vez al derrotar zombis.
+^4DD4DB^Baba azul:^oldclr^ sus proyectiles se vuelven azules y ganan la probabilidad de explotar por segunda vez al derrotar zombis
 
 [PRIMALRAFFLESIA_SKILL_LEVEL2]
 Nivel 3
@@ -55773,7 +55773,7 @@ Golpea zombis cercanos, salta y los aturde si están lejos
 Nivel 2
 
 [RHUBARBARIAN_SKILL_LEVEL1_DES]
-^4DD4DB^Saltos largos:^oldclr^ la distancia del salto aumenta en 1 casilla; la duración del ataque y el aturdimiento aumenta en 1 segundo.
+^4DD4DB^Saltos largos:^oldclr^ la distancia del salto aumenta en 1 casilla; la duración del ataque y el aturdimiento aumenta en 1 s
 
 [RHUBARBARIAN_SKILL_LEVEL2]
 Nivel 3
@@ -55903,7 +55903,7 @@ Dispara balas que perforan y ralentizan zombis
 Nivel 2
 
 [RIFLEBAMBOO_SKILL_LEVEL1_DES]
-^4DD4DB^Perforación prolongada:^oldclr^ las balas perforan a los zombis durante un segundo más antes de explotar.
+^4DD4DB^Perforación prolongada:^oldclr^ las balas perforan a los zombis durante 1 s más antes de explotar.
 
 [RIFLEBAMBOO_SKILL_LEVEL2]
 Nivel 3
@@ -63032,7 +63032,7 @@ Come zombis y escupe sus cabezas
 Nivel 2
 
 [SNAPPEA_SKILL_LEVEL1_DES]
-^4DD4DB^Digestión acelerada:^oldclr^ el tiempo de digestión es reducido en 1 segundo.
+^4DD4DB^Digestión acelerada:^oldclr^ el tiempo de digestión es reducido en 1 s
 
 [SNAPPEA_SKILL_LEVEL2]
 Nivel 3
@@ -63103,13 +63103,13 @@ Lanza guisantes helados que frenan y dañan zombis
 Nivel 2
 
 [SNOWPEA_SKILL1_LEVEL1_DES]
-^4DD4DB^Carámbanos:^oldclr^ gana un 15% de probabilidad de disparar un carámbano, el cual, inflige el triple de daño
+^4DD4DB^Aliento congelante:^oldclr^ gana un 15% de probabilidad de disparar un carámbano, el cual, inflige el triple de daño
 
 [SNOWPEA_SKILL1_LEVEL2]
 Nivel 3
 
 [SNOWPEA_SKILL1_LEVEL2_DES]
-^DD7ECB^Carámbanos mejorados:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+^DD7ECB^Cero absoluto:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
 
 [SNOWPEA_SKILL1_LEVEL5]
 Nivel 5
@@ -63393,7 +63393,7 @@ Resiste y golpea a los zombis que se encuentren a 2 casillas
 Nivel 2
 
 [SPARTANBAMBOO_SKILL_LEVEL1_DES]
-^4DD4DB^Megalomanía:^oldclr^ entra en trance tras derrotar un zombi, reduciendo su intervalo de ataques. Su paquetes de semillas recarga más rápido.
+^4DD4DB^Modo berserker:^oldclr^ entra en trance tras derrotar un zombi, reduciendo su intervalo de ataques. Su paquetes de semillas recarga más rápido.
 
 [SPARTANBAMBOO_SKILL_LEVEL2]
 Nivel 3
@@ -63698,13 +63698,13 @@ Genera nuevas Setas esporadas de los zombis derrotados
 Nivel 2
 
 [SPORESHROOM_SKILL_LEVEL1_DES]
-^4DD4DB^Esporadas coloridas:^oldclr^ gana la probabilidad de crear otros de tipos de setas con sus esporas.
+^4DD4DB^Esporas coloridas:^oldclr^ gana la probabilidad de crear otros de tipos de setas con sus esporas.
 
 [SPORESHROOM_SKILL_LEVEL2]
 Nivel 3
 
 [SPORESHROOM_SKILL_LEVEL2_DES]
-^DD7ECB^Surtido de setas:^oldclr^ mejora los efectos del Nvl. 2
+^DD7ECB^Surtido de setas:^oldclr^ puede crear más tipos setas con sus esporas
 
 [SPORESHROOM_TOOLTIP]
 Genera nuevas Setas esporadas de los zombis derrotados
@@ -63807,7 +63807,7 @@ Festival de primavera - Día 11
 Festival de primavera - Día 12
 
 [SPRINGFESTIVAL_2024_NAME_13]
-Festival de primavera - Día 13
+Festival de primavera - Día final
 
 [SPRINGGIFT_DES]
 ^ffff00^{NAME} al Nvl. 3^oldclr^
@@ -64216,7 +64216,7 @@ Nivel 2
 Nivel 3
 
 [SQUASH_SKILL1_LEVEL2_DES]
-^DD7ECB^Saltos persistentes:^oldclr^ mejora los efectos del Nvl. 2 al doble
+^DD7ECB^Aplastador experimentado:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [SQUASH_SKILL1_LEVEL5]
 Nivel 5
@@ -65437,7 +65437,7 @@ Las hojas pueden dividirse 2 veces al impactar con un enemigo.
 Lanza una salva de 6 hojas grandes que derriban zombis 1 casilla. ^D22808^Daño: 300^oldclr^
 
 [STEPHANIA_PRODUCT_SHORT_DESC]
-Protege tus plantas de peces globo; daña al enemigo con sus hojas
+Dispara hojas y devuelve peces globo
 
 [STEPHANIA_SKILL_LEVEL1]
 Nivel 2
@@ -65458,7 +65458,7 @@ Nivel 5
 ^DB8117^Doble de hojas:^oldclr^ las hojas pueden dividirse 2 veces al impactar con un enemigo.
 
 [STEPHANIA_TOOLTIP]
-Protege tus plantas de peces globo; daña al enemigo con sus hojas
+Dispara hojas y devuelve peces globo
 
 [STEP_NUMBER]
 PASO {NUMBER}
@@ -67929,7 +67929,7 @@ Aturde a los zombis cercanos de la línea
 Nivel 2
 
 [STUNION_SKILL_LEVEL1_DES]
-^4DD4DB^Aliento aturdidor:^oldclr^ los zombis serán aturdidos por 2 segundos adicionales
+^4DD4DB^Aliento aturdidor:^oldclr^ los zombis serán aturdidos por 2 s adicionales
 
 [STUNION_SKILL_LEVEL2]
 Nivel 3
@@ -68539,19 +68539,19 @@ Produce más sol con el paso del tiempo
 Nivel 2
 
 [SUNSHROOM_SKILL1_LEVEL1_DES]
-^4DD4DB^Crecimiento acelerado:^oldclr^ crece 2 veces más rápido.
+^4DD4DB^Crecimiento acelerado:^oldclr^ crece 2 veces más rápido
 
 [SUNSHROOM_SKILL1_LEVEL2]
 Nivel 3
 
 [SUNSHROOM_SKILL1_LEVEL2_DES]
-^DD7ECB^Super-crecimiento:^oldclr^ crece 5 veces más rápido.
+^DD7ECB^Super-crecimiento:^oldclr^ crece 5 veces más rápido
 
 [SUNSHROOM_SKILL1_LEVEL5]
 Nivel 5
 
 [SUNSHROOM_SKILL1_LEVEL5_DES]
-^DB8117^Espora solar:^oldclr^mejora el daño de las plantas en un área de 3x3 en un 50% (las setas reciben el doble de bonificación)
+^DB8117^Espora solar:^oldclr^ mejora el daño de las plantas en un área de 3x3 en un 50% (las setas reciben el doble de bonificación)
 
 [SUNSHROOM_TOOLTIP]
 Produce más sol con el paso del tiempo
@@ -71254,7 +71254,7 @@ Completado
 Diario
 
 [TRAVEL_LOG_OBTAINED]
-¡Ya has recogido este Cofre!
+^FF0000^¡Ya has recogido este Cofre!^oldclr^
 
 [TRAVEL_LOG_PROGRASS]
 Progreso
@@ -71472,7 +71472,7 @@ Atrae aves que dispersan sus semillas para controlar zombis
 Nivel 2
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL1_DES]
-^4DD4DB^Parasitación acelerada:^oldclr^ reduce el tiempo de recuperación en 2,5 s el polen dura 1 s más.
+^4DD4DB^Parasitación acelerada:^oldclr^ reduce el tiempo de recuperación en 2,5 s; el polen dura 1 s más
 
 [TRISTERIXAPHYLLUS_SKILL_LEVEL2]
 Nivel 3
@@ -71647,7 +71647,7 @@ Sale del suelo y ataca a los zombis cercanos con sus hojas afiladas
 Nivel 2
 
 [TUPISTRASTALKER_SKILL_LEVEL1_DES]
-^4DD4DB^Emboscada acelerada:^oldclr^ el tiempo de recuperación se reduce en 1 segundo.
+^4DD4DB^Emboscada acelerada:^oldclr^ el tiempo de recuperación se reduce en 1 s
 
 [TUPISTRASTALKER_SKILL_LEVEL2]
 Nivel 3
@@ -71709,7 +71709,7 @@ Lanza pavos de tofu
 Nivel 2
 
 [TURKEYPULT_SKILL_LEVEL1_DES]
-^4DD4DB^Ataque apresurado:^oldclr^ el tiempo de recuperación se reduce en 1 segundo; su coste en soles se reduce en 25
+^4DD4DB^Ataque apresurado:^oldclr^ el tiempo de recuperación se reduce en 1 s; su coste en soles se reduce en 25
 
 [TURKEYPULT_SKILL_LEVEL2]
 Nivel 3
@@ -71730,7 +71730,7 @@ Lanza pavos de tofu por la línea
 Rábano blanco
 
 [TURNIP_AVATAR_PLANTFOOD_DESCRIPTION]
-Aumenta el número de clones creados a 2.
+Aumenta el número de clones creados a 2
 
 [TURNIP_DESCRIPTION]
 {KEYWORD}Especial: {STAT}protege plantas del Zombi Qigong y de los agujeros negros
@@ -71861,7 +71861,7 @@ Usa el poder solar para dañar zombis y el poder lunar para ralentizarlos
 Nivel 2
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL1_DES]
-^4DD4DB^Astros alineados:^oldclr^ reduce el tiempo de recuperación en 2,5 segundos; aumenta el número de estrellas liberadas
+^4DD4DB^Astros alineados:^oldclr^ reduce el tiempo de recuperación en 2,5 s; aumenta el número de estrellas liberadas
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL2]
 Nivel 3
@@ -72176,7 +72176,7 @@ Se recarga y lanza un rayo devastador por la línea
 Nivel 2
 
 [ULTOMATO_SKILL_LEVEL1_DES]
-^4DD4DB^Carga acelerada:^oldclr^ se reduce el tiempo de carga de ataque en 1 segundo.
+^4DD4DB^Carga acelerada:^oldclr^ reduce el tiempo de carga de ataque en 1 s
 
 [ULTOMATO_SKILL_LEVEL2]
 Nivel 3
@@ -72233,7 +72233,7 @@ Gana un ^D22808^50% de probabilidad^oldclr^ de ser potenciada por el efecto de N
 ^DB8117^Nutrientes: repele zombis medianos de un área 5x5, derribándolos por 3 casillas.^oldclr^
 
 [UMBRELLALEAF_NEW_SKILL_LEVEL5_DES]
-Usa sus hojas para devolver proyectiles enemigos. Bloqueará el impacto de los que no puedan ser devueltos en un área 3x3.
+Usa sus hojas para devolver proyectiles enemigos.
 
 [UMBRELLALEAF_PLANTFOOD_DESCRIPTION]
 Repele zombis pequeños y medianos de un área 5x5, derribándolos por 3 casillas.
@@ -72254,7 +72254,7 @@ Nivel 3
 Nivel 5
 
 [UMBRELLALEAF_SKILL_LEVEL5_DES]
-^DB8117^Devolución al remitente:^oldclr^ usa sus hojas para devolver los proyectiles enemigos. Bloqueará el impacto de los que no puedan ser devueltos en su lugar.
+^DB8117^Devolución al remitente:^oldclr^ usa sus hojas para devolver los proyectiles enemigos
 
 [UMBRELLALEAF_TOOLTIP]
 Protege a las plantas cercanas de zombis y objetos arrojadizos
@@ -73903,13 +73903,13 @@ Nivel 5
 Sopla ráfagas de viento que dañan a todos los zombis de la línea
 
 [VASEBREAKER_ATLANTIS_LEVEL_NAME_1]
-Desafío submarino: azul infinito
+Desafío submarino: Azul infinito
 
 [VASEBREAKER_ATLANTIS_LEVEL_NAME_2]
-Desafío submarino: mar abierto
+Desafío submarino: Mar abierto
 
 [VASEBREAKER_ATLANTIS_LEVEL_NAME_3]
-Desafío submarino: abismo profundo
+Desafío submarino: Abismo profundo
 
 [VASEBREAKER_BEACH_LEVEL_NAME_1]
 Desafío playero: ¡A la playa!
@@ -75267,7 +75267,9 @@ Planta carnívora: Piezas x10
 
 [WISHING_POOL_DESCRIPTION_1_VERSION1]
 1. Obtén Monedas del Deseo comprando Paquetes de Regalo y ponlas en la reserva para obtener recompensas. Las Monedas expiran, úsalas antes de que el evento acabe.
+
 2. La fuente tiene 9 burbujas con tres posibles recompensas. Puedes conseguir una de ellas en la lotería. Al recibir la recompensa, puedes reiniciar la burbuja para volver a reclamarla o esperar a que todas se reinicien una vez abiertas.
+
 3. Por cada 10 sorteos ganas 1 Burbuja de premios.
 
 [WISHING_POOL_DESCRIPTION_1_VERSION2]
@@ -75476,13 +75478,13 @@ Transforma a un zombi aleatorio en una Humoseta o le hace 2.400 DPS
 Nivel 2
 
 [WITCHHAZEL_SKILL_LEVEL1_DES]
-^4DD4DB^Escudo invencible:^oldclr^ las Setas desesporadas creadas serán inmortales durante 3 segundos.
+^4DD4DB^Escudo invencible:^oldclr^ las Setas desesporadas creadas serán inmortales durante 3 s
 
 [WITCHHAZEL_SKILL_LEVEL2]
 Nivel 3
 
 [WITCHHAZEL_SKILL_LEVEL2_DES]
-^DD7ECB^Hechizo rápido:^oldclr^ su cadencia de disparo se reduce en 5 segundos.
+^DD7ECB^Hechizo rápido:^oldclr^ su cadencia de disparo se reduce en 5 s
 
 [WITCHHAZEL_SUPERSKILL_DES]
 ^DB8117^Truco de magia:^oldclr^ gana la probabilidad de transformar a 2 zombis a la vez.
@@ -75542,7 +75544,7 @@ Manipula espinas con magia para dañar o enredar zombis
 Nivel 2
 
 [WIZARDTHORNS_SKILL_LEVEL1_DES]
-^4DD4DB^Espinas rápidas:^oldclr^ reduce el tiempo entre ataques en 2 segundos, las espinas duran más tiempo
+^4DD4DB^Espinas rápidas:^oldclr^ reduce el tiempo entre ataques en 2 s, las espinas duran más tiempo
 
 [WIZARDTHORNS_SKILL_LEVEL2]
 Nivel 3
