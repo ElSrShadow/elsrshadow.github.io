@@ -1,8 +1,316 @@
 ﻿[#OF#]
 # de #
 
+[ZOMBIE_MUMMY_ARMOR4]
+Zombi carapirámide
+
+[ZOMBIE_MUMMY_ARMOR4_DESCRIPTION]
+Zombi carapirámide no es consciente de que su pirámide tiene forma de pirámide. A ese respecto, es algo lentito.
+
+[ZOMBIE_MUMMY_ARMOR4_DESCRIPTION_HEADER]
+Su casco con forma de pirámide le proporciona una protección triangular a la cabeza.
+
+[ZOMBIE_PIRATE_ARMOR4]
+Zombi caratonel
+
+[ZOMBIE_PIRATE_ARMOR4_DESCRIPTION]
+Arrastrado de los mares más profundos, el tonel de Zombi caratonel es un barril de gran calidad que quizás es un poquito cómodo de más.
+
+[ZOMBIE_PIRATE_ARMOR4_DESCRIPTION_HEADER]
+El sombrero con forma de barril de Zombi caratonel le proporciona protección aumentada.
+
+[ZOMBIE_COWBOY_ARMOR4]
+Zombi caracarro
+
+[ZOMBIE_COWBOY_ARMOR4_DESCRIPTION]
+Zombi caracarro se podría mover mucho más rápido si hiciera el pino y rodara, pero no es capaz de llegar a tanto.
+
+[ZOMBIE_COWBOY_ARMOR4_DESCRIPTION_HEADER]
+El sombrero con forma de carro de Zombi caracarro le ofrece una protección craneal sobre ruedas.
+
+[ZOMBIE_FUTURE_ARMOR4]
+Zombi caraholograma
+
+[ZOMBIE_FUTURE_ARMOR4_DESCRIPTION]
+El campo de fuerza tiene ese color único por la armonía de la frecuencia y una buena dosis de pintura morada.
+
+[ZOMBIE_FUTURE_ARMOR4_DESCRIPTION_HEADER]
+El campo de fuerza instalado en la cabeza de Zombi caraholograma le proporciona una hiperprotección.
+
+[ZOMBIE_DARK_ARMOR4]
+Zombi caratorre
+
+[ZOMBIE_DARK_ARMOR4_DESCRIPTION]
+Hace figurillas con forma de torre para los demás zombis.
+
+[ZOMBIE_DARK_ARMOR4_DESCRIPTION_HEADER]
+Su torre le proporciona una dureza bastante elevada.
+
+[ZOMBIE_ICEAGE_ARMOR4]
+Zombi caracráneo
+
+[ZOMBIE_ICEAGE_ARMOR4_DESCRIPTION]
+Consigió el cráneo de mamút en una subasta.
+
+[ZOMBIE_ICEAGE_ARMOR4_DESCRIPTION_HEADER]
+El cráneo de mamút le proporciona una defensa colosal.
+
+[ZOMBIE_DINO_ARMOR4]
+Zombi caraámbar
+
+[ZOMBIE_DINO_ARMOR4_DESCRIPTION]
+Si fueras a extraer ADN de Zombi caraámbar y lo combinaras con el ADN de una rana, quebrantarías la ley en algún punto.
+
+[ZOMBIE_DINO_ARMOR4_DESCRIPTION_HEADER]
+La bola de ámbar que recubre la cabeza de Zombi caraámbar le proporciona una protección endurecida.
+
+[ZOMBIE_TUTORIAL_ARMOR4]
+Zombi caraladrillo
+
+[ZOMBIE_TUTORIAL_ARMOR4_DESCRIPTION]
+Después de consultarlo con varios lobos de cuentos, decidió que los cascos de paja y de madera no eran lo suficientemente resistentes, y que había que pensar en los cascos de ladrillo.
+
+[ZOMBIE_TUTORIAL_ARMOR4_DESCRIPTION_HEADER]
+La cabeza de ladrillo de Zombi caraladrillo está enladrillada enladrilladamente.
+
+[SMALLCHERRY]
+Cerecita
+
+[SMALLCHERRY_DESCRIPTION]
+{KEYWORD}Área: {STAT}1x3
+
+{FLAVOR}"¡Quiero explotar!"
+
+[SMALLCHERRY_DESCRIPTION_HEADER]
+Cerecita explota al contacto, destruyendo a los zombis de un área pequeña.
+
+[SMALLCHERRY_TOOLTIP]
+Explota al contacto
+
+[CARROTMISSILE]
+Misil de zanahoria
+
+[CARROTMISSILE_DESCRIPTION]
+{KEYWORD}Área: {STAT}3x3
+
+{FLAVOR}Un misil rico en betacarotenos y explosiones.
+
+[CARROTMISSILE_DESCRIPTION_HEADER]
+Explota cuando se lo comen o al ser removido por la pala.
+
+[CARROTMISSILE_TOOLTIP]
+Explota al ser destruido
+
+[SMALLCHESTNUT]
+Castañita
+
+[SMALLCHESTNUT_DESCRIPTION]
+{KEYWORD}Informacion de alcance: {STAT}se desplaza 3 casillas por delante o por detrás
+
+{FLAVOR}Vive con sus compañeras apretujadas bajo un mismo techo. Nadie recuerda quién llegó primero.
+
+[SMALLCHESTNUT_DESCRIPTION_HEADER]
+Castañina ataca y bloquea a los zombis de un área cercana, desplazándose si no encuentra enemigos.
+
+[SMALLCHESTNUT_TOOLTIP]
+Ataca y bloquea zombis cercanos
+
+[BASHOPULT]
+Bash-O-Pult
+
+[BASHOPULT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}devuelve los proyectiles bloqueados
+
+{FLAVOR}Tiene reflejos increíbles. Y también una alarmante pasión por destruir cosas.
+
+[BASHOPULT_DESCRIPTION_HEADER]
+Planta defensiva que bloquea los proyectiles aéreos de la línea.
+
+[BASHOPULT_TOOLTIP]
+Bloquea y devuelve proyectiles aéreos
+
+[SUNGUN]
+Magneto-seta solar
+
+[SUNGUN_DESCRIPTION]
+{KEYWORD}Especial: {STAT}puede atraer la pala del Zombi excavador
+
+{FLAVOR}Tiene un doctorado en magnetismo, física solar y puntería excesiva.
+
+[SUNGUN_DESCRIPTION_HEADER]
+Magneto-seta solar atrae soles y los dispara contra los zombis para infligirles daño masivo.
+
+[SUNGUN_TOOLTIP]
+Atrae y dispara soles
+
+[SUNPOD]
+Vaina solar
+
+[SUNPOD_DESCRIPTION]
+La economía solar está fuera de control, y ella es la principal beneficiaria.
+
+[SUNPOD_DESCRIPTION_HEADER]
+Vaina solar dispara soles al enemigo. Le crecerá una cabeza conforme más soles haya en el banco solar.
+
+[SUNPOD_TOOLTIP]
+Le crecen cabezas cuanto más soles acumules
+
+[SMALLEXPLODEONUT]
+Explotonuez JR
+
+[SMALLEXPLODEONUT_DESCRIPTION]
+Tiene la mala costumbre de tomarse todo de manera explosivamente personal.
+
+[SMALLEXPLODEONUT_DESCRIPTION_HEADER]
+Una nuez más débil que Explotonuez. Explota cuando se la comen.
+
+[SMALLEXPLODEONUT_TOOLTIP]
+Una nuez más débil que Explotonuez
+
+[SMALLCACTUS]
+Cactusito
+
+[SMALLCACTUS_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aturde zombis cada cierto tiempo
+
+{FLAVOR}Puede que pinche por fuera, pero debajo de esas peligrosas espinas yace un corazón bondadoso.
+
+[SMALLCACTUS_DESCRIPTION_HEADER]
+Cactusito bloquea y pincha a los zombis que lo muerdan, aturdiéndolos de vez en cuando.
+
+[SMALLCACTUS_TOOLTIP]
+Bloquea y pincha zombis
+
+[HOLLYBARRIERLEAF]
+Hoja de acebo
+
+[HOLLYBARRIERLEAF_DESCRIPTION]
+Le gusta mantener a los zombis a distancia. Muy, muy a distancia.
+
+[HOLLYBARRIERLEAF_DESCRIPTION_HEADER]
+Las hojas de acebo derriban al impactar y luego actúan como barreras que bloquean y dañan zombis.
+
+[HOLLYBARRIERLEAF_TOOLTIP]
+Barrera que daña zombis
+
+[MOMOTARONINJA]
+Berenjena ninja (clon)
+
+[MOMOTARONINJA_DESCRIPTION]
+
+
+[MOMOTARONINJA_DESCRIPTION_HEADER]
+
+
+[MOMOTARONINJA_TOOLTIP]
+Versión inutil de Berenjena ninja
+
+[BITPEASHOOTER]
+Lanzaguisantes de 8-bits
+
+[BITPEASHOOTER_DESCRIPTION]
+{KEYWORD}Uso: {STAT}desaparece después de un tiempo
+
+{FLAVOR}Dice que en su época los píxeles tenían más carácter. Y menos microtransacciones.
+
+[BITPEASHOOTER_DESCRIPTION_HEADER]
+Dispara guisantes pixelados a los zombis de la línea.
+
+[BITPEASHOOTER_TOOLTIP]
+Dispara guisantes pixelados por la línea
+
+[MAGICBEANS]
+Enredadera gigante
+
+[MAGICBEANS_DESCRIPTION]
+{KEYWORD}Uso: {STAT}derriba plantas y zombis al germinar
+
+{FLAVOR}Cuenta la leyenda que al subir por ella encuentras un castillo mágico y riquezas inimaginables.
+
+[MAGICBEANS_DESCRIPTION_HEADER]
+Una enredadera enorme que libera vainas para dañar a los zombis atacantes.
+
+[MAGICBEANS_TOOLTIP]
+Mata colosal que bloquea y destruye zombis
+
+[FROG]
+Sapo
+
+[FROG_DESCRIPTION]
+"¡Croac!"
+
+[FROG_DESCRIPTION_HEADER]
+Un sapo creado por la Bruja zombi. Escapa del patio brincando, porque eso es lo que los sapos hacen.
+
+[FROG_TOOLTIP]
+Brinca por el patio
+
+[DRAGONBABYBRUIT]
+Brutodragón bebé
+
+[DRAGONBABYBRUIT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}vuelve a crecer al usar Nutrientes
+
+{FLAVOR}Todavía es un bebé, pero ya destruyó tres macetas y media.
+
+[DRAGONBABYBRUIT_DESCRIPTION_HEADER]
+Brutodragón bebé escupe semillas a los zombis de la línea.
+
+[DRAGONBABYBRUIT_TOOLTIP]
+Escupe semillas por la línea
+
+[MINISHROOM]
+Miniseta
+
+[MINISHROOM_DESCRIPTION]
+{KEYWORD}Especial: {STAT}potencian setas y otras plantas de una misma casilla
+
+{FLAVOR}Le gusta ayudar a otras plantas. También devorar criaturas mucho más grandes que ella.
+
+[MINISHROOM_DESCRIPTION_HEADER]
+Las Minisetas engullen a los zombis cercanos mientras protegen plantas de la misma casilla.
+
+[MINISHROOM_TOOLTIP]
+Engullen zombis y protegen plantas
+
+[MINIGAME_IMITATER]
+Sombrero mágico
+
+[MINIGAME_IMITATER_DESCRIPTION]
+
+
+[MINIGAME_IMITATER_DESCRIPTION_HEADER]
+
+
+[MINIGAME_IMITATER_TOOLTIP]
+Contiene plantas o zombis dentro
+
+[MOONFLOWER_IZ]
+Flor lunar (Yo, zombi)
+
+[MOONFLOWER_IZ_DESCRIPTION]
+
+
+[MOONFLOWER_IZ_DESCRIPTION_HEADER]
+
+
+[MOONFLOWER_IZ_TOOLTIP]
+Potencia a las plantas sombrías adyacentes
+
+[SEA_PUFFSHROOM]
+Seta desesporada (clon)
+
+[SEA_PUFFSHROOM_DESCRIPTION]
+
+
+[SEA_PUFFSHROOM_DESCRIPTION_HEADER]
+
+
+[SEA_PUFFSHROOM_TOOLTIP]
+Dispara a corta distancia por tiempo limitado
+
 [ACCESSORY_EXCHANGE_FAILED]
-Error en el intercambio
+ERROR EN EL INTERCAMBIO
 
 [ACCESSORY_EXCHANGE_FAILED_TEXT]
 Puede ser que no tienes las suficientes Piezas o porque no hay conexión a Internet.
@@ -11,7 +319,7 @@ Puede ser que no tienes las suficientes Piezas o porque no hay conexión a Inter
 Vende los Colgantes que no necesites para hacer espacio.
 
 [ACCESSORY_FULL_TITLE]
-Espacio lleno
+ESPACIO LLENO
 
 [ACCESSORY_NAME_1]
 Botiquín universal
@@ -157,6 +465,7 @@ Aumenta el número de regalos disparados.
 
 [ACTINOSTEMMA_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}todo el mapa
+
 {KEYWORD}Especial: {STAT}sus regalos atraen zombis
 {KEYWORD}Efectos sorpresa: {STAT}explosión, terror, hipnosis, fuegos artificiales
 
@@ -242,10 +551,9 @@ Compra Paquetes de Regalo, obtén Cristales para canjearlos y participar en sort
 El evento ha terminado.
 
 [ACTIVITY_GROUP_BUY_DESCRIPTION]
-1. Horario: 9:00 AM - 9:00 PM del dia siguiente. El último día finaliza a las 24h
-2. Gasta Joyas durante el evento para comprar artículos y recibir un jugoso descuento.
-3. Se pueden conseguir Cupones por la recarga de 元. Los Cupones se usan para canjear artículos especiales.
-4. Las plantas que se pueden adquirir son de Nvl. 2 ó 3, se convierten en Piezas si ya las posees.
+1. Gasta Joyas durante el evento para comprar artículos y recibir un jugoso descuento.
+2. Se pueden conseguir Cupones por la recarga de 元. Los Cupones se usan para canjear artículos especiales.
+3. Las plantas que se pueden adquirir son de Nvl. 2 ó 3, se convierten en Piezas si ya las posees.
 
 [ACTIVITY_GROUP_BUY_TITLE]
 DESCRIPCIÓN DEL EVENTO
@@ -272,16 +580,18 @@ Compra Bolsas de regalo para obtener Joyas y disfraces raros
 Acumulado de Joyas
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_GOTO_BUTTON]
-VER PREMIOS
+IR
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_MAIN_TIPS]
-1. Compra Paquetes de regalo para conseguir Monedas de otoño y ganar superpremios.
-2. Realiza 30 sorteos para obtener una recompensa de tu elección, realiza 90 para conseguir Maíz de cosecha
+1. Compra Monedas de otoño con dinero real y ganar superpremios.
+
+2. Realiza 30 sorteos para obtener una recompensa de tu elección, realiza 90 para conseguir Maíz de cosecha.
+
 3. Las Monedas de otoño y el Maíz de cosecha se convertirán en Joyas al final del evento.
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_TIPS]
-1. La bolsa de premios es de 200.000 Joyas por cada jugador que participe en los Sorteos del evento.
-2. La cantidad de Joyas en la bolsa aumentará en 50 por cada Sorteo realizado
+1. La bolsa de premios inicial es de 200.000 Joyas.
+2. La cantidad de Joyas en la bolsa aumenta en 50 por cada Sorteo realizado
 3. El acumulado de Joyas se reparte en un 10% por cada jugador
 
 [ACTIVITY_NEW_DISCOUNTSHOP_DESC]
@@ -291,8 +601,8 @@ Compra artículos con jugosos descuentos.
 DESCRIPCIÓN DEL EVENTO
 
 [ACTIVITY_NEW_GIFTFORETURN_TIPS]
-1. La bolsa de premios es de 200.000 Joyas, la cantidad aumenta en 50 por cada Sorteo realizado
-2. El acumulado de Joyas se reparte en un 10% por cada jugador
+1. La bolsa de premios es de 200.000 Joyas, la cantidad aumenta en 50 por sorteo.
+2. El acumulado de Joyas se reparte en un 10% por cada jugador.
 
 [ACTIVITY_NEW_MINIGAME_BOWLING]
 La Bolera
@@ -322,7 +632,7 @@ Comprar x30 元
 Compra una hucha y ahorra hasta un ^ff0000^99%^oldclr^ al comprar Joyas ^ff0000^(máx. 2.970)^oldclr^
 
 [ACTIVITY_NEW_PIGGY_BANK_LOGIN_TEXT]
-#
+  #  
 
 [ACTIVITY_NEW_PIGGY_BANK_TITLE]
 Hucha de ahorros
@@ -1440,7 +1750,7 @@ Nivel 5
 ^DB8117^El Gran Vacío:^oldclr^ tiene la posibilidad de eliminar zombis por completo con una onda expansiva. Los zombis no eliminables son inmovilizados y reciben grandes daños en su lugar.
 
 [AEONIUM_TOOLTIP]
-Envía zombis al vacío, haciéndolos vulnerables a la magia
+Envía zombis al vacío
 
 [AFTER_LEVEL_SCORE]
 Puntos
@@ -1701,7 +2011,7 @@ Nivel 5
 ^DB8117^Giro explosivo:^oldclr^ aturde brevemente a los zombis que no son máquinas y les inflige daño eléctrico
 
 [ALARMSAGITTIFOLIA_TOOLTIP]
-Desata ondas de impacto que destruyen zombis e inutilizan máquinas cercanas
+Aplasta zombis e inutiliza máquinas cercanas
 
 [ALL_ARTIFACT]
 Todos
@@ -1979,7 +2289,9 @@ Invoca criaturas para atacar a los zombis
 
 [ANNIVERSART_TREASURE_DESCRIPTION]
 1. Gasta Joyas para obtener martillos, y úsalos para romper Jarrones con premios dentro.
+
 2. Recibes un premio especial al romper una fila entera de jarrones, obtienes la recompensa final al romper todos los Jarrones de oro.
+
 3. Los jarrones se restablecen de forma automática una vez todos estén rotos, existe un límite de tiempo y veces. También puedes gastar Joyas para resetearlos.
 
 [ANNIVERSART_TREASURE_DESCRIPTION_TITLE]
@@ -2840,7 +3152,7 @@ Nivel 5
 ^DB8117^Fuerza divina:^oldclr^ si el Despertar de una planta se activa bajo la Nube sagrada, Azálea imperial reactivará el efecto a cambio de soles
 
 [APSARLOTUS_TOOLTIP]
-Libera pétalos y nubes que potencian a las plantas de su alrededor
+Libera pétalos y nubes que potencian plantas
 
 [AQUARIUM_LOSS]
 ¡Todas tus mascotas zombis han fallecido!
@@ -2992,7 +3304,7 @@ Nivel 5
 ^DB8117^Rey del mar:^oldclr^ posibilidad de invocar a un tiburón rojo que devora zombis de un bocado
 
 [AQUAWEED_TOOLTIP]
-Invoca tiburones que muerden zombis hasta devorarlos
+Invoca tiburones que devoran zombis
 
 [ARBOARDAY_KETTLE_NOT_ENOUGH]
 Regaderas insuficientes.
@@ -4614,7 +4926,7 @@ Nivel 3
 ^DD7ECB^Perforación mejorada:^oldclr^ aumenta la probabilidad de disparar balas perforantes.
 
 [ASPARAGUS_TOOLTIP]
-Dispara balas de espárrago a los zombis por 3 líneas
+Dispara a los zombis por 3 líneas
 
 [ATLANTIS]
 La Atlántida
@@ -7485,7 +7797,7 @@ Nivel 5
 ^DB8117^Danza de la golondrina:^oldclr^ su abanico ahora inflige 2,5 veces más de daño cuando golpea zombis en la vuelta.
 
 [BOOPHONEGEISHA_TOOLTIP]
-Lanza su abanico para dañar zombis de varias líneas, en la ida y a la vuelta
+Lanza su abanico para dañar zombis de varias líneas, ¡dos veces!
 
 [BORROW_PLANT_STRONG]
 Super-plantas prestadas
@@ -7756,16 +8068,16 @@ Medalla del renacido
 Rango: {RANK}
 
 [BOSS_CHALLENGE_LOTTERY_5TH_MATERIAL_COST]
-^4DD4DB^{COUNT}^oldclr^
+^4DD4DB^    {COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_CHRISMAS_MATERIAL_COST]
-^A0522D^{COUNT}^oldclr^
+^A0522D^    {COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_MATERIAL_COST]
-^4DD4DB^{COUNT}^oldclr^
+^4DD4DB^    {COUNT}^oldclr^
 
 [BOSS_CHALLENGE_LOTTERY_NATIONAL_MATERIAL_COST]
-^DB8117^{COUNT}^oldclr^
+^DB8117^    {COUNT}^oldclr^
 
 [BOSS_CHALLENGE_NO_REWARD_TIP]
 No obtuviste recompensas, ¡buena suerte para la próxima!
@@ -7909,7 +8221,7 @@ Bloquea zombis y ^E2725B^te proteje de las pisadas del Brontosaurio.^oldclr^
 ^FF0000^Sin efecto de Nutrientes.^oldclr^
 
 [BRAMBLE_TOOLTIP]
-Bloquea zombis y te proteje de las pisadas del Brontosaurio
+Te proteje de zombis y brontosaurios
 
 [BROCCOLI]
 Brócoli vigoroso
@@ -7930,7 +8242,7 @@ Arroja al primer zombi que encuentre por su línea, causando un gran daño a tod
 {FLAVOR}Una vez soñó con convertirse en un superhéroe, como los que vió en los cómics. Para lograr su sueño, se unió al club de judo y entrenó todos los días sin descanso. No tiene superpoderes aún, pero su fuerza es lo más cerca que ha estado de uno.
 
 [BROCCOLI_DESCRIPTION_HEADER]
-Brócoli vigoroso agita y golpea contra el suelo a los zombis atacantes.
+Brócoli vigoroso azota a los zombis cercanas con un suplex, golpeando al resto.
 
 [BROCCOLI_FAMILY]
 Brassicaceae
@@ -7965,7 +8277,7 @@ Atrae a un zombi lejano y lo sacude, infligiendo daño en un área de 3x3, luego
 ^D22808^Daño por segundo: 800^oldclr^
 
 [BROCCOLI_PRODUCT_SHORT_DESC]
-Sacude contra el suelo a los zombis atacantes
+Azota zombis con un suplex
 
 [BROCCOLI_SKILL1_LEVEL1]
 Nivel 2
@@ -7980,7 +8292,7 @@ Nivel 3
 ^DD7ECB^Vigor aumentado:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
 
 [BROCCOLI_TOOLTIP]
-Agita y golpea contra el suelo a los zombis atacantes
+Azota zombis con un suplex
 
 [BROMELBLADE]
 Bromelia guerreante
@@ -8038,7 +8350,7 @@ Esta planta es también conocida como "bromelia pico de loro" debido a la forma 
 Blande su hoja de cuchillas, infligiendo daño masivo en un área 3x3 delante de él. ^D22808^Daño: 600 (x2)^oldclr^
 
 [BROMELBLADE_PRODUCT_SHORT_DESC]
-Ataca a los zombis cercanos con una cadena de cuchillas
+Acuchilla a los zombis cercanos
 
 [BROMELBLADE_SKILL_LEVEL1]
 Nivel 2
@@ -8059,7 +8371,7 @@ Nivel 5
 ^DB8117^Espigas ascendentes:^oldclr^ existe la posibilidad de liberar un ataque más potente tras dos estocadas letales
 
 [BROMELBLADE_TOOLTIP]
-Ataca a los zombis cercanos con una cadena de cuchillas
+Acuchilla a los zombis cercanos
 
 [BUBBLECORAL]
 Coral burbuja
@@ -8262,7 +8574,7 @@ Hace 1.000 DPS, derriba zombis pequeños o medianos y ^848484^aturde^oldclr^ a l
 ^D22808^Impacto mejorado: derribo o aturdimiento (guisantes)^oldclr^
 
 [BURDOCKBATTER_PRODUCT_SHORT_DESC]
-Golpea zombis cercanos, batea guisantes que infligen más daño o los aturden
+Golpea zombis cercanos y batea guisantes
 
 [BURDOCKBATTER_SKILL_LEVEL1]
 Nivel 2
@@ -8283,7 +8595,7 @@ Nivel 5
 ^DB8117^Jonrón:^oldclr^ el Tiro curvo tiene la posibilidad de convertir guisantes en meteoros que hacen mucho daño
 
 [BURDOCKBATTER_TOOLTIP]
-Golpea zombis cercanos, batea guisantes que infligen más daño o los aturden
+Golpea zombis cercanos y batea guisantes
 
 [BUTTER]
 Echar mantequilla
@@ -8646,7 +8958,7 @@ Al lanzar sus ataques potentes, arrojará múltiples mazos que dañan hasta 3 zo
 Da un golpe que inflige grandes daños y derriba zombis por 2 casillas. ^D22808^Daño: 600^oldclr^
 
 [BYTTNERIAMETEORHAMMER_PRODUCT_SHORT_DESC]
-Golpea a los zombis con su mazo; carga ataques potentes mientras no ataca
+Golpea a los zombis con su mazo
 
 [BYTTNERIAMETEORHAMMER_SKILL_LEVEL1]
 Nivel 2
@@ -8667,7 +8979,7 @@ Nivel 5
 ^DB8117^Potencia acumulada:^oldclr^ al lanzar sus ataques potentes, arrojará múltiples mazos que dañan a 3 zombis dentro de una casilla.
 
 [BYTTNERIAMETEORHAMMER_TOOLTIP]
-Golpea a los zombis con su mazo; carga ataques potentes mientras no ataca
+Golpea a los zombis con su mazo
 
 [CABBAGEPULT]
 Coltapulta
@@ -9470,7 +9782,7 @@ Gira lanzando 180 motosierras por el patio. ^D22808^Duración: 3 s^oldclr^
 ^E2725B^Tip: el color de las llamas cambia a medida que sube de Nivel.^oldclr^
 
 [CHAINSAWBURMANNII_PRODUCT_SHORT_DESC]
-Lanza motosierras que dañan a los zombis de su alrededor
+Lanza motosierras a sus alrededores
 
 [CHAINSAWBURMANNII_SKILL_LEVEL1]
 Nivel 2
@@ -9491,7 +9803,7 @@ Nivel 5
 ^DB8117^Llamas púrpuras:^oldclr^ 1/2 motosierras de llamas azules se convierte en llamas moradas, triplicando el daño. Aumenta el alcance y el número de proyectiles.
 
 [CHAINSAWBURMANNII_TOOLTIP]
-Lanza motosierras que dañan a los zombis de su alrededor
+Lanza motosierras a sus alrededores
 
 [CHALLENGE_APPLY_ZOMBIE_CONDITIONS_CHILL]
 ¡Enfría a los zombis {COUNT} veces!
@@ -10349,7 +10661,7 @@ Borrar mazo
 SELECCIONAR PLANTAS
 
 [CHOOSER_SELECT_PLANTS_LEVEL]
-Selec. Nvl. de planta
+SELEC. NIVEL DE PLANTA
 
 [CHOOSER_SHOW_COMPLETED_OBJECTIVE_HINTS]
 Aparece un mensaje completo en el nivel
@@ -10397,7 +10709,7 @@ Si este mensaje aparece más de una vez, refresca la interfaz o conéctate a una
 Obteniendo info de recompensas...
 
 [CHRISTMAS_GOLDEN_EGG_HAMMERS_INFO]
-Recibes {HAMMERS} Martilllos de oro por la recarga diaria de {RMB} 元
+Recibes ^DB8117^{HAMMERS} Martilllos de oro^oldclr^ por la recarga diaria de {RMB} 元
 
 [CHRISTMAS_GOLDEN_EGG_NOT_BUY_BUTTON]
 CANCELAR
@@ -10620,7 +10932,7 @@ Atrae a 5 zombis aleatorios en un área de 3x3 frente a él y los golpea, derrib
 ^D22808^Daño: 1.200^oldclr^
 
 [CLAWGLORIOSA_PRODUCT_SHORT_DESC]
-Usa al primer zombi que se le acerque como escudo mientras golpea a los demás
+Usa zombis de escudo mientras golpea al resto
 
 [CLAWGLORIOSA_SKILL_LEVEL1]
 Nivel 2
@@ -10641,7 +10953,7 @@ Nivel 5
 ^DB8117^Puñetazo mortal:^oldclr^ cuando los zombis usados como escudo son atacados por otros zombis, existe la posibilidad de que use su puño derecho para derribarlos 2 casillas hacia atrás y restaurar su tiempo de recuperación.
 
 [CLAWGLORIOSA_TOOLTIP]
-Usa al primer zombi que se le acerque como escudo mientras golpea a los demás
+Usa zombis de escudo mientras golpea al resto
 
 [CLEARNOTIFYRETRYDETAILFAILED]
 Se ha producido un error al transferir la cuenta.
@@ -11019,13 +11331,18 @@ Contenido del lote
 
 [COLORCUSTOMIZATION_DESCRIPTION]
 1. Compra paquetes para obtener recompensas, incluidas Aspectos cromáticos.
+
 2. Obtienes una recompensa extra por cada 5 compras.
+
 3. Si ya tienes un Aspecto cromático, este se convierte en Piezas coloridas que pueden canjearse en la Tienda.
+
 4. Las Piezas coloridas expiran al final del evento, ¡úsalas cuanto antes!
 
 [COLORCUSTOMIZATION_DESCRIPTION_1]
 1. Por cada compra, tienes un 10% de obtener un Aspecto cromático.
+
 2. Recibes un aspecto garantizado tras realizar 10 compras.
+
 3. Debes desbloquear el Atuendo base para poder usar la variación cromática.
 
 [COLORCUSTOMIZATION_DESCRIPTION_TITLE_1]
@@ -11334,7 +11651,7 @@ Nivel 5
 ^DB8117^Maestro de la alquimia:^oldclr^ gana la probabilidad de lanzar una botella que envenena zombis en un área de 3x3.
 
 [CONVALLARIACHEMIST_TOOLTIP]
-Lanza flores venenosas a los zombis, el veneno aumenta con los impactos sucesivos
+Lanza flores venenosas a los zombis
 
 [CONVERSION_KEY_COSTUME_MULTI]
 ... y atuendos
@@ -11645,7 +11962,7 @@ Cultivado desde hace más de 7,000 años en regiones como la India, Egipto y Am�
 Convoca un muñeco de nieve gigante que ^0072FF^congela^oldclr^ zombis de un área 3x3 por 3 s. ^D22808^Daño: 1.200^oldclr^
 
 [COTTONYETI_PRODUCT_SHORT_DESC]
-Crea muñecos de nieve para dañar zombis
+Crea muñecos de nieve que rebotan por la línea
 
 [COTTONYETI_SKILL_LEVEL1]
 Nivel 2
@@ -11660,7 +11977,7 @@ Nivel 3
 ^DD7ECB^Impacto congelante:^oldclr^ gana la probabilidad de congelar zombis con sus muñecos de nieve.
 
 [COTTONYETI_TOOLTIP]
-Crea muñecos de nieve para dañar zombis
+Crea muñecos de nieve que rebotan por la línea
 
 [COWBOY]
 Salvaje Oeste
@@ -11723,7 +12040,7 @@ Después de que explote, caerán fuegos artificiales, los cuales, dañan a los z
 Genera una traca de petardos que inflige daño a todos los zombis de la fila. ^D22808^Daño: 900^oldclr^
 
 [CRACKER_PRODUCT_SHORT_DESC]
-Explota al contacto, causa daño a los zombis cercanos y los expulsa
+Explota al contacto, dañando o expulsando zombis
 
 [CRACKER_SKILL_LEVEL1]
 Nivel 2
@@ -11744,7 +12061,7 @@ Nivel 5
 ^DB8117^Fuegos artificiales:^oldclr^ después de que explote, caerán fuegos artificiales que dañan zombis cercanos.
 
 [CRACKER_TOOLTIP]
-Explota al contacto, causa daño a los zombis cercanos y los expulsa
+Explota al contacto, dañando o expulsando zombis
 
 [CRANJELLY]
 Gelatinadora
@@ -12293,7 +12610,7 @@ Esta planta es la flor nacional de Sudáfrica. Su nombre proviene de "Proteus", 
 Dispara 3 orbes que expulsan a los zombis pequeños y medianos. ^D22808^Daño: 1.000^oldclr^
 
 [CROWNFLOWER_PRODUCT_SHORT_DESC]
-Dispara rayos láser cuyo daño aumenta con el paso del tiempo
+Dispara rayos láser con daño sostenido
 
 [CROWNFLOWER_SKILL_LEVEL1]
 Nivel 2
@@ -12314,7 +12631,7 @@ Nivel 5
 ^DB8117^Láser potente:^oldclr^ el láser azul ralentiza zombis pequeños y medianos; el púrpura los empuja y ralentiza a los más grandes.
 
 [CROWNFLOWER_TOOLTIP]
-Dispara rayos láser cuyo daño aumenta con el paso del tiempo
+Dispara rayos láser con daño sostenido
 
 [CRYSTAL_COUNT]
 Cristales x{NUMBER}
@@ -15465,6 +15782,7 @@ Es capaz de recuperar toda su salud al usar Nutrientes en el modo Defensa conjun
 [DENDROBIUMGUARD_DESCRIPTION]
 {KEYWORD}Especial: {STAT}detiene los fuertes vientos del Tifón caótico
 {KEYWORD}Uso: {STAT}pierde sus hojas a causa del fuerte viento
+
 {KEYWORD}Defensa conjunta: {STAT}planta varios en columnas adyacentes, para aumentar la salud y regenerar hojas
 
 {KEYWORD}Características de la planta: {STAT}planta verde, defensa
@@ -15472,7 +15790,7 @@ Es capaz de recuperar toda su salud al usar Nutrientes en el modo Defensa conjun
 {FLAVOR}Siempre se ha adherido fuertemente a la Resistencia contra Desastres naturales, protegiendo a los que ama de los tifones y los zombis.
 
 [DENDROBIUMGUARD_DESCRIPTION_HEADER]
-Resiste a los fuertes vientos de tifones, a la vez que bloquea a los zombis atacantes.
+Dendrobium resiste los fuertes vientos de tifones mientras bloquea zombis.
 
 [DENDROBIUMGUARD_FAMILY]
 Orchidaceae
@@ -15510,7 +15828,7 @@ Derriba zombis por 1 casilla, recupera sus hojas y parte de su salud.
 ^E2725B^Defensa conjunta: propaga esta habilidad a otros Dendrobium^oldclr^
 
 [DENDROBIUMGUARD_PRODUCT_SHORT_DESC]
-Dendrobium resiste a los fuertes vientos de tifones. También bloquea a los zombis atacantes.
+Resiste tifones y bloquea zombis
 
 [DENDROBIUMGUARD_SKILL_LEVEL1]
 Nivel 2
@@ -15531,7 +15849,7 @@ Nivel 5
 ^DB8117^Repulsión:^oldclr^ cuando aún tiene hojas, existe la probabilidad de repeler a los zombis atacantes con ellas.
 
 [DENDROBIUMGUARD_TOOLTIP]
-Resiste tifones y bloquea a los zombis atacantes
+Resiste tifones y bloquea zombis
 
 [DEODARCEDAR]
 Capaci-cono
@@ -16077,7 +16395,7 @@ Fue cultivado en China desde hace más de mil años y posteriormente introducido
 ^FF0000^Sin efecto de Nutrientes.^oldclr^
 
 [DOUBLESAMARA_PRODUCT_SHORT_DESC]
-Crea un vórtice que atrae a los zombis de un área mediana
+Atrae a los zombis de un área mediana
 
 [DOUBLESAMARA_SKILL_LEVEL1]
 Nivel 2
@@ -16092,7 +16410,7 @@ Nivel 3
 ^DD7ECB^Viento ahuracanado:^oldclr^ gana la habilidad de derribar a los zombis de Nvl. 2
 
 [DOUBLESAMARA_TOOLTIP]
-Crea un vórtice que atrae a los zombis de un área mediana
+Atrae a los zombis de un área mediana
 
 [DOWNLOAD_AND_USE_NEW_APP]
 Se ha detectado una nueva actualización, descarga la última versión para jugar.
@@ -16152,7 +16470,7 @@ Asparagaceae
 Dracaena
 
 [DRACAENA_NEW_SKILL_LEVEL1_DES]
-Ataca zombis con diferentes tipos de espada.
+Arroja espadas por la línea.
 ^E2725B^Espada voladora: elimina zombis con un 40% de salud o menos.^oldclr^
 
 [DRACAENA_NEW_SKILL_LEVEL2_DES]
@@ -16179,7 +16497,7 @@ Ha sido cultivada desde la antigüedad, donde algunas especies eran valoradas po
 Lanza 50 espadas que infligen daño y derriban a los zombis de la línea. ^D22808^Daño: 40^oldclr^
 
 [DRACAENA_PRODUCT_SHORT_DESC]
-Ataca a los zombis de la línea con diferentes tipos de espada
+Arroja espadas por la línea
 
 [DRACAENA_SKILL_LEVEL1]
 Nivel 2
@@ -16200,7 +16518,7 @@ Nivel 5
 ^DB8117^Fuerza vital:^oldclr^ al atacar, existe la posibilidad lanzar una super-espada voladora que inflige grandes daños.
 
 [DRACAENA_TOOLTIP]
-Ataca a los zombis de la línea con diferentes tipos de espada
+Arroja espadas por la línea
 
 [DRAFTODIL]
 Narcisil
@@ -16221,7 +16539,7 @@ Al usar Nutrientes, las balas de aire comprimido se dispersarán por 3 líneas ^
 Narcisil gira sin parar, ralentizando así, a los zombis voladores, y lanzando salvas de aire comprimido que expulsan del patio a los zombis voladores.
 
 [DRAFTODIL_NEW_SKILL_LEVEL1_DES]
-Lanza salvas de aire comprimido que aturden zombis terrestres por 0.5 s
+Dispara salvas de aire comprimido que aturden zombis terrestres por 0.5 s
 ^979A9A^Voladores al ralentí: 30% ralentización por 5 s^oldclr^
 ^E2725B^Especial: 50% de eliminar zombis voladores, 25% de expulsar alimañas^oldclr^
 
@@ -16233,7 +16551,7 @@ Aumenta la posibilidad de expulsar alimañas a un 50% y zombis voladores en un 9
 
 [DRAFTODIL_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^60% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: repele a todos los zombis voladores de la línea y lanza 10 ráfagas de aire.^oldclr^
+^DB8117^Nutrientes: repele a todos los zombis voladores de la línea y dispara 10 ráfagas de aire.^oldclr^
 
 [DRAFTODIL_NEW_SKILL_LEVEL5_DES]
 Al atacar, existe un ^D22808^15% de probabilidad^oldclr^ de disparar una bala que atraviesa un zombi y aturde por 1 s
@@ -16243,7 +16561,7 @@ Al atacar, existe un ^D22808^15% de probabilidad^oldclr^ de disparar una bala qu
 Repele a todos los zombis voladores de la línea y lanza 10 ráfagas de aire.
 
 [DRAFTODIL_PRODUCT_SHORT_DESC]
-Lanza salvas de aire comprimido que ralentizan y eliminan a los zombis voladores
+Dispara salvas de aire comprimido
 
 [DRAFTODIL_SKILL_LEVEL1]
 Nivel 2
@@ -16264,7 +16582,7 @@ Nivel 5
 ^DB8117^Aire ultracomprimido:^oldclr^ al atacar, existe la probabilidad de disparar una bala más poderosa que atraviesa zombis.
 
 [DRAFTODIL_TOOLTIP]
-Lanza salvas de aire comprimido que ralentizan y eliminan a los zombis voladores
+Dispara salvas de aire comprimido
 
 [DRAGONBRUIT]
 Pitahydra
@@ -16312,7 +16630,7 @@ Arroja brotes a todos los zombis del patio, hacen 135 DPS (casilla).
 ^A048CF^Potenciado: lanza el triple de proyectiles.^oldclr^
 
 [DRAGONBRUIT_PRODUCT_SHORT_DESC]
-Lanza proyectiles a 3 líneas, se divide al ser destruido
+Lanza proyectiles a 3 líneas
 
 [DRAGONBRUIT_SKILL_LEVEL1]
 Nivel 2
@@ -16333,7 +16651,7 @@ Nivel 5
 ^DB8117^Mutación elemental:^oldclr^ cada 20 s, la cabeza central se transformará en una variante elemental al azar. La variante explota al ser destruída
 
 [DRAGONBRUIT_TOOLTIP]
-Lanza proyectiles a 3 líneas, se divide al ser destruido
+Lanza proyectiles a 3 líneas
 
 [DRAGONCANE]
 Maestro caña
@@ -16406,7 +16724,7 @@ Nivel 3
 Nivel 5
 
 [DRAGONCANE_TOOLTIP]
-Golpea a los zombis que tiene en frente con su nunchaku de caña
+Golpea zombis con su nunchaku
 
 [DRAGONFRUIT]
 Fruta del dragón
@@ -16459,7 +16777,7 @@ Originaria de América Central, fue llevada al sudeste asiático, donde se popul
 Escupe una gran bola de fuego que rueda por la línea. ^D22808^Daño: 1.600^oldclr^
 
 [DRAGONFRUIT_PRODUCT_SHORT_DESC]
-Dispara pulpa ardiente para dañar zombis en un área pequeña
+Dispara pulpa ardiente y calienta plantas cercanas
 
 [DRAGONFRUIT_SKILL_LEVEL1]
 Nivel 2
@@ -16480,7 +16798,7 @@ Nivel 5
 ^DB8117^Pulpa súper-ardiente:^oldclr^ gana la habilidad de atacar a los zombis con fuego púrpura que inflige mucho más daño.
 
 [DRAGONFRUIT_TOOLTIP]
-Dispara pulpa ardiente para dañar zombis en un área pequeña
+Dispara pulpa ardiente y calienta plantas cercanas
 
 [DRAGONROAR]
 Hierba dinosaurio
@@ -16550,7 +16868,7 @@ Nivel 3
 Nivel 5
 
 [DRAGONROAR_TOOLTIP]
-Devora a los zombis cercanos, escupe baba mientras digiere
+Devora zombis, escupe baba mientras digiere
 
 [DRAGON_TREASURE]
 El Tesoro del Dragón
@@ -16727,7 +17045,7 @@ Ilán tormentoso
 Protectores morados
 
 [EAGLECLAW_AVATAR_PLANTFOOD_DESCRIPTION]
-La gran bola de rayos también aturde zombis durante 0.5 segundos por impacto
+La gran bola de rayos también aturde zombis por impacto
 
 [EAGLECLAW_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}línea
@@ -16896,7 +17214,7 @@ El alcance de su ataque cambia a una fila; cada misil inflige daño grupal en la
 Lanza 3 misiles que explotan en un área 3x3 y dejan tras de sí llamas durante 5 s. ^D22808^Daño: 500^oldclr^
 
 [EGRETFLOWER_PRODUCT_SHORT_DESC]
-Ataca a los zombis cercanos con misiles, a veces, dispara a largas distancias
+Ataca a los zombis cercanos con misiles
 
 [EGRETFLOWER_SKILL_LEVEL1]
 Nivel 2
@@ -16917,7 +17235,7 @@ Nivel 5
 ^DB8117^Táctica de aviación:^oldclr^ el alcance de su ataque cambia a una fila; cada misil inflige daño grupal en una misma casilla.
 
 [EGRETFLOWER_TOOLTIP]
-Ataca a los zombis cercanos con misiles, a veces, dispara a largas distancias
+Ataca a los zombis cercanos con misiles
 
 [EGYPT]
 Antiguo Egipto
@@ -16989,60 +17307,60 @@ Deportista
 Los torbellinos creados por ésta, ahora alcanzan a todos los objetivos de la línea.
 
 [ELAEOCARPUS_DESCRIPTION]
-{KEYWORD}Lanzamiento: {STAT}lanza volantes a los zombis que estén 4 casillas o más frente a ella
-{KEYWORD}Saque rápido: {STAT}volea en 3 casillas o menos frente a ella
-{KEYWORD}Especial: {STAT}puede eliminar zombis con menos del 40% de salud con su saque rápido
+{KEYWORD}Lanzamiento: {STAT}lanza volantes a los zombis que estén más de 4 casillas al frente. Estos rebotan de zombi en zombi.
+
+{KEYWORD}Saque rápido: {STAT}volea en 3 casillas o menos. Puede eliminar zombis con poca salud.
 
 {KEYWORD}Características de la planta: {STAT}planta blanca, destructora
 
-{FLAVOR}Flor de bádminton es una planta deportista reconocida a nivel nacional. Siempre está entrenando o buscando a alguien con quien jugar. Cuando conoce a una nueva planta, se acerca con una sonrisa humilde y un aire juguetón, y dice: "Para mí el deporte es vida. Nací para esto. ¿Te animas a echar un partido de bádminton conmigo?"
+{FLAVOR}Flor de bádminton es una planta deportista reconocida a nivel nacional. Siempre está entrenando o buscando a alguien con quien jugar.
 
 [ELAEOCARPUS_DESCRIPTION_HEADER]
-Flor de bádminton lanza volantes que rebotan de zombi en zombi a aquellos que se encuentran lejos de ella. Volea sus volantes para dañarlos gravemente si están cerca.
+Flor de bádminton tiene dos modos de ataque. Los activa según qué tan lejos estén los zombis de ella.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL1_DES]
-Lanza o volea volantes según que tan lejos estén los zombis de ella.
-^E2725B^Saque rápido: intervalo de 2.9 s, hace 120 DPS^oldclr^
+Lanzamiento: 4 casillas o más, hace 100 DPS cada 2.4 s ^E2725B^Rebote zombi: 2^oldclr^
+^A0522D^Saque rápido: 3 casillas o menos, hace 120 DPS cada 2.9 s ^E2725B^Eliminar zombis: 40% PS^oldclr^
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL2_DES]
-La distancia requerida para volear cambia de 3 casillas a 4
+La distancia para hacer Saques rápidos aumenta en 1 casilla ^D22808^(ahora 4)^oldclr^
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL3_DES]
-El alcance del volante al ser voleado cambia de un zombi a una casilla.
+El proyectil de Lanzamiento ahora afecta a zombis de 1 casilla.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^50% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
-^DB8117^Nutrientes: dispara torbellinos que infligen daño continuo y se desplazan 1 casilla.^oldclr^
+^DB8117^Nutrientes: dispara torbellinos que se desplazan 1 casilla (máx. 3). ^D22808^Daño: 100^oldclr^
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL5_DES]
-La salud requerida para eliminar zombis al hacer saques rápidos aumenta a un 50%
+La salud requerida para eliminar zombis con Saques rápidos aumenta a un 50%
 
 [ELAEOCARPUS_PLANTFOOD_DESCRIPTION]
-Cambia su patrón de ataque, disparando torbellinos que infligen daño continuo y se desplazan 1 casilla.
+Cambia su patrón de ataque, disparando torbellinos que se desplazan 1 casilla (max 3). ^D22808^Daño: 100^oldclr^
 
 [ELAEOCARPUS_PRODUCT_SHORT_DESC]
-Lanza volantes o los volea según que tan lejos estén los zombis de ella
+Hace lanzamientos o saques rápidos para destruir zombis
 
 [ELAEOCARPUS_SKILL1_LEVEL1]
 Nivel 2
 
 [ELAEOCARPUS_SKILL1_LEVEL1_DES]
-^4DD4DB^Saque extendido:^oldclr^ la distancia requerida para volear cambia de 3 casillas a 4
+^4DD4DB^Saque extendido:^oldclr^ la distancia para hacer Saques rápidos aumenta en 1 casilla
 
 [ELAEOCARPUS_SKILL1_LEVEL2]
 Nivel 3
 
 [ELAEOCARPUS_SKILL1_LEVEL2_DES]
-^DD7ECB^Voleo extremo:^oldclr^ el alcance del volante al ser voleado cambia de un zombi a una casilla
+^DD7ECB^Voleo extremo:^oldclr^ el proyectil de Lanzamiento ahora afecta a zombis de 1 casilla
 
 [ELAEOCARPUS_SUPERSKILL_DES]
-^DB8117^Maestra del bádminton:^oldclr^ la salud requerida para eliminar zombis al hacer saques rápidos aumenta en un 10%
+^DB8117^Maestra del remate:^oldclr^ la salud requerida para eliminar zombis con Saques rápidos aumenta a un 50%
 
 [ELAEOCARPUS_SUPERSKILL_NAME]
 Nivel 5
 
 [ELAEOCARPUS_TOOLTIP]
-Lanza volantes o los volea según que tan lejos estén los zombis de ella
+Hace lanzamientos o saques rápidos para destruir zombis
 
 [ELECTRICBLUEBERRY]
 Arándano eléctrico
@@ -17770,7 +18088,7 @@ Nivel 3
 ^DD7ECB^Hedor potente:^oldclr^ el daño producido por el hedor aumenta en un 50%.
 
 [ENDURIAN_TOOLTIP]
-Defiende e inflige daño a los zombis que la atacan.
+Defiende e inflige daño a los zombis que la atacan
 
 [END_BUTTON]
 FINALIZAR
@@ -18388,7 +18706,7 @@ Cuando una unidad tipo ^D22808^Tanque^oldclr^ ataca, tiene un ^D22808^50% de pro
 Convoca 5 bombarderos que persiguen zombis. ^D22808^Daño: 500 (área 3x3, al contacto)^oldclr^
 
 [EYWA_PRODUCT_SHORT_DESC]
-Convoca unidades que atacan zombis a distancia por un tiempo
+Convoca unidades para atacar a distancia
 
 [EYWA_SKILL_LEVEL1]
 Nivel 2
@@ -18409,7 +18727,7 @@ Nivel 5
 ^DB8117^Avión bombardero:^oldclr^ cuando una unidad tipo Tanque ataca, tiene la probabilidad de saltar y entrar en un avión que bombardea y degrada zombis.
 
 [EYWA_TOOLTIP]
-Convoca unidades que atacan zombis a distancia por un tiempo
+Convoca unidades para atacar a distancia
 
 [FAILED_CANNON_MINIGAME]
 ¡A PENNY NO LE IMPRESIONA TU PUNTUACIÓN!
@@ -18755,7 +19073,7 @@ Nivel 5
 ^DB8117^Fuegos artificiales:^oldclr^ lanza una caja de fuegos artificiales al atacar, la cual, aturde y daña zombis en la casilla donde cae.
 
 [FIRECRACKERFLOWER_TOOLTIP]
-Lanza petardos por 3 líneas que dañan y aturden zombis
+Lanza petardos aturdidores por 3 líneas
 
 [FIREGOURD]
 Calabaza de fuego
@@ -19033,7 +19351,7 @@ Si los zombis lanzados impactan con otros zombis, ambos serán ^848484^aturdidos
 Lanza 5 anzuelos para pescar zombis medianos y lanzarlos fuera del patio.
 
 [FISHHOOKGRASS_PRODUCT_SHORT_DESC]
-Pesca zombis y los lanza para dañar y aturdir a los demás
+Pesca zombis y los lanza contra el resto
 
 [FISHHOOKGRASS_SKILL_LEVEL1]
 Nivel 2
@@ -19054,7 +19372,7 @@ Nivel 5
 ^DB8117^Súper-anzuelo:^oldclr^ si los zombis lanzados impactan con otros zombis, serán aturdidos, derribando al resto; de lo contrario, serán arrojados fuera del patio.
 
 [FISHHOOKGRASS_TOOLTIP]
-Pesca zombis y los lanza para dañar y aturdir a los demás
+Pesca zombis y los lanza contra el resto
 
 [FISHING_CHANGE_CANNON_TIP]
 No tienes soles suficientes para usar ese cañón, derrota zombis para reunir más.
@@ -19124,7 +19442,7 @@ Lanza 3-5 bolas de fuego rojas, azules y púrpuras al mismo tiempo.
 Deja un rastro de fuego en su línea y en las adyacentes durante 6 s. ^D22808^Daño: 320^oldclr^
 
 [FLAMELADY_PRODUCT_SHORT_DESC]
-Lanza bolas de fuego a los zombis; ataca con llamaradas cuando están cerca
+Lanza bolas de fuego; libera llamaradas cuando hay zombis cerca
 
 [FLAMELADY_SKILL_LEVEL1]
 Nivel 2
@@ -19145,7 +19463,7 @@ Nivel 3
 Nivel 5
 
 [FLAMELADY_TOOLTIP]
-Lanza bolas de fuego a los zombis; ataca con llamaradas cuando están cerca
+Lanza bolas de fuego; libera llamaradas cuando hay zombis cerca
 
 [FLASH_SALE_LIMITED]
 Tiempo restante
@@ -19708,7 +20026,7 @@ Esta planta es la flor nacional de Sudáfrica y su nombre (Protea) proviene de "
 Lanza sus pétalos al frente, con un 20% de hacer golpes críticos (duran 5 s). ^D22808^Daño: 200^oldclr^
 
 [GARDENERGRASS_PRODUCT_SHORT_DESC]
-Corta zombis con sus afilados pétalos, los aturde de vez en cuando
+Corta zombis con sus afilados pétalos
 
 [GARDENERGRASS_SKILL_LEVEL1]
 Nivel 2
@@ -19729,7 +20047,7 @@ Nivel 5
 ^DB8117^Lanzamiento cortante:^oldclr^ al atacar, tiene la posibilidad de lanzar sus pétalos dañando zombis por 15 s y ocasionalmente, cortándoles el brazo.
 
 [GARDENERGRASS_TOOLTIP]
-Corta zombis con sus afilados pétalos, los aturde de vez en cuando
+Corta zombis con sus afilados pétalos
 
 [GARGANTUARLEVEL_EASY]
 Crisis Zombistein - Fácil
@@ -21099,7 +21417,7 @@ Zanahoria intensiva se recarga un {Param_1}% más rápido
 Jaca tiene un {Param_2}% más salud y hace un {Param_1}% más de daño
 
 [GENE_DESCRIPTION_JEWELRABBIT]
-Reduce el tiempo de recuperación de Orejas de conejo en un {Param_1}%
+Reduce el tiempo de recuperación de Monilaria en un {Param_1}%
 
 [GENE_DESCRIPTION_KERNELPULT]
 Lanzamaíz tiene un {Param_1}% más de probabilidad de lanzar mantequilla
@@ -22629,7 +22947,7 @@ Lote especial
 Lote de valor
 
 [GROWTH_PACKAGE_LIMIT]
-Diferentes lotes diarios. Límite de compra: 1
+Diferentes lotes diarios. ^FF0000^Límite de compra: 1^oldclr^
 
 [GUACODILE]
 Guacadrilo
@@ -22881,10 +23199,10 @@ Al usar Nutrientes, lanza 1 martillo adicional ^D22808^(2 en total)^oldclr^
 
 {KEYWORD}Características de la planta: {STAT}planta verde, destructora
 
-{FLAVOR}"No hay nada que no pueda resolverse con un martillo. Si lo hay, entonces, consigue otro."
+{FLAVOR}"Si tuviera un martillo... Un momento... ¡YO SOY un martillo!"
 
 [HAMMERFLOWER_DESCRIPTION_HEADER]
-Flor martillo golpea a los zombis cercanos, puede lanzar un ataque devastador de vez en cuando.
+Flor martillo golpea a los zombis cercanos. Puede lanzar un ataque devastador de vez en cuando.
 
 [HAMMERFLOWER_NEW_SKILL_LEVEL1_DES]
 Golpea a los zombis cercanos con su martillo.
@@ -22928,7 +23246,7 @@ Nivel 5
 ^DB8117^Golpe crítico:^oldclr^ si un zombi enterrado profundo es alcanzado por otro ataque devastador, cae derrotado al instante.
 
 [HAMMERFLOWER_TOOLTIP]
-Golpea a los zombis con su martillo, a veces, lanza ataques devastadores
+Golpea a los zombis con su martillo
 
 [HAPPYLEEK]
 Puerro de sol
@@ -22988,7 +23306,7 @@ Originario del Mediterráneo, el puerro ha sido cultivado desde la antigüedad y
 Crece y produce una ráfaga de 300 soles
 
 [HAPPYLEEK_PRODUCT_SHORT_DESC]
-Produce soles al inicio, repele zombis a otras líneas cuando crece
+Produce soles al inicio, repele zombis cuando crece
 
 [HAPPYLEEK_SKILL_LEVEL1]
 Nivel 2
@@ -23009,7 +23327,7 @@ Nivel 5
 ^DB8117^Juventud eterna:^oldclr^ seguirá produciendo soles al crecer. Las hojas dañadas no sufrirán más daño por un tiempo y se curarán tras repeler zombis.
 
 [HAPPYLEEK_TOOLTIP]
-Produce soles al inicio, repele zombis a otras líneas cuando crece
+Produce soles al inicio, repele zombis cuando crece
 
 [HAPPY_VASE_BREAKER_ADVENTURE]
 Completa {NUM} aventura (s) de plantas
@@ -23340,7 +23658,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.5^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 30/6/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.5^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 3/7/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -24426,7 +24744,7 @@ Las especies de Hydrocotyle han sido utilizadas tradicionalmente en distintas cu
 Aturde a todos los zombis por 2 s, mejora a las plantas del patio en un 20% durante 14 s (35% para las musicales).
 
 [HYDROCOTYLEDRUMMER_PRODUCT_SHORT_DESC]
-Mejora a las plantas de sus alrededores, la mejora es mayor en plantas musicales
+Su música mejora a las plantas cercanas
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL1]
 Nivel 2
@@ -24447,7 +24765,7 @@ Nivel 5
 ^DB8117^Música sanadora:^oldclr^ restaura la salud de las plantas de su alrededor en un 10% cada 15 s (no afecta a plantas instantáneas)
 
 [HYDROCOTYLEDRUMMER_TOOLTIP]
-Mejora a las plantas de sus alrededores, la mejora es mayor en plantas musicales
+Su música mejora a las plantas cercanas
 
 [HYPNOSHROOM]
 Hipnoseta
@@ -25041,7 +25359,7 @@ Originaria de Asia, fue cultivada desde la antigüedad por su valor ornamental y
 Se tiñe una fase y dispara una ráfaga de balas de tinta por su línea.
 
 [IMPATIENSSHOOTER_PRODUCT_SHORT_DESC]
-Escupe balas de tinta a los zombis, se fortalece con el tiempo
+Escupe balas de tinta y se fortalece con el tiempo
 
 [IMPATIENSSHOOTER_SKILL_LEVEL1]
 Nivel 2
@@ -25062,7 +25380,7 @@ Nivel 5
 ^DB8117^Pigmento oscuro:^oldclr^ se tiñe de morado como última fase, con el chance de disparar balas gigantes que infligen daño de área.
 
 [IMPATIENSSHOOTER_TOOLTIP]
-Escupe balas de tinta a los zombis, se fortalece con el tiempo
+Escupe balas de tinta y se fortalece con el tiempo
 
 [IMPPEAR]
 Pera zombidita
@@ -25335,13 +25653,13 @@ Gastar Joyas permitirá a tu equipo completar su aventura de inmediato, ¡la pri
 Toca para empezar una nueva aventura
 
 [INVATATION_DEFAULT_TEXT1]
-Código de invitación
+Ingresar código de invitación
 
 [INVATATION_DEFAULT_TEXT2]
-Completa este campo
+No puedes participar
 
 [INVATATION_DEFAULT_TEXT3]
-Enlace
+Código en uso
 
 [INVATATION_GRADE_TASK_NAME_1_1]
 Inicia sesión hoy
@@ -25365,10 +25683,11 @@ Compartir código
 Compartir
 
 [INVATATION_TAB2_TEXT]
-El código de invitación sólo está disponible para las cuentas recién creadas.
+^D22808^El código de invitación sólo está disponible
+para las cuentas recién creadas^oldclr^
 
 [INVATATION_TAB_NAME1]
-Informes
+Info
 
 [INVATATION_TAB_NAME2]
 Invitar
@@ -25387,11 +25706,13 @@ Invencible
 
 [INVITATION_MAIN_TIPS_INFO]
 1. Consigue cupones al completar misiones o invitar amigos, y úsalos para participar en el sorteo.
+
 2. Solo puedes invitar hasta 100 personas, sus cuentas deben ser nuevas ^FF0000^(a partir de Antiguo Egipto - Día 6)^oldclr^
+
 3. Los códigos son válidos solo en la misma plataforma, Android y iOS no se mezclan.
 
 [ITEM_SOLD_OUT]
-Artículo agotado
+Agotado
 
 [JACKFRUIT]
 Jaca
@@ -25579,7 +25900,7 @@ Nivel 3
 Acaba con los zombis de una línea entera
 
 [JEWELRABBIT]
-Orejas de conejo
+Monilaria
 
 [JEWELRABBIT_AVATAR_NAME]
 Bufanda roja
@@ -26255,7 +26576,8 @@ Lanza bastones para hacer daño cada 0.5 s
 El ataque de los bastones se extiende al cuádruple.
 
 [KIWIFRUIT_NEW_SKILL_LEVEL3_DES]
-Frena zombis con sus bastones, intervalo entre golpes reducido a 0.333 s
+Frena zombis con sus bastones.
+^FF8000^Intervalo entre golpes reducido a 0.333 s^oldclr^
 
 [KIWIFRUIT_NEW_SKILL_LEVEL4_DES]
 Gana un ^D22808^80% de probabilidad^oldclr^ de ser potenciado por el efecto de Nutrientes al plantarse.
@@ -26268,7 +26590,7 @@ Gana un ^D22808^20% de probabilidad^oldclr^ de convocar pequeños clones que gol
 Extiende su bastón a 4 casillas y entierra zombis pequeños o medianos por 4 s. ^D22808^Daño: 1.600^oldclr^
 
 [KIWIFRUIT_PRODUCT_SHORT_DESC]
-Lanza bastones para hacer daño continuo en un área
+Lanza bastones que hacen daño continuo
 
 [KIWIFRUIT_SKILL_LEVEL1]
 Nivel 2
@@ -26289,7 +26611,7 @@ Nivel 3
 Nivel 5
 
 [KIWIFRUIT_TOOLTIP]
-Lanza bastones para hacer daño continuo en un área
+Lanza bastones que hacen daño continuo
 
 [KONGFU]
 Dinastía del Kung Fu
@@ -26397,7 +26719,7 @@ El ataque potenciado afecta a grupos de zombis a mayor distancia. ^D22808^Multip
 Gira su lanza atrayendo zombis de un área 3x3 para agruparlos 1 casilla al frente. ^D22808^Daño: 500^oldclr^
 
 [LANCERHOYA_PRODUCT_SHORT_DESC]
-Arroja su lanza para dañar a los zombis de la línea
+Arroja su lanza por la línea
 
 [LANCERHOYA_SKILL_LEVEL1]
 Nivel 2
@@ -26418,7 +26740,7 @@ Nivel 5
 ^DB8117^Golpe letal:^oldclr^ el ataque potenciado afecta a grupos de zombis a mayor distancia e inflige 5 veces más de daño
 
 [LANCERHOYA_TOOLTIP]
-Arroja su lanza para dañar a los zombis de la línea
+Arroja su lanza por la línea
 
 [LANTERN_RIDDLES_0]
 ¿ ... ?
@@ -27503,7 +27825,7 @@ Paquete en oferta
 Consigue {ITEM} por tiempo limitado
 
 [LIMITED_GACHA_CONFIRM_BUY]
-COMPRAR
+ACEPTAR
 
 [LIMITED_GACHA_CONFIRM_BUY_CANCEL]
 CANCELAR
@@ -27980,7 +28302,7 @@ Nivel 5
 ^DB8117^Chorro a presión:^oldclr^ gana la probabilidad de lanzar un potente chorro que derriba y daña zombis por un tiempo.
 
 [LOTUSSHOOTER_TOOLTIP]
-Dispara gotas a los zombis, absorbe el vapor de sus alrededores
+Dispara gotas y absorbe vapores
 
 [LOTUSSHOWER]
 Vaina de loto
@@ -31317,7 +31639,7 @@ Sopla una ventisca que daña zombis o los convierte en muñecos de nieve (máx. 
 ^D22808^Daño: 120 (todo el patio)^oldclr^
 
 [MONOTROPA_PRODUCT_SHORT_DESC]
-Convierte zombis en muñecos de nieve y los hace vulnerables al fuego
+Convierte zombis en muñecos de nieve
 
 [MONOTROPA_SKILL_LEVEL1]
 Nivel 2
@@ -31338,7 +31660,7 @@ Nivel 5
 ^DB8117^Hipotermia:^oldclr^ después de que el muñeco de nieve se derrita, el zombi dentro será ralentizado durante 2 s
 
 [MONOTROPA_TOOLTIP]
-Convierte zombis en muñecos de nieve y los hace vulnerables al fuego
+Convierte zombis en muñecos de nieve
 
 [MONTH]
 Mes
@@ -31566,7 +31888,7 @@ Los orbes del efecto aturden zombis durante 5 s
 {FLAVOR}Apodada como "la enredadera mágica" por sus compañeras, aunque ella insiste en que lanzar electricidad tiene más de ciencia mal entendida que de hechicería.
 
 [MOTON_DESCRIPTION_HEADER]
-Vid rayo dispara un orbe eléctrico para dañar a los zombis de la línea, haciendo mayor daño a los que llevan armaduras.
+Vid rayo dispara un orbe eléctrico para dañar a los zombis de la línea.
 
 [MOTON_NEW_SKILL_LEVEL1_DES]
 Dispara orbes, hace grandes daños a zombis blindados. ^E2725B^Daño a armaduras: x2^oldclr^
@@ -31579,7 +31901,7 @@ Gana un ^D22808^35% de probabilidad^oldclr^ de ser potenciada por el efecto de N
 Nivel 1
 
 [MOTON_TOOLTIP]
-Dispara orbes, hace grandes daños a zombis blindados
+Dispara orbes por la línea
 
 [MULBERRY]
 Baya artillera
@@ -31652,7 +31974,7 @@ Nivel 5
 ^DB8117^Bayas gigantes:^oldclr^ gana la probabilidad de lanzar 3 tipos diferentes de bayas gigantes, cada una con distintos efectos en los zombis.
 
 [MULBERRY_TOOLTIP]
-Lanza bayas que dañan a los zombis de un área pequeña
+Lanza bayas que explotan en un área pequeña
 
 [MULTIPLE_CHALLENGE_CONNECTOR]
 {CHALLENGE_ONE} | {CHALLENGE_TWO}
@@ -31882,7 +32204,7 @@ Nivel 5
 ^DB8117^Ráfaga burbujeante:^oldclr^ gana la probabilidad de soplar una ráfaga de burbujas que aturde y daña zombis
 
 [NARCISSUSSHOOTER_TOOLTIP]
-Sopla burbujas, las cuales, pueden llevarse cascos y zombiditos
+Sopla burbujas que desarman zombis
 
 [NARRATIVE_1000]
 {NPC_ENTER:crazydave}{SAY}{SHORT}¿Quieres verlo?
@@ -37577,6 +37899,7 @@ El láser hace daño de salpicadura en un área 3x3. ^D22808^Daño: 300 (100, sa
 
 [NEKOTAIL_DESCRIPTION]
 {KEYWORD}Especial: {STAT}puede plantarse tanto en tierra como en agua
+
 {KEYWORD}Púas paralizantes: {STAT}las púas tienen la posibilidad de paralizar zombis temporalmente
 {KEYWORD}Misil colosal: {STAT}tiene una pequeña probabilidad de disparar un misil que hace grandes daños
 
@@ -37621,7 +37944,7 @@ Esta planta ha sido aprovechada durante siglos en diversas culturas. Sus hojas s
 Dispara un láser que rastrea zombis durante 5 s ^D22808^Daño por segundo: 200^oldclr^
 
 [NEKOTAIL_PRODUCT_SHORT_DESC]
-Dispara púas teledirigidas que pueden aturdir zombis
+Planta anfibia que ataca al zombi más cercano
 
 [NEKOTAIL_SKILL_LEVEL1]
 Nivel 2
@@ -37642,7 +37965,7 @@ Nivel 5
 ^DB8117^Flecha de amor:^oldclr^ gana la probabilidad de disparar una flecha que inflige daño a múltiples zombis en su línea
 
 [NEKOTAIL_TOOLTIP]
-Dispara púas teledirigidas que pueden aturdir zombis
+Planta anfibia que ataca al zombi más cercano
 
 [NETWORK_CLOUD_FIRST_SYNC_ERROR]
 Es necesario estar conectado a Internet para que los archivos se sincronicen correctamente a la nube.
@@ -37863,21 +38186,23 @@ El girasol en la esquina superior izquierda es tu fuente de producción solar, g
 A medida que aumente el número de turnos, se desbloquearán zombis más poderosos y habilidades mejoradas
 
 [NEWYEARPACK_DESCRIPTION]
-1. Recibes Joyas al comprar paquetes, con la probabilidad de obtener una Bolsa de Atuendos.
-2. La décima compra garantiza que obtengas una Bolsa de Atuendos.
-3. El límite de compra de los paquetes se reinicia diariamente, la garantía de compra es acumulativa.
-4. Las bolsas se guardan en tu Mochila. Ábrelas para obtener el Atuendo de tu preferencia.
-5. Las recargas que hagas en cualquier parte del juego se sumarán al progreso acumulativo de este evento.
+1. Compra Bolsas de atuendos con diferentes temáticas.
+
+2. Recibes 15 Joyas gratis todos los días, ¡no olvides reclamarlas!
+
+3. Las bolsas se guardan en tu Mochila. Ábrelas para obtener el atuendo de tu preferencia.
 
 [NEWYEARPACK_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
 
 [NEWYEARPACK_MAIN_TIPS_INFO]
-^DB8117^• Bolsa pequeña:^oldclr^ contiene el Atuendo festivo de Lanzaguisantes, Papapum, Remolacha tremenda, Agave y Coltapulta.
+1. Recibes Joyas al comprar paquetes, con la probabilidad de obtener una Bolsa extra.
 
-^DB8117^• Bolsa mediana:^oldclr^ contiene el Atuendo festivo de Girasol cantante, Hierbaterista (Año del conejo), Piñón pistolero (Año del conejo), Remolacha tremenda (Año del conejo), Planta carnívora y Bonk Choi (disfraz clásico y Año del buey).
+2. La décima compra garantiza que obtengas una Bolsa de Atuendos, esa garantía es acumulativa.
 
-^DB8117^• Bolsa grande:^oldclr^ contiene el Atuendo festivo de Lanzaguisantes primitivo, Pera Zombidita (Año del conejo), Manzana mortero, Bocadragón eléctrico (Año del conejo y del dragón), Boca de dragón (Año del dragón), Bocadragón gélido (Año del dragón) y Bardana de béisbol (Año del tigre).
+3. El límite de compra de los paquetes se reinicia diariamente.
+
+4. Las recargas que hagas en cualquier parte del juego se sumarán al progreso acumulativo de este evento.
 
 [NEWYEARREDPACKETE_TAB0]
 Ruleta
@@ -37937,7 +38262,7 @@ El Salón de la Fama del Dr. Zombi me dijo que:
 • Desbloqueaste ^FF0000^{COUNT} atuendos^oldclr^
 
 [NEWYEAR_GIFTBOX_INDEX1_10]
-• Hiciste ^FF0000^{COUNT} aventuras de plantas^oldclr^
+• Hiciste ^FF0000^{COUNT} aventuras vegetales^oldclr^
 
 [NEWYEAR_GIFTBOX_INDEX1_11]
 • Completaste ^FF0000^{COUNT} misiones^oldclr^ en el Tronco de Viaje
@@ -42113,7 +42438,7 @@ La radiación se propaga en un área 3x3 y afecta zombis de cualquier nivel.
 Lanza 4 misiles por el patio. ^D22808^Daño: 500 (casilla)^oldclr^
 
 [NUKELAUNCHER_PRODUCT_SHORT_DESC]
-Lanza misiles nucleares que dañan y mutan zombis
+Lanza misiles que mutan zombis
 
 [NUKELAUNCHER_SKILL_LEVEL1]
 Nivel 2
@@ -42134,7 +42459,7 @@ Nivel 5
 ^DB8117^Umbral de radiación:^oldclr^ el rango de radiación cambia a un área de 3x3
 
 [NUKELAUNCHER_TOOLTIP]
-Lanza misiles nucleares que dañan y mutan zombis
+Lanza misiles que mutan zombis
 
 [NUMBERLOGINS_HEAD_DES_ID_25590]
 A quienes jugaron por 180 días seguidos
@@ -42242,7 +42567,7 @@ Desde tiempos antiguos, el roble fue símbolo de fuerza y sabiduría en varias c
 Lanza una lluvia de 60 flechas que caen en ubicaciones aleatorias del patio. ^D22808^Daño: 300^oldclr^
 
 [OAKSHOOTER_PRODUCT_SHORT_DESC]
-Dispara poderosas flechas de madera a los zombis
+Dispara flechas por la línea
 
 [OAKSHOOTER_SKILL1_LEVEL1]
 Nivel 2
@@ -42263,7 +42588,7 @@ Nivel 5
 ^DB8117^Flechas de hielo:^oldclr^ gana la probabilidad de disparar flechas heladas que ralentizan o congelan zombis.
 
 [OAKSHOOTER_TOOLTIP]
-Dispara poderosas flechas de madera a los zombis
+Dispara flechas por la línea
 
 [OAK_TRAIN_TUTORIAL_1]
 Toca en el zombi para dispararle. ¡Apúntale a la cabeza!
@@ -43573,7 +43898,7 @@ Nivel 5
 ^DB8117^Engranajes apilados:^oldclr^ gana la probabilidad de lanzar engranajes apilados a los zombis; uno se quedará suspendido en el aire y el otro, saldrá disparado.
 
 [PASSIONFLOWER_TOOLTIP]
-Dispara engranajes por 3 líneas para infligir daño continuo
+Dispara engranajes por 3 líneas
 
 [PAUSED_HEADER]
 EN PAUSA
@@ -49977,7 +50302,7 @@ Artefacto: Prisma solar
 Geranio esgrimista
 
 [PRODUCT_GIFT_FOR_RETURN8_SHORTDESC]
-Orejas de conejo
+Monilaria
 
 [PRODUCT_GIFT_FOR_RETURN9_SHORTDESC]
 Zarza mazo
@@ -52590,7 +52915,7 @@ Era del vapor
 No se seleccionaron objetivos.
 
 [PVZ1_MODE_SELECT_LEVEL_CHALLENGE_CHOOSE_DESC]
-^E2725B^¡Más objetivos, mejores premios!^oldclr^
+^E2725B^Más objetivos, más premios^oldclr^
 
 [PVZ1_MODE_SELECT_LEVEL_THEME_NO_USE_DESC]
 Sin temáticas especiales.
@@ -53995,7 +54320,7 @@ Nivel 3
 ^DD7ECB^Esporulación veloz:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [RAFFLESIA_TOOLTIP]
-Libera esporas explosivas para dañar a los zombis más lejanos a tu casa
+Libera esporas explosivas a los zombis más lejanos a tu casa
 
 [RAGE_POTION]
 Poción de rabia
@@ -55593,7 +55918,7 @@ Reenviar ({NUMBER}s)
 ({NUMBER} s)
 
 [RESET_FAILED_MESSAGE]
-Se ha producido un error al restablecer la Nivelación del Colgante, código de error: {CODE}.
+Fallo al restablecer la Nivelación del Colgante. <Código de error: {CODE}>
 
 [RESET_FAILED_MESSAGE_DIFICIENCY]
 No se pudo reiniciar porque no tienes suficientes Joyas
@@ -55602,10 +55927,10 @@ No se pudo reiniciar porque no tienes suficientes Joyas
 Nivelación del Colgante restablecida con éxito, se ha devuelto el material gastado.
 
 [RESET_SUCCESS_REWARD]
-Recompensas de compensación
+MATERIAL DE COLGANTE RECUPERADO
 
 [RESET_SUCCESS_TITLE]
-¡Restablecido con éxito!
+¡restablecido con éxito!
 
 [RESISTANCES_TOOLTIP_BODY]
 Las plantas de diferentes familias pueden ser FUERTES, DÉBILES o INEFICACES contra los zombis.
@@ -56148,7 +56473,7 @@ Falda de hierba
 Cuando usa Nutrientes, salta 1 vez más ^D22808^(ahora 4)^oldclr^
 
 [RHUBARBARIAN_DESCRIPTION]
-{KEYWORD}Especial: {STAT}si hay un zombi 3 casillas al frente, saltará hacia él y aturdirá al resto
+{KEYWORD}Uso: {STAT}si hay un zombi 3 casillas al frente, saltará hacia él y aturdirá al resto
 
 {KEYWORD}Características de la planta: {STAT}planta roja, temperamental, destructora
 
@@ -56180,7 +56505,7 @@ Al saltar, existe un ^D22808^30% de probabilidad^oldclr^ de expulsar zombis medi
 Salta 3 veces a la casilla con más zombis. ^D22808^Daño: 1.000 (área 3x3)^oldclr^
 
 [RHUBARBARIAN_PRODUCT_SHORT_DESC]
-Golpea zombis cercanos, salta y los aturde si están lejos
+Aturde de un puñetazo a los zombis cercanos
 
 [RHUBARBARIAN_SKILL_LEVEL1]
 Nivel 2
@@ -56201,7 +56526,7 @@ Nivel 5
 ^DB8117^Golpe salvaje:^oldclr^ al saltar, tiene la probabilidad de entrar en un estado salvaje que inflige grandes daños y expulsa zombis pequeños o medianos.
 
 [RHUBARBARIAN_TOOLTIP]
-Golpea zombis cercanos, salta y los aturde si están lejos
+Aturde de un puñetazo a los zombis cercanos
 
 [RICHMANRICHMAN_BOSS_BATTLE_ESCAPE_BTN]
 SALTAR
@@ -56910,7 +57235,7 @@ Las rosas han sido cultivadas desde hace más de 5.000 años en Asia, especialme
 Realiza estocadas para dañar todo lo que tiene al frente en un área 3x3. ^D22808^Daño: 1.600^oldclr^
 
 [ROSESWORDMAN_PRODUCT_SHORT_DESC]
-Da estocadas a los zombis cercanos, los remata si tienen poca salud
+Da estocadas a los zombis cercanos
 
 [ROSESWORDMAN_SKILL_LEVEL1]
 Nivel 2
@@ -56931,7 +57256,7 @@ Nivel 3
 Nivel 5
 
 [ROSESWORDMAN_TOOLTIP]
-Da estocadas a los zombis cercanos, los remata si tienen poca salud
+Da estocadas a los zombis cercanos
 
 [ROTATION_SETTINGS]
 Rotación
@@ -62069,7 +62394,7 @@ Tras salir de su escondite, dispara una salva de 20 proyectiles que derriban zom
 Se une a otras Setas miedicas de un área 3x3, y dispara una ráfaga de 35 esporas que derriban zombis.
 
 [SCAREDYSHROOM_PRODUCT_SHORT_DESC]
-Dispara desde lejos y se esconde si se acerca un zombi
+Dispara desde lejos, se esconde si se acerca un zombi
 
 [SCAREDYSHROOM_SKILL_LEVEL1]
 Nivel 2
@@ -62090,7 +62415,7 @@ Nivel 5
 ^DB8117^Contraataque desesperado:^oldclr^ tras salir de su escondite, dispara una salva de proyectiles que derriban zombis.
 
 [SCAREDYSHROOM_TOOLTIP]
-Dispara desde lejos y se esconde si se acerca un zombi
+Dispara desde lejos, se esconde si se acerca un zombi
 
 [SCORE_RANK_LIST]
 Tabla de clasificación
@@ -62128,7 +62453,7 @@ Prolonga la duración de las nubes tóxicas en 1 s ^D22808^(ahora 8 s)^oldclr^
 Prolonga la duración de las nubes tóxicas en 2 s ^D22808^(ahora 9 s)^oldclr^
 
 [SEADERRIS_PRODUCT_SHORT_DESC]
-Ahuyenta zombis y peces con sus nubes tóxicas
+Ahuyenta zombis y peces con sus toxinas
 
 [SEADERRIS_SKILL_LEVEL1]
 Nivel 2
@@ -62143,7 +62468,7 @@ Nivel 3
 ^DD7ECB^Veneno persistente:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [SEADERRIS_TOOLTIP]
-Ahuyenta zombis y peces con sus nubes tóxicas
+Ahuyenta zombis y peces con sus toxinas
 
 [SEAFLORA]
 Flora marina
@@ -62161,7 +62486,7 @@ Equipa a Flora marina contra zombies ralentizados u otros empujables y aprovecha
 {KEYWORD}Nutrientes: {STAT}Dispara una pompa gigante en su línea que empuja a los zombis y después explota infligiendo daños enormes. En el agua, dispara en 3 líneas.
 
 [SEAFLORA_TOOLTIP]
-Planta anfibia que dispara pompas perforantes en su línea.
+Planta anfibia que dispara pompas perforantes en su línea
 
 [SEAGODTREASURE_SELECT_DESCRIPTION]
 Elige uno de los siguientes tesoros.
@@ -62893,7 +63218,7 @@ Invoca 3 bombas que hacen 500 DPS y crecen hasta 3 veces por cada Flor lunar ady
 ^D22808^Área: casilla → 3x3 → todo el patio^oldclr^
 
 [SHADOWPEASHOOTER_PRODUCT_SHORT_DESC]
-Lanza guisantes oscuros, dispara rayos ralentizadores cuando está potenciado
+Lanza guisantes oscuros, dispara rayos cuando está potenciado
 
 [SHADOWPEASHOOTER_SKILL_LEVEL1]
 Nivel 2
@@ -62914,7 +63239,7 @@ Nivel 5
 ^DB8117^Exceso de sombras:^oldclr^ gana la probabilidad de disparar rayos ralentizadores en su fase normal y crear agujeros negros en su fase sombría.
 
 [SHADOWPEASHOOTER_TOOLTIP]
-Lanza guisantes oscuros, dispara rayos ralentizadores cuando está potenciado
+Lanza guisantes oscuros, dispara rayos cuando está potenciado
 
 [SHADOWPOISONED]
 Envenenar
@@ -68577,7 +68902,7 @@ Ha sido utilizado durante milenios en Asia para construir viviendas, fabricar he
 Da un backflip, derriba a los zombis golpeados 1 casilla y los ^848484^aturde^oldclr por 5 s
 
 [SUGARCANE_PRODUCT_SHORT_DESC]
-Bloquea y retiene zombis; se cura con el tiempo si no recibe daño
+Bloquea y retiene zombis
 
 [SUGARCANE_SKILL_LEVEL1]
 Nivel 2
@@ -68592,7 +68917,7 @@ Nivel 3
 ^DD7ECB^Firmeza inquebrantable:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [SUGARCANE_TOOLTIP]
-Bloquea y retiene zombis; se cura con el tiempo si no recibe daño
+Bloquea y retiene zombis
 
 [SUMMARY_CLOUD]
 Datos de la nube
@@ -70888,7 +71213,7 @@ Gana un ^D22808^20% de probabilidad^oldclr^ de invocar un espíritu eléctrico q
 Lanza una bola de rayo que deja un campo eléctrico que daña y aturde zombis en un área 3x3 durante 3 s
 
 [THUNDERSNAPDRAGON_PRODUCT_SHORT_DESC]
-Escupe bolas de rayos que dañan a los zombis cercanos
+Escupe bolas de rayos a los zombis cercanos
 
 [THUNDERSNAPDRAGON_SKILL_LEVEL1]
 Nivel 2
@@ -70909,7 +71234,7 @@ Nivel 5
 ^DB8117^Espíritu del trueno:^oldclr^ gana la probabilidad de invocar un espíritu eléctrico para atacar a todos los zombis que tiene por delante.
 
 [THUNDERSNAPDRAGON_TOOLTIP]
-Escupe bolas de rayos que dañan a los zombis cercanos
+Escupe bolas de rayos a los zombis cercanos
 
 [THYMEWARP]
 Tomillo tiempillo
@@ -71484,21 +71809,23 @@ Puntaje
 Proxima recompensa en {NUM} compras
 
 [TOURISMOCTOBERSPECIAL_TASKDESCRIPTION]
-Completa tareas para ganar hasta {NUMBER} puntos
+Consigue {NUMBER} puntos de escuadrón
 
 [TOURISMOCTOBERSPECIAL_TASKOPENTIME]
 Disponible en {NUMBER} días
 
 [TOURISMOCTOBER_MAIN_TIPS_INFO]
-1. Consigue fichas completando tareas diarias o mensuales, y canjéalas por premios en la Tienda.
-2. Las misiones diarias se actualizan cada día, las mensuales solo se pueden completar una vez.
-3. Completa misiones en equipos de tres, el primero que acepte unirse al equipo se convertirá en el capitán.
+1. Completa misiones en equipos de tres, el primero que acepte unirse al equipo se convertirá en el capitán.
+
+2. Consigue fichas completando tareas diarias o mensuales, y canjéalas por premios en la Tienda.
+
+3. Las misiones diarias se actualizan cada día, las mensuales solo se pueden completar una vez.
 
 [TOURISMOCTOBER_MEMBER_TEXT]
-Integrantes del equipo
+Miembros:
 
 [TOURISMOCTOBER_TASKDAY_TIPS_INFO]
-Puedes conseguir hasta 3.069 fichas al completar misiones diarias
+Completa tus misiones diarias antes de que expiren
 
 [TOURISMOCTOBER_TASKDAY_TIPS_LABEL]
 Diarias
@@ -71525,25 +71852,25 @@ Mejora los atributos de un Artefacto usando Cupones
 Mejora una planta usando Piezas
 
 [TOURISMOCTOBER_TASK_NAME_7]
-Desbloquea un Atuendo
+Desbloquea un atuendo
 
 [TOURISMOCTOBER_TASK_NAME_8]
 Consigue un Boleto de Penny
 
 [TOURISMOCTOBER_TASK_NAME_9]
-Completa 15 aventuras de plantas
+Completa 15 aventuras vegetales
 
 [TOURISMOCTOBER_TASK_NAME_10]
 Consigue 6 estrellas en Ezcape del vacío
 
 [TOURISMOCTOBER_TASK_TIPS_INFO]
-Las misiones mensuales estarán disponibles hasta el 31 de octubre
+Completa tus misiones mensuales antes de que expiren
 
 [TOURISMOCTOBER_TASK_TIPS_LABEL]
 Mensuales
 
 [TOURISM_OCTOBER_DEFAULT_TEXT2]
-Ya está en la plantilla, no puede ser sustituido
+Ya estás en un equipo
 
 [TOURISM_OCTOBER_ERROR_75524]
 El código de invitación debe ser de algún equipo al que te quieras unir, ¡no el tuyo!
@@ -71558,7 +71885,7 @@ ACEPTAR
 RECHAZAR
 
 [TOURISM_OCTOBER_TAB_NAME1]
-Equipos
+Equipo
 
 [TOURISM_OCTOBER_TAB_NAME2]
 Reclutar
@@ -71570,7 +71897,7 @@ Misiones
 Tienda
 
 [TOURISM_OCTOBER_TIME]
-Tiempo restante
+Termina en:
 
 [TOURISM_OCTOBER_TITLE]
 Misiones de escuadrón
@@ -71730,9 +72057,12 @@ Los premios han expirado.
 Como ya tienes esto, obtienes puntos de bonificación en su lugar
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
-1. Compra Paquetes de regalo para obtener fichas y úsalas para participar en Sorteos.
+1. Compra fichas con dinero real y úsalas para participar en Sorteos.
+
 2. Participar en 20 sorteos garantiza una Recompensa de la Bolsa de premios.
-3. Los Atuendos que ya poseas se convierten en 200 puntos de bonificación.
+
+3. Los atuendos que ya poseas se convierten en 200 puntos de bonificación.
+
 4. Las fichas obtenidas se convierten en Joyas al final del evento.
 
 [TO_BE_AWAIT]
@@ -71902,13 +72232,13 @@ Efectos: Recarga rápida +20% | Tiempo de recuperación -15%
 Efectos: Recarga rápida +25% | Tiempo de recuperación -20%
 
 [TRAVEL_TOGETHER_1_BOOST_DES_3]
-Efectos: Recarga rápida +30% | Tiempo de recuperación -25% | Reembolso solar (15% probable)
+Efectos: Recarga rápida +30% | Tiempo de recuperación -25% | ^DB8117^Reembolso solar (15% probable)^oldclr^
 
 [TRAVEL_TOGETHER_1_BOOST_DES_4]
-Efectos: Recarga rápida +35% | Tiempo de recuperación -30% | Reembolso solar (20% probable)
+Efectos: Recarga rápida +35% | Tiempo de recuperación -30% | ^DB8117^Reembolso solar (20% probable)^oldclr^
 
 [TRAVEL_TOGETHER_1_BOOST_DES_5]
-Efectos: Recarga rápida +40% | Tiempo de recuperación -35% | Reembolso solar (25% probable)
+Efectos: Recarga rápida +40% | Tiempo de recuperación -35% | ^DB8117^Reembolso solar (25% probable)^oldclr^
 
 [TRAVEL_TOGETHER_1_DES]
 Una cápsula llena de recuerdos felices, ¡guárdala y ábrela de nuevo cuando crezcas!
@@ -72180,7 +72510,7 @@ Fue cultivado primero en el Imperio Otomano y llegó a Europa en el siglo XVI, d
 Libera ondas que hacen 300 DPS y curan 100 PS en un área 3x3 durante 3 s
 
 [TULIPTRUMPETER_PRODUCT_SHORT_DESC]
-Ataca a los zombis con notas musicales, cura plantas si hay zombis cerca
+Dispara notas musicales, cura plantas si hay zombis cerca
 
 [TULIPTRUMPETER_SKILL_LEVEL1]
 Nivel 2
@@ -72201,7 +72531,7 @@ Nivel 5
 ^DB8117^Ráfaga sonora:^oldclr^ gana la probabilidad de disparar 3 ondas sónicas que infligen más daño en un área pequeña.
 
 [TULIPTRUMPETER_TOOLTIP]
-Ataca a los zombis con notas musicales, cura plantas si hay zombis cerca
+Dispara notas musicales, cura plantas si hay zombis cerca
 
 [TUMBLEWEED]
 Rodadora
@@ -72262,7 +72592,7 @@ Gira por 2 rondas, lanzando el doble de hojas en cada ataque.
 Gira lanzando hojas en un área 3x3 por 3 rondas, luego se pone al acecho. ^D22808^Daño: 600^oldclr^
 
 [TUPISTRASTALKER_PRODUCT_SHORT_DESC]
-Sale del suelo y ataca a los zombis cercanos con sus hojas afiladas
+Embosca a los zombis de alrededor
 
 [TUPISTRASTALKER_SKILL_LEVEL1]
 Nivel 2
@@ -72283,7 +72613,7 @@ Nivel 5
 ^DB8117^Giro 720°:^oldclr^ lanza el doble de hojas en cada ataque
 
 [TUPISTRASTALKER_TOOLTIP]
-Sale del suelo y ataca a los zombis cercanos con sus hojas afiladas
+Embosca a los zombis de alrededor
 
 [TURKEYPULT]
 Pavopulta
@@ -72430,6 +72760,7 @@ La explosión libera el mismo número de estrellas de fuego y hielo que en el at
 
 [TWINSHONEYSUCKLE_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}línea al frente (flor dorada), toda la pantalla (flor plateada)
+
 {KEYWORD}Uso: {STAT}toca en ellas para cambiar su forma de ataque
 {KEYWORD}Especial: {STAT}los astros se dividen en estrellas al explotar
 
@@ -72476,7 +72807,7 @@ Ha sido cultivada desde hace siglos en China y Japón, donde se apreciaba por su
 Combinan el poder de la luna y el sol, liberando un potente ataque. ^D22808^Daño: 1.000 (todo el patio)^oldclr^
 
 [TWINSHONEYSUCKLE_PRODUCT_SHORT_DESC]
-Usa el poder solar para dañar zombis y el poder lunar para ralentizarlos
+Convocan el poder de los astros, toca para alternar ataques
 
 [TWINSHONEYSUCKLE_SKILL_LEVEL1]
 Nivel 2
@@ -72497,7 +72828,7 @@ Nivel 5
 ^DB8117^Ataque asistido:^oldclr^ la flor que está detrás dispara estrellas pequeñas mientras su hermana ataca
 
 [TWINSHONEYSUCKLE_TOOLTIP]
-Usa el poder solar para dañar zombis y el poder lunar para ralentizarlos
+Convocan el poder de los astros, toca para alternar ataques
 
 [TWINSUNFLOWER]
 Birasol
@@ -72584,7 +72915,9 @@ Paquete de mej. Artefactos
 
 [UINEWYEARREDPACKET_DES_DESCRIPTION]
 1. Abre sobres rojos y consigue recompensas geniales.
+
 2. Compra paquetes de Año Nuevo para obtener Cofres con Atuendos dentro.
+
 3. Podrás inscribirte en un Sorteo y ganar premios alucinantes, ¡prueba tu suerte!
 
 [UINEWYEARREDPACKET_DES_REWARD_DESCRIPTION]
@@ -74500,7 +74833,7 @@ Gana un ^D22808^20% de probabilidad^oldclr^ de soplar un combo de 3 tornados.
 Sopla un enorme tornado que arroja hasta 5 zombis medianos. ^D22808^Daño por impacto: 100^oldclr^
 
 [VANILLA_PRODUCT_SHORT_DESC]
-Sopla ráfagas de viento que dañan a todos los zombis de la línea
+Sopla ráfagas que dañan a los zombis de la línea
 
 [VANILLA_SKILL_LEVEL1]
 Nivel 2
@@ -74521,7 +74854,7 @@ Nivel 5
 ^DB8117^Combo de tornados:^oldclr^ gana la probabilidad de soplar 3 tornados a la vez.
 
 [VANILLA_TOOLTIP]
-Sopla ráfagas de viento que dañan a todos los zombis de la línea
+Sopla ráfagas que dañan a los zombis de la línea
 
 [VASEBREAKER_ATLANTIS_LEVEL_NAME_1]
 Desafío submarino: Azul infinito
@@ -75350,7 +75683,7 @@ Originario del sudeste asiático, ha sido cultivado por siglos en China, India y
 Salta para sacudir a los zombis 1 casilla al frente. Salta otra vez en un área 3x3. Finalmente, salta para derribarlos.
 
 [WAXGOURD_PRODUCT_SHORT_DESC]
-Bloquea y derriba zombis, su peso activa la Rueda Vitruviana
+Planta pesada que bloquea y derriba zombis
 
 [WAXGOURD_SKILL_LEVEL1]
 Nivel 2
@@ -75371,7 +75704,7 @@ Nivel 5
 ^DB8117^Energía destructiva:^oldclr^ libera energía para dañar a los zombis tras derribarlos.
 
 [WAXGOURD_TOOLTIP]
-Bloquea y derriba zombis, su peso activa la Rueda Vitruviana
+Planta pesada que bloquea y derriba zombis
 
 [WEALTHGOD_EASY]
 Dios de las Riqueza - Fácil
@@ -75656,9 +75989,6 @@ Soldado de invierno
 Deja hielo al impactar, ralentizando a los zombis que lo pisen.
 
 [WINTERRAMBUTAN_DESCRIPTION]
-{KEYWORD}Especial: {STAT}sus bolas de nieve tienen la posibilidad de convertir zombis en bloques de hielo
-{KEYWORD}Especial: {STAT}arremete contra bloques de hielo para destruirlos
-
 {KEYWORD}Características de la planta: {STAT}planta blanca, gélida, hábil
 
 {FLAVOR}Le encanta tanto jugar en la nieve que decidió mudarse al Polo Norte para disfrutar de ella todas las estaciones del año: ¡INVIERNO POR SIEMPRE!
@@ -75702,7 +76032,7 @@ Se ha cultivado durante siglos en Malasia e Indonesia. Su nombre proviene de la 
 Rueda hacia el frente, golpeando a los zombis e infligiendo daño de área. ^D22808^Daño: 1.800 (200 en área 3x3)^oldclr^
 
 [WINTERRAMBUTAN_PRODUCT_SHORT_DESC]
-Escupe nieve a los zombis para convertirlos en bloques de hielo y destruirlos
+Escupe bolas de nieve y rueda contra bloques de hielo
 
 [WINTERRAMBUTAN_SKILL_LEVEL1]
 Nivel 2
@@ -75723,7 +76053,7 @@ Nivel 5
 ^DB8117^Frialdad extrema:^oldclr^ sus bolas de nieve tienen la posibilidad de convertir zombis en bloques de hielo dentro de un área mediana.
 
 [WINTERRAMBUTAN_TOOLTIP]
-Escupe nieve a los zombis para convertirlos en bloques de hielo y destruirlos
+Escupe bolas de nieve y rueda contra bloques de hielo
 
 [WINTERSWEET]
 Ciruelita
@@ -82309,12 +82639,11 @@ Zombidimpostor
 
 [ZOMBIE_TRENCH_COAT_IMPS_DESCRIPTION]
 {KEYWORD}Especial: {STAT}inmune a los efectos de control
-{KEYWORD}Especial: {STAT}se divide en tres al ser derrotado
 
-{FLAVOR}Cada uno de los zombiditos comparte un mismo sueño: poder alcanzar la alacena de la cocina para tomar algunas galletas. Esa gabardina de detective es el "pase de adulto" que han encontrado en el mercadillo de antigüedades para zombis; aunque está claro que la talla está hecha a medida para un zombi más ancho que ellos tres juntos.
+{FLAVOR}Es ZOMBIDIMPOSIBLE saber quién es.
 
 [ZOMBIE_TRENCH_COAT_IMPS_DESCRIPTION_HEADER]
-Definitivamente no son tres zombiditos.
+Se divide en tres al ser derrotado.
 
 [ZOMBIE_TURKEYPULT_BASIC]
 Pavo de tofu
