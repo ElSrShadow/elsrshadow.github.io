@@ -583,11 +583,11 @@ Acumulado de Joyas
 IR
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_MAIN_TIPS]
-1. Compra Monedas de otoño con dinero real y ganar superpremios.
+1. Compra Trigo con dinero real y gana superpremios participando en sorteos.
 
 2. Realiza 30 sorteos para obtener una recompensa de tu elección, realiza 90 para conseguir Maíz de cosecha.
 
-3. Las Monedas de otoño y el Maíz de cosecha se convertirán en Joyas al final del evento.
+3. El Trigo y el Maíz de cosecha se convertirán en Joyas al final del evento.
 
 [ACTIVITY_NEW_AUTUMN_HARVEST_TIPS]
 1. La bolsa de premios inicial es de 200.000 Joyas.
@@ -4981,7 +4981,7 @@ Seleccionar
 Las recompensas han expirado
 
 [AUTUMN_HARVEST_GACHA_CONFIRM]
-¿Deseas gastar ^A0522D^{NUMS} Monedas de otoño^oldclr^ para participar en el Sorteo?
+¿Deseas gastar ^A0522D^Trigo x{NUMS}^oldclr^ para participar en el Sorteo?
 
 [AUTUMN_HARVEST_GACHA_RECORD_TITLE]
 Registro de sorteos
@@ -5005,7 +5005,7 @@ Selecciona la recompensa de tu preferencia
 Obtén un premio de tu elección tras {NUMS} Sorteos. Recibirás Maíz de cosecha al realizar {NUMS_2}
 
 [AUTUMN_HARVEST_TITLE]
-Cosecha de otoño
+Cosecha copiosa
 
 [AVATAR]
 : Atuendo
@@ -12761,7 +12761,7 @@ Permitir la compra de Nutrientes
 Permitir la compra de Soles
 
 [CUSTOM_LEVEL_AUTHOR]
-Autor del Nivel: {NAME}
+Autor: {NAME}
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_FILTER]
 Filtros
@@ -12794,13 +12794,13 @@ Favoritos
 Más nuevo
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_0]
-Clasif. general
+General
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_1]
-Clasif. mensual
+Mensual
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_RANK_TYPE_2]
-Clasif. semanal
+Semanal
 
 [CUSTOM_LEVEL_CHOOSE_LEVEL_REFRESH_COOL_DOWN_DESC]
 ¡La lista de niveles se refrescó con éxito!
@@ -12815,10 +12815,10 @@ Monedas de la Creatividad insuficientes.
 Monedas del Jugador insuficientes.
 
 [CUSTOM_LEVEL_CREATE_LEVEL_CHOOSE_MODE_TITLE]
-Selección de Modos
+Modos de juego
 
 [CUSTOM_LEVEL_CREATE_LEVEL_CHOOSE_PLAY_STYPE_TITLE]
-Selección de Modos
+Modos de juego
 
 [CUSTOM_LEVEL_CREATE_LEVEL_MODE_TYPE_0]
 Semilleros
@@ -12869,7 +12869,7 @@ Filtrar por Mundos
 No se pudo encontrar el Nivel, vuelve a ingresar el ID
 
 [CUSTOM_LEVEL_LEADER_BOARD_TITLE]
-Tabla de Clasificación
+Tabla de clasificación
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_BTN_CHALLENGE]
 JUGAR
@@ -12917,7 +12917,6 @@ Copiar ID
 Habilitar copia
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_DELETE_HINT]
-Si eliminas este Nivel, se borrarán todos sus datos, incluyendo su historial.
 ^FF0000^Una vez borrado, no podrás recuperar el Nivel, ¿seguro que deseas continuar?^oldclr^
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_DISABLE_COPY_TITLE]
@@ -12933,13 +12932,13 @@ Se produjo un error al guardar el archivo.
 Guardado con éxito.
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SAVE_GALLERY_TITLE]
-Guardar en local
+GUARDAR
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SHARE_CANCELED]
 Cancelado
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SHARE_FAILED]
-Error al compartir el archivo, verifica si el cliente de la plataforma para compartir está instalado correctamente.
+Error al compartir el archivo, verifica que la app esté instalada en tu teléfono.
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_SHARE_SHARE_SUCCESS]
 Compartido con éxito.
@@ -12951,31 +12950,31 @@ COMPARTIR NIVEL
 Autor:
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_BESTRECORD]
-Mayor puntación del creador: {NAME}
+Puntación del creador: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_CREATE_CAPABILITY]
 Espacio: {NUMS}/100
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_EVALUATION]
-Calificación del Nivel:
+Calificación:
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_HAS_FAVOR]
-Valoraciones: {NUMS}/100
+Likes: {NUMS}/100
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_HAS_UPLOAD]
 Ya publicado
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_ID]
-ID del Nivel: {NAME}
+ID: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_MODIFY_NAME_TITLE]
-Cambiar nombre
+RENOMBRAR NIVEL
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_NAME]
-Nombre del Nivel: {NAME}
+Nombre: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_PLAY_STYLE]
-Modo de Juego:  ^356D14^{NAME}^oldclr^
+Modo de juego:  ^356D14^{NAME}^oldclr^
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TEXT_UPDATE_DATE]
 Última modificación: {NAME}
@@ -12987,7 +12986,7 @@ Fecha de carga: {NAME}
 Mundo: {NAME}
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_TITLE]
-Detalles del nivel
+Detalles del Nivel
 
 [CUSTOM_LEVEL_LEVEL_DETAIL_UPLOAD_LEVELNAME_TOO_LONG_DESC]
 El nombre del nivel es muy largo.
@@ -13015,7 +13014,7 @@ Cinta transportadora
 El último batallón
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_3]
-Beghouled Blitz
+Buscazombis
 
 [CUSTOM_LEVEL_LEVEL_MODE_TYPE_4]
 Doctor del mal
@@ -13059,7 +13058,7 @@ IR AL CREADOR
 ¿Seguro que no te gusta este Nivel?
 
 [CUSTOM_LEVEL_NOT_SUPPORT_TIPS]
-No me gusta
+NO ME GUSTA
 
 [CUSTOM_LEVEL_NO_REWARD]
 Ya obtuviste todas tus Monedas hoy.
@@ -13077,7 +13076,7 @@ Nivel reportado
 ¿Seguro que deseas reportar este Nivel por uso de hacks o exploits?
 
 [CUSTOM_LEVEL_REPORT_TIPS]
-Reportar nivel
+REPORTAR NIVEL
 
 [CUSTOM_LEVEL_REWARED]
 Ya has recibido Monedas del Jugador en este Nivel.
@@ -13203,7 +13202,7 @@ Comentar y me gusta
 Me gusta
 
 [CUSTOM_LEVEL_TOWER_DEFEND_LEVELUP_TITLE]
-Objetivos del Nivel
+Planta evolucionada
 
 [CUSTOM_LEVEL_TOWER_DEFEND_SWITCH_PLANT_EDITOR_TITLE]
 Editor de plantas
@@ -13281,38 +13280,38 @@ Puedes consultar el Sistema de Evaluación al seleccionar un Nivel
 Toca en "Jugar" para ingresar al Nivel seleccionado
 
 [CUSTOM_LEVEL_VASE_BREAKER_AUTO_SET_BUTTON]
-Config. auto
+SALIR
 
 [CUSTOM_LEVEL_VASE_BREAKER_AUTO_SET_TITLE]
-La configuración automática dividirá el exceso o la falta de jarrones
+Aún faltan jarrones por configurar. ¿Deseas terminar los ajustes?
+^E2725B^Si sales, se configurará el resto de forma automática.^oldclr^
 
 [CUSTOM_LEVEL_VASE_BREAKER_BOTTLE_NUM]
 Jarrones configurados: {NUMS}/{MAX}
 
 [CUSTOM_LEVEL_VASE_BREAKER_PLANT_TITLE]
-Plantas
+Planta
 
 [CUSTOM_LEVEL_VASE_BREAKER_RETURN_BUTTON]
-Volver a config
+VOLVER
 
 [CUSTOM_LEVEL_VASE_BREAKER_SELECT_FIRST_HINT_TITLE]
-Establece primero un
-número de Jarrones
+Elije num de Jarrones
 
 [CUSTOM_LEVEL_VASE_BREAKER_SELECT_PLANT_OR_ZOMBIE]
-Configurar Jarrones
+Contenido del Jarrón
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER]
-Selecciona una cantidad
+Jarrones a configurar: 
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER_BUTTON]
-Número de Jarrones
+Jarrones
 
 [CUSTOM_LEVEL_VASE_BREAKER_SET_NUMBER_HINT]
 El número de Jarrones debe ser un múltiplo de 5
 
 [CUSTOM_LEVEL_VASE_BREAKER_ZOMBIE_TITLE]
-Zombis
+Zombi
 
 [CUSTOM_LEVEL_WORLD_TYPE_0]
 Antiguo Egipto
@@ -19791,9 +19790,8 @@ Invoca 1 Zombistein prime.
 ¿Deseas comprar el paquete por ^FF8000^{NUMS} Boletos del futuro^oldclr^?
 
 [FUTURE_GIFT_DESCRIPTION]
-1. Puedes elegir un número de recompensas y poner los premios en la barra. Compra el paquete para obtener su contenido.
+1. Personaliza tus paquetes con las recompensas de tu elección.
 2. Cada paquete está limitado a una compra al día.
-3. Hay 6 tipos de paquetes, cada uno contiene diferentes premios.
 
 [FUTURE_GIFT_DESCRIPTION_TITLE]
 CONTENIDO DEL PAQUETE
@@ -23430,37 +23428,37 @@ Abre {NUM} Cofres en la Tienda
 Cosechar
 
 [HARVEST_BATTLE_HEAD_DES_ID_25595]
-A los agricultores que participaron en los eventos de la Cosecha de otoño
+A los agricultores que participaron en los eventos de la Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25631]
-A quienes gastaron Maíz en la 1ra temporada del evento: Cosecha de otoño
+A quienes gastaron Maíz en la 1ra temporada del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25647]
-A quienes gastaron Maíz en la 2da temporada del evento: Cosecha de otoño
+A quienes gastaron Maíz en la 2da temporada del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25677]
-A quienes gastaron Maíz en la 3ra temporada del evento: Cosecha de otoño
+A quienes gastaron Maíz en la 3ra temporada del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25692]
-A quienes gastaron Maíz en la temporada 4 del evento: Cosecha de otoño
+A quienes gastaron Maíz en la temporada 4 del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25699]
-A quienes gastaron Maíz en la temporada 5 del evento: Cosecha de otoño
+A quienes gastaron Maíz en la temporada 5 del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25719]
-A quienes gastaron Maíz en la temporada 6 del evento: Cosecha de otoño
+A quienes gastaron Maíz en la temporada 6 del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25742]
-A quienes gastaron Maíz en la temporada 7 del evento: Cosecha de otoño
+A quienes gastaron Maíz en la temporada 7 del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25789]
-A quienes gastaron Maíz en la temporada 8 del evento: Cosecha de otoño
+A quienes gastaron Maíz en la temporada 8 del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25839]
-A quienes gastaron Maíz en la temporada 9 del evento: Cosecha de otoño
+A quienes gastaron Maíz en la temporada 9 del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_DES_ID_25894]
-A quienes gastaron Maíz en la temporada 10 del evento: Cosecha de otoño
+A quienes gastaron Maíz en la temporada 10 del evento: Cosecha copiosa
 
 [HARVEST_BATTLE_HEAD_ID_25595]
 Medalla del agricultor otoñal
@@ -23658,7 +23656,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.5^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 3/7/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.5^oldclr^ | ^87CEFA^Parche: 1.1.1 (actualizado el 3/7/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -25671,19 +25669,19 @@ Invita a {NUM} amigos
 Invita a {NUM} amigos que tengan 45 Estrellas o más
 
 [INVATATION_TAB1_COPY_CODE]
-Copiar código
+COPIAR CÓDIGO
 
 [INVATATION_TAB1_RECORD]
 Registro de invitaciones
 
 [INVATATION_TAB1_SHARED]
-Compartir código
+COMPARTIR CÓDIGO
 
 [INVATATION_TAB1_TEXT1]
-Compartir
+COMPARTIR
 
 [INVATATION_TAB2_TEXT]
-^D22808^El código de invitación sólo está disponible
+^FFFFFF^El código de invitación sólo está disponible
 para las cuentas recién creadas^oldclr^
 
 [INVATATION_TAB_NAME1]
@@ -27181,7 +27179,7 @@ Déjame pensarlo
 2. También recibes monedas diarias, al calificar niveles o con reproducciones de nivel
 
 [LEVEL_EDITOR_ALL_ZOMBIE_LEVEL]
-Fuerza general de los Zombis
+Fuerza de los zombis: 
 
 [LEVEL_EDITOR_BAN_ASH_PLANT]
 Plantas fulminantes
@@ -27196,10 +27194,10 @@ Deshabilitar plantas por tipo
 Plantas solares
 
 [LEVEL_EDITOR_EVENT_INTERVAL_END]
-Intervalo final del Evento
+Intervalo final
 
 [LEVEL_EDITOR_EVENT_INTERVAL_START]
-Intervalo inicial del Evento
+Intervalo inicial
 
 [LEVEL_EDITOR_EVENT_ROW_END]
 Fila final
@@ -27424,7 +27422,7 @@ Nivel de las plantas
 Configura el nivel de las plantas.
 
 [LEVEL_EDITOR_PLANT_LEVEL_SETTING_HINT]
-Se cambiará el nivel de las plantas a {NUM}, ¿estás seguro?
+Las plantas pasarán a ser de ^397F24^Nvl. {NUM}^oldclr^, ¿estás seguro?
 
 [LEVEL_EDITOR_PLANT_SELECT]
 Selección de plantas
@@ -27433,16 +27431,16 @@ Selección de plantas
 Tormenta de arena
 
 [LEVEL_EDITOR_SELECT_RARE]
-Rareza de las plantas
+Rareza
 
 [LEVEL_EDITOR_SELECT_ZOMBIE]
-Selección de zombis
+Zombis del nivel
 
 [LEVEL_EDITOR_SENCE]
-Escenarios
+Elementos
 
 [LEVEL_EDITOR_SHOP_TITLE]
-Tienda de la Creación
+Tienda
 
 [LEVEL_EDITOR_SINGLE_HANDED_PACKET_1]
 Semilla 1
@@ -27469,115 +27467,115 @@ Semilla 7
 Semilla 8
 
 [LEVEL_EDITOR_SINGLE_HANDED_SLIDER_TITLE]
-Zombis por evolución
+Zombis por evolución: 
 
 [LEVEL_EDITOR_SNOWSTORM]
 Tormenta de nieve
 
 [LEVEL_EDITOR_SUN_MONEY_SET]
-Número de Soles iniciales (0 - 9000)
+Soles iniciales (0 - 9000)
 
 [LEVEL_EDITOR_TOWER_DEFEND_BOARDGRID_SETTING_TITLE]
-Selección del Terreno
+Armar camerino
 
 [LEVEL_EDITOR_TOWER_DEFEND_SLIDER_TITLE]
-Evolución de plantas
+Evolución de plantas: 
 
 [LEVEL_EDITOR_WAVE_EVENT_BLACK_HOLE_BTN_LEFT]
 Rango de absorción
 
 [LEVEL_EDITOR_WAVE_EVENT_BLACK_HOLE_TITLE]
-Agujero negro
+Agujero negro: ajustes
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_1]
-Antiguo Egipto
+Tormenta de arena
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_2]
-Futuro Lejano
+Enjambre de robots
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_3]
-Mares Piratas
+Incursión
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_4]
-Global
+Grieta
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_5]
-Pantano del Jurásico
+Dino-estampida
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_6]
-Cuevas congeladas
+Tormenta de nieve
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_7]
-Ciudad perdida
+Lluvia de paracaídas
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_8]
-Dinastía del Kung Fu
+Agujero negro
 
 [LEVEL_EDITOR_WAVE_EVENT_BTN_9]
-Edad Oscura
+Nigromancia
 
 [LEVEL_EDITOR_WAVE_EVENT_DINO_STRIKE_BTN_LEFT]
-Número de filas
+Filas
 
 [LEVEL_EDITOR_WAVE_EVENT_DINO_STRIKE_BTN_RIGHT]
-Tiempo de activación
+Veces
 
 [LEVEL_EDITOR_WAVE_EVENT_DINO_STRIKE_TITLE]
-Estampida de dinosuarios
+Dino-estampida: ajustes
 
 [LEVEL_EDITOR_WAVE_EVENT_PARACHUTE_RAIN_BTN_LEFT]
 Columna final
 
 [LEVEL_EDITOR_WAVE_EVENT_PARACHUTE_RAIN_TEXT]
-Aparecen 2 Zombis piloto perdidos cada 1 segundo, para un total de 4 zombis.
+Caen 2 pilotos perdidos cada 1 s (máx. 4)
 
 [LEVEL_EDITOR_WAVE_EVENT_PARACHUTE_RAIN_TITLE]
-Lluvia de paracaídas
+Lluvia de paracaídas: ajustes
 
 [LEVEL_EDITOR_WAVE_EVENT_PORTAL_BTN_LEFT]
-Número de columnas
+Columnas
 
 [LEVEL_EDITOR_WAVE_EVENT_PORTAL_BTN_RIGHT]
-Número de filas
+Filas
 
 [LEVEL_EDITOR_WAVE_EVENT_PORTAL_BTN_WORLD]
 Mundo
 
 [LEVEL_EDITOR_WAVE_EVENT_PORTAL_TITLE]
-Grieta espacio-temporal
+Grieta: ajustes
 
 [LEVEL_EDITOR_WAVE_EVENT_RAIDING_PARTY_BTN_LEFT]
 Número de zombis
 
 [LEVEL_EDITOR_WAVE_EVENT_RAIDING_PARTY_TITLE]
-Incursión
+Incursión: ajustes
 
 [LEVEL_EDITOR_WAVE_EVENT_SELECT]
-Selección de eventos
+Eventos de oleada
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_BTN_LEFT]
-Intervalo entre columnas
+Zombis por col
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_BTN_RIGHT]
-Número de zombis
+Zombis max
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_TEXT]
-Los Zombichos aparecen cada 1 s, el resto aparece después de 4 s
+Zombichos caen cada 1 s (máx. 4)
 
 [LEVEL_EDITOR_WAVE_EVENT_SPIDER_RAIN_TITLE]
-Enjambre de robots
+Enjambre de robots: ajustes
 
 [LEVEL_EDITOR_WAVE_EVENT_SUMMON_ZOMBIE_TITLE]
-Zombis a aparecer
+Nigromancia: ajustes
 
 [LEVEL_EDITOR_WEIGHT_SET]
-Peso
+Peso: 
 
 [LEVEL_EDITOR_ZOMBIE_LEVEL_SET]
 Fuerza de los zombis
 
 [LEVEL_EDITOR_ZOMBIE_WAVE_NUM]
-Oleada: {NUM}
+Oleada: {NUM}  
 
 [LEVEL_INDEX]
 Nivel {NUMBER}
@@ -29243,22 +29241,22 @@ Se usa para Subir los Artefactos de Nivel.
 Maíz de cosecha
 
 [MAT_AUTUMN_HARVEST_SUPERCORN_GOT_WAY]
-Participando en el Sorteo de la Cosecha de otoño
+Cosecha copiosa
 
 [MAT_AUTUMN_HARVEST_SUPERCORN_USE]
-Se usa para canjear artículos en la Tienda de la Cosecha de otoño
+Se usa para canjear artículos en la Tienda copiosa
 
 [MAT_AUTUMN_HARVEST_TICKET]
-Monedas de otoño
+Trigo
 
 [MAT_AUTUMN_HARVEST_TICKET_GOT_WAY]
-Tienda de la Cosecha de otoño
+Tienda copiosa
 
 [MAT_AUTUMN_HARVEST_TICKET_NOT_ENOUGH]
-Monedas de otoño insuficientes.
+Trigo insuficiente.
 
 [MAT_AUTUMN_HARVEST_TICKET_USE]
-Se usan para obtener recompensas en la Cosecha de otoño.
+Se usan para obtener recompensas en la Cosecha copiosa.
 
 [MAT_AVATAR_TICKET]
 Cupón de atuendos
@@ -31819,7 +31817,7 @@ Ipomoea
 
 [MORNINGGLORY_NEW_SKILL_LEVEL1_DES]
 Ataca con ondas rítmicas, refleja proyectiles sónicos.
-^E2725B^Efectiva contra: altavoces, Zombi metalero, Zombistein melena de metal^oldclr^
+^E2725B^Efectiva contra: altavoces, Zombi metalero, Zombistein melena del metal^oldclr^
 
 [MORNINGGLORY_NEW_SKILL_LEVEL2_DES]
 Su poder de ataque aumentará en un 15% por cada una plantada cerca ^FF0000^(máx. 2)^oldclr^
@@ -32092,7 +32090,7 @@ Soles iniciales
 Soles al comienzo de la partida
 
 [MUTATOR_START_SUN]
-Soles iniciales
+Soles iniciales: 
 
 [MUTATOR_START_SUN_DESC]
 Soles iniciales
@@ -38438,7 +38436,7 @@ Festival lunar - Día Final (Difícil)
 Comprar x10
 
 [NEWYEAR_PACK_TITLE]
-Comprar x1
+Bolsas de la suerta
 
 [NEW_ADDITION_GENE]
 Secuencias genéticas adicionales
@@ -41344,7 +41342,9 @@ Joyas
 
 [NEW_PVP_SHOP_INFO_DETAIL]
 1. Los artículos de la tienda se renuevan diariamente a las 00:00
-2. Las Monedaz de amatista se obtienen en cofres diarios y semanales, úsalas para canjear artículos
+
+2. Las Monedaz de amatista se obtienen en cofres diarios y semanales, úsalas para canjear artículos.
+
 3. Los cofres de temporada suelen contener a los nuevos zombis agregados en la temporada actual.
 
 [NEW_PVP_SHOP_INFO_TITLE]
@@ -41370,10 +41370,15 @@ Campaña
 
 [NEW_PVP_TASK_DESCRIPTION]
 1. Gana experiencia completando misiones. Subes de Nivel cada 1.000 puntos de EXP
+
 2. Las misiones diarias se refrescan al completarse, las mensuales se desbloquean con el tiempo.
+
 3. A medida que subes de Nivel, las Recompensas serán mejores. También consigues Monedas VS.
+
 4. Las Monedas VS sirven para girar la Ruleta. Expiran en la próxima temporada, ¡úsalas cuanto antes!
+
 5. Podrás adquirir todos los premios de la ruleta al alcanzar el Nvl. 50 (requiere prémium).
+
 6. Activa el pase prémium para conseguir beneficios como experiencia, Monedas adicionales o plantas destacadas.
 
 [NEW_PVP_TASK_DESCRIPTION_40]
@@ -41407,7 +41412,7 @@ Temporada actual: 48
 Temporada actual: 49
 
 [NEW_PVP_TASK_DESCRIPTION_50]
-Temporada actual: 50
+^D22808^Temporada actual: 50^oldclr^
 
 [NEW_PVP_TASK_DESCRIPTION_TITLE]
 SOBRE LAS MISIONES DE CAMPAÑA
@@ -45227,13 +45232,13 @@ Examen final - Planta carnívora
 Examen final - Apisonaflor
 
 [PENNY_GIFT_BUY_ENOUGH]
-No tienes suficiente Lingotes de Penny.
+No tienes suficiente Monedas del futuro.
 
 [PENNY_GIFT_BUY_PENNY_GIFT]
-¿Deseas comprar eso por ^DB8117^{NUM} Lingotes de Penny^oldclr^?
+¿Deseas comprar eso por ^DB8117^{NUM} Monedas del futuro^oldclr^?
 
 [PENNY_GIFT_BUY_TIMES_CONSUME]
-Gasta {NUM} Lingotes
+{NUM} Monedas futuro
 
 [PENNY_GIFT_CONG]
 Configurar regalos
@@ -45251,16 +45256,17 @@ La selección actual tiene menos de {NUM} categorías
 Configuración exitosa
 
 [PENNY_GIFT_DESCRIPTION]
-1. Toca en Penny y selecciona al azar 8 cajas de regalo de 3 categorias distintas.
-2. Gasta lingotes de Penny para comprar regalos, clasificarte y obtener descuentos.
-3. Cada caja de regalo tiene un chance de dar premios aleatorios, toca en el botón '?' para ver detalles.
-4. Los lingotes de Penny se convierte en Joyas al final de evento, úsalos cuanto antes.
+1. Compra Monedas del futuro para abrir regalos, clasificarte y obtener premios.
+
+2. Puedes personalizar los regalos con el contenido de tu elección.
+
+3. Los Monedas del futuro se convierte en Joyas al final de evento, úsalos cuanto antes.
 
 [PENNY_GIFT_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
 
 [PENNY_GIFT_PAVILION_EXPIRED]
-La caja de regalos ha expirado
+El Regalo de Penny terminó. Esto fue lo que se reembolsó:
 
 [PENNY_GIFT_PRICE]
 Precio original: {NUM}
@@ -56886,10 +56892,10 @@ SOBRE LAS TABLAS DE CLASIFICACIÓN
 Liga actual
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL2]
-Liga próxima
+Liga superior
 
 [RIFT_LEADERBOARD_SEASONBOX_LABEL3]
-Liga posterior
+Liga inferior
 
 [RIFT_LEADERBOARD_SEASON_REWARD_HEADER]
 Recompensas por temporada
@@ -57262,10 +57268,10 @@ Da estocadas a los zombis cercanos
 Rotación
 
 [ROTATION_TIMES]
-Número de rotaciones
+Rotaciones: 
 
 [ROTATION_VELOCITY]
-Velocidad de rotación
+Vel. de rotación: 
 
 [ROUND]
 Ronda
@@ -63521,7 +63527,7 @@ Quitar una planta genera lápidas
 Mostrar todas las plantas
 
 [SHOW_TIME]
-Tiempo de Visualización
+Duración anim: 
 
 [SHRINK]
 Reducir
@@ -66050,7 +66056,7 @@ Tienda de primavera
 Tienda del Renacimiento
 
 [STATUS_NUM]
-Número de estatuas
+Estatuas: 
 
 [STAT_AREA]
 ÁREA
@@ -71425,7 +71431,7 @@ Aumenta el número de mordizcos en 1 ^D22808^(ahora 2)
 [TIGERSTOOL_DESCRIPTION]
 {KEYWORD}Área: {STAT}2x3
 
-{KEYWORD}Características de la planta: {STAT}planta anaranjada, destructora, destructora
+{KEYWORD}Características de la planta: {STAT}planta anaranjada, destructora, familia de setas
 
 {FLAVOR}Es un aficionado de los gatitos. Se dice que hay miles de videos en su computadora, cada uno ordenado por raza y categoría.
 
@@ -72453,7 +72459,7 @@ Otra vez
 Reintentar
 
 [TRY_TIMES]
-Número de Intentos
+Intentos: 
 
 [TULIPTRUMPETER]
 Tulipán trompetista
@@ -75604,31 +75610,31 @@ Aumenta el daño con cada sucesión de ataques encadenados
 Toca para regar
 
 [WAVE_1]
-1ra oleada
+1
 
 [WAVE_2]
-2da oleada
+2
 
 [WAVE_3]
-3ra oleada
+3
 
 [WAVE_4]
-4ta oleada
+4
 
 [WAVE_5]
-5ta oleada
+5
 
 [WAVE_6]
-6ta oleada
+6
 
 [WAVE_7]
-7ma oleada
+7
 
 [WAVE_8]
-8va oleada
+8
 
 [WAVE_SHOW_TIME]
-Tiempo entre oleadas
+Tiempo entre oleadas: 
 
 [WAXGOURD]
 Calabaza de cera
@@ -78536,6 +78542,7 @@ Zombi metalero
 
 [ZOMBIE_EIGHTIES_BASS_DESCRIPTION]
 {KEYWORD}Especial: {STAT}toca el bajo rápidamente, disparando ondas sónicas letales
+{KEYWORD}Debilidad: {STAT}Gloria matutina
 
 {FLAVOR}En los 80s soñaba con llenar estadios y romper récords. Décadas después finalmente logró romper algo: todas las ventanas del vecindario.
 
@@ -78583,6 +78590,7 @@ Zombistein melena del metal
 [ZOMBIE_EIGHTIES_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Daño: {STAT}aplasta plantas con la guitarra
 {KEYWORD}Daño: {STAT}desata una explosión sónica cuando suena música heavy
+
 {KEYWORD}Especial: {STAT}lanza a Zombidito punk cuando sufre daño
 
 {FLAVOR}Zombistein melena del metal solo se sabe un acorde, pero lo tocará por lo menos durante toda la noche.
@@ -78693,7 +78701,10 @@ Zombi policía
 
 [ZOMBIE_EXPLOSION_PROOF_DESCRIPTION]
 {KEYWORD}Daño: {STAT}golpea a las plantas que tiene cerca con su macana
-{KEYWORD}Especial: {STAT}el humo de sus bombas inmoviliza a las plantas
+
+{KEYWORD}Especial: {STAT}resite el daño de las explosiones
+{KEYWORD}Especial: {STAT}arroja bombas de humo para inmovilizar plantas
+
 {KEYWORD}Debilidad: {STAT}Trebolador y Huracol neutralizan los efectos del humo
 
 {FLAVOR}Cada vez que hay un motín, ¡aparece para cumplir con su deber, protegiendo al país y a su gente! ¡Es un tipo digno de nuestro respeto!
@@ -80223,7 +80234,7 @@ Mastodonte terrorífico de furia exploradora.
 Zombi guía perdido
 
 [ZOMBIE_LOSTCITY_GUIDE_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}Jaca bloquea los túneles abiertos por él
+{KEYWORD}Debilidad: {STAT}Jaca
 
 {FLAVOR}Consiguió este trabajo no por su inteligencia, sino por el mapa que tiene en sus manos. Agradece a su padre, quien se declaró en quiebra tras financiar varias búsquedas fallidas.
 
@@ -81107,7 +81118,7 @@ Zombi hielaguisantes
 Lanza guisantes helados que dañan y ralentizan plantas
 
 [ZOMBIE_NUM]
-Número de Zombis
+Zombis: 
 
 [ZOMBIE_NUTCRACKER]
 Zombi cascanueces
@@ -81358,7 +81369,7 @@ Zombi saltarín
 
 [ZOMBIE_POGO_DESCRIPTION]
 {KEYWORD}Especial: {STAT}salta plantas
-{KEYWORD}Debilidad: {STAT}Magneto-seta
+{KEYWORD}Debilidad: {STAT}Magneto-seta y Nuez cáscara-rabias
 
 {FLAVOR}"¡Doing! ¡Doing! ¡Doing!", es el sonido de un zombi perfectamente equipado para asaltar tu casa.
 
@@ -82057,7 +82068,9 @@ Su sombrero con forma de cubo proporciona una gran protección contra daños.
 Zombidito de combate
 
 [ZOMBIE_SKYCITY_BATTLEPLANE_DESCRIPTION]
-Estudió 97 cursos, aprobó 81 exámenes, experimentó 101 simulaciones... Él y otros siempre mencionan sus excelentes habilidades de vuelo, pero los que se han sentado en su avión parecen reaccionar y volver a mencionar este tema nuevamente.
+{KEYWORD}Debilidad: {STAT}Piña giratoria
+
+{FLAVOR}Estudió 97 cursos, aprobó 81 exámenes, experimentó 101 simulaciones... Él y otros siempre mencionan sus excelentes habilidades de vuelo, pero los que se han sentado en su avión parecen reaccionar y volver a mencionar este tema nuevamente.
 
 [ZOMBIE_SKYCITY_BATTLEPLANE_DESCRIPTION_HEADER]
 Dispara a las plantas y a tu nave desde su avión de combate.
