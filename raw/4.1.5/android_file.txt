@@ -73142,7 +73142,7 @@ Mochila
 TRANSGÉNESIS
 
 [UI_GINGLEBELL_TIPS]
-Mecánicas de la temporada
+Mecánicas
 
 [UI_SOCIAL_FRIEND_PICKER_MSG]
 Échale un vistazo a esta app
