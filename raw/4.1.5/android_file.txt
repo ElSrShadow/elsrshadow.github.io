@@ -551,8 +551,10 @@ Compra Paquetes de Regalo, obtén Cristales para canjearlos y participar en sort
 El evento ha terminado.
 
 [ACTIVITY_GROUP_BUY_DESCRIPTION]
-1. Gasta Joyas durante el evento para comprar artículos y recibir un jugoso descuento.
-2. Se pueden conseguir Cupones por la recarga de 元. Los Cupones se usan para canjear artículos especiales.
+1. Compra artículos de grupo por Joyas en un jugoso descuento. ¡Cada día hay nuevas ofertas!
+
+2. Gasta dinero real y obtén Cupones que pueden usarse para canjear artículos especiales.
+
 3. Las plantas que se pueden adquirir son de Nvl. 2 ó 3, se convierten en Piezas si ya las posees.
 
 [ACTIVITY_GROUP_BUY_TITLE]
@@ -565,7 +567,7 @@ El evento ha finalizado
 Compra llaves para ganar cupones de descuento y atuendos exclusivos
 
 [ACTIVITY_HOME_RECGAGE_AWARD]
-Venta en un gran descuento por tiempo limitado, ¡cómprala ya!
+Obtén premios por la compra de Joyas
 
 [ACTIVITY_LEFT]
 Termina en
@@ -6443,7 +6445,7 @@ Toca en la pala
 Tesoro de cupones
 
 [BIG_PACKET_TICKET]
-Bolsa de cupones
+Superbolsa de cupones
 
 [BIND_UNIQUE_ID_CLEAR_PROFILE]
 Hemos detectado que tu cuenta actual no coincide con la cuenta local. Toca en "Aceptar" para borrar el archivo local.
@@ -8735,7 +8737,7 @@ ACEPTAR
 RECARGAR
 
 [BUTTON_REFRESH]
-ACTUALIZAR
+Refrescar
 
 [BUTTON_RESET]
 Rest. Nvl.
@@ -9494,9 +9496,14 @@ Sorteo de despeje
 Carnaval de ofertas
 
 [CARNIVAL_DESCRIPTION_1]
-1. Disponible de 20:00 a 22:00, compra diferentes artículos con Cupones de carnaval.
+1. Compra diferentes artículos en descuento usando Cupones de carnaval.
+
 2. Los Cupones de carnaval se obtienen con dinero real en la Tienda del evento.
+
 3. Cada compra aumenta la probabilidad de obtener recompensas adicionales.
+
+[CARNIVAL_DESCRIPTION_2]
+
 
 [CARNIVAL_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
@@ -13492,10 +13499,10 @@ Supera 2 niveles del Lejano Oeste
 ^3AAD14^Registro:^oldclr^
 
 [DAILY_BUNDLE_OFFER]
-Paquete diario
+Lote diario
 
 [DAILY_GIFT_REFRESH]
-Nuevo regalo
+Nuevos lotes en:
 
 [DAILY_LIST]
 Lista diaria
@@ -13513,7 +13520,7 @@ Se ha producido un error de conexión, reinicia el juego e inténtalo de nuevo.
 Error de conexión
 
 [DAILY_SALE_PACKET]
-Disponible: ^DB8117^{ITEM}^oldclr^
+^DB8117^{ITEM}^oldclr^
 
 [DAILY_SIGN_CONFIRM_AD]
 ¿Deseas ver un anuncio para obtener ^FF0000^otro premio^oldclr^ hoy?
@@ -21889,13 +21896,13 @@ Puedes conseguir más Piezas en:
 Tienes un premio: ¡PIEZAS PARA PLANTAS!
 
 [GET_RANDOM_BUNDLE_OFFER]
-Recibe un Paquete al azar cada día
+Lotes diarios cada día
 
 [GET_TARGET_SCORE]
 Obtén {NUM} puntos
 
 [GET_TRIAL_CARD]
-Prueba una Tarjeta de Exp
+Prueba una tarjeta de EXP
 
 [GHOSTPEPPER]
 Chile fantasma
@@ -22918,16 +22925,16 @@ Revela a los zombis invisibles por tiempo limitado
 Revela a los zombis invisibles por tiempo limitado
 
 [GROUP_BUY_5_DISCOUNT]
-Descuento mín.: 50%
+Oferta de grupo
 
 [GROUP_BUY_BEEN]
-¡Ya has adquirido este artículo del grupo!
+Agotado
 
 [GROUP_BUY_CAN_EXCHANGE]
 Límite de compra: ^FF0000^{NUMBER}^oldclr^
 
 [GROUP_BUY_CAN_EXCHANGE_UNLIMITED]
-Límite de compra: ^FF0000^no hay^oldclr^
+
 
 [GROUP_BUY_DAVE_TICKET_NOT_ENOUGH]
 Boletos de Dave insuficientes, consigue más gastando Joyas.
@@ -22939,16 +22946,16 @@ Precio: ^48A8F5^{NUMBER1} ^62D83E^-{NUMBER3}% dto ^F20D0D^({NUMBER2})^oldclr^
 Vista previa
 
 [GROUP_BUY_LIMIT]
-Artículos por grupos
+El Vivero de Dave
 
 [GROUP_BUY_NOTICE]
 Vista previa
 
 [GROUP_BUY_NOTICE_DES]
-Éstos son los artículos por grupo que estarán disponibles mañana:
+Éstos son los artículos que estarán disponibles mañana:
 
 [GROUP_BUY_NOTICE_END]
-El evento está llegando a su fin.
+Sin vista previa. El evento termina mañana.
 
 [GROUP_BUY_NOW]
 COMPRAR
@@ -22957,7 +22964,7 @@ COMPRAR
 Nvl. {NUMBER}
 
 [GROUP_BUY_RETURN]
-Devoluciones por grupos
+Devoluciones
 
 [GROUP_BUY_SUCCESS]
 ¡Compra realizada con éxito!
@@ -23708,7 +23715,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.2.0 (actualizado el 9/7/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.3.0 (actualizado el 10/7/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -27897,10 +27904,10 @@ Lista de probabilidades:
 Lista de probabilidades:
 
 [LIMITED_BUNDLE_OFFER]
-Paquete en oferta
+Lote en oferta
 
 [LIMITED_FLASH_SALE_PACKET]
-Consigue {ITEM} por tiempo limitado
+^DB8117^{ITEM} ^FF0000^(por tiempo limitado)^oldclr^
 
 [LIMITED_GACHA_CONFIRM_BUY]
 ACEPTAR
@@ -31238,10 +31245,10 @@ Nivel 5
 Conjura meteoritos que dejan casillas abrasadoras
 
 [MID_BAG_TICKET]
-Caja de cupones
+Bolsa de cupones
 
 [MID_PACKET_TICKET]
-Caja de cupones
+Botín de cupones
 
 [MINECART_TUTORIAL_1]
 Arrastra el carro de mina a una nueva ubicación
@@ -43129,7 +43136,7 @@ Nivel 3
 Da sol y proporciona oxígeno para las plantas bajo el agua
 
 [PACKETS_DETAILS]
-Detalles del Paquete
+Contenido del lote
 
 [PACKET_BUY_TIMES]
 Compras:
@@ -48063,34 +48070,34 @@ Shock
 Hipnotizar
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_1]
-^DB8117^Atributos: ^A0522D^quemaduras^oldclr^
+^DB8117^Atributos: ^EF0123^quemaduras^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia ígnea^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^EF0123^Resistencia ígnea^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_3]
-^DB8117^Atributos: ^A0522D^aturdir^oldclr^
+^DB8117^Atributos: ^848484^aturdir^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia física^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^848484^Resistencia física^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_5]
-^DB8117^Atributos: ^A0522D^congelar^oldclr^
+^DB8117^Atributos: ^0072FF^congelar^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia gélida^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^0072FF^Resistencia gélida^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_7]
-^DB8117^Atributos: ^A0522D^envenenar^oldclr^
+^DB8117^Atributos: ^701EDF^envenenar^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia al veneno^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^701EDF^Resistencia al veneno^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_9]
-^DB8117^Atributos: ^A0522D^shock eléctrico^oldclr^
+^DB8117^Atributos: ^FF9600^shock eléctrico^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia eléctrica^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^FF9600^Resistencia eléctrica^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TEXT_11]
-^DB8117^Atributos: ^A0522D^magia^oldclr^
+^DB8117^Atributos: ^FF4284^magia^oldclr^
 
-^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^D22808^Resistencia mágica^oldclr^
+^FF8000^Resiliencia: ^A0522D^sus ataques reducen la ^FF4284^Resistencia mágica^oldclr^
 
 [PLANT_SPECIAL_TAG_TIPS_TITLE]
 ^2f8101^Resistencia y resiliencia^oldclr^
@@ -51817,7 +51824,7 @@ Protege tus calcetines para ganar premios al final del nivel.
 Compras: {NUM1}/{NUM2}
 
 [PVZ1MODE_SHOP_BUY_TIME_UNLIMITED]
-Compra ilimitada
+
 
 [PVZ1MODE_SHOP_TIPS_DESC]
 1. El límite de compra de los artículos se restablece todos los días a las 12:00 AM.
@@ -62417,8 +62424,8 @@ Abduce zombis con ^D22808^500^oldclr^ puntos de salud o menos.
 Abduce zombis con ^D22808^800^oldclr^ puntos de salud o menos.
 
 [SAUCER_NEW_SKILL_LEVEL4_DES]
-Abduce zombis con ^D22808^1.000^oldclr^ puntos de salud o menos.
 Despertar: ^D22808^20 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
+^E2725B^Básicos: abduce zombis con ^D22808^1.000 ^E2725B^puntos de salud o menos.^oldclr^
 ^DB8117^Nutrientes: aturde a todos los zombis en pantalla.^oldclr^
 
 [SAUCER_PEDIA]
@@ -63886,7 +63893,7 @@ El mango de madera tiene un agarre cómodo.
 ¡Tienes disponible una nueva maceta para brotes!
 
 [SMALL_BAG_TICKET]
-Bolsita de cupones
+Cofre de cupones
 
 [SMALL_PACKET_TICKET]
 Sobre de cupones
@@ -64215,7 +64222,7 @@ Vendido
 Debilidad: ^00AAE4^hielo^oldclr^
 
 [SPACETIMERIFT_BOSSTIPE_DES_TITLE]
-Jefe de temporada: ^A048CF^Conquistador de Roma^oldclr^
+Jefe de temporada: ^A0522D^Conquistador de Roma^oldclr^
 
 [SPACETIMERIFT_CHEAT_DES_DESCRIPTION]
 Se te ha vetado temporalmente de este modo por hacer trampas.
@@ -64264,7 +64271,7 @@ TABLA DE PREMIOS
 Premio de suerte
 
 [SPACETIMERIFT_MAIN_DES_DESCRIPTION]
-1. Recibes 3 intentos diarios de desafío, haz la mayor cantidad de daño para clasificarte en la tabla y obtener premios.
+1. Juega partidas en solo o duo, y haz la mayor cantidad de daño al jefe para clasificarte en la tabla y obtener premios.
 
 2. Al día siguiente, se evaluarán los resultados de clasificación de 00:00 a 08:00. En ese periodo no se puede jugar.
 
@@ -66077,7 +66084,7 @@ Comienza en {DAYS}
 Comienza en {DURATION}
 
 [START_SALE_TIME]
-Horario de ventas
+Disponible el:
 
 [STARVING_CHOMPER_SPAWNED]
 ¡Cuidado con la Planta carnívora!
@@ -71501,10 +71508,10 @@ Guanteletes
 ¡Tienes 1 Guantelete!
 
 [TICKET_BUY]
-Canjear
+Tienda de cupones
 
 [TICKET_NUMBER]
-Cupones x{NUM}
+Cupones: {NUM}
 
 [TIGERGRASS]
 Hierba tigre
@@ -71914,7 +71921,7 @@ Puntaje
 ^FF8000^Compras en el servidor^oldclr^
 
 [TOTAL_SERVER_BUY_TIMES_REWARD]
-Proxima recompensa en {NUM} compras
+{NUM} compras
 
 [TOURISMOCTOBERSPECIAL_TASKDESCRIPTION]
 Consigue {NUMBER} puntos de escuadrón
