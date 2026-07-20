@@ -539,7 +539,7 @@ Fagaceae
 Quercus
 
 [ACORN_NEW_SKILL_LEVEL1_DES]
-Lanza torbellinos que golpean ^D22808^3^oldclr^ zombis, ¡dos veces!
+Lanza torbellinos que golpean ^D22808^3^oldclr^ zombis, ^D22808^¡dos veces!^oldclr^
 ^E2725B^Tip: efectiva contra la Morza zombi^oldclr^
 
 [ACORN_NEW_SKILL_LEVEL2_DES]
@@ -1811,9 +1811,9 @@ Compra exitosa
 800% descuento
 
 [AD_FREE_REWARD]
-Obtienes:
+Beneficios:
 
-- 300 Joyas
+- Obtienes 300 Joyas.
 - Sin anuncios de por vida.
 
 [AD_FREE_TITLE]
@@ -1839,7 +1839,8 @@ El tiempo de aturdimiento del efecto aumenta en ^D22808^2 s (ahora es de 5 s)^ol
 Siempreviva usa la magia oscura para atrapar zombis en el vacío durante un tiempo.
 
 [AEONIUM_NEW_SKILL_LEVEL1_DES]
-Envía zombis al vacío, haciéndolos vulnerables a la magia. ^D22808^Duración del vacío: 5 s^oldclr^
+Envía zombis al vacío. ^D22808^Duración del vacío: 5 s^oldclr^
+^E2725B^Especial: hace a los zombis vulnerables a la magia^oldclr^
 
 [AEONIUM_NEW_SKILL_LEVEL2_DES]
 Su ataque alcanza a ^D22808^2^oldclr^ zombis a la vez, los cuales sufren un ^D22808^20 %^oldclr^ más daño.
@@ -1918,7 +1919,7 @@ El tiempo de carga del ataque potenciado se reduce a ^D22808^1,5 s^oldclr^
 
 [AGAVE_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^90 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: envía una onda de choque. ^D22808^Daño: 1.600 (línea)^oldclr^
+^DB8117^Nutrientes: envía una onda de choque por la línea. ^D22808^Daño: 1.600^oldclr^
 
 [AGAVE_NEW_SKILL_LEVEL5_DES]
 El ataque cargado libera un corte que daña al primer zombi de la línea. ^D22808^Daño: 1.000 (área 1x3)^oldclr^
@@ -1930,7 +1931,7 @@ El agave (Agave spp.) es una planta suculenta de hojas carnosas y puntiagudas di
 Originario de México y el suroeste de EE. UU., fue considerado sagrado por las culturas prehispánicas. El agave azul (Agave tequilana) es esencial para la producción del tequila, mientras que otras especies se usan para mezcal o pulque. Hoy representa una identidad cultural y económica para México.
 
 [AGAVE_PLANTFOOD_DESCRIPTION]
-Envía una onda de choque por la línea delante de él.
+Envía una onda de choque por la línea
 
 [AGAVE_PRODUCT_SHORT_DESC]
 Decapita a los zombis que tiene al frente
@@ -2014,7 +2015,7 @@ A.K.E.E
 Casco
 
 [AKEE_AVATAR_PLANTFOOD_DESCRIPTION]
-Combina semillas de fuego ^D22808^(explosión 2x1)^oldclr^ y hielo ^D22808^(ralentización)^oldclr^ al usar Nutrientes.
+Combina semillas de fuego ^EF0123^(explosión 2x1)^oldclr^ y hielo ^0072FF^(ralentización)^oldclr^ al usar Nutrientes.
 ^D22808^Daño: 200^oldclr^
 
 [AKEE_DESCRIPTION]
@@ -2032,15 +2033,15 @@ Sapindaceae
 Blighia
 
 [AKEE_NEW_SKILL_LEVEL1_DES]
-Dispara semillas que rebotan en hasta ^D22808^3^oldclr^ zombis.
+Dispara proyectiles que rebotan de zombi a zombi. ^E2725B^Rebotes del proyectil: 3^oldclr^
 ^D22808^Daño: decae en 10 puntos por rebote^oldclr^
 
 [AKEE_NEW_SKILL_LEVEL2_DES]
-Las semillas pueden rebotar en ^D22808^1^oldclr^ zombi adicional ^D22808^(ahora 4)^oldclr^
+Rebotes del proyectil ^D22808^+1 (ahora 4)^oldclr^
 
 [AKEE_NEW_SKILL_LEVEL3_DES]
 ^D22808^25 % de probabilidad^oldclr^ de disparar una semilla grande que se divide en ^D22808^3^oldclr^ más pequeñas.
-^D22808^Daño: 120 (semilla grande)^oldclr^
+^D22808^Daño: 120 (semilla grande), 45 (semillas pequeñas)^oldclr^
 
 [AKEE_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^70 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -6776,7 +6777,7 @@ Lanza búmerans más grandes y poderosos. ^D22808^Daño: 30 (x2)^oldclr^
 Búmeran es capaz de golpear varios objetivos de su línea dos veces, ¡en la ida y a la vuelta!
 
 [BLOOMERANG_NEW_SKILL_LEVEL1_DES]
-Lanza un búmeran que golpea ^D22808^3^oldclr^ objetivos, en la ida y a la vuelta.
+Golpea a ^D22808^tres^oldclr^ objetivos de su línea, ^D22808^¡dos veces!^oldclr^
 
 [BLOOMERANG_NEW_SKILL_LEVEL2_DES]
 El coste en soles de Búmeran se reduce en ^D22808^5^oldclr^ por cada uno plantado. ^FF0000^Coste mínimo: 50^oldclr^
@@ -6786,10 +6787,10 @@ El coste en soles de Búmeran se reduce en ^D22808^10^oldclr^ por cada uno plant
 
 [BLOOMERANG_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: lanza ^D22808^10 ^DB8117^búmerans en cuatro direcciones.^oldclr^
+^DB8117^Nutrientes: lanza ^D22808^10 ^DB8117^búmerans en ^D22808^cuatro direcciones^oldclr^
 
 [BLOOMERANG_NEW_SKILL_LEVEL5_DES]
-Existe un ^D22808^10 % de posibilidad^oldclr^ de disparar un tornado que pone a los zombis a girar.
+^D22808^10 % de probabilidad^oldclr^ de disparar un tornado que pone a los zombis a girar.
 ^E2725B^Si un zombi en este estado choca con otro, le causa daño adicional o lo expulsa.^oldclr^
 
 [BLOOMERANG_PLANTFOOD_DESCRIPTION]
@@ -7890,9 +7891,6 @@ Nivel 5
 [BOOMFLOWER_TOOLTIP]
 Tócala para generar globos explosivos
 
-[BOOOMERANG_PRODUCT_SHORT_DESC]
-Golpea a tres objetivos de su línea, ¡dos veces!
-
 [BOOPHONEGEISHA]
 Desticha
 
@@ -7907,11 +7905,11 @@ El abanico del efecto se divide en ^D22808^3^oldclr^ partes al golpear un objeti
 {FLAVOR}Desticha pertenece a la antigua familia geisha, donde el abanico simboliza gracia y disciplina. Tras años de práctica, perfeccionó el refinado arte de despejar zombis con absoluta cortesía.
 
 [BOOPHONEGEISHA_DESCRIPTION_HEADER]
-Lanza su abanico de flores que dañan zombis en la ida y a la vuelta, por varias líneas.
+Lanza su abanico de flores que daña zombis en la ida y a la vuelta, por varias líneas.
 
 [BOOPHONEGEISHA_NEW_SKILL_LEVEL1_DES]
-Lanza su abanico para dañar zombis de varias líneas, ¡dos veces!
-^D22808^Retorno de abanico: alterna entre la línea superior e inferior^oldclr^
+Lanza su abanico para dañar zombis de varias líneas, ^D22808^¡dos veces!^oldclr^
+^A0522D^Retorno de abanico: alterna entre la línea superior e inferior^oldclr^
 
 [BOOPHONEGEISHA_NEW_SKILL_LEVEL2_DES]
 Existe un ^D22808^50% de probabilidad^oldclr^ de que su abanico impacte a otros zombis hasta que el último zombi sea golpeado.
@@ -7933,19 +7931,19 @@ Lanza un abanico en llamas que se divide en dos más pequeños.
 Nivel 2
 
 [BOOPHONEGEISHA_SKILL_LEVEL1_DES]
-^4DD4DB^Venganza:^oldclr^ existe un 50% de probabilidad de que su abanico impacte a otros zombis hasta que el último zombi sea golpeado.
+^4DD4DB^Segundo golpe:^oldclr^ existe un 50% de probabilidad de que su abanico impacte a otros zombis hasta que el último zombi sea golpeado.
 
 [BOOPHONEGEISHA_SKILL_LEVEL2]
 Nivel 3
 
 [BOOPHONEGEISHA_SKILL_LEVEL2_DES]
-^DD7ECB^Persistencia:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+^DD7ECB^Karma:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
 
 [BOOPHONEGEISHA_SKILL_LEVEL5]
 Nivel 5
 
 [BOOPHONEGEISHA_SKILL_LEVEL5_DES]
-^DB8117^Danza de la golondrina:^oldclr^ su abanico ahora inflige 2,5 veces más de daño cuando golpea zombis en la vuelta.
+^DB8117^Danza geisha:^oldclr^ su abanico ahora inflige 2,5 veces más de daño cuando golpea zombis en la vuelta.
 
 [BOOPHONEGEISHA_TOOLTIP]
 Lanza su abanico para dañar zombis de varias líneas, ¡dos veces!
@@ -11538,10 +11536,10 @@ Haz {NUMBER} compras
 ^oldclr^
 
 [COLOR_ALMANAC_STAT_UPGRADE]
-^00FF00^
+^397F24^
 
 [COLOR_FLAVOR]
-^oldclr^
+^8B4513^
 
 [COLOR_KEYWORD]
 ^oldclr^
@@ -17276,8 +17274,7 @@ Concentra bolas de rayos que infligen daño constante
 Berenjena ninja
 
 [EGGPLANTNINJA_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza estrellas electrificadas que ^848484^aturden^oldclr^ zombis. ^D22808^Daño: 70^oldclr^
-^848484^Aturdir: 1 s (golpe)^oldclr^
+Lanza estrellas electrificadas que ^848484^aturden^oldclr^ zombis por 1 s. ^D22808^Daño: 70^oldclr^
 
 [EGGPLANTNINJA_DESCRIPTION]
 {KEYWORD}Especial: {STAT}después de varios ataques, lanzará una estrella más grande que inflige mayor daño
@@ -17296,7 +17293,7 @@ Solanaceae
 Solanum
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL1_DES]
-Lanza shurikens que golpean zombis de varias líneas, ¡dos veces!
+Lanza shurikens que golpean zombis de varias líneas, ^D22808^¡dos veces!^oldclr^
 ^E2725B^Estrella doble: se activa ^D22808^cada 3 ataques ^E2725B^y hace más daño. ^D22808^Daño: hace 90 (x2)^oldclr^
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL2_DES]
@@ -17491,11 +17488,11 @@ Los torbellinos del efecto alcanzan a todos los objetivos de la línea.
 Flor de bádminton tiene dos modos de ataque. Los activa según qué tan lejos estén los zombis de ella.
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL1_DES]
-Lanzamiento: alcance ≥ 4 casillas, hace 100 DPS cada 2.4 s ^E2725B^Rebote zombi: 2^oldclr^
-^A0522D^Saque rápido: alcance ≤ 3 casillas, hace 120 DPS cada 2.9 s ^E2725B^Eliminar zombis: 40% PS^oldclr^
+Lanzamiento: alcance de 4 casillas o más. Hace 100 DPS cada 2.4 s. ^E2725B^Rebotes del proyectil: 2^oldclr^
+^A0522D^Saque rápido: alcance de 3 casillas o menos. Hace 120 DPS cada 2.9 s. ^E2725B^Eliminar zombis: 40% PS^oldclr^
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL2_DES]
-^A0522D^Saque rápido: el alcance de activación aumenta en ^D22808^1 casilla (ahora 4 como min)^oldclr^
+^A0522D^Saque rápido: el rango de activación aumenta en ^D22808^1 casilla (ahora 4 como min)^oldclr^
 
 [ELAEOCARPUS_NEW_SKILL_LEVEL3_DES]
 Lanzamiento: el proyectil ahora afecta a zombis de ^D22808^1 casilla^oldclr^
@@ -22899,20 +22896,20 @@ Rábano militar dispara misiles que rebotan de zombi y zombi, y luego explotan a
 
 [GREENTURNIP_NEW_SKILL_LEVEL1_DES]
 Dispara misiles que rebotan y luego explotan. ^D22808^Daño: 500 → 250 → 125^oldclr^
-^E2725B^Rebote: 1 zombi^oldclr^
+^E2725B^Rebotes del proyectil: 1^oldclr^
 
 [GREENTURNIP_NEW_SKILL_LEVEL2_DES]
-Sus misiles rebotan en ^D22808^1^oldclr^ zombi adicional ^D22808^(ahora 2)^oldclr^
+Rebotes del proyectil ^D22808^+1 (ahora 2)^oldclr^
 
 [GREENTURNIP_NEW_SKILL_LEVEL3_DES]
-Sus misiles rebotan en ^D22808^2^oldclr^ zombis adicionales ^D22808^(ahora 3)^oldclr^
+Rebotes del proyectil ^D22808^+2 (ahora 3)^oldclr^
 
 [GREENTURNIP_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^100 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
 ^DB8117^Nutrientes: lanza un misil enorme por la línea. ^D22808^Daño: 3.000^oldclr^
 
 [GREENTURNIP_PLANTFOOD_DESCRIPTION]
-Lanza un misil enorme que inflige daño masivo a todos los zombis de la línea.
+Lanza un misil enorme que inflige daño masivo a todos los zombis de la línea
 
 [GREENTURNIP_PRODUCT_SHORT_DESC]
 Dispara misiles que rebotan y luego explotan
@@ -23836,7 +23833,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.3.4 (actualizado el 20/7/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.3.5 (actualizado el 20/7/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -28859,8 +28856,8 @@ Destruye los objetos metálicos un ^D22808^30 %^oldclr^ más rápido.
 ^FF0000^Límite: zombis de Nvl. 3^oldclr^
 
 [MAGNETSHROOM_NEW_SKILL_LEVEL4_DES]
-Despertar: ^D22808^35 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: atrae y lanza 20 objetos metálicos a los zombis de su alcance por 6 s. ^D22808^Daño: 400^oldclr^
+Despertar: ^D22808^35 %^oldclr^ de activar Nutrientes al plantarse.
+^DB8117^Nutrientes: atrae y lanza 20 objetos metálicos por 6 s. ^D22808^Daño: 400^oldclr^
 ^FF0000^Límite: zombis de Nvl. 4^oldclr^
 
 [MAGNETSHROOM_PLANTFOOD_DESCRIPTION]
@@ -28888,7 +28885,7 @@ Desarma de cascos y objetos metálicos a los zombis
 Hierba lupa
 
 [MAGNIFYINGGRASS_AVATAR_PLANTFOOD_DESCRIPTION]
-El rayo se amplifica y hace más daño. ^D22808^Daño: 300^oldclr^
+El rayo se amplifica y hace más daño. ^D22808^Daño por segundo: 300^oldclr^
 
 [MAGNIFYINGGRASS_DESCRIPTION]
 {KEYWORD}Uso: {STAT}toca para gastar soles y atacar
@@ -28901,13 +28898,13 @@ El rayo se amplifica y hace más daño. ^D22808^Daño: 300^oldclr^
 Hierba lupa convierte el sol en un rayo de daño de colores.
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL1_DES]
-Convierte el sol en un rayo colorido que daña zombis. ^D22808^Coste del ataque: 50^oldclr^
+Toca para gastar soles y realizar un ataque poderoso. ^D22808^Coste del ataque: 50^oldclr^
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL2_DES]
-Mantén pulsado en ella hasta que se cargue completamente para triplicar el daño. ^D22808^Coste del ataque: 100^oldclr^
+Mantén pulsado en ella hasta que se cargue completamente para ^D22808^triplicar^oldclr^ el daño. ^D22808^Coste del ataque: 100^oldclr^
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL3_DES]
-El ataque potenciado inflige el cuádruple de daño.
+El ataque potenciado inflige el ^D22808^cuádruple^oldclr^ de daño.
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^30 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -28917,7 +28914,7 @@ Despertar: ^D22808^30 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 En desarrollo...
 
 [MAGNIFYINGGRASS_PLANTFOOD_DESCRIPTION]
-Dispara un rayo que hace 200 DPS a zombis aleatorios durante 3 s ^E2725B^(+0.15 s por productor).^oldclr^
+Dispara un rayo que daña a zombis aleatorios durante unos segundos
 
 [MAGNIFYINGGRASS_PRODUCT_SHORT_DESC]
 Toca para gastar soles y realizar un ataque poderoso
@@ -28926,7 +28923,7 @@ Toca para gastar soles y realizar un ataque poderoso
 Nivel 2
 
 [MAGNIFYINGGRASS_SKILL1_LEVEL1_DES]
-^4DD4DB^Ataque potenciado:^oldclr^ mantén pulsado en Hierpa lupa para disparar un ataque 3 veces más potente (el ataque cuesta 100 soles).
+^4DD4DB^Ataque potenciado:^oldclr^ mantén pulsado en Hierpa lupa para disparar un ataque 3 veces más potente. Coste del ataque: 100 soles
 
 [MAGNIFYINGGRASS_SKILL1_LEVEL2]
 Nivel 3
@@ -31280,7 +31277,7 @@ El número de meteoros con Nutrientes aumenta en ^D22808^2 (ahora 5)^oldclr^
 Flor meteoro conjura meteoritos que dejan casillas abrasadoras donde impactan.
 
 [METEORFLOWER_NEW_SKILL_LEVEL1_DES]
-Conjura meteoritos que dejan casillas abrasadoras. ^D22808^Proyectiles: 2^oldclr^
+Conjura meteoritos que dejan casillas abrasadoras. ^D22808^Meteoritos por salva: 2^oldclr^
 ^E2725B^Especial: ^D22808^35% de probabilidad ^E2725B^de golpear el mismo objetivo^oldclr^
 ^FF8000^Brasas: hacen 10 DPS a los zombis que las pisen, duran 2 s^oldclr^
 
@@ -31295,7 +31292,7 @@ Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: conjura 3 meteoritos que espantan dinosaurios y ruedan. ^D22808^Daño: 100 (1.200 en casilla)^oldclr^
 
 [METEORFLOWER_NEW_SKILL_LEVEL5_DES]
-Existe un ^D22808^10% de probabilidad^oldclr^ de conjurar un meteoro que rueda, prende 3 casillas y luego explota.
+^D22808^10% de probabilidad^oldclr^ de conjurar un meteoro que rueda, prende 3 casillas y luego explota.
 ^D22808^Daño: 300, 2.400 (explosión)^oldclr^
 
 [METEORFLOWER_PLANTFOOD_DESCRIPTION]
