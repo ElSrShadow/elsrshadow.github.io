@@ -2355,6 +2355,7 @@ Gorra roja
 
 [ANIMNUTS_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}fila al frente
+
 {KEYWORD}Especial: {STAT}¡tres plantas en una!
 {KEYWORD}Criaturas-planta: {STAT}tiranosaurio rex, medusa, caballo fantasma
 
@@ -2371,7 +2372,7 @@ Invoca criaturas para atacar a los zombis.
 ^FF8000^Tiranosaurio: devora zombis^oldclr^ | ^4DD4DB^Medusa: libera proyectiles^oldclr^ | ^A048CF^Caballo: carga y deja fuego por la línea^oldclr^
 
 [ANIMNUTS_NEW_SKILL_LEVEL2_DES]
-^FF8000^Tiranosaurio rex: daño +20 % | Digestión: 8 s
+^FF8000^Tiranosaurio rex: daño +20 % | Digestión: 8 s^oldclr^
 ^4DD4DB^Medusa: invocar medusas rojas (15 % probable, tienen 50 % de controlar zombis por 6 s)^oldclr^
 ^A048CF^Caballo fantasma: daño +20 % | Recuperación: 10 s^oldclr^
 
@@ -3121,11 +3122,9 @@ Manzana mortero
 
 [APPLEMORTAR_AVATAR_PLANTFOOD_DESCRIPTION]
 Lanza manzanas envenenadas que ralentizan zombis y los daña durante ^D22808^6 s^oldclr^
-^D22808^Daño por segundo: 1% de la salud zombi^oldclr^
+^701EDF^Veneno: quita 1% de la salud zombi por segundo^oldclr^
 
 [APPLEMORTAR_DESCRIPTION]
-{KEYWORD}Especial: {STAT}sus proyectiles aturden zombis
-
 {KEYWORD}Características de la planta: {STAT}planta roja, destructora, familia de armas
 
 {FLAVOR}Manzana mortero aturde a tres zombis y los deja clavados en su sitio. ¡PAF! ¡Así aprenderán! ¡Les está bien empleado a TODOS!
@@ -11542,10 +11541,10 @@ Haz {NUMBER} compras
 ^8B4513^
 
 [COLOR_KEYWORD]
-^oldclr^
+^A048CF^
 
 [COLOR_STAT]
-^ff0000^
+^FF0000^
 
 [COMMIT_BUTTON]
 ENVIAR
@@ -23833,7 +23832,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.3.5 (actualizado el 20/7/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.3.6 (actualizado el 20/7/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -62991,10 +62990,10 @@ SELECCIONAR PREMIO
 SELECCIONAR PREMIO DESEADO
 
 [SELF_EXPLODE_ZOMBIE]
-Zombi bombardero
+Zombi con bomba
 
 [SELF_EXPLODE_ZOMBIE_DES]
-Invoca 1 Zombi bombardero.
+Invoca 1 Zombi con bomba.
 
 [SELF_SELECT_ACCESSORY_CHIPS_NORMAL]
 Selec. Colgantes
@@ -77390,7 +77389,7 @@ Es lanzado por los aires, si no deslizas tus dedos rápidamente sobre Zombidito 
 Zombidito misilero
 
 [ZOMBIE_AIR_MISSILE_LAUNCHER_DESCRIPTION]
-Un antiguo ministro de aviación admirado por muchos pilotos: estricto, trabajador y obsesionado con mantener el orden en el aire. Nadie entendía cómo podía dirigir el tráfico aéreo y coordinar ataques al mismo tiempo. Ahora tampoco, pero al menos ya está muerto.
+{FLAVOR}Un antiguo ministro de aviación admirado por muchos pilotos: estricto, trabajador y obsesionado con mantener el orden en el aire. Nadie entendía cómo podía dirigir el tráfico aéreo y coordinar ataques al mismo tiempo. Ahora tampoco, pero al menos ya está muerto.
 
 [ZOMBIE_AIR_MISSILE_LAUNCHER_DESCRIPTION_HEADER]
 Si no deslizas tus dedos rápidamente sobre él, tu nave terminará hecha chatarra.
@@ -77433,7 +77432,7 @@ Mutante aliado deformado por una sustancia ácida experimental.
 Caracono del mar
 
 [ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION]
-¿Qué sentido supone la existencia de conos en el océano? Nadie lo sabe.
+{FLAVOR}¿Qué sentido supone la existencia de conos en el océano? Nadie lo sabe.
 
 [ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION_HEADER]
 Su cono le da el doble de dureza que el zombi marino común.
@@ -77442,7 +77441,7 @@ Su cono le da el doble de dureza que el zombi marino común.
 Caracubo del mar
 
 [ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION]
-¿Por qué el cubo no flota? ¿Por qué no se pudrió la madera? - se cuestiona. Un zombi que hace una pregunta como esa debería tener un cerebro en la cabeza, ¿o tal vez no?
+{FLAVOR}¿Por qué el cubo no flota? ¿Por qué no se pudrió la madera? - se cuestiona. Un zombi que hace una pregunta como esa debería tener un cerebro en la cabeza, ¿o tal vez no?
 
 [ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION_HEADER]
 Su cubo le da el triple de dureza que el zombi marino común.
@@ -77451,7 +77450,7 @@ Su cubo le da el triple de dureza que el zombi marino común.
 Zombi marino
 
 [ZOMBIE_ATLANTIS_BASIC_DESCRIPTION]
-Alguna vez fue un guardián de los templos sumergidos. Ahora vaga entre los corales, con algas cubriendo su cuerpo.
+{FLAVOR}Alguna vez fue un guardián de los templos sumergidos. Ahora vaga entre los corales, con algas cubriendo su cuerpo.
 
 [ZOMBIE_ATLANTIS_BASIC_DESCRIPTION_HEADER]
 Zombi básico, habitante del mar.
@@ -77460,7 +77459,7 @@ Zombi básico, habitante del mar.
 Zombi abanderado del mar
 
 [ZOMBIE_ATLANTIS_FLAG_DESCRIPTION]
-Los zombis creen que la dirección de las corrientes oceánicas representa dónde hay cerebros, por lo que izan una bandera como instrumento de medición.
+{FLAVOR}Los zombis creen que la dirección de las corrientes oceánicas representa dónde hay cerebros, por lo que izan una bandera como instrumento de medición.
 
 [ZOMBIE_ATLANTIS_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme oleada de zombis marinos.
@@ -77469,7 +77468,7 @@ Marca la llegada de una enorme oleada de zombis marinos.
 Atlante caracono
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR1_DESCRIPTION]
-Esa misteriosa estructura naranja, de forma cónica y detalles circulares parece haber sido creada por una tecnología avanzada.
+{FLAVOR}Esa misteriosa estructura naranja, de forma cónica y detalles circulares parece haber sido creada por una tecnología avanzada.
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR1_DESCRIPTION_HEADER]
 Su cono le da el doble de dureza que el zombi común de la Atlántida.
@@ -77478,7 +77477,7 @@ Su cono le da el doble de dureza que el zombi común de la Atlántida.
 Atlante caracubo
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION]
-Existe la técnica de fundición de hierro desde hace más de 10.000 años, ese cubo es una prueba de ello.
+{FLAVOR}Existe la técnica de fundición de hierro desde hace más de 10.000 años, ese cubo es una prueba de ello.
 
 [ZOMBIE_ATLANTIS_LAND_ARMOR2_DESCRIPTION_HEADER]
 Su cubo le da el triple de dureza que el zombi común de la Atlántida.
@@ -77487,7 +77486,7 @@ Su cubo le da el triple de dureza que el zombi común de la Atlántida.
 Zombi atlante
 
 [ZOMBIE_ATLANTIS_LAND_BASIC_DESCRIPTION]
-Antiguamente un pacífico habitante de la mítica Atlántida, ahora camina sin rumbo tras siglos sumergido en las profundidades. Su mirada perdida solo busca una cosa: cerebros.
+{FLAVOR}Antiguamente un pacífico habitante de la mítica Atlántida, ahora camina sin rumbo tras siglos sumergido en las profundidades. Su mirada perdida solo busca una cosa: cerebros.
 
 [ZOMBIE_ATLANTIS_LAND_BASIC_DESCRIPTION_HEADER]
 Zombi básico de la ciudad de Atlantis.
@@ -77496,7 +77495,7 @@ Zombi básico de la ciudad de Atlantis.
 Zombi abanderado de Atlantis
 
 [ZOMBIE_ATLANTIS_LAND_FLAG_DESCRIPTION]
-La búsqueda de cerebros es un axioma universal que trasciende el tiempo, la bandera es el objeto más lógico de esa época.
+{FLAVOR}La búsqueda de cerebros es un axioma universal que trasciende el tiempo, la bandera es el objeto más lógico de esa época.
 
 [ZOMBIE_ATLANTIS_LAND_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme oleada de zombis de la Atlántida.
@@ -77529,7 +77528,7 @@ Un enorme zombi de las profundidades marinas, bien equipado para la acción.
 Zombidito marino
 
 [ZOMBIE_ATLANTIS_imp_DESCRIPTION]
-Pequeño y travieso, vaga entre ruinas sumergidas con una chispa alegre.
+{FLAVOR}Pequeño y travieso, vaga entre ruinas sumergidas con una chispa alegre.
 
 [ZOMBIE_ATLANTIS_imp_DESCRIPTION_HEADER]
 Es arrojado por encima de tus escudos y avanza contra tus defensas submarinas.
@@ -77589,7 +77588,7 @@ Zombi pompadour
 Pompadour caracono
 
 [ZOMBIE_BEACH_ARMOR1_DESCRIPTION]
-Ve a la playa, solían decir. Ponte un cono en la cabeza, solían decir. Así que Pompadour caracono lo hizo. Da el máximo cuando sigue instrucciones simples.
+{FLAVOR}Ve a la playa, solían decir. Ponte un cono en la cabeza, solían decir. Así que Pompadour caracono lo hizo. Da el máximo cuando sigue instrucciones simples.
 
 [ZOMBIE_BEACH_ARMOR1_DESCRIPTION_HEADER]
 Su cono de estrella de mar le da el doble de dureza que el zombi pompadour común.
@@ -77598,13 +77597,13 @@ Su cono de estrella de mar le da el doble de dureza que el zombi pompadour comú
 Pompadour caracubo
 
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION]
-Pompadour caracubo playero intentó aprender a tocar el ukelele. Pensaba que iba a ser un instrumento más fácil viendo lo pequeño que es. Pero sus dedos tiesos... no le valían de mucho. Ahora solo golpea su cubo. Y no se le da nada mal.
+{FLAVOR}Pompadour caracubo playero intentó aprender a tocar el ukelele. Pensaba que iba a ser un instrumento más fácil viendo lo pequeño que es. Pero sus dedos tiesos... no le valían de mucho. Ahora solo golpea su cubo. Y no se le da nada mal.
 
 [ZOMBIE_BEACH_ARMOR2_DESCRIPTION_HEADER]
 Su cubo con caparazón de ostra lo hace muy resistente al daño.
 
 [ZOMBIE_BEACH_DESCRIPTION]
-Zombi pompadour se dio cuenta de que solo llevaba una sandalia. CREE que perdió la otra jugando al limbo en la fiesta de la hoguera de la otra noche. Pero la verdad es que los recuerdos de esa noche son muy borrosos... La sandalia podría estar en cualquier parte.
+{FLAVOR}Zombi pompadour se dio cuenta de que solo llevaba una sandalia. CREE que perdió la otra jugando al limbo en la fiesta de la hoguera de la otra noche. Pero la verdad es que los recuerdos de esa noche son muy borrosos... La sandalia podría estar en cualquier parte.
 
 [ZOMBIE_BEACH_DESCRIPTION_HEADER]
 Un zombi vagabundo playero común.
@@ -77616,7 +77615,7 @@ Zombi con bikini
 Caracono con bikini
 
 [ZOMBIE_BEACH_FEM_ARMOR1_DESCRIPTION]
-¿Ves la estrella de mar en el cono de Caracono con bikini? La puso ella misma y le dicen muchos piropos. Además, ahora parece que todo el mundo lleva una estrella de mar como accesorio. Marca tendencias, está claro.
+{FLAVOR}¿Ves la estrella de mar en el cono de Caracono con bikini? La puso ella misma y le dicen muchos piropos. Además, ahora parece que todo el mundo lleva una estrella de mar como accesorio. Marca tendencias, está claro.
 
 [ZOMBIE_BEACH_FEM_ARMOR1_DESCRIPTION_HEADER]
 Su cono con estrella de mar le da el doble de dureza que la zombi con bikini común.
@@ -77625,13 +77624,13 @@ Su cono con estrella de mar le da el doble de dureza que la zombi con bikini com
 Caracubo con bikini
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION]
-Caracubo con bikini tiene mucha ambición. Quería hacer muchas más cosas que quedarse tirada en la playa todo el día. Su sueño es actuar por todo el mundo con un equipo de natación sincronizada. Pero los tapones para la nariz eran un obstáculo. Si al menos tuviera una nariz...
+{FLAVOR}Caracubo con bikini tiene mucha ambición. Quería hacer muchas más cosas que quedarse tirada en la playa todo el día. Su sueño es actuar por todo el mundo con un equipo de natación sincronizada. Pero los tapones para la nariz eran un obstáculo. Si al menos tuviera una nariz...
 
 [ZOMBIE_BEACH_FEM_ARMOR2_DESCRIPTION_HEADER]
 Su cubo con caparazón de ostra la protege mucho del daño.
 
 [ZOMBIE_BEACH_FEM_DESCRIPTION]
-¿Es raro que antes no viéramos a zombis femeninas? Algunos dicen que sí y otros que no. Da igual, Zombi con bikini está acostumbrada a abrir caminos. No le da miedo pisar donde ninguna otra zombi pisó jamás. Es toda una pionera. Es toda una heroína.
+{FLAVOR}¿Es raro que antes no viéramos a zombis femeninas? Algunos dicen que sí y otros que no. Da igual, Zombi con bikini está acostumbrada a abrir caminos. No le da miedo pisar donde ninguna otra zombi pisó jamás. Es toda una pionera. Es toda una heroína.
 
 [ZOMBIE_BEACH_FEM_DESCRIPTION_HEADER]
 Zombi de toalla de playa común.
@@ -77652,7 +77651,7 @@ Lanza el anzuelo para que piquen plantas.
 Zombi abanderado playero
 
 [ZOMBIE_BEACH_FLAG_DESCRIPTION]
-Un zombi contrariado. Zombi abanderado playero está hasta el gorro. Ningún otro zombi parece apreciar lo difícil que le resulta nadar mientras lleva una bandera. Nadie le dio las gracias por hacer el duro trabajo que se necesita hacer. Así que esto no debería ser una sorpresa: hizo entrevistas de trabajo para irse a otro sitio.
+{FLAVOR}Un zombi contrariado. Zombi abanderado playero está hasta el gorro. Ningún otro zombi parece apreciar lo difícil que le resulta nadar mientras lleva una bandera. Nadie le dio las gracias por hacer el duro trabajo que se necesita hacer. Así que esto no debería ser una sorpresa: hizo entrevistas de trabajo para irse a otro sitio.
 
 [ZOMBIE_BEACH_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme y mojada "oleada" de zombis.
@@ -77673,7 +77672,7 @@ Un zombi titánico que no alardea de su fuerza.
 Zombidita sirena
 
 [ZOMBIE_BEACH_IMP_DESCRIPTION]
-Zombidita sirena no sabía si llevar un sostén de cáscaras de coco o de caparazones de ostra. Al final se decantó por los cocos porque los caparazones se pasaron de ola.
+{FLAVOR}Zombidita sirena no sabía si llevar un sostén de cáscaras de coco o de caparazones de ostra. Al final se decantó por los cocos porque los caparazones se pasaron de ola.
 
 [ZOMBIE_BEACH_IMP_DESCRIPTION_HEADER]
 Atraviesa como una ola sobre tus defensas y después avanza con dificultad.
@@ -77682,7 +77681,7 @@ Atraviesa como una ola sobre tus defensas y después avanza con dificultad.
 Zombidito tupé
 
 [ZOMBIE_BEACH_IMP_QUIFF_DESCRIPTION]
-Suele vestirse de negro y llevar una peineta en mano para arreglarse los flequillos que le sobresalen. ¡La buena apariencia es lo primero!
+{FLAVOR}Suele vestirse de negro y llevar una peineta en mano para arreglarse los flequillos que le sobresalen. ¡La buena apariencia es lo primero!
 
 [ZOMBIE_BEACH_IMP_QUIFF_DESCRIPTION_HEADER]
 Zombi pequeño de clase común. Su tupé le da un estilo único.
@@ -77742,19 +77741,19 @@ Regalo rodante
 Zombi regalo rodante
 
 [ZOMBIE_BIRTHDAY_BARRELROLLER_DESCRIPTION]
-Siempre carga con regalos rodantes a las fiestas, pero lo que los demás no saben, es que ayuda a que los zombiditos se cuelen sin permiso.
+{FLAVOR}Siempre carga con regalos rodantes a las fiestas, pero lo que los demás no saben, es que ayuda a que los zombiditos se cuelen sin permiso.
 
 [ZOMBIE_BIRTHDAY_BARRELROLLER_DESCRIPTION_HEADER]
 Su regalo rodante aplasta plantas y le proporciona una protección excelente.
 
 [ZOMBIE_BIRTHDAY_BARREL_DESCRIPTION]
-Los Zombiditos utilizan este regalo rodande para colarse en las fiestas sin problemas.
+{FLAVOR}Los Zombiditos utilizan este regalo rodande para colarse en las fiestas sin problemas.
 
 [ZOMBIE_BIRTHDAY_BARREL_DESCRIPTION_HEADER]
 Contiene Zombiditos dentro que salen disparados al destruirlo.
 
 [ZOMBIE_BIRTHDAY_DESCRIPTION]
-Nunca se pierde de ninguna fiesta, anda bien vestido cuando se entera de una, siempre listo para la acción.
+{FLAVOR}Nunca se pierde de ninguna fiesta, anda bien vestido cuando se entera de una, siempre listo para la acción.
 
 [ZOMBIE_BIRTHDAY_DESCRIPTION_HEADER]
 Zombi festejante de Cumpleañoz.
@@ -77763,7 +77762,7 @@ Zombi festejante de Cumpleañoz.
 Zombi festejante
 
 [ZOMBIE_BIRTHDAY_FLAG_DESCRIPTION]
-Siempre asite a las fiestas con sus globos, son algo escencial para cualquier fiesta.
+{FLAVOR}Siempre asite a las fiestas con sus globos, son algo escencial para cualquier celebración.
 
 [ZOMBIE_BIRTHDAY_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme oleada de zombis festejantes.
@@ -77775,16 +77774,16 @@ Zombistein regalo
 {KEYWORD}Daño: {STAT}aplasta plantas con el poste
 {KEYWORD}Especial: {STAT}lanza Zombiditos cuando sufre daño
 
-{FLAVOR}No asiste frecuentemente a las fiestas debido a su colosal tamaño, además recuerda una vez que accidentalmente rompió el techo de una casa y tuvo que pagar los gastos.
+{FLAVOR}¿Cómo es que un Zombistein tan grande pudo caber en una caja de regalos? Nadie sabe.
 
 [ZOMBIE_BIRTHDAY_GARGANTUAR_DESCRIPTION_HEADER]
-Un zombi grandulón que se quedó atascado en una pequeña caja de regalos.
+Un zombi grande atascado en una caja de regalos.
 
 [ZOMBIE_BIRTHDAY_JETPACK]
 Zombi regalo exprés
 
 [ZOMBIE_BIRTHDAY_JETPACK_DESCRIPTION]
-Hace una entrada triunfal en las fiestas con su propulsor, dejando boquiabiertos a todos los presentes.
+{FLAVOR}Hace una entrada triunfal en las fiestas con su propulsor, dejando boquiabiertos a todos los presentes.
 
 [ZOMBIE_BIRTHDAY_JETPACK_DESCRIPTION_HEADER]
 Se propulsa para flotar sobre todas las barreras de plantas, exceptuando las más altas.
@@ -77793,7 +77792,7 @@ Se propulsa para flotar sobre todas las barreras de plantas, exceptuando las má
 Zombi payaso
 
 [ZOMBIE_BIRTHDAY_JUGGLER_DESCRIPTION]
-Va donde sea que haya un festejo para sacarle una sonrisa a todos los invitados.
+{FLAVOR}Va donde sea que haya un festejo para sacarle una sonrisa a todos los invitados.
 
 [ZOMBIE_BIRTHDAY_JUGGLER_DESCRIPTION_HEADER]
 Zombi payaso devuelve los proyectiles que le disparan.
@@ -77802,7 +77801,7 @@ Zombi payaso devuelve los proyectiles que le disparan.
 Zombi pastel
 
 [ZOMBIE_BIRTHDAY_PHARAOH_DESCRIPTION]
-Es el centro de atención en todas las fiestas ya que, es el pastel (literalmente).
+{FLAVOR}Es el centro de atención en todas las fiestas ya que, es el pastel (literalmente).
 
 [ZOMBIE_BIRTHDAY_PHARAOH_DESCRIPTION_HEADER]
 Su pastel de cumpleaños le ofrece mucha protección, pero frena su rapidez.
@@ -77811,7 +77810,7 @@ Su pastel de cumpleaños le ofrece mucha protección, pero frena su rapidez.
 Zombi con regaloz
 
 [ZOMBIE_BIRTHDAY_TROGLOBITE_DESCRIPTION]
-Se esfuerza en llevar todos los regalos a cada fiesta intactos, usando su fuerza y empujándolos con cuidado.
+{FLAVOR}Se esfuerza en llevar todos los regalos a cada fiesta intactos, usando su fuerza y empujándolos con cuidado.
 
 [ZOMBIE_BIRTHDAY_TROGLOBITE_DESCRIPTION_HEADER]
 Zombi fuerte que empuja gigantescas cajas de regalo por el patio.
@@ -77885,7 +77884,7 @@ Avanza desenfrenadamente contra tus plantas para destruirlas.
 #tartatanque
 
 [ZOMBIE_CAKETANK_DESCRIPTION]
-#tartatanque es la nueva tendencia. Está de moda por todas partes. Mira debajo de la cama. Ahí también es tendencia.
+{FLAVOR}#tartatanque es la nueva tendencia. Está de moda por todas partes. Mira debajo de la cama. Ahí también es tendencia.
 
 [ZOMBIE_CAKETANK_DESCRIPTION_HEADER]
 #tartatanque avanza a una posición determinada del patio y después lanza sorpresas de cumpleaños apabullantes a medida que sus varias capas sufren daño.
@@ -77900,7 +77899,7 @@ Zombis camellos
 {FLAVOR}Cada uno de los Zombis camellos es un excelente bailarín, puesto que practican todos los días con señales y símbolos misteriosos y extraños. Lo llaman "el baile del camello".
 
 [ZOMBIE_CAMEL_ALMANAC_DESCRIPTION_HEADER]
-Llega a la vez con otros Zombis camellos
+Llega a la vez con otros Zombis camellos.
 
 [ZOMBIE_CAMEL_ONEHUMP]
 Zombis camellos
@@ -77928,7 +77927,7 @@ Dispara Zombiditos piratas a través de tus defensas. Al final explotan en una l
 Paloma zombi
 
 [ZOMBIE_CARNIE_DOVE_DESCRIPTION]
-Forma parte de los tan aclamados espectáculos del Zombi mago.
+{FLAVOR}Forma parte de los tan aclamados espectáculos del Zombi mago.
 
 [ZOMBIE_CARNIE_DOVE_DESCRIPTION_HEADER]
 Sale volando para intentar llevarse a tus plantas por los aires.
@@ -77937,7 +77936,7 @@ Sale volando para intentar llevarse a tus plantas por los aires.
 Zombi mago
 
 [ZOMBIE_CARNIE_MAGICIAN_DESCRIPTION]
-Es un mago tan malvado que revelará todos sus secretos por una moneda reluciente.
+{FLAVOR}Es un mago tan malvado que revelará todos sus secretos por una moneda reluciente.
 
 [ZOMBIE_CARNIE_MAGICIAN_DESCRIPTION_HEADER]
 Zombi mago hace avanzar a los zombis y a sí mismo en el mapa, y tiene unas taimadas palomas que intentarán llevarse tus plantas volando.
@@ -77958,7 +77957,7 @@ Zombi catapulta puede lanzar balones por encima de plantas de tipo Muro con una 
 Gallina zombi
 
 [ZOMBIE_CHICKEN_DESCRIPTION]
-¡Cot, cot, cococ!
+{FLAVOR}¡Cot, cot, cococ!
 
 [ZOMBIE_CHICKEN_DESCRIPTION_HEADER]
 Una vez salen al patio, las Gallinas corren a toda velocidad para comerte el cerebro a picotazos.
@@ -77981,7 +77980,7 @@ Niño zombi
 Niño caracono
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1_DESCRIPTION]
-No sabe donde fue a parar el cono de helado que tenía en sus manos, ¿de casualidad lo haz visto?
+{FLAVOR}No sabe donde fue a parar el cono de helado que tenía en sus manos, ¿de casualidad lo haz visto?
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1_DESCRIPTION_HEADER]
 Su cono de helado le proporciona el doble de dureza que el Niño zombi común.
@@ -77990,13 +77989,13 @@ Su cono de helado le proporciona el doble de dureza que el Niño zombi común.
 Niño caracubo
 
 [ZOMBIE_CHILDRENSDAY_ARMOR2_DESCRIPTION]
-Juega con sus amigos en guerras de aguas armado de su cubo con forma de patito, sin embargo parece no darse cuenta que la cubeta está vacía.
+{FLAVOR}Juega con sus amigos en guerras de aguas armado de su cubo con forma de patito, sin embargo parece no darse cuenta que la cubeta está vacía.
 
 [ZOMBIE_CHILDRENSDAY_ARMOR2_DESCRIPTION_HEADER]
 Su cubo infantil le proporciona el triple de dureza que el Niño zombi común.
 
 [ZOMBIE_CHILDRENSDAY_DESCRIPTION]
-Se puso un disfraz durante el Día del Niño para revivir los mejores momentos de su infancia.
+{FLAVOR}Se puso un disfraz durante el Día del Niño para revivir los mejores momentos de su infancia.
 
 [ZOMBIE_CHILDRENSDAY_DESCRIPTION_HEADER]
 Zombi básico del Día del Niño.
@@ -78005,7 +78004,7 @@ Zombi básico del Día del Niño.
 Niño zombi abanderado
 
 [ZOMBIE_CHILDRENSDAY_FLAG_DESCRIPTION]
-Su bandera es un emblema para el resto de niños zombi, sin dudas sabe como ser un buen líder a temprana edad.
+{FLAVOR}Su bandera es un emblema para el resto de niños zombi, sin dudas sabe como ser un buen líder a temprana edad.
 
 [ZOMBIE_CHILDRENSDAY_FLAG_DESCRIPTION_HEADER]
 Hondea una bandera para avisar una gran oleada de niños zombi.
@@ -78026,7 +78025,7 @@ El traje de oso de peluche lo hace ver más adorable que de costumbre.
 Zombidito oso de peluche
 
 [ZOMBIE_CHILDRENSDAY_IMP_DESCRIPTION]
-El gorro de oso y su overol rosa son las cosas que más aprecia. No puede estar feliz sin ellas.
+{FLAVOR}El gorro de oso y su overol rosa son las cosas que más aprecia. No puede estar feliz sin ellas.
 
 [ZOMBIE_CHILDRENSDAY_IMP_DESCRIPTION_HEADER]
 Un zombi pequeño disfrazado de oso para el Día del Niño.
@@ -78058,7 +78057,7 @@ Sobrevuela las defensas usando varios globos.
 Zombi goloso
 
 [ZOMBIE_CHILDREN_LOLLIPOPS_DESCRIPTION]
-Asegura que una dieta basada únicamente en azúcar fue lo que lo mantuvo "joven".
+{FLAVOR}Asegura que una dieta basada únicamente en azúcar fue lo que lo mantuvo "joven".
 
 [ZOMBIE_CHILDREN_LOLLIPOPS_DESCRIPTION_HEADER]
 Arroja paletas de caramelo que impiden el plantado.
@@ -78067,7 +78066,7 @@ Arroja paletas de caramelo que impiden el plantado.
 Zombidito escolar
 
 [ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION]
-Todavía espera con emoción la hora del recreo y cualquier oportunidad para causar problemas.
+{FLAVOR}Todavía espera con emoción la hora del recreo y cualquier oportunidad para causar problemas.
 
 [ZOMBIE_CHILDREN_SCHOOLBAG_DESCRIPTION_HEADER]
 Zombi pequeño que asiste a la escuela.
@@ -78101,7 +78100,7 @@ Zombi navideño
 Caracono navideño
 
 [ZOMBIE_CHRISTMAS_ARMOR1_DESCRIPTION]
-Nadie sabe si su cono ya venía con esa corona navideña o si se la agregó a un cono ordinario.
+{FLAVOR}Nadie sabe si su cono ya venía con esa corona navideña o si se la agregó a un cono ordinario.
 
 [ZOMBIE_CHRISTMAS_ARMOR1_DESCRIPTION_HEADER]
 Su cono navideño le da el doble de dureza que el zombi básico de Navidad.
@@ -78110,7 +78109,7 @@ Su cono navideño le da el doble de dureza que el zombi básico de Navidad.
 Caracubo navideño
 
 [ZOMBIE_CHRISTMAS_ARMOR2_DESCRIPTION]
-Todos los zombis reciben un regalo para Navidad, este recibió un cubo como presente.
+{FLAVOR}Todos los zombis reciben un regalo para Navidad, este recibió un cubo como presente.
 
 [ZOMBIE_CHRISTMAS_ARMOR2_DESCRIPTION_HEADER]
 Su cubo navideño le da el triple de dureza que el zombi básico de Navidad.
@@ -78119,7 +78118,7 @@ Su cubo navideño le da el triple de dureza que el zombi básico de Navidad.
 #tartatanque-de-festivus
 
 [ZOMBIE_CHRISTMAS_CAKETANK_DESCRIPTION]
-Es el postre más llamativo del banquete navideño. Si lo ves, no olvides darle un buen mordisco.
+{FLAVOR}Es el postre más llamativo del banquete navideño. Si lo ves, no olvides darle un buen mordisco.
 
 [ZOMBIE_CHRISTMAS_CAKETANK_DESCRIPTION_HEADER]
 Avanza a una determinada posición del patio, y después lanza sorpresas asombrosas cuando sus capas sufren daño.
@@ -78136,7 +78135,7 @@ Zombi reno
 Anda en grandes grupos en las celebraciones navideñas.
 
 [ZOMBIE_CHRISTMAS_DESCRIPTION]
-Tiene la tradición de tejer sus propios jerseys para pasar las frias noches de Navidad bien abrigado.
+{FLAVOR}Tiene la tradición de tejer sus propios jerseys para pasar las frias noches de Navidad bien abrigado.
 
 [ZOMBIE_CHRISTMAS_DESCRIPTION_HEADER]
 Zombi básico de navidad.
@@ -78145,7 +78144,7 @@ Zombi básico de navidad.
 Zombi abanderado navideño
 
 [ZOMBIE_CHRISTMAS_FLAG_DESCRIPTION]
-En vida, encabezaba los desfiles navideños del pueblo agitando una enorme bandera hecha de dulces y bastones de caramelo. Incluso después de morir, continúa marchando cada invierno con la misma sonrisa torcida, reuniendo hordas de zombis festivos que lo siguen como si aún escucharan los villancicos de antaño.
+{FLAVOR}En vida, encabezaba los desfiles navideños del pueblo agitando una enorme bandera hecha de dulces y bastones de caramelo. Incluso después de morir, continúa marchando cada invierno con la misma sonrisa torcida, reuniendo hordas de zombis festivos que lo siguen como si aún escucharan los villancicos de antaño.
 
 [ZOMBIE_CHRISTMAS_FLAG_DESCRIPTION_HEADER]
 Hondea una bandera acaramelada para avisar una gran oleada de zombis navideños.
@@ -78181,13 +78180,13 @@ Zombidito navideño
 Zombidito elfo
 
 [ZOMBIE_CHRISTMAS_IMP2_DESCRIPTION]
-Este pequeño zombi tuvo la idea creativa de disfrazarse como un elfo navideño. Su mayor deseo es convertirse en un ayudante de Santa Claus.
+{FLAVOR}Este pequeño zombi tuvo la idea creativa de disfrazarse como un elfo navideño. Su mayor deseo es convertirse en un ayudante de Santa Claus.
 
 [ZOMBIE_CHRISTMAS_IMP2_DESCRIPTION_HEADER]
 Un zombi pequeño vestido de duendecillo navideño.
 
 [ZOMBIE_CHRISTMAS_IMP_DESCRIPTION]
-Este pequeño está lleno de un retorcido espíritu navideño. Adora los villancicos y lleva puesto su jersey verde dondequiera que vaya.
+{FLAVOR}Este pequeño está lleno de un retorcido espíritu navideño. Adora los villancicos y lleva puesto su jersey verde dondequiera que vaya.
 
 [ZOMBIE_CHRISTMAS_IMP_DESCRIPTION_HEADER]
 Un zombi pequeñito que le fascina todo lo que trae la navidad.
@@ -78201,7 +78200,7 @@ Pianista de Navidad
 {FLAVOR}Parece que aprendió a tocar nuevas canciones en su piano para esta Navidad, pero solo conoce dos.
 
 [ZOMBIE_CHRISTMAS_PIANO_DESCRIPTION_HEADER]
-Su colorido y navideño piano rodante aplasta plantas mientras que su música navideña motiva a los demás zombis para comerte los sesos.
+Su colorido piano rodante aplasta plantas mientras que su música navideña motiva a los demás zombis para comerte los sesos.
 
 [ZOMBIE_CHRISTMAS_PONCHO]
 Poncho de Navidad
@@ -78212,7 +78211,7 @@ Poncho de Navidad
 {FLAVOR}Está a la busca de sus regalos que le dejó Santa Claus bajo la chimenea.
 
 [ZOMBIE_CHRISTMAS_PONCHO_DESCRIPTION_HEADER]
-A veces esconde una colorida y navideña placa de blindaje
+A veces esconde una colorida y navideña placa de blindaje.
 
 [ZOMBIE_CHRISTMAS_SWASHBUCKLER]
 Ladrón de regalos
@@ -78232,7 +78231,7 @@ Zombi vaquero
 Vaquero caracono
 
 [ZOMBIE_COWBOY_ARMOR1_DESCRIPTION]
-El sheriff de este lugar. Por favor, baje del caballo y saque su carnet de conducir, identificación y prueba de cerebros.
+{FLAVOR}El sheriff de este lugar. Por favor, baje del caballo y saque su carnet de conducir, identificación y prueba de cerebros.
 
 [ZOMBIE_COWBOY_ARMOR1_DESCRIPTION_HEADER]
 Su cono de piel de vaca le da el doble de dureza que el Vaquero común.
@@ -78241,13 +78240,13 @@ Su cono de piel de vaca le da el doble de dureza que el Vaquero común.
 Vaquero caracubo
 
 [ZOMBIE_COWBOY_ARMOR2_DESCRIPTION]
-Cinco veces ganador del concurso de recetas de chile. Puede que los Zombis egipcios no sepan nada de chile, pero a los Vaqueros les encantan los frijoles. Cuantos más comes, más cerebros.
+{FLAVOR}Cinco veces ganador del concurso de recetas de chile. Puede que los Zombis egipcios no sepan nada de chile, pero a los Vaqueros les encantan los frijoles. Cuantos más comes, más cerebros.
 
 [ZOMBIE_COWBOY_ARMOR2_DESCRIPTION_HEADER]
 Su olla de chile le hace muy resistente al daño.
 
 [ZOMBIE_COWBOY_DESCRIPTION]
-Zombi vaquero piensa que es el zombi más rudo, duro y con peor carácter del oeste, del sur y del este. Tiene muchas ganas de probar sus habilidades en la región central.
+{FLAVOR}Zombi vaquero piensa que es el zombi más rudo, duro y con peor carácter del oeste, del sur y del este. Tiene muchas ganas de probar sus habilidades en la región central.
 
 [ZOMBIE_COWBOY_DESCRIPTION_HEADER]
 Es un Zombi vaquero salvajemente común.
@@ -78256,7 +78255,7 @@ Es un Zombi vaquero salvajemente común.
 Zombi abanderado vaquero
 
 [ZOMBIE_COWBOY_FLAG_DESCRIPTION]
-El cerebrero solitario indica el camino.
+{FLAVOR}El cerebrero solitario indica el camino.
 
 [ZOMBIE_COWBOY_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme y polvorienta "oleada" de zombis.
@@ -78299,7 +78298,7 @@ Versión pequeña de la criatura ocular creada por Anémona de tierra.
 Zombi extra
 
 [ZOMBIE_DANCER_DESCRIPTION]
-Ha dedicado 6 años a perfeccionar su técnica en la academia Chewliard de Artes Escénicas de Nueva Zombi.
+{FLAVOR}Ha dedicado 6 años a perfeccionar su técnica en la academia Chewliard de Artes Escénicas de Nueva Zombi.
 
 [ZOMBIE_DANCER_DESCRIPTION_HEADER]
 Estos zombis aparecen de cuatro en cuatro cuando aparece el Zombi bailón.
@@ -78334,7 +78333,7 @@ Lanza hechizos a las plantas para que se duerman.
 Campesino caracono
 
 [ZOMBIE_DARK_ARMOR1_DESCRIPTION]
-Campesino caracono está feliz porque tiene un cono en la cabeza. Corren malos tiempos. Conoce a un montón de zombis que no tienen ni eso.
+{FLAVOR}Campesino caracono está feliz porque tiene un cono en la cabeza. Corren malos tiempos. Conoce a un montón de zombis que no tienen ni eso.
 
 [ZOMBIE_DARK_ARMOR1_DESCRIPTION_HEADER]
 Su cono de torre de piedra le da el doble de dureza que el Campesino común.
@@ -78343,7 +78342,7 @@ Su cono de torre de piedra le da el doble de dureza que el Campesino común.
 Campesino caracubo
 
 [ZOMBIE_DARK_ARMOR2_DESCRIPTION]
-Ninguno de los demás zombis parece entender lo versátil que es el sombrero que eligió Campesino caracubo. Su cubo funciona bien como casco de batalla. Además, anoche cocinó un estofado de cerebros divino en él. Y la próxima vez que lo veas tocar con su grupo, fíjate bien en lo que utiliza como bombo.
+{FLAVOR}Ninguno de los demás zombis parece entender lo versátil que es el sombrero que eligió Campesino caracubo. Su cubo funciona bien como casco de batalla. Además, anoche cocinó un estofado de cerebros divino en él. Y la próxima vez que lo veas tocar con su grupo, fíjate bien en lo que utiliza como bombo.
 
 [ZOMBIE_DARK_ARMOR2_DESCRIPTION_HEADER]
 Su cubo forjado le proporciona una gran protección contra el daño.
@@ -78352,7 +78351,7 @@ Su cubo forjado le proporciona una gran protección contra el daño.
 Zombi caballero
 
 [ZOMBIE_DARK_ARMOR3_DESCRIPTION]
-A Zombi caballero también le pareció una sorpresa que el Rey zombi lo ascendiera. Nunca lo dijo en voz alta, pero no está seguro de merecer la posición. No cree tener madera para llevar la armadura. Pero, según dicen algunos, "fíngelo hasta lograrlo".
+{FLAVOR}A Zombi caballero también le pareció una sorpresa que el Rey zombi lo ascendiera. Nunca lo dijo en voz alta, pero no está seguro de merecer la posición. No cree tener madera para llevar la armadura. Pero, según dicen algunos, "fíngelo hasta lograrlo".
 
 [ZOMBIE_DARK_ARMOR3_DESCRIPTION_HEADER]
 El casco otorgado por el rey le proporciona una protección alucinante contra el daño.
@@ -78361,18 +78360,17 @@ El casco otorgado por el rey le proporciona una protección alucinante contra el
 Zombi caballero oscuro
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION]
-{KEYWORD}Especial: {STAT}carga un potente ataque para arrasar a tus plantas con su lanza
-{KEYWORD}Especial: {STAT}deja su lanza que destruye a la planta donde cae y bloquea ataques
+{KEYWORD}Especial: {STAT}carga hacia delante contra la primera planta que encuentre, soltando su lanza y bloqueando ataques con ella
 
 {KEYWORD}Debilidad: {STAT}Seta pirómana con Nutrientes interrumpe su ataque de carga
 
-{FLAVOR}Es uno de los pocos zombis que tiene orgullo y gloria en su mente. Se transformó en lo que es ahora tras escuchar a un filósofo decir: "Aquellos que se ahogan son los que pueden nadar"
+{FLAVOR}Murió al ser pateado en la cabeza por un caballo. Moraleja de la historia: nunca te pares detrás de un caballo.
 
 [ZOMBIE_DARK_CAVALRY_DESCRIPTION_HEADER]
 Es lanzado por su fiel corsel zombi sobre la mayoría de tus defensas.
 
 [ZOMBIE_DARK_DESCRIPTION]
-Alguien gritó, "¡Traed vuestros muertos vivientes!" Y el Zombi campesino de repente apareció aquí. No se acuerda de nada de lo que pasó antes.
+{FLAVOR}Alguien gritó, "¡Traed vuestros muertos vivientes!" Y el Zombi campesino de repente apareció aquí. No se acuerda de nada de lo que pasó antes.
 
 [ZOMBIE_DARK_DESCRIPTION_HEADER]
 Zombi súbdito de clase baja común.
@@ -78381,7 +78379,7 @@ Zombi súbdito de clase baja común.
 Zombi abanderado campesino
 
 [ZOMBIE_DARK_FLAG_DESCRIPTION]
-A Zombi campesino siempre le decían que no hay mayor recompensa que la bandera que llevas al combate. Pero cuando ve que a los otros Zombis campesinos les dieron conos, cubos e incluso cascos, sospecha que igual se lo están inventando para no herir sus sentimientos.
+{FLAVOR}A Zombi campesino siempre le decían que no hay mayor recompensa que la bandera que llevas al combate. Pero cuando ve que a los otros Zombis campesinos les dieron conos, cubos e incluso cascos, sospecha que igual se lo están inventando para no herir sus sentimientos.
 
 [ZOMBIE_DARK_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme y oscura "oleada" de zombis.
@@ -78402,7 +78400,7 @@ Un zombi gigantesco que da martillazos.
 Zombidito monje
 
 [ZOMBIE_DARK_IMP_DESCRIPTION]
-Para ser sinceros, Zombidito monje decidió unirse al monasterio por el corte de pelo tan alucinante que llevaban.
+{FLAVOR}Para ser sinceros, Zombidito monje decidió unirse al monasterio por el corte de pelo tan alucinante que llevaban.
 
 [ZOMBIE_DARK_IMP_DESCRIPTION_HEADER]
 Cuando lo invocan supera muchas de tus defensas y después se tambalea hacia delante.
@@ -78422,7 +78420,7 @@ Cuando lo escupen supera muchas de tus defensas y después avanza arañando.
 Zombi bufón
 
 [ZOMBIE_DARK_JUGGLER_DESCRIPTION]
-A todo el mundo le encanta reírse de las payasadas de Zombi bufón. Pero lo que nadie sabe es que tiene un Máster en la escuela de interpretación y arte de Chewliard. Rayos, incluso se subió a los escenarios con las mejores compañías de teatro clásico que hay a este lado del patio. Pero a veces tienes que ganar dinero para comer.
+{FLAVOR}A todo el mundo le encanta reírse de las payasadas de Zombi bufón. Pero lo que nadie sabe es que tiene un Máster en la escuela de interpretación y arte de Chewliard. Rayos, incluso se subió a los escenarios con las mejores compañías de teatro clásico que hay a este lado del patio. Pero a veces tienes que ganar dinero para comer.
 
 [ZOMBIE_DARK_JUGGLER_DESCRIPTION_HEADER]
 Devuelve los proyectiles que le disparan.
@@ -78443,7 +78441,7 @@ Devuelve todos los proyectiles del patio y los dispara por varias líneas.
 Rey zombi
 
 [ZOMBIE_DARK_KING_DESCRIPTION]
-Como escribió Shakespeare, "Inquieta vive la cabeza que lleva una corona". Y Rey zombi no puede estar más de acuerdo. Es muy difícil dormir bien con una corona en la cabeza. Es superincómoda.
+{FLAVOR}Como escribió Shakespeare, "Inquieta vive la cabeza que lleva una corona". Y Rey zombi no puede estar más de acuerdo. Es muy difícil dormir bien con una corona en la cabeza. Es superincómoda.
 
 [ZOMBIE_DARK_KING_DESCRIPTION_HEADER]
 Otorga cascos de caballero a los zombis campesinos cercanos.
@@ -78464,7 +78462,7 @@ Invoca zombis y promueve a los zombis cercanos en variantes más fuertes.
 Zombi bandido
 
 [ZOMBIE_DARK_ROGUE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}las plantas no pueden atacarlo al estar invisible
+{KEYWORD}Especial: {STAT}las plantas no pueden atacarlo cuando es invisible
 {KEYWORD}Debilidad: {STAT}Planterna y Cereza iluminada
 
 {FLAVOR}Consiguió que un mago le hiciera una poción para cumplir con sus fechorías sin que nadie sospeche. Los efectos de la poción son muy obvios, pero los efectos secundarios son algo grandes.
@@ -78476,7 +78474,7 @@ Se vuelve invisible tras beber su poción mágica, atravesando tus defensas sin 
 Zombi hechicero
 
 [ZOMBIE_DARK_WIZARD_DESCRIPTION]
-Todos los zombis están de acuerdo en que los poderes de transformación del Zombi hechicero son alucinantes. Lo que no entienden es... ¿Por qué ovejas? Todo el mundo sabe que sería de más ayuda que usara sus poderes para convertir a las plantas en más zombis. Pero nadie se atreve a decírselo a la cara.
+{FLAVOR}Todos los zombis están de acuerdo en que los poderes de transformación del Zombi hechicero son alucinantes. Lo que no entienden es... ¿Por qué ovejas? Todo el mundo sabe que sería de más ayuda que usara sus poderes para convertir a las plantas en más zombis. Pero nadie se atreve a decírselo a la cara.
 
 [ZOMBIE_DARK_WIZARD_DESCRIPTION_HEADER]
 Transforma plantas en dóciles ovejas
@@ -78557,7 +78555,7 @@ Zombi jurásico
 Caracono jurásico
 
 [ZOMBIE_DINO_ARMOR1_DESCRIPTION]
-Zombi caracono jurásico está intentando promover la idea de los "conos de tráfico". Cree que van a tener MUCHÍSIMO mercado en 150 millones de años.
+{FLAVOR}Zombi caracono jurásico está intentando promover la idea de los "conos de tráfico". Cree que van a tener MUCHÍSIMO mercado en 150 millones de años.
 
 [ZOMBIE_DINO_ARMOR1_DESCRIPTION_HEADER]
 Los conos, o cuernos de sobra atados con una cuerda para que parezcan un cono, proporcionan una protección mediana.
@@ -78566,7 +78564,7 @@ Los conos, o cuernos de sobra atados con una cuerda para que parezcan un cono, p
 Caracubo jurásico
 
 [ZOMBIE_DINO_ARMOR2_DESCRIPTION]
-La pregunta de verdad, es decir, el verdadero misterio es... ¿dónde encontró pieles azules para su traje?
+{FLAVOR}La pregunta de verdad, es decir, el verdadero misterio es... ¿dónde encontró pieles azules para su traje?
 
 [ZOMBIE_DINO_ARMOR2_DESCRIPTION_HEADER]
 Los dibujos rudimentarios de los cubos le proporcionan tanta protección como los cubos de verdad.
@@ -78575,7 +78573,7 @@ Los dibujos rudimentarios de los cubos le proporcionan tanta protección como lo
 Carafósil jurásico
 
 [ZOMBIE_DINO_ARMOR3_DESCRIPTION]
-A pesar de su nombre, Carafósil jurásico no tiene una cara de fósil. La calavera puede que tenga una semana y media de antigüedad como mucho.
+{FLAVOR}A pesar de su nombre, Carafósil jurásico no tiene una cara de fósil. La calavera puede que tenga una semana y media de antigüedad como mucho.
 
 [ZOMBIE_DINO_ARMOR3_DESCRIPTION_HEADER]
 Las calaveras fósiles no solo proporcionan una cantidad enorme de absorción de daño, sino que son extremadamente elegantes.
@@ -78584,13 +78582,13 @@ Las calaveras fósiles no solo proporcionan una cantidad enorme de absorción de
 Matón jurásico
 
 [ZOMBIE_DINO_BULLY_DESCRIPTION]
-Matón jurásico es lento, estúpido y huele mal. Pero, oye, al menos es puntual.
+{FLAVOR}Matón jurásico es lento, estúpido y huele mal. Pero, oye, al menos es puntual.
 
 [ZOMBIE_DINO_BULLY_DESCRIPTION_HEADER]
 Un zombi lento y resistente al daño que es inmune al empuje de Lanzaguisantes primitivo.
 
 [ZOMBIE_DINO_DESCRIPTION]
-Zombi jurásico no es primitivo. ¡Mira, si lleva una corbata y todo!
+{FLAVOR}Zombi jurásico no es primitivo. ¡Mira, si lleva una corbata y todo!
 
 [ZOMBIE_DINO_DESCRIPTION_HEADER]
 Zombi común con barba del pasado inimaginable.
@@ -78601,7 +78599,7 @@ Zombidito dino-huevo
 [ZOMBIE_DINO_EGGSHELL_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}Magneto-seta puede atraer el cascarón por una extraña razón
 
-{FLAVOR}Ya había aprendido el acto travieso de disfrazarse de huevo, mientras los otros Zombiditos tramaban un plan para robar huevos de dinosaurio.
+{FLAVOR}Se disfrazó de huevo para infiltrarse en un nido de dinosaurios. El plan habría funcionado mucho mejor si los huevos caminaran.
 
 [ZOMBIE_DINO_EGGSHELL_DESCRIPTION_HEADER]
 Su cascarón le brinda mayor dureza que el resto de zombiditos jurásicos.
@@ -78610,7 +78608,7 @@ Su cascarón le brinda mayor dureza que el resto de zombiditos jurásicos.
 Zombi abanderado jurásico
 
 [ZOMBIE_DINO_FLAG_DESCRIPTION]
-No solo tiene una bandera, también está predispuesto a todo y tiene un insaciable hambre de éxitos. Éxitos y cerebros.
+{FLAVOR}No solo tiene una bandera, también está predispuesto a todo y tiene un insaciable hambre de éxitos. Éxitos y cerebros.
 
 [ZOMBIE_DINO_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una "oleada" enorme de zombis altamente anacrónicos
@@ -78631,7 +78629,7 @@ Facilitador prehistórico de chorradas mesozoicas.
 Zombidito jurásico
 
 [ZOMBIE_DINO_IMP_DESCRIPTION]
-Este pequeñín travieso puede hacer mella en tus defensas si dejas que actúe con sus artilugios retorcidos.
+{FLAVOR}Este pequeñín travieso puede hacer mella en tus defensas si dejas que actúe con sus artilugios retorcidos.
 
 [ZOMBIE_DINO_IMP_DESCRIPTION_HEADER]
 Una versión más débil, pequeña y despiadada del típico zombi jurásico.
@@ -78642,10 +78640,10 @@ Zombidito raptor
 [ZOMBIE_DINO_PUSHEGG_DESCRIPTION]
 {KEYWORD}Especial: {STAT}el huevo destruye plantas al contacto, y libera un dinosaurio bebé o un Zombidito dino-huevo al ser destruido
 
-{FLAVOR}Evitó con acierto ser embestido por una estampida de dinosaurios mientras robaba un huevo. ¿Qué como lo hizo? El disfraz que lleva es la respuesta.
+{FLAVOR}Consiguió robar un huevo sin acabar bajo una estampida de dinosaurios. ¿Qué cómo lo hizo? El disfraz que lleva es la respuesta.
 
 [ZOMBIE_DINO_PUSHEGG_DESCRIPTION_HEADER]
-Es más fuerte que los Zombiditos normales. La verdadera amenaza para las plantas es el huevo que empuja.
+Zombidito prehistórico que empuja huevos de dinosaurios.
 
 [ZOMBIE_DINO_STEALEGG]
 Zombidito robahuevos
@@ -78653,10 +78651,10 @@ Zombidito robahuevos
 [ZOMBIE_DINO_STEALEGG_DESCRIPTION]
 {KEYWORD}Especial: {STAT}el huevo destruye plantas al contacto, y libera un dinosaurio bebé o un Zombidito dino-huevo al ser destruido
 
-{FLAVOR}Llevar a cabo la hazaña de robar huevos no le preocupa, ser perseguido por dinosaurios no es nada nuevo para él.
+{FLAVOR}Robar huevos nunca le ha parecido peligroso. Huir de los dinosaurios tampoco. Lo realmente difícil es no tropezar durante la escapada.
 
 [ZOMBIE_DINO_STEALEGG_DESCRIPTION_HEADER]
-Un Zombidito un tanto torpe. Tropieza, soltando el huevo y aplastando plantas con él.
+Ladrón de huevos de dinosaurios. Tropieza en el peor momento, soltando el huevo y aplastando plantas con él.
 
 [ZOMBIE_DISCO_MECH]
 Discotrón 3000
@@ -78675,7 +78673,7 @@ Zombi buzo
 [ZOMBIE_DIVER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}bucea para evitar ataques
 
-{FLAVOR}Los zombis no respiran; no necesitan oxígeno. Entonces, ¿por qué el Zombi Buzo lleva tubo y bañador? Respuesta: por el qué dirán.
+{FLAVOR}Los zombis no respiran; no necesitan oxígeno. Entonces, ¿por qué el Zombi buzo lleva tubo y bañador? Respuesta: por el qué dirán.
 
 [ZOMBIE_DIVER_DESCRIPTION_HEADER]
 El Zombi buzo puede bucear, lo cual es sorprendentemente obvio, ¿no?
@@ -78704,10 +78702,10 @@ Después de jugar esta carta, el número de invocaciones de las siguientes 2 car
 Troglopascua
 
 [ZOMBIE_EASTER_TROGLOBITE_DESCRIPTION]
-Una vez que encontró todos los huevos de pascua, este zombi decidió empujarlos por el colosal tamaño que tenían.
+{FLAVOR}Una vez que encontró todos los huevos de pascua, no supo como llevárselos a casa por el colosal tamaño que tenían.
 
 [ZOMBIE_EASTER_TROGLOBITE_DESCRIPTION_HEADER]
-Zombi fuerte que empuja gigantescos huevos de pascuas por el patio.
+Empuja gigantescos huevos de pascuas por el patio.
 
 [ZOMBIE_EGYPT_GARGANTUAR]
 Zombistein momificado
@@ -78725,7 +78723,7 @@ Zombi enorme que proviene de una familia de momias de la realeza.
 Zombidito momia
 
 [ZOMBIE_EGYPT_IMP_DESCRIPTION]
-Zombidito momia prefiere hacer el vago en la tumba, saltar sobre las urnas y arañar los sarcófagos. Jamás olvidarás el sonido de su tos cuando se atraganta con una bola de pelo.
+{FLAVOR}Zombidito momia prefiere hacer el vago en la tumba, saltar sobre las urnas y arañar los sarcófagos. Jamás olvidarás el sonido de su tos cuando se atraganta con una bola de pelo.
 
 [ZOMBIE_EGYPT_IMP_DESCRIPTION_HEADER]
 Cuando acaba con tus defensas, escapa hacia delante.
@@ -78740,7 +78738,7 @@ Zombi de 8-bits
 Caracono de 8-bits
 
 [ZOMBIE_EIGHTIES_8BIT_ARMOR1_DESCRIPTION]
-El casco tiene un diseño de cono vial y una estética retro. Aunque parece salido de una vieja consola, aún protege contra el daño.
+{FLAVOR}El casco tiene un diseño de cono vial y una estética retro. Aunque parece salido de una vieja consola, aún protege contra el daño.
 
 [ZOMBIE_EIGHTIES_8BIT_ARMOR1_DESCRIPTION_HEADER]
 Su cono pixelado le da el doble de salud que el zombi de 8-bits ordinario.
@@ -78749,13 +78747,13 @@ Su cono pixelado le da el doble de salud que el zombi de 8-bits ordinario.
 Caracubo de 8-bits
 
 [ZOMBIE_EIGHTIES_8BIT_ARMOR2_DESCRIPTION]
-El cubo encaja perfectamente en su cabeza hecha de pixeles. No sabe para qué sirve, pero le da una falsa sensación de invulnerabilidad... y eso es todo lo que necesita un zombi.
+{FLAVOR}El cubo encaja perfectamente en su cabeza hecha de pixeles. No sabe para qué sirve, pero le da una falsa sensación de invulnerabilidad... y eso es todo lo que necesita un zombi.
 
 [ZOMBIE_EIGHTIES_8BIT_ARMOR2_DESCRIPTION_HEADER]
 Su cubo pixelado le da el triple de salud que el zombi de 8-bits ordinario.
 
 [ZOMBIE_EIGHTIES_8BIT_DESCRIPTION]
-Estar hecho de luz y de coordinadas posicionales no tiene ningún efecto en el hambre acuciante de cerebros fuertes de este trasunto de zombi.
+{FLAVOR}Estar hecho de luz y de coordinadas posicionales no tiene ningún efecto en el hambre acuciante de cerebros fuertes de este trasunto de zombi.
 
 [ZOMBIE_EIGHTIES_8BIT_DESCRIPTION_HEADER]
 Zombi pixelado generado por una máquina recreativa alucinante. Aparece en las modalidades normal, caracono y caracubo.
@@ -78764,7 +78762,7 @@ Zombi pixelado generado por una máquina recreativa alucinante. Aparece en las m
 Zombi de recreativos
 
 [ZOMBIE_EIGHTIES_ARCADE_DESCRIPTION]
-Cuando hay que elegir entre echar monedas para jugar o para hacer la colada, Zombi de recreativos está preparado para realizar el sacrificio apestoso definitivo.
+{FLAVOR}Cuando hay que elegir entre echar monedas para jugar o para hacer la colada, Zombi de recreativos está preparado para realizar el sacrificio apestoso definitivo.
 
 [ZOMBIE_EIGHTIES_ARCADE_DESCRIPTION_HEADER]
 Empuja una máquina recreativa que escupe Zombis 8-bit.
@@ -78773,7 +78771,7 @@ Empuja una máquina recreativa que escupe Zombis 8-bit.
 Caracono de neón
 
 [ZOMBIE_EIGHTIES_ARMOR1_DESCRIPTION]
-Zombi caracono de neón solía creer en la evolución inversa, pero luego se olvidó de lo que significaba.
+{FLAVOR}Zombi caracono de neón solía creer en la evolución inversa, pero luego se olvidó de lo que significaba.
 
 [ZOMBIE_EIGHTIES_ARMOR1_DESCRIPTION_HEADER]
 Los conos dan protección y centran el sonido de las melodías correctas.
@@ -78782,7 +78780,7 @@ Los conos dan protección y centran el sonido de las melodías correctas.
 Caracubo de neón
 
 [ZOMBIE_EIGHTIES_ARMOR2_DESCRIPTION]
-Zombi caracubo de neón tuvo que adentrarse hasta el fondo del vertedero para encontrar una bandana que le gustara.
+{FLAVOR}Zombi caracubo de neón tuvo que adentrarse hasta el fondo del vertedero para encontrar una bandana que le gustara.
 
 [ZOMBIE_EIGHTIES_ARMOR2_DESCRIPTION_HEADER]
 Los cubos absorben el daño porque eso es lo que hacen.
@@ -78814,13 +78812,13 @@ Sujeta un radiocasete que tranquiliza a todas las plantas con sus melodías llen
 Zombi breakdancer
 
 [ZOMBIE_EIGHTIES_BREAKDANCER_DESCRIPTION]
-Realiza los movimientos más geniales a precios de saldo.
+{FLAVOR}Realiza los movimientos más geniales a precios de saldo.
 
 [ZOMBIE_EIGHTIES_BREAKDANCER_DESCRIPTION_HEADER]
 Patea a los zombis hacia delante cuando lo transporta el poder del rap.
 
 [ZOMBIE_EIGHTIES_DESCRIPTION]
-Dejó de sacudir la cabeza al ritmo de la música para que no se le salga de su sitio.
+{FLAVOR}Dejó de sacudir la cabeza al ritmo de la música para que no se le salga de su sitio.
 
 [ZOMBIE_EIGHTIES_DESCRIPTION_HEADER]
 Zombi común al que le gusta la música de la casete neón.
@@ -78829,7 +78827,7 @@ Zombi común al que le gusta la música de la casete neón.
 Zombi abanderado de neón
 
 [ZOMBIE_EIGHTIES_FLAG_DESCRIPTION]
-Los colores fluorescentes y las cintas de plástico amarillas son las marcas de una bandera moderna con un estilo rompedor.
+{FLAVOR}Los colores fluorescentes y las cintas de plástico amarillas son las marcas de una bandera moderna con un estilo rompedor.
 
 [ZOMBIE_EIGHTIES_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme "oleada" de zombis que graban casetes variados.
@@ -78852,7 +78850,7 @@ Leviatán dominador que desata toda la potencia del rock.
 Zombi purpurina
 
 [ZOMBIE_EIGHTIES_GLITTER_DESCRIPTION]
-Zombi purpurina inspira a los zombis de todos los lugares para que le den al boogie. Puede que sea solo por un momento o para siempre, o al menos hasta que enciendan las luces y echen a todo el mundo a patadas.
+{FLAVOR}Zombi purpurina inspira a los zombis de todos los lugares para que le den al boogie. Puede que sea solo por un momento o para siempre, o al menos hasta que enciendan las luces y echen a todo el mundo a patadas.
 
 [ZOMBIE_EIGHTIES_GLITTER_DESCRIPTION_HEADER]
 Le siguen arcoíris glamurosos que protegen a los zombis que tiene detrás cuando siente el ritmo.
@@ -78861,7 +78859,7 @@ Le siguen arcoíris glamurosos que protegen a los zombis que tiene detrás cuand
 Zombidito punk
 
 [ZOMBIE_EIGHTIES_IMP_DESCRIPTION]
-Dicen que las letras de Zombidito punk son "banales", "incoherentes" y que "expresan lo mejor del movimiento Zompunk en su totalidad".
+{FLAVOR}Dicen que las letras de Zombidito punk son "banales", "incoherentes" y que "expresan lo mejor del movimiento Zompunk en su totalidad".
 
 [ZOMBIE_EIGHTIES_IMP_DESCRIPTION_HEADER]
 Es lanzado por encima de la mayoría de las defensas y después rockea para perjudicarte.
@@ -78870,7 +78868,7 @@ Es lanzado por encima de la mayoría de las defensas y después rockea para perj
 MC Zom-B
 
 [ZOMBIE_EIGHTIES_MC_DESCRIPTION]
-MC Zom-B no quiere que lo sepas, pero sus joyas elegantes están hechas de zinc bañado en oro y se las robó a su abuela.
+{FLAVOR}MC Zom-B no quiere que lo sepas, pero sus joyas elegantes están hechas de zinc bañado en oro y se las robó a su abuela.
 
 [ZOMBIE_EIGHTIES_MC_DESCRIPTION_HEADER]
 Gira el micrófono para dañar a las plantas cercanas cuando lanza sus rimas alucinantes.
@@ -78902,7 +78900,7 @@ Agita un abanico que desata el caos.
 Ezcorpión de élite
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_DESCRIPTION]
-Era diferente a los otros zombis desde una edad temprana. Carecía de una comprensión del humor, sátira, acostumbrado a mostrar su extraordinario coeficiente intelectual. Su carro de asedio es uno de sus inventos mas recientes.
+{FLAVOR}Era diferente a los otros zombis desde una edad temprana. Carecía de una comprensión del humor, sátira, acostumbrado a mostrar su extraordinario coeficiente intelectual. Su carro de asedio es uno de sus inventos mas recientes.
 
 [ZOMBIE_ELITE_ROMAN_BALLISTA_DESCRIPTION_HEADER]
 Sus jarrones estan repletos de Gallinas zombi, ¡que horror!
@@ -78911,7 +78909,7 @@ Sus jarrones estan repletos de Gallinas zombi, ¡que horror!
 Sanador de élite
 
 [ZOMBIE_ELITE_ROMAN_HEALER_DESCRIPTION]
-Los demás sanadores curan heridas menores. Él regresó de las montañas nevadas con un bastón mágico más poderoso, una túnica nueva y una historia sobre un dragón que nadie le cree.
+{FLAVOR}Los demás sanadores curan heridas menores. Él regresó de las montañas nevadas con un bastón mágico más poderoso, una túnica nueva y una historia sobre un dragón que nadie le cree.
 
 [ZOMBIE_ELITE_ROMAN_HEALER_DESCRIPTION_HEADER]
 Cura zombis y los hace invencibles por unos segundos.
@@ -78920,7 +78918,7 @@ Cura zombis y los hace invencibles por unos segundos.
 Electrómano MK-II
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_DESCRIPTION]
-Fue alcanzado por un rayo... cinco veces. Ahora dice que puede oír los pensamientos de los enchufes y que su pistola de rayos "tiene sentimientos".
+{FLAVOR}Fue alcanzado por un rayo... cinco veces. Ahora dice que puede oír los pensamientos de los enchufes y que su pistola de rayos "tiene sentimientos".
 
 [ZOMBIE_ELITE_SKYCITY_ELECTRIC_DESCRIPTION_HEADER]
 Dispara bolas de plasma a todas las plantas del patio.
@@ -78929,7 +78927,7 @@ Dispara bolas de plasma a todas las plantas del patio.
 Dios de la Riqueza
 
 [ZOMBIE_ENDLESSWEALTH_DESCRIPTION]
-Se manifiesta cada vez que alguien dice: "esto es inversión segura".
+{FLAVOR}Se manifiesta cada vez que alguien dice: "esto es inversión segura".
 
 [ZOMBIE_ENDLESSWEALTH_DESCRIPTION_HEADER]
 Flota sobre el patio en su nube y deja caer monedas cuando recibe daño.
@@ -78969,31 +78967,31 @@ Zombi encantado
 Caracono encantado
 
 [ZOMBIE_FAIRY_TALE_ARMOR1_DESCRIPTION]
-Piensa que ponerse conos en la cabeza como armadura no es razón para justificar si tiene valentía o no.
+{FLAVOR}Piensa que ponerse conos en la cabeza como armadura no es razón para justificar si tiene valentía o no.
 
 [ZOMBIE_FAIRY_TALE_ARMOR1_DESCRIPTION_HEADER]
-Un zombi encantado con un cono en la cabeza.
+Zombi de tierras encantadas con un cono en la cabeza.
 
 [ZOMBIE_FAIRY_TALE_ARMOR2]
 Caracubo encantado
 
 [ZOMBIE_FAIRY_TALE_ARMOR2_DESCRIPTION]
-"No hay mejor defensa que un cubo de hierro puesto en la cabeza"
+{FLAVOR}"No hay mejor defensa que un cubo de hierro puesto en la cabeza"
 
 [ZOMBIE_FAIRY_TALE_ARMOR2_DESCRIPTION_HEADER]
-Un zombi encantado con un cubo en la cabeza.
+Zombi de tierras encantadas con un cubo en la cabeza.
 
 [ZOMBIE_FAIRY_TALE_DESCRIPTION]
-Como trabajador para la Reina Zombidita, considera importante sus labores y sigue hacia adelante lleno de orgullo.
+{FLAVOR}Como trabajador para la Reina Zombidita, considera importante sus labores y sigue hacia adelante lleno de orgullo.
 
 [ZOMBIE_FAIRY_TALE_DESCRIPTION_HEADER]
-Un zombi encantado de rango común.
+Zombi promedio de tierras encantadas.
 
 [ZOMBIE_FAIRY_TALE_FLAG]
 Zombi encantado abanderado
 
 [ZOMBIE_FAIRY_TALE_FLAG_DESCRIPTION]
-Los demás subordinados de Reina Zombidita saben que cada vez que hay una bandera en alto, significa que es hora de batallar y saquear cerebros.
+{FLAVOR}Los demás subordinados de Reina Zombidita saben que cada vez que hay una bandera en alto, significa que es hora de batallar y saquear cerebros.
 
 [ZOMBIE_FAIRY_TALE_FLAG_DESCRIPTION_HEADER]
 Anuncia la llegada de una inmensa oleada de zombis encantados.
@@ -79037,19 +79035,18 @@ Reina blanca
 {FLAVOR}Gobernó el Mundo mágico con una elegancia tan fría como la nieve eterna. Incluso después de caer bajo la plaga zombi, la Reina blanca continúa sentada sobre su trono helado, observando en silencio cómo sus leales súbditos se marchitan a sus pies antes de unirse a su macabro reino.
 
 [ZOMBIE_FAIRY_TALE_IMP_ELITE_DESCRIPTION_HEADER]
-Escapa y convoca al Zombistein de la realeza en cuanto sufre daño.
+Escapa y convoca a Caballeros de escolta en cuanto sufre daño.
 
 [ZOMBIE_FAIRY_TALE_KNIGHT]
-Zombi caballero de escolta
+Caballero de escolta
 
 [ZOMBIE_FAIRY_TALE_KNIGHT_DESCRIPTION]
-{KEYWORD}Especial: {STAT}carga hacia adelante para destruir plantas
 {KEYWORD}Debilidad: {STAT}Seta pirómana con Nutrientes interrumpe su ataque de carga
 
 {FLAVOR}Siempre llega tarde al rescate, pero por una extraña razón, no ha sido despedido durante mucho tiempo.
 
 [ZOMBIE_FAIRY_TALE_KNIGHT_DESCRIPTION_HEADER]
-Carga hacia delante contra la primera planta que encuentre, para luego, soltar su lanza y con ella, bloquear ataques.
+Carga hacia delante contra la primera planta que encuentre, soltando su lanza y bloqueando ataques con ella.
 
 [ZOMBIE_FAIRY_TALE_WITCH]
 Bruja zombi
@@ -79066,7 +79063,7 @@ Convierte tus plantas en sapos, los cuales, escapan del patio brincando.
 Zombi buzo profesional
 
 [ZOMBIE_FAT_DIVE_DESCRIPTION]
-Renunció por la presión de sus compañeros en su antiguo trabajo. Por suerte, las cosas se tornaron más tranquilas en su nuevo entorno, salvo por las fuertes corrientes oceánicas.
+{FLAVOR}Renunció por la presión de sus compañeros en su antiguo trabajo. Por suerte, las cosas se tornaron más tranquilas en su nuevo entorno, salvo por las fuertes corrientes oceánicas.
 
 [ZOMBIE_FAT_DIVE_DESCRIPTION_HEADER]
 Su tanque se rompe al recibir daño, expulsando oxígeno y dándole impulso.
@@ -79086,7 +79083,7 @@ Se balancea con una cuerda para aterrizar en medio de tu patio y robar lingotes.
 Patinadora artíztica
 
 [ZOMBIE_FIGURE_SKATING_DESCRIPTION]
-Incluso después de morir, su cuerpo recuerda los años dedicados al patinaje artístico.
+{FLAVOR}Incluso después de morir, su cuerpo recuerda los años dedicados al patinaje artístico.
 
 [ZOMBIE_FIGURE_SKATING_DESCRIPTION_HEADER]
 Se mueve por la pista a toda velocidad mientras esquiva proyectiles.
@@ -79100,7 +79097,7 @@ Zombi mecanizado de football
 {FLAVOR}Sus mejores días ya pasaron, pero Zombi mecanizado de football está listo para volver al terreno de juego. Hasta que se haga con un cerebro, no le preocupan las contusiones.
 
 [ZOMBIE_FOOTBALL_MECH_DESCRIPTION_HEADER]
-Empuja las plantas por el patio
+Empuja las plantas por el patio.
 
 [ZOMBIE_FUTURE]
 Zombi futurista
@@ -79109,7 +79106,7 @@ Zombi futurista
 Futurista caracono
 
 [ZOMBIE_FUTURE_ARMOR1_DESCRIPTION]
-Intentó calcular el volumen de su cono matemáticamente perfecto, pero siempre termina soñando con el π cerebral.
+{FLAVOR}Intentó calcular el volumen de su cono matemáticamente perfecto, pero siempre termina soñando con el π cerebral.
 
 [ZOMBIE_FUTURE_ARMOR1_DESCRIPTION_HEADER]
 Su cono polipolimérico le da el doble de dureza que el zombi futuro común.
@@ -79118,7 +79115,7 @@ Su cono polipolimérico le da el doble de dureza que el zombi futuro común.
 Futurista caracubo
 
 [ZOMBIE_FUTURE_ARMOR2_DESCRIPTION]
-Los demás zombis dicen que está chapado a la antigua por añorar el año 2008. Eran tiempos más simples, los cerebros eran cerebros, los zombis eran zombis y las plantas punkis no salían de sus casas.
+{FLAVOR}Los demás zombis dicen que está chapado a la antigua por añorar el año 2008. Eran tiempos más simples, los cerebros eran cerebros, los zombis eran zombis y las plantas punkis no salían de sus casas.
 
 [ZOMBIE_FUTURE_ARMOR2_DESCRIPTION_HEADER]
 Su tecnocubo aumenta mucho la protección contra el daño.
@@ -79127,13 +79124,13 @@ Su tecnocubo aumenta mucho la protección contra el daño.
 Zombi caraholograma
 
 [ZOMBIE_FUTURE_ARMOR4_DESCRIPTION]
-El campo de fuerza tiene ese color único por la armonía de la frecuencia y una buena dosis de pintura morada.
+{FLAVOR}El campo de fuerza tiene ese color único por la armonía de la frecuencia y una buena dosis de pintura morada.
 
 [ZOMBIE_FUTURE_ARMOR4_DESCRIPTION_HEADER]
 El campo de fuerza instalado en la cabeza de Zombi caraholograma le proporciona una hiperprotección.
 
 [ZOMBIE_FUTURE_DESCRIPTION]
-A los zombis del futuro les sientan bien las camisas rojas. Curiosidad número 23 del futuro: No le pasa nada malo a la gente que lleva camisas rojas.
+{FLAVOR}A los zombis del futuro les sientan bien las camisas rojas. Curiosidad número 23 del futuro: No le pasa nada malo a la gente que lleva camisas rojas.
 
 [ZOMBIE_FUTURE_DESCRIPTION_HEADER]
 Zombi propulsado futurista común.
@@ -79142,7 +79139,7 @@ Zombi propulsado futurista común.
 Zombi abanderado futurista
 
 [ZOMBIE_FUTURE_FLAG_DESCRIPTION]
-A veces, el Zombi abanderado futurista se lamenta de tener que estar siempre con el último grito en tecnología avanzada de oleadas zombi.
+{FLAVOR}A veces, el Zombi abanderado futurista se lamenta de tener que estar siempre con el último grito en tecnología avanzada de oleadas zombi.
 
 [ZOMBIE_FUTURE_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme "oleada" de zombis a prueba del futuro.
@@ -79151,7 +79148,7 @@ Marca la llegada de una enorme "oleada" de zombis a prueba del futuro.
 Zombi roboinspirador
 
 [ZOMBIE_FUTURE_FLAG_VETERAN_DESCRIPTION]
-Si lo miras con detenimiento, te darás cuenta de que la bandera de Zombi roboinspirador es una pieza sofisticada de tecnología flotante combinada con un palo.
+{FLAVOR}Si lo miras con detenimiento, te darás cuenta de que la bandera de Zombi roboinspirador es una pieza sofisticada de tecnología flotante combinada con un palo.
 
 [ZOMBIE_FUTURE_FLAG_VETERAN_DESCRIPTION_HEADER]
 Zombi roboinspirador y su bandera marcan la llegada de un número de zombis por encima de la media.
@@ -79162,6 +79159,7 @@ Zombistein prime
 [ZOMBIE_FUTURE_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Daño: {STAT}aplasta plantas con sus brazos
 {KEYWORD}Daño: {STAT}quema casillas al azar con sus ojos láser
+
 {KEYWORD}Especial: {STAT}lanza al bicho robot cuando sufre daños
 
 {FLAVOR}Los zombiditos pilotos de la serie prime de Zombistein fueron escogidos por el propio Dr. Zombi. Son la élite de los zombiditos. ¡Los más pequeños, más miserables y temerarios! Pero sobre todo, los únicos que pueden manejar una palanca de cambios.
@@ -79173,7 +79171,7 @@ Lo tiene todo: blindaje pesado, ojos láser, brazos destructores y un sistema de
 Zombidito bicho robot
 
 [ZOMBIE_FUTURE_IMP_DESCRIPTION]
-Siempre quiso "ver el mundo", "ser su propio jefe" y "conocer y consumir cerebros interesantes". Aún no entiende cómo llegó a su trabajo a tiempo completo de bicho robot.
+{FLAVOR}Siempre quiso "ver el mundo", "ser su propio jefe" y "conocer y consumir cerebros interesantes". Aún no entiende cómo llegó a su trabajo a tiempo completo de bicho robot.
 
 [ZOMBIE_FUTURE_IMP_DESCRIPTION_HEADER]
 Aterriza en el patio atravesando tus defensas y después salta hacia adelante.
@@ -79241,7 +79239,7 @@ Lanza aderezo a las plantas y las vuelve irresistiblemente deliciosas para los z
 Zombi cardio
 
 [ZOMBIE_GENERAL_TREADMILL_PHASE1_DESCRIPTION]
-Es un fanático de la salud, la salubridad y la vida saludable. Se niega a comer carbohidratos, solo consume cerebros llenos de proteínas en cada comida. En su opinión, los demás zombis deberían ponerse las pilas. ¡SIN EXCUSAS!
+{FLAVOR}Es un fanático de la salud, la salubridad y la vida saludable. Se niega a comer carbohidratos, solo consume cerebros llenos de proteínas en cada comida. En su opinión, los demás zombis deberían ponerse las pilas. ¡SIN EXCUSAS!
 
 [ZOMBIE_GENERAL_TREADMILL_PHASE1_DESCRIPTION_HEADER]
 Avanza a un lugar establecido del mapa y después lanza cerebros que mejoran a los demás zombis hasta que lo persiguen o se retira por su propia cuenta.
@@ -79250,22 +79248,16 @@ Avanza a un lugar establecido del mapa y después lanza cerebros que mejoran a l
 Z-Mech
 
 [ZOMBIE_GENERAL_ZMECH_PHASE1_DESCRIPTION]
-Está descansando de sus quehaceres en PvZ Heroes y PvZ Garden Warfare para llevar su destrucción característica a Plants vs. Zombies 2. No te preocupes, lo habló ya con su coordinador.
+{FLAVOR}Está descansando de sus quehaceres en PvZ Heroes y PvZ Garden Warfare para llevar su destrucción característica a Plants vs. Zombies 2. No te preocupes, lo habló ya con su coordinador.
 
 [ZOMBIE_GENERAL_ZMECH_PHASE1_DESCRIPTION_HEADER]
 Despliega tecnología de invocación y teletransportación para hostigar, dañar y poner en peligro a las plantas del mapa.
-
-[ZOMBIE_GENERAL_ZMECH_PHASE2]
-Z-Mech 2.0
-
-[ZOMBIE_GENERAL_ZMECH_PHASE3]
-Z-Mech 3.0
 
 [ZOMBIE_GIFTBOX]
 Regalo de Nabidad
 
 [ZOMBIE_GIFTBOX_DESCRIPTION]
-El mejor regalo de Navidad que nuestro establecimiento podría ofrecerle.
+{FLAVOR}El mejor regalo de Navidad que nuestro establecimiento podría ofrecerle.
 
 - Advertencia: definitivamente no es un zombi.
 
@@ -79287,7 +79279,7 @@ Un veterano del coliseo.
 Zombi guardametas
 
 [ZOMBIE_GOALKEEPER_ZOMBIE_DESCRIPTION]
-Para él, lo más vergonzoso no es fallar el balón, sino lanzarse a por una parada y darse cuenta de que el rival es Pinchohierba. "¿Eso no cuenta como falta?", le pregunta siempre al árbitro mientras yace en el suelo jadeando.
+{FLAVOR}Para él, lo más vergonzoso no es fallar el balón, sino lanzarse a por una parada y darse cuenta de que el rival es Pinchohierba. "¿Eso no cuenta como falta?", le pregunta siempre al árbitro mientras yace en el suelo jadeando.
 
 [ZOMBIE_GOALKEEPER_ZOMBIE_DESCRIPTION_HEADER]
 Bloquea proyectiles dirigidos hacia él.
@@ -79310,7 +79302,7 @@ Zombi de la perdición
 Caracono de la perdición
 
 [ZOMBIE_HALLOWEEN_ARMOR1_DESCRIPTION]
-Para adaptarse a la aterradora atmósfera de Halloween, personalizó su cono y le dio la forma de un sombrero de brujas.
+{FLAVOR}Para adaptarse a la aterradora atmósfera de Halloween, personalizó su cono y le dio la forma de un sombrero de brujas.
 
 [ZOMBIE_HALLOWEEN_ARMOR1_DESCRIPTION_HEADER]
 Su cono le provee el doble de resistencia que el zombi básico del Patio de la perdición.
@@ -79319,13 +79311,13 @@ Su cono le provee el doble de resistencia que el zombi básico del Patio de la p
 Caracubo de la perdición
 
 [ZOMBIE_HALLOWEEN_ARMOR2_DESCRIPTION]
-Cree que el miedo fortalece al ejército zombi, así que se lanza a la batalla con su cubo cuidadosamente decorado.
+{FLAVOR}Cree que el miedo fortalece al ejército zombi, así que se lanza a la batalla con su cubo cuidadosamente decorado.
 
 [ZOMBIE_HALLOWEEN_ARMOR2_DESCRIPTION_HEADER]
 Su cubo le provee el triple de resistencia que el zombi básico del Patio de la perdición.
 
 [ZOMBIE_HALLOWEEN_DESCRIPTION]
-Con su traje de esqueleto y un maquillaje pálido, este zombi convirtió la fiesta de Halloween en algo mucho más real.
+{FLAVOR}Con su traje de esqueleto y un maquillaje pálido, este zombi convirtió la fiesta de Halloween en algo mucho más real.
 
 [ZOMBIE_HALLOWEEN_DESCRIPTION_HEADER]
 Zombi común del Patio de la perdición.
@@ -79334,7 +79326,7 @@ Zombi común del Patio de la perdición.
 Zombi bandera de perdición
 
 [ZOMBIE_HALLOWEEN_FLAG_DESCRIPTION]
-Está convencido de que su bandera llama a los suyos, cada vez que la alza, más muertos responden a su llamado.
+{FLAVOR}Está convencido de que su bandera llama a los suyos, cada vez que la alza, más muertos responden a su llamado.
 
 [ZOMBIE_HALLOWEEN_FLAG_DESCRIPTION_HEADER]
 Su terrorífica bandera llama a los muertos vivientes más aterradores en una masiva oleada.
@@ -79355,7 +79347,7 @@ Un tipo colosal que machaca plantas y las deja petrificadas del miedo.
 Novia de Frankenstein
 
 [ZOMBIE_HALLOWEEN_IMP_DESCRIPTION]
-Pequeña pero inquietante. Su peculiar peinado hace que más de uno se estremezca en las fiestas de Halloween.
+{FLAVOR}Pequeña pero inquietante. Su peculiar peinado hace que más de uno se estremezca en las fiestas de Halloween.
 
 [ZOMBIE_HALLOWEEN_IMP_DESCRIPTION_HEADER]
 Se arrastra por tu patio con una presencia tan extraña como perturbadora.
@@ -79390,7 +79382,7 @@ Comerciante del Período Heian. Vende toda clase de artesanías misteriosas.
 Samurái caracono
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION]
-Lo consideran un samurái a pesar que no use armas. Eso sí, tiene una buena defensa en la cabeza.
+{FLAVOR}Lo consideran un samurái a pesar que no use armas. Eso sí, tiene una buena defensa en la cabeza.
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION_HEADER]
 Su cono le proporciona el doble de dureza que el samurái promedio.
@@ -79399,7 +79391,7 @@ Su cono le proporciona el doble de dureza que el samurái promedio.
 Samurái caracubo
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION]
-Aunque su cubo parece de madera, en realidad, está hecho de hierro pintado en color marrón.
+{FLAVOR}Su cubo parece de madera, pero en realidad, está hecho de hierro pintado en color marrón.
 
 [ZOMBIE_HEIAN_ARMOR2_DESCRIPTION_HEADER]
 Su cubo le proporciona el triple de dureza que el samurái promedio.
@@ -79408,7 +79400,7 @@ Su cubo le proporciona el triple de dureza que el samurái promedio.
 Zombi samurái abanderado
 
 [ZOMBIE_HEIAN_FLAG_DESCRIPTION]
-Está convencido de que agitar una bandera lo convierte automáticamente en un gran líder militar.
+{FLAVOR}Está convencido de que agitar una bandera lo convierte automáticamente en un gran líder militar.
 
 [ZOMBIE_HEIAN_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una oleada de zombis samurái.
@@ -79477,7 +79469,7 @@ Prepara sushi para atraer a los zombis de otras líneas.
 Zombi samurái
 
 [ZOMBIE_HEIAN_WORKER_DESCRIPTION]
-Después de ponerse una peluca, decidió que ya estaba listo para convertirse en samurái.
+{FLAVOR}Después de ponerse una peluca, decidió que ya estaba listo para convertirse en samurái.
 
 [ZOMBIE_HEIAN_WORKER_DESCRIPTION_HEADER]
 Zombi samurái básico.
@@ -79489,7 +79481,7 @@ Zombi cavernario
 Zombi caracono cavernario
 
 [ZOMBIE_ICEAGE_ARMOR1_DESCRIPTION]
-Zombi caracono cavernario fue el primer zombi en inventar el cono. Ató el cuerno de un mamut a una tabla de madera petrificada y... ¡bum! ¡un cono! La invención del cono lo cambió todo para los zombis. TODO.
+{FLAVOR}Zombi caracono cavernario fue el primer zombi en inventar el cono. Ató el cuerno de un mamut a una tabla de madera petrificada y... ¡bum! ¡un cono! La invención del cono lo cambió todo para los zombis. TODO.
 
 [ZOMBIE_ICEAGE_ARMOR1_DESCRIPTION_HEADER]
 Su cuerno de mamut le da el doble de dureza que el cavernario común.
@@ -79498,7 +79490,7 @@ Su cuerno de mamut le da el doble de dureza que el cavernario común.
 Zombi caracubo cavernario
 
 [ZOMBIE_ICEAGE_ARMOR2_DESCRIPTION]
-A Zombi caracubo cavernario le gustan las piedras. Le gustan MUCHO las piedras. Ató una piedra a su cabeza y la llamó cubo. Ninguno de los demás Zombis cavernarios sabe lo que es un "cubo", pero a todos les gusta su estilo.
+{FLAVOR}A Zombi caracubo cavernario le gustan las piedras. Le gustan MUCHO las piedras. Ató una piedra a su cabeza y la llamó cubo. Ninguno de los demás Zombis cavernarios sabe lo que es un "cubo", pero a todos les gusta su estilo.
 
 [ZOMBIE_ICEAGE_ARMOR2_DESCRIPTION_HEADER]
 Su "cubo" de piedra le proporciona una gran protección contra el daño.
@@ -79507,7 +79499,7 @@ Su "cubo" de piedra le proporciona una gran protección contra el daño.
 Zombi carabloque
 
 [ZOMBIE_ICEAGE_ARMOR3_DESCRIPTION]
-Un día, un zombi cavernario se cayó de cabeza en un torrente glacial. El día ya fue malo de por sí, así que se quedó tumbado en el agua helada pensando en lo insignificante que era su vida. Cuando se levantó, descubrió que su cabeza estaba cubierta de hielo. ¡Por fin cobraba sentido su vida! ¡Era único! ¡Era Zombi carabloque! Al menos eso es lo que dice y lo que mantiene.
+{FLAVOR}Un día, un zombi cavernario se cayó de cabeza en un torrente glacial. El día ya fue malo de por sí, así que se quedó tumbado en el agua helada pensando en lo insignificante que era su vida. Cuando se levantó, descubrió que su cabeza estaba cubierta de hielo. ¡Por fin cobraba sentido su vida! ¡Era único! ¡Era Zombi carabloque! Al menos eso es lo que dice y lo que mantiene.
 
 [ZOMBIE_ICEAGE_ARMOR3_DESCRIPTION_HEADER]
 El bloque de hielo de su cabeza le protege del daño de forma increíble.
@@ -79516,7 +79508,7 @@ El bloque de hielo de su cabeza le protege del daño de forma increíble.
 Zombi cabeza de mamút
 
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION]
-Después de ver a un mamut aplastar a varios zombis de un solo pisotón, decidió que quería un casco igual de resistente. El Dr. Zombi todavía no entiende cómo consiguió el cráneo.
+{FLAVOR}Después de ver a un mamut aplastar a varios zombis de un solo pisotón, decidió que quería un casco igual de resistente. El Dr. Zombi todavía no entiende cómo consiguió el cráneo.
 
 [ZOMBIE_ICEAGE_ARMOR3_ELITE_DESCRIPTION_HEADER]
 Su cráneo de mamut le proporciona una defensa de nivel superior.
@@ -79525,7 +79517,7 @@ Su cráneo de mamut le proporciona una defensa de nivel superior.
 Jefe cavernícola
 
 [ZOMBIE_ICEAGE_CHIEF_DESCRIPTION]
-Es el líder de la tribu de cavernícolas. Cada año organiza un gran torneo deportivo donde la prueba principal es inflar globos.
+{FLAVOR}Es el líder de la tribu de cavernícolas. Cada año organiza un gran torneo deportivo donde la prueba principal es inflar globos.
 
 [ZOMBIE_ICEAGE_CHIEF_DESCRIPTION_HEADER]
 Congela lentamente a todas las plantas de su línea.
@@ -79543,7 +79535,7 @@ Señor del viento
 Su ventisca congela plantas y empuja zombis.
 
 [ZOMBIE_ICEAGE_DESCRIPTION]
-Zombi cavernario estaba ocupado pintando huellas de manos en las paredes de las cuevas cuando le dijeron que empezara a pelear contra las plantas. No sabe por qué pelea contra las plantas, pero espera volver pronto a pintar. Estaba inspirado. Tenía planes para grandes obras. Por fin la escuela de arte estaba dando sus frutos.
+{FLAVOR}Zombi cavernario estaba ocupado pintando huellas de manos en las paredes de las cuevas cuando le dijeron que empezara a pelear contra las plantas. No sabe por qué pelea contra las plantas, pero espera volver pronto a pintar. Estaba inspirado. Tenía planes para grandes obras. Por fin la escuela de arte estaba dando sus frutos.
 
 [ZOMBIE_ICEAGE_DESCRIPTION_HEADER]
 Zombi cavernario común.
@@ -79552,7 +79544,7 @@ Zombi cavernario común.
 Zombi jinete de dodo
 
 [ZOMBIE_ICEAGE_DODO_DESCRIPTION]
-Jinete de dodo piensa que los dodos son el futuro en medios de transporte. Cree que habría que invertir los impuestos en un sistema público de transporte en dodos, que ayudaría a la mayoría de los zombis a llegar con mayor eficiencia allá donde quieran. Todo el mundo le dice que los dodos no tienen futuro, pero hace oídos sordos.
+{FLAVOR}Jinete de dodo piensa que los dodos son el futuro en medios de transporte. Cree que habría que invertir los impuestos en un sistema público de transporte en dodos, que ayudaría a la mayoría de los zombis a llegar con mayor eficiencia allá donde quieran. Todo el mundo le dice que los dodos no tienen futuro, pero hace oídos sordos.
 
 [ZOMBIE_ICEAGE_DODO_DESCRIPTION_HEADER]
 Un dodo con un Zombidito jinete. Con su batir de alas el dodo puede saltar barricadas y algunas plantas molestas.
@@ -79561,7 +79553,7 @@ Un dodo con un Zombidito jinete. Con su batir de alas el dodo puede saltar barri
 Zombi abanderado cavernario
 
 [ZOMBIE_ICEAGE_FLAG_DESCRIPTION]
-Zombi abanderado cavernario lleva mucho tiempo en el negocio de llevar banderas. Es el trabajo de su vida. Se le da bien. Pero a veces, solo a veces, anhela un cambio. Se pregunta si se le daría bien otra cosa. Se pregunta si sería capaz de dejarlo todo y empezar de nuevo. Está seguro que está teniendo una crisis de la mediana edad.
+{FLAVOR}Zombi abanderado cavernario lleva mucho tiempo en el negocio de llevar banderas. Es el trabajo de su vida. Se le da bien. Pero a veces, solo a veces, anhela un cambio. Se pregunta si se le daría bien otra cosa. Se pregunta si sería capaz de dejarlo todo y empezar de nuevo. Está seguro que está teniendo una crisis de la mediana edad.
 
 [ZOMBIE_ICEAGE_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme y gélida "oleada" de zombis.
@@ -79582,7 +79574,7 @@ Un zombi enorme con piel de perezoso y una infestación de Zombiditos. Lleva y l
 Zombi cazador
 
 [ZOMBIE_ICEAGE_HUNTER_DESCRIPTION]
-Shhhhh... Zombi cazador en realidad no mató al tigre dientes de sable. Encontró la piel en una tienda de artículos usados. Además, es vegetariano. No se lo digas a nadie.
+{FLAVOR}Shhhhh... Zombi cazador en realidad no mató al tigre dientes de sable. Encontró la piel en una tienda de artículos usados. Además, es vegetariano. No se lo digas a nadie.
 
 [ZOMBIE_ICEAGE_HUNTER_DESCRIPTION_HEADER]
 Un zombi que puede lanzar bolas de nieve a distancia para enfriar plantas hasta congelarlas en bloques.
@@ -79605,7 +79597,7 @@ Lanza bolas de nieve para congelar plantas al instante.
 Zombidito yeti
 
 [ZOMBIE_ICEAGE_IMP_DESCRIPTION]
-Zombidito yeti empezó a tejer hace poco. Comenzó con una bufanda, después pasó a las manoplas y finalmente se hizo un traje entero con el pelo que le esquiló al Zombi Yeti. Le encanta tejer. Cuando sostiene las agujas, siente una calma que jamás sintió antes.
+{FLAVOR}Zombidito yeti empezó a tejer hace poco. Comenzó con una bufanda, después pasó a las manoplas y finalmente se hizo un traje entero con el pelo que le esquiló al Zombi Yeti. Le encanta tejer. Cuando sostiene las agujas, siente una calma que jamás sintió antes.
 
 [ZOMBIE_ICEAGE_IMP_DESCRIPTION_HEADER]
 Cuando acaba con tus defensas, camina lento hacia delante.
@@ -79614,7 +79606,7 @@ Cuando acaba con tus defensas, camina lento hacia delante.
 Zombi esquiador
 
 [ZOMBIE_ICEAGE_SKI_DESCRIPTION]
-Vio a unos artistas hacer acrobacias sobre esquís cuando era joven. Desde entonces, ignora cuidadosamente todas las señales de advertencia.
+{FLAVOR}Vio a unos artistas hacer acrobacias sobre esquís cuando era joven. Desde entonces, ignora cuidadosamente todas las señales de advertencia.
 
 [ZOMBIE_ICEAGE_SKI_DESCRIPTION_HEADER]
 Esquia sobre tus defensas usando a una Morza zombi.
@@ -79623,7 +79615,7 @@ Esquia sobre tus defensas usando a una Morza zombi.
 Troglobocado
 
 [ZOMBIE_ICEAGE_TROGLOBITE_DESCRIPTION]
-Troglobocado lleva empujando bloques de hielo a través de la tundra todos los días desde hace muchísimo tiempo. Es un trabajo frío y extenuante, y la verdad es que tiene ganas de vacaciones. Le gustaría ir a algún sitio soleado y calentito, para variar. Relajarse en la arena. Le dijeron que en la Playa de la Gran Ola se está muy bien en esta época del año.
+{FLAVOR}Troglobocado lleva empujando bloques de hielo a través de la tundra todos los días desde hace muchísimo tiempo. Es un trabajo frío y extenuante, y la verdad es que tiene ganas de vacaciones. Le gustaría ir a algún sitio soleado y calentito, para variar. Relajarse en la arena. Le dijeron que en la Playa de la Gran Ola se está muy bien en esta época del año.
 
 [ZOMBIE_ICEAGE_TROGLOBITE_DESCRIPTION_HEADER]
 Zombi fuerte que puede empujar bloques de hielo por el patio.
@@ -79669,7 +79661,7 @@ Comadrejera de élite
 Invoca comadrejas de hielo que corren a toda velocidad.
 
 [ZOMBIE_ICEAGE_WEASEL_DESCRIPTION]
-¡Qui, qui, quiiii!
+{FLAVOR}¡Qui, qui, quiiii!
 
 [ZOMBIE_ICEAGE_WEASEL_DESCRIPTION_HEADER]
 Una vez lanzadas, las comadrejas corren a toda velocidad sobre témpanos de hielo para morder tu cerebro.
@@ -79719,7 +79711,7 @@ Los zombis son inmunes a los efectos de control
 Zombidito de Pera zombidita
 
 [ZOMBIE_IMPPEAR_IMP_DESCRIPTION]
-No tienen recuerdos de haber sido zombis.
+{FLAVOR}No tienen recuerdos de haber sido zombis.
 
 [ZOMBIE_IMPPEAR_IMP_DESCRIPTION_HEADER]
 Los zombis convertidos en Zombiditos por Pera zombidita se vuelven Zombiditos de Pera zombidita.
@@ -79789,7 +79781,7 @@ Su cabeza alta proporciona una protección absurda contra los ataques.
 Zombi nuez
 
 [ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT_DESCRIPTION]
-Siendo mitad nuez, este zombi sabe cómo romper fácilmente una cáscara dura y llegar al interior. Por 'cáscara' nos referimos a tu cráneo. ¡Y por 'nuez' nos referimos a tus sesos!
+{FLAVOR}Siendo mitad nuez, este zombi sabe cómo romper fácilmente una cáscara dura y llegar al interior. Por 'cáscara' nos referimos a tu cráneo. ¡Y por 'nuez' nos referimos a tus sesos!
 
 [ZOMBIE_IZOMBIE_ZOMBIE_WALLNUT_DESCRIPTION_HEADER]
 Su cabeza de nuez proporciona alta defensa.
@@ -79801,7 +79793,7 @@ Zombi oriental
 Zombi atleta imperial
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION]
-En China, la disciplina física es un arte ancestral. Este zombi aún conserva esa fuerza y determinación.
+{FLAVOR}En China, la disciplina física es un arte ancestral. Este zombi aún conserva esa fuerza y determinación.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION_HEADER]
 Tiene una dureza alta, embiste plantas a gran velocidad.
@@ -79810,7 +79802,7 @@ Tiene una dureza alta, embiste plantas a gran velocidad.
 Zombi caracesta
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION]
-Siempre persigue a otros preguntando cuándo hay cerebros a la venta. Claro, nunca los hay, pero quiere asegurarse.
+{FLAVOR}Siempre persigue a otros preguntando cuándo hay cerebros a la venta. Claro, nunca los hay, pero quiere asegurarse.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION_HEADER]
 Su cesta de bambú lo hace dos veces más resistente que los orientales normales.
@@ -79819,7 +79811,7 @@ Su cesta de bambú lo hace dos veces más resistente que los orientales normales
 Zombi caracuenco
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION]
-Nadie quiere mandarlo al frente de batalla. Sus interminables reclamos sobre cuencos rotos ya agotaron a todos.
+{FLAVOR}Nadie quiere mandarlo al frente de batalla. Sus interminables reclamos sobre cuencos rotos ya agotaron a todos.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION_HEADER]
 Su cuenco de porcelana es sorprendentemente difícil de romper.
@@ -79836,16 +79828,16 @@ Zombi farolito
 Flota por encima de casi todo en una linterna de papel extrañamente resistente.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT]
-Zombi catapulta de oriente
+Zombi balista
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION]
-Su catapulta es fruto de una antigua tradición, perfeccionada para aplastar plantas desde la distancia.
+{FLAVOR}Su balista es fruto de una antigua tradición, perfeccionada para aplastar plantas desde la distancia.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION_HEADER]
 Lanza enormes rocas contra tus plantas desde lejos.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
-Los tiempos son difíciles para el ancestro chino de los zombis. Acaba de enterarse de que lo despidieron de su antiguo trabajo y lo obligaron a trabajar para el ejército del nuevo emperador.
+{FLAVOR}Los tiempos son difíciles para el ancestro chino de los zombis. Acaba de enterarse de que lo despidieron de su antiguo trabajo y lo obligaron a trabajar para el ejército del nuevo emperador.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
 Zombi común de jardín, ahora con un toque oriental.
@@ -79854,7 +79846,7 @@ Zombi común de jardín, ahora con un toque oriental.
 Zombi oriental abanderado
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION]
-"En oriente, la bandera siempre marcha antes que el ejército."
+{FLAVOR}"En oriente, la bandera siempre marcha antes que el ejército."
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una gran oleada de zombis orientales.
@@ -79863,13 +79855,13 @@ Marca la llegada de una gran oleada de zombis orientales.
 Zombistein coloso imperial
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
-Vigilar la Gran Muralla durante siglos vuelve a cualquiera brutalmente fuerte. Cuando nadie se atreve a cruzar, él cruza primero.
+{FLAVOR}Vigilar la Gran Muralla durante siglos vuelve a cualquiera brutalmente fuerte. Cuando nadie se atreve a cruzar, él cruza primero.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
 Tan poderoso que no necesita lanzar Zombiditos.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI]
-Rey de cejas amarillas
+Rey de las Cejas Amarillas
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION]
 ^E2725B^• Habilidades^oldclr^
@@ -79882,29 +79874,30 @@ Rey de cejas amarillas
 
 ^DB8117^- Saco de semillas:^oldclr^ ^A0522D^lanza un saco enorme que aplasta plantas en su camino, puede ser destruido por plantas explosivas^oldclr^
 
-{FLAVOR}Este enorme zombi y su ejército arrasarán con ciudades enteras si se atreven a oponérsele.
+{FLAVOR}Con reliquias robadas y un templo falso construido por el Dr. Zombi, engañó a incontables viajeros haciéndoles creer que era el mismísimo Buda.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION_HEADER]
-Guardián del Templo Leiyin y comandante de un gran ejército.
+Guardián del templo Leiyin y comandante de un gran ejército.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER]
-Zombi Tudigong
+Tudigong
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION]
 {KEYWORD}Velocidad: {STAT}rápida, luego lenta
+
 {KEYWORD}Especial: {STAT}excava bajo tierra y aparece en el lado izquierdo del jardín
 {KEYWORD}Debilidad: {STAT}Bipetidora y Magneto-seta
 
-{FLAVOR}Puede ser una deidad, pero ciertamente no se siente como una. Va al templo local tres veces por semana solo para quejarse de que siente que merece más, sin embargo, todo lo que le dieron es un palo de aspecto extraño que apenas puede hacer mucho excepto crear túneles por los que tiene que apretujarse todo el día.
+{FLAVOR}En otros tiempos guiaba a los peregrinos y advertía sobre los demonios de su territorio. Ahora solo recibe órdenes del Dr. Zombi... y excava como todo un minero profesional.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION_HEADER]
-Usa sus poderes para excavar bajo tierra.
+Antiguo dios de la tierra corrompido por el Dr. Zombi.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO]
 Zombi poncho de oriente
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION]
-Aprendió la tradición de forjar armaduras en metal, el poncho es una de ellas.
+{FLAVOR}Aprendió la tradición de forjar armaduras en metal, el poncho es una de ellas.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION_HEADER]
 A veces esconde una placa tradicional de blindaje.
@@ -79921,7 +79914,7 @@ Niño Rojo
 
 {KEYWORD}Debilidad: {STAT}Nuez cascarrabias resiste al fuego, las plantas de hielo apagan las bolas de fuego gigantes
 
-{FLAVOR}No se toma su trabajo en serio. Mientras todos los demás zombis luchan por sus no-vidas, él solo está jugando con fuego, y a pesar de eso, es el que tiene el privilegio de liderar uno de los ejércitos del emperador. La mayoría de los zombis tienden a estar de acuerdo en que algo simplemente no cuadra.
+{FLAVOR}Jugar con fuego nunca fue un problema para Niño Rojo. El verdadero problema es que también disfruta jugando con sus enemigos.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION_HEADER]
 Camina por el patio mientras incinera plantas en su camino.
@@ -79930,7 +79923,7 @@ Camina por el patio mientras incinera plantas en su camino.
 Zombidito dinamita
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION]
-"Diles a esos amantes de la pirotécnia que no sólo la pólvora viene de aquí, ¡también el acto de volar cosas en pedazos!"
+{FLAVOR}"Diles a esos amantes de la pirotécnia que no sólo la pólvora viene de aquí, ¡también el acto de volar cosas en pedazos!"
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION_HEADER]
 Un zombi demasiado frenético. Detona la bomba que lleva encima, infligiendo daño letal a tus plantas.
@@ -79941,7 +79934,7 @@ Zombi yaksha
 [ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}lanza sus tridentes a plantas desde la distancia
 
-{FLAVOR}Como los principales soldados del Rey Dragón, es un estatus que mantener en el mundo acuático. Pero algo parece un poco sospechoso recientemente, su gobernante ya no quiere que ninguno de ellos lo vea, y solo habla detrás de cortinas. Algunos han intentado descubrirlo por sí mismos, pero tan pronto como lo intentan, dejan de aparecer en las marchas del dragón para siempre...
+{FLAVOR}Servir al Rey Dragón siempre fue un honor para los Yaksha. Últimamente, sin embargo, su señor solo habla oculto tras unas cortinas. Quienes intentaron descubrir el motivo desaparecieron sin dejar rastro.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION_HEADER]
 Los Zombis yaksha lanzan sus tridentes místicos a gran distancia.
@@ -79965,7 +79958,7 @@ Zombi shaolin
 Shaolin caracono
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1_DESCRIPTION]
-¿Por qué un Zombi shaolin necesitaría usar un cono como protección? La respuesta es que se ve más de moda.
+{FLAVOR}¿Por qué un Zombi shaolin necesitaría usar un cono como protección? La respuesta es que se ve más de moda.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR1_DESCRIPTION_HEADER]
 Su cono le otorga el doble de dureza que los zombis shaolin normales.
@@ -79974,13 +79967,13 @@ Su cono le otorga el doble de dureza que los zombis shaolin normales.
 Shaolin caracubo
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2_DESCRIPTION]
-Además de la estética y propósitos defensivos, usa su cubo para realizar acrobacias en los espectáculos de qigong.
+{FLAVOR}Además de la estética y propósitos defensivos, usa su cubo para realizar acrobacias en los espectáculos de qigong.
 
 [ZOMBIE_KONGFU_BASIC_ARMOR2_DESCRIPTION_HEADER]
 Su cubo de hierro le brinda una gran protección contra daños.
 
 [ZOMBIE_KONGFU_BASIC_DESCRIPTION]
-No subestimes a estos zombis. Han estado aprendiendo Kung Fu durante muchos años (en realidad olvidaron todo después de convertirse en zombis).
+{FLAVOR}No subestimes a estos zombis. Han estado aprendiendo Kung Fu durante muchos años (en realidad olvidaron todo después de convertirse en zombis).
 
 [ZOMBIE_KONGFU_BASIC_DESCRIPTION_HEADER]
 Zombi praticante de Kung Fu.
@@ -80000,7 +79993,7 @@ Su botella contiene la clave para un Kung Fu rápido, aunque nada refinado.
 Zombi shaolin abanderado
 
 [ZOMBIE_KONGFU_FLAG_DESCRIPTION]
-Es un líder natural, por lo que no necesita usar el Kung Fu, solo la bandera.
+{FLAVOR}Es un líder natural, por lo que no necesita usar el Kung Fu, solo la bandera.
 
 [ZOMBIE_KONGFU_FLAG_DESCRIPTION_HEADER]
 Un shaolin sosteniendo una bandera, generalmente significa que vienen muchos zombis.
@@ -80043,7 +80036,7 @@ Zombi practicante de Qigong. Sus habilidades son tan descomunales como su tamañ
 Zombi monje shaolin
 
 [ZOMBIE_KONGFU_MONK_BASIC_DESCRIPTION]
-Estar de pie, arrodillarse, meditar y comer cerebros. Todas esas constituyen las tareas diarias de los monjes shaolin.
+{FLAVOR}Estar de pie, arrodillarse, meditar y comer cerebros. Todas esas constituyen las tareas diarias de los monjes shaolin.
 
 [ZOMBIE_KONGFU_MONK_BASIC_DESCRIPTION_HEADER]
 Un zombi con años de experiencia en las artes marciales.
@@ -80063,7 +80056,7 @@ Zombi con una poderosa espada en mano.
 Monje shaolin caracubo
 
 [ZOMBIE_KONGFU_MONK_BUCKET_DESCRIPTION]
-Además de las artes marciales zombi, también es responsable de confeccionar cubos de hierro para el templo.
+{FLAVOR}Además de las artes marciales zombi, también es responsable de confeccionar cubos de hierro para el templo.
 
 [ZOMBIE_KONGFU_MONK_BUCKET_DESCRIPTION_HEADER]
 Su tetera de hierro le otorga una gran protección contra el daño.
@@ -80072,7 +80065,7 @@ Su tetera de hierro le otorga una gran protección contra el daño.
 Monje shaolin caracono
 
 [ZOMBIE_KONGFU_MONK_CONE_DESCRIPTION]
-No todos los monjes alcanzan la iluminación, algunos alcanzan un cono de tráfico y deciden que eso también sirve. Aunque siendo honestos, ¿había problemas de tráfico en la antigua China?
+{FLAVOR}No todos los monjes alcanzan la iluminación, algunos alcanzan un cono de tráfico y deciden que eso también sirve. Aunque siendo honestos, ¿había problemas de tráfico en la antigua China?
 
 [ZOMBIE_KONGFU_MONK_CONE_DESCRIPTION_HEADER]
 Su cono le otorga el doble de dureza que el monje shaolin común.
@@ -80092,7 +80085,7 @@ Tras beber, entra en un estado monstruoso, donde su agilidad y fuerza parecen no
 Monje shaolin abanderado
 
 [ZOMBIE_KONGFU_MONK_FLAG_DESCRIPTION]
-Era el responsable de la ceremonia de izado de banderas en el templo antes de convertirse en zombi.
+{FLAVOR}Era el responsable de la ceremonia de izado de banderas en el templo antes de convertirse en zombi.
 
 [ZOMBIE_KONGFU_MONK_FLAG_DESCRIPTION_HEADER]
 Agita la bandera, lo que indica una gran ola de monjes shaolin.
@@ -80148,13 +80141,13 @@ Utiliza sus fuerzas internas para arrastrar una fila entera de plantas.
 Zombidito tigre
 
 [ZOMBIE_KONGFU_ROCKET_DESCRIPTION]
-Ágil como un halcón en los cielos, rápido como tigre en la tierra.
+{FLAVOR}Ágil como un halcón en los cielos, rápido como tigre en la tierra.
 
 [ZOMBIE_KONGFU_ROCKET_DESCRIPTION_HEADER]
 Sobrevuela tus defensas si no deslizas tus dedos rápidamente sobre él.
 
 [ZOMBIE_KONGFU_SELFEXPLODE]
-Zombi bombardero
+Zombi con bomba
 
 [ZOMBIE_KONGFU_SELFEXPLODE_DESCRIPTION]
 {KEYWORD}Daño: {STAT}detona su bomba al contacto, destruyendo plantas alrededor
@@ -80265,7 +80258,7 @@ Zombi espadachín del mar
 [ZOMBIE_LANTERNFISH_RIDER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}suelta al pez espada para bloquear ataques
 
-{FLAVOR}Su sueño es hacer una fiesta de piscina en el fondo del mar, sin embargo, esto se ha convertido en un gran problema.
+{FLAVOR}La única criatura más peligrosa que un pez espada... es un zombi convencido de que sabe montarlo.
 
 [ZOMBIE_LANTERNFISH_RIDER_DESCRIPTION_HEADER]
 Hace grandes daños a tu submarino cuando impacta con él.
@@ -80274,7 +80267,7 @@ Hace grandes daños a tu submarino cuando impacta con él.
 Leprechaun jinete de dodo
 
 [ZOMBIE_LEPRACHAUN_DODO_DESCRIPTION]
-Va a todos lados con su dodo de la suerte para encontrar riquezas en el camino.
+{FLAVOR}Va a todos lados con su dodo de la suerte para encontrar riquezas en el camino.
 
 [ZOMBIE_LEPRACHAUN_DODO_DESCRIPTION_HEADER]
 Un dodo con un Zombidito duende. Con su batir de alas, el dodo puede saltar barricadas y algunas plantas molestas.
@@ -80283,7 +80276,7 @@ Un dodo con un Zombidito duende. Con su batir de alas, el dodo puede saltar barr
 Zombidito leprechaun
 
 [ZOMBIE_LEPRACHAUN_IMP_DESCRIPTION]
-Siempre que aparece un arcoiris está listo para saquear la olla de monedas de oro que se encuenta al final.
+{FLAVOR}Siempre que aparece un arcoiris está listo para saquear la olla de monedas de oro que se encuenta al final.
 
 [ZOMBIE_LEPRACHAUN_IMP_DESCRIPTION_HEADER]
 Un zombi pequeño lleno de suerte y riquezas.
@@ -80324,7 +80317,7 @@ Zombi lunar
 Caracono lunar
 
 [ZOMBIE_LNY_ARMOR1_DESCRIPTION]
-Aún recuerda aquel feliz día en el cual se ganó una fortuna: aquel cono hecho de lingotes de oro que lleva en su cabeza.
+{FLAVOR}Aún recuerda aquel feliz día en el cual se ganó una fortuna: aquel cono hecho de lingotes de oro que lleva en su cabeza.
 
 [ZOMBIE_LNY_ARMOR1_DESCRIPTION_HEADER]
 Su cono de lingotes lo hace dos veces más resistente que el Zombi lunar básico.
@@ -80333,7 +80326,7 @@ Su cono de lingotes lo hace dos veces más resistente que el Zombi lunar básico
 Caracubo lunar
 
 [ZOMBIE_LNY_ARMOR2_DESCRIPTION]
-Marca las doce campanadas cada víspera de Año Nuevo. Cuando un guisante impacta su cabeza, anuncia el inicio del festejo lunar.
+{FLAVOR}Marca las doce campanadas cada víspera de Año Nuevo. Cuando un guisante impacta su cabeza, anuncia el inicio del festejo lunar.
 
 [ZOMBIE_LNY_ARMOR2_DESCRIPTION_HEADER]
 Su cubo con campanas de oro lo hace tres veces más resistente que el Zombi lunar básico.
@@ -80350,7 +80343,7 @@ Zombi dragón chino
 Sigue los pasos de otros zombis llevando un dragón festivo a la celebración.
 
 [ZOMBIE_LNY_DESCRIPTION]
-Cada Año Nuevo promete comer menos cerebros. Nunca dura mucho.
+{FLAVOR}Cada Año Nuevo promete comer menos cerebros. Nunca dura mucho.
 
 [ZOMBIE_LNY_DESCRIPTION_HEADER]
 Zombi que celebra el festival lunar.
@@ -80359,7 +80352,7 @@ Zombi que celebra el festival lunar.
 Zombi abanderado lunar
 
 [ZOMBIE_LNY_FLAG_DESCRIPTION]
-Ensayó todo el año para este desfile.
+{FLAVOR}Ensayó todo el año para este desfile.
 
 [ZOMBIE_LNY_FLAG_DESCRIPTION_HEADER]
 Su bandera anuncia el festejo de muchos zombis de Año Nuevo.
@@ -80368,7 +80361,7 @@ Su bandera anuncia el festejo de muchos zombis de Año Nuevo.
 Zombidito lunar
 
 [ZOMBIE_LNY_IMP_DESCRIPTION]
-Le advirtieron que dejara los petardos. Técnicamente, sí los dejó.
+{FLAVOR}Le advirtieron que dejara los petardos. Técnicamente, sí los dejó.
 
 [ZOMBIE_LNY_IMP_DESCRIPTION_HEADER]
 Un pequeño entusiasta de la pirotecnia, su frenesí lo hará explotar por los aires.
@@ -80380,7 +80373,7 @@ Zombi aventurero
 Zombi aventurero caracono
 
 [ZOMBIE_LOSTCITY_ARMOR1_DESCRIPTION]
-Nadie supone que es el Dr. Nolivingstone. Le gustaría que al menos una vez alguien lo hiciera.
+{FLAVOR}Nadie supone que es el Dr. Nolivingstone. Le gustaría que al menos una vez alguien lo hiciera.
 
 [ZOMBIE_LOSTCITY_ARMOR1_DESCRIPTION_HEADER]
 Su cono de expedición le da el doble de dureza que el aventurero común.
@@ -80389,7 +80382,7 @@ Su cono de expedición le da el doble de dureza que el aventurero común.
 Zombi aventurero caracubo
 
 [ZOMBIE_LOSTCITY_ARMOR2_DESCRIPTION]
-El mayor descubrimiento de Zombi aventurero caracubo fue que una mañana, sin comerlo ni beberlo, se despertó con un cubo en la cabeza.
+{FLAVOR}El mayor descubrimiento de Zombi aventurero caracubo fue que una mañana, sin comerlo ni beberlo, se despertó con un cubo en la cabeza.
 
 [ZOMBIE_LOSTCITY_ARMOR2_DESCRIPTION_HEADER]
 Su cubo tosco le proporciona una gran protección contra el daño.
@@ -80420,7 +80413,7 @@ Zombicho caracubo
 Bicho lleva a Zombicho caracubo por encima de las defensas terrestres y lo eleva sobre las barreras.
 
 [ZOMBIE_LOSTCITY_BUG_DESCRIPTION]
-Zombicho y Bicho hacen un gran equipo, en parte porque Bicho le da mucha movilidad a Zombicho, pero sobre todo porque a los dos no les interesan nada los caballos.
+{FLAVOR}Zombicho y Bicho hacen un gran equipo, en parte porque Bicho le da mucha movilidad a Zombicho, pero sobre todo porque a los dos no les interesan nada los caballos.
 
 [ZOMBIE_LOSTCITY_BUG_DESCRIPTION_HEADER]
 Bicho lleva a Zombicho por encima de las defensas terrestres y lo eleva sobre las barreras.
@@ -80429,13 +80422,13 @@ Bicho lleva a Zombicho por encima de las defensas terrestres y lo eleva sobre la
 Zombi calavera turquesa
 
 [ZOMBIE_LOSTCITY_CRYSTALSKULL_DESCRIPTION]
-Al contrario que las famosas calaveras de cristal, las calaveras turquesas no son nada misteriosas y son tan comunes como la tierra.
+{FLAVOR}Al contrario que las famosas calaveras de cristal, las calaveras turquesas no son nada misteriosas y son tan comunes como la tierra.
 
 [ZOMBIE_LOSTCITY_CRYSTALSKULL_DESCRIPTION_HEADER]
 Usa la calavera para robar sol y después desata energía en forma de rayo destructor.
 
 [ZOMBIE_LOSTCITY_DESCRIPTION]
-Zombi aventurero solo buscaba dar un buen espectáculo y de algún modo llegó a la Ciudad perdida. "Mmm. Sí. Absolutamente". Es todo lo que dijo sobre el asunto.
+{FLAVOR}Zombi aventurero solo buscaba dar un buen espectáculo y de algún modo llegó a la Ciudad perdida. "Mmm. Sí. Absolutamente". Es todo lo que dijo sobre el asunto.
 
 [ZOMBIE_LOSTCITY_DESCRIPTION_HEADER]
 Zombi común con un bigote bien arreglado.
@@ -80444,7 +80437,7 @@ Zombi común con un bigote bien arreglado.
 Zombi doctor perdido
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION]
-En vida soñaba con amar sin fronteras y curar a los muertos. Tras convertirse en zombi, finalmente logró ambas cosas.
+{FLAVOR}En vida soñaba con amar sin fronteras y curar a los muertos. Tras convertirse en zombi, finalmente logró ambas cosas.
 
 [ZOMBIE_LOSTCITY_DOCTOR_DESCRIPTION_HEADER]
 Arroja jeringas para acelerar zombis o reducir la velocidad de ataque de tus plantas.
@@ -80464,7 +80457,7 @@ Cava plantas y las lanza detrás de él.
 Zombi abanderado aventurero
 
 [ZOMBIE_LOSTCITY_FLAG_DESCRIPTION]
-Zombi abanderado aventurero siempre grita "¡A por ellos!" cuando lidera la carga. Al menos lo hace en su cabeza.
+{FLAVOR}Zombi abanderado aventurero siempre grita "¡A por ellos!" cuando lidera la carga. Al menos lo hace en su cabeza.
 
 [ZOMBIE_LOSTCITY_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una intrépida "oleada" de zombis.
@@ -80498,13 +80491,13 @@ Zombidito de la Ciudad perdida
 Zombidito porteador
 
 [ZOMBIE_LOSTCITY_IMPPORTER_DESCRIPTION]
-Zombidito porteador es más fuerte de lo que parece. Además tiene más encanto, inteligencia y educación.
+{FLAVOR}Zombidito porteador es más fuerte de lo que parece. Además tiene más encanto, inteligencia y educación.
 
 [ZOMBIE_LOSTCITY_IMPPORTER_DESCRIPTION_HEADER]
 Suelta una mochila en una casilla de oro. La mochila se convierte en una tienda de donde salen zombis.
 
 [ZOMBIE_LOSTCITY_IMP_DESCRIPTION]
-El nepotismo llevó a Zombidito de la Ciudad perdida allá donde está. Es el primo segundo de tercera generación de Zombicho, pero se jugó su conexión para llegar a su puesto: ser transportado en una cajita.
+{FLAVOR}El nepotismo llevó a Zombidito de la Ciudad perdida allá donde está. Es el primo segundo de tercera generación de Zombicho, pero se jugó su conexión para llegar a su puesto: ser transportado en una cajita.
 
 [ZOMBIE_LOSTCITY_IMP_DESCRIPTION_HEADER]
 Es lanzado por encima de la mayoría de las defensas y después explora a pie.
@@ -80513,7 +80506,7 @@ Es lanzado por encima de la mayoría de las defensas y después explora a pie.
 Zombi parasol
 
 [ZOMBIE_LOSTCITY_JANE_DESCRIPTION]
-Gracias a su inmensa riqueza, Zombi parasol vivió una vida llena de lujos, cuando lo que quería era una vida llena de aventura. Financió la expedición a la Ciudad perdida y se dirigió a ver las maravillas ella misma, sin olvidarse de su fiable parasol. "Por si algo celebro", explicó. Pero solo se oyó algo parecido a "cerebro".
+{FLAVOR}Gracias a su inmensa riqueza, Zombi parasol vivió una vida llena de lujos, cuando lo que quería era una vida llena de aventura. Financió la expedición a la Ciudad perdida y se dirigió a ver las maravillas ella misma, sin olvidarse de su fiable parasol. "Por si algo celebro", explicó. Pero solo se oyó algo parecido a "cerebro".
 
 [ZOMBIE_LOSTCITY_JANE_DESCRIPTION_HEADER]
 El parasol le da protección contra los proyectiles aéreos.
@@ -80522,7 +80515,7 @@ El parasol le da protección contra los proyectiles aéreos.
 Zombi piloto perdido
 
 [ZOMBIE_LOSTCITY_LOSTPILOT_DESCRIPTION]
-Usó un carnet falso de piloto pensando en que nadie se daría cuenta. Pero lo hicieron.
+{FLAVOR}Usó un carnet falso de piloto pensando en que nadie se daría cuenta. Pero lo hicieron.
 
 [ZOMBIE_LOSTCITY_LOSTPILOT_DESCRIPTION_HEADER]
 Aterriza tras las defensas.
@@ -80531,7 +80524,7 @@ Aterriza tras las defensas.
 Zombi cazador de reliquias
 
 [ZOMBIE_LOSTCITY_RELICHUNTER_DESCRIPTION]
-Cazador de reliquias encontró algunas reliquias alucinantes cuando estaba en activo. Ídolos, antigüedades, curiosidades... Cazó de todo.
+{FLAVOR}Cazador de reliquias encontró algunas reliquias alucinantes cuando estaba en activo. Ídolos, antigüedades, curiosidades... Cazó de todo.
 
 [ZOMBIE_LOSTCITY_RELICHUNTER_DESCRIPTION_HEADER]
 Atraviesa defensas balanceándose.
@@ -80540,7 +80533,7 @@ Atraviesa defensas balanceándose.
 Zombi shèshou
 
 [ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION]
-Su puntería es mala y aún así fue reclutado, pero no lo culpen, es que sufre de estrabismo.
+{FLAVOR}Su puntería es mala y aún así fue reclutado, pero no lo culpen, es que sufre de estrabismo.
 
 [ZOMBIE_MAUSOLEUM_ARCHER_DESCRIPTION_HEADER]
 Tirador del ejército Qin, apunta con su arco y flecha a la planta más cercana de su fila.
@@ -80563,7 +80556,7 @@ Lanza proyectiles espectrales para ralentizar a las plantas alcanzadas.
 Bing caracuenco
 
 [ZOMBIE_MAUSOLEUM_ARMOR1_DESCRIPTION]
-Pasó de servir té en la corte a servir miedo en las calles.
+{FLAVOR}Pasó de servir té en la corte a servir miedo en las calles.
 
 [ZOMBIE_MAUSOLEUM_ARMOR1_DESCRIPTION_HEADER]
 Su cuenco lo hace dos veces más resistente que el Zombi bing básico.
@@ -80586,7 +80579,7 @@ Su cuenco lo hace dos veces más resistente que el Soldado del inframundo.
 Bing con casco
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION]
-Los bing usan el casco de hierro para cargar agua. Nadie sabe por qué, pero claramente no es por tener más cerebro.
+{FLAVOR}Los bing usan el casco de hierro para cargar agua. Nadie sabe por qué, pero claramente no es por tener más cerebro.
 
 [ZOMBIE_MAUSOLEUM_ARMOR2_DESCRIPTION_HEADER]
 Su casco de infantería lo hace tres veces más resistente que el Zombi bing básico.
@@ -80609,7 +80602,7 @@ Su casco de infantería lo hace tres veces más resistente que el Soldado del in
 Zombi bing
 
 [ZOMBIE_MAUSOLEUM_BASIC_DESCRIPTION]
-Aún cree que su condena es temporal. Doce años más, según los arqueólogos. La muerte no le avisó lo contrario.
+{FLAVOR}Aún cree que su condena es temporal. Doce años más, según los arqueólogos. La muerte no le avisó lo contrario.
 
 [ZOMBIE_MAUSOLEUM_BASIC_DESCRIPTION_HEADER]
 Zombi básico del Imperio Qin.
@@ -80643,7 +80636,7 @@ Soldado de caballería del ejército Qin, se mece sobre su caballo de madera com
 Zombi bebedor
 
 [ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION]
-No está ebrio, solo... estratégicamente desorientado.
+{FLAVOR}No está ebrio, solo... estratégicamente desorientado.
 
 [ZOMBIE_MAUSOLEUM_DRUNKARD_DESCRIPTION_HEADER]
 Cambia de línea tras beber, rocía a las plantas cercanas con alcohol para embriagarlas.
@@ -80666,7 +80659,7 @@ Forma etérea del Zombi bebedor. Tras desplazarse, lanza una llamarada que destr
 Zombi bing abanderado
 
 [ZOMBIE_MAUSOLEUM_FLAG_DESCRIPTION]
-Corta madera para armas, levanta postes como estandartes y corre como un loco hacia... tu cerebro.
+{FLAVOR}Corta madera para armas, levanta postes como estandartes y corre como un loco hacia... tu cerebro.
 
 [ZOMBIE_MAUSOLEUM_FLAG_DESCRIPTION_HEADER]
 Su bandera anuncia la gran llegada de soldados del Imperio Qin.
@@ -80701,7 +80694,7 @@ Forma etérea del Zombistein jiangjun.
 Zombidito xiaowei
 
 [ZOMBIE_MAUSOLEUM_IMP_DESCRIPTION]
-Se ganó una posición privilegiada en el ejército, y todo gracias a la estética del palacio subterráneo. Sin dudas es muy buen arquitecto.
+{FLAVOR}Se ganó una posición privilegiada en el ejército, y todo gracias a la estética del palacio subterráneo. Sin dudas es muy buen arquitecto.
 
 [ZOMBIE_MAUSOLEUM_IMP_DESCRIPTION_HEADER]
 Oficial menor del ejército Qin. Es lanzado por encima de tus defensas para sortearlas.
@@ -80710,7 +80703,7 @@ Oficial menor del ejército Qin. Es lanzado por encima de tus defensas para sort
 Lechón zombi
 
 [ZOMBIE_MAUSOLEUM_PIGGY_DESCRIPTION]
-¡Oink, oink!
+{FLAVOR}¡Oink, oink!
 
 [ZOMBIE_MAUSOLEUM_PIGGY_DESCRIPTION_HEADER]
 Se mueve a toda velocidad una vez es liberado.
@@ -80730,7 +80723,7 @@ Un vendedor ambulante que atraviesa trincheras con una carreta llena de lechones
 Zombi robocono
 
 [ZOMBIE_MECH_CONE_DESCRIPTION]
-Los Ingenieros zombi consideraban al cono naranja la cumbre de la tecnología de protección de zombis. Hasta que no perfeccionaron el robocono, nadie se acordó del cubo.
+{FLAVOR}Los Ingenieros zombi consideraban al cono naranja la cumbre de la tecnología de protección de zombis. Hasta que no perfeccionaron el robocono, nadie se acordó del cubo.
 
 [ZOMBIE_MECH_CONE_DESCRIPTION_HEADER]
 El cono blindado ofrece una protección fenomenal al portador.
@@ -80751,7 +80744,9 @@ La reina maléfica de un cuento de hadas.
 Zombi All-Star
 
 [ZOMBIE_MODERN_ALLSTAR_DESCRIPTION]
-Zombi All-Star fue elegido en tercera ronda del draft y es muy prometedor, pero el sueldo que pide es absurdo. ¿Diez millones de cerebros al año? ¿DURANTE CINCUENTA AÑOS?
+{KEYWORD}Debilidad: {STAT}Apisonaflor
+
+{FLAVOR}Zombi All-Star fue elegido en tercera ronda del draft y es muy prometedor, pero el sueldo que pide es absurdo. ¿Diez millones de cerebros al año? ¿DURANTE CINCUENTA AÑOS?
 
 [ZOMBIE_MODERN_ALLSTAR_DESCRIPTION_HEADER]
 Un zombi pesado que se encarga de tu línea defensiva.
@@ -80760,7 +80755,9 @@ Un zombi pesado que se encarga de tu línea defensiva.
 Zombi con globo
 
 [ZOMBIE_MODERN_BALLOON_DESCRIPTION]
-Zombi con globo no tiene ni idea de dónde viene el globo, pero va con él y tiene ganas de ver adónde le lleva.
+{KEYWORD}Debilidad: {STAT}Trebolador
+
+{FLAVOR}Zombi con globo no tiene ni idea de dónde viene el globo, pero va con él y tiene ganas de ver adónde le lleva.
 
 [ZOMBIE_MODERN_BALLOON_DESCRIPTION_HEADER]
 El globo transporta zombis por encima de barreras y defensas terrestres.
@@ -80781,7 +80778,7 @@ Zombi minero excava un túnel y aparece en la parte izquierda del jardín. Usa p
 Zombi lector
 
 [ZOMBIE_MODERN_NEWSPAPER_DESCRIPTION]
-No puedes culparle de que esté tan enfadado; estaba MUY cerca de terminar el crucigrama (23 abajo era "cerebros").
+{FLAVOR}No puedes culparle de que esté tan enfadado; estaba MUY cerca de terminar el crucigrama (23 abajo era "cerebros").
 
 [ZOMBIE_MODERN_NEWSPAPER_DESCRIPTION_HEADER]
 El periódico protege al zombi, que se enfada cuando lo destruyen.
@@ -80801,7 +80798,7 @@ Roba soles a las plantas que tenga cerca y los usa para empujarlas hacia la izqu
 Zombidito superfan
 
 [ZOMBIE_MODERN_SUPERFANIMP_DESCRIPTION]
-Zombidito superfan tiene un abono de temporada, está suscrito al boletín del equipo y tiene muchas ganas de explotar al entrar en contacto con fans del equipo rival.
+{FLAVOR}Zombidito superfan tiene un abono de temporada, está suscrito al boletín del equipo y tiene muchas ganas de explotar al entrar en contacto con fans del equipo rival.
 
 [ZOMBIE_MODERN_SUPERFANIMP_DESCRIPTION_HEADER]
 Un Zombidito muy entusiasmado que explota con un fervor lleno de ánimos.
@@ -80813,7 +80810,7 @@ Zombi momia
 Momia caracono
 
 [ZOMBIE_MUMMY_ARMOR1_DESCRIPTION]
-Zombi momia caracono prefiere la forma circular del cono a la típica forma piramidal. Es por moda y Zombi momia caracono siempre marca tendencias.
+{FLAVOR}Zombi momia caracono prefiere la forma circular del cono a la típica forma piramidal. Es por moda y Zombi momia caracono siempre marca tendencias.
 
 [ZOMBIE_MUMMY_ARMOR1_DESCRIPTION_HEADER]
 Su tocado de cono con cobra le da el doble de dureza que la Momia común.
@@ -80822,13 +80819,13 @@ Su tocado de cono con cobra le da el doble de dureza que la Momia común.
 Momia caracubo
 
 [ZOMBIE_MUMMY_ARMOR2_DESCRIPTION]
-El Zombi momia caracubo obtuvo la matrícula de honor de la academia zombi cuando aprendió a utilizar su diafragma durante las lecciones de gruñidos.
+{FLAVOR}El Zombi momia caracubo obtuvo la matrícula de honor de la academia zombi cuando aprendió a utilizar su diafragma durante las lecciones de gruñidos.
 
 [ZOMBIE_MUMMY_ARMOR2_DESCRIPTION_HEADER]
 Su cubo arenoso le da una gran protección contra el daño.
 
 [ZOMBIE_MUMMY_DESCRIPTION]
-¿Es una momia? ¿Es un zombi? En realidad es un zombi que se envolvió en papel higiénico para proteger su piel. ¡Lo digo en serio!
+{FLAVOR}¿Es una momia? ¿Es un zombi? En realidad es un zombi que se envolvió en papel higiénico para proteger su piel. ¡Lo digo en serio!
 
 [ZOMBIE_MUMMY_DESCRIPTION_HEADER]
 Zombi común momificado.
@@ -80837,7 +80834,7 @@ Zombi común momificado.
 Zombi abanderado momia
 
 [ZOMBIE_MUMMY_FLAG_DESCRIPTION]
-Zombi abanderado momia va tan atrás que piensa que va en primer lugar. Lo que pasa de verdad, "Nilo" imagina.
+{FLAVOR}Zombi abanderado momia va tan atrás que piensa que va en primer lugar. Lo que pasa de verdad, "Nilo" imagina.
 
 [ZOMBIE_MUMMY_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme y arenosa "oleada" de zombis.
@@ -80849,7 +80846,7 @@ Zombi de carreras
 Caracono de carreras
 
 [ZOMBIE_NEEDFORSPEED_ARMOR1_DESCRIPTION]
-Salió a la competencia de carreras y vio un cono tirado en la carretera. Se lo probó y desde entonces no se lo quita por nada del mundo.
+{FLAVOR}Salió a la competencia de carreras y vio un cono tirado en la carretera. Se lo probó y desde entonces no se lo quita por nada del mundo.
 
 [ZOMBIE_NEEDFORSPEED_ARMOR1_DESCRIPTION_HEADER]
 Su cono le brinda el doble de salud que el Zombi básico de carreras.
@@ -80858,13 +80855,13 @@ Su cono le brinda el doble de salud que el Zombi básico de carreras.
 Caracubo de carreras
 
 [ZOMBIE_NEEDFORSPEED_ARMOR2_DESCRIPTION]
-Las carreras requieren un casco como medida de seguridad, y este zombi parece cumplir la ley, solo que es un cubo lo que lleva puesto.
+{FLAVOR}Las carreras requieren un casco como medida de seguridad, y este zombi parece cumplir la ley, solo que es un cubo lo que lleva puesto.
 
 [ZOMBIE_NEEDFORSPEED_ARMOR2_DESCRIPTION_HEADER]
 Su cubo le brinda el triple de salud que el Zombi básico de carreras.
 
 [ZOMBIE_NEEDFORSPEED_DESCRIPTION]
-Se siente más veloz con su traje de carreras puesto, por eso nunca lo verás sin él.
+{FLAVOR}Se siente más veloz con su traje de carreras puesto, por eso nunca lo verás sin él.
 
 [ZOMBIE_NEEDFORSPEED_DESCRIPTION_HEADER]
 Zombi básico con un traje de carreras.
@@ -80873,7 +80870,7 @@ Zombi básico con un traje de carreras.
 Zombi con veleta
 
 [ZOMBIE_NEEDFORSPEED_FLAG_DESCRIPTION]
-Siempre soñó con ser el más rápido en la pista, aunque correr con un pie descompuesto y un casco abollado no lo ayuda mucho. Ahora agita su veleta para liderar a su pandilla de corredores zombi hacia la línea de meta o hacia el bufet de cerebros más cercano. ¿Quién necesita un auto cuando tienes instinto?
+{FLAVOR}Siempre soñó con ser el más rápido en la pista, aunque correr con un pie descompuesto y un casco abollado no lo ayuda mucho. Ahora agita su veleta para liderar a su pandilla de corredores zombi hacia la línea de meta o hacia el bufet de cerebros más cercano. ¿Quién necesita un auto cuando tienes instinto?
 
 [ZOMBIE_NEEDFORSPEED_FLAG_DESCRIPTION_HEADER]
 Anuncia la llegada de muchos conductores zombi con su veleta.
@@ -80885,7 +80882,7 @@ Zombistein de carreras
 {KEYWORD}Daño: {STAT}aplasta plantas con su señal de tránsito
 {KEYWORD}Especial: {STAT}lanza al Zombidito de carreras cuando sufre daño
 
-{FLAVOR}Los camiones monstruo le quedan como anillo al dedo debido a su tamaño colosal.
+{FLAVOR}Los camiones monstruo le quedan como anillo al dedo.
 
 [ZOMBIE_NEEDFORSPEED_GARGANTUAR_DESCRIPTION_HEADER]
 Un zombi tan enorme como su pasión por las carreras de autos.
@@ -80894,7 +80891,7 @@ Un zombi tan enorme como su pasión por las carreras de autos.
 Zombidito de carreras
 
 [ZOMBIE_NEEDFORSPEED_IMP_DESCRIPTION]
-Su capucha y estilo callejero lo hacen ver cool, no es de extrañarse que sea el centro de atención de todos en las carreras.
+{FLAVOR}Su capucha y estilo callejero lo hacen ver cool, no es de extrañarse que sea el centro de atención de todos en las carreras.
 
 [ZOMBIE_NEEDFORSPEED_IMP_DESCRIPTION_HEADER]
 Zombi pequeño con un aspecto genial y una velocidad envidiable.
@@ -80903,16 +80900,16 @@ Zombi pequeño con un aspecto genial y una velocidad envidiable.
 Zombi con cajita
 
 [ZOMBIE_NEUROPATHY_DESCRIPTION]
-Tiembla pero no porque tiene frío, sino porque está loco.
+{FLAVOR}Tiembla pero no porque tiene frío, sino porque está loco.
 
 [ZOMBIE_NEUROPATHY_DESCRIPTION_HEADER]
-Este zombi trae una sorpresa explosiva.
+Este zombi trae una sorpresa explosiva para ti.
 
 [ZOMBIE_NEWSPAPER_VETERAN]
 Zombi dominical
 
 [ZOMBIE_NEWSPAPER_VETERAN_DESCRIPTION]
-A Zombi dominical le gustan MUCHO las tiras cómicas, por eso su rabia es tan devastadora cuando la hacen trizas antes de terminar su lectura.
+{FLAVOR}A Zombi dominical le gustan MUCHO las tiras cómicas, por eso su rabia es tan devastadora cuando la hacen trizas antes de terminar su lectura.
 
 [ZOMBIE_NEWSPAPER_VETERAN_DESCRIPTION_HEADER]
 El periódico protege al zombi, que se enfada cuando lo destruyen.
@@ -81170,7 +81167,7 @@ Zombi Qigong
 Arrastra una fila de plantas usando el Qigong
 
 [ZOMBIE_NEW_PVP_KONGFU_SELFEXPLODE]
-Zombi bombardero
+Zombi con bomba
 
 [ZOMBIE_NEW_PVP_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
 Detona su bomba, dañando a las plantas cercanas
@@ -81402,7 +81399,7 @@ Zombi guardia
 Guardia caracono
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION]
-Pasaba junto a un edificio cuando de repente le cayó un cono lleno de pintura. Por desgracia su uniforme recién comprado se ensució y ¡tuvo que ir a trabajar con un festival de colores! El lado positivo es que el cono lo protege donde sea que vaya.
+{FLAVOR}Pasaba junto a un edificio cuando de repente le cayó un cono lleno de pintura. Por desgracia su uniforme recién comprado se ensució y ¡tuvo que ir a trabajar con un festival de colores! El lado positivo es que el cono lo protege donde sea que vaya.
 
 [ZOMBIE_PARKOUR_ARMOR1_DESCRIPTION_HEADER]
 Su cono le otorga el doble de dureza que el guardia común.
@@ -81411,13 +81408,13 @@ Su cono le otorga el doble de dureza que el guardia común.
 Guardia caracubo
 
 [ZOMBIE_PARKOUR_ARMOR2_DESCRIPTION]
-¿Quién diría que usar un cubo serviría como equipo de seguridad? ¡Él, desde luego!
+{FLAVOR}¿Quién diría que usar un cubo serviría como equipo de seguridad? ¡Él, desde luego!
 
 [ZOMBIE_PARKOUR_ARMOR2_DESCRIPTION_HEADER]
 Su cubo le otorga el triple de dureza que el guardia común.
 
 [ZOMBIE_PARKOUR_DESCRIPTION]
-Con ese traje puesto deja de ser ordinario y consigue el protagonismo que tanto añora.
+{FLAVOR}Con ese traje puesto deja de ser ordinario y consigue el protagonismo que tanto añora.
 
 [ZOMBIE_PARKOUR_DESCRIPTION_HEADER]
 Zombi básico de la Fiesta de parkour.
@@ -81426,7 +81423,7 @@ Zombi básico de la Fiesta de parkour.
 Guardia abanderado zombi
 
 [ZOMBIE_PARKOUR_FLAG_DESCRIPTION]
-Alzó la bandera en alto con un objetivo en mente: derrotar a las plantas y devorar cerebros. Espera, ¿no es él el guardia que pone todo en orden?
+{FLAVOR}Alzó la bandera en alto con un objetivo en mente: destruir plantas y devorar cerebros. Espera, ¿no es él el guardia que pone todo en orden?
 
 [ZOMBIE_PARKOUR_FLAG_DESCRIPTION_HEADER]
 Hondea una bandera para avisar una gran oleada de guardias de seguridad zombi.
@@ -81447,7 +81444,7 @@ Un zombi grande que aplica la ley en las estaciones del metro.
 Zombidito perro
 
 [ZOMBIE_PARKOUR_IMP_DESCRIPTION]
-Las malas lenguas dicen que lo contrataron como perro porque no había ninguno real disponible. Al menos, tiene buen olfato.
+{FLAVOR}Las malas lenguas dicen que lo contrataron como perro porque no había ninguno real disponible. Al menos, tiene buen olfato.
 
 [ZOMBIE_PARKOUR_IMP_DESCRIPTION_HEADER]
 Un zombidito disfrazado de perro.
@@ -81505,7 +81502,7 @@ Zombi pirata
 Pirata caracono
 
 [ZOMBIE_PIRATE_ARMOR1_DESCRIPTION]
-El Pirata caracono es un zombi común. Cuando le preguntaron cuál era su plato favorito, se paró un momento, se arregló el pañuelo y dijo: "¡Cereeeebrooos!". ¿Por qué no le das un poco? ¿Eh, vecino?
+{FLAVOR}El Pirata caracono es un zombi común. Cuando le preguntaron cuál era su plato favorito, se paró un momento, se arregló el pañuelo y dijo: "¡Cereeeebrooos!". ¿Por qué no le das un poco? ¿Eh, vecino?
 
 [ZOMBIE_PIRATE_ARMOR1_DESCRIPTION_HEADER]
 Su cono pirata le da el doble de dureza que el Pirata común.
@@ -81514,7 +81511,7 @@ Su cono pirata le da el doble de dureza que el Pirata común.
 Pirata caracubo
 
 [ZOMBIE_PIRATE_ARMOR2_DESCRIPTION]
-El Zombi pirata caracubo busca su cubo. ¿Lo viste? ¿Dónde está? ¿Arriba dónde? Habla más alto, no puede oírte.
+{FLAVOR}El Zombi pirata caracubo busca su cubo. ¿Lo viste? ¿Dónde está? ¿Arriba dónde? Habla más alto, no puede oírte.
 
 [ZOMBIE_PIRATE_ARMOR2_DESCRIPTION_HEADER]
 Su duro cubo de madera le proporciona una protección excelente contra el daño.
@@ -81523,7 +81520,7 @@ Su duro cubo de madera le proporciona una protección excelente contra el daño.
 Tonel pirata
 
 [ZOMBIE_PIRATE_BARREL_DESCRIPTION]
-¿Qué puede ser? ¿Oro? ¿Otro tipo de tesoro? ¿¡Quién sabe!?
+{FLAVOR}¿Qué puede ser? ¿Oro? ¿Otro tipo de tesoro? ¿¡Quién sabe!?
 
 [ZOMBIE_PIRATE_BARREL_DESCRIPTION_HEADER]
 Contiene Zombiditos que salen disparados cuando lo destruyen.
@@ -81552,7 +81549,7 @@ Loro zombi
 Sale volando desde el Zombi capitán y se lleva una planta.
 
 [ZOMBIE_PIRATE_DESCRIPTION]
-Estar al tanto de la última moda de los piratas es difícil, pero él sabe cómo estar en la cresta de la ola.
+{FLAVOR}Estar al tanto de la última moda de los piratas es difícil, pero él sabe cómo estar en la cresta de la ola.
 
 [ZOMBIE_PIRATE_DESCRIPTION_HEADER]
 Zombi común capaz de caminar por la borda
@@ -81561,7 +81558,7 @@ Zombi común capaz de caminar por la borda
 Zombi abanderado pirata
 
 [ZOMBIE_PIRATE_FLAG_DESCRIPTION]
-Un zombi que no necesita presentación.
+{FLAVOR}Un zombi que no necesita presentación.
 
 [ZOMBIE_PIRATE_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme y salada "oleada" de zombis.
@@ -81582,7 +81579,7 @@ Zombi enorme que reinventa el ataque del tiburón.
 Zombidito pirata
 
 [ZOMBIE_PIRATE_IMP_DESCRIPTION]
-Lustraba botas y robaba en las calles de Londres, pero solo conseguía zapatos grandes. Solía decir: "¡a por el botín!"
+{FLAVOR}Lustraba botas y robaba en las calles de Londres, pero solo conseguía zapatos grandes. Solía decir: "¡a por el botín!"
 
 [ZOMBIE_PIRATE_IMP_DESCRIPTION_HEADER]
 Le gusta el espacio compacto de los toneles y de los cañones.
@@ -81609,7 +81606,7 @@ Camión de peluches
 {KEYWORD}Debilidad: {STAT}Pinchohierba
 {KEYWORD}Pista: {STAT}gasta soles para agotar los peluches y obtener tus plantas de vuelta
 
-{FLAVOR}El conductor insiste en que esto es una "iniciativa de abrazos móviles", pero nadie le cree desde el incidente de la avalancha de ositos en el estacionamiento del supermercado. Aun así, los zombis siguen haciendo fila para conseguir el modelo edición limitada con cerebro bordado.
+{FLAVOR}El conductor insiste en que esto es una "iniciativa de abrazos móviles", pero nadie le cree desde el incidente de la avalancha de ositos en el estacionamiento del supermercado. Ahora cambió los ositos, por girasoles. El departamento legal asegura que eso suena mucho menos preocupante... en teoría.
 
 [ZOMBIE_PLUSHIE_CART_DESCRIPTION_HEADER]
 Reemplaza tus semilleros con girasoles de peluche. Empieza a aplastar plantas cuando se agotan sus existencias.
@@ -81671,10 +81668,10 @@ Zombi poncho
 A veces esconde una placa de blindaje.
 
 [ZOMBIE_POSEIDON_ASSISTANT]
-Ayudante de Poseidón
+Heraldo de Poseidón
 
 [ZOMBIE_POSEIDON_ASSISTANT_DESCRIPTION]
-La ley de Poseidón dicta que todos los forasteros deben entregar sus cerebros a los zombis del gobierno. ¿Es esto justo?
+{FLAVOR}La ley de Poseidón dicta que todos los forasteros deben entregar sus cerebros a los zombis del gobierno. ¿Es esto justo?
 
 [ZOMBIE_POSEIDON_ASSISTANT_DESCRIPTION_HEADER]
 Controla cardúmenes de peces y mejora a sus aliados.
@@ -81772,7 +81769,7 @@ El cuervo zombi robará una de tus plantas después de alejarse volando del espa
 Zombi colgao
 
 [ZOMBIE_PVZ1_BUNGEE_DESCRIPTION]
-Le encanta correr riesgos. Después de todo, ¿de qué sirve estar muerto si no se vive un poco?
+{FLAVOR}Le encanta correr riesgos. Después de todo, ¿de qué sirve estar muerto si no se vive un poco?
 
 [ZOMBIE_PVZ1_BUNGEE_DESCRIPTION_HEADER]
 Ataca desde arriba para robar tus plantas.
@@ -81807,7 +81804,7 @@ Forma etérea del Zombi jingke. Aniquila plantas de izquierda a derecha una vez 
 Monje taoísta
 
 [ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION]
-Los discípulos admiraban su dominio de las artes taoístas y las barreras espirituales. Esa admiración sobrevivió exactamente hasta la noche en que un zombidito lo sorprendió leyendo historietas infantiles de estrategia militar.
+{FLAVOR}Los discípulos admiraban su dominio de las artes taoístas y las barreras espirituales. Esa admiración sobrevivió exactamente hasta la noche en que un zombidito lo sorprendió leyendo historietas infantiles de estrategia militar.
 
 [ZOMBIE_QIN_MYSTIC_FORMATION_DEFENSE_DESCRIPTION_HEADER]
 Experto en formaciones defensivas. Crea un portal que invoca espíritus cada cierto tiempo.
@@ -81852,7 +81849,7 @@ Gigantesco mutante creado por un desastre radiactivo.
 Zombi irradiado
 
 [ZOMBIE_RADIATED_MID_DESCRIPTION]
-La radiación convirtió a un zombi común en algo mucho más difícil de ignorar y considerablemente más brillante en la oscuridad.
+{FLAVOR}La radiación convirtió a un zombi común en algo mucho más difícil de ignorar y considerablemente más brillante en la oscuridad.
 
 [ZOMBIE_RADIATED_MID_DESCRIPTION_HEADER]
 Mutante zombi contaminado tras demasiada exposición radiactiva.
@@ -81861,7 +81858,7 @@ Mutante zombi contaminado tras demasiada exposición radiactiva.
 Zombidito irradiado
 
 [ZOMBIE_RADIATED_SMALL_DESCRIPTION]
-La exposición radiactiva afectó su cuerpo, su cerebro y probablemente su concepto de seguridad personal.
+{FLAVOR}La exposición radiactiva afectó su cuerpo, su cerebro y probablemente su concepto de seguridad personal.
 
 [ZOMBIE_RADIATED_SMALL_DESCRIPTION_HEADER]
 Pequeño mutante zombi deformado por niveles alarmantes de radiación.
@@ -81908,7 +81905,7 @@ Un actor poco destacado. Interpreta a Antonio de "El comerciante de Venecia", de
 Aristócrata caracono
 
 [ZOMBIE_RENAI_ARMOR1_DESCRIPTION]
-Un zombi aristócrata vio un cono tirado en el suelo y exclamó: "Esto es revolucionario, ¡es más que arte!"
+{FLAVOR}Un zombi aristócrata vio un cono tirado en el suelo y exclamó: "Esto es revolucionario, ¡es más que arte!"
 
 [ZOMBIE_RENAI_ARMOR1_DESCRIPTION_HEADER]
 Su cono lo protege al tiempo que mejora su temperamento aristocrático.
@@ -81917,7 +81914,7 @@ Su cono lo protege al tiempo que mejora su temperamento aristocrático.
 Aristócrata caracubo
 
 [ZOMBIE_RENAI_ARMOR2_DESCRIPTION]
-Un sombrero de hierro cuesta 20,000 cerebros y es el símbolo definitivo de estatus entre los zombis aristócratas. Porque nada dice 'clase' como un casco que protege y adorna a la par.
+{FLAVOR}Un sombrero de hierro cuesta 20,000 cerebros y es el símbolo definitivo de estatus entre los zombis aristócratas. Porque nada dice 'clase' como un casco que protege y adorna a la par.
 
 [ZOMBIE_RENAI_ARMOR2_DESCRIPTION_HEADER]
 Su cubo le proporciona una buena protección y es un símbolo de la aristocracia.
@@ -81950,7 +81947,7 @@ Saldrá en un grupo de 2 al mismo tiempo, ¡y cambiará de rumbo al compás del 
 Zombidito escultor
 
 [ZOMBIE_RENAI_CARVER_DESCRIPTION]
-¿Has oído hablar de la estatua del zombi aristócrata con el brazo roto? Dicen que fue tallada por el mismísimo Zombidito escultor aunque nadie sabe si el daño fue parte de la obra o un accidente postmortem.
+{FLAVOR}¿Has oído hablar de la estatua del zombi aristócrata con el brazo roto? Dicen que fue tallada por el mismísimo Zombidito escultor aunque nadie sabe si el daño fue parte de la obra o un accidente postmortem.
 
 [ZOMBIE_RENAI_CARVER_DESCRIPTION_HEADER]
 Esculpe estatuas de zombis para traerlos de vuelta a la vida durante el día.
@@ -81959,7 +81956,7 @@ Esculpe estatuas de zombis para traerlos de vuelta a la vida durante el día.
 Zombi aristócrata abanderado
 
 [ZOMBIE_RENAI_FLAG_DESCRIPTION]
-Mandones y orgullosos, los Zombis aristócratas abanderados creen que su bandera, otorgada por el Dr. Zombi, es el símbolo supremo aunque el resto no esté muy convencido.
+{FLAVOR}Mandones y orgullosos, los Zombis aristócratas abanderados creen que su bandera, otorgada por el Dr. Zombi, es el símbolo supremo aunque el resto no esté muy convencido.
 
 [ZOMBIE_RENAI_FLAG_DESCRIPTION_HEADER]
 Marca el debut de una gran oleada de zombis aristocráticos.
@@ -82075,7 +82072,7 @@ Zombi encargado del mantenimiento de piscinas. Sus químicos son peligrosos para
 Zombi aristócrata
 
 [ZOMBIE_RENAI_WORKER_DESCRIPTION]
-"El arte refleja mi nobleza", siempre pone esta frase en sus labios para expresar la admiración que tiene, como si cada pincelada confirmara su linaje.
+{FLAVOR}"El arte refleja mi nobleza", siempre pone esta frase en sus labios para expresar la admiración que tiene, como si cada pincelada confirmara su linaje.
 
 [ZOMBIE_RENAI_WORKER_DESCRIPTION_HEADER]
 Un zombi de clase alta.
@@ -82087,7 +82084,7 @@ Zombi romano
 Caracono romano
 
 [ZOMBIE_ROMAN_ARMOR1_DESCRIPTION]
-¿Había tanto tráfico en la Antigua Roma como para que hubiera conos? Los historiadores no se ponen de acuerdo. Es un debate real.
+{FLAVOR}¿Había tanto tráfico en la Antigua Roma como para que hubiera conos? Los historiadores no se ponen de acuerdo. Es un debate real.
 
 [ZOMBIE_ROMAN_ARMOR1_DESCRIPTION_HEADER]
 Un cono de tráfico de mármol le proporciona algo de protección.
@@ -82096,7 +82093,7 @@ Un cono de tráfico de mármol le proporciona algo de protección.
 Caracubo romano
 
 [ZOMBIE_ROMAN_ARMOR2_DESCRIPTION]
-Tenían cubos como este en la Antigua Roma. Créetelo.
+{FLAVOR}Tenían cubos como este en la Antigua Roma. Créetelo.
 
 [ZOMBIE_ROMAN_ARMOR2_DESCRIPTION_HEADER]
 Un cubo elegante con un poquito de estilo distingue a este zombi.
@@ -82105,7 +82102,7 @@ Un cubo elegante con un poquito de estilo distingue a este zombi.
 Zombi centurión
 
 [ZOMBIE_ROMAN_ARMOR3_DESCRIPTION]
-¿Sabías que en la Antigua Roma un centurión mandaba a los cinturones? Qué locura, ¿eh?
+{FLAVOR}¿Sabías que en la Antigua Roma un centurión mandaba a los cinturones? Qué locura, ¿eh?
 
 [ZOMBIE_ROMAN_ARMOR3_DESCRIPTION_HEADER]
 Un Zombi romano de mayor nivel.
@@ -82114,7 +82111,7 @@ Un Zombi romano de mayor nivel.
 Zombi carabusto
 
 [ZOMBIE_ROMAN_ARMOR4_DESCRIPTION]
-El Zombi carabusto pertenece a un museo con un gran cartel en el que dice algo así como: "ADVERTENCIA: SE TRATA DE UN ZOMBI".
+{FLAVOR}El Zombi carabusto pertenece a un museo con un gran cartel en el que dice algo así como: "ADVERTENCIA: SE TRATA DE UN ZOMBI".
 
 [ZOMBIE_ROMAN_ARMOR4_DESCRIPTION_HEADER]
 La cara de busto permite a este Zombi romano recibir muchos golpes.
@@ -82129,7 +82126,7 @@ Medalla del centurión
 Zombi ezcorpión
 
 [ZOMBIE_ROMAN_BALLISTA_DESCRIPTION]
-¡Sorpresa! ¡Esa vasija explosiva tenía un zombi dentro! ¿No es sorprendente?
+{FLAVOR}¡Sorpresa! ¡Esa vasija explosiva tenía un zombi dentro! ¿No es sorprendente?
 
 [ZOMBIE_ROMAN_BALLISTA_DESCRIPTION_HEADER]
 El zombi ezcorpión, balista de la Antigua Roma, lanza una vasija explosiva a la planta que tenga más cerca en su línea.
@@ -82147,7 +82144,7 @@ Alcanzaste la Liga Bronce en La Búsqueda de Penny.
 Medalla del Caracono romano
 
 [ZOMBIE_ROMAN_DESCRIPTION]
-No está seguro del significado de "diezmar".
+{FLAVOR}No está seguro del significado de "diezmar".
 
 [ZOMBIE_ROMAN_DESCRIPTION_HEADER]
 El Zombi romano legionario común.
@@ -82156,7 +82153,7 @@ El Zombi romano legionario común.
 Zombi abanderado romano
 
 [ZOMBIE_ROMAN_FLAG_DESCRIPTION]
-En la Antigua Roma las banderas se usaban a menudo en el campo de batalla para dirigir los movimientos de tropas. Aunque, seamos serios: ¿cuántas indicaciones se necesitan para tambalearse hacia la izquierda?
+{FLAVOR}En la Antigua Roma las banderas se usaban a menudo en el campo de batalla para dirigir los movimientos de tropas. Aunque, seamos serios: ¿cuántas indicaciones se necesitan para tambalearse hacia la izquierda?
 
 [ZOMBIE_ROMAN_FLAG_DESCRIPTION_HEADER]
 ¡La bandera indica que hay más zombis en camino!
@@ -82183,7 +82180,7 @@ Medalla del gladiador
 Zombi sanador
 
 [ZOMBIE_ROMAN_HEALER_DESCRIPTION]
-Consejo: acaba con este tan rápido como puedas si no quieres que tu vida se convierta en un pozo de miseria y desesperación.
+{FLAVOR}Consejo: acaba con este tan rápido como puedas si no quieres que tu vida se convierta en un pozo de miseria y desesperación.
 
 [ZOMBIE_ROMAN_HEALER_DESCRIPTION_HEADER]
 Usa magia romana extraña para curar a los zombis.
@@ -82198,7 +82195,7 @@ Medalla del sanador
 Zombidito romano
 
 [ZOMBIE_ROMAN_IMP_DESCRIPTION]
-Como todos los Zombiditos, Zombidito Romano aparece donde menos quieres que esté.
+{FLAVOR}Como todos los Zombiditos, Zombidito Romano aparece donde menos quieres que esté.
 
 [ZOMBIE_ROMAN_IMP_DESCRIPTION_HEADER]
 Pequeño. Zombidito. Lleva lo que antes era un león.
@@ -82213,7 +82210,7 @@ Medalla del Zombidito romano
 Medusa
 
 [ZOMBIE_ROMAN_MEDUSA_DESCRIPTION]
-Originaria de Grecia, aunque prosperó en Roma, Medusa sigue los consejos de sus serpientes, fruto del carisma de estas y su dilatada hisssstoria en común.
+{FLAVOR}Originaria de Grecia, aunque prosperó en Roma, Medusa sigue los consejos de sus serpientes, fruto del carisma de estas y su dilatada hisssstoria en común.
 
 [ZOMBIE_ROMAN_MEDUSA_DESCRIPTION_HEADER]
 Empuja a los zombis petrificados dentro de bloques de roca, al igual que a los zombis petrificadores y a los zomboides que se enfrentan a ella.
@@ -82222,7 +82219,7 @@ Empuja a los zombis petrificados dentro de bloques de roca, al igual que a los z
 Zombi escudo romano
 
 [ZOMBIE_ROMAN_SHIELD_ALMANAC_DESCRIPTION]
-El escudo lo protege de las malas reseñas y las críticas dañinas.
+{FLAVOR}El escudo lo protege de las malas reseñas y las críticas dañinas.
 
 [ZOMBIE_ROMAN_SHIELD_ALMANAC_DESCRIPTION_HEADER]
 Un Zombi romano descerebrado y curiosamente tímido que lleva un escudo.
@@ -82272,7 +82269,7 @@ Cruza el agua sin necesidad de tabla y vuelva por encima de plantas bajas.
 Zombi lanzador de erizos
 
 [ZOMBIE_SEAURCHINPITCHER_DESCRIPTION]
-Curiosidad: en la antigua Atlántida el lanzamiento de erizos era todo un deporte nacional practicado de generación en generación.
+{FLAVOR}Curiosidad: en la antigua Atlántida el lanzamiento de erizos era todo un deporte nacional practicado de generación en generación.
 
 [ZOMBIE_SEAURCHINPITCHER_DESCRIPTION_HEADER]
 Arroja erizos de mar a tus plantas para dañarlas.
@@ -82498,13 +82495,13 @@ Zombis fugaces III
 La velocidad de los zombis aumenta en un 150%
 
 [ZOMBIE_SPORTZBALL_BUCKETHEAD]
-Caracubo de patiobol
+Zombi jarra térmica
 
 [ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION]
-No sabe porque lleva un cubo en la cabeza. Piensa que es para protegerse de las palomitas que le caen desde las gradas.
+{FLAVOR}No sabe porque lleva una jarra de bebidas encima. Al menos llegó preparado para el descanso del partido.
 
 [ZOMBIE_SPORTZBALL_BUCKETHEAD_DESCRIPTION_HEADER]
-Un zombi con un cubo y gran pasión por los deportes.
+Zombi con un dispensador térmico de bebidas en la cabeza.
 
 [ZOMBIE_SPORTZBALL_GARGANTUAR]
 Zombistein árbitro de fútbol
@@ -82519,24 +82516,24 @@ Zombistein árbitro de fútbol
 Gigantesco árbitro amante del fútbol.
 
 [ZOMBIE_SPORTZBALL_IMP]
-Zombidito balón de fútbol
+Zombidito hincha
 
 [ZOMBIE_SPORTZBALL_IMP_DESCRIPTION]
 {KEYWORD}Especial: {STAT}deja un balón de fútbol al ser derrotado
 
-{FLAVOR}Siempre ha soñado con "ser uno con la multitud". Desde que se metió dentro de un balón de fútbol, ese sueño se ha cumplido a medias: ahora pasa mucho tiempo volando por el campo, aunque normalmente es porque le dan una patada.
+{FLAVOR}Siempre ha soñado con "ser uno con la multitud". Desde que se metió dentro de un balón de fútbol, su sueño se cumplió a medias: ahora pasa mucho tiempo volando por el campo, aunque casi siempre porque alguien le da una patada.
 
 [ZOMBIE_SPORTZBALL_IMP_DESCRIPTION_HEADER]
 Pequeño zombi disfrazado de balón.
 
 [ZOMBIE_SPORTZBALL_WIZARD]
-Mago de patiobol
+Zombi linier
 
 [ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION]
-Afirma que puede predecir el resultado de todos los partidos; su secreto: convertir al portero rival en el propio balón.
+{FLAVOR}Afirma que puede predecir el resultado de todos los partidos; su secreto: convertir al portero rival en el propio balón. Su bandera no señala faltas, señala futuros desgraciados.
 
 [ZOMBIE_SPORTZBALL_WIZARD_DESCRIPTION_HEADER]
-Transforma plantas en balones de fútbol.
+Zombi que practica brujería deportiva. Transforma plantas en balones de fútbol.
 
 [ZOMBIE_SPRING]
 Zombi de primavera
@@ -82545,7 +82542,7 @@ Zombi de primavera
 Caracono de primavera
 
 [ZOMBIE_SPRING_ARMOR1_DESCRIPTION]
-Aparece en todos los picnics de primavera con su cono en la cabeza, creyendo que es parte del código de vestimenta.
+{FLAVOR}Aparece en todos los picnics de primavera con su cono en la cabeza, creyendo que es parte del código de vestimenta.
 
 [ZOMBIE_SPRING_ARMOR1_DESCRIPTION_HEADER]
 Su cono lo hace dos veces más resistente que el zombi básico de primavera.
@@ -82554,7 +82551,7 @@ Su cono lo hace dos veces más resistente que el zombi básico de primavera.
 Caracubo de primavera
 
 [ZOMBIE_SPRING_ARMOR2_DESCRIPTION]
-En cada fiesta de primavera aparece con su cubo bien pintado, convencido de que es la estrella del evento.
+{FLAVOR}En cada fiesta de primavera aparece con su cubo bien pintado, convencido de que es la estrella del evento.
 
 [ZOMBIE_SPRING_ARMOR2_DESCRIPTION_HEADER]
 Su cubo lo hace tres veces más resistente que el zombi básico de primavera.
@@ -82563,13 +82560,13 @@ Su cubo lo hace tres veces más resistente que el zombi básico de primavera.
 Zombi huevo de pascua
 
 [ZOMBIE_SPRING_CAMEL_MANYHUMP_DESCRIPTION]
-Siempre asiste en grandes grupos a las fiestas de primavera, ¡a por los huevos de pascua!
+{FLAVOR}Siempre asiste en grandes grupos a las fiestas de primavera, ¡a por los huevos de pascua!
 
 [ZOMBIE_SPRING_CAMEL_MANYHUMP_DESCRIPTION_HEADER]
 Líder del grupo de zombis de huevos de pascua.
 
 [ZOMBIE_SPRING_DESCRIPTION]
-Le encantan las flores, siempre sale a pasear por el parque en primavera para recolectar y oler unas cuantas.
+{FLAVOR}Le encantan las flores, siempre sale a pasear por el parque en primavera para recolectar y oler unas cuantas.
 
 [ZOMBIE_SPRING_DESCRIPTION_HEADER]
 Zombi común de primavera.
@@ -82578,7 +82575,7 @@ Zombi común de primavera.
 Zombi bandera de primavera
 
 [ZOMBIE_SPRING_FLAG_DESCRIPTION]
-Alza su bandera en cada picnic de primavera, y los zombis no tardan en reunirse a su alrededor.
+{FLAVOR}Alza su bandera en cada picnic de primavera, y los zombis no tardan en reunirse a su alrededor.
 
 [ZOMBIE_SPRING_FLAG_DESCRIPTION_HEADER]
 Avisa la llegada de una enorme oleada de zombis de primavera.
@@ -82599,7 +82596,7 @@ Un tipo grandulón que aplasta plantas con una gigantesca zanahoria de metal.
 Zombidito polluelo
 
 [ZOMBIE_SPRING_IMP_DESCRIPTION]
-Bajo ese disfraz de polluelo puede aparecer un inocente zombidito... o esconder al verdadero Zombistein. Nunca es buena idea confiarse demasiado.
+{FLAVOR}Bajo ese disfraz de polluelo puede aparecer un inocente zombidito... o esconder al verdadero Zombistein. Nunca es buena idea confiarse demasiado.
 
 [ZOMBIE_SPRING_IMP_DESCRIPTION_HEADER]
 Un zombi pequeño que ama la primavera y los estragos.
@@ -82619,7 +82616,7 @@ A veces esconde una placa de blindaje.
 Mago de primavera
 
 [ZOMBIE_SPRING_WIZARD_DESCRIPTION]
-Es el responsable de organizar el evento de búsqueda de huevos de pascua.
+{FLAVOR}Es el responsable de organizar el evento de búsqueda de huevos de pascua.
 
 [ZOMBIE_SPRING_WIZARD_DESCRIPTION_HEADER]
 Transforma plantas en huevos de pascua.
@@ -82628,7 +82625,7 @@ Transforma plantas en huevos de pascua.
 Trabajador caracono
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION]
-Su jefe lo ascendió de puesto por promover que se usasen conos como medida de seguridad.
+{FLAVOR}Su jefe lo ascendió de puesto por promover que se usasen conos como medida de seguridad.
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION_HEADER]
 Su cono lo hace dos veces más resistente que los trabajadores ordinarios.
@@ -82637,7 +82634,7 @@ Su cono lo hace dos veces más resistente que los trabajadores ordinarios.
 Trabajador caracubo
 
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION]
-Fue recompensado con un aumento salarial hace unos días. Estaba muy contento, por lo que le pidió al herrero que le hiciera un casco etiquetado.
+{FLAVOR}Fue recompensado con un aumento salarial hace unos días. Estaba muy contento, por lo que le pidió al herrero que le hiciera un casco etiquetado.
 
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION_HEADER]
 Su cubo de hierro forjado lo protege del daño.
@@ -82647,7 +82644,7 @@ Zombi carbonero
 
 [ZOMBIE_STEAM_COAL_MINER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}la carretilla bloquea proyectiles rectos, impide el plantado y deja carbón al ser destruida
-{KEYWORD}Debilidad: {STAT}el daño de las plantas de fuego acelera la combustión del carbón
+{KEYWORD}Debilidad: {STAT}el fuego acelera la combustión del carbón
 
 {FLAVOR}Cuando la mina colapsó, prometió que volvería para terminar su turno. Y vaya que lo está cumpliendo.
 
@@ -82658,7 +82655,7 @@ Tira su carretilla llena de carbón a las plantas cercanas para destruirlas.
 Zombi trabajador abanderado
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION]
-Es el más convincente de los zombis. Todos están asombrados de que pueda trabajar de una manera bien organizada y nunca tener que hacer horas extras.
+{FLAVOR}Es el más convincente de los zombis. Todos están asombrados de que pueda trabajar de una manera bien organizada y nunca tener que hacer horas extras.
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una gran oleada de zombis trabajadores.
@@ -82691,7 +82688,7 @@ Una vez coloques tus defensas contra él, saldrá volando con su paraguas por en
 Zombidito industrial
 
 [ZOMBIE_STEAM_IMP_DESCRIPTION]
-Confiando en su relación con Zombistein capataz, fue aceptado y obtuvo un puesto en la fábrica. Ahora sus metas son trabajar más duro y ser más consciente.
+{FLAVOR}Gracias a sus contactos con Zombistein, el capataz de la fábrica, consiguió un puesto entre las máquinas. Ahora trabaja duro para demostrar que incluso un zombi puede tener responsabilidad... siempre que recuerde dónde dejó su cerebro.
 
 [ZOMBIE_STEAM_IMP_DESCRIPTION_HEADER]
 Después de ser lanzado sobre la mayoría de tus defensas, continúa caminando hacia adelante.
@@ -82702,7 +82699,7 @@ Zombi con calderas
 [ZOMBIE_STEAM_STOVE_DESCRIPTION]
 {KEYWORD}Debilidad: {STAT}plantas de hielo
 
-{FLAVOR}Trabajar en un ambiente caluroso todo el día hace que este zombi sea muy violento, así que trata de no hacerlo enfadar. Estaría muy encantado si lo recibes con un vaso de agua fría.
+{FLAVOR}Sus calderas hierven, su humor también. Un poco de agua fría podría calmarlo... aunque probablemente solo por unos segundos.
 
 [ZOMBIE_STEAM_STOVE_DESCRIPTION_HEADER]
 Las temperaturas ardientes de sus calderas causan destrucción a las plantas cercanas.
@@ -82711,7 +82708,7 @@ Las temperaturas ardientes de sus calderas causan destrucción a las plantas cer
 Zombi trabajador
 
 [ZOMBIE_STEAM_WORKER_DESCRIPTION]
-Es codicioso y diligente, su ambición por el dinero lo ha llevado a trabajar de más.
+{FLAVOR}Es codicioso y diligente, su ambición por el dinero lo ha llevado a trabajar de más.
 
 [ZOMBIE_STEAM_WORKER_DESCRIPTION_HEADER]
 Zombi de clase obrera.
@@ -82720,7 +82717,7 @@ Zombi de clase obrera.
 Caracono veraniego
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION]
-Para estar en la onda y a la defensiva, Zombi caracono usa un par de gafas de sol y un cono, aunque discutiendo sobre lo de las gafas de sol, parece que no sabe que es una celebración por la noche.
+{FLAVOR}Para estar en la onda y a la defensiva, Zombi caracono usa un par de gafas de sol y un cono, aunque discutiendo sobre lo de las gafas de sol, parece que no sabe que es una celebración por la noche.
 
 [ZOMBIE_SUMMER_ARMOR1_DESCRIPTION_HEADER]
 Su cono le da el doble de resistencia que el zombi básico de Noches de verano.
@@ -82729,7 +82726,7 @@ Su cono le da el doble de resistencia que el zombi básico de Noches de verano.
 Caracubo veraniego
 
 [ZOMBIE_SUMMER_ARMOR2_DESCRIPTION]
-Para ganar más medallas en el ring, entrena con su propio cubo como defensa, pero cuando llega al festival, se da cuenta que no hay ningún ring.
+{FLAVOR}Para ganar más medallas en el ring, entrena con su propio cubo como defensa, pero cuando llega al festival, se da cuenta que no hay ningún ring.
 
 [ZOMBIE_SUMMER_ARMOR2_DESCRIPTION_HEADER]
 Su cubo le da el triple de resistencia que el zombi básico de Noches de verano.
@@ -82738,7 +82735,7 @@ Su cubo le da el triple de resistencia que el zombi básico de Noches de verano.
 Zombi veraniego
 
 [ZOMBIE_SUMMER_BASIC_DESCRIPTION]
-Nunca deja de participar en el festival anual de fuegos artificiales siempre que oye de él.
+{FLAVOR}Nunca deja de participar en el festival anual de fuegos artificiales siempre que oye de él.
 
 [ZOMBIE_SUMMER_BASIC_DESCRIPTION_HEADER]
 Zombi común que participa en la celebración de Noches de verano.
@@ -82769,7 +82766,7 @@ Zombicho caracubo de verano
 Bicho lleva a Zombicho caracubo por encima de tus defensas.
 
 [ZOMBIE_SUMMER_BUG_DESCRIPTION]
-Las noches de verano a menudo están repletas de insectos, por eso nació esta pareja con tanta naturalidad. No solo se les facilita el trabajo de saquear cerebros, sino que tener un campo de visión más alto les permite ver mejor los fuegos artificiales.
+{FLAVOR}Las noches de verano a menudo están repletas de insectos, por eso nació esta pareja con tanta naturalidad. No solo se les facilita el trabajo de saquear cerebros, sino que tener un campo de visión más alto les permite ver mejor los fuegos artificiales.
 
 [ZOMBIE_SUMMER_BUG_DESCRIPTION_HEADER]
 Bicho lleva a Zombicho por encima de tus defensas.
@@ -82778,7 +82775,7 @@ Bicho lleva a Zombicho por encima de tus defensas.
 Zombi abanderado de verano
 
 [ZOMBIE_SUMMER_FLAG_DESCRIPTION]
-Con el fin de llevar a todos los zombis a participar en la celebración de verano, recogió una bandera que marca los fuegos artificiales.
+{FLAVOR}Con el fin de llevar a todos los zombis a participar en la celebración de verano, recogió una bandera que marca los fuegos artificiales.
 
 [ZOMBIE_SUMMER_FLAG_DESCRIPTION_HEADER]
 Su llamativa bandera avisa una oleada de numerosos zombis fiesteros del verano.
@@ -82799,7 +82796,7 @@ Un fanático de las parrilladas que disfruta más el caos que la cocina.
 Zombidito salchicha
 
 [ZOMBIE_SUMMER_IMP_DESCRIPTION]
-Le encantan tanto las salchichas que terminó disfrazándose de una. Nadie sabe cuándo empezó la broma ni cuándo va a terminar.
+{FLAVOR}Le encantan tanto las salchichas que terminó disfrazándose de una. Nadie sabe cuándo empezó la broma ni cuándo va a terminar.
 
 [ZOMBIE_SUMMER_IMP_DESCRIPTION_HEADER]
 Un pequeño amante de las salchichas que, una vez lanzado, se arrastra lentamente por el patio.
@@ -82960,7 +82957,7 @@ Zombi básico
 Zombi caracono
 
 [ZOMBIE_TUTORIAL_ARMOR1_DESCRIPTION]
-Después de una noche salvaje, Zombi caracono se despertó con una factura misteriosa de un cono y cinta adhesiva de uso industrial.
+{FLAVOR}Después de una noche salvaje, Zombi caracono se despertó con una factura misteriosa de un cono y cinta adhesiva de uso industrial.
 
 [ZOMBIE_TUTORIAL_ARMOR1_DESCRIPTION_HEADER]
 Su cono le da el doble de dureza que el Zombi común.
@@ -82969,13 +82966,13 @@ Su cono le da el doble de dureza que el Zombi común.
 Zombi caracubo
 
 [ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION]
-Hubo un tiempo en que al Zombi caracubo lo consideraban un genio por su estrategia innovadora de ponerse un cubo en la cabeza. Después de algunos años, los zombis se preguntan si se guarda algo bajo la manga. ¿Cuál es su secreto? Que no se guarda nada...
+{FLAVOR}Hubo un tiempo en que al Zombi caracubo lo consideraban un genio por su estrategia innovadora de ponerse un cubo en la cabeza. Después de algunos años, los zombis se preguntan si se guarda algo bajo la manga. ¿Cuál es su secreto? Que no se guarda nada...
 
 [ZOMBIE_TUTORIAL_ARMOR2_DESCRIPTION_HEADER]
 El cubo lo hace muy resistente.
 
 [ZOMBIE_TUTORIAL_DESCRIPTION]
-El Zombi básico odia el término "básico". No se considera un cadáver común o un enemigo genérico. Es un individuo, maldición, y va a demostrar su personalidad aunque tenga que pasarte por delante.
+{FLAVOR}El Zombi básico odia el término "básico". No se considera un cadáver común o un enemigo genérico. Es un individuo, maldición, y va a demostrar su personalidad aunque tenga que pasarte por delante.
 
 [ZOMBIE_TUTORIAL_DESCRIPTION_HEADER]
 Zombi de jardín común.
@@ -82984,7 +82981,7 @@ Zombi de jardín común.
 Zombi abanderado
 
 [ZOMBIE_TUTORIAL_FLAG_DESCRIPTION]
-Zombi abanderado se llama "Rocebro" y suele confundir palabras. Piensa que los otros zombis se dirigen a él. Al menos se siente importante.
+{FLAVOR}Zombi abanderado se llama "Rocebro" y suele confundir palabras. Piensa que los otros zombis se dirigen a él. Al menos se siente importante.
 
 [ZOMBIE_TUTORIAL_FLAG_DESCRIPTION_HEADER]
 Marca la llegada de una enorme "oleada" de zombis.
@@ -83005,7 +83002,7 @@ El Zombistein es un tipo bastante grande.
 Zombidito
 
 [ZOMBIE_TUTORIAL_IMP_DESCRIPTION]
-No tiene mucho alcance, pero lo compensa con su mal humor o, como él dice, su sentido del humor zombi. Es mejor que no lo provoques.
+{FLAVOR}No tiene mucho alcance, pero lo compensa con su mal humor o, como él dice, su sentido del humor zombi. Es mejor que no lo provoques.
 
 [ZOMBIE_TUTORIAL_IMP_DESCRIPTION_HEADER]
 Se lanza al patio detrás de tus defensas y después se arrastra hacia delante.
@@ -83014,7 +83011,7 @@ Se lanza al patio detrás de tus defensas y después se arrastra hacia delante.
 All-Star centella
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR_DESCRIPTION]
-Una vez que aprendió los conceptos básicos de la aritmética y el fútbol, dejó de ser el mismo zombi que antes.
+{FLAVOR}Una vez que aprendió los conceptos básicos de la aritmética y el fútbol, dejó de ser el mismo zombi que antes.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ALLSTAR_DESCRIPTION_HEADER]
 Variante del Zombi All-Star. Pasa a través de cualquier planta sin taclearla una vez recibe daño.
@@ -83023,7 +83020,7 @@ Variante del Zombi All-Star. Pasa a través de cualquier planta sin taclearla un
 Caracono robusto
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION]
-La industria cultural del Universo 42 parece prosperar. Cada zombi tiene más oportunidad de vivir la moda de ponerse conos en la cabeza.
+{FLAVOR}La industria cultural del Universo 42 parece prosperar. Cada zombi tiene más oportunidad de vivir la moda de ponerse conos en la cabeza.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ARMOR1_DESCRIPTION_HEADER]
 Variante del Zombi caracono, su cono le otorga la misma dureza que el Zombi faraón.
@@ -83032,7 +83029,7 @@ Variante del Zombi caracono, su cono le otorga la misma dureza que el Zombi fara
 Gallina gigante
 
 [ZOMBIE_UNIVERSE_UNCHARTED_CHICKEN_DESCRIPTION]
-En nuestro universo, es difícil distinguir una gallina normal de una gallina zombi. Pero aquí, los conocimientos de taxonomía avícola están bien extendidos.
+{FLAVOR}En nuestro universo, es difícil distinguir una gallina normal de una gallina zombi. Pero aquí, los conocimientos de taxonomía avícola están bien extendidos.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_CHICKEN_DESCRIPTION_HEADER]
 Variante de la Gallina zombi. Tiene más dureza pero menos velocidad de movimiento.
@@ -83041,16 +83038,16 @@ Variante de la Gallina zombi. Tiene más dureza pero menos velocidad de movimien
 Zombi matasanos
 
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR_DESCRIPTION]
-¿Este universo cambió la anatomía de los zombis o cambiaron los conocimientos médicos? Sea como sea, al menos conseguir una licencia médica es mucho más fácil ahora.
+{FLAVOR}¿Este universo cambió la anatomía de los zombis o cambiaron los conocimientos médicos? Sea como sea, al menos conseguir una licencia médica es mucho más fácil ahora.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR_DESCRIPTION_HEADER]
-Variante del Zombi doctor perdido. Lanza una jeringuilla a la primera planta de la línea, causándole daño y ralentizándola
+Variante del Zombi doctor perdido. Lanza una jeringuilla a la primera planta de la línea, causándole daño y ralentizándola.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC]
 Zombi gigante
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION]
-El zombi más simple, básico y común del Universo 42. ¿Crees que es demasiado enorme? ¿Qué tiene de malo ser grande?
+{FLAVOR}El zombi más simple, básico y común del Universo 42. ¿Crees que es demasiado enorme? ¿Qué tiene de malo ser grande?
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC_DESCRIPTION_HEADER]
 Variante del Zombi básico, cuando se le cae el brazo, lo recoge y aplasta plantas con él.
@@ -83059,7 +83056,7 @@ Variante del Zombi básico, cuando se le cae el brazo, lo recoge y aplasta plant
 Agricultor de arroz U42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO_DESCRIPTION]
-Se niega a responder preguntas sobre su relación con los zombis brillantes en nuestro universo, o tal vez en realidad nadie sabe nada de eso en absoluto, ni siquiera él.
+{FLAVOR}Se niega a responder preguntas sobre su relación con los zombis brillantes en nuestro universo, o tal vez en realidad nadie sabe nada de eso en absoluto, ni siquiera él.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO_DESCRIPTION_HEADER]
 Variante del Zombi akindo. Si sobrevive un tiempo después de aparecer, regalará Nutrientes para que los uses.
@@ -83068,7 +83065,7 @@ Variante del Zombi akindo. Si sobrevive un tiempo después de aparecer, regalar�
 Comadreja gigante
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ICEAGE_WEASEL_DESCRIPTION]
-Puede que ocurra algo malo si le lanzas bolas de nieve a esta comadreja enorme.
+{FLAVOR}Puede que ocurra algo malo si le lanzas bolas de nieve a esta comadreja enorme.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ICEAGE_WEASEL_DESCRIPTION_HEADER]
 Variante de la Comadreja zombi. Tiene más dureza pero menos velocidad de movimiento.
@@ -83077,7 +83074,7 @@ Variante de la Comadreja zombi. Tiene más dureza pero menos velocidad de movimi
 Bufón cascarrabias
 
 [ZOMBIE_UNIVERSE_UNCHARTED_JUGGLER_DESCRIPTION]
-"Cuando vas a toda velocidad por el mundo de las artes, nadie tiene derecho a burlarse de ti. ¡La comedia debe tomarse en serio!", dice airado.
+{FLAVOR}"Cuando vas a toda velocidad por el mundo de las artes, nadie tiene derecho a burlarse de ti. ¡La comedia debe tomarse en serio!", dice airado.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_JUGGLER_DESCRIPTION_HEADER]
 Variante del Zombi bufón. Gira a alta velocidad destruyendo plantas pero sin devolver proyectiles
@@ -83086,16 +83083,16 @@ Variante del Zombi bufón. Gira a alta velocidad destruyendo plantas pero sin de
 Bombardero sano
 
 [ZOMBIE_UNIVERSE_UNCHARTED_KONGFU_SELFEXPLODE_DESCRIPTION]
-Parece que la polvora tiene efectos diferentes en este universo raro.
+{FLAVOR}Parece que la polvora tiene efectos diferentes en este universo raro.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_KONGFU_SELFEXPLODE_DESCRIPTION_HEADER]
-Variante del Zombi bombardero. Detona su bomba cuando su salud llega a 0, curando a los zombis de un área mediana.
+Variante del Zombi con bomba. Detona su bomba cuando su salud llega a 0, curando a los zombis de un área mediana.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR]
 Zombi ex-cavador
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR_DESCRIPTION]
-Parece que los zombis de este universo no saben para qué sirven las palas.
+{FLAVOR}Parece que los zombis de este universo no saben para qué sirven las palas.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_EXCAVATOR_DESCRIPTION_HEADER]
 Variante del Zombi excavador, usa su pala como escudo para protegerse de proyectiles arrojadizos.
@@ -83104,7 +83101,7 @@ Variante del Zombi excavador, usa su pala como escudo para protegerse de proyect
 Zombi parasol U42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE_DESCRIPTION]
-En este universo los rayos de sol van en vertical. Por eso carga el parasol de esa forma, no es que sea una rarita.
+{FLAVOR}En este universo los rayos de sol van en vertical. Por eso carga el parasol de esa forma, no es que sea una rarita.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE_DESCRIPTION_HEADER]
 Variante de la Zombi parasol, bloquea proyectiles rectos con su parasol.
@@ -83113,16 +83110,16 @@ Variante de la Zombi parasol, bloquea proyectiles rectos con su parasol.
 Zombistein pequeño
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR_DESCRIPTION]
-La preocupación taxonómica de este zombi parece ser algo frustrante.
+{FLAVOR}La preocupación taxonómica de este zombi parece ser algo frustrante.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MINI_GARGANTUAR_DESCRIPTION_HEADER]
-Variante del Zombistein, además de su tamaño pequeño, no puede lanzar Zombiditos.
+Variante del Zombistein. Además de su tamaño pequeño, no puede lanzar Zombiditos.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MODERN_NEWSPAPER]
 Zombi lector U42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MODERN_NEWSPAPER_DESCRIPTION]
-Se utiliza goma elástica en lugar de papel para imprimir periódicos en el Universo 42.
+{FLAVOR}Se utiliza goma elástica en lugar de papel para imprimir periódicos en el Universo 42.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_MODERN_NEWSPAPER_DESCRIPTION_HEADER]
 Variante del Zombi lector. Devuelve proyectiles rectos con su periódico elástico.
@@ -83154,7 +83151,7 @@ Variante del Zombi buscador de oro. Tras aparecer, saltará a la primera planta 
 Zombi Ra U42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_RA_DESCRIPTION]
-No te dejes engañar por su apariencia. Este zombi no es más que un zombi amistoso dispuesto a ayudar.
+{FLAVOR}No te dejes engañar por su apariencia aterradora. Este zombi no es más que un zombi amistoso dispuesto a ayudar.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_RA_DESCRIPTION_HEADER]
 Variante del Zombi Ra. Si sobrevive un tiempo después de aparecer, regalará algo de sol para que lo uses.
@@ -83189,7 +83186,7 @@ Toro zombi
 Zombi jinete de toro
 
 [ZOMBIE_WEST_BULLRIDER_DESCRIPTION]
-Soñaba con convertirse en un payaso de rodeo, pero el maquillaje le daba miedo.
+{FLAVOR}Soñaba con convertirse en un payaso de rodeo, pero el maquillaje le daba miedo.
 
 [ZOMBIE_WEST_BULLRIDER_DESCRIPTION_HEADER]
 Lo lanzan por encima de todas las plantas (excepto las más altas) y después continúa a pie.
@@ -83235,7 +83232,7 @@ Trabajador de ZCorp
 Caracono ZCorp
 
 [ZOMBIE_ZCORP_ARMOR1_DESCRIPTION]
-ZCorp lidera la venta de chinchetas con forma de cono para la seguridad craneal.
+{FLAVOR}ZCorp lidera la venta de chinchetas con forma de cono para la seguridad craneal.
 
 [ZOMBIE_ZCORP_ARMOR1_DESCRIPTION_HEADER]
 El típico empleado de ZCorp, solo que con la cabeza más grande.
@@ -83244,7 +83241,7 @@ El típico empleado de ZCorp, solo que con la cabeza más grande.
 Caracubo ZCorp
 
 [ZOMBIE_ZCORP_ARMOR2_DESCRIPTION]
-ZCorp cumple todas las normas locales, autonómicas y estatales de eliminación de residuos.
+{FLAVOR}ZCorp cumple todas las normas locales, autonómicas y estatales de eliminación de residuos.
 
 [ZOMBIE_ZCORP_ARMOR2_DESCRIPTION_HEADER]
 Una papelera de reciclaje respetuosa con el medioambiente protege la cabeza del empleado de cualquier daño.
@@ -83253,13 +83250,13 @@ Una papelera de reciclaje respetuosa con el medioambiente protege la cabeza del 
 Consultora de ZCorp
 
 [ZOMBIE_ZCORP_CONSULTANT_DESCRIPTION]
-Trabaja para ZCorp y también les hace de consultora. ¡Un buen trabajo si lo llegas a conseguir!
+{FLAVOR}Trabaja para ZCorp y también les hace de consultora. ¡Un buen trabajo si lo llegas a conseguir!
 
 [ZOMBIE_ZCORP_CONSULTANT_DESCRIPTION_HEADER]
 Consultora de ZCorp te cambia los paradigmas y vuela por los aires tus ideas preconcebidas.
 
 [ZOMBIE_ZCORP_DESCRIPTION]
-Le dieron la típica taza de ZCorp en la formación.
+{FLAVOR}Le dieron la típica taza de ZCorp en la formación.
 
 [ZOMBIE_ZCORP_DESCRIPTION_HEADER]
 Típico empleado de ZCorp SA.
@@ -83271,7 +83268,7 @@ Contratista de ZCorp
 Contratista caracono
 
 [ZOMBIE_ZCORP_FEM_ARMOR1_DESCRIPTION]
-Los contratistas de ZCorp pueden comprar material de oficina de ZCorp a precio reducido.
+{FLAVOR}Los contratistas de ZCorp pueden comprar material de oficina de ZCorp a precio reducido.
 
 [ZOMBIE_ZCORP_FEM_ARMOR1_DESCRIPTION_HEADER]
 La combinación de un cuaderno y una chincheta absurdamente grande hace destacar a esta contratista.
@@ -83280,13 +83277,13 @@ La combinación de un cuaderno y una chincheta absurdamente grande hace destacar
 Contratista caracubo
 
 [ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION]
-ZCorp anima a sus contratistas a plantear soluciones que no sean de cajón para salvar el cuello (y la cabeza).
+{FLAVOR}ZCorp anima a sus contratistas a plantear soluciones que no sean de cajón para salvar el cuello (y la cabeza).
 
 [ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION_HEADER]
 Los cubos de reciclaje son un tocado excelente y respetuoso con el medioambiente.
 
 [ZOMBIE_ZCORP_FEM_DESCRIPTION]
-ZCorp es una compañía tan inclusiva que hasta les da a sus contratistas tazas gratis.
+{FLAVOR}ZCorp es una compañía tan inclusiva que hasta les da a sus contratistas tazas gratis.
 
 [ZOMBIE_ZCORP_FEM_DESCRIPTION_HEADER]
 Típica contratista de ZCorp SA.
@@ -83298,7 +83295,7 @@ La combinación de un cuaderno y una chincheta absurdamente grande hace destacar
 Zombi abanderado de ZCorp
 
 [ZOMBIE_ZCORP_FLAG_DESCRIPTION]
-En ZCorp desarrollaron el logotipo de su bandera de forma interna y se enorgullecen de ello.
+{FLAVOR}En ZCorp desarrollaron el logotipo de su bandera de forma interna y se enorgullecen de ello.
 
 [ZOMBIE_ZCORP_FLAG_DESCRIPTION_HEADER]
 La bandera es una forma estupenda de crear reconocimiento de marca e indicar a la vez que van a aparecer muchos más zombis y a comerse tu cerebro.
@@ -83307,7 +83304,7 @@ La bandera es una forma estupenda de crear reconocimiento de marca e indicar a l
 Zombinsteindito director
 
 [ZOMBIE_ZCORP_GARGANTUAR_DESCRIPTION]
-La puerta de Zombinsteindito director siempre está abierta. Sin embargo, no es nada recomendable entrar.
+{FLAVOR}La puerta de Zombinsteindito director siempre está abierta. Sin embargo, no es nada recomendable entrar.
 
 [ZOMBIE_ZCORP_GARGANTUAR_DESCRIPTION_HEADER]
 Su cocorota gigante es un instrumento romo.
@@ -83316,7 +83313,7 @@ Su cocorota gigante es un instrumento romo.
 Asistente ZCorp
 
 [ZOMBIE_ZCORP_HELPDESK_DESCRIPTION]
-El Asistente ZCorp está aquí para ayudarte, sobre todo si tienes demasiadas plantas en el patio.
+{FLAVOR}El Asistente ZCorp está aquí para ayudarte, sobre todo si tienes demasiadas plantas en el patio.
 
 [ZOMBIE_ZCORP_HELPDESK_DESCRIPTION_HEADER]
 El Asistente ZCorp cae y lanza una computadora portátil explosiva.
@@ -83325,7 +83322,7 @@ El Asistente ZCorp cae y lanza una computadora portátil explosiva.
 Jurista Zombidinstein
 
 [ZOMBIE_ZCORP_IMP_DESCRIPTION]
-El Jurista Zombidinstein firma las órdenes de cese y desista a la antigua usanza: con un bate de béisbol.
+{FLAVOR}El Jurista Zombidinstein firma las órdenes de cese y desista a la antigua usanza: con un bate de béisbol.
 
 [ZOMBIE_ZCORP_IMP_DESCRIPTION_HEADER]
 Pequeñito pero matón, el departamento del Jurista Zombidinstein es la crème de la necrème del negocio zombi.
@@ -83334,7 +83331,9 @@ Pequeñito pero matón, el departamento del Jurista Zombidinstein es la crème d
 Atleta de silla de ZCorp
 
 [ZOMBIE_ZCORP_RACER_CHAIR_DESCRIPTION]
-Aporta diversión y espontaneidad a la experiencia zcorporativa.
+{KEYWORD}Debilidad: {STAT}Nuez cáscara-rabias y Lanzaguisantes primitivo
+
+{FLAVOR}Aporta diversión y espontaneidad a la experiencia zcorporativa.
 
 [ZOMBIE_ZCORP_RACER_CHAIR_DESCRIPTION_HEADER]
 Entra a toda velocidad, choca con un enorme impacto y se catapulta hacia la izquierda con una gracilidad extraordinaria.
@@ -83343,7 +83342,7 @@ Entra a toda velocidad, choca con un enorme impacto y se catapulta hacia la izqu
 Zombi de bobsleigh
 
 [ZOMBIE_ZOMBIE_BOBSLED_CREW_DESCRIPTION]
-Puede que su trineo sea historia, pero ¡estos zombis lo dan todo por las emociones escalofriantes!
+{FLAVOR}Puede que su trineo sea historia, pero ¡estos zombis lo dan todo por las emociones escalofriantes!
 
 [ZOMBIE_ZOMBIE_BOBSLED_CREW_DESCRIPTION_HEADER]
 El zombi de bobsleigh continúa incluso sin su trineo.
@@ -83396,7 +83395,7 @@ Arrasa con una línea entera de plantas si no lo destruyes a tiempo.
 Árbol del dinero
 
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION]
-Su codicia no tiene límites, y hará todo lo posible por proteger su fortuna.
+{FLAVOR}Su codicia no tiene límites, y hará todo lo posible por proteger su fortuna.
 
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION_HEADER]
 Está adornado con monedas relucientes que caen con cada golpe.
@@ -83485,7 +83484,7 @@ El antagonista de una obra infantil.
 Zombidito lobo
 
 [ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP_DESCRIPTION]
-No es el más grande de la manada, pero sí el más insistente cuando hay algo que robar.
+{FLAVOR}No es el más grande de la manada, pero sí el más insistente cuando hay algo que robar.
 
 [ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_IMP_DESCRIPTION_HEADER]
 Lobo zombi de pequeña estatura que se mueve rápido por el escenario.
@@ -83520,7 +83519,7 @@ Bestia del Año Nuevo Chino. Salta a la planta más cercana y la devora por comp
 Zomboide guisantrallador
 
 [ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA_DESCRIPTION]
-La única solución que encontró para sus problemas fue añadir más guisantes.
+{FLAVOR}La única solución que encontró para sus problemas fue añadir más guisantes.
 
 [ZOMBIE_ZOMBIE_ZOYBEANPODGATLINGPEA_DESCRIPTION_HEADER]
 Zomboide bien equipado para la acción. Dispara 4 guisantes al enemigo.
@@ -83626,6 +83625,7 @@ Hidra Zombot
 
 [ZOMBIE_ZOMBOSSMECH_HYDRA_DESCRIPTION]
 {KEYWORD}Daño: {STAT}escupe veneno que destruye plantas
+
 {KEYWORD}Especial: {STAT}dispara espejos mágicos y hace invencibles a los zombis por un tiempo
 {KEYWORD}Especial: {STAT}expulsa niebla mágica que convierte plantas en sapos
 
@@ -83638,7 +83638,7 @@ Una obra maestra llena de tecnología y fantasía.
 Zombot Maestro del colmillo 10000 A. C.
 
 [ZOMBIE_ZOMBOSSMECH_ICEAGE_DESCRIPTION]
-Dr. Zombi quedó muy satisfecho después de que se le ocurriera construir un mamut lanudo armado con el poder de lanzar nieve y hielo de su trompa mecánica. Pero Dr. Zombi tardó en darse cuenta de algo muy importante: es alérgico a la piel del mamut. Ahora tiene que tomar muchos antihistamínicos cada vez que quiere ir de paseo con el maldito trasto.
+{FLAVOR}Dr. Zombi quedó muy satisfecho después de que se le ocurriera construir un mamut lanudo armado con el poder de lanzar nieve y hielo de su trompa mecánica. Pero Dr. Zombi tardó en darse cuenta de algo muy importante: es alérgico a la piel del mamut. Ahora tiene que tomar muchos antihistamínicos cada vez que quiere ir de paseo con el maldito trasto.
 
 [ZOMBIE_ZOMBOSSMECH_ICEAGE_DESCRIPTION_HEADER]
 Mamut mecánico con un destello helado del pasado.
@@ -83669,7 +83669,7 @@ El mayor saqueador de plantas que surca los mares.
 Dr. Zombi 2.0
 
 [ZOMBIE_ZOMBOSSMECH_PVZ1_ROBOT_1_DESCRIPTION]
-Para Zomboss, perder no es una opción. Este Zombot volvió al taller hecho chatarra y salió con más acero y más rabia. Dice que esta vez todo saldrá perfecto. Lo dice cada vez. Y aun así, ahí va otra vez, convencido de que el problema nunca fue él, sino el mundo que no entiende su "genio".
+{FLAVOR}Para Zomboss, perder no es una opción. Este Zombot volvió al taller hecho chatarra y salió con más acero y más rabia. Dice que esta vez todo saldrá perfecto. Lo dice cada vez. Y aun así, ahí va otra vez, convencido de que el problema nunca fue él, sino el mundo que no entiende su "genio".
 
 [ZOMBIE_ZOMBOSSMECH_PVZ1_ROBOT_1_DESCRIPTION_HEADER]
 Una vez reparado su antiguo proyecto, Zomboss está aquí para terminar lo que empezó.
@@ -83789,6 +83789,7 @@ Bestia rugiente Zombot
 
 [ZOMBIE_ZOMBOSS_TEAMBOSS_DESCRIPTION]
 {KEYWORD}Daño: {STAT}dispara fuegos artificiales en un alcance amplio
+
 {KEYWORD}Especial: {STAT}la turbina de la boca puede atraer plantas
 {KEYWORD}Debilidades: {STAT}las plantas de fuego bloquean su turbina, las explosivas redirigen fuegos artificiales
 
@@ -83801,7 +83802,7 @@ Creación festiva del Dr. Zombi, asola todo en una gran explosión.
 Zomboide carazanahoria
 
 [ZOMBIE_ZOYBEANPOD_ARMOR1_DESCRIPTION]
-Un zomboide rico en tofu y betacaroteno.
+{FLAVOR}Un zomboide rico en tofu y betacaroteno.
 
 [ZOMBIE_ZOYBEANPOD_ARMOR1_DESCRIPTION_HEADER]
 Su zanahoria le otorga el doble de dureza que el zomboide básico.
@@ -83810,7 +83811,7 @@ Su zanahoria le otorga el doble de dureza que el zomboide básico.
 Zomboide carasandía
 
 [ZOMBIE_ZOYBEANPOD_ARMOR2_DESCRIPTION]
-Si bien, la sandía lo protege de muchas cosas, le da un toque único a su personalidad.
+{FLAVOR}Si bien, la sandía lo protege de muchas cosas, le da un toque único a su personalidad.
 
 [ZOMBIE_ZOYBEANPOD_ARMOR2_DESCRIPTION_HEADER]
 Su sandía le otorga el triple de dureza que el zomboide básico.
@@ -83819,24 +83820,13 @@ Su sandía le otorga el triple de dureza que el zomboide básico.
 Zomboide
 
 [ZOMBIE_ZOYBEANPOD_BASIC_DESCRIPTION]
-Además del tofu, a Vaina de zoja se le da bien crear zomboides usando hechizos de un libro antiguo que encontró.
+{FLAVOR}Además del tofu, a Vaina de zoja se le da bien crear zomboides usando hechizos de un libro antiguo que encontró.
 
 [ZOMBIE_ZOYBEANPOD_BASIC_DESCRIPTION_HEADER]
 Un zomboide hecho a base de tofu, luchará por ti contra los zombis enemigos.
 
 [ZOMBIE_ZOYBEANPOD_GARGANTUAR]
 Zomboidestein
-
-[ZOMBIE_ZOYBEANPOD_GARGANTUAR2]
-Zomboidestein rábano
-
-[ZOMBIE_ZOYBEANPOD_GARGANTUAR2_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta y aturde zombis con su gigantesco rábano
-
-{FLAVOR}Cambió la hoja de ruibarbo por un rábano gigante. Nadie entendió por qué, pero los zombis dejaron de hacer preguntas rápidamente.
-
-[ZOMBIE_ZOYBEANPOD_GARGANTUAR2_DESCRIPTION_HEADER]
-Variante experimental creada con todavía más tofu.
 
 [ZOMBIE_ZOYBEANPOD_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Daño: {STAT}aplasta zombis con su gigantesca hoja de ruibarbo
@@ -83850,7 +83840,7 @@ Zomboide creado tras un preocupante exceso de tofu.
 Shaolin almirante
 
 [ZOMBIE_kongfu_basic_armor3_DESCRIPTION]
-No solo estudió Kung Fu en el templo, también fue un militar durante muchos años. ¡Disciplina ante todo!
+{FLAVOR}No solo estudió Kung Fu en el templo, también fue un militar durante muchos años. ¡Disciplina ante todo!
 
 [ZOMBIE_kongfu_basic_armor3_DESCRIPTION_HEADER]
 Su resistente casco militar le brinda una inmensa protección contra el daño.
