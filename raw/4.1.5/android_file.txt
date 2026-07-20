@@ -1,6 +1,39 @@
 ﻿[#OF#]
 # de #
 
+[NARRATIVE_VETERAN_WARNING_1]
+{NPC_ENTER:crazydave}{SAY:crazydave}¡Oye, Penny!
+
+[NARRATIVE_VETERAN_WARNING_2]
+{NPC_ENTER:winnie}{SAY:winnie}¿Sí, usuario Dave?
+
+[NARRATIVE_VETERAN_WARNING_3]
+{SAY:crazydave}¿Deberíamos mencionar que estos nodos post-Dr. Zombi son MUY difíciles?
+
+[NARRATIVE_VETERAN_WARNING_4]
+{SAY:crazydave}¿Y que sería una LOCURA intentar superarlos con plantas sin niveles aumentados?
+
+[NARRATIVE_VETERAN_WARNING_5]
+{SAY:winnie}Deberíamos. Bueno, ya lo hiciste.
+
+[NARRATIVE_VETERAN_WARNING_6]
+{SAY:crazydave}¡Pues lo voy a repetir!
+
+[NARRATIVE_VETERAN_WARNING_7]
+{SHOUT:crazydave}¡LA DIFICULTAD DE ESTOS NIVELES ES UNA LOCURA!
+
+[NARRATIVE_VETERAN_WARNING_8]
+{SHOUT:crazydave}¡DEBERÍAS CONSEGUIR PLANTAS DE AL MENOS NIVEL 5 PARA SUPERARLOS!
+
+[NARRATIVE_VETERAN_WARNING_9]
+{SHOUT:crazydave}¡EN SERIO, EXPLORA ANTES OTROS MUNDOS!
+
+[NARRATIVE_VETERAN_WARNING_10]
+{SAY:winnie}No es necesario gritar, usuario Dave.
+
+[NARRATIVE_VETERAN_WARNING_11]
+{SHOUT:crazydave}¡NO ESTOY DE ACUERDO!
+
 [ZOMBIE_MUMMY_ARMOR4]
 Zombi carapirámide
 
@@ -9,6 +42,24 @@ Zombi carapirámide no es consciente de que su pirámide tiene forma de pirámid
 
 [ZOMBIE_MUMMY_ARMOR4_DESCRIPTION_HEADER]
 Su casco con forma de pirámide le proporciona una protección triangular a la cabeza.
+
+[ZOMBIE_EXPLORER_VETERAN]
+Zombi antorcha
+
+[ZOMBIE_EXPLORER_VETERAN_DESCRIPTION]
+A Zombi con antorcha no le da miedo la oscuridad. No es porque siempre lleve consigo una antorcha, sino porque su condición de zombi le impide tener miedo.
+
+[ZOMBIE_EXPLORER_VETERAN_DESCRIPTION_HEADER]
+Lleva una antorcha que destruye plantas instantáneamente y abrasa la tierra.
+
+[ZOMBIE_MUMMY_FLAG_VETERAN]
+Zombi inspirador de Egipto
+
+[ZOMBIE_MUMMY_FLAG_VETERAN_DESCRIPTION]
+A veces, un Zombi abanderado momia no es suficiente para inspirar la cantidad deseada de terror y desasosiego. En esas ocasiones, mejorar al Zombi inspirador de Egipto no es la elección más racional, sino la única que hay.
+
+[ZOMBIE_MUMMY_FLAG_VETERAN_DESCRIPTION_HEADER]
+Celebra con más vigor y ferocidad la llegada de una nueva oleada de villanos con vendas.
 
 [ZOMBIE_PIRATE_ARMOR4]
 Zombi caratonel
@@ -19,6 +70,15 @@ Arrastrado de los mares más profundos, el tonel de Zombi caratonel es un barril
 [ZOMBIE_PIRATE_ARMOR4_DESCRIPTION_HEADER]
 El sombrero con forma de barril de Zombi caratonel le proporciona protección aumentada.
 
+[ZOMBIE_PIRATE_FLAG_VETERAN]
+Zombi inspirador pirata
+
+[ZOMBIE_PIRATE_FLAG_VETERAN_DESCRIPTION]
+Zombi inspirador pirata y su bandera se fusionaron en una unidad masticadora de cerebros. Su trabajo en equipo inspira a necrófagos de todas partes.
+
+[ZOMBIE_PIRATE_FLAG_VETERAN_DESCRIPTION_HEADER]
+Zombi inspirador pirata marca la llegada de muchos y muchos zombis.
+
 [ZOMBIE_COWBOY_ARMOR4]
 Zombi caracarro
 
@@ -28,6 +88,24 @@ Zombi caracarro se podría mover mucho más rápido si hiciera el pino y rodara,
 [ZOMBIE_COWBOY_ARMOR4_DESCRIPTION_HEADER]
 El sombrero con forma de carro de Zombi caracarro le ofrece una protección craneal sobre ruedas.
 
+[ZOMBIE_WEST_BULL_VETERAN]
+Zombi leyenda del rodeo
+
+[ZOMBIE_WEST_BULL_VETERAN_DESCRIPTION]
+"Leyenda" quizá exagere el estatus de este zombi en el mundo del rodeo. Sin embargo, no se lo digas a menos que quieras escucharle durante horas cómo se atrapa el ganado con un lazo.
+
+[ZOMBIE_WEST_BULL_VETERAN_DESCRIPTION_HEADER]
+Zombi leyenda del rodeo aplasta a una planta y lanza a su jinete zombi por encima de la mayoría de tus defensas.
+
+[ZOMBIE_COWBOY_FLAG_VETERAN]
+Zombi inspirador cowboy
+
+[ZOMBIE_COWBOY_FLAG_VETERAN_DESCRIPTION]
+La bandera de Zombi inspirador cowboy tiene flechas que apuntan al cerebro, como si quisiera decir "eh, mirad todos, me gustaría enfatizar esta imagen". Es un diseño bastante astuto.
+
+[ZOMBIE_COWBOY_FLAG_VETERAN_DESCRIPTION_HEADER]
+Zombi inspirador cowboy marca la llegada de una estampida de zombis de buen tamaño.
+
 [ZOMBIE_FUTURE_ARMOR4]
 Zombi caraholograma
 
@@ -36,6 +114,26 @@ El campo de fuerza tiene ese color único por la armonía de la frecuencia y una
 
 [ZOMBIE_FUTURE_ARMOR4_DESCRIPTION_HEADER]
 El campo de fuerza instalado en la cabeza de Zombi caraholograma le proporciona una hiperprotección.
+
+[ZOMBIE_FUTURE_PROTECTOR_VETERAN]
+Zombi deflector
+
+[ZOMBIE_FUTURE_PROTECTOR_VETERAN_DESCRIPTION]
+{KEYWORD}Especial: {STAT}el escudo se regenera periódicamente
+
+{FLAVOR}Zombi deflector vio lo que hacía Zombi escudo y se dijo "CEREEEBROOOOS", porque es la única palabra que conocen los zombis.
+
+[ZOMBIE_FUTURE_PROTECTOR_VETERAN_DESCRIPTION_HEADER]
+Zombi deflector se protege con un potente campo de fuerza que se extiende por 5 filas.
+
+[ZOMBIE_MECH_CONE_VETERAN]
+Zombi robocubo
+
+[ZOMBIE_MECH_CONE_VETERAN_DESCRIPTION]
+Se rumorea que este zombi fue la prueba fallida de un experimento para combinar inteligencia artificial y geometría sólida.
+
+[ZOMBIE_MECH_CONE_VETERAN_DESCRIPTION_HEADER]
+El cubo blindado ofrece una excelente resistencia al portador.
 
 [ZOMBIE_DARK_ARMOR4]
 Zombi caratorre
@@ -64,6 +162,24 @@ Si fueras a extraer ADN de Zombi caraámbar y lo combinaras con el ADN de una ra
 [ZOMBIE_DINO_ARMOR4_DESCRIPTION_HEADER]
 La bola de ámbar que recubre la cabeza de Zombi caraámbar le proporciona una protección endurecida.
 
+[ZOMBIE_DINO_BULLY_VETERAN]
+Puñorroca jurásico
+
+[ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION]
+Alguien les ató piedras a las manos de Puñorroca jurásico. Como no se las podía quitar (porque tenía piedras atadas a las manos), no tuvo más opción que seguir como estaba.
+
+[ZOMBIE_DINO_BULLY_VETERAN_DESCRIPTION_HEADER]
+Puñorroca jurásico aplasta a las plantas con sus piedras atadas a las manos.
+
+[ZOMBIE_DINO_FLAG_VETERAN]
+Zombi inspirador jurásico
+
+[ZOMBIE_DINO_FLAG_VETERAN_DESCRIPTION]
+¿De dónde sacó Zombi inspirador jurásico esa nueva bandera tan elegante? Es un misterio. La policía debería investigarlo. O igual podríamos hacer una colecta y contratar a un detective. Es inquietante de verdad.
+
+[ZOMBIE_DINO_FLAG_VETERAN_DESCRIPTION_HEADER]
+Zombi inspirador jurásico marca la llegada de un gran grupo de zombis.
+
 [ZOMBIE_TUTORIAL_ARMOR4]
 Zombi caraladrillo
 
@@ -72,6 +188,15 @@ Después de consultarlo con varios lobos de cuentos, decidió que los cascos de 
 
 [ZOMBIE_TUTORIAL_ARMOR4_DESCRIPTION_HEADER]
 La cabeza de ladrillo de Zombi caraladrillo está enladrillada enladrilladamente.
+
+[ZOMBIE_TUTORIAL_FLAG_VETERAN]
+Zombi inspirador
+
+[ZOMBIE_TUTORIAL_FLAG_VETERAN_DESCRIPTION]
+Zombi inspirador se dio el lujo de una bandera de piel porque, diantres, él lo vale.
+
+[ZOMBIE_TUTORIAL_FLAG_VETERAN_DESCRIPTION_HEADER]
+Zombi inspirador y su bandera marcan la llegada de una marabunta o "montón" de zombis.
 
 [SMALLCHERRY]
 Cerecita
@@ -1983,10 +2108,10 @@ El daño de la explosión aumenta en un ^D22808^40 %^oldclr^
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^80 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: lanza un meteoro que cae al centro del patio y ^FF9600^aturde ^DB8117^zombis por 2 s ^D22808^Daño: 1.800 (área 5x5)^oldclr^
+^DB8117^Nutrientes: lanza un meteoro que cae al centro del patio y ^848484^aturde ^DB8117^zombis por 2 s ^D22808^Daño: 1.800 (área 5x5)^oldclr^
 
 [ALARMSAGITTIFOLIA_NEW_SKILL_LEVEL5_DES]
-^FF9600^Aturde^oldclr^ a los zombis que no son máquinas durante ^D22808^1 s^oldclr^ y les inflige daño eléctrico.
+^FF9600^Paraliza^oldclr^ a los zombis que no son máquinas durante ^D22808^1 s^oldclr^ y les inflige daño eléctrico.
 
 [ALARMSAGITTIFOLIA_PEDIA]
 La cabeza de flecha (Sagittaria sagittifolia) es una planta acuática de hojas en forma de punta de flecha, que crece en lagunas, canales y ríos. Sus flores blancas con centro púrpura y su rizoma comestible la hacen útil y decorativa.
@@ -1995,8 +2120,7 @@ La cabeza de flecha (Sagittaria sagittifolia) es una planta acuática de hojas e
 Originaria de Eurasia, fue usada tradicionalmente en Asia por su tubérculo nutritivo. También es valorada por su forma estética en jardines acuáticos. Su nombre alude a la forma característica de sus hojas, que recuerdan a una punta de flecha.
 
 [ALARMSAGITTIFOLIA_PLANTFOOD_DESCRIPTION]
-Lanza un meteoro que cae al centro del patio y ^FF9600^aturde^oldclr^ a los zombis de un área 5x5 durante 2 s
-^D22808^Daño: 1.800^oldclr^
+Lanza un meteoro que cae al centro del patio y aturde zombis
 
 [ALARMSAGITTIFOLIA_SKILL_LEVEL1]
 Nivel 2
@@ -3114,12 +3238,12 @@ Rhododendron
 ^DD7ECB^Danza de pétalos: cada 10 s, otorga ^D22808^20 % más daño y 50 % más velocidad ^DD7ECB^por ^D22808^5 s^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL2_DES]
-^DB8117^Nube sagrada: reduce la cantidad de soles consumidos en un ^D22808^50 % (100 % del coste)^oldclr^
-^DD7ECB^Danza de pétalos: se activa ^D22808^2 s ^DD7ECB^más rápido ^D22808^(ahora 8 s)^oldclr^
+^DB8117^Nube sagrada: coste de la habilidad ^D22808^-50 % (coste actual: 100 %)^oldclr^
+^DD7ECB^Danza de pétalos: tiempo de activación ^D22808^-2 s (ahora 8 s)^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL3_DES]
-^DB8117^Nube sagrada: reduce la cantidad de soles consumidos en un ^D22808^100 % (50 % del coste)^oldclr^
-^DD7ECB^Danza de pétalos: se activa ^D22808^4 s ^DD7ECB^más rápido ^D22808^(ahora 6 s)^oldclr^
+^DB8117^Nube sagrada: coste de la habilidad ^D22808^-100 % (coste actual: 50 %)^oldclr^
+^DD7ECB^Danza de pétalos: tiempo de activación ^D22808^-4 s (ahora 6 s)^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -3135,10 +3259,10 @@ Azálea imperial estaba basada en la azálea china (Rhododendron simsii) es un a
 Es originaria del este de Asia, especialmente de China, donde se cultiva desde hace siglos como planta ornamental. Fue introducida en Europa en el siglo XVIII, donde empezó a cruzarse con otras especies del género para crear nuevas variedades.
 
 [APSARLOTUS_PLANTFOOD_DESCRIPTION]
-Libera nubes en un área 1x3 que otorgan un 100% más daño y 50% más velocidad durante 10 s
+Libera nubes al frente, estas otorgan más daño y mayor velocidad
 
 [APSARLOTUS_PRODUCT_SHORT_DESC]
-Libera pétalos y nubes que potencian a las plantas de su alrededor
+Libera pétalos y nubes que potencian plantas
 
 [APSARLOTUS_SKILL_LEVEL1]
 Nivel 2
@@ -6381,10 +6505,10 @@ Palmera de soda bloquea a los zombis atacantes y después de un lapso de tiempo,
 Bloquea zombis, se infla y estalla, derribando zombis medianos por ^D22808^4 casillas. ^FF8000^Tiempo de inflado: 6 s^oldclr^
 
 [BEERCOCONUT_NEW_SKILL_LEVEL2_DES]
-Se reduce el tiempo de inflado en ^D22808^1 s (ahora 5 s)^oldclr^
+Tiempo de inflado ^D22808^-1 s (ahora 5 s)^oldclr^
 
 [BEERCOCONUT_NEW_SKILL_LEVEL3_DES]
-Se reduce el tiempo de inflado en ^D22808^2 s (ahora 4 s)^oldclr^
+Tiempo de inflado ^D22808^-2 s (ahora 4 s)^oldclr^
 
 [BEERCOCONUT_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^80 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -8110,8 +8234,7 @@ Rango: {RANK}
 No obtuviste recompensas, ¡buena suerte para la próxima!
 
 [BOSS_CHALLENGE_REWARD_FAIL_TIP]
-No se puedo obtener la recompensa.
-<Código de error: {NUM}>
+No se puedo obtener la recompensa. <Código de error: {NUM}>
 
 [BOSS_CHALLENGE_REWARD_RANK_TIP]
 Puesto: ^FF0000^{RANK}^oldclr^
@@ -8167,10 +8290,10 @@ Echa a rodar 3 bulbos que botan y que pueden impactar en varios zombis.
 ^3827F5^Recarga: 4 s (menor a mayor)^oldclr^
 
 [BOWLINGBULB_NEW_SKILL_LEVEL2_DES]
-Gana un ^D22808^25 % de probabilidad^oldclr^ de recargar ^D22808^2^oldclr^ bulbos a la vez.
+^D22808^25 % de probabilidad^oldclr^ de recargar ^D22808^2^oldclr^ bulbos a la vez.
 
 [BOWLINGBULB_NEW_SKILL_LEVEL3_DES]
-Gana un ^D22808^40 % de probabilidad^oldclr^ de recargar ^D22808^3^oldclr^ bulbos a la vez.
+^D22808^40 % de probabilidad^oldclr^ de recargar ^D22808^3^oldclr^ bulbos a la vez.
 
 [BOWLINGBULB_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^90 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -8242,7 +8365,7 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 Arbusto espinoso bloquea zombis y te proteje de las pisadas del Brontosaurio.
 
 [BRAMBLE_NEW_SKILL_LEVEL1_DES]
-Bloquea zombis y ^E2725B^te proteje de las pisadas del Brontosaurio.^oldclr^
+Bloquea zombis y ^E2725B^te proteje de las pisadas del Brontosaurio^oldclr^
 
 [BRAMBLE_PLANTFOOD_DESCRIPTION]
 ^FF0000^Sin efecto de Nutrientes.^oldclr^
@@ -8261,7 +8384,7 @@ Arroja al primer zombi que encuentre por su línea, causando un gran daño a tod
 ^D22808^Daño: 3.000^oldclr^
 
 [BROCCOLI_DESCRIPTION]
-{KEYWORD}Información de alcance: {STAT}una casilla frente a él
+{KEYWORD}Información de alcance: {STAT}casilla al frente
 {KEYWORD}Debilidad: {STAT}no puede atacar a zombis grandes o voladores
 
 {KEYWORD}Características de la planta: {STAT}planta verde, artista marcial, destructora
@@ -8269,7 +8392,7 @@ Arroja al primer zombi que encuentre por su línea, causando un gran daño a tod
 {FLAVOR}Una vez soñó con convertirse en un superhéroe, como los que vió en los cómics. Para lograr su sueño, se unió al club de judo y entrenó todos los días sin descanso. No tiene superpoderes aún, pero su fuerza es lo más cerca que ha estado de uno.
 
 [BROCCOLI_DESCRIPTION_HEADER]
-Brócoli vigoroso azota a los zombis cercanas con un suplex, golpeando al resto.
+Brócoli vigoroso azota a los zombis cercanos con un suplex, golpeando al resto que esté en la casilla de impacto.
 
 [BROCCOLI_FAMILY]
 Brassicaceae
@@ -8278,13 +8401,13 @@ Brassicaceae
 Brassica
 
 [BROCCOLI_NEW_SKILL_LEVEL1_DES]
-Agarra al primer zombi que se le acerque y lo golpea ^D22808^2^oldclr^ veces contra el suelo.
+Azota zombis con un suplex. ^D22808^Secuencia de ataques: 2^oldclr^
 
 [BROCCOLI_NEW_SKILL_LEVEL2_DES]
-Gana un ^D22808^20 % de probabilidad^oldclr^ de lanzar a un zombi con salud baja fuera del patio.
+^D22808^20 % de probabilidad^oldclr^ de lanzar a un zombi con salud baja fuera del patio.
 
 [BROCCOLI_NEW_SKILL_LEVEL3_DES]
-Gana un ^D22808^40 % de probabilidad^oldclr^ de lanzar a un zombi con salud baja fuera del patio.
+^D22808^40 % de probabilidad^oldclr^ de lanzar a un zombi con salud baja fuera del patio.
 
 [BROCCOLI_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -8338,7 +8461,7 @@ El área del efecto aumenta a ^D22808^4x3^oldclr^. ^D22808^Daño: 750 (x2)^oldcl
 {FLAVOR}"¿Me retas a un duelo de piedra, papel y tijeras? ¿Es esa la nueva forma de combate de ustedes?" Para Bromelia guerreante, todo lo que le rodea es tan aburrido. Lo que en realidad busca es una batalla que esté en pleno apogeo.
 
 [BROMELBLADE_DESCRIPTION_HEADER]
-Bromelia guerreante es una planta muy hábil que ataca a los zombis que se acerquen con una cadena de cuchillas súper-afiladas.
+Bromelia guerreante acuchilla a los zombis cercanos con sus espigas súper-afiladas.
 
 [BROMELBLADE_FAMILY]
 Bromeliaceae
@@ -8347,15 +8470,14 @@ Bromeliaceae
 Aechmea
 
 [BROMELBLADE_NEW_SKILL_LEVEL1_DES]
-Ataca a los zombis cercanos con una cadena de cuchillas.
-^E2725B^Estocada: ^D22808^multiplicador de daño x6^oldclr^
+Acuchilla a los zombis cercanos. ^E2725B^Estocada: ^D22808^multiplicador de daño x6^oldclr^
 
 [BROMELBLADE_NEW_SKILL_LEVEL2_DES]
-Gana un ^D22808^20 % de probabilidad^oldclr^ de lanzar una estocada directa, la cual, arroja zombis por los aires.
+^D22808^20 % de probabilidad^oldclr^ de lanzar una estocada directa, la cual, arroja zombis por los aires.
 ^D22808^Multiplicador de daño: x10^oldclr^
 
 [BROMELBLADE_NEW_SKILL_LEVEL3_DES]
-Gana un ^D22808^40 % de probabilidad^oldclr^ de lanzar una estocada directa, la cual, arroja zombis por los aires.
+^D22808^40 % de probabilidad^oldclr^ de lanzar una estocada directa, la cual, arroja zombis por los aires.
 ^D22808^Multiplicador de daño: x10^oldclr^
 
 [BROMELBLADE_NEW_SKILL_LEVEL4_DES]
@@ -8363,7 +8485,7 @@ Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: blande su hoja de cuchillas, infligiendo daño masivo en un área 3x3 delante de él. ^D22808^Daño: 600 (x2)^oldclr^
 
 [BROMELBLADE_NEW_SKILL_LEVEL5_DES]
-Existe un ^D22808^50 % de probabilidad^oldclr^ de derribar zombis por ^D22808^1,5 casillas^oldclr^ tras ^D22808^2^oldclr^ estocadas letales.
+^D22808^50 % de probabilidad^oldclr^ de derribar zombis por ^D22808^1,5 casillas^oldclr^ tras ^D22808^2^oldclr^ estocadas letales.
 ^D22808^Daño: 5.400 (4 casillas al frente)^oldclr^
 
 [BROMELBLADE_PEDIA]
@@ -8373,7 +8495,7 @@ Bromelia guerreante está basada en la bromelia roja (Aechmea tillandsioides), u
 Esta planta es también conocida como "bromelia pico de loro" debido a la forma de sus inflorescencias. Ha sido utilizada en Brasil desde tiempos antiguos en prácticas medicinales y como fuente de alimento para algunos animales nativos, hoy día su uso es ornamental principalmente.
 
 [BROMELBLADE_PLANTFOOD_DESCRIPTION]
-Blande su hoja de cuchillas, infligiendo daño masivo en un área 3x3 delante de él. ^D22808^Daño: 600 (x2)^oldclr^
+Blande su hoja de cuchillas, infligiendo daño masivo en un área delante de él
 
 [BROMELBLADE_PRODUCT_SHORT_DESC]
 Acuchilla a los zombis cercanos
@@ -8426,8 +8548,7 @@ Cactaceae
 Cylindropuntia
 
 [BUBBLECORAL_NEW_SKILL_LEVEL1_DES]
-Ataca con burbujas alternando de formas al tocarla.
-^D22808^Daño: 40 → 120 (derriba 1 casilla) → 320^oldclr^
+Ataca con burbujas alternando de formas al tocarla. ^D22808^Daño: 40 → 120 (derriba 1 casilla) → 320^oldclr^
 
 [BUBBLECORAL_NEW_SKILL_LEVEL2_DES]
 Burbujas pequeñas: su número aumenta a ^D22808^20^oldclr^
@@ -8484,7 +8605,7 @@ Ataca con burbujas alternando de formas al tocarla
 Bad'ah Bum
 
 [BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
-Se recarga un 20% más rápido
+Se recarga un ^D22808^20 %^oldclr^ más rápido
 
 [BUDUHBOOM_DESCRIPTION]
 {KEYWORD}Especial: {STAT}su manteca evita que los zombis limo se dividan
@@ -8540,7 +8661,7 @@ Nivel 3
 Inflige daños enormes en un área y deja mantequilla en algunas casillas
 
 [BUNDLE_OUT_OF_TIME]
-Los paquetes de regalo han caducado
+Lotes caducados
 
 [BURDOCKBATTER]
 Bardana de béisbol
@@ -8572,23 +8693,23 @@ Arctium
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL1_DES]
 Golpea zombis cercanos y batea guisantes. ^D22808^Distancia de empuje: 0,05 casillas (golpe)^oldclr^
-^A0522D^Tiro recto: los guisantes bateados ganan un 100 % de daño y velocidad.^oldclr^
+^A0522D^Tiro recto: los guisantes bateados ganan un 100 % de daño y velocidad^oldclr^
 ^8B4513^Tiro curvo: los guisantes bateados aturden zombis por 2 s^oldclr^
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL2_DES]
-^A0522D^Tiro recto: los guisantes bateados derriban zombis 0.5 casillas^oldclr^
-^8B4513^Tiro curvo: los guisantes bateados aturden por 1 s adicional ^D22808^(ahora 3 s)^oldclr^
+^A0522D^Tiro recto: los guisantes bateados derriban zombis ^D22808^0.5 casillas^oldclr^
+^8B4513^Tiro curvo: los guisantes bateados aturden por ^D22808^1 s ^8B4513^adicional ^D22808^(ahora 3 s)^oldclr^
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL3_DES]
-^A0522D^Tiro recto: los guisantes bateados derriban zombis 1 casilla^oldclr^
-^8B4513^Tiro curvo: los guisantes bateados aturden por 2 s adicionales ^D22808^(ahora 4 s)^oldclr^
+^A0522D^Tiro recto: los guisantes bateados derriban zombis ^D22808^1 casilla^oldclr^
+^8B4513^Tiro curvo: los guisantes bateados aturden por ^D22808^2 s ^8B4513^adicionales ^D22808^(ahora 4 s)^oldclr^
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL4_DES]
 ^D22808^60% de probabilidad^oldclr^ de ser potenciados por Nutrientes al plantarse.
 ^DB8117^Nutrientes: los guisantes hacen 1.000 DPS, derriban zombis medianos o ^848484^aturden ^DB8117^por 4 s^oldclr^
 
 [BURDOCKBATTER_NEW_SKILL_LEVEL5_DES]
-Tiro curvo tiene ^D22808^10 % de probabilidad^oldclr^ de convertir guisantes en meteoros que hacen más daño.
+^8B4513^Tiro curvo: ^D22808^10 % de probabilidad ^8B4513^de convertir guisantes en meteoros que hacen más daño.^oldclr^
 ^D22808^Multiplicador de daño: x5^oldclr^
 
 [BURDOCKBATTER_PEDIA]
@@ -9096,10 +9217,10 @@ Diversos
 
 [CACTUS_NEW_SKILL_LEVEL1_DES]
 Dispara una espina que atraviesa a ^D22808^3 zombis^oldclr^
-^D22808^Daño terrestre: se esconde con zombis cerca para hacer 20 DPS/0.5 s^oldclr^
+^A0522D^Daño terrestre: se esconde con zombis cerca para hacer ^D22808^20 DPS/0.5 s^oldclr^
 
 [CACTUS_NEW_SKILL_LEVEL2_DES]
-Gana un ^D22808^17 % de probabilidad^oldclr^ de disparar espinas eléctricas que aturden zombis. ^D22808^Daño: 150^oldclr^
+^D22808^17 % de probabilidad^oldclr^ de disparar espinas eléctricas que aturden zombis. ^D22808^Daño: 150^oldclr^
 
 [CACTUS_NEW_SKILL_LEVEL3_DES]
 Perfora a ^D22808^2^oldclr^ zombis adicionales con sus espinas ^D22808^(5 en total)^oldclr^
@@ -9109,8 +9230,8 @@ Despertar: ^D22808^100 % de probabilidad^oldclr^ de activar Nutrientes al planta
 ^DB8117^Nutrientes: aumenta de forma permanente el poder y daño perforantes. ^D22808^Multiplicador de daño: x2^oldclr^
 
 [CACTUS_NEW_SKILL_LEVEL5_DES]
-Gana un ^D22808^20 % de probabilidad^oldclr^ de lanzar un cactus pequeño que tiene 1.000 PS y hace 60 DPS/0.5 s
-^E2725B^Cactus pequeño: 2/3 ataques ^FF9600^aturden ^E2725B^zombis durante 1 s^oldclr^
+^D22808^20 % de probabilidad^oldclr^ de lanzar un cactus pequeño que tiene 1.000 PS y hace 60 DPS/0.5 s
+^E2725B^Cactus pequeño: 2/3 ataques ^FF9600^paralizan ^E2725B^zombis durante 1 s^oldclr^
 
 [CACTUS_PEDIA]
 Los cactus son plantas suculentas originarias de América, adaptadas a climas áridos y secos. Se caracterizan por sus tallos que almacenan agua y la presencia de espinas en ellos, generalmente no tienen hojas. Algunas especies producen flores y frutos comestibles, como la tuna.
@@ -9202,7 +9323,7 @@ Pedir uno
 Selecciona tus plantas en la Bolsa de premios.
 
 [CALL_OF_WISH_SELECT_PLANT_TITLE]
-Selecciona una planta
+SELECCIONAR PLANTA DESEADA
 
 [CALL_OF_WISH_TASK_NAME_1]
 Inicia sesión
@@ -9662,7 +9783,7 @@ Despertar: ^D22808^25 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^FF0000^Límite: zombis de Nvl. 5^oldclr^
 
 [CAULIPOWER_NEW_SKILL_LEVEL5_DES]
-Gana un ^D22808^25 % de probabilidad^oldclr^ hipnotizar a un zombi fuerte y reiniciar su tiempo de recuperación.
+^D22808^25 % de probabilidad^oldclr^ de hipnotizar a un zombi fuerte y reiniciar su tiempo de recuperación.
 ^D22808^Daño a zombis no hipnotizables: 1.000^oldclr^
 
 [CAULIPOWER_PEDIA]
@@ -10183,13 +10304,13 @@ No hagas detonar {NUM_EXPLODE} Zombis jalapeño
 Evita que más de {NUM_HITS} plantas sean golpeadas por guisantes
 
 [CHANGENAME_GET_TIP_FAILED]
-No se pudo cambiar de nombre
+Fallo al cambiar nombre de usuario
 
 [CHANGE_SPEED_TUTORIAL]
 ¡Prueba el botón Turbo!
 
 [CHANGHEADSHOT_GET_TIP_FAILED]
-No se pudo reemplazar de Medalla
+Fallo al cambiar de avatar
 
 [CHARDGUARD]
 Guardacelga
@@ -10297,15 +10418,15 @@ Rosaceae
 Prunus
 
 [CHERRY_BOMB_NEW_SKILL_LEVEL1_DES]
-Explota con los zombis en un área mediana. Plántala cerca de ellos.
+Explota con los zombis en un área mediana. ^E2725B^Plántala cerca de ellos.^oldclr^
 
 [CHERRY_BOMB_NEW_SKILL_LEVEL2_DES]
-Gana un ^D22808^50 % de probabilidad^oldclr^ de dejar una Cerecita al explotar.
-^D22808^Cerecita: hace 2.700 DPS (área 1x2, se activa al contacto)^oldclr^
+^D22808^50 % de probabilidad^oldclr^ de dejar una ^DD7ECB^Cerecita^oldclr^ al explotar.
+^DD7ECB^Cerecita: hace 2.700 DPS (área 1x2, se activa al contacto)^oldclr^
 
 [CHERRY_BOMB_NEW_SKILL_LEVEL3_DES]
-Gana un ^D22808^100 % de probabilidad^oldclr^ de dejar una Cerecita al explotar.
-^D22808^Cerecita: hace 3.600 DPS (área 1x2, se activa al contacto)^oldclr^
+^D22808^100 % de probabilidad^oldclr^ de dejar una ^DD7ECB^Cerecita^oldclr^ al explotar.
+^DD7ECB^Cerecita: hace 3.600 DPS (área 1x2, se activa al contacto)^oldclr^
 
 [CHERRY_BOMB_PEDIA]
 Petacereza está evidentemente basada en la cereza (Prunus avium, o Prunus cerasus) es el fruto de árboles pequeños de climas templados, reconocida por su forma redondeada, color rojo brillante y sabor dulce o ligeramente ácido. Las cerezas se consumen frescas, en repostería o como conservas, y tienen un alto contenido de antioxidantes.
@@ -10317,7 +10438,7 @@ Originarias de Europa y Asia occidental, las cerezas eran ya conocidas por grieg
 Piezas de Petacereza
 
 [CHERRY_BOMB_PIECE_DESC]
-30 Piezas de Petacereza ^009900 (Por tiempo limitado) ^oldclr.
+30 Piezas de Petacereza ^009900^(Por tiempo limitado)^oldclr^
 
 [CHERRY_BOMB_PLANTFOOD_DESCRIPTION]
 ^FF0000^Sin efecto de Nutrientes.^oldclr^
@@ -14509,12 +14630,15 @@ INFO
 [DAVECUP_INFO_DESC]
 ¡Esto es Garden TV, donde ocho jugadores realizan predicciones y compiten por puntos!
 
-^A0522D^• Reglas del evento:^oldclr^
+^DB8117^• Reglas del evento:^oldclr^
 
-1. VOTACIÓN: cada jugador debe elegir un equipo y predecir si resultará ganador.
-2. PUNTOS: se descuentan por votación. Obtienes más por cada acierto en las predicciones.
-3. RECOMPENSAS: al final del partido, se te otorgan puntos de temporada segun el puesto alcanzado.
-4. RANKING: los puntos de temporada te permiten subir a una liga más competitiva y ganar mejores premios.
+^A0522D^1. VOTACIÓN:^oldclr^ cada jugador debe elegir un equipo y predecir si resultará ganador.
+
+^A0522D^2. PUNTOS:^oldclr^ se descuentan por votación. Obtienes más por cada acierto en las predicciones.
+
+^A0522D^3. RECOMPENSAS:^oldclr^ al final del partido, se te otorgan puntos de temporada segun el puesto alcanzado.
+
+^A0522D^4. RANKING:^oldclr^ los puntos de temporada te permiten subir a una liga más competitiva y ganar mejores premios.
 
 [DAVECUP_LOCK_COUNTDOWN]
 Te toca bloquear:
@@ -15945,8 +16069,7 @@ Capaci-cono está basada en el fruto del cedro (Cedrus spp.), un árbol de gran 
 Desde la antigüedad, el cedro ha sido considerado un árbol sagrado en diversas culturas, como la mesopotámica y la egipcia, que lo utilizaban para templos, barcos y sarcófagos. El cedro del Líbano, es símbolo nacional de ese país y aparece en su bandera. Su durabilidad y aroma lo convirtieron en un recurso altamente apreciado a lo largo de la historia.
 
 [DEODARCEDAR_PLANTFOOD_DESCRIPTION]
-Dispara un anillo que genera 3 rayos durante 12 s (máx. 15 rayos) y ^FF9600^aturde^oldclr^ zombis por 1 s.
-^D22808^Daño: 20 (máx. 60)^oldclr^
+Dispara un anillo que genera rayos cada pocos segundos
 
 [DEODARCEDAR_PRODUCT_SHORT_DESC]
 Absorbe energía eléctrica y la dispara después de condensarla
@@ -16192,10 +16315,10 @@ Pantano del Jurásico - Día {LEVEL_NUMBER}
 Pantano del Jurásico - Día Final
 
 [DINO_ZOMBIE]
-Huevos veloces
+Veloci-dito
 
 [DINO_ZOMBIE_DESCRIPTION]
-Duplica la salud de los Zombiditos empujahuevos, su velocidad de movimiento aumenta en un 50%
+Duplica la salud de los Zombiditos raptor, su velocidad de movimiento aumenta un 50%
 
 [DISCOUNT_5]
 50%
@@ -17578,7 +17701,7 @@ Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: dispara rayos a 5 zombis aleatorios del patio durante 3 s. ^D22808^Daño: 570^oldclr^
 
 [ELECTRICITEA_NEW_SKILL_LEVEL5_DES]
-Gana un ^D22808^20% de probabilidad^oldclr^ de atacar con electricidad roja, la cual, ^FF9600^aturde^oldclr^ zombis por 3 s
+Gana un ^D22808^20% de probabilidad^oldclr^ de atacar con electricidad roja, la cual, ^FF9600^paraliza^oldclr^ zombis por 3 s
 ^D22808^Daño: 150^oldclr^
 
 [ELECTRICITEA_PEDIA]
@@ -17618,7 +17741,7 @@ Lanzaguisantes eléctrico
 Flecha fluorescente
 
 [ELECTRICPEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
-^D22808^10 %^oldclr^ de disparar 2 orbes púrpura que ^FF9600^aturden^oldclr^ zombis por 1 s. ^D22808^Daño: 420^oldclr^
+^D22808^10 %^oldclr^ de disparar 2 orbes púrpura que ^FF9600^paralizan^oldclr^ zombis por 1 s. ^D22808^Daño: 420^oldclr^
 
 [ELECTRICPEASHOOTER_DESCRIPTION]
 {KEYWORD}Características de la planta: {STAT}planta azul, electrizante, destructora, familia de guisantes
@@ -17630,13 +17753,13 @@ Lanzaguisantes eléctrico dispara orbes con forma de guisante que atraviesan zom
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL1_DES]
 Dispara orbes eléctricos que atraviesan zombis.
-^D22808^Corriente: hace 20 DPS/0.5 s a 2 zombis adyacentes^oldclr^
+^00FA9A^Corriente: hace 20 DPS/0.5 s a 2 zombis adyacentes^oldclr^
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL2_DES]
-Gana un ^D22808^20% de probabilidad^oldclr^ disparar un orbe mediano que ^FF9600^aturde^oldclr^ zombis por 1 s. ^D22808^Daño: 300^oldclr^
+^D22808^20 % de probabilidad^oldclr^ de disparar un orbe mediano que ^FF9600^paraliza^oldclr^ zombis por 1 s. ^D22808^Daño: 300^oldclr^
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL3_DES]
-Gana un ^D22808^40% de probabilidad^oldclr^ disparar un orbe mediano que ^FF9600^aturde^oldclr^ zombis por 1 s. ^D22808^Daño: 400^oldclr^
+^D22808^40 % de probabilidad^oldclr^ de disparar un orbe mediano que ^FF9600^paraliza^oldclr^ zombis por 1 s. ^D22808^Daño: 400^oldclr^
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^25 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -17709,7 +17832,7 @@ Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: libera una supercáscara que hace daño e inutiliza máquinas por 10 s. ^D22808^Daño: 1.600^oldclr^
 
 [ELECTRICPEEL_NEW_SKILL_LEVEL5_DES]
-Gana un ^D22808^20% de probabilidad^oldclr^ de liberar una anguila más poderosa que genera descargas cada 3 s, ^FF9600^aturde^oldclr^ zombis por 1.5 s y propaga un 50% del daño.
+^D22808^20 % de probabilidad^oldclr^ de liberar una anguila más poderosa que genera descargas cada 3 s, ^FF9600^paraliza^oldclr^ zombis por 1.5 s y propaga un 50% del daño.
 
 [ELECTRICPEEL_PLANTFOOD_DESCRIPTION]
 Libera una supercáscara por su línea que inflige daño e inutiliza máquinas
@@ -18719,20 +18842,17 @@ Convoca un soldado adicional con una bomba más grande. ^D22808^Daño: 1.000^old
 ^E2725B^• Unidades convocadas^oldclr^
 
 ^DB8117^- Guerrero:^oldclr^ ^A0522D^usa una espada para dañar zombis y un escudo para aturdirlos^oldclr^
-
 ^DB8117^- Fusilero:^oldclr^ ^A0522D^aturde zombis con una granada y los acribilla con un rifle^oldclr^
-
 ^DB8117^- Mortero:^oldclr^ ^A0522D^dispara bombas que infligen daño en un área pequeña^oldclr^
-
 ^DB8117^- Tanque:^oldclr^ ^A0522D^dispara un proyectil que perfora un zombi y luego explota^oldclr^
 
-{FLAVOR}Desde su profundo conocimiento y práctica de la ontología vegetal, incluso en esta flamante época de lucha diaria contra los zombis, siempre ha abogado por que sus compañeras traten bien a las plantas más necesitadas. Sus sentimientos hacia cierto inventor loco y barbudo también son únicos.
+{FLAVOR}Hay antiguas leyendas sobre una diosa llamada Nüwa que reparó el cielo y dio forma a la humanidad. Cuando le preguntan si fue ella, solo sonríe y cambia de tema.
 
 [EYWA_DESCRIPTION_HEADER]
 Ofiura divina convoca soldaditos que se dirigen a los zombis y los atacan de diferentes formas por un tiempo.
 
 [EYWA_NEW_SKILL_LEVEL1_DES]
-Convoca unidades para atacar a distancia
+Convoca unidades para atacar a distancia.
 ^D22808^Unidades: evolucionan con 7 ataques y permanecen por 60 s^oldclr^
 ^E2725B^Evolución: guerrero → fusilero → mortero → tanque^oldclr^
 
@@ -19775,10 +19895,10 @@ Humoseta dispara humo que inflige daño a todos los zombis de un área.
 Dispara humo que daña a todos los zombis del área.
 
 [FUMESHROOM_NEW_SKILL_LEVEL2_DES]
-Gana un ^D22808^8% de probabilidad^oldclr^ de que ataque con un humo tóxico el cual aturde zombis por ^D22808^1 s^oldclr^
+^D22808^8 % de probabilidad^oldclr^ de atacar con humo tóxico que aturde zombis por ^D22808^1 s^oldclr^
 
 [FUMESHROOM_NEW_SKILL_LEVEL3_DES]
-Gana un ^D22808^16% de probabilidad^oldclr^ de que ataque con un humo tóxico el cual aturde zombis por ^D22808^1 s^oldclr^
+^D22808^16 % de probabilidad^oldclr^ de atacar con humo tóxico que aturde zombis por ^D22808^1 s^oldclr^
 
 [FUMESHROOM_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^45 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -23715,7 +23835,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.3.0 (actualizado el 10/7/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.3.2 (actualizado el 19/7/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -25292,45 +25412,6 @@ Nivel 5
 
 [ICYCURRANT_TOOLTIP]
 Crea vallas congeladas
-
-[IDENTITY_RECONCILIATION_BATTLEZ_LEAGUE]
-Liga de Batallaz
-
-[IDENTITY_RECONCILIATION_BATTLEZ_WINSTREAK]
-Racha de Batallaz
-
-[IDENTITY_RECONCILIATION_DIALOG_HEADER]
-Selección de identidad
-
-[IDENTITY_RECONCILIATION_INTRO_TEXT]
-Detectadas varias identidades diferentes asociadas a tu usuario. En la siguiente pantalla, revisa los datos con cada identidad y selecciona con cuál de ellas quieres continuar.
-
-[IDENTITY_RECONCILIATION_INTRO_TITLE]
-Conflicto de identidades
-
-[IDENTITY_RECONCILIATION_PLANTS_COLLECTED_LABEL]
-Plantas reunidas: {Number}
-
-[IDENTITY_RECONCILIATION_PROFILE_COUNT_LABEL]
-Recuento de perfiles:{Number}
-
-[IDENTITY_RECONCILIATION_SAVE_FAILURE]
-No se pudo guardar la identidad. Comprueba tu conexión a Internet y vuelve a intentarlo.
-
-[IDENTITY_RECONCILIATION_SAVE_SUCCESSFUL]
-Identidad guardada correctamente.
-
-[IDENTITY_RECONCILIATION_SAVING_TITLE]
-Guardar identidad
-
-[IDENTITY_RECONCILIATION_WARNING_TEXT]
-¿Seguro que quieres continuar con esta identidad? Esta identidad se asociará a tu usuario de forma permanente. Todas las rachas de Batallaz, Liga de Batallaz y progresos en Aventura se perderán en las demás identidades.
-
-[IDENTITY_RECONCILIATION_WARNING_TITLE]
-¡Advertencia!
-
-[IMITATED_PLANT]
-Imitar {PLANT}
 
 [IMITATER]
 Imitadora
@@ -27783,10 +27864,10 @@ Dispara rayos al zombi más cercano a una línea de distancia.
 ^E2725B^Ataque en cadena: hace 5 DPS ^FF0000^(máx. 3 objetivos)^oldclr^
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL2_DES]
-^D22808^7.5 % de probabilidad^oldclr^ de liberar un relámpago rojo que ^FF9600^aturde^oldclr^ zombis por ^D22808^1 s^oldclr^
+^D22808^7.5 % de probabilidad^oldclr^ de liberar un relámpago rojo que ^FF9600^paraliza^oldclr^ zombis por ^D22808^1 s^oldclr^
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL3_DES]
-^D22808^15 % de probabilidad^oldclr^ de liberar un relámpago rojo que ^FF9600^aturde^oldclr^ zombis por ^D22808^1 s^oldclr^
+^D22808^15 % de probabilidad^oldclr^ de liberar un relámpago rojo que ^FF9600^paraliza^oldclr^ zombis por ^D22808^1 s^oldclr^
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -28532,13 +28613,13 @@ DESCRIPCIÓN DEL EVENTO
 Reelegir plantas
 
 [LUCKBAG_SELECT]
-Seleccionado
+S
 
 [LUCKBAG_SELECT_ALL]
 Selecciona las plantas de todas las filas.
 
 [LUCKBAG_SELECT_PLANT]
-Seleccionar plantas
+SELECCIONAR PLANTAS
 
 [LUCKBAG_SELECT_TITLE]
 ¡Personaliza el contenido de tus bolsas!
@@ -28778,7 +28859,7 @@ Destruye los objetos metálicos un ^D22808^30 %^oldclr^ más rápido.
 
 [MAGNETSHROOM_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^35 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: atrae y lanza 20 objetos metálicos a los zombis de su alcance durante 6 s. ^D22808^Daño por objeto: 400^oldclr^
+^DB8117^Nutrientes: atrae y lanza 20 objetos metálicos a los zombis de su alcance por 6 s. ^D22808^Daño: 400^oldclr^
 ^FF0000^Límite: zombis de Nvl. 4^oldclr^
 
 [MAGNETSHROOM_PLANTFOOD_DESCRIPTION]
@@ -28970,7 +29051,7 @@ Despertar: ^D22808^75 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 
 [MANDRAKE_NEW_SKILL_LEVEL5_DES]
 Cada ^D22808^3^oldclr^ ataques, derriba zombis pequeños o medianos por ^D22808^3 casillas^oldclr^
-El ataque ^FF9600^aturde^oldclr^ zombis grandes por ^D22808^3 s^oldclr^ en su lugar.
+El ataque ^FF9600^paraliza^oldclr^ zombis grandes por ^D22808^3 s^oldclr^ en su lugar.
 
 [MANDRAKE_PLANTFOOD_DESCRIPTION]
 Carga hacia delante, derribando filas enteras de zombis pequeños y medianos
@@ -29112,10 +29193,10 @@ Los zombis alcanzados por el efecto son ralentizados durante ^D22808^3 s^oldclr^
 
 {KEYWORD}Características de la planta: {STAT}planta roja, artista marcial, destructora
 
-{FLAVOR}Es un guerrero muy respetable y destacable del Club de samuráis. Además de lucir sus habilidades, está a la espera de la brisa otoñal para atraer a las plantas con su follaje suelto, aunque, cuidado... ¡Las hojas podrían salir volando!
+{FLAVOR}Durante generaciones, Arce samurái ha protegido los antiguos jardines donde nació el arte de la espada vegetal. Su juramento de honor permanece intacto, y mientras sus hojas sigan cayendo con el otoño, también lo harán quienes amenacen a las plantas.
 
 [MAPLEBLADE_DESCRIPTION_HEADER]
-Arce samurái es un guerrero muy hábil con la espada, la usa para eliminar a los zombis cercanos en compañía de su sombra.
+Arce samurái derrota a los zombis cercanos con su espada, mientras su sombra replica cada uno de sus movimientos.
 
 [MAPLEBLADE_FAMILY]
 Aceraceae
@@ -29124,7 +29205,7 @@ Aceraceae
 Acer
 
 [MAPLEBLADE_NEW_SKILL_LEVEL1_DES]
-Acaba con los zombis cercanos usando su espada.
+Lucha junto a una sombra que duplica sus ataques.
 ^E2725B^Sombra de arce: hace 360 DPS/0.5 s en un alcance de 3 casillas. ^D22808^Duración: 10-15 s^oldclr^
 
 [MAPLEBLADE_NEW_SKILL_LEVEL2_DES]
@@ -29150,10 +29231,10 @@ Arce samurái está basado en el arce japonés (Acer palmatum), un árbol origin
 Ha sido cultivado desde la antigüedad en Asia Oriental por su esplendor. Fue introducido a Europa y América en los siglos XVIII y XIX, donde su popularidad creció rápidamente. Hoy en día, se cultiva por todo el mundo, especialmente en zonas templadas.
 
 [MAPLEBLADE_PLANTFOOD_DESCRIPTION]
-Su sombra libera un corte que inflige 1.500 DPS en una zona circular
+Su sombra libera un corte que inflige daño en una zona circular
 
 [MAPLEBLADE_PRODUCT_SHORT_DESC]
-Acaba con los zombis cercanos usando su espada
+Lucha junto a una sombra que duplica sus ataques
 
 [MAPLEBLADE_SKILL_LEVEL1]
 Nivel 2
@@ -29222,7 +29303,7 @@ Flor boxeadora golpea a los enemigos que tiene en frente con sus puños ardiente
 
 [MATCHFLOWER_NEW_SKILL_LEVEL1_DES]
 Golpea enemigos, prende guisantes cuando se enfurece.
-^D22808^Secuencia de ataque: conecta 3 puñetazos, seguido de 1 gancho que dobla el daño.^oldclr^
+^D22808^Secuencia de ataques: conecta 3 puñetazos, seguido de 1 gancho que dobla el daño.^oldclr^
 ^FF9E6B^Furia: se activa con 18 golpes. ^FF8000^Enfado: se activa 36 con golpes.^oldclr^
 
 [MATCHFLOWER_NEW_SKILL_LEVEL2_DES]
@@ -29360,7 +29441,7 @@ Se usa para canjear Atuendos de diferentes plantas en la Tienda.
 Ficha de Colgante raro: x5
 
 [MAT_BATTLE_ORDER_BLUE_ACCE0_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_BLUE_ACCE0_USE]
 Úsalos para canjear 5 Piezas de un Colgante raro de tu elección
@@ -29369,7 +29450,7 @@ Campamento de verano.
 Ficha de Colgante raro: x15
 
 [MAT_BATTLE_ORDER_BLUE_ACCE1_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_BLUE_ACCE1_USE]
 Úsalos para canjear 15 Piezas de un Colgante raro de tu elección
@@ -29378,7 +29459,7 @@ Campamento de verano.
 Ficha de Planta rara: x2
 
 [MAT_BATTLE_ORDER_BLUE_PLANT0_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_BLUE_PLANT0_USE]
 Úsalos para canjear 2 Piezas de una planta especial de tu elección
@@ -29387,7 +29468,7 @@ Campamento de verano.
 Ficha de Planta rara: x6
 
 [MAT_BATTLE_ORDER_BLUE_PLANT1_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_BLUE_PLANT1_USE]
 Úsalos para canjear 6 Piezas de una planta rara de tu elección
@@ -29396,7 +29477,7 @@ Campamento de verano.
 Ficha de Planta rara: x3
 
 [MAT_BATTLE_ORDER_BLUE_PLANT2_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_BLUE_PLANT2_USE]
 Úsalos para canjear 3 Piezas de una planta rara de tu elección
@@ -29405,7 +29486,7 @@ Campamento de verano.
 Ficha de Planta rara: x9
 
 [MAT_BATTLE_ORDER_BLUE_PLANT3_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_BLUE_PLANT3_USE]
 Úsalos para canjear 9 Piezas de una planta especial de tu elección
@@ -29414,7 +29495,7 @@ Campamento de verano.
 Ficha de Planta especial: x2
 
 [MAT_BATTLE_ORDER_GREEN_PLANT0_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_GREEN_PLANT0_USE]
 Úsalos para canjear 2 Piezas de una planta especial de tu elección
@@ -29423,7 +29504,7 @@ Campamento de verano.
 Ficha de Planta especial: x6
 
 [MAT_BATTLE_ORDER_GREEN_PLANT1_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_GREEN_PLANT1_USE]
 Úsalos para canjear 6 Piezas de una planta especial de tu elección
@@ -29432,7 +29513,7 @@ Campamento de verano.
 Ficha de Planta especial: x3
 
 [MAT_BATTLE_ORDER_GREEN_PLANT2_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_GREEN_PLANT2_USE]
 Úsalos para canjear 3 Piezas de una planta especial de tu elección
@@ -29441,7 +29522,7 @@ Campamento de verano.
 Ficha de Planta especial: x9
 
 [MAT_BATTLE_ORDER_GREEN_PLANT3_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_GREEN_PLANT3_USE]
 Úsalos para canjear 9 Piezas de una planta especial de tu elección
@@ -29450,7 +29531,7 @@ Campamento de verano.
 Ficha de Colgante legendario: x5
 
 [MAT_BATTLE_ORDER_ORANGE_ACCE0_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_ORANGE_ACCE0_USE]
 Úsalos para canjear 5 Piezas de un Colgante legendario de tu elección
@@ -29459,7 +29540,7 @@ Campamento de verano.
 Ficha de Colgante legendario: x15
 
 [MAT_BATTLE_ORDER_ORANGE_ACCE1_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_ORANGE_ACCE1_USE]
 Úsalos para canjear 15 Piezas de un Colgante legendario de tu elección
@@ -29468,7 +29549,7 @@ Campamento de verano.
 Ficha de Planta legendaria
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT0_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT0_USE]
 Úsalos para canjear 1 Pieza de una planta legendaria de tu elección
@@ -29477,7 +29558,7 @@ Campamento de verano.
 Ficha de Planta legendaria: x3
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT1_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT1_USE]
 Úsalos para canjear 3 Piezas de una planta legendaria de tu elección
@@ -29486,7 +29567,7 @@ Campamento de verano.
 Ficha de Planta exclusiva
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT2_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT2_USE]
 Úsalos para canjear 1 Pieza de una planta de tiempo limitado
@@ -29495,7 +29576,7 @@ Campamento de verano.
 Ficha de Planta exclusiva: x3
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT3_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_ORANGE_PLANT3_USE]
 Úsalos para canjear 3 Piezas de una planta legendaria principal
@@ -29504,7 +29585,7 @@ Campamento de verano.
 Ficha de Maceta: x5
 
 [MAT_BATTLE_ORDER_POT_ACCE0_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_POT_ACCE0_USE]
 Úsalos para canjear 5 Piezas de una Maceta de tu elección
@@ -29513,7 +29594,7 @@ Campamento de verano.
 Ficha de Maceta: x15
 
 [MAT_BATTLE_ORDER_POT_ACCE1_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_POT_ACCE1_USE]
 Úsalos para canjear 15 Piezas de una Maceta de tu elección
@@ -29522,7 +29603,7 @@ Campamento de verano.
 Ficha de Colgante épico: x5
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE0_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE0_USE]
 Úsalos para canjear 5 Piezas de un Colgante épico de tu elección
@@ -29531,7 +29612,7 @@ Campamento de verano.
 Ficha de Colgante épico: x15
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE1_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_PURPLE_ACCE1_USE]
 Úsalos para canjear 15 Piezas de un Colgante épico de tu elección
@@ -29540,7 +29621,7 @@ Campamento de verano.
 Ficha de Planta épica: x2
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT0_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT0_USE]
 Úsalos para canjear 2 Piezas de una planta épica de tu elección
@@ -29549,7 +29630,7 @@ Campamento de verano.
 Ficha de Planta épica: x6
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT1_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT1_USE]
 Úsalos para canjear 6 Piezas de una planta épica de tu elección
@@ -29558,7 +29639,7 @@ Campamento de verano.
 Ficha de Planta épica: x3
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT2_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT2_USE]
 Úsalos para canjear 3 Piezas de una planta épica de tu elección
@@ -29567,7 +29648,7 @@ Campamento de verano.
 Ficha de Planta épica: x9
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT3_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_PURPLE_PLANT3_USE]
 Úsalos para canjear 9 Piezas de una planta épica de tu elección
@@ -29576,7 +29657,7 @@ Campamento de verano.
 Ficha de Super-colgante: x5
 
 [MAT_BATTLE_ORDER_SUPER_ACCE0_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_SUPER_ACCE0_USE]
 Úsalos para canjear 5 Piezas de un Súper-colgante de tu elección
@@ -29585,7 +29666,7 @@ Campamento de verano.
 Ficha de Super-colgante: x15
 
 [MAT_BATTLE_ORDER_SUPER_ACCE1_GOT_WAY]
-Campamento de verano.
+Pase de batalla.
 
 [MAT_BATTLE_ORDER_SUPER_ACCE1_USE]
 Úsalos para canjear 15 Piezas de un Súper-colgante de tu elección
@@ -30506,7 +30587,7 @@ El alcance del ataque aumenta en ^D22808^2 casillas^oldclr^
 
 [MAYBEE_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: libera 6 abejas grandes que ^FF9600^aturden ^DB8117^por 1 s y desaparecen tras 20 s ^D22808^Daño por piquete: 12^oldclr^
+^DB8117^Nutrientes: libera 6 abejas grandes que ^848484^aturden ^DB8117^por 1 s y desaparecen tras 20 s ^D22808^Daño por piquete: 12^oldclr^
 
 [MAYBEE_NEW_SKILL_LEVEL5_DES]
 ^D22808^25% de probabilidad^oldclr^ de liberar abejas energizadas ^E2725B^(70 % por electrificación)^oldclr^
@@ -31211,7 +31292,6 @@ Conjura meteoritos que dejan casillas abrasadoras. ^D22808^Proyectiles: 2^oldclr
 [METEORFLOWER_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
 ^DB8117^Nutrientes: conjura 3 meteoritos que espantan dinosaurios y ruedan. ^D22808^Daño: 100 (1.200 en casilla)^oldclr^
-^A0522D^Distancia recorrida: 4 casillas (dejan brasa en el trayecto)^oldclr^
 
 [METEORFLOWER_NEW_SKILL_LEVEL5_DES]
 Existe un ^D22808^10% de probabilidad^oldclr^ de conjurar un meteoro que rueda, prende 3 casillas y luego explota.
@@ -31227,7 +31307,7 @@ Conjura meteoritos que dejan casillas abrasadoras
 Nivel 2
 
 [METEORFLOWER_SKILL1_LEVEL1_DES]
-^4DD4DB^Meteoro pesado:^oldclr^ existe la posibilidad de conjurar un meteoro que derriba a los zombis del área.
+^4DD4DB^Meteoro pesado:^oldclr^ existe la posibilidad de conjurar un meteoro que derriba a los zombis del área
 
 [METEORFLOWER_SKILL1_LEVEL2]
 Nivel 3
@@ -31239,16 +31319,16 @@ Nivel 3
 Nivel 5
 
 [METEORFLOWER_SKILL1_LEVEL5_DES]
-^DB8117^Impacto planetario:^oldclr^ gana la probabilidad de conjurar un meteoro que rueda tras impactar y explota al final.
+^DB8117^Impacto planetario:^oldclr^ gana la probabilidad de conjurar un meteoro que rueda tras impactar y explota al final
 
 [METEORFLOWER_TOOLTIP]
 Conjura meteoritos que dejan casillas abrasadoras
 
 [MID_BAG_TICKET]
-Bolsa de cupones
+Botín de cupones
 
 [MID_PACKET_TICKET]
-Botín de cupones
+Bolsa de cupones
 
 [MINECART_TUTORIAL_1]
 Arrastra el carro de mina a una nueva ubicación
@@ -35981,13 +36061,10 @@ Ahora las plantas maniobran como auténticos pilotos de élite.
 {SAY:crazydave}¡No me extraña! Después de todo, los dinosaurios evolucionaron en aves.
 
 [NARRATIVE_PVZ1_S27_13_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡El zombi de la Guardia Real es realmente tenaz!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡El Zombistein de la realeza lleva una armadura muy resistente!
 
 [NARRATIVE_PVZ1_S27_13_H_INTRO_2]
-{SAY:winnie}Así es, su armadura es muy resistente.
-
-[NARRATIVE_PVZ1_S27_13_H_INTRO_3]
-{SAY:winnie}Tenemos que mantenerlo a raya mientras encontramos un punto débil.
+{SAY:winnie}Prueba a Peluda de Brezal. Sus dardos pueden penetrar en su armadura y derrotarlo.
 
 [NARRATIVE_PVZ1_S27_14_H_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}¡Alerta! Se ha detectado un gran número de zombis hambrientos.
@@ -42271,7 +42348,7 @@ No se ha cumplido
 AHORA NO
 
 [NOT_ON_RANK]
-^FF0000^No aplica^oldclr^
+-
 
 [NOT_REMIND_TODAY]
 No recordar hoy
@@ -42965,7 +43042,7 @@ o
 Legendario
 
 [ORANGE_PLANT_SELECT_THREE]
-Selec. una Planta legendaria de 3
+SELECCIONAR PLANTA LEGENDARIA (NVL. 3)
 
 [ORCHIDMAGE]
 Orquídea de vacío
@@ -44183,8 +44260,8 @@ Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: dispara una salva de ^D22808^5 ^DB8117^guisantes enormes. ^D22808^Daño por proyectil: 400^oldclr^
 
 [PEAPOD_NEW_SKILL_LEVEL5_DES]
-Puedes plantar hasta ^D22808^10^oldclr^ veces para evolucionar las vainas a Repetidoras.
-Planta hasta ^D22808^15^oldclr^ veces para evolucionarlas a Guisantralladoras.
+Puedes plantar hasta ^D22808^10^oldclr^ veces para evolucionar las vainas a ^D22808^Repetidoras^oldclr^
+Planta hasta ^D22808^15^oldclr^ veces para evolucionarlas a ^D22808^Guisantralladoras^oldclr^
 
 [PEAPOD_PLANTFOOD_DESCRIPTION]
 Dispara una salva de guisantes enormes
@@ -48617,49 +48694,53 @@ Jade
 [POINTSCHALLENGE_DESCRIPTION]
 ¡Bienvenido a la Liga Dave, donde jugadores completan misiones y compiten por puntos!
 
-^A0522D^• Reglas del evento:^oldclr^
+^DB8117^• Reglas del evento:^oldclr^
 
-1. PUNTOS: participa en los modos destacados para ganar puntos.
-2. MISIONES: cada semana estarán disponibles nuevas misiones, completarlas otorga puntos.
-3. RECOMPENSAS: recibes recompensas al alcanzar los objetivos semanales.
-4. RANKING: los puntos te permiten posicionarte en las tablas de clasificación.
-5. REINICIO DE TEMPORADA: cada lunes, se reinicia el progreso semanal y se entregan los premios por clasificación.
+^A0522D^1. PUNTOS:^oldclr^ participa en los modos destacados para ganar puntos.
+
+^A0522D^2. MISIONES:^oldclr^ cada semana estarán disponibles nuevas misiones, completarlas otorga puntos.
+
+^A0522D^3. RECOMPENSAS:^oldclr^ recibes recompensas al alcanzar los objetivos semanales.
+
+^A0522D^4. RANKING:^oldclr^ los puntos te permiten posicionarte en las tablas de clasificación.
+
+^A0522D^5. REINICIO DE TEMPORADA:^oldclr^ cada lunes, se reinicia el progreso semanal y se entregan los premios por clasificación.
 
 [POINTSCHALLENGE_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
 
 [POINTSCHALLENGE_ENDLESS_NODE_1]
-Puesto 1-30
+Nvl. 1-30
 
 [POINTSCHALLENGE_ENDLESS_NODE_2]
-Puesto 31-60
+Nvl. 31-60
 
 [POINTSCHALLENGE_ENDLESS_NODE_3]
-Puesto 61-90
+Nvl. 61-90
 
 [POINTSCHALLENGE_ENDLESS_NODE_4]
-Puesto 91-120
+Nvl. 91-120
 
 [POINTSCHALLENGE_ENDLESS_NODE_5]
-Puesto 121-150
+Nvl. 121-150
 
 [POINTSCHALLENGE_MEMORY_NODE_1]
-Nivel 1
+1 Nvl
 
 [POINTSCHALLENGE_MEMORY_NODE_2]
-Nivel 4
+4 Nvls
 
 [POINTSCHALLENGE_MEMORY_NODE_3]
-Nivel 9
+9 Nvls
 
 [POINTSCHALLENGE_MEMORY_NODE_4]
-Nivel 14
+14 Nvls
 
 [POINTSCHALLENGE_MEMORY_NODE_5]
-Nivel 20
+20 Nvls
 
 [POINTSCHALLENGE_MEMORY_NODE_6]
-Nivel 26
+26 Nvls
 
 [POINTSCHALLENGE_PENNY_NODE_1]
 Ladrillo
@@ -48680,51 +48761,51 @@ Oro
 Diamante
 
 [POINTSCHALLENGE_PENNY_NODE_7]
-Legendario
+Leyendas
 
 [POINTSCHALLENGE_PVP_NODE_1]
-Olla de cobre
+Cobre
 
 [POINTSCHALLENGE_PVP_NODE_2]
-Olla de plata
+Plata
 
 [POINTSCHALLENGE_PVP_NODE_3]
-Olla de oro
+Oro
 
 [POINTSCHALLENGE_PVP_NODE_4]
-Olla de diamante
+Diamante
 
 [POINTSCHALLENGE_PVP_NODE_5]
-Olla de cuarzo
+Cuarzo
 
 [POINTSCHALLENGE_PVP_NODE_6]
-Olla del maestro
+Maestros
 
 [POINTSCHALLENGE_RANK_DESCRIPTION]
 
-PUESTO               PREMIO
----------------------------------------------------------
-Top 1                Piezas específicas x10, Boleto de Penny x20
-Top 3                Piezas específicas x8, Boleto de Penny x15
-Top 5                Piezas específicas x8, Boleto de Penny x12
-Top 10%              Piezas específicas x8, Boleto de Penny x10
-Top 20%              Piezas específicas x6, Boleto de Penny x9
-Top 30%              Piezas específicas x6, Boleto de Penny x8
-Top 50%              Piezas específicas x5, Boleto de Penny x7
-Top 80%              Piezas específicas x4, Boleto de Penny x6
-Top 99%              Piezas específicas x2, Boleto de Penny x5
+PUESTO                                  PREMIO
+---------------------------------------------------------------------
+Top 1                 Piezas específicas  x 10   Boleto de Penny x 20
+Top 3                 Piezas específicas  x  8   Boleto de Penny x 15
+Top 5                 Piezas específicas  x  8   Boleto de Penny x 12
+Top 10%               Piezas específicas  x  8   Boleto de Penny x 10
+Top 20%               Piezas específicas  x  6   Boleto de Penny x  9
+Top 30%               Piezas específicas  x  6   Boleto de Penny x  8
+Top 50%               Piezas específicas  x  5   Boleto de Penny x  7
+Top 80%               Piezas específicas  x  4   Boleto de Penny x  6
+Top 99%               Piezas específicas  x  2   Boleto de Penny x  5
 
 [POINTSCHALLENGE_RANK_DESCRIPTION_TITLE]
 PREMIOS POR CLASIFICACIÓN
 
 [POINTSCHALLENGE_TASK_NAME_1101]
-Completa el Nivel 1 de la Búsqueda de Penny
+Completa 1 Búsqueda de Penny
 
 [POINTSCHALLENGE_TASK_NAME_1102]
-Completa el Nivel 3 de la Búsqueda de Penny
+Completa 3 Búsquedas de Penny
 
 [POINTSCHALLENGE_TASK_NAME_1103]
-Completa el Nivel 5 de la Búsqueda de Penny
+Completa 5 Búsquedas de Penny
 
 [POINTSCHALLENGE_TASK_NAME_1201]
 Juega 1 partida de Batallaz
@@ -48736,13 +48817,13 @@ Juega 2 partidas de Batallaz
 Juega 3 partidas de Batallaz
 
 [POINTSCHALLENGE_TASK_NAME_1301]
-Completa 3 niveles de la Dimensión del Recuerdo (modo fácil)
+Completa 3 niveles del Recuerdo
 
 [POINTSCHALLENGE_TASK_NAME_1302]
-Completa 6 niveles de la Dimensión del Recuerdo (modo fácil)
+Completa 6 niveles del Recuerdo
 
 [POINTSCHALLENGE_TASK_NAME_1303]
-Completa todos los niveles de la Dimensión del Recuerdo (modo fácil)
+Completa 8 niveles del Recuerdo
 
 [POINTSCHALLENGE_TASK_NAME_1401]
 Participa en 1 Dueloz
@@ -50351,13 +50432,13 @@ Lote platino extremo
 Ve anuncios para ^3827F5^Joyas^oldclr^ gratis
 
 [PRODUCT_GEM_AD_REWARD_DESC_FUEL]
-Mira el anuncio y consigue 5 Combustibles.
+Conseguiste ^397F24^5^oldclr^ Combustibles al ver el anuncio
 
 [PRODUCT_GEM_AD_REWARD_DESC_ZTICKET]
-Mira el anuncio y consigue 1 Guantelete.
+Conseguiste ^A048CF^1^oldclr^ Guantelete al ver el anuncio
 
 [PRODUCT_GEM_AD_REWARD_TITLE]
-Gana recompensas
+RECOMPENSAS POR ANUNCIOS
 
 [PRODUCT_GEM_AD_SHORT_DESC]
 Joyas gratis
@@ -50741,7 +50822,7 @@ Guanteletes gratis
 ^A0522D^1^oldclr^ entrada para Batallaz
 
 [PRODUCT_Z_NUM_1_GEM_DESC]
-^A0522D^1^oldclr^ Guantelete por Joyas ^FF0000^(máx. 1 compra)^oldclr^
+Guantelete por Joyas ^FF0000^(máx. 1 diario)^oldclr^
 
 [PRODUCT_Z_NUM_1_SHORT_DESC]
 Guantelete
@@ -53633,10 +53714,10 @@ Los servidores están ocupados, inténtalo de nuevo más tarde.
 Fallo al enviar petición al servidor. <Código de error: 20024>
 
 [PVZ_ERROR_20320]
-Se tarda 12 horas para vincular otros dispositivos.
+Error de vinculación. Debes esperar 12 horas para vincular otros dispositivos.
 
 [PVZ_ERROR_20321]
-Solo se pueden vincular 3 dispositivos por año.
+Error de vinculación. Solo se pueden vincular 3 dispositivos al año.
 
 [PVZ_ERROR_20711]
 El nombre del nivel no es válido.
@@ -53645,7 +53726,7 @@ El nombre del nivel no es válido.
 Has alcanzado el límite de compra de este artículo.
 
 [PVZ_ERROR_21509]
-Alcanzado el límite de compras, no se puede comprar este artículo.
+Límite de compras alcanzado. No se puede comprar este artículo.
 
 [PVZ_ERROR_28015]
 Se ha producido un error al cargar los anuncios, inténtalo de nuevo más tarde.
@@ -53684,13 +53765,13 @@ Imposible recibir el bono del sorteo.
 Evento no activado.
 
 [PVZ_ERROR_40036]
-Alcanzado el límite de reiniciar los progresos de la Zona de Infinito.
+Alcanzado el límite de reinicios de la Zona de Infinito.
 
 [PVZ_ERROR_40037]
 Alcanzado el límite de compra de soles en la Zona de Infinito.
 
 [PVZ_ERROR_40038]
-Error al sincronizar el progreso con el servidor, no se puede restablecer los niveles de la Zona de Infinito.
+Error al sincronizar el progreso con el servidor. No se pudo restablecer los niveles de la Zona de Infinito.
 
 [PVZ_ERROR_45032]
 El evento ha finalizado.
@@ -53708,13 +53789,13 @@ Estabilizador de espacio-tiempo insuficiente.
 Modo de batalla inválido.
 
 [PVZ_ERROR_46004]
-Se han perdido los datos de batalla del Modo Normal.
+Se han perdido los datos del Modo aventura.
 
 [PVZ_ERROR_46005]
-El número de niveles supera el número máximo.
+El número de niveles completados supera el límite.
 
 [PVZ_ERROR_46006]
-Se han perdido los datos de batalla del Modo Díficil.
+Se han perdido los datos del Modo aventura (Díficil)
 
 [PVZ_ERROR_46007]
 El número de niveles solicitados es inválido.
@@ -53874,18 +53955,18 @@ No se pudieron cargar los archivos locales.
 {NUM1}h
 
 [PVZ_LOGIN_CHEAT_ERROR]
-Se te ha vetado por hacer trampas con mods o programas de terceros.
-Si se trata de un error, ponte en contacto con el servicio al cliente.
+Se te ha vetado por hacer trampas. Si se trata de un error, ponte en contacto con servicio al cliente.
+
 Tu UID: {UID}
 
 [PVZ_LOGIN_ERROR_TOKEN]
 Error de red, inicia sesión nuevamente.
 
 [PVZ_LOGIN_GO_UPDATE]
-Actualizar
+ACTUALIZAR
 
 [PVZ_LOGIN_LOW_ALSO_UPDATE]
-Aún no actualizado
+NO ACTUALIZADO
 
 [PVZ_LOGIN_LOW_SETTING_WIFI]
 Conectarse a una red WiFi
@@ -53970,7 +54051,7 @@ Partido: {NUM}/7
 Buena suerte para la próxima
 
 [PVZ_WORLDCUP_ENDGAME]
-¡Fin del partido!
+¡FIN DEL PARTIDO!
 
 [PVZ_WORLDCUP_FIGHTFAILED]
 Sigue esforzándote
@@ -55348,10 +55429,10 @@ Joyas
 ¡Devolución realizada con éxito!
 
 [RECALL_OFFER_NETWORK_ERROR]
-Error al devolver el Paquete, verifica tu conexión a Internet e inténtalo de nuevo más tarde.
+Error al devolver el Paquete. Verifica tu conexión a Internet e inténtalo de nuevo más tarde.
 
 [RECALL_OFFER_SELECT_FIRST]
-Selecciona un paquete primero.
+Selecciona una recompensa primero.
 
 [RECALL_OFFER_SIGN_SELECT_CONFIRM]
 ¿Seguro que deseas elegir este Paquete de plantas?
@@ -55423,10 +55504,10 @@ Prémium
 Recargaste:
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DAY_DESC]
-Acumulativo: {NUM} días
+Registro: {NUM} d
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DAY_PARAM]
-{NUM} días
+{NUM} d
 
 [RECHARGE_DAILYSIGN_ACTIVITY_DESC]
 DESCRIPCIÓN DEL EVENTO: inicia sesión del 1-10 de junio, ¡para recibir premios increibles!
@@ -55442,7 +55523,7 @@ Inicia sesión y recarga Joyas para adquirir recompensas exclusivas.
 Normal
 
 [RECHARGE_DAILYSIGN_ACTIVITY_NO_RECHARGE]
-Nada recargado
+-
 
 [RECHARGE_DAILYSIGN_ACTIVITY_TIME_COUNTDOWN]
 Tiempo res.: {TIME}
@@ -55985,7 +56066,7 @@ Despertar: ^D22808^70 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 
 [REPEATER_NEW_SKILL_LEVEL5_DES]
 Dispara guisantes que se dividen al golpear un objetivo.
-^A0522D^Dispersión de proyectiles: se dividen en ^D22808^2 ^A0522D^en las ^D22808^2 diagonales ^FF0000^(máx: 3 veces)^oldclr^
+^A0522D^Dispersión de proyectiles: se dividen en ^D22808^2 ^A0522D^en las ^D22808^2 diagonales^oldclr^
 
 [REPEATER_PLANTFOOD_DESCRIPTION]
 Dispara una ráfaga de guisantes seguida de uno enorme
@@ -56054,7 +56135,7 @@ Nivelación del Colgante restablecida con éxito, se ha devuelto el material gas
 MATERIAL DE COLGANTE RECUPERADO
 
 [RESET_SUCCESS_TITLE]
-¡restablecido con éxito!
+¡Restablecido con éxito!
 
 [RESISTANCES_TOOLTIP_BODY]
 Las plantas de diferentes familias pueden ser FUERTES, DÉBILES o INEFICACES contra los zombis.
@@ -56090,10 +56171,10 @@ Este pedido no se puede completar, por favor inténtalo de nuevo la próxima vez
 ¡Se ha producido un error!
 
 [RESTORE_PURCHASES_BODY]
-¡Se restablecieron {NUM_RESTORED} compras con éxito!
+Se restablecieron {NUM_RESTORED} compras con éxito.
 
 [RESTORE_PURCHASES_HEADER]
-¡Restableciendo compras!
+¡Compras restablecidas!
 
 [RESTORE_PURCHASES_OFFLINE_BODY]
 El dispositivo tiene que estar conectado a Internet para restablecer las compras.
@@ -56123,11 +56204,11 @@ ANUNCIO Y REINT.
 REINT. POR {COST}
 
 [RETURN_GOLD_DIALOG_DESC]
-Es la diferencia en el valor de las Monedas que se te devuelven por las plantas que ya has comprado debido a los ajustes de precios.
-Recibes ^00FF00^{GOLD_DIFF} Monedas^oldclr^.
+Monedas que se te devuelven por las plantas que ya has comprado.
+^DB8117^Reembolso: {GOLD_DIFF} Monedas^oldclr^
 
 [RETURN_GOLD_DIALOG_HEADER]
-Restaurar Monedas
+DEVOLUCIÓN DE MONEDAS
 
 [RETURN_TO_WORLD_MAP]
 VOLVER AL MAPA
@@ -56163,7 +56244,7 @@ AVISOS
 No se pudo reclamar la recompemsa
 
 [REWARD_GET_TIP_FAILED_TEXT]
-Puede que no haya recompensas para recibir, que la recompensa no esté abierta o que ya hayas recibido este premio.
+Puede que no haya recompensas para recibir, o que ya hayas recibido este premio.
 
 [REWARD_GET_TIP_TEXT]
 ¡Enhorabuena, alcanzaste {SCORE_COUNT} puntos!
@@ -56171,13 +56252,13 @@ Tu título: {ACCOUNT_NAME}
 Tus recompensas: {REWARD_NAME} x{REWARD_COUNT}
 
 [REWARD_NETWORK_ERROR_DIALOG_DESCRIPTION]
-Se produjo un error y no pudimos entregarte tus recompensas. No te preocupes, llegarán en un máximo de 24 horas.
+Se produjo un error y no pudimos entregarte tus recompensas. No te preocupes, llegarán en un máximo de 24 h
 
 [REWARD_NETWORK_ERROR_DIALOG_TITLE]
 Error de red
 
 [REWARD_PER_HOUR]
-Recompensa por {COUNT} h
+Premio en {COUNT} h
 
 [REWARD_POOL]
 Bolsa de premios
@@ -56207,7 +56288,7 @@ RANGO     PUNTUACIÓN           TITULO              PREMIO
 4         1.000.000            Matazombis           38 Joyas
 3         1.500.000            Cazador              28 Joyas
 2           100.000            Aprendiz             18 Joyas
-1                 0            Novato               8 Joyas
+1                 0            Novato                8 Joyas
 
 [REWARD_RULE_TEXT]
 1. Tendrás sólo 2 boletos gratuitos por día, se recargan al día siguiente.
@@ -62162,7 +62243,7 @@ T31-S5-1: Campeón deportivo
 T31-S5-2: ¡Déjalos noqueados!
 
 [S31_MEMORY_LEVEL_NAME_035]
-T31-S5-3: Maestro de la arena
+T31-S5-3: Maestros del control
 
 [S31_MEMORY_LEVEL_NAME_036]
 T31-S5-4: Signos del zodiaco
@@ -62179,6 +62260,54 @@ T31-S5-7: Juego de sombras
 [S31_MEMORY_LEVEL_NAME_040]
 T31-S5-8: Reino animal
 
+[S31_MEMORY_LEVEL_NAME_041]
+T31-S6-1: Diluvio ácido - Parte 1
+
+[S31_MEMORY_LEVEL_NAME_042]
+T31-S6-2: Diluvio ácido - Parte 2
+
+[S31_MEMORY_LEVEL_NAME_049]
+T31-S6-3: Diluvio ácido - Parte 3
+
+[S31_MEMORY_LEVEL_NAME_044]
+T31-S6-4: Diluvio ácido - Parte 4
+
+[S31_MEMORY_LEVEL_NAME_045]
+T31-S6-5: Diluvio ácido - Parte 5
+
+[S31_MEMORY_LEVEL_NAME_046]
+T31-S6-6: Diluvio ácido - Parte 6
+
+[S31_MEMORY_LEVEL_NAME_047]
+T31-S6-7: Diluvio ácido - Parte 7
+
+[S31_MEMORY_LEVEL_NAME_048]
+T31-S6-8: Diluvio ácido - Parte final
+
+[S31_MEMORY_LEVEL_NAME_050]
+T31-S7-1: Estrategia de supervivencia - Fase 1
+
+[S31_MEMORY_LEVEL_NAME_051]
+T31-S7-2: Estrategia de supervivencia - Fase 2
+
+[S31_MEMORY_LEVEL_NAME_052]
+T31-S7-3: Estrategia de supervivencia - Fase 3
+
+[S31_MEMORY_LEVEL_NAME_053]
+T31-S7-4: Estrategia de supervivencia - Fase 4
+
+[S31_MEMORY_LEVEL_NAME_054]
+T31-S7-5: Estrategia de supervivencia - Fase 5
+
+[S31_MEMORY_LEVEL_NAME_055]
+T31-S7-6: Estrategia de supervivencia - Fase 6
+
+[S31_MEMORY_LEVEL_NAME_056]
+T31-S7-7: Estrategia de supervivencia - Fase 7
+
+[S31_MEMORY_LEVEL_NAME_057]
+T31-S7-8: Estrategia de supervivencia - Fase final
+
 [S31_MEMORY_LEVEL_NAME_BOSS_1]
 T31-S1: Buitre de guerra
 
@@ -62192,7 +62321,13 @@ T31-S3: Corsario del mar
 T31-S4: Reto del Dr. Zombi
 
 [S31_MEMORY_LEVEL_NAME_BOSS_5]
-T31-S5: Bestia rugiente
+T31-S5: Dr. Zomboss
+
+[S31_MEMORY_LEVEL_NAME_BOSS_6]
+T31-S6: Hydra de tormenta
+
+[S31_MEMORY_LEVEL_NAME_BOSS_7]
+T31-S7: El gran estratega
 
 [S31_MEMORY_LEVEL_NAME_BOSS_9]
 T31: Bólidus
@@ -62255,10 +62390,10 @@ VENDER COLGANTES
 ¿Deseas vender tu ^FF0000^Colgante favorito^oldclr^ por monedas?
 
 [SALE_SUCCESS_MESSAGE]
-¡Has vendido tu colgante con éxito y obtuviste {GOLD_COUNT} Monedas!
+Al vender tu colgante, obtuviste ^DB8117^{GOLD_COUNT} Monedas^oldclr^
 
 [SALE_SUCCESS_TITLE]
-¡Venta exitosa!
+¡VENTA EXITOSA!
 
 [SAP]
 Aplicar savia a
@@ -62754,7 +62889,7 @@ Piezas de plantas comunes
 Piezas de plantas legendarias
 
 [SECRET_GACHA_LOTTERY_PENDANT]
-x30000 Joyas
+30.000 Joyas
 
 [SECRET_GACHA_ONCE]
 Cofre x1
@@ -62852,10 +62987,10 @@ Ingresa la cantidad de Piezas que deseas intercambiar
 Primero selecciona una planta.
 
 [SELECT_THE_REWARD_FROM_THESE]
-Elige uno de estos premios
+SELECCIONAR PREMIO
 
 [SELECT_WISHING_POOL]
-Elige el premio que más deseas
+SELECCIONAR PREMIO DESEADO
 
 [SELF_EXPLODE_ZOMBIE]
 Zombi bombardero
@@ -62864,13 +62999,13 @@ Zombi bombardero
 Invoca 1 Zombi bombardero.
 
 [SELF_SELECT_ACCESSORY_CHIPS_NORMAL]
-Seleccionar Colgantes
+Selec. Colgantes
 
 [SELF_SELECT_ACCESSORY_CHIPS_SUPER]
-Seleccionar Super-colgantes
+Selec. Super-colgantes
 
 [SELF_SELECT_AVATAR_CHIPS]
-Selecciona una Pieza de Atuendo de estas 3
+SELECCIONAR PIEZAS DE ATUENDO
 
 [SELF_SELECT_PLANT_CHIPS_BLUE]
 Selec. plantas raras
@@ -63660,9 +63795,8 @@ Cuando usa Nutrientes, ralentiza zombis un ^D22808^70 %^oldclr^ y aumenta el da�
 Violeta reductora disminuye el tamaño de los zombis en un área, lo que provoca que sufran el doble de daño y reduce el daño que infligen al morder.
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL1_DES]
-Reduce a los zombis y los debilita.
+Reduce a los zombis y los debilita. ^E2725B^Especial: reduce zombis pequeños a la nada.^oldclr^
 ^A048CF^Reducir: ralentiza zombis un ^D22808^50 % ^A048CF^y los hace un ^D22808^20 % ^A048CF^más vulnerables al daño.^oldclr^
-^E2725B^Especial: los zombis pequeños son reducidos a la nada.^oldclr^
 
 [SHRINKINGVIOLET_NEW_SKILL_LEVEL2_DES]
 Su habilidad ahora afecta a ^D22808^zombisteins^oldclr^
@@ -64222,14 +64356,14 @@ Vendido
 Debilidad: ^00AAE4^hielo^oldclr^
 
 [SPACETIMERIFT_BOSSTIPE_DES_TITLE]
-Jefe de temporada: ^A0522D^Conquistador de Roma^oldclr^
+Jefe de temporada: ^E2725B^Conquistador de Roma^oldclr^
 
 [SPACETIMERIFT_CHEAT_DES_DESCRIPTION]
 Se te ha vetado temporalmente de este modo por hacer trampas.
 Si se trata de un error, ponte en contacto con servicio al cliente.
 
 [SPACETIMERIFT_CHEAT_DES_TITLE]
-Trampas detectadas
+Jugador vetado
 
 [SPACETIMERIFT_DES_DESCRIPTION]
 • Recompensas de temporada:
@@ -64283,14 +64417,14 @@ Premio de suerte
 [SPACETIMERIFT_RANKINFO_TEXT]
 
 PUESTO               PREMIO
----------------------------------------------------------
-1-10                 Joyas x588, Casia dorada: Piezas x40
-11-50                Joyas x399, Casia dorada: Piezas x30
-50-100               Joyas x288, Casia dorada: Piezas x20
-Top 1%               Joyas x199, Casia dorada: Piezas x10
-Top 5%               Joyas x166, Casia dorada: Piezas x8
-Top 55%              Joyas x99, Casia dorada: Piezas x5
-Top 99%              Joyas x66, Casia dorada: Piezas x1
+------------------------------------------------------------
+1-10                 Joyas x588,   Casia dorada: Piezas x 40
+11-50                Joyas x399,   Casia dorada: Piezas x 30
+50-100               Joyas x288,   Casia dorada: Piezas x 20
+Top 1%               Joyas x199,   Casia dorada: Piezas x 10
+Top 5%               Joyas x166,   Casia dorada: Piezas x  8
+Top 55%              Joyas x99,    Casia dorada: Piezas x  5
+Top 99%              Joyas x66,    Casia dorada: Piezas x  1
 
 [SPACETIMERIFT_RANKINFO_TITLE]
 RECOMPENSAS POR CLASIFICACIÓN
@@ -66133,16 +66267,16 @@ Toca aquí para obtener recompensas
 Planta:
 
 [STAR_PLANT_DESC_2]
-x{STAR_COUNT} - {PLANT_NAME}
+  x{STAR_COUNT} - {PLANT_NAME}
 
 [STAR_PLANT_TITLE]
-¡Reúne estrellas para conseguir nuevas plantas!
+Premios estelares: ¡NUEVA PLANTA!
 
 [STAR_PLANT_TO_PIECES_TITLE]
-Ya tienes la planta, obtén el equivalente a sus Piezas.
+Premios estelares: ¡PIEZAS DE PLANTA!
 
 [STAR_REWARD]
-Premios Estelares
+Premios estelares
 
 [STAR_TOGAL]
 Objetivo estrella
@@ -69453,7 +69587,7 @@ Asteraceae
 ¡La medalla de Girasol, símbolo de grandeza!
 
 [SUNFLOWER_NEW_SKILL_LEVEL1_DES]
-Proporciona sol adicional. ¡Planta tantos como puedas!
+Proporciona sol adicional. ^E2725B^¡Planta tantos como puedas!^oldclr^
 
 [SUNFLOWER_NEW_SKILL_LEVEL2_DES]
 Produce ^D22808^25^oldclr^ soles al ser removida con la pala o destruida por los zombis.
@@ -72522,7 +72656,7 @@ Reduce el tiempo de recuperación en ^D22808^5 s^oldclr^
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: atrae aves para dispersar sus semillas y controlar ^D22808^5 ^DB8117^zombis al azar.^oldclr^
+^DB8117^Nutrientes: controla a ^D22808^5 ^DB8117^zombis al azar.^oldclr^
 ^FF0000^Límite: zombis de Nvl. 7^oldclr^
 
 [TRISTERIXAPHYLLUS_NEW_SKILL_LEVEL5_DES]
@@ -72530,7 +72664,7 @@ Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^FF0000^Límite: zombis de Nvl. 10^oldclr^
 
 [TRISTERIXAPHYLLUS_PLANTFOOD_DESCRIPTION]
-Atrae aves para dispersar sus semillas y controlar hasta 5 zombis al azar
+Controla a 5 zombis al azar
 
 [TRISTERIXAPHYLLUS_PRODUCT_SHORT_DESC]
 Atrae aves que dispersan sus semillas para controlar zombis
@@ -73220,10 +73354,10 @@ Se recarga y lanza un rayo que dura 2 s. ^FF8000^Coste: +50 por Tomate^oldclr^
 ^DB8117^Nutrientes: explota y luego desaparece. ^D22808^Daño: 1.600 (todo el patio)^oldclr^
 
 [ULTOMATO_NEW_SKILL_LEVEL2_DES]
-Se reduce el tiempo de carga de ataque en ^D22808^1 s^oldclr^
+Tiempo de carga de ataque ^D22808^-1 s^oldclr^
 
 [ULTOMATO_NEW_SKILL_LEVEL3_DES]
-Se reduce el tiempo de carga de ataque en ^D22808^2 s^oldclr^
+Tiempo de carga de ataque ^D22808^-2 s^oldclr^
 
 [ULTOMATO_NEW_SKILL_LEVEL4_DES]
 ^D22808^50 % de probabilidad^oldclr^ de mutar a amarillo al plantarse.
@@ -74931,7 +75065,7 @@ Vainilla sopla ráfagas de viento que dañan a todos los zombis de la línea y m
 
 [VANILLA_NEW_SKILL_LEVEL1_DES]
 Sopla ráfagas que dañan a los zombis de la línea.
-^FFC300^Tornado: se activa con 5 ataques, hace 180 DPS/s y aturde por 1 s^oldclr^
+^A0522D^Tornado: se activa con 5 ataques, hace 180 DPS/s y aturde por 1 s^oldclr^
 ^E2725B^Tip: funciona de maravilla contra los Zombis gentiles.^oldclr^
 
 [VANILLA_NEW_SKILL_LEVEL2_DES]
@@ -74945,7 +75079,7 @@ Despertar: ^D22808^25 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: sopla un enorme tornado que expulsa ^D22808^5 ^DB8117^zombis medianos. ^D22808^Daño por impacto: 100^oldclr^
 
 [VANILLA_NEW_SKILL_LEVEL5_DES]
-^D22808^20 % de probabilidad^oldclr^ de soplar ^D22808^3^D22808^ tornados a la vez.
+^D22808^20 % de probabilidad^oldclr^ de soplar ^D22808^3^oldclr^ tornados a la vez.
 
 [VANILLA_PLANTFOOD_DESCRIPTION]
 Sopla un enorme tornado que arroja hasta 5 zombis medianos
@@ -75868,7 +76002,7 @@ Ya compartido
 Iniciar sesión con WeChat
 
 [WECHAT_SHARE_NOT_INSTALLED]
-WeChat no instalado en tu dispositivo, instala WeChat para continuar.
+Instala WeChat para continuar.
 
 [WECHAT_SHARE_SESSION_TXT]
 Amigos de WeChat
@@ -75888,7 +76022,7 @@ Recargar 元 de forma acumulativa y obtén Piezas raras.
 El dinero recargado se reinicia al final del evento
 
 [WEEK_DAY_SEPARATE]
-,
+, 
 
 [WEEK_FRIDAY]
 Viernes
@@ -77570,7 +77704,9 @@ Lanza pulpos a tus plantas para atraparlas.
 Zombi ostra
 
 [ZOMBIE_BEACH_SHELL_DESCRIPTION]
-Zombi ostra tiene envidia de los Zombis gavioteros porque vuelan en el aire y él no. Para cumplir su sueño, fue a una tienda y gastó una gran suma de dinero en súper-pegamento para pegarse una concha de ostra gigante en sus manos, ¡pero todavía no puede volar!
+{KEYWORD}Debilidad: {STAT}Limón ácido
+
+{FLAVOR}Zombi ostra tiene envidia de los Zombis gavioteros porque pueden volar y él no. Para cumplir su sueño, fue a una tienda y gastó una gran suma de dinero en súper-pegamento para pegarse una concha de ostra gigante en sus manos, ¡pero todavía no puede volar!
 
 [ZOMBIE_BEACH_SHELL_DESCRIPTION_HEADER]
 Usa una concha para protegerse de los impactos y atacar a las plantas cercanas.
@@ -78331,7 +78467,7 @@ Zombi bandido
 
 [ZOMBIE_DARK_ROGUE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}las plantas no pueden atacarlo al estar invisible
-{KEYWORD}Debilidad: {STAT}Planterna y Cereza iluminada pueden hacerlo visible
+{KEYWORD}Debilidad: {STAT}Planterna y Cereza iluminada
 
 {FLAVOR}Consiguió que un mago le hiciera una poción para cumplir con sus fechorías sin que nadie sospeche. Los efectos de la poción son muy obvios, pero los efectos secundarios son algo grandes.
 
@@ -78823,10 +78959,10 @@ Zombi policía
 
 {KEYWORD}Debilidad: {STAT}Trebolador y Huracol neutralizan los efectos del humo
 
-{FLAVOR}Cada vez que hay un motín, ¡aparece para cumplir con su deber, protegiendo al país y a su gente! ¡Es un tipo digno de nuestro respeto!
+{FLAVOR}Cuando escucha la palabra "disturbio", aparece tan rápido que a veces llega antes de que ocurra.
 
 [ZOMBIE_EXPLOSION_PROOF_DESCRIPTION_HEADER]
-Un zombi que vela por el cumplimiento de la ley y el orden.
+Un zombi que vela por el cumplimiento del caos y el desorden.
 
 [ZOMBIE_FAIRY_TALE]
 Zombi encantado
@@ -78935,7 +79071,7 @@ Zombi buzo profesional
 Renunció por la presión de sus compañeros en su antiguo trabajo. Por suerte, las cosas se tornaron más tranquilas en su nuevo entorno, salvo por las fuertes corrientes oceánicas.
 
 [ZOMBIE_FAT_DIVE_DESCRIPTION_HEADER]
-Su tanque de oxígeno se rompe al recibir daño, expulsando oxígeno y dándole impulso.
+Su tanque se rompe al recibir daño, expulsando oxígeno y dándole impulso.
 
 [ZOMBIE_FEASTIVUS_SWASHBUCKLER]
 Ladrón de lingotes
@@ -79256,7 +79392,7 @@ Comerciante del Período Heian. Vende toda clase de artesanías misteriosas.
 Samurái caracono
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION]
-Lo consideran un samurái a pesar que no use espadas. Eso sí, tiene una buena defensa en la cabeza.
+Lo consideran un samurái a pesar que no use armas. Eso sí, tiene una buena defensa en la cabeza.
 
 [ZOMBIE_HEIAN_ARMOR1_DESCRIPTION_HEADER]
 Su cono le proporciona el doble de dureza que el samurái promedio.
@@ -79296,7 +79432,7 @@ Zombi hanabi
 
 [ZOMBIE_HEIAN_HANABI_DESCRIPTION]
 {KEYWORD}Especial: {STAT}al ser derrotado, sus fuegos artificiales se saldrán de control
-{KEYWORD}Debilidad: {STAT}los charcos dejados por Loto helado pueden apagar sus llamas
+{KEYWORD}Debilidad: {STAT}Loto helado
 
 {FLAVOR}Todos los días intenta añadir nuevos ingredientes a su barril de fuegos artificiales, y solo él sabe cómo hacerlos estallar. "¡Biu-bang! ¡El fuego es maravilloso!", exclama.
 
@@ -79598,9 +79734,9 @@ Nave furtiva-X
 
 [ZOMBIE_INVISIBLE_PLANE_DESCRIPTION]
 {KEYWORD}Daño: {STAT}daña tu nave gravemente al impactar contra ella
-{KEYWORD}Especial: {STAT}las plantas no pueden atacar la nave mientras está oculta
+{KEYWORD}Especial: {STAT}las plantas no pueden atacarla mientras está oculta
 
-{KEYWORD}Debilidad: {STAT}Cereza iluminada puede revelar su posición
+{KEYWORD}Debilidad: {STAT}Cereza iluminada
 
 {FLAVOR}El Dr. Zombi gastó una gran suma de su dinero para crear un misterioso avión que intriga a muchos. Se dice que puede dar a los zombis la sensación de seguridad perdida hace mucho tiempo.
 
@@ -81831,13 +81967,13 @@ Mandones y orgullosos, los Zombis aristócratas abanderados creen que su bandera
 Marca el debut de una gran oleada de zombis aristocráticos.
 
 [ZOMBIE_RENAI_GARGANTUAR]
-Zombistein aristócrata
+Zombistein de la nobleza
 
 [ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Daño: {STAT}aplasta plantas con estatuas de zombis
 {KEYWORD}Especial: {STAT}lanza al Zombidito escultor cuando sufre daño
 
-{FLAVOR}Zombistein aristócrata es el más noble de la aristocracia, aunque no pueda encontrar su propia estatua. Como pretexto, siempre le dice al Zombidito escultor que no tuvo forma alguna de pedirla prestada. "¿Cómo osáis llamar ladrón a un aristócrata?", protesta indignado. "Solo tomo las cosas prestadas, ¡prestadas! Mas no sé de qué modo he de pedírselas."
+{FLAVOR}Es el más noble de la aristocracia, aunque no pueda encontrar su propia estatua. Como pretexto, siempre le dice al Zombidito escultor que no tuvo forma alguna de pedirla prestada. "¿Cómo osáis llamar ladrón a un aristócrata?", protesta indignado. "Solo tomo las cosas prestadas, ¡prestadas! Mas no sé de qué modo he de pedírselas."
 
 [ZOMBIE_RENAI_GARGANTUAR_DESCRIPTION_HEADER]
 Siempre roba las estatuas de los Zombiditos escultores.
@@ -81847,7 +81983,7 @@ Zombi con aladelta
 
 [ZOMBIE_RENAI_GLIDING_DESCRIPTION]
 {KEYWORD}Especial: {STAT}su aladelta destruye plantas y bloquea proyectiles al caer
-{KEYWORD}Debilidad: {STAT}Huracol y Trebolador pueden expulsar su aladelta
+{KEYWORD}Debilidad: {STAT}Huracol y Trebolador
 
 {FLAVOR}La defensa y los obstáculos están en el suelo, todo el cielo se encuentra despejado; si el aladelta se estrella, los zombis de la alta sociedad se burlarán de él por su fracasado invento.
 
@@ -81882,13 +82018,13 @@ Julieta la enamorada
 {FLAVOR}"Romeo, Romeo, ¿dónde estás que no te veo?"
 
 [ZOMBIE_RENAI_JULIET_DESCRIPTION_HEADER]
-Una actriz muy buena en lo que hace. Interpreta a Julieta Capuleto de Shakespeare, lista para el caos.
+Interpreta a Julieta Capuleto de Shakespeare, lista para el caos.
 
 [ZOMBIE_RENAI_PERFUMER]
 Zombi perfumista
 
 [ZOMBIE_RENAI_PERFUMER_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}Aloe purifica los efectos nocivos de sus perfumes
+{KEYWORD}Debilidad: {STAT}Aloe
 
 {FLAVOR}Zombi perfumista ofrece una exquisita variedad de aromas: fragancias dulces, bálsamos embriagadores y esencias cautivadoras. Siempre que van a visitarla, sus clientas exclaman: "¿Como aristócratas... no merecemos más perfume? ¡Más perfume! ¡MÁS PERFUME! Qué aroma tan exquisito... Hmmmm, delicioso."
 
@@ -82031,7 +82167,10 @@ En la Antigua Roma las banderas se usaban a menudo en el campo de batalla para d
 Zombistein gladiador
 
 [ZOMBIE_ROMAN_GARGANTUAR_DESCRIPTION]
-Tiene una columna y no le da miedo usarla.
+{KEYWORD}Daño: {STAT}aplasta plantas con su columna
+{KEYWORD}Especial: {STAT}lanza al Zombidito romano cuando sufre daño
+
+{FLAVOR}Tiene una columna y no le da miedo usarla.
 
 [ZOMBIE_ROMAN_GARGANTUAR_DESCRIPTION_HEADER]
 Lleva un casco. Lanza un Zombidito y una red. Todo un trabajador.
@@ -82494,7 +82633,7 @@ Trabajador caracono
 Su jefe lo ascendió de puesto por promover que se usasen conos como medida de seguridad.
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION_HEADER]
-Su cono lo hace dos veces más resistentes que los trabajadores ordinarios.
+Su cono lo hace dos veces más resistente que los trabajadores ordinarios.
 
 [ZOMBIE_STEAM_ARMOR2]
 Trabajador caracubo
@@ -82543,9 +82682,9 @@ Zombi gentil
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
 {KEYWORD}Especial: {STAT}sale volando por encima de tus defensas con su paraguas
-{KEYWORD}Debilidad: {STAT}Vainilla puede quitarle el paraguas
+{KEYWORD}Debilidad: {STAT}Vainilla
 
-{FLAVOR}"Solo soy un noble caballero zombi que presta mucha atención a sus modales, suelo vestirme bien y andar con un paraguas", dice. La verdad es que lleva su paraguas todos los días con él porque tiene miedo de que la lluvia estropee su elegante traje negro.
+{FLAVOR}Solo soy un noble caballero zombi que cuida mucho sus modales. Me visto con elegancia y siempre llevo un paraguas", dice. En realidad, no sale de casa sin él porque teme que la lluvia le arruine su impecable traje negro.
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION_HEADER]
 Una vez coloques tus defensas contra él, saldrá volando con su paraguas por encima de ellas.
@@ -82563,7 +82702,7 @@ Después de ser lanzado sobre la mayoría de tus defensas, continúa caminando h
 Zombi con calderas
 
 [ZOMBIE_STEAM_STOVE_DESCRIPTION]
-{KEYWORD}Debilidad: {STAT}los ataques gélidos bajan las altas temperaturas de sus calderas
+{KEYWORD}Debilidad: {STAT}plantas de hielo
 
 {FLAVOR}Trabajar en un ambiente caluroso todo el día hace que este zombi sea muy violento, así que trata de no hacerlo enfadar. Estaría muy encantado si lo recibes con un vaso de agua fría.
 
@@ -82728,7 +82867,7 @@ Zombi levantatumbas
 
 [ZOMBIE_TOMB_RAISER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}crea tumbas en el patio
-{KEYWORD}Debilidad: {STAT}Comepiedras puede quitar sus lápidas
+{KEYWORD}Debilidad: {STAT}Comepiedras
 
 {FLAVOR}Sueña con jugar a lanzar cerebros y que otros zombis los agarren. Le encanta enterrarse en el patio y todavía no entrenó en casa. Aún busca su rabo.
 
@@ -83059,7 +83198,7 @@ Lo lanzan por encima de todas las plantas (excepto las más altas) y después co
 
 [ZOMBIE_WEST_BULL_DESCRIPTION]
 {KEYWORD}Especial: {STAT}lanza a un Zombidito jinete volador por encima de las plantas
-{KEYWORD}Debilidad: {STAT}La Nuez cáscara-rabias bloquea al Zombidito volador
+{KEYWORD}Debilidad: {STAT}Nuez cáscara-rabias bloquea al Zombidito volador
 
 {FLAVOR}No es un toro enfadado. Le encantan las flores, corretear por el campo, sentarse bajo la sombra de los árboles y dar largos paseos por los pastos. Sentará cabeza cuando encuentre a la vaca adecuada. Qué pena que sea un robot.
 
@@ -83586,13 +83725,13 @@ Zombot buitre de guerra
 La máquina definitiva de Ciudad Aérea.
 
 [ZOMBIE_ZOMBOSSMECH_STEAM]
-Zombot locomotora de vapor
+Zombot locomotora de pavor
 
 [ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION]
 {KEYWORD}Daño: {STAT}dispara misiles y carbón a tus plantas para destruirlas
 {KEYWORD}Especial: {STAT}libera locomotoras que aplastan todo a su paso
 
-{FLAVOR}Tras su derrota, el Dr. Zombi se había quedado sin ideas para construir una nueva máquina infalible, según el dice. Finalmente, encontró la mejor forma de modificar una antigua locomotora y convertirla en un arma fulminante.
+{FLAVOR}Tras su derrota, el Dr. Zombi se quedó sin ideas para construir una nueva máquina infalible. Por suerte, una antigua locomotora de vapor le devolvió la inspiración.
 
 [ZOMBIE_ZOMBOSSMECH_STEAM_DESCRIPTION_HEADER]
 La mayor maquinaria de la Era del Vapor.
