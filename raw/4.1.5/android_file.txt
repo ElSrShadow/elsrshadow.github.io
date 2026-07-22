@@ -11165,24 +11165,24 @@ Normal
 RECIBIR
 
 [COMPLAIN_CONTENT]
-Horario del servicio: 8:30-22:00
+Horario del servicio: 8:30 AM -10:00 PM (China)
+
 Servicio al cliente de QQ: 4008932088
 
-^E2725B^NOTA: en QQ, toca en "Buscar personas" y pega el número de arriba.
-Luego, toca en "Atención al cliente" para ser atendido.^oldclr^
+^E2725B^NOTA: en QQ, toca en "Buscar personas" y pega el número de arriba. Luego, toca en "Atención al cliente" para ser atendido.^oldclr^
 
 [COMPLAIN_CONTENT_A]
 Horario del servicio: 9:00-18:00
+
 Servicio al cliente de QQ: 4008932088
 
-^E2725B^NOTA: en QQ, toca en "Buscar personas" y pega el número de arriba.
-Luego, toca en "Atención al cliente" para ser atendido.^oldclr^
+^E2725B^NOTA: en QQ, toca en "Buscar personas" y pega el número de arriba. Luego, toca en "Atención al cliente" para ser atendido.^oldclr^
 
 [COMPLAIN_CONTENT_HUAWEI]
-Horario de servicio al cliente: 8:30-22:00
+Horario del servicio: 8:30 AM -10:00 PM (China)
 
 [COMPLAIN_CONTENT_TIME]
-Horario del servicio: 8:30-22:00
+Horario del servicio: 8:30 AM -10:00 PM (China)
 
 [COMPLAIN_ICON]
 QUEJAS
@@ -14613,7 +14613,7 @@ Completa 2 Niveles en la Dimensión del Recuerdo.
 Juega 8 partidas en la Dimensión del Recuerdo.
 
 [DAVE_TREASURE_TRANSGENIC_10]
-Fusiona 10 veces en Transgénesis.
+Fusiona 10 veces en la Fábrica de piezas.
 
 [DAY]
 Día
@@ -19175,13 +19175,13 @@ No tienes soles suficientes para usar ese cañón, derrota zombis para reunir m�
 Frenesí: ¡cañones más baratos!
 
 [FISHING_ENERGY_NEED_RESET_TIP]
-Se te acabaron los soles, ¿deseas gastar ^00e46e {GEM_COUNT} Joyas ^oldclr para añadir 1000 soles al contador?
+Se te acabaron los soles. ¿Deseas gastar ^00e46e^{GEM_COUNT} Joyas^oldclr^ para añadir ^FF0000^1.000 soles^oldclr^ al contador?
 
 [FISHING_FAILED_TIP]
 ¡Recoge puntos suficientes para ganar!
 
 [FISHING_HIGHSCORE_TIP]
-Derrota al zombi iluminado para obtener un montón de soles y puntos.
+Minijefe: ¡derrótalo para ganar muchos soles y puntos!
 
 [FISHING_INTRO_CANNONDESC]
 Los cañones avanzados son muy potentes, pero requieren mucho sol para usarse.
@@ -23144,7 +23144,7 @@ Produce soles al inicio, repele zombis cuando crece
 Completa {NUM} aventura (s) de plantas
 
 [HAPPY_VASE_BREAKER_AVATAR_TRANSGENIS]
-Fusiona {NUM} veces en Transgénesis en la sección "Atuendos"
+Fusiona {NUM} veces en Fábrica de piezas: sección "Atuendos"
 
 [HAPPY_VASE_BREAKER_BATTLEZ]
 Gana {NUM} partida (s) de Batallaz
@@ -23229,7 +23229,7 @@ Martillos
 Rompejarrones de Oro
 
 [HAPPY_VASE_BREAKER_TRANSGENIS]
-Fusiona {NUM} veces en Transgénesis
+Fusiona {NUM} veces en la Fábrica de piezas
 
 [HAPPY_VASE_BREAKER_WINNIE]
 Abre {NUM} Cofres secretos
@@ -23471,7 +23471,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.3.7 (actualizado el 20/7/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.6^oldclr^ | ^87CEFA^Parche: 1.4.0 (actualizado el 22/7/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -33804,7 +33804,7 @@ Combina las esferas de alrededor para destruir los bloques de hielo y liberar el
 {NPC_ENTER:crazydave}{PLAYFUL}Ese zombi que usa el cubo de hierro no pinta bien.
 
 [NARRATIVE_FRESHINTRO_PLANTFOOD_INTRO_2]
-{EXCITED}¡Solo prueba el Nutriente ahora y arrástralo a los guisantes!
+{EXCITED}¡Prueba los Nutrientes! Arrástralos al Lanzaguisantes para derrotar al zombi.
 
 [NARRATIVE_FRESHINTRO_ZOMBIE_INTRO_1]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}¡Este tipo, como yo, tiene algo puesto en la cabeza y se ve amenazante!
@@ -37027,37 +37027,23 @@ Equipado con mis mejores armas... y mis peores intenciones.
 {SAY:winnie}Subirlo de nivel mejora los efectos que este les provee a su planta portadora.
 
 [NARRATIVE_TACTICAL_CUKE_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Mis sensores muestran que ahora es el mejor momento para usar las armas secretas.
+{NPC_ENTER:winnie}{PLAYFUL}Tienes potenciadores, ¡te enseñaré a usarlos!
 
 [NARRATIVE_TACTICAL_CUKE_INTRO_2]
-{SAY:crazydave}Toma éstos Pepinos tácticos vecino, no me preguntes por qué...
-
-[NARRATIVE_TACTICAL_CUKE_INTRO_3]
-{SPECIAL4:crazydave}¡Porque estoy LOOOCOOO!
+{SAY}Toca en el Pepino táctico para destruir a todos los zombis del mapa.
 
 [NARRATIVE_TRANS_GENOSIS_OPEN_TUTORIAL_1]
-{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:crazydaveicon}¿Qué es esa cosa, Penny?
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{PLAYFUL:winnieicon}¡La Fábrica de piezas abre sus puertas!
+En ella, podemos crear nuevas Piezas fusionando las que ya tenemos.
 
 [NARRATIVE_TRANS_GENOSIS_OPEN_TUTORIAL_2]
-{SAY:winnieicon}{SHORT}Es un transgén que me encontré, usuario Dave.
-
-[NARRATIVE_TRANS_GENOSIS_OPEN_TUTORIAL_3]
-{SAY:crazydaveicon}{SHORT}¿Un transgén? ¡Suena mágico!
-
-[NARRATIVE_TRANS_GENOSIS_OPEN_TUTORIAL_4]
-{PLAYFUL:winnieicon}Con este trasgén podemos obtener nuevas Piezas a través de las que ya tenemos.
-
-[NARRATIVE_TRANS_GENOSIS_OPEN_TUTORIAL_5]
-{EXCITED:crazydaveicon}¡Genial! ¡No puedo esperar más hasta probarlo!
+{EXCITED:crazydaveicon}¡Genial! ¡Vamos a producir unas cuantas!
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_DONE_TUTORIAL_1]
-{NPC_ENTER:winnieicon}{NPC_ENTER:crazydaveicon}{SAY:winnieicon}La fusión requiere de al menos dos Piezas.
+{NPC_ENTER:winnieicon}{SAY}La fusión requiere de al menos dos Piezas.
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_DONE_TUTORIAL_2]
-{SAY:winnieicon}{LONG}Cuantas más Piezas se utilicen, mayor será la probabilidad de obtener Piezas de alta rareza.
-
-[NARRATIVE_TRANS_GENOSIS_SELECT_DONE_TUTORIAL_3]
-{EXCITED:crazydaveicon}Es hora de probarlo, ¡qué emoción!
+{SAY}{LONG}Cuantas más Piezas se utilicen, mayor será la probabilidad de obtener Piezas de calidad.
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_END_TUTORIAL_1]
 {NPC_ENTER:winnieicon}{PLAYFUL}{SHORT}Recuerda pasarte por aquí de vez en cuando.
@@ -37066,10 +37052,8 @@ Equipado con mis mejores armas... y mis peores intenciones.
 {PLAYFUL}{LONG}Usa las Piezas de plantas que hayas mejorado, o Piezas de Atuendos que ya tengas para las fusiones.
 
 [NARRATIVE_TRANS_GENOSIS_SELECT_TUTORIAL_1]
-{NPC_ENTER:crazydaveicon}{EXCITED}Hola, vecino. Puse algunas Piezas en el transgén, ya deberías saberlo...
-
-[NARRATIVE_TRANS_GENOSIS_SELECT_TUTORIAL_2]
-{SPECIAL4}¡Porque estoy LOOOCOOO!
+{NPC_ENTER:crazydaveicon}{EXCITED}Hola, vecino. Con que quieres fabricar unas Piezas, ¿eh?
+¡Toma estas de cortesía, la primera vez es gratis!
 
 [NARRATIVE_TUTORIAL_ACCESSORY1_INTRO_1]
 {NPC_ENTER:winnieicon}{PLAYFUL:winnieicon}Perfecto, ahora que la planta tiene un Colgante, sus habilidades han mejorado.
@@ -37105,13 +37089,10 @@ Equipado con mis mejores armas... y mis peores intenciones.
 {SAY:crazydave}No debería ser demasiado tarde, ¡démonos prisa y agarrémoslos!
 
 [NARRATIVE_TUTORIAL_AVATAR_INTRO_1]
-{NPC_ENTER:winnieicon}{PLAYFUL:winnieicon}Parece que ya encontraste un Atuendo.
+{NPC_ENTER:winnieicon}{PLAYFUL}Parece que encontraste un Atuendo.
 
 [NARRATIVE_TUTORIAL_AVATAR_INTRO_2]
-{SAY:winnieicon}Dirígete a la sección "Accesorios" y equípaselo a la planta.
-
-[NARRATIVE_TUTORIAL_AVATAR_INTRO_3]
-{SAY:winnieicon}Será de gran utilidad para lidear con los zombis.
+{SAY:winnieicon}Dirígete a la sección "Accesorios" y pónselo a la planta.
 
 [NARRATIVE_TUTORIAL_CARD_GAME_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}¿Qué hay, Penny? ¿Te gustaría jugar a las cartas conmigo?
@@ -37126,7 +37107,7 @@ Equipado con mis mejores armas... y mis peores intenciones.
 {SAY:winnie}No prestes atención a esos detalles, usuario Dave. Son solo cartas.
 
 [NARRATIVE_TUTORIAL_CRYSTAL_STORE_INTRO_1]
-{NPC_ENTER:winnieicon}{SAY}Detecto la presencia de más zombis que vienen tras nosotros.
+{NPC_ENTER:winnieicon}{SAY}Detecto la presencia de más zombis.
 
 [NARRATIVE_TUTORIAL_CRYSTAL_STORE_INTRO_2]
 {PLAYFUL}{LONG}Sugiero dirigirnos a la Tienda misteriosa y usar los Rubíes que conseguimos en plantas más fuertes.
@@ -37351,7 +37332,7 @@ Abramos estos Cofres, tal vez haya plantas que puedan ayudarnos.
 {EXCITED}Pues, ¡te traigo buenas noticias!
 
 [NARRATIVE_TUTORIAL_TRANSGENOSIS_INTRO_3]
-{SAY}Puedes dirigirte a la sección "Transgénesis" y fabricar unas cuantas, ¡inténtalo!
+{SAY}Puedes dirigirte a la sección "Fábrica de piezas" y crear unas cuantas, ¡inténtalo!
 
 [NARRATIVE_TUTORIAL_TRAVELLOG_INTRO_1]
 {NPC_ENTER:crazydaveicon}{NPC_EXIT:winnieicon}{PLAYFUL:crazydaveicon}Oye Penny, ¿qué es este pedazo de madera?
@@ -42261,7 +42242,7 @@ Completa 3 Retos diarios en el Modo Difícil (3 por cada modo)
 Juega 7 partidas en Batallaz
 
 [NOVICESEVENDAYS_TASK_NAME_45]
-Fusiona Piezas una vez en Transgénesis
+Fusiona Piezas 1 vez en la Fábrica de piezas
 
 [NOVICESEVENDAYS_TASK_NAME_46]
 Derrota al Dr. Zombi una vez en La Búsqueda de Penny
@@ -72239,7 +72220,7 @@ Esta función te permitirá fusionar piezas de plantas y atuendos para crear má
 ^FF0000^Ten en cuenta que solo podrás fusionar aquellas piezas en tu posesión.^oldclr^
 
 [TRANS_GENOSIS_TITLE]
-Transgénesis
+Fábrica de piezas
 
 [TRANS_GENOSIS_WASTE]
 Dos piezas legendarias son más que suficientes para esta fusión, ¿deseas eliminar las piezas sobrantes?
@@ -83695,16 +83676,16 @@ Una creación que no pertenece a la crisis de los treinta.
 Zombot buitre de guerra
 
 [ZOMBIE_ZOMBOSSMECH_SKYCITY_DESCRIPTION]
-^E2725B^• Fase 1^oldclr^
+^A048CF^• Fase 1^oldclr^
 
 {KEYWORD}Daño: {STAT}ataca a las plantas con descargas eléctricas
 {KEYWORD}Especial: {STAT}crea torbellinos que arrasan con filas enteras de plantas
 
-^E2725B^• Fase 2^oldclr^
+^A048CF^• Fase 2^oldclr^
 
 {KEYWORD}Daño: {STAT}usa sus filosas garras para dañar plantas, y a veces, raptarlas
 
-^E2725B^• Fase 3^oldclr^
+^A048CF^• Fase 3^oldclr^
 
 {KEYWORD}Daño: {STAT}libera dos electrodos que chamuscan columnas de plantas si no son destruidos a tiempo
 {KEYWORD}Especial: {STAT}de vez en cuando, lanza un ataque masivo por todo el patio
