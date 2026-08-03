@@ -1,6 +1,395 @@
 ﻿[#OF#]
 # de #
 
+[rank_avatar_diy_70]
+Tres son multitud
+
+[RANK_AVATAR_CONTENT_CONTENT_61067]
+Recompensa clasificatoria de la temporada 47 de Dueloz
+
+[RANK_AVATAR_CONTENT_TITLE_61067]
+Tres son multitud
+
+[ZOMBIE_KONGFU_BASIC_ARMOR4]
+Shaolin cara-brasero
+
+[ZOMBIE_KONGFU_BASIC_ARMOR4_DESCRIPTION]
+{FLAVOR}Insistió durante años en que el humo aromático mejoraba su concentración. Nadie tuvo el valor de decirle que el brasero estaba apagado desde 2014.
+
+[ZOMBIE_KONGFU_BASIC_ARMOR4_DESCRIPTION_HEADER]
+Su brasero de incienso le otorga una dureza muy elevada.
+
+[ZOMBIE_KONGFU_MONK_ARMOR4]
+Monje shaolin cara-brasero
+
+[ZOMBIE_KONGFU_MONK_ARMOR4_DESCRIPTION]
+{FLAVOR}Alcanzó la iluminación tras meditar durante veinte años. Luego olvidó qué había aprendido, pero asegura que fue algo muy importante.
+
+[ZOMBIE_KONGFU_MONK_ARMOR4_DESCRIPTION_HEADER]
+Su brasero ceremonial le otorga una dureza extraordinaria.
+
+[ZOMBIE_BEACH_ARMOR4]
+Pompadour cara-castillo
+
+[ZOMBIE_BEACH_ARMOR4_DESCRIPTION]
+{FLAVOR}Su castillo de arena desafía cocos, olas y toda lógica conocida. Lástima que tenga que volver a construirlo cada vez que sube la marea.
+
+[ZOMBIE_BEACH_ARMOR4_DESCRIPTION_HEADER]
+Su castillo de arena le otorga una dureza muy elevada.
+
+[ZOMBIE_BEACH_FEM_ARMOR4]
+Cara-castillo con bikini
+
+[ZOMBIE_BEACH_FEM_ARMOR4_DESCRIPTION]
+{FLAVOR}Su castillo de arena es una auténtica obra de ingeniería. Incluso los cangrejos se detienen a admirarlo. Por desgracia, la marea también pasa a verlo todos los días.
+
+[ZOMBIE_BEACH_FEM_ARMOR4_DESCRIPTION_HEADER]
+Su elaborado castillo de arena le otorga una dureza extraordinaria.
+
+[ZOMBIE_MAUSOLEUM_ARMOR4]
+Bing cara-terracota
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_DESCRIPTION]
+{FLAVOR}Nadie sabe de qué tumba lo desenterró, pero una cosa está clara: si sobrevivió dos mil años bajo tierra sin romperse, debe de ser resistente. Lo malo es que no ha conseguido quitárselo ni una sola vez.
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_DESCRIPTION_HEADER]
+Su casco de terracota le otorga una dureza muy elevada.
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT]
+Cara-terracota del inframundo
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT_DESCRIPTION]
+{KEYWORD}Especial: {STAT}aparece como fantasma al ser derrotado, atravesando y aturdiendo plantas
+{KEYWORD}Forma espiritual: {STAT}ignora plantas no espirituales, siendo inmune a sus proyectiles o barreras
+
+{KEYWORD}Debilidad: {STAT}plantas del tipo espiritual
+
+{FLAVOR}El fabricante grabó las instrucciones dentro del casco. Una decisión cuestionable, considerando que solo pudo leerlas después de que el casco se rompiera. Para entonces, ya era un fantasma.
+
+[ZOMBIE_MAUSOLEUM_ARMOR4_GHOST_SPIRIT_DESCRIPTION_HEADER]
+Su casco de terracota milenario le otorga una dureza extraordinaria.
+
+[ZOMBIE_SKYCITY_ARMOR4]
+Aviador con casco
+
+[ZOMBIE_SKYCITY_ARMOR4_DESCRIPTION_HEADER]
+El casco con forma de buitre le otorga una dureza muy elevada.
+
+[ZOMBIE_SKYCITY_ARMOR4_DESCRIPTION]
+{KEYWORD}Daño: {STAT}daña tu nave con su lanzallamas al estar cerca de ella
+
+{FLAVOR}El casco reglamentario de la Fuerza Aérea superó todas las pruebas de seguridad. Todas menos la de aterrizaje.
+
+[ZOMBIE_LOSTCITY_ARMOR4]
+Zombi máscara dorada
+
+[ZOMBIE_LOSTCITY_ARMOR4_DESCRIPTION]
+{FLAVOR}La máscara de oro puro atrae todas las miradas. También explica sus constantes dolores de cuello.
+
+[ZOMBIE_LOSTCITY_ARMOR4_DESCRIPTION_HEADER]
+Su reliquia maya de oro le otorga una dureza extraordinaria.
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR4]
+Caraladrillo de 8-bits
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR4_DESCRIPTION]
+{FLAVOR}Muchos creen que se mueve a trompicones por culpa del peso de su casco. Él asegura que son gráficos auténticos de 8 bits.
+
+[ZOMBIE_EIGHTIES_8BIT_ARMOR4_DESCRIPTION_HEADER]
+Su ladrillo pixelado le otorga una dureza sorprendente.
+
+[ZOMBIE_EIGHTIES_ARMOR4]
+Zombi cara-casete
+
+[ZOMBIE_EIGHTIES_ARMOR4_DESCRIPTION]
+{FLAVOR}Lleva años escuchando la misma canción. Nadie sabe si le gusta mucho o si simplemente no puede cambiarla.
+
+[ZOMBIE_EIGHTIES_ARMOR4_DESCRIPTION_HEADER]
+Su casete le da ritmo y ofrece una protección excelente contra daños.
+
+[ZOMBIE_STEAM_ARMOR4]
+Zombi cara-reloj
+
+[ZOMBIE_STEAM_ARMOR4_DESCRIPTION]
+{FLAVOR}Su reloj siempre marca las tres en punto. Dos veces al día acierta. Este no es uno de esos relojes.
+
+[ZOMBIE_STEAM_ARMOR4_DESCRIPTION_HEADER]
+Su imponente torre de reloj le otorga una protección robusta.
+
+[ZOMBIE_RENAI_ARMOR4]
+Zombi cara-escultura
+
+[ZOMBIE_RENAI_ARMOR4_DESCRIPTION]
+{FLAVOR}El escultor dedicó años a perfeccionar cada detalle. Nadie tuvo el corazón para decirle que los agujeros para respirar también cuentan como detalles.
+
+[ZOMBIE_RENAI_ARMOR4_DESCRIPTION_HEADER]
+Su obra maestra renacentista le permite soportar muchos golpes.
+
+[ZOMBIE_HEIAN_ARMOR4]
+Zombi ishidoro
+
+[ZOMBIE_HEIAN_ARMOR4_DESCRIPTION]
+{FLAVOR}Tras una fuerte lluvia, encontró varios peces de colores viviendo dentro de su casco. Desde entonces los considera compañeros de piso.
+
+[ZOMBIE_HEIAN_ARMOR4_DESCRIPTION_HEADER]
+Su antigua linterna de piedra le permite soportar muchos golpes.
+
+[ZOMBIE_FAIRY_TALE_ARMOR4]
+Zombi calabaza encantada
+
+[ZOMBIE_FAIRY_TALE_ARMOR4_DESCRIPTION]
+{FLAVOR}Dicen que su calabaza se convierte en carroza hasta la medianoche. La diferencia es que la suya nunca recibió la invitación al baile.
+
+[ZOMBIE_FAIRY_TALE_ARMOR4_DESCRIPTION_HEADER]
+Su calabaza encantada le otorga una resistencia alta.
+
+[ZOMBIE_ATLANTIS_ARMOR4]
+Zombi cara-coral
+
+[ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION]
+{FLAVOR}A veces siente la cabeza más pesada y otras más ligera, pero nunca descubre por qué. La respuesta es sencilla: las corrientes marinas pasan por su coral y se llevan algunos peces de paseo.
+
+[ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION_HEADER]
+Su arrecife de coral le otorga una dureza extraordinaria.
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR4]
+Atlante cara-coral
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR4_DESCRIPTION]
+{FLAVOR}Presume de llevar una pieza de coral de alta gama. Sus tres pequeños habitantes saben que solo es un arrecife con problemas de vivienda.
+
+[ZOMBIE_ATLANTIS_LAND_ARMOR4_DESCRIPTION_HEADER]
+Su exclusivo coral de arrecife le otorga una dureza extraordinaria.
+
+[ZOMBIE_ZCORP_ARMOR4]
+Caralaptop ZCorp
+
+[ZOMBIE_ZCORP_ARMOR4_DESCRIPTION]
+{FLAVOR}Pasa todo el día trabajando desde la pantalla de su propia cabeza. Lo único que consigue asustarlo es una pantalla azul, especialmente cuando olvida guardar sus documentos.
+
+[ZOMBIE_ZCORP_ARMOR4_DESCRIPTION_HEADER]
+Su computadora integrada le otorga una dureza extraordinaria.
+
+[ZOMBIE_ZCORP_FEM_ARMOR4]
+Contratista caralaptop
+
+[ZOMBIE_ZCORP_FEM_ARMOR4_DESCRIPTION]
+{FLAVOR}ZCorp encontró la forma definitiva de ahorrar energía: eliminar los escritorios y poner las computadoras directamente en la cabeza de los contratistas. Eficiente. Cuestionable.
+
+[ZOMBIE_ZCORP_FEM_ARMOR4_DESCRIPTION_HEADER]
+Su computadora de oficina le otorga una dureza extraordinaria.
+
+[S31_MEMORY_LEVEL_NAME_057]
+T31-S8-1: De regreso a Roma - Parte 1
+
+[S31_MEMORY_LEVEL_NAME_058]
+T31-S8-2: De regreso a Roma - Parte 2
+
+[S31_MEMORY_LEVEL_NAME_059]
+T31-S8-3: De regreso a Roma - Parte 3
+
+[S31_MEMORY_LEVEL_NAME_060]
+T31-S8-4: De regreso a Roma - Parte 4
+
+[S31_MEMORY_LEVEL_NAME_061]
+T31-S8-5: De regreso a Roma - Parte 5
+
+[S31_MEMORY_LEVEL_NAME_062]
+T31-S8-6: De regreso a Roma - Parte 6
+
+[S31_MEMORY_LEVEL_NAME_063]
+T31-S8-7: De regreso a Roma - Parte 7
+
+[S31_MEMORY_LEVEL_NAME_064]
+T31-S8-8: De regreso a Roma - Parte 8
+
+[S31_MEMORY_LEVEL_NAME_BOSS_8]
+T31-S8: Conquistador de Roma
+
+[S32_MEMORY_LEVEL_NAME_001]
+T32-S1-1: Lianas y enredaderas
+
+[S32_MEMORY_LEVEL_NAME_002]
+T32-S1-2: Matorral de espinas
+
+[S32_MEMORY_LEVEL_NAME_003]
+T32-S1-3: Oscuridad
+
+[S32_MEMORY_LEVEL_NAME_004]
+T32-S1-4: Duelo mágico
+
+[S32_MEMORY_LEVEL_NAME_005]
+T32-S1-5: La campaña del emperador
+
+[S32_MEMORY_LEVEL_NAME_006]
+T32-S1-6: Rayos y truenos
+
+[S32_MEMORY_LEVEL_NAME_007]
+T32-S1-7: Obstrucción
+
+[S32_MEMORY_LEVEL_NAME_008]
+T32-S1-8: Sin descanso
+
+[S32_MEMORY_LEVEL_NAME_009]
+T32-S2-1: Machacados en el Jurásico - Parte 1
+
+[S32_MEMORY_LEVEL_NAME_010]
+T32-S2-2: Machacados en el Jurásico - Parte 2
+
+[S32_MEMORY_LEVEL_NAME_011]
+T32-S2-3: Machacados en el Jurásico - Parte 3
+
+[S32_MEMORY_LEVEL_NAME_012]
+T32-S2-4: Machacados en el Jurásico - Parte 4
+
+[S32_MEMORY_LEVEL_NAME_013]
+T32-S2-5: Machacados en el Jurásico - Parte 5
+
+[S32_MEMORY_LEVEL_NAME_014]
+T32-S2-6: Machacados en el Jurásico - Parte 6
+
+[S32_MEMORY_LEVEL_NAME_015]
+T32-S2-7: Machacados en el Jurásico - Parte 7
+
+[S32_MEMORY_LEVEL_NAME_016]
+T32-S2-8: Machacados en el Jurásico - Parte 8
+
+[S32_MEMORY_LEVEL_NAME_017]
+T32-S3-1: 27/8/2026 - 1:00 AM
+
+[S32_MEMORY_LEVEL_NAME_018]
+T32-S3-2: 27/8/2026 - 1:00 PM
+
+[S32_MEMORY_LEVEL_NAME_019]
+T32-S3-3: 27/8/2026 - 2:00 AM
+
+[S32_MEMORY_LEVEL_NAME_020]
+T32-S3-4: 27/8/2026 - 2:00 PM
+
+[S32_MEMORY_LEVEL_NAME_021]
+T32-S3-5: Festival de Zhongyuan - Acto 1
+
+[S32_MEMORY_LEVEL_NAME_022]
+T32-S3-6: Festival de Zhongyuan - Acto 2
+
+[S32_MEMORY_LEVEL_NAME_023]
+T32-S3-7: Festival de Zhongyuan - Acto 3
+
+[S32_MEMORY_LEVEL_NAME_024]
+T32-S3-8: Festival de Zhongyuan - Acto final
+
+[S32_MEMORY_LEVEL_NAME_025]
+T32-S4-1: Escaramuza pirata - Parte 1
+
+[S32_MEMORY_LEVEL_NAME_026]
+T32-S4-2: Escaramuza pirata - Parte 2
+
+[S32_MEMORY_LEVEL_NAME_027]
+T32-S4-3: Escaramuza pirata - Parte 3
+
+[S32_MEMORY_LEVEL_NAME_028]
+T32-S4-4: Escaramuza pirata - Parte 4
+
+[S32_MEMORY_LEVEL_NAME_029]
+T32-S4-5: Escaramuza pirata - Parte 5
+
+[S32_MEMORY_LEVEL_NAME_030]
+T32-S4-6: Escaramuza pirata - Parte 6
+
+[S32_MEMORY_LEVEL_NAME_031]
+T32-S4-7: Escaramuza pirata - Parte 7
+
+[S32_MEMORY_LEVEL_NAME_032]
+T32-S4-8: Escaramuza pirata - Parte 8
+
+[S32_MEMORY_LEVEL_NAME_033]
+T32-S5-1: Pradera otoñal - Parte 1
+
+[S32_MEMORY_LEVEL_NAME_034]
+T32-S5-2: Pradera otoñal - Parte 2
+
+[S32_MEMORY_LEVEL_NAME_035]
+T32-S5-3: Pradera otoñal - Parte 3
+
+[S32_MEMORY_LEVEL_NAME_036]
+T32-S5-4: Pradera otoñal - Parte 4
+
+[S32_MEMORY_LEVEL_NAME_037]
+T32-S5-5: Pradera otoñal - Parte 5
+
+[S32_MEMORY_LEVEL_NAME_038]
+T32-S5-6: Pradera otoñal - Parte 6
+
+[S32_MEMORY_LEVEL_NAME_039]
+T32-S5-7: Pradera otoñal - Parte 7
+
+[S32_MEMORY_LEVEL_NAME_040]
+T32-S5-8: Pradera otoñal - Parte 8
+
+[S32_MEMORY_LEVEL_NAME_BOSS_1]
+T32-S1: Teatro muerto
+
+[S32_MEMORY_LEVEL_NAME_BOSS_2]
+T32-S2: Mechasaurio 2.0
+
+[S32_MEMORY_LEVEL_NAME_BOSS_3]
+T32-S3: Machacante eterno
+
+[S32_MEMORY_LEVEL_NAME_BOSS_4]
+T32-S4: Corsario 2.0
+
+[S32_MEMORY_LEVEL_NAME_BOSS_5]
+T32-S5: Navegante de maple
+
+[SEARCH_MODE_HEAD_ID_25912]
+Cazareliquias del cosmos
+
+[SEARCH_MODE_HEAD_DES_ID_25912]
+A quienes participaron en la 1ra temporada del evento: Expedición por el cosmos
+
+[PLAYERS_TRIP_TO_SOUDACHE]
+La expedición de {PLAYER}
+
+[SOUDACHE_COLLECTION_PEA_BADGE]
+Insignia del guisante
+
+[SOUDACHE_COLLECTION_DESCRIPTION_PEA_BADGE]
+Aumenta la probabilidad de que aparezcan guisantes.
+Mejora: 20% de disparar 3 guisantes por varias líneas.
+
+[SOUDACHE_COLLECTION_ABYSS_BADGE]
+Insignia del abismo
+
+[SOUDACHE_COLLECTION_DESCRIPTION_ABYSS_BADGE]
+Aumenta la probabilidad de que aparezcan plantas abisales.
+Mejora: los zombis derrotados se convierten en Acólitos abisales.
+
+[SOUDACHE_COLLECTION_SHROOM_BADGE]
+Insignia de setas
+
+[SOUDACHE_COLLECTION_DESCRIPTION_SHROOM_BADGE]
+Aumenta la probabilidad de que aparezcan setas.
+
+[SOUDACHE_HOW_TO_PLAY_TITLE]
+¿CÓMO JUGAR?
+
+[SOUDACHE_UPGRADE_ALL_DESC]
+Coste: Polvo cósmico x{NUM}
+Mejora de colección: +{LEVEL}
+Los objetos se mejoran en orden segun calidad (de menor a mayor)
+
+[SOUDACHE_COLLECTION_NO_UPGRADEABLE]
+No hay objetos por mejorar
+
+[SOUDACHE_SAVE_AND_EXIT]
+GUARDAR Y SALIR
+
+[PLANT_BOND_PRO_ABYSS_STORE_DESCRIPTION]
+- Nvl. 0: dispara un rayo láser al zombi más cercano.
+- Nvl. 75: el daño se propaga a un área de 3x3
+- Nvl. 200: dispara un rayo enorme por todo el patio. El daño del láser básico aumenta.
+- Nvl. 400: el láser enorme permanece activo. El daño del láser básico aumenta aún más.
+
 [NEW_AVATAR_SHORT_DESCRIPTION_HOYACORDATA_3]
 Ramen
 
@@ -348,7 +737,7 @@ Insignia de setas
 Aumenta la probabilidad de que aparezcan setas.
 
 [SOUDACHE_COLLECTION_CAT_STICKER]
-Pe-gat-ina
+Sticker gatuno
 
 [SOUDACHE_COLLECTION_DESCRIPTION_CAT_STICKER]
 Una pegatina para los amantes de los gatos
@@ -372,10 +761,10 @@ Bocadillo
 Un aperitivo con un sabor peculiar
 
 [SOUDACHE_COLLECTION_BROKEN_POT]
-Saltén rota
+Sartén rota
 
 [SOUDACHE_COLLECTION_DESCRIPTION_BROKEN_POT]
-Parece que alguien la ha usado para dar saltenazos
+Parece que alguien la ha usado para dar sartenazos
 
 [SOUDACHE_COLLECTION_SUPER_LOLLIPOP]
 Superpaleta
@@ -447,7 +836,7 @@ El símbolo de un gran héroe: Iron-Nut
 Salsa para tacos
 
 [SOUDACHE_COLLECTION_DESCRIPTION_DAVE_SALSA]
-"Un taco no es un taco si no lleva salva" - Dave el loco
+"Un taco no es un taco si no lleva salsa" - Dave el loco
 
 [SOUDACHE_COLLECTION_ZEN_WATERING_CAN]
 Regadera
@@ -2432,16 +2821,12 @@ Doy mi consentimiento para que los datos personales que se recopilen a través d
 Dinos tu edad.
 
 [AGE_TIP]
-Notas de la actualización 4.1.6
+Notas de la actualización 4.1.8
 
 [AGE_TIP_CONTENT]
-1. Nueva planta: Piña clon
-2. Nuevos zombis: Zombi gladiador, Zombot conquistador de Roma
-3. Nuevos colgantes: Grilletes pesados, Grilletes de mithril
-4. Nuevo evento: Liga Dave
-5. Nuevas habilidades para: Frustrella (Nvl. 5)
-6. Evento: Fisura temporal (temporada 2)
-7. Optimización y correción de errores
+1. Nuevo evento: Expedición por el cosmos
+2. Nuevos zombis veteranos para cada mundo
+3. Optimización y correción de errores
 
 [AIRSHIP_CRASH_LOSS]
 ¡TU NAVE FUE DESTRUIDA!
@@ -15103,7 +15488,7 @@ Tu puesto
 ¡CUARTOS DE FINAL!
 
 [DAVECUP_HEAD_DES_ID_25889]
-A quienes compitieron en la 1ra temporada de la Garden TV
+A quienes participaron en la 1ra temporada del evento: Garden TV
 
 [DAVECUP_HEAD_ID_25889]
 Jóvenes futbolistas
@@ -24345,7 +24730,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.7^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 26/7/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.8^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 3/8/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -49143,9 +49528,6 @@ Zona de Infinito
 [PLAYERS_TRIP_TO_KONGFU]
 ¡El viaje de {PLAYER} a la Dinastía del Kung Fu!
 
-[PLAYERS_TRIP_TO_LOD__BIRTHDAY]
-¡La Fiezta de cumpleañoz de {PLAYER}!
-
 [PLAYERS_TRIP_TO_LOSTCITY]
 ¡El viaje de {PLAYER} a la Ciudad perdida!
 
@@ -62881,7 +63263,7 @@ T31-S6-6: Diluvio ácido - Parte 6
 T31-S6-7: Diluvio ácido - Parte 7
 
 [S31_MEMORY_LEVEL_NAME_048]
-T31-S6-8: Diluvio ácido - Parte final
+T31-S6-8: Diluvio ácido - Parte 8
 
 [S31_MEMORY_LEVEL_NAME_049]
 T31-S7-1: Estrategia de supervivencia - Fase 1
@@ -62905,7 +63287,7 @@ T31-S7-6: Estrategia de supervivencia - Fase 6
 T31-S7-7: Estrategia de supervivencia - Fase 7
 
 [S31_MEMORY_LEVEL_NAME_056]
-T31-S7-8: Estrategia de supervivencia - Fase final
+T31-S7-8: Estrategia de supervivencia - Fase 8
 
 [S31_MEMORY_LEVEL_NAME_BOSS_1]
 T31-S1: Buitre de guerra
@@ -65610,7 +65992,7 @@ Festival de primavera - Día 11
 Festival de primavera - Día 12
 
 [SPRINGFESTIVAL_2024_NAME_13]
-Festival de primavera - Día final
+Festival de primavera - Día Final
 
 [SPRINGGIFT_DES]
 ^ffff00^{NAME} al Nvl. 3^oldclr^
