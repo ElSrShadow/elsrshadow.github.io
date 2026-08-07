@@ -11,7 +11,7 @@ Recompensa clasificatoria de la temporada 47 de Dueloz
 Tres son multitud
 
 [ZOMBIE_KONGFU_BASIC_ARMOR4]
-Shaolin cara-brasero
+Zombi incensario
 
 [ZOMBIE_KONGFU_BASIC_ARMOR4_DESCRIPTION]
 {FLAVOR}Insistió durante años en que el humo aromático mejoraba su concentración. Nadie tuvo el valor de decirle que el brasero estaba apagado desde 2014.
@@ -20,7 +20,7 @@ Shaolin cara-brasero
 Su brasero de incienso le otorga una dureza muy elevada.
 
 [ZOMBIE_KONGFU_MONK_ARMOR4]
-Monje shaolin cara-brasero
+Monje incensario
 
 [ZOMBIE_KONGFU_MONK_ARMOR4_DESCRIPTION]
 {FLAVOR}Alcanzó la iluminación tras meditar durante veinte años. Luego olvidó qué había aprendido, pero asegura que fue algo muy importante.
@@ -204,7 +204,7 @@ T31-S8-7: De regreso a Roma - Parte 7
 T31-S8-8: De regreso a Roma - Parte 8
 
 [S31_MEMORY_LEVEL_NAME_BOSS_8]
-T31-S8: Conquistador de Roma
+T31-S8: Esfinge romana
 
 [S32_MEMORY_LEVEL_NAME_001]
 T32-S1-1: Lianas y enredaderas
@@ -374,9 +374,9 @@ Aumenta la probabilidad de que aparezcan setas.
 ¿CÓMO JUGAR?
 
 [SOUDACHE_UPGRADE_ALL_DESC]
-Coste: Polvo cósmico x{NUM}
+Material gastado: Cristal cósmico x{NUM}
 Mejora de colección: +{LEVEL}
-Los objetos se mejoran en orden segun calidad (de menor a mayor)
+Los objetos se mejoran de menor a mayor calidad
 
 [SOUDACHE_COLLECTION_NO_UPGRADEABLE]
 No hay objetos por mejorar
@@ -598,18 +598,18 @@ ALMACÉN PRINCIPAL LLENO
 El almacén principal está lleno. Descarta los elementos que no necesites para recoger más.
 
 [WAREHOUSE_INSURANCE_DEPLOY_TITLE]
-SEGURO PARA PLANTAS
+CAJA FUERTE
 
 [WAREHOUSE_INSURANCE_DEPLOY_BODY]
-¿Deseas colocar las plantas en la barra de seguridad?
+¿Deseas sacar esa planta de la caja fuerte?
 
 [SOUDACHE_NOT_OPEN]
 El evento no está disponible.
 
 [SOUDACHE_TIPS_DESC]
 1. La Zona de infinito se desbloquea al completar el Modo difícil.
-2. Sobrevive a las 100 oleadas y gana Monedas del cosmos.
-3. Las Monedas del cosmos se pueden canjear por avatares en la Tienda.
+2. Sobrevive a las 100 oleadas y gana Cristales cósmicos.
+3. Los cristales se pueden canjear por avatares en la Tienda.
 
 [SOUDACHE_CRYSTAL_DUST_COUNT]
 {NUM}
@@ -630,7 +630,7 @@ VITRINA
 MO
 
 [SOUDACHE_SELECT_DIFFICULTY]
-Selecciona una dificultad
+SELECCIONA UNA DIFICULTAD
 
 [SOUDACHE_DIFF_NORMAL]
 Normal
@@ -648,7 +648,7 @@ Imposible
 {NUM}
 
 [SOUDACHE_DIFF_CARRY_DUST_LABEL]
-Transportar
+^00AAE4^Coste
 
 [SOUDACHE_DIFF_UNLOCK_HINT0]
 Bloqueado
@@ -663,16 +663,16 @@ Bloqueado
 Bloqueado
 
 [SOUDACHE_DIFF_LOCKED_PREV_PASS]
-Primero debes completar el Nivel anterior
+Completar nvl anterior
 
 [SOUDACHE_DIFF_LOCKED_PREV_PASS_1]
-Completa el Nivel anterior (dificultad: Normal)
+^FF0000^Completar dif: Normal
 
 [SOUDACHE_DIFF_LOCKED_PREV_PASS_2]
-Completa el Nivel anterior (dificultad: Difícil)
+^FF0000^Completar dif: Difícil
 
 [SOUDACHE_DIFF_LOCKED_PREV_PASS_3]
-Completa el Nivel anterior (dificultad: Pesadilla)
+^FF0000^Completar dif: Pesadilla
 
 [SOUDACHE_DIFF_LOCKED_TIME]
 No disponible
@@ -687,10 +687,11 @@ ACEPTAR
 ¡Tengo justo lo que buscas!
 
 [SOUDACHE_SHOP_REFRESH_CONFIRM]
-¿Deseas refrescar la tienda? ^D22808^Coste: {NUM} Monedas del cosmos^oldclr^
+¿Deseas refrescar la tienda?
+^00AAE4^Coste: {NUM} Fragmentos cósmicos^oldclr^
 
 [SOUDACHE_SHOP_REFRESH_TIPS_TITLE]
-Se refresca en:
+Tabla de probabilidades
 
 [SOUDACHE_SHOP_ACTIVITY_GOT]
 Agotado
@@ -705,7 +706,7 @@ Tienda del cosmos
 Tienes: {NUM}
 
 [SOUDACHE_SHOP_NOT_ENOUGH_DUST]
-Polvo cósmico insuficiente.
+Material insuficiente. Reúne más Fragmentos cósmicos para comprar esto.
 
 [SOUDACHE_SHOP_BUY_CONFIRM]
 ¿Deseas comprar ese artículo?
@@ -893,10 +894,10 @@ Casco vikingo
 Históricamente cuestionable. Visualmente impecable
 
 [SOUDACHE_COLLECTION_SWEET_HOME]
-Dulce hogar
+Sarcófago
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SWEET_HOME]
-Hogar, dulce hogar. Y sí, lo de "dulce" va en serio
+Donde los antiguos faraones descansan
 
 [SOUDACHE_COLLECTION_OLD_GRAMOPHONE]
 Gramófono
@@ -1024,11 +1025,11 @@ Completa el modo de dificultad para desbloquear este objeto
 Desbloqueos semanales agotados
 
 [SOUDACHE_COLLECTION_UNLOCK_CONFIRM]
-¿Deseas desbloquear este objeto? ^A048CF^Coste: Polvo cósmico x{NUM}^oldclr^
+¿Deseas desbloquear este objeto? ^A048CF^Coste: Cristal cósmico x{NUM}^oldclr^
 ^FFFF00^Desbloqueos semanales: {REMAIN}/4^oldclr^
 
 [SOUDACHE_COLLECTION_NOT_ENOUGH_COINS]
-Material insuficiente. La mejora requiere: ^A048CF^Polvo cósmico x{NUMS}^oldclr^
+Material insuficiente. La mejora requiere: ^A048CF^Cristal cósmico x{NUMS}^oldclr^
 
 [SOUDACHE_COLLECTION_UPGRADE_TITLE]
 Mejora de colección
@@ -1052,7 +1053,7 @@ Calidad: ^FFFF00^{RARE}^oldclr^
 Nivel: ^00FF00^{NUM}^oldclr^
 
 [SOUDACHE_COLLECTION_UPGRADE_DESC]
-Descripción: TO-DO
+
 
 [SOUDACHE_COLLECTION_REWARD_TITLE]
 Premios del coleccionista
@@ -1070,7 +1071,7 @@ Objetos: ^FFFF00^{VALUE}/{MAX}^oldclr^
 Nivel de vitrina: ^FFFF00^{VALUE}/{MAX}^oldclr^
 
 [SOUDACHE_COLLECTION_ALL_UPGRADE_CONFIRM]
-¿Deseas gastar Polvo cósmico para mejorar toda la colección?
+¿Deseas mejorar toda la colección?
 
 [SOUDACHE_COLLECTION_ALL_UPGRADE_COST]
 Coste: {NUMS}
@@ -1091,10 +1092,10 @@ Imposible
 VOLVER
 
 [SOUDACHE_GOT_PLANT_TITLE]
-ELEGIR PLANTAS
+PLANTAS INICIALES
 
 [SOUDACHE_GOT_PLANT_DAVE_HINT]
-¡Llévate algunas plantas contigo!
+¡Toma estas plantas!
 
 [SOUDACHE_GOT_PLANT_QUIT_HINT]
 ¿Seguro que quieres salir? Si lo haces, perderás el progreso actual de la expedición.
@@ -1115,7 +1116,7 @@ ACEPTAR
 DESECHAR ARTÍCULO
 
 [SOUDACHE_GARBAGE_DISCARD_BODY]
-¿Seguro que quieres desechar este artículo?
+Ese artículo parece valioso. ¿Seguro que quieres desecharlo?
 
 [SOUDACHE_GARBAGE_DISCARD_WARNING]
 Los artículos desechados no se pueden recuperar.
@@ -1133,10 +1134,10 @@ No volver a mostrar
 Reclamado
 
 [SOUDACHE_COLLECTION_REWARD_MILESTONE]
-Conseguiste: ^FFFF00^{NUM} objeto (s)^oldclr^
+Colecciona ^FFFF00^{NUM}^oldclr^ objetos
 
 [SOUDACHE_COLLECTION_LEVEL_REWARD_MILESTONE]
-La vitrina alcanzó el ^FFFF00^Nivel {NUM}^oldclr^
+Mejora la vitrina al ^FFFF00^Nivel {NUM}^oldclr^
 
 [SOUDACHE_FRENZY_WARNING]
 ¡Frenesí zombi!
@@ -1151,14 +1152,16 @@ Contacto: Penny
 Error en la verificación de datos
 
 [SOUDACHE_EVACUATION_PENNY_ADVICE]
-Invasión neutralizada. Captura el botín antes de retirarte.
+Invasión neutralizada. Captura el botín antes de retirarte.^oldclr^
 
 [SOUDACHE_EVACUATION_PENNY_ADVICE_2]
-ADVERTENCIA:
+^DB8117^ADVERTENCIA:^oldclr^
 
-1. No podrás retirarte si decides seguir avanzando.
+^FF0000^1. No podrás retirarte si decides seguir avanzando.
+
 2. Si fallas, perderás los objetos no asegurados.
-3. La ventana de evacuación volverá a aparecer en los siguientes niveles.
+
+3. La ventana de evacuación volverá a aparecer en los siguientes niveles.^oldclr^
 
 [SOUDACHE_EVACUATION_ITEM_LIST]
 Lista de artículos
@@ -1185,7 +1188,7 @@ Estado
 Estabilidad espacio-temporal
 
 [SOUDACHE_SETTLE_DUST]
-Polvo
+Cristal
 
 [SOUDACHE_SETTLE_WIN]
 ¡Victoria!
@@ -1203,19 +1206,19 @@ RETIRAR
 ACEPTAR
 
 [SOUDACHE_SETTLE_REWARDS_TITLE]
-REGISTRO DE PREMIOS
+RECOMPENSAS
 
 [SOUDACHE_SETTLE_REWARDS_DUST]
-Polvo cósmico
+Cristal cósmico
 
 [SOUDACHE_SETTLE_REWARDS_ROW1]
 Botín
 
 [SOUDACHE_SETTLE_REWARDS_ROW2]
-Reembolso
+Bonus
 
 [SOUDACHE_SETTLE_REWARDS_ROW3]
-Artículos
+Total
 
 [SOUDACHE_SETTLE_REWARDS_BTN]
 PREMIOS
@@ -1224,13 +1227,13 @@ PREMIOS
 1. Defensa y saqueo
 
 [SOUDACHE_HOWTOPLAY_DESC_01]
-Derrota zombis y recoge recursos. Si la estabilidad espacio-temporal llega a 0, perderás el botín
+Derrota zombis y evita que crucen la barrera. Si la estabilidad espacio-temporal llega a 0, perderás
 
 [SOUDACHE_HOWTOPLAY_SUBTITLE_02]
 2. Formación de plantas
 
 [SOUDACHE_HOWTOPLAY_DESC_02]
-Empiezas con 3 plantas iniciales. Las plantas son de Nivel 1
+Empiezas con 3 plantas iniciales. Las plantas son de Nivel 1, y mejoran cada vez que reunas 3 cartas
 
 [SOUDACHE_HOWTOPLAY_SUBTITLE_03]
 3. Fuerza estelar / Sinergías
@@ -1243,14 +1246,15 @@ Empiezas con 3 plantas iniciales. Las plantas son de Nivel 1
 4. Parcelas / Barra de energía
 
 [SOUDACHE_HOWTOPLAY_DESC_04]
-(A) Planta en parcelas y evita que los zombis las crucen. Las parcelas se abren con el tiempo.
+(A) Solo puedes plantar en parcelas. Estas conforme vayas avanzando.
 (B) Toca en una planta con la barra llena para liberar su efecto de Nutrientes.
 
 [SOUDACHE_HOWTOPLAY_SUBTITLE_05]
 5. Extracción de recursos
 
 [SOUDACHE_HOWTOPLAY_DESC_05]
-Toca en el carrito para iniciar la extracción de recursos. Extraer recursos es riesgoso y toma tiempo
+Toca en Mo para extraer cristales y obtener fragmentos y plantas aleatorias.
+Al iniciar la extracción, aparecerán zombis. ¡Ten cuidado!
 
 [SOUDACHE_HOWTOPLAY_SUBTITLE_06]
 6. Calidad de recursos
@@ -12735,9 +12739,6 @@ Prueba de precisión - Fase 2
 [CONVEYER_BELT3_TITLE]
 Prueba de precisión - Fase 3
 
-[COPA_PICTURE_WARNING]
-Tu foto será guardada solo en este dispositivo.
-
 [CORNUCOPIA_ACTIVITY_COUNTDOWN_TITLE]
 Termina en
 
@@ -12757,13 +12758,14 @@ Joyas
 Planta
 
 [CORNUCOPIA_CRYSTAL_5000]
-Premio de la suerte
+Premio mayor: ¡5.000 Joyas!
 
 [CORNUCOPIA_CURRENT_TITLE]
 Marca actual
 
 [CORNUCOPIA_GACHA_CONFIRM]
-¿Deseas abrir el Cofre por {NUMS} Monedas de la Suerte?
+¿Deseas abrir el Cofre?
+^DB8117^Coste: {NUMS} Monedas de la Suerte^oldclr^
 
 [CORNUCOPIA_GACHA_ONE_TITLE]
 x1
@@ -12778,7 +12780,7 @@ x10
 Cofres abiertos: {NUMS}
 
 [CORNUCOPIA_GIFT_GEM_REWARD_TITLE]
-Joyas x{NUMS}
+¡{NUMS} Joyas!
 
 [CORNUCOPIA_GIFT_RANK_DUMMY_TITLE]
 Posición garantizada
@@ -12787,37 +12789,37 @@ Posición garantizada
 Cofres x{NUMS}
 
 [CORNUCOPIA_GIFT_REWARD_ADD_UP_ANDROID]
-Posiciónate en la tabla de clasificaciones abriendo Cofres. Recibes mejores recompensas en posiciones altas.
+Posiciónate en la tabla de clasificaciones abriendo Cofres.
 
 [CORNUCOPIA_GIFT_REWARD_ADD_UP_IOS]
-Posiciónate en la tabla de clasificaciones abriendo Cofres. Recibes mejores recompensas en posiciones altas.
+Posiciónate en la tabla de clasificaciones abriendo Cofres.
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_1]
-Pos. 1-50: Joyas x{NUM}
+Pos. 1-50: {NUM} Joyas 
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_2]
-Pos. 51-150: Joyas x{NUM}
+Pos. 51-150: {NUM} Joyas
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_3]
-Pos. 151-300: Joyas x{NUM}
+Pos. 151-300: {NUM} Joyas
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_4]
-Pos. 301-500: Joyas x{NUM}
+Pos. 301-500: {NUM} Joyas
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_1]
-Cada persona de la clasificación recibe ^08FF20^0,5%^oldclr^ del premio total (requiere un mín. de 200 Cofres)
+Cada persona recibe ^08FF20^0,5%^oldclr^ del premio total (requisito mín: 200 Cofres)
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_2]
-Cada persona de la clasificación recibe ^08FF20^0,25%^oldclr^ del premio total (requiere un mín. de 160 Cofres)
+Cada persona recibe ^08FF20^0,25%^oldclr^ del premio total (requisito mín: 160 Cofres)
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_3]
-Cada persona de la clasificación recibe ^08FF20^0,2%^oldclr^ del premio total (requiere un mín. de 120 Cofres)
+Cada persona recibe ^08FF20^0,2%^oldclr^ del premio total (requisito mín: 120 Cofres)
 
 [CORNUCOPIA_GIFT_REWARD_STRIP_DES_4]
-Cada persona de la clasificación recibe ^08FF20^0,1%^oldclr^ del premio total (requiere un mín. de 80 Cofres)
+Cada persona recibe ^08FF20^0,1%^oldclr^ del premio total (requisito mín: 80 Cofres)
 
 [CORNUCOPIA_GOTO_LEVEL]
-Mejorar marca
+Experiencia
 
 [CORNUCOPIA_GRADE_TASK_NAME_1_1]
 Inicia sesión hoy
@@ -12835,13 +12837,13 @@ Completa 1 Nivel en la Dimensión del Recuerdo
 Completa 2 Aventuras vegetales
 
 [CORNUCOPIA_HARVEST_COOLDOWN_TITLE]
-Cosecha acelerada
+Tiempo
 
 [CORNUCOPIA_HARVEST_GOT_CONFIRM]
 ¿Deseas reclamar las recompensas de las burbujas?
 
 [CORNUCOPIA_HARVEST_TITLE]
-Cosechar recompensas
+COSECHAR RECOMPENSAS
 
 [CORNUCOPIA_LEADERBOARD_COUNTDOWN_TITLE]
 Liga termina en
@@ -12853,11 +12855,13 @@ Liga termina en
 Marca
 
 [CORNUCOPIA_MAIN_TIPS_INFO]
-1. Obtén Monedas de la Suerte comprando Paquetes de regalo, en burbujas o completando misiones, y úsalas para abrir Cofres.
-2. Cada Cofre otorga recompensas aleatorias, incluidas Insignias.
-3. Canjea las Insignias por premios en la Tienda.
-4. Compra Paquetes de regalo para recibir recompensas adicionales como Monedas de la Suerte o Joyas.
-5. Las monedas e insignias de este evento expiran, úsalas lo antes posible.
+1. Obtén Monedas de la Suerte comprando Lotes, en burbujas o completando misiones, y úsalas para abrir Cofres.
+
+2. Cada Cofre otorga recompensas aleatorias, incluidos Tréboles dorados. Canjea los tréboles por premios en la Tienda.
+
+3. Compra lotes para recibir recompensas adicionales como Monedas de la Suerte, Experiencia o Joyas.
+
+4. Las monedas y treboles de este evento expiran, úsalas lo antes posible.
 
 [CORNUCOPIA_MARQUEE_TEMPLATE]
 {NAME} ha pescado el premio gordo: ¡{INFO}!
@@ -12866,13 +12870,13 @@ Marca
 Nivel máx.
 
 [CORNUCOPIA_NEXT_LEVEL_DESC]
-Necesitas {NUMS} para pasar al siguiente nivel, consíguelas recargando o completando misiones.
+{NUMS} ptos. para el sigte. nivel
 
 [CORNUCOPIA_NEXT_TITLE]
 Sigte. marca
 
 [CORNUCOPIA_PRESENT_BUY_CONFIRM]
-¿Deseas comprar este Paquete de regalo?
+¿Deseas comprar este lote?
 
 [CORNUCOPIA_PROGRESS_TIPS_INFO]
 Por cada 10 Cofres abiertos, se añade 1 Joya a la bolsa de premios.
@@ -12881,7 +12885,8 @@ Por cada 10 Cofres abiertos, se añade 1 Joya a la bolsa de premios.
 Progreso global
 
 [CORNUCOPIA_SHOP_BUY_CONFIRM]
-¿Deseas comprar ese artículo por ^DB8117^{NUMS} insignias^oldclr^?
+¿Deseas comprar ese artículo?
+^DB8117^Coste: Trébol dorado x{NUMS}^oldclr^
 
 [CORNUCOPIA_SHOP_BUY_TIME]
 Compras: {NUM1}/{NUM2}
@@ -12935,7 +12940,7 @@ Tienda
 Premios
 
 [CORNUCOPIA_TITLE]
-Cuerno de la abundancia
+Cornucopia
 
 [CORNUCOPIA_TOTAL_GACHA_TITLE]
 Cofres abiertos: {NUMS}
@@ -20805,7 +20810,7 @@ Despertar: ^D22808^45 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^4DD4DB^Hongo trueno: dispara relámpagos que tienen un 10% de desarmar zombis de cascos^oldclr^
 
 [FUMESHROOM_PLANTFOOD_DESCRIPTION]
-Expulsa una nube de humo que empuja a los zombis hacia atrás por 5 s. ^D22808^Daño: 1.500^oldclr^
+Expulsa una nube de humo que empuja a los zombis hacia atrás
 
 [FUMESHROOM_PRODUCT_SHORT_DESC]
 Dispara humo que daña a todos los zombis de un área
@@ -24730,7 +24735,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.8^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 3/8/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.9^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 7/8/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -30671,16 +30676,16 @@ Lotes cromáticos.
 Se usa para canjear artículos en la Tienda colorida
 
 [MAT_CORNUCOPIA_EMBLEM]
-Insignia
+Trébol dorado
 
 [MAT_CORNUCOPIA_EMBLEM_GOT_WAY]
-Cuerno de la abundancia.
+Cornucopia
 
 [MAT_CORNUCOPIA_EMBLEM_MUST]
-Requiere Insignias
+Requiere Tréboles dorados
 
 [MAT_CORNUCOPIA_EMBLEM_NOT_ENOUGH]
-Insignias insuficientes.
+Tréboles dorados insuficientes.
 
 [MAT_CORNUCOPIA_EMBLEM_USE]
 Se usa para canjear artículos en la Tienda de la abundancia.
@@ -30689,7 +30694,7 @@ Se usa para canjear artículos en la Tienda de la abundancia.
 Moneda de la Suerte
 
 [MAT_CORNUCOPIA_TICKET_GOT_WAY]
-Cuerno de la abundancia.
+Cornucopia
 
 [MAT_CORNUCOPIA_TICKET_NOT_ENOUGH]
 Monedas de la Suerte insuficientes.
