@@ -1,6 +1,198 @@
 ﻿[#OF#]
 # de #
 
+[S32_MEMORY_LEVEL_NAME_1]
+S32-D-01: Tigre feroz
+
+[S32_MEMORY_LEVEL_NAME_2]
+S32-D-02: Nueva era jurásica
+
+[S32_MEMORY_LEVEL_NAME_3]
+S32-D-03: Lluvia torrencial
+
+[S32_MEMORY_LEVEL_NAME_4]
+S32-D-04: Relámpagos letales
+
+[S32_MEMORY_LEVEL_NAME_5]
+S32-D-05: Muérdagos y piñas
+
+[S32_MEMORY_LEVEL_NAME_6]
+S32-D-06: Caos medieval
+
+[S32_MEMORY_LEVEL_NAME_7]
+S32-D-07: La leyenda de Medusa
+
+[S32_MEMORY_LEVEL_NAME_8]
+S32-D-08: Jardinero atento
+
+[S32_MEMORY_LEVEL_NAME_9]
+S32-D-09: Mareas de zombis
+
+[S32_MEMORY_LEVEL_NAME_10]
+S32-D-10: ¡Vaqueros a la carrera!
+
+[S32_MEMORY_LEVEL_NAME_11]
+S32-D-11: Con las justas
+
+[S32_MEMORY_LEVEL_NAME_12]
+S32-D-12: Misión secreta: ¡Defender la playa!
+
+[S32_MEMORY_LEVEL_NAME_13]
+S32-D-13: Batalla sobre las olas
+
+[S32_MEMORY_LEVEL_NAME_14]
+S32-D-14: Desorden climático
+
+[S32_MEMORY_LEVEL_NAME_15]
+S32-D-15: ¡A toda vela!
+
+[S32_MEMORY_LEVEL_NAME_16]
+S32-D-16: Una tragedia renacentista
+
+[NARRATIVE_PVZ1_S32_2_H_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}¡Detectadas anomalías en el espacio-tiempo!
+
+[NARRATIVE_PVZ1_S32_2_H_INTRO_2]
+{SAY:winnie}Los dinosaurios han regresado a nuestros tiempos y los zombis amenazan con pisar las flores.
+
+[NARRATIVE_PVZ1_S32_2_H_INTRO_3]
+{PLAYFUL:crazydave}Traigamos al viejo Bocadragón gélido. ¡Los dejará pasmados del frío!
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}Está lloviendo a cántaros. Odio empaparme pero el deber llama.
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_2]
+{SAY:winnie}Y que lo digas. Esta lluvia no se detiene, y los zombis tampoco.
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_3]
+{SAY:crazydave}¿Qué tal la estrategia "primero te quemas, luego te congelas"?
+
+[NARRATIVE_PVZ1_S32_3_H_INTRO_4]
+{SAY:winnie}Suena bien. Tenemos a Grosella congelada, Udumbara y Flor del infierno. ¡El trío perfecto!
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_1]
+{NPC_ENTER:zombossicon}{SAY}¡Durante una tormenta, las plantas en tejados abiertos tienen todas las papeletas para que les caiga un rayo!
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_2]
+{SAY:zombossicon}Atentamente, el Dr. Zombi, especialista en aislamiento eléctrico.
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_3]
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Creo que aún estamos a tiempo de instalar unos pararrayos, ¿no crees, Penny?
+
+[NARRATIVE_PVZ1_S32_4_H_INTRO_4]
+{TIRED:winnie}Me temo que los pararrayos no sirven de mucho si las plantas siguen siendo el blanco.
+
+[NARRATIVE_PVZ1_S32_5_H_INTRO_1]
+{NPC_ENTER:crazydave}{EXCITED}Vienen muchos zombis. ¡Es hora de desatar el caos!
+
+[NARRATIVE_PVZ1_S32_5_H_INTRO_2]
+{SAY}Toma estas Piñas clon y pruébalas con Muérdago misil.
+
+[NARRATIVE_PVZ1_S32_5_H_INTRO_3]
+{EXCITED}Llenarán el patio de clones mientras disparan rayos láser. ¡Una locura!
+
+[NARRATIVE_PVZ1_S32_6_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Los zombis de la Edad Oscura son muy fuertes.
+
+[NARRATIVE_PVZ1_S32_6_H_INTRO_2]
+{SAY:winnie}¡No tenemos suficiente potencia de fuego para detenerlos!
+
+[NARRATIVE_PVZ1_S32_6_H_INTRO_3]
+{SAY:crazydave}¡Tal vez podamos quitarles sus armas!
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¿Has oído hablar de la leyenda de Medusa?
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_2]
+{SAY:crazydave}Dicen que basta con cruzar la mirada con ella para acabar convertido en piedra.
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_3]
+{SAY:winnie}Nosotros también tenemos nuestra propia "Medusa".
+
+[NARRATIVE_PVZ1_S32_7_H_INTRO_4]
+{PLAYFUL:winnie}Usémosla para poner esos zombis en su sitio.
+
+[NARRATIVE_PVZ1_S32_8_H_INTRO_1]
+{NPC_ENTER:crazydave}{SAY}Guarda esa pala, vecino. Hoy toca cuidar las plantas como se merecen.
+
+[NARRATIVE_PVZ1_S32_8_H_INTRO_2]
+{PLAYFUL}Piensa bien dónde plantar, prepara las macetas y, sobre todo, ¡no te olvides de regarlas a tiempo!
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}He encontrado una botella a la deriva. Dentro hay un mensaje:
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_2]
+{SAY:winnie}"La playa nos pertenece. Prepárense para recibir a las hordas. - Atentamente: los zombis."
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_3]
+{SAY:crazydave}¿Ah, sí? Pues envíales esto:
+
+[NARRATIVE_PVZ1_S32_9_H_INTRO_4]
+{SAY:crazydave}"¡Vengan! ¡Quiero ver quién se atreve a poner un pie aquí!"
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}¡Alerta! ¡Se acerca una estampida de toros descontrolados!
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_2]
+{SAY:winnie}Van directos hacia nosotros y no parece que piensen frenar.
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_3]
+{SAY:crazydave}¡Pues yo sí sé como ponerles freno! ¡Con un par de Melonpultas congeladas bastará!
+
+[NARRATIVE_PVZ1_S32_10_H_INTRO_4]
+{SAY:winnie}Hablando de Melonpultas congeladas, debemos proteger las que ya están en peligro.
+
+[NARRATIVE_PVZ1_S32_11_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¡Shhh! Nos hemos topado con la avanzadilla de un ejército de zombis arqueólogos.
+
+[NARRATIVE_PVZ1_S32_11_H_INTRO_2]
+{SAY:winnie}Debemos tener cuidado. Si plantamos demasiadas plantas a la vez, alertaremos al grueso de sus fuerzas.
+
+[NARRATIVE_PVZ1_S32_12_H_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}¡La Berenjena ninja puede hacer frente a todo un ejército!
+
+[NARRATIVE_PVZ1_S32_12_H_INTRO_2]
+{SAY:winnie}Solo es cuestión de mover el carro de mina para esquivar ataques y contraatacar.
+
+[NARRATIVE_PVZ1_S32_12_H_INTRO_3]
+{EXCITED:crazydave}La playa está bajo ataque. ¡Contamos contigo!
+
+[NARRATIVE_PVZ1_S32_13_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SPECIAL9:crazydave}¡Las olas se han llevado todos nuestros Nenúfares!
+
+[NARRATIVE_PVZ1_S32_13_H_INTRO_2]
+{PLAYFUL:winnie}No te preocupes, Dave. ¡Las fuerzas aéreas están a punto de llegar!
+
+[NARRATIVE_PVZ1_S32_14_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SPECIAL9:crazydave}¡Lluvia ácida! ¡Y solo contamos con esos Tulipanes trompetistas!
+
+[NARRATIVE_PVZ1_S32_14_H_INTRO_2]
+{SAY:winnie}Tenemos que encontrar la forma de ponerlos en estado de curación.
+
+[NARRATIVE_PVZ1_S32_14_H_INTRO_3]
+{SAY:crazydave}Bueno, dicen que las crisis sacan el instinto de supervivencia que llevamos dentro. ¡Más les vale demostrarlo!
+
+[NARRATIVE_PVZ1_S32_15_H_INTRO_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Cubierta despejada! ¡Motores a toda potencia!
+
+[NARRATIVE_PVZ1_S32_15_H_INTRO_2]
+{SAY:crazydave}Ahora ningún zombi podrá alcanzarnos. Bueno... salvo los Espadachines y Gavioteros.
+
+[NARRATIVE_PVZ1_S32_15_H_INTRO_3]
+{SAY:winnie}Por desgracia, hay polizones de otras épocas que saben volar... y otros que prefieren colgarse de una cuerda.
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_1]
+{NPC_ENTER:zombossicon}{PLAYFUL:zombossicon}¡Tomen asiento! Mi obra maestra está a punto de mostrarles el verdadero significado del arte.
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_2]
+{SAY:zombossicon}¡Una tragedia de amor y sacrificio, cerebros y destrucción! ¡Que se abra el telón!
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_3]
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Creo que nosotros somos los protagonistas de esta tragedia.
+
+[NARRATIVE_PVZ1_S32_16_H_INTRO_4]
+{SAY:crazydave}¡Nah! Ya verás cómo convierto esto en una epopeya donde acabamos como héroes victoriosos.
+
 [rank_avatar_diy_70]
 Tres son multitud
 
@@ -147,7 +339,7 @@ Su calabaza encantada le otorga una resistencia alta.
 Zombi cara-coral
 
 [ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION]
-{FLAVOR}A veces siente la cabeza más pesada y otras más ligera, pero nunca descubre por qué. La respuesta es sencilla: las corrientes marinas pasan por su coral y se llevan algunos peces de paseo.
+{FLAVOR}A veces siente la cabeza más pesada y otras más ligera, pero nunca descubre por qué.
 
 [ZOMBIE_ATLANTIS_ARMOR4_DESCRIPTION_HEADER]
 Su arrecife de coral le otorga una dureza extraordinaria.
@@ -207,28 +399,28 @@ T31-S8-8: De regreso a Roma - Parte 8
 T31-S8: Esfinge romana
 
 [S32_MEMORY_LEVEL_NAME_001]
-T32-S1-1: Lianas y enredaderas
+T32-S1-1: Invasión en el granero
 
 [S32_MEMORY_LEVEL_NAME_002]
-T32-S1-2: Matorral de espinas
+T32-S1-2: ¡Piratas al pajar!
 
 [S32_MEMORY_LEVEL_NAME_003]
-T32-S1-3: Oscuridad
+T32-S1-3: Sombras entre la paja
 
 [S32_MEMORY_LEVEL_NAME_004]
-T32-S1-4: Duelo mágico
+T32-S1-4: Rompejarrones
 
 [S32_MEMORY_LEVEL_NAME_005]
-T32-S1-5: La campaña del emperador
+T32-S1-5: La Revuelta del Heno
 
 [S32_MEMORY_LEVEL_NAME_006]
-T32-S1-6: Rayos y truenos
+T32-S1-6: El pajar del Salvaje Oeste
 
 [S32_MEMORY_LEVEL_NAME_007]
-T32-S1-7: Obstrucción
+T32-S1-7: Cosecha del futuro
 
 [S32_MEMORY_LEVEL_NAME_008]
-T32-S1-8: Sin descanso
+T32-S1-8: Paja, Setas y Romanos
 
 [S32_MEMORY_LEVEL_NAME_009]
 T32-S2-1: Machacados en el Jurásico - Parte 1
@@ -255,28 +447,28 @@ T32-S2-7: Machacados en el Jurásico - Parte 7
 T32-S2-8: Machacados en el Jurásico - Parte 8
 
 [S32_MEMORY_LEVEL_NAME_017]
-T32-S3-1: 27/8/2026 - 1:00 AM
+T32-S3-1: Festival de Zhongyuan - Acto 1
 
 [S32_MEMORY_LEVEL_NAME_018]
-T32-S3-2: 27/8/2026 - 1:00 PM
+T32-S3-2: Festival de Zhongyuan - Acto 2
 
 [S32_MEMORY_LEVEL_NAME_019]
-T32-S3-3: 27/8/2026 - 2:00 AM
+T32-S3-3: Festival de Zhongyuan - Acto 3
 
 [S32_MEMORY_LEVEL_NAME_020]
-T32-S3-4: 27/8/2026 - 2:00 PM
+T32-S3-4: Festival de Zhongyuan - Acto 4
 
 [S32_MEMORY_LEVEL_NAME_021]
-T32-S3-5: Festival de Zhongyuan - Acto 1
+T32-S3-5: Festival de Zhongyuan - Acto 5
 
 [S32_MEMORY_LEVEL_NAME_022]
-T32-S3-6: Festival de Zhongyuan - Acto 2
+T32-S3-6: Festival de Zhongyuan - Acto 6
 
 [S32_MEMORY_LEVEL_NAME_023]
-T32-S3-7: Festival de Zhongyuan - Acto 3
+T32-S3-7: Festival de Zhongyuan - Acto 7
 
 [S32_MEMORY_LEVEL_NAME_024]
-T32-S3-8: Festival de Zhongyuan - Acto final
+T32-S3-8: Festival de Zhongyuan - Acto 8
 
 [S32_MEMORY_LEVEL_NAME_025]
 T32-S4-1: Escaramuza pirata - Parte 1
@@ -400,55 +592,55 @@ Aumenta los efectos de mejora en las plantas en un 30%
 Sinergía gélida
 
 [PLANT_BOND_TAG_ICE_0]
-Cada 7 s, caen granizos que dañan y ralentizan zombis de una casilla
+Cada 7 s, caen 2 granizos que ralentizan zombis
 
 [PLANT_BOND_TAG_ICE_1]
-El número de granizos aumenta. Estos tienen un 15% de congelar zombis
+Granizos +1. Congelar zombis: 15%
 
 [PLANT_BOND_TAG_ICE_2]
-El número de granizos aumenta más. El área de impacto cambia a 3x3
+Granizos +2. Área de impacto: 3x3
 
 [PLANT_BOND_TAG_FLAME_NAME]
 Sinergía ígnea
 
 [PLANT_BOND_TAG_FLAME_0]
-Las plantas de fuego tienen un 25% de aplicar quemaduras por 5 s
+Ataques: 25% de quemar zombis por 5 s
 
 [PLANT_BOND_TAG_FLAME_1]
-Los zombis derrotados por quemaduras liberan una explosión pequeña
+Los zombis derrotados liberan una explosión (casilla)
 
 [PLANT_BOND_TAG_FLAME_2]
-El radio de la explosión por quemaduras cambia a 3x3
+Quemar - Radio de la explosión: 3x3
 
 [PLANT_BOND_TAG_PHYSICS_NAME]
 Sinergía física
 
 [PLANT_BOND_TAG_PHYSICS_0]
-Las plantas físicas ganan 5% más fuerza por cada presente
++5% más fuerza por planta
 
 [PLANT_BOND_TAG_PHYSICS_1]
-Las plantas físicas ganan 10% más fuerza por cada presente
++10% más fuerza por planta
 
 [PLANT_BOND_TAG_PHYSICS_2]
-Las plantas físicas ganan 15% más fuerza y 5% más velocidad por cada presente
++15% más fuerza y 5% más vel. por planta
 
 [PLANT_BOND_TAG_LIGHTNING_NAME]
 Sinergía eléctrica
 
 [PLANT_BOND_TAG_LIGHTNING_0]
-Las plantas eléctricas tienen un 15% de paralizar zombis
+Shock eléctrico: 15% probable
 
 [PLANT_BOND_TAG_LIGHTNING_1]
 Aumenta la probabilidad y duración de la parálisis
 
 [PLANT_BOND_TAG_LIGHTNING_2]
-Los zombis paralizados tienen un 25% de generar campos eléctricos en un área 3x3
+Los zombis paralizados tienen 25% de generar campos eléctricos (área 3x3)
 
 [PLANT_BOND_TAG_MAGIC_NAME]
 Sinergía mágica
 
 [PLANT_BOND_TAG_MAGIC_0]
-Las plantas mágicas tienen un 15% de enviar zombis al vacío
+Enviar zombis al vacío: 15% probable
 
 [PLANT_BOND_TAG_MAGIC_1]
 Los proyectiles atraviesan zombis enviados al vacío, y alcanzan a otro objetivo
@@ -460,13 +652,13 @@ Los proyectiles hacen 30% más daño a zombis enviados al vacío
 Sinergía ponzoñosa
 
 [PLANT_BOND_TAG_POISON_0]
-Las plantas venenosas tiene un 15% de aplicar un veneno más fuerte
+Aplicar veneno más fuerte: 15% probable
 
 [PLANT_BOND_TAG_POISON_1]
 Reduce la velocidad de los zombis envenenados en un 50%
 
 [PLANT_BOND_TAG_POISON_2]
-Los zombis derrotados por el veneno exparcen la toxina a otros en un área 3x3
+Los zombis derrotados por el veneno exparcen la toxina a otros (área 3x3)
 
 [PLANT_BOND_PRO_ENERGY_NAME]
 Sinergía poderosa
@@ -487,10 +679,10 @@ Otorga una Mega Guisantralladora eléctrica de Nivel 3 (Nutrientes con efecto ex
 Sinergía defensiva
 
 [PLANT_BOND_PRO_RESILIENT_0]
-Aumenta la salud máxima de las plantas defensivas en un 25%
+Salud máx de las plantas defensivas: +25%
 
 [PLANT_BOND_PRO_RESILIENT_1]
-Aumenta la salud máxima de las plantas del patio en un 30%
+Salud máx de las plantas del patio: +30%
 
 [PLANT_BOND_PRO_RESILIENT_2]
 Las defensas derrotadas reviven con un 50% de salud (solo se activa 1 vez)
@@ -499,7 +691,7 @@ Las defensas derrotadas reviven con un 50% de salud (solo se activa 1 vez)
 Sinergía dragón
 
 [PLANT_BOND_PRO_DRAGON_0]
-Los ataques tienen la probabilidad de liberar un espíritu dragón
+Probabilidad de liberar un espíritu dragón
 
 [PLANT_BOND_PRO_DRAGON_1]
 El espíritu dragón cubre 3 filas y hace más daño
@@ -508,7 +700,7 @@ El espíritu dragón cubre 3 filas y hace más daño
 Sinergía de setas
 
 [PLANT_BOND_PRO_SHROOM_0]
-Las setas tienen un 20% de disparar una espora que crea una seta aleatoria (máx. 2)
+20% de disparar una espora que crea una seta aleatoria (máx. 2)
 
 [PLANT_BOND_PRO_SHROOM_1]
 Esporas: probabilidad de germinar en Seta congelada y Petaseta
@@ -517,13 +709,13 @@ Esporas: probabilidad de germinar en Seta congelada y Petaseta
 Sinergía abisal
 
 [PLANT_BOND_PRO_ABYSS_0]
-Las plantas abisales generan 5 fragmentos que mejoran el Ojo del abismo (máx. 40)
+Se generan 5 fragmentos que mejoran el Ojo del abismo (máx. 40)
 
 [PLANT_BOND_PRO_ABYSS_1]
-Las plantas abisales generan 10 fragmentos que mejoran el Ojo del abismo (máx. 60)
+Se generan 10 fragmentos que mejoran el Ojo del abismo (máx. 60)
 
 [PLANT_BOND_PRO_ABYSS_2]
-Las plantas abisales generan 15 fragmentos que mejoran el Ojo del abismo (máx. 120)
+Se generan 15 fragmentos que mejoran el Ojo del abismo (máx. 120)
 
 [PLANT_BOND_TAG_0]
 Hielo
@@ -721,261 +913,261 @@ El veto termina en: {NUM} h
 Insignia del guisante
 
 [SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_PEA_BADGE]
-Aumenta la probabilidad de que aparezcan guisantes.
-Mejora: 20% de disparar 3 guisantes por varias líneas.
+^DB8117^Aumenta la probabilidad de que aparezcan guisantes.
+Mejora: 20% de disparar 3 guisantes por varias líneas.^oldclr^
 
 [SOUDACHE_COLLECTION_EMBLEM_ABYSS_BADGE]
 Insignia del abismo
 
 [SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_ABYSS_BADGE]
-Aumenta la probabilidad de que aparezcan plantas abisales.
-Mejora: los zombis derrotados se convierten en Acólitos abisales.
+^DB8117^Aumenta la probabilidad de que aparezcan plantas abisales.
+Mejora: los zombis derrotados se convierten en Acólitos abisales.^oldclr^
 
 [SOUDACHE_COLLECTION_EMBLEM_SHROOM_BADGE]
 Insignia de setas
 
 [SOUDACHE_COLLECTION_DESCRIPTION_EMBLEM_SHROOM_BADGE]
-Aumenta la probabilidad de que aparezcan setas.
+^DB8117^Aumenta la probabilidad de que aparezcan setas.^oldclr^
 
 [SOUDACHE_COLLECTION_CAT_STICKER]
 Sticker gatuno
 
 [SOUDACHE_COLLECTION_DESCRIPTION_CAT_STICKER]
-Una pegatina para los amantes de los gatos
+^DB8117^Una pegatina para los amantes de los gatos.^oldclr^
 
 [SOUDACHE_COLLECTION_ZOMBIE_NEWSPAPER]
 Periódico
 
 [SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_NEWSPAPER]
-Zombi lector debe estar muy molesto en estos momentos
+^DB8117^Zombi lector debe estar muy molesto en estos momentos.^oldclr^
 
 [SOUDACHE_COLLECTION_IMP_BACKPACK]
 Mochila
 
 [SOUDACHE_COLLECTION_DESCRIPTION_IMP_BACKPACK]
-Una mochilla llena de juguetes y chucherías
+^DB8117^Una mochilla llena de juguetes y chucherías.^oldclr^
 
 [SOUDACHE_COLLECTION_WEIRD_SNACK]
-Bocadillo
+Papitas
 
 [SOUDACHE_COLLECTION_DESCRIPTION_WEIRD_SNACK]
-Un aperitivo con un sabor peculiar
+^DB8117^Edición especial con un sabor EXPLOSIVO.^oldclr^
 
 [SOUDACHE_COLLECTION_BROKEN_POT]
 Sartén rota
 
 [SOUDACHE_COLLECTION_DESCRIPTION_BROKEN_POT]
-Parece que alguien la ha usado para dar sartenazos
+^DB8117^Parece que alguien la ha usado para dar sartenazos.^oldclr^
 
 [SOUDACHE_COLLECTION_SUPER_LOLLIPOP]
 Superpaleta
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SUPER_LOLLIPOP]
-Otorga superpoderes a los zombis que la laman
+^DB8117^Otorga superpoderes a los zombis que la laman.^oldclr^
 
 [SOUDACHE_COLLECTION_SUNFLOWER_STICKER]
 Sticker de Girasol
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SUNFLOWER_STICKER]
-Un artículo coleccionable muy popular entre los niños
+^DB8117^Sticker de la cantante más popular del reino vegetal.^oldclr^
 
 [SOUDACHE_COLLECTION_LOST_BOOT]
 Bota desamparada
 
 [SOUDACHE_COLLECTION_DESCRIPTION_LOST_BOOT]
-Una bota sin su par
+^DB8117^Una bota sin su par.^oldclr^
 
 [SOUDACHE_COLLECTION_CHOCOLATE]
 Chocolate
 
 [SOUDACHE_COLLECTION_DESCRIPTION_CHOCOLATE]
-El Chocolate de Stinky el caracol
+^DB8117^El Chocolate de Stinky el caracol.^oldclr^
 
 [SOUDACHE_COLLECTION_GRIM_REAPER_BONE]
 Huesos
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GRIM_REAPER_BONE]
-Le pertenecen a la mismísima Muerte
+^DB8117^Le pertenecen a la mismísima Muerte.^oldclr^
 
 [SOUDACHE_COLLECTION_PRISM_GRASS_SHADES]
-Lentes de cristal
+Lupa
 
 [SOUDACHE_COLLECTION_DESCRIPTION_PRISM_GRASS_SHADES]
-Propiedad de Hierba de cristal
+^DB8117^Propiedad de Hierba lupa.^oldclr^
 
 [SOUDACHE_COLLECTION_WINE_GOURD]
 Calabaza de peregrino
 
 [SOUDACHE_COLLECTION_DESCRIPTION_WINE_GOURD]
-El recipiente perfecto para almacenar toda clase de bebidas
+^DB8117^El recipiente perfecto para almacenar toda clase de bebidas.^oldclr^
 
 [SOUDACHE_COLLECTION_ZOMBIE_PARACHUTE]
 Paracaídas
 
 [SOUDACHE_COLLECTION_DESCRIPTION_ZOMBIE_PARACHUTE]
-Su defecto convirtió a un paracaidista en zombi
+^DB8117^Su defecto convirtió a un paracaidista en zombi.^oldclr^
 
 [SOUDACHE_COLLECTION_TURNIP_SPINNER]
 Hélice
 
 [SOUDACHE_COLLECTION_DESCRIPTION_TURNIP_SPINNER]
-Le permiten a Rotinabo volar
+^DB8117^Le permiten a Rotinabo volar.^oldclr^
 
 [SOUDACHE_COLLECTION_MAGICIAN_CARD_DECK]
 Barajas
 
 [SOUDACHE_COLLECTION_DESCRIPTION_MAGICIAN_CARD_DECK]
-Magoseta las usa para su show de magia
+^DB8117^Magoseta las usa para su show de magia.^oldclr^
 
 [SOUDACHE_COLLECTION_WALNUST_IRON_ARMOR]
 Armadura de hierro
 
 [SOUDACHE_COLLECTION_DESCRIPTION_WALNUST_IRON_ARMOR]
-El símbolo de un gran héroe: Iron-Nut
+^DB8117^El símbolo de un gran héroe: Iron-Nut.^oldclr^
 
 [SOUDACHE_COLLECTION_DAVE_SALSA]
 Salsa para tacos
 
 [SOUDACHE_COLLECTION_DESCRIPTION_DAVE_SALSA]
-"Un taco no es un taco si no lleva salsa" - Dave el loco
+^DB8117^"Un taco no es un taco si no lleva salsa" - Dave el loco^oldclr^
 
 [SOUDACHE_COLLECTION_ZEN_WATERING_CAN]
 Regadera
 
 [SOUDACHE_COLLECTION_DESCRIPTION_ZEN_WATERING_CAN]
-La vieja regadera usada para cuidar plantas en el Jardín Zen 
+^DB8117^La vieja regadera usada para cuidar plantas en el Jardín Zen.^oldclr^
 
 [SOUDACHE_COLLECTION_BALANCE_SHEET]
 Hojas de balance
 
 [SOUDACHE_COLLECTION_DESCRIPTION_BALANCE_SHEET]
-Son como una tarjeta roja: se les otorgan a quienes cometan faltas en este modo
+^DB8117^Son como una tarjeta roja: se les otorgan a quienes cometan faltas en este modo^oldclr^
 
 [SOUDACHE_COLLECTION_POTATO_SERVER]
 Servidor de patata
 
 [SOUDACHE_COLLECTION_DESCRIPTION_POTATO_SERVER]
-Fue montado por Penny para registrar datos de forma provisional
+^DB8117^Fue montado por Penny para registrar datos de forma provisional.^oldclr^
 
 [SOUDACHE_COLLECTION_CARD_PACK]
-Sobre de cartas
+Cartas de PvZ2C
 
 [SOUDACHE_COLLECTION_DESCRIPTION_CARD_PACK]
-No se sabe qué cartas contiene
+^DB8117^Cartas coleccionables de Plants vs. Zombies 2 (Versión China)^oldclr^
 
 [SOUDACHE_COLLECTION_GREENHEAD_DUCK]
 Pato de cabeza verde
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GREENHEAD_DUCK]
-Es un pato... con una cabeza verde... ¿hace falta explicarlo?
+^DB8117^Es un pato... con una cabeza verde... ¿hace falta explicarlo?^oldclr^
 
 [SOUDACHE_COLLECTION_SWORD_IN_STONE]
 Escálibur
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SWORD_IN_STONE]
-Solo el rey legítimo puede empuñarla
+^DB8117^Solo el rey legítimo puede empuñarla.^oldclr^
 
 [SOUDACHE_COLLECTION_PINATA]
 Piñata
 
 [SOUDACHE_COLLECTION_DESCRIPTION_PINATA]
-¡Dale, dale, dale... dale hasta romperla!
+^DB8117^¡Dale, dale, dale... dale hasta romperla!^oldclr^
 
 [SOUDACHE_COLLECTION_BUTTERFLY_FISH]
-Pez mariposa
+Pez tropical
 
 [SOUDACHE_COLLECTION_DESCRIPTION_BUTTERFLY_FISH]
-Maravillas de la ingeniería genética
+^DB8117^Pez de agua salada. Alimentar 2 veces al día.^oldclr^
 
 [SOUDACHE_COLLECTION_BULLHORN_HELMET]
 Casco vikingo
 
 [SOUDACHE_COLLECTION_DESCRIPTION_BULLHORN_HELMET]
-Históricamente cuestionable. Visualmente impecable
+^DB8117^Históricamente cuestionable. Visualmente impecable.^oldclr^
 
 [SOUDACHE_COLLECTION_SWEET_HOME]
 Sarcófago
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SWEET_HOME]
-Donde los antiguos faraones descansan
+^DB8117^Donde los antiguos faraones descansan.^oldclr^
 
 [SOUDACHE_COLLECTION_OLD_GRAMOPHONE]
 Gramófono
 
 [SOUDACHE_COLLECTION_DESCRIPTION_OLD_GRAMOPHONE]
-Cada giro del disco trae recuerdos
+^DB8117^Cada giro del disco trae recuerdos.^oldclr^
 
 [SOUDACHE_COLLECTION_GAME_DISC]
 CD de PvZ: Garden Warfare
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GAME_DISC]
-La guerra entre plantas y zombis, en un solo disco
+^DB8117^La guerra entre plantas y zombis, en un solo disco.^oldclr^
 
 [SOUDACHE_COLLECTION_SHINY_WIG]
 Peluca
 
 [SOUDACHE_COLLECTION_DESCRIPTION_SHINY_WIG]
-Una peluca totalmente nueva, ¿me pregunto de quién será?
+^DB8117^Una peluca totalmente nueva, ¿me pregunto de quién será?^oldclr^
 
 [SOUDACHE_COLLECTION_GOLDEN_FINGER_JAR]
 Bote de poderes en conserva
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GOLDEN_FINGER_JAR]
-Para emergencias. No utilizar si el sello de calidad está roto
+^DB8117^Para emergencias. No utilizar si el sello de calidad está roto.^oldclr^
 
 [SOUDACHE_COLLECTION_STONE_FROG]
 Rana de piedra
 
 [SOUDACHE_COLLECTION_DESCRIPTION_STONE_FROG]
-Nunca da un salto... por razones obvias
+^DB8117^Nunca da un salto... por razones obvias.^oldclr^
 
 [SOUDACHE_COLLECTION_WALKIE_TALKIE]
 Walkie talkie
 
 [SOUDACHE_COLLECTION_DESCRIPTION_WALKIE_TALKIE]
-El medio de comunicación del Comandante Z
+^DB8117^El medio de comunicación del Comandante Z.^oldclr^
 
 [SOUDACHE_COLLECTION_PIRATE_TREASURE]
 Botín pirata
 
 [SOUDACHE_COLLECTION_DESCRIPTION_PIRATE_TREASURE]
-El tesoro que todo pirata sueña con encontrar
+^DB8117^El tesoro que todo pirata sueña con encontrar.^oldclr^
 
 [SOUDACHE_COLLECTION_GOLDEN_SHOVEL]
 Pala de oro
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GOLDEN_SHOVEL]
-Excava con estilo
+^DB8117^Excava con estilo.^oldclr^
 
 [SOUDACHE_COLLECTION_DRAGON_EGG]
 Huevo de dragón
 
 [SOUDACHE_COLLECTION_DESCRIPTION_DRAGON_EGG]
-Nunca se sabe cuándo podría eclosionar
+^DB8117^Nunca se sabe cuándo podría eclosionar.^oldclr^
 
 [SOUDACHE_COLLECTION_GOLD_CART]
 Carrito minero
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GOLD_CART]
-Una réplica en miniatura de un carrito minero
+^DB8117^Una réplica en miniatura de un carrito minero.^oldclr^
 
 [SOUDACHE_COLLECTION_PHARAOH_SCEPTER]
 Cetro del faraón
 
 [SOUDACHE_COLLECTION_DESCRIPTION_PHARAOH_SCEPTER]
-Símbolo del poder de los antiguos faraones
+^DB8117^Símbolo del poder de los antiguos faraones.^oldclr^
 
 [SOUDACHE_COLLECTION_HONOR_HELMET]
 Casco de honor
 
 [SOUDACHE_COLLECTION_DESCRIPTION_HONOR_HELMET]
-Un casco dorado creado para rendir homenaje a una leyenda del fútbol
+^DB8117^Un casco dorado creado para rendir homenaje a una leyenda del fútbol.
 
 [SOUDACHE_COLLECTION_GOBLIN_STATUE]
 Estatua de duende
 
 [SOUDACHE_COLLECTION_DESCRIPTION_GOBLIN_STATUE]
-Un pequeño guardián de piedra
+^DB8117^Un pequeño guardián de piedra.^oldclr^
 
 [SOUDACHE_COLLECTION_TITLE]
 Vitrina
@@ -1019,7 +1211,7 @@ Reclamado
 Material insuficiente. Se necesitan ^00AAE4^{NUM} Cristales^oldclr^ para desbloquear esto
 
 [SOUDACHE_COLLECTION_UNLOCK_HINT]
-Completa el modo de dificultad para desbloquear este objeto
+Completa expediciones para desbloquear este objeto
 
 [SOUDACHE_COLLECTION_UNLOCK_FAIL]
 Desbloqueos semanales agotados
@@ -24735,7 +24927,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.1.9^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 7/8/2026)^oldclr^
+^FF9E6B^Versión actual: 4.1.9^oldclr^ | ^87CEFA^Parche: 1.2.0 (actualizado el 9/8/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -26145,8 +26337,7 @@ Crea ^D22808^1^oldclr^ sumidero adicional al usar Nutrientes ^D22808^(ahora 3)^o
 Seta criogénica empieza siendo pequeña y débil. Luego crece, haciendo sus ataques cada vez más fríos y poderosos.
 
 [ICESHROOM_NEW_SKILL_LEVEL1_DES]
-Crece con el lanzamiento de ataques cada vez más fríos y potentes.
-^E2725B^Crecimiento: crece cada 30 s^oldclr^
+Crece con el lanzamiento de ataques cada vez más fríos y potentes. ^E2725B^Crecimiento: crece cada 30 s^oldclr^
 ^00AAE4^Cadena creciente: 60 DPS → 64 (x2) → 48 (x2)^oldclr^
 
 [ICESHROOM_NEW_SKILL_LEVEL2_DES]
