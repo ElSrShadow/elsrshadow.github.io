@@ -161,7 +161,7 @@ Arte explosivo
 ¡El arte es una explosión!
 
 [LEVEL_EDITOR_HEAD_ID_25918]
-Temperatura glaciar
+Frío glaciar
 
 [LEVEL_EDITOR_HEAD_DES_ID_25918]
 ¿Quien tocó el termostato?
@@ -175,8 +175,137 @@ Obtuviste esto en la temporada 5 del evento: Lotes cromáticos
 [CHALLENGE_DESTROY_STONEBLOCK_MID]
 Destruye {GRID_ITEMS} bloques de piedra medianos
 
+[ANNIVERSARY_10TH_NAME_18]
+Reto de Aniversario: Bosque encantado
+
+[ANNIVERSARY_10TH_NAME_19]
+Reto de Aniversario: Calabozo
+
+[ANNIVERSARY_10TH_NAME_20]
+Reto de Aniversario: ¡Fiesta!
+
+[ANNIVERSARY_2026_1_ZOMBIE_MODIFIER]
+Protejan al faraón
+
+[ANNIVERSARY_2026_1_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa del Zombi faraón aumenta en un 20%
+
+[ANNIVERSARY_2026_2_ZOMBIE_MODIFIER]
+Gaviota exprés
+
+[ANNIVERSARY_2026_2_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad del Zombi gaviotero aumenta en un 50%
+
+[ANNIVERSARY_2026_3_ZOMBIE_MODIFIER]
+Vaquero aztuto
+
+[ANNIVERSARY_2026_3_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad del Zombi vaquero aumenta en un 50%
+
+[ANNIVERSARY_2026_4_ZOMBIE_MODIFIER]
+Han Bronze
+
+[ANNIVERSARY_2026_4_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad de los Zombistein de bronce aumenta un 50%
+
+[ANNIVERSARY_2026_5_ZOMBIE_MODIFIER]
+Robocono 2.0
+
+[ANNIVERSARY_2026_5_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa del Zombi robocono aumenta en un 20%
+
+[ANNIVERSARY_2026_6_ZOMBIE_MODIFIER]
+Archimago
+
+[ANNIVERSARY_2026_6_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa del Hechicero oscuro aumenta en un 20%
+
+[ANNIVERSARY_2026_7_ZOMBIE_MODIFIER]
+Pulpo feroz
+
+[ANNIVERSARY_2026_7_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa del Pulpozombi aumenta en un 20%
+
+[ANNIVERSARY_2026_8_ZOMBIE_MODIFIER]
+Tribu protegida
+
+[ANNIVERSARY_2026_8_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa del Jefe cavernícola aumenta en un 20%
+
+[ANNIVERSARY_2026_9_ZOMBIE_MODIFIER]
+Doble problema
+
+[ANNIVERSARY_2026_9_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad de los Gemelos piloto aumenta en un 50%
+
+[ANNIVERSARY_2026_10_ZOMBIE_MODIFIER]
+Acampadas rápidas
+
+[ANNIVERSARY_2026_10_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad del Zombidito porteador aumenta en un 50%
+
+[ANNIVERSARY_2026_11_ZOMBIE_MODIFIER]
+Arcade retro
+
+[ANNIVERSARY_2026_11_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa del Zombi con recreativos aumenta en un 20%
+
+[ANNIVERSARY_2026_12_ZOMBIE_MODIFIER]
+Raptor veloz
+
+[ANNIVERSARY_2026_12_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad del Zombidito raptor aumenta en un 50%
+
+[ANNIVERSARY_2026_13_ZOMBIE_MODIFIER]
+All-Star implacable
+
+[ANNIVERSARY_2026_13_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad del Zombi All-Star aumenta en un 50%
+
+[ANNIVERSARY_2026_14_ZOMBIE_MODIFIER]
+Casco de seguridad
+
+[ANNIVERSARY_2026_14_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa del Zombi minero aumenta en un 20%
+
+[ANNIVERSARY_2026_15_ZOMBIE_MODIFIER]
+Aladelta veloz
+
+[ANNIVERSARY_2026_15_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad del Zombi con aladelta aumenta en un 50%
+
+[ANNIVERSARY_2026_16_ZOMBIE_MODIFIER]
+Fuerzas protectoras
+
+[ANNIVERSARY_2026_16_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa del Zombi onmyoji aumenta en un 20%
+
+[ANNIVERSARY_2026_17_ZOMBIE_MODIFIER]
+Sacerdocio ancestral
+
+[ANNIVERSARY_2026_17_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa del Sacerdote del mar aumenta en un 20%
+
+[ANNIVERSARY_2026_18_ZOMBIE_MODIFIER]
+Bruja terrorífica
+
+[ANNIVERSARY_2026_18_ZOMBIE_MODIFIER_DESCRIPTION]
+La defensa de la Bruja zombi aumenta en un 20%
+
+[ANNIVERSARY_2026_19_ZOMBIE_MODIFIER]
+Jinete de ultratumba
+
+[ANNIVERSARY_2026_19_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad del Caballero oscuro aumenta en un 50%
+
+[ANNIVERSARY_2026_20_ZOMBIE_MODIFIER]
+Regalos flash
+
+[ANNIVERSARY_2026_20_ZOMBIE_MODIFIER_DESCRIPTION]
+La velocidad del Zombi regalo exprés aumenta en un 50%
+
 [ANNIVERSARY_2026_TASK_NAME_1_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Protejan al faraón y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_1_2]
 Alcanza 2 estrellas como récord histórico.
@@ -191,7 +320,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_2_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Gaviota exprés y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_2_2]
 Alcanza 2 estrellas como récord histórico.
@@ -206,7 +335,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_3_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Vaquero aztuto y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_3_2]
 Alcanza 2 estrellas como récord histórico.
@@ -221,7 +350,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_4_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Han Bronze y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_4_2]
 Alcanza 2 estrellas como récord histórico.
@@ -236,7 +365,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_5_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Robocono 2.0 y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -251,7 +380,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_6_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Archimago y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_6_2]
 Alcanza 2 estrellas como récord histórico.
@@ -266,7 +395,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_7_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Pulpo feroz y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_7_2]
 Alcanza 2 estrellas como récord histórico.
@@ -281,7 +410,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_8_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Tribu protegida y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_8_2]
 Alcanza 2 estrellas como récord histórico.
@@ -296,7 +425,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_9_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Doble problema y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_9_2]
 Alcanza 2 estrellas como récord histórico.
@@ -311,7 +440,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_10_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Acampadas rápidas y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
@@ -326,7 +455,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_11_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Arcade retro y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_11_2]
 Alcanza 2 estrellas como récord histórico.
@@ -341,7 +470,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_12_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Raptor veloz y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_12_2]
 Alcanza 2 estrellas como récord histórico.
@@ -356,7 +485,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_13_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, All-Star implacable y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_13_2]
 Alcanza 2 estrellas como récord histórico.
@@ -371,7 +500,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_14_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Casco de seguridad y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_14_2]
 Alcanza 2 estrellas como récord histórico.
@@ -386,7 +515,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_15_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Aladelta veloz y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_15_2]
 Alcanza 2 estrellas como récord histórico.
@@ -401,7 +530,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_16_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Fuerzas protectoras y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_16_2]
 Alcanza 2 estrellas como récord histórico.
@@ -416,7 +545,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_17_1]
-Completa estos 3 objetivos en un nivel: Magia exorbitante, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Magia exorbitante, Sacerdocio ancestral y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_17_2]
 Alcanza 2 estrellas como récord histórico.
@@ -429,6 +558,51 @@ Alcanza 6 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_17_5]
 Alcanza 10 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_18_1]
+Completa estos 3 objetivos: Magia exorbitante, Bruja terrorífica y Zombis fugaces III
+
+[ANNIVERSARY_2026_TASK_NAME_18_2]
+Alcanza 2 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_18_3]
+Alcanza 4 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_18_4]
+Alcanza 4 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_18_5]
+Alcanza 4 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_19_1]
+Completa estos 3 objetivos: Magia exorbitante, Jinete de ultratumba y Zombis fugaces III
+
+[ANNIVERSARY_2026_TASK_NAME_19_2]
+Alcanza 2 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_19_3]
+Alcanza 4 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_19_4]
+Alcanza 4 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_19_5]
+Alcanza 4 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_20_1]
+Completa estos 3 objetivos: Magia exorbitante, Regalos flash y Zombis fugaces III
+
+[ANNIVERSARY_2026_TASK_NAME_20_2]
+Alcanza 2 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_20_3]
+Alcanza 4 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_20_4]
+Alcanza 4 estrellas como récord histórico.
+
+[ANNIVERSARY_2026_TASK_NAME_20_5]
+Alcanza 4 estrellas como récord histórico.
 
 [NFS_LINKAGE_TAB2_10]
 Misiones
@@ -450,6 +624,12 @@ Globos
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_10]
 1. Inicia sesión 14 días para obtener recompensas.
 2. Completa tareas para obtener globos que pueden canjearse en la Tienda.
+
+[NFSLINKAGE_TASK_NAME_20]
+Completa Base lunar Z - Día 1
+
+[NFSLINKAGE_TASK_NAME_19]
+Completa Base lunar Z - Día 12
 
 [NEWYEAR_GIFT_HEAD_ID_25921]
 Árboles frondosos
@@ -505,22 +685,22 @@ Base lunar Z - Día {LEVEL_NUMBER}
 [WORLD_NAME_MOON]
 Base lunar Z
 
-[NARRATIVE_MOON_INTRO_FIRSTLEVEL_1]
+[NARRATIVE_MOON1_TUTORIAL_1_1]
 {NPC_ENTER:winnieicon}{NPC_ENTER:crazydaveicon}{PLAYFUL:winnieicon}Bienvenido a la Base lunar Z. Según mis registros, estamos en el año 2070.
 
-[NARRATIVE_MOON_INTRO_FIRSTLEVEL_2]
+[NARRATIVE_MOON1_TUTORIAL_1_2]
 {EXCITED:crazydaveicon}¡¿La Luna?! ¿Qué estamos esperando? ¡Salgamos a explorarla!
 
-[NARRATIVE_MOON_INTRO_FIRSTLEVEL_3]
+[NARRATIVE_MOON1_TUTORIAL_1_3]
 {SAY:winnieicon}Bien. No olvides ponerte tu traje espacial.
 
-[NARRATIVE_MOON1_TUTORIAL_1_1]
-{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Siempre quise ser el primero en plantar algo aquí!
+[NARRATIVE_MOON1_TUTORIAL_1_4]
+{NPC_EXIT:crazydaveicon}{NPC_EXIT:winnieicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Siempre quise ser el primero en plantar algo aquí!
 
-[NARRATIVE_MOON1_TUTORIAL_1_2]
+[NARRATIVE_MOON1_TUTORIAL_1_5]
 {SAY:winnie}Eso será complicado. La baja gravedad hace que las plantas no puedan sujetarse al suelo lunar.
 
-[NARRATIVE_MOON1_TUTORIAL_1_3]
+[NARRATIVE_MOON1_TUTORIAL_1_6]
 {PLAYFUL:astronautcrazydave}Entonces tendremos que plantarlas donde haya algo que las sujete. ¡Esto sí que es agricultura de altura!
 
 [MOON1_TUTORIAL_PLANT_PEASHOOTER]
@@ -533,13 +713,14 @@ Planta el Lanzaguisantes en el terreno con musgo
 Planta a Cosmoss en las casillas adyacentes al musgo para extender la zona
 
 [NARRATIVE_MOON1_TUTORIAL_3_1]
-{NPC_ENTER:winnie}{SAY}Ya no necesitas soles para plantar: usa energía lunar del soporte vital. Si llega a 0, tus plantas atacarán más lento.
+{NPC_ENTER:winnie}{SAY}Aquí no necesitas soles para plantar: usa energía lunar del soporte vital. Si llega a 0, tus plantas atacarán más lento.
 
 [MOON1_TUTORIAL_CAPACITY_BANK]
 El soporte vital muestra el consumo y límite de energía actual
 
 [MOON1_TUTORIAL_PEASHOOTER_SLOT]
-Cada planta tiene un coste de energía lunar
+Cada planta tiene un coste de energía lunar.
+¡Las plantas cósmicas no cuestan nada!
 
 [NARRATIVE_MOON1_TUTORIAL_4_1]
 {NPC_ENTER:astronautcrazydave}{EXCITED}¡Houston, tenemos un problema: zombis a la vista! ¡Hora de desplegar un ejército de plantas!
@@ -562,52 +743,64 @@ Arrastra el recolector al suelo para desplegarlo
 [NARRATIVE_MOON1_TUTORIAL_7_1]
 {NPC_ENTER:astronautcrazydave}{SAY}¡Genial! Parece que todo ha vuelto a la normalidad.
 
-[NARRATIVE_MOON_INTRO_COSMICPEA_1]
+[NARRATIVE_MOON_2_INTRO_1]
 {NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Mira eso! ¡Un Lanzaguisantes que parece haber desayunado polvo de estrellas!
 
-[NARRATIVE_MOON_INTRO_COSMICPEA_2]
-{SAY:winnie}Es un Guisante cósmico. Sus proyectiles pueden desintegrar zombis y se vuelven más potentes con el tiempo.
+[NARRATIVE_MOON_2_INTRO_2]
+{SAY:winnie}Es un Guisante cósmico. Puede plantarse en suelo lunar sin ayuda de Cosmoss, al igual que otras plantas cósmicas.
 
-[NARRATIVE_MOON_INTRO_COSMICPEA_3]
-{EXCITED:astronautcrazydave}¡Y ese pequeñín! ¿También viene del espacio?
+[NARRATIVE_MOON_2_INTRO_3]
+{PLAYFUL:astronautcrazydave}¡Vaya! Ahora sí que puedo decir que he visto guisantes de todo tipo, ¿este qué hace?
 
-[NARRATIVE_MOON_INTRO_COSMICPEA_4]
+[NARRATIVE_MOON_2_INTRO_4]
+{SAY:winnie}Dispara proyectiles que pueden desintegrar zombis y se vuelven más potentes con el tiempo.
+
+[NARRATIVE_MOON_2_INTRO_5]
+{EXCITED:astronautcrazydave}¡Mira ese pequeñín! ¿También viene del espacio?
+
+[NARRATIVE_MOON_2_INTRO_6]
 {SAY:winnie}Es un Zombidito cósmico. Si alcanza la séptima columna, se transformará en un zombidito aleatorio.
 
-[NARRATIVE_MOON_INTRO_COSMICPEA_5]
+[NARRATIVE_MOON_2_INTRO_7]
 {PLAYFUL:astronautcrazydave}¡Entonces habrá que detenerlo antes de que descubra qué quiere ser cuando crezca!
 
-[NARRATIVE_MOON_INTRO_ROCKETS_1]
+[NARRATIVE_ROCKET_TUTORIAL_1_1]
 {NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Mira esos cohetes! ¡Parece que alguien dejó el transporte espacial estacionado!
 
-[NARRATIVE_MOON_INTRO_ROCKETS_2]
+[NARRATIVE_ROCKET_TUTORIAL_1_2]
 {SAY:winnie}No son solo transporte. Podemos ocuparlos con plantas cósmicas para lanzarlas contra los zombis más peligrosos.
 
-[NARRATIVE_MOON_INTRO_ROCKETS_3]
+[NARRATIVE_ROCKET_TUTORIAL_1_3]
 {PLAYFUL:astronautcrazydave}¡Entonces pongamos nuestras plantas en órbita!
 
-[NARRATIVE_MOON_INTRO_ROCKETS_4]
+[NARRATIVE_ROCKET_TUTORIAL_2_1]
+{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}Cada planta activa un efecto diferente al viajar en el cohete.
+
+[NARRATIVE_ROCKET_TUTORIAL_2_2]
 {SAY:winnie}Pero cuidado: si un zombi entra primero, el cohete lo llevará a una casilla más cercana a nuestra retaguardia.
 
-[NARRATIVE_MOON_INTRO_TELEPORT_1]
+[NARRATIVE_ROCKET_TUTORIAL_2_3]
+{SHOUT:astronautcrazydave}¡DESPEGUE!
+
+[NARRATIVE_MOON_4_INTRO_1]
 {NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Ese zombi tiene un arma muy rara! ¿Qué hará con ella?
 
-[NARRATIVE_MOON_INTRO_TELEPORT_2]
+[NARRATIVE_MOON_4_INTRO_2]
 {SAY:winnie}Dispara rayos de teletransporte. Puede transportar todo lo que alcance, incluidos zombis, plantas y cristales.
 
-[NARRATIVE_MOON_INTRO_TELEPORT_3]
-{SAY:winnie}Algunos zombis llevan balizas de teletransporte. Al ser derrotados, dejan una baliza y reaparecen completamente recuperados.
+[NARRATIVE_MOON_4_INTRO_3]
+{SAY:winnie}Algunos zombis llevan balizas de transmisión. Al ser derrotados, dejan una baliza y reaparecen completamente recuperados.
 
-[NARRATIVE_MOON_INTRO_TELEPORT_4]
+[NARRATIVE_MOON_4_INTRO_4]
 {SPECIAL9:astronautcrazydave}¡¿O sea que derrotarlos no sirve de nada?!
 
-[NARRATIVE_MOON_INTRO_TELEPORT_5]
+[NARRATIVE_MOON_4_INTRO_5]
 {SAY:winnie}No con plantas convencionales. 
 
-[NARRATIVE_MOON_INTRO_TELEPORT_6]
+[NARRATIVE_MOON_4_INTRO_6]
 {SPECIAL9:astronautcrazydave}Entonces, ¿qué hacemos?
 
-[NARRATIVE_MOON_INTRO_TELEPORT_7]
+[NARRATIVE_MOON_4_INTRO_7]
 {SAY:winnie}Usa plantas cósmicas para desintegrarlos e impedir que la baliza se active.
 
 [NARRATIVE_MOON_INTRO_GRAVITREE_1]
@@ -673,40 +866,34 @@ Arrastra el recolector al suelo para desplegarlo
 [NARRATIVE_MOON_INTRO_SUPERNOVA_GARG_6]
 {TIRED:winnie}Eso no suena bien...
 
-[NARRATIVE_MOON_INTRO_RADIOACTIVE_METEOR_1]
+[NARRATIVE_METEOR_TUTORIAL_1_1]
 {NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}¡Usuario Dave, tenemos un problema! ¡Se aproximan meteoritos radiactivos!
 
-[NARRATIVE_MOON_INTRO_RADIOACTIVE_METEOR_2]
-{SPECIAL9:astronautcrazydave}¡¿Meteoritos?! ¡Es nuestro fin!
+[NARRATIVE_METEOR_TUTORIAL_1_2]
+{SAY:astronautcrazydave}¿Un envío espacial? ¡Yo no he pedido ninguna piedra que brille!
 
-[NARRATIVE_MOON_INTRO_RADIOACTIVE_METEOR_3]
-{SAY:winnie}No te acerques. Al impactar, destruyen lo que haya en su trayectoria y contaminan las casillas cercanas.
+[NARRATIVE_METEOR_TUTORIAL_2_1]
+{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}Los meteoritos destruyen lo que haya en su trayectoria al impactar y contaminan las casillas cercanas, debilitando plantas y fortaleciendo zombis.
 
-[NARRATIVE_MOON_INTRO_RADIOACTIVE_METEOR_4]
-{SAY:winnie}La contaminación debilita a nuestras plantas, pero fortalece a los zombis.
+[NARRATIVE_METEOR_TUTORIAL_2_2]
+{SAY:astronautcrazydave}Hmm... ¿Qué deberíamos hacer?
 
-[NARRATIVE_MOON_INTRO_RADIOACTIVE_METEOR_5]
-{SPECIAL9:astronautcrazydave}¡¿Qué podemos hacer?!
+[NARRATIVE_METEOR_TUTORIAL_2_3]
+{SAY:winnie}Sugiero usar la terminal lunar para extraerlos antes de que la radiación se propague.
 
-[NARRATIVE_MOON_INTRO_RADIOACTIVE_METEOR_6]
-{SAY:winnie}Podemos usar la terminal lunar para extraerlos. 
+[NARRATIVE_METEOR_TUTORIAL_3_1]
+{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:winnie}Recolección completada. Detecto un aumento de energía en el soporte vital.
 
-[NARRATIVE_MOON_INTRO_RADIOACTIVE_METEOR_7]
-{SAY:winnie}Al destruir uno, eliminaremos su contaminación y aumentaremos nuestro límite de energía.
+[NARRATIVE_METEOR_TUTORIAL_3_2]
+{SAY:astronautcrazydave}¡Ja! ¡Esa piedra intentó aplastarnos y terminó dándonos más energía!
 
-[NARRATIVE_MOON_OUTRO_RADIOACTIVE_METEOR_1]
-{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{EXCITED:astronautcrazydave}¡Lo logramos! ¡Sobrevivimos a la lluvia de meteoritos!
+[NARRATIVE_MOON_OUTRO_METEOR_1]
+{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}He reclutado a una nueva aliada: Seta cósmica.
 
-[NARRATIVE_MOON_OUTRO_RADIOACTIVE_METEOR_2]
-{SAY:winnie}Sí, y todo gracias a la terminal lunar.
+[NARRATIVE_MOON_OUTRO_METEOR_2]
+{SAY:winnie}Sus esporas pueden desintegrar zombis y sus ataques se vuelven más fuertes con el tiempo.
 
-[NARRATIVE_MOON_OUTRO_RADIOACTIVE_METEOR_3]
-{PLAYFUL:astronautcrazydave}¡Ja! ¡La Luna intentó aplastarnos y terminó dándonos más energía!
-
-[NARRATIVE_MOON_OUTRO_RADIOACTIVE_METEOR_4]
-{SAY:winnie}Además, tenemos una nueva aliada: Seta cósmica. Sus esporas pueden desintegrar zombis y sus ataques se vuelven más fuertes con el tiempo.
-
-[NARRATIVE_MOON_OUTRO_RADIOACTIVE_METEOR_5]
+[NARRATIVE_MOON_OUTRO_METEOR_3]
 {EXCITED:astronautcrazydave}¡Una seta espacial! ¡Espero que también sepa cultivar más setas!
 
 [NARRATIVE_MOON_INTRO_MOON_SHIP5000_1]
@@ -724,37 +911,37 @@ Arrastra el recolector al suelo para desplegarlo
 [NARRATIVE_MOON_INTRO_MOON_SHIP5000_5]
 {SAY:zombossicon}¡Ja! ¡No podrás detenerlo, Dave! ¡Esta nave ha sido diseñada para conquistar mundos enteros!
 
-[NARRATIVE_MOON13_INTRO_1]
+[NARRATIVE_MOON12_INTRO_1]
 {NPC_ENTER:zombossicon}{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:zombossicon}¡Dave! Has sobrevivido a mis mejores tropas y has convertido la Luna en tu pequeño refugio.
 
-[NARRATIVE_MOON13_INTRO_2]
+[NARRATIVE_MOON12_INTRO_2]
 {EXCITED:zombossicon}¡Pero no te confundas! ¡No has ganado esta guerra!
 
-[NARRATIVE_MOON13_INTRO_3]
+[NARRATIVE_MOON12_INTRO_3]
 {SAY:winnie}¿Qué significa eso?
 
-[NARRATIVE_MOON13_INTRO_4]
+[NARRATIVE_MOON12_INTRO_4]
 {PLAYFUL:zombossicon}Significa que, mientras ustedes se aferran a esta roca, ¡mi ejército se prepara para algo mucho más grande!
 
-[NARRATIVE_MOON13_INTRO_5]
+[NARRATIVE_MOON12_INTRO_5]
 {SAY:zombossicon}¡Disfruten de su victoria, porque será la última que celebren con tanta tranquilidad!
 
-[NARRATIVE_MOON13_INTRO_6]
+[NARRATIVE_MOON12_INTRO_6]
 {EXCITED:astronautcrazydave}¡Pues habrá que celebrar rápido! ¡Tenemos plantas que cuidar!
 
-[NARRATIVE_MOON13_OUTRO_1]
+[NARRATIVE_MOON12_OUTRO_1]
 {NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}Lo conseguimos. La base lunar sigue en pie después de todo lo que nos lanzó Zomboss.
 
-[NARRATIVE_MOON13_OUTRO_2]
+[NARRATIVE_MOON12_OUTRO_2]
 {PLAYFUL:astronautcrazydave}¡Y nuestras plantas también! Aunque admito que algunas estuvieron bastante cerca de convertirse en polvo espacial.
 
-[NARRATIVE_MOON13_OUTRO_3]
+[NARRATIVE_MOON12_OUTRO_3]
 {SAY:winnie}Zomboss dijo que esto apenas comienza. Me preocupa qué estará preparando.
 
-[NARRATIVE_MOON13_OUTRO_4]
+[NARRATIVE_MOON12_OUTRO_4]
 {EXCITED:astronautcrazydave}¡Sea lo que sea, tendrá que enfrentarse a nosotros y a todo nuestro jardín lunar!
 
-[NARRATIVE_MOON13_OUTRO_5]
+[NARRATIVE_MOON12_OUTRO_5]
 {SAY:winnie}Entonces terminemos de preparar la base. La próxima batalla no tardará en llegar.
 
 [NARRATIVE_MOON_EXPERT_INTRO_1]
@@ -778,8 +965,6 @@ Cosmoss
 [COSMOSS_DESCRIPTION]
 {KEYWORD}Especial: {STAT}permite plantar en suelo lunar
 
-^397F24^Nutrientes: {STAT}crea clones en los espacios adyacentes
-
 ^FF8000^Características de la planta: {STAT}planta verde, de baja estatura, galáctica
 
 {FLAVOR}Es el mayor fan de Piel de Grass Tyson.
@@ -792,7 +977,9 @@ Permite plantar en la superficie lunar
 
 [COSMOSS_NEW_SKILL_LEVEL1_DES]
 Te permite plantar sobre la superficie de la ^E2725B^Base lunar Z^oldclr^
-^DB8117^Nutrientes: crea clones en los espacios adyacentes^oldclr^
+
+[COSMOSS_AVATAR_PLANTFOOD_DESCRIPTION]
+Sin efectos de Atuendo
 
 [BONUS_CARD_PIECE_COSMOSS]
 Cosmoss: Piezas
@@ -1129,7 +1316,7 @@ Pitaya de materia oscura
 
 {KEYWORD}Estado cuántico: {STAT}los proyectiles dañan y atraviesan a los zombis enviados al reino cuántico
 
-^397F24^Nutrientes: {STAT}dispara proyectiles a 3 zombis aleatorios del patio
+^397F24^Nutrientes: {STAT}invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio
 
 ^FF8000^Características de la planta: {STAT}planta roja, galáctica, destructora
 
@@ -1185,14 +1372,15 @@ La duración del estado cuántico aumenta a ^D22808^6 s^oldclr^
 
 [DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^30 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: dispara proyectiles a 3 zombis aleatorios del patio. ^D22808^Daño: 1.500 (área 5x5)^oldclr^
+^DB8117^Nutrientes: invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio.
+^D22808^Daño: 1.500 (área 5x5)^oldclr^
 
 [DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
 ^D22808^30 % de probabilidad^oldclr^ de disparar un proyectil que derrota zombis al instante.
 ^E2725B^Especial: efecto garantizado tras usar Nutrientes.^oldclr^
 
 [DARKMATTER_DRAGONFRUIT_PLANTFOOD_DESCRIPTION]
-Dispara proyectiles a 3 zombis aleatorios del patio
+Invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio
 
 [DARKMATTER_DRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 Proyectiles con Nutrientes ^D22808^+2 (ahora 5)^oldclr^
@@ -1368,7 +1556,16 @@ Zombi con teletransporte
 {FLAVOR}El cable del teléfono llega hasta otra dimensión.
 
 [ZOMBIE_TELEPORT_LEFT_DESCRIPTION_HEADER]
-Dispara un rayo capaz de teletransportar plantas, cristales y zombis.
+Dispara un rayo capaz de teletransportar cristales y zombis hacia la izquierda.
+
+[ZOMBIE_TELEPORT_RIGHT]
+Zombi teletransporte inverso
+
+[ZOMBIE_TELEPORT_RIGHT_DESCRIPTION]
+{FLAVOR}Es hermano gemelo del Zombi con teletransporte. Ambos hacen todo al revés: uno desayuna antes de despertarse y el otro se despierta antes de desayunar.
+
+[ZOMBIE_TELEPORT_RIGHT_DESCRIPTION_HEADER]
+Dispara un rayo capaz de teletransportar cristales y plantas hacia la derecha.
 
 [ZOMBIE_MOON_SHIP5000]
 Crucero de batalla Zombot 5000
@@ -4903,58 +5100,58 @@ Participa en La Caza del Tesoro para conseguir ^00FF00^plantas raras^oldclr^
 10mo Aniversario
 
 [ANNIVERSARY_10TH_NAME_01]
-10mo Aniversario egipcio
+Reto de Aniversario: Egipto
 
 [ANNIVERSARY_10TH_NAME_02]
-10mo Aniversario pirata
+Reto de Aniversario: Mares Piratas
 
 [ANNIVERSARY_10TH_NAME_03]
-10mo Aniversario del Oeste
+Reto de Aniversario: Oeste
 
 [ANNIVERSARY_10TH_NAME_04]
-10mo Aniversario Kung Fu
+Reto de Aniversario: Kung Fu
 
 [ANNIVERSARY_10TH_NAME_05]
-10mo Aniversario futurista
+Reto de Aniversario: Futuro
 
 [ANNIVERSARY_10TH_NAME_06]
-10mo Aniversario oscuro
+Reto de Aniversario: Edad Oscura
 
 [ANNIVERSARY_10TH_NAME_07]
-10mo Aniversario playero
+Reto de Aniversario: Playa
 
 [ANNIVERSARY_10TH_NAME_08]
-10mo Aniversario congelado
+Reto de Aniversario: Cuevas congeladas
 
 [ANNIVERSARY_10TH_NAME_09]
-10mo Aniversario aéreo
+Reto de Aniversario: Ciudad Aérea
 
 [ANNIVERSARY_10TH_NAME_10]
-10mo Aniversario perdido
+Reto de Aniversario: Ciudad perdida
 
 [ANNIVERSARY_10TH_NAME_11]
-10mo Aniversario de neón
+Reto de Aniversario: Neón
 
 [ANNIVERSARY_10TH_NAME_12]
-10mo Aniversario jurásico
+Reto de Aniversario: Jurásico
 
 [ANNIVERSARY_10TH_NAME_13]
-10mo Aniversario moderno
+Reto de Aniversario: Tiempos modernos
 
 [ANNIVERSARY_10TH_NAME_14]
-10mo Aniversario - Vapor
+Reto de Aniversario: Era del Vapor
 
 [ANNIVERSARY_10TH_NAME_15]
-10mo Aniversario - Renacimiento
+Reto de Aniversario: Renacimiento
 
 [ANNIVERSARY_10TH_NAME_16]
-10mo Aniversario - Heian
+Reto de Aniversario: Período Heian 
 
 [ANNIVERSARY_10TH_NAME_17]
-¡Feliz 10mo Aniversario!
+Reto de Aniversario: ¡felicidades!
 
 [ANNIVERSARY_2025_TASK_NAME_1_1]
-Completa estos 3 objetivos en un nivel: Crisis solar, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Crisis solar, Refuerzo zombi II y Zombis fugaces III
 
 [ANNIVERSARY_2025_TASK_NAME_1_2]
 Alcanza 2 estrellas como récord histórico.
@@ -4969,7 +5166,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_2_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Escacez de semillas II y Moho cercano III
+Completa estos 3 objetivos: Refuerzo zombi, Escacez de semillas II y Moho cercano III
 
 [ANNIVERSARY_2025_TASK_NAME_2_2]
 Alcanza 2 estrellas como récord histórico.
@@ -4984,7 +5181,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_3_1]
-Completa estos 3 objetivos en un nivel: Defensa valiosa, Moho cercano II y Debilidad botánica III
+Completa estos 3 objetivos: Defensa valiosa, Moho cercano II y Debilidad botánica III
 
 [ANNIVERSARY_2025_TASK_NAME_3_2]
 Alcanza 2 estrellas como récord histórico.
@@ -4999,7 +5196,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_4_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Escacez de semillas II y Zombis fugaces III
+Completa estos 3 objetivos: Refuerzo zombi, Escacez de semillas II y Zombis fugaces III
 
 [ANNIVERSARY_2025_TASK_NAME_4_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5014,7 +5211,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_5_1]
-Completa estos 3 objetivos en un nivel: Tiradores costosos, Crisis solar II y Batallón zombi III
+Completa estos 3 objetivos: Tiradores costosos, Crisis solar II y Batallón zombi III
 
 [ANNIVERSARY_2025_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5029,7 +5226,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_6_1]
-Completa estos 3 objetivos en un nivel: Moho lejano, Zombis fugaces II y Moho cercano III
+Completa estos 3 objetivos: Moho lejano, Zombis fugaces II y Moho cercano III
 
 [ANNIVERSARY_2025_TASK_NAME_6_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5044,7 +5241,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_7_1]
-Completa estos 3 objetivos en un nivel: Recarga distante, Refuerzo zombi II y Debilidad botánica III
+Completa estos 3 objetivos: Recarga distante, Refuerzo zombi II y Debilidad botánica III
 
 [ANNIVERSARY_2025_TASK_NAME_7_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5059,7 +5256,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_8_1]
-Completa estos 3 objetivos en un nivel: Debilidad botánica, Crisis solar II y Refuerzo zombi III
+Completa estos 3 objetivos: Debilidad botánica, Crisis solar II y Refuerzo zombi III
 
 [ANNIVERSARY_2025_TASK_NAME_8_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5074,7 +5271,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_9_1]
-Completa estos 3 objetivos en un nivel: Crisis solar, Batallón zombi II y Escuadrón aéreo
+Completa estos 3 objetivos: Crisis solar, Batallón zombi II y Escuadrón aéreo
 
 [ANNIVERSARY_2025_TASK_NAME_9_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5089,7 +5286,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_10_1]
-Completa estos 3 objetivos en un nivel: Sol tardío, Sin sorpresas II y Calavera maldita
+Completa estos 3 objetivos: Sol tardío, Sin sorpresas II y Calavera maldita
 
 [ANNIVERSARY_2025_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5104,7 +5301,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_11_1]
-Completa estos 3 objetivos en un nivel: Recarga distante, Debilidad botánica II y Glamour incesante
+Completa estos 3 objetivos: Recarga distante, Debilidad botánica II y Glamour incesante
 
 [ANNIVERSARY_2025_TASK_NAME_11_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5119,7 +5316,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_12_1]
-Completa estos 3 objetivos en un nivel: Debilidad botánica, Zombis fugaces II y Huevos veloces
+Completa estos 3 objetivos: Debilidad botánica, Zombis fugaces II y Huevos veloces
 
 [ANNIVERSARY_2025_TASK_NAME_12_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5134,7 +5331,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_13_1]
-Completa estos 3 objetivos en un nivel: Sol tardío, Sin defensas y Tacleo extremo
+Completa estos 3 objetivos: Sol tardío, Sin defensas y Tacleo extremo
 
 [ANNIVERSARY_2025_TASK_NAME_13_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5149,7 +5346,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_14_1]
-Completa estos 3 objetivos en un nivel: Zombis fugaces, Sorpresa inesperada y Fiesta elegante
+Completa estos 3 objetivos: Zombis fugaces, Sorpresa inesperada y Fiesta elegante
 
 [ANNIVERSARY_2025_TASK_NAME_14_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5164,7 +5361,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_15_1]
-Completa estos 3 objetivos en un nivel: Zombis impasibles, Sorpresa inesperada y Ballet sofisticado
+Completa estos 3 objetivos: Zombis impasibles, Sorpresa inesperada y Ballet sofisticado
 
 [ANNIVERSARY_2025_TASK_NAME_15_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5179,7 +5376,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_16_1]
-Completa estos 3 objetivos en un nivel: Zombis fugaces, Moho cercano II y Maestros del sushi
+Completa estos 3 objetivos: Zombis fugaces, Moho cercano II y Maestros del sushi
 
 [ANNIVERSARY_2025_TASK_NAME_16_2]
 Alcanza 2 estrellas como récord histórico.
@@ -26586,7 +26783,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 28/8/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 25/8/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -59372,7 +59569,7 @@ Halloween espeluznante - Noche 7
 Halloween espeluznante - Noche 8
 
 [RE_HALLOWEEN_TASK_NAME_1_1]
-Completa estos 3 objetivos en un nivel: Crisis solar, Refuerzo zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Crisis solar, Refuerzo zombi II y Zombis fugaces III
 
 [RE_HALLOWEEN_TASK_NAME_1_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59387,7 +59584,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_2_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Escacez de semillas II y Moho cercano III
+Completa estos 3 objetivos: Refuerzo zombi, Escacez de semillas II y Moho cercano III
 
 [RE_HALLOWEEN_TASK_NAME_2_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59402,7 +59599,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_3_1]
-Completa estos 3 objetivos en un nivel: Resistencia costosa, Moho cercano II y Debilidad botánica III
+Completa estos 3 objetivos: Resistencia costosa, Moho cercano II y Debilidad botánica III
 
 [RE_HALLOWEEN_TASK_NAME_3_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59417,7 +59614,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_4_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Escacez de semillas II y Zombis fugaces III
+Completa estos 3 objetivos: Refuerzo zombi, Escacez de semillas II y Zombis fugaces III
 
 [RE_HALLOWEEN_TASK_NAME_4_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59432,7 +59629,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_5_1]
-Completa estos 3 objetivos en un nivel: Tiradores costosos, Crisis solar II y Refuerzo zombi III
+Completa estos 3 objetivos: Tiradores costosos, Crisis solar II y Refuerzo zombi III
 
 [RE_HALLOWEEN_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59447,7 +59644,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_6_1]
-Completa estos 3 objetivos en un nivel: Moho lejano, Zombis fugaces II y Moho cercano III
+Completa estos 3 objetivos: Moho lejano, Zombis fugaces II y Moho cercano III
 
 [RE_HALLOWEEN_TASK_NAME_6_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59462,7 +59659,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_7_1]
-Completa estos 3 objetivos en un nivel: Recarga distante, Refuerzo zombi II y Debilidad botánica III
+Completa estos 3 objetivos: Recarga distante, Refuerzo zombi II y Debilidad botánica III
 
 [RE_HALLOWEEN_TASK_NAME_7_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59477,7 +59674,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_8_1]
-Completa estos 3 objetivos en un nivel: Debilidad botánica, Moho cercano II y Escacez de semillas III
+Completa estos 3 objetivos: Debilidad botánica, Moho cercano II y Escacez de semillas III
 
 [RE_HALLOWEEN_TASK_NAME_8_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59492,7 +59689,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_9_1]
-Completa estos 3 objetivos en un nivel: Crisis solar, Refuerzo zombi II y Escuadrón aéreo
+Completa estos 3 objetivos: Crisis solar, Refuerzo zombi II y Escuadrón aéreo
 
 [RE_HALLOWEEN_TASK_NAME_9_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59507,7 +59704,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_10_1]
-Completa estos 3 objetivos en un nivel: Sol tardío, Zona de silencio y Calavera maldita
+Completa estos 3 objetivos: Sol tardío, Zona de silencio y Calavera maldita
 
 [RE_HALLOWEEN_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59522,7 +59719,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_11_1]
-Completa estos 3 objetivos en un nivel: Recarga distante, Debilidad botánica II y Glamour incesante
+Completa estos 3 objetivos: Recarga distante, Debilidad botánica II y Glamour incesante
 
 [RE_HALLOWEEN_TASK_NAME_11_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59537,7 +59734,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_12_1]
-Completa estos 3 objetivos en un nivel: Debilidad botánica, Zombis fugaces II y Huevos veloces
+Completa estos 3 objetivos: Debilidad botánica, Zombis fugaces II y Huevos veloces
 
 [RE_HALLOWEEN_TASK_NAME_12_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59552,7 +59749,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_13_1]
-Completa estos 3 objetivos en un nivel: Sol tardío, Defensa nula II y Tacleo extremo
+Completa estos 3 objetivos: Sol tardío, Defensa nula II y Tacleo extremo
 
 [RE_HALLOWEEN_TASK_NAME_13_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59567,7 +59764,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_14_1]
-Completa estos 3 objetivos en un nivel: Zombis fugaces, Sin sorpresas II y Fiesta elegante
+Completa estos 3 objetivos: Zombis fugaces, Sin sorpresas II y Fiesta elegante
 
 [RE_HALLOWEEN_TASK_NAME_14_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59582,7 +59779,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_15_1]
-Completa estos 3 objetivos en un nivel: Zombis impasibles, Sin sorpresas II y Ballet sofisticado
+Completa estos 3 objetivos: Zombis impasibles, Sin sorpresas II y Ballet sofisticado
 
 [RE_HALLOWEEN_TASK_NAME_15_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59597,7 +59794,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_16_1]
-Completa estos 3 objetivos en un nivel: Zombis fugaces, Moho cercano II y Expertos en sushi
+Completa estos 3 objetivos: Zombis fugaces, Moho cercano II y Expertos en sushi
 
 [RE_HALLOWEEN_TASK_NAME_16_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59612,7 +59809,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_17_1]
-Completa estos 3 objetivos en un nivel: Sorpresa inesperada, Zona de silencio II y Maldición del faraón
+Completa estos 3 objetivos: Sorpresa inesperada, Zona de silencio II y Maldición del faraón
 
 [RE_HALLOWEEN_TASK_NAME_17_2]
 Alcanza 2 estrellas como récord histórico.
@@ -66781,7 +66978,7 @@ No puedes llevar plantas a distancia en este nivel
 Lápida eléctrica
 
 [SHOOTER_GRAVESTONE_DES]
-Crea una lápida en una casilla para generar Zombis con pistola de rayos. Solo puede mejorarse hasta 3 veces.
+Crea una lápida en una casilla para generar Zombis electrómanos. Solo puede mejorarse hasta 3 veces.
 
 [SHOOTER_PLANT_CD_DIFFICULTY_1]
 Recarga distante
@@ -72305,9 +72502,9 @@ Poaceae
 Diversos
 
 [SUGARCANE_NEW_SKILL_LEVEL1_DES]
-Bloquea y retiene zombis. ^A0522D^Resistencia: recibe un ^D22808^50 % ^A0522D^menos de daño por mordida^oldclr^
-^FF8000^Retener: mantiene a los zombis ^D22808^0,5 casillas ^FF8000^hacia atrás^oldclr^
-^E2725B^Regeneración: se cura cuando no recibe daño, recuperando ^D22808^100 PS / 5 s^oldclr^
+Bloquea y retiene zombis. ^A0522D^Resistencia a mordidas: 50 %^oldclr^
+^FF8000^Retener: mantiene zombis 0,5 casillas hacia atrás^oldclr^
+^E2725B^Regeneración: se cura 100 PS / 5 s^oldclr^
 
 [SUGARCANE_NEW_SKILL_LEVEL2_DES]
 Su salud aumenta en un ^D22808^15 %^oldclr^ adicional.
@@ -74339,7 +74536,7 @@ Las plantas derrotadas explotan causando daño a los zombis cercanos
 Clorofila explosiva
 
 [THEME_FASTCD_DESCRIPTION]
-La plantas defensivas se recargan un 50% más rápido
+Las plantas defensivas se recargan un 50% más rápido
 
 [THEME_FASTCD_NAME]
 Defensa rápida
@@ -74399,7 +74596,7 @@ De tanto en tanto, caen rayos que dañan tus plantas. La electricidad se propaga
 Rayos y centellas
 
 [THEME_LIGHTING_REDUCE_DESCRIPTION]
-Los zombis se vuelven inmunes a la parálisis y reciben un 50% de daño eléctrico
+Los zombis se vuelven inmunes a la parálisis y reciben un 50% menos de daño eléctrico
 
 [THEME_LIGHTING_REDUCE_NAME]
 Resistencia al rayo
@@ -76855,7 +77052,7 @@ Como un rayo
 Mangostán feliz
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_1]
-Completa estos 3 objetivos en un nivel: Debilidad botánica, Batallón zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Debilidad botánica, Batallón zombi II y Zombis fugaces III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_2]
 Alcanza 2 estrellas como récord histórico.
@@ -76870,7 +77067,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_2_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Escacez de semillas II y Moho cercano III
+Completa estos 3 objetivos: Refuerzo zombi, Escacez de semillas II y Moho cercano III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_2_2]
 Alcanza 2 estrellas como récord histórico.
@@ -76885,7 +77082,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_1]
-Completa estos 3 objetivos en un nivel: Defensa valiosa, Zombis fugaces II y Debilidad botánica III
+Completa estos 3 objetivos: Defensa valiosa, Zombis fugaces II y Debilidad botánica III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_2]
 Alcanza 2 estrellas como récord histórico.
@@ -76900,7 +77097,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_4_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Debilidad botánica II y Zombis fugaces III
+Completa estos 3 objetivos: Refuerzo zombi, Debilidad botánica II y Zombis fugaces III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_4_2]
 Alcanza 2 estrellas como récord histórico.
@@ -76915,7 +77112,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_1]
-Completa estos 3 objetivos en un nivel: Tiradores costosos, Sorpresa inesperada y Batallón zombi III
+Completa estos 3 objetivos: Tiradores costosos, Sorpresa inesperada y Batallón zombi III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -76930,7 +77127,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_6_1]
-Completa estos 3 objetivos en un nivel: Moho lejano, Zombis fugaces II y Moho cercano III
+Completa estos 3 objetivos: Moho lejano, Zombis fugaces II y Moho cercano III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_6_2]
 Alcanza 2 estrellas como récord histórico.
@@ -76945,7 +77142,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_7_1]
-Completa estos 3 objetivos en un nivel: Tiradores costosos, Refuerzo zombi II y Debilidad botánica III
+Completa estos 3 objetivos: Tiradores costosos, Refuerzo zombi II y Debilidad botánica III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_7_2]
 Alcanza 2 estrellas como récord histórico.
@@ -76960,7 +77157,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_8_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Moho cercano II y Batallón zombi III
+Completa estos 3 objetivos: Refuerzo zombi, Moho cercano II y Batallón zombi III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_8_2]
 Alcanza 2 estrellas como récord histórico.
@@ -76975,7 +77172,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_9_1]
-Completa estos 3 objetivos en un nivel: Debilidad botánica, Moho cercano II y Refuerzo zombi III
+Completa estos 3 objetivos: Debilidad botánica, Moho cercano II y Refuerzo zombi III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_9_2]
 Alcanza 2 estrellas como récord histórico.
@@ -76990,7 +77187,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_10_1]
-Completa estos 3 objetivos en un nivel: Sol tardío, Crisis solar II y Moho lejano III
+Completa estos 3 objetivos: Sol tardío, Crisis solar II y Moho lejano III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77011,7 +77208,7 @@ A quienes reunieron todas las estrellas en Tierras ocultas: Festivus (2025-2026)
 Desparrame navideño
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_1_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Zombis fugaces II y Crisis solar
+Completa estos 3 objetivos: Refuerzo zombi, Zombis fugaces II y Crisis solar
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_1_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77026,7 +77223,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_2_1]
-Completa estos 3 objetivos en un nivel: Crisis solar, Defensa lenta II y Moho cercano III
+Completa estos 3 objetivos: Crisis solar, Defensa lenta II y Moho cercano III
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_2_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77041,7 +77238,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_3_1]
-Completa estos 3 objetivos en un nivel: Escacez de semillas, Calor sofocante y Zombis fugaces III
+Completa estos 3 objetivos: Escacez de semillas, Calor sofocante y Zombis fugaces III
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_3_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77056,7 +77253,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_4_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Zombis fugaces II y Debilidad botánica III
+Completa estos 3 objetivos: Refuerzo zombi, Zombis fugaces II y Debilidad botánica III
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_4_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77071,7 +77268,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_5_1]
-Completa estos 3 objetivos en un nivel: Defensa lenta, Crisis solar y Refuerzo zombi III
+Completa estos 3 objetivos: Defensa lenta, Crisis solar y Refuerzo zombi III
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77086,7 +77283,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_6_1]
-Completa estos 3 objetivos en un nivel: Moho lejano, Calor sofocante y Zombis fugaces III
+Completa estos 3 objetivos: Moho lejano, Calor sofocante y Zombis fugaces III
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_6_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77101,7 +77298,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_7_1]
-Completa estos 3 objetivos en un nivel: Crisis solar, Resistencia zombi y Zombis fugaces III
+Completa estos 3 objetivos: Crisis solar, Resistencia zombi y Zombis fugaces III
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_7_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77116,7 +77313,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_8_1]
-Completa estos 3 objetivos en un nivel: Debilidad botánica, Resistencia zombi y Refuerzo zombi III
+Completa estos 3 objetivos: Debilidad botánica, Resistencia zombi y Refuerzo zombi III
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_8_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77131,7 +77328,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_9_1]
-Completa estos 3 objetivos en un nivel: Sorpresa inesperada, Crisis solar y Cascanueces implacable
+Completa estos 3 objetivos: Sorpresa inesperada, Crisis solar y Cascanueces implacable
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_9_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77146,7 +77343,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_10_1]
-Completa estos 3 objetivos en un nivel: Guerreros pacientes, Sin sorpresas y Moho lejano III
+Completa estos 3 objetivos: Guerreros pacientes, Sin sorpresas y Moho lejano III
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77233,7 +77430,7 @@ Comadreja matutina
 Latte volcado
 
 [UNCHARTED_ICEAGE_TASK_NAME_1_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Batallón zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Refuerzo zombi, Batallón zombi II y Zombis fugaces III
 
 [UNCHARTED_ICEAGE_TASK_NAME_1_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77248,7 +77445,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_2_1]
-Completa estos 3 objetivos en un nivel: Crisis solar, Escacez de semillas II y Moho cercano III
+Completa estos 3 objetivos: Crisis solar, Escacez de semillas II y Moho cercano III
 
 [UNCHARTED_ICEAGE_TASK_NAME_2_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77263,7 +77460,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_3_1]
-Completa estos 3 objetivos en un nivel: Tiradores costosos, Batallón zombi II y Refuerzo zombi III
+Completa estos 3 objetivos: Tiradores costosos, Batallón zombi II y Refuerzo zombi III
 
 [UNCHARTED_ICEAGE_TASK_NAME_3_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77278,7 +77475,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_4_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Escacez de semillas II y Batallón zombi III
+Completa estos 3 objetivos: Refuerzo zombi, Escacez de semillas II y Batallón zombi III
 
 [UNCHARTED_ICEAGE_TASK_NAME_4_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77293,7 +77490,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_5_1]
-Completa estos 3 objetivos en un nivel: Defensa rápida, Sorpresa inesperada y Batallón zombi III
+Completa estos 3 objetivos: Defensa rápida, Sorpresa inesperada y Batallón zombi III
 
 [UNCHARTED_ICEAGE_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77308,7 +77505,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_6_1]
-Completa estos 3 objetivos en un nivel: Moho lejano, Crisis solar y Zombis fugaces III
+Completa estos 3 objetivos: Moho lejano, Crisis solar y Zombis fugaces III
 
 [UNCHARTED_ICEAGE_TASK_NAME_6_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77323,7 +77520,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_7_1]
-Completa estos 3 objetivos en un nivel: Moho lejano, Crisis solar y Zombis fugaces III
+Completa estos 3 objetivos: Moho lejano, Crisis solar y Zombis fugaces III
 
 [UNCHARTED_ICEAGE_TASK_NAME_7_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77338,7 +77535,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_8_1]
-Completa estos 3 objetivos en un nivel: Debilidad botánica, Moho lejano II y Refuerzo zombi III
+Completa estos 3 objetivos: Debilidad botánica, Moho lejano II y Refuerzo zombi III
 
 [UNCHARTED_ICEAGE_TASK_NAME_8_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77353,7 +77550,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_9_1]
-Completa estos 3 objetivos en un nivel: Moho cercano, Apoyo nulo II y Batallón zombi III
+Completa estos 3 objetivos: Moho cercano, Apoyo nulo II y Batallón zombi III
 
 [UNCHARTED_ICEAGE_TASK_NAME_9_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77368,7 +77565,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_10_1]
-Completa estos 3 objetivos en un nivel: Plantas veloces, Apoyo nulo II y Moho lejano III
+Completa estos 3 objetivos: Plantas veloces, Apoyo nulo II y Moho lejano III
 
 [UNCHARTED_ICEAGE_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77614,7 +77811,7 @@ A quienes reunieron todas las estrellas en Tierras ocultas: ZCorp SA
 CEO de ZCorp
 
 [UNCHARTED_ZCORP_TASK_NAME_1_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Batallón zombi II y Zombis fugaces III
+Completa estos 3 objetivos: Refuerzo zombi, Batallón zombi II y Zombis fugaces III
 
 [UNCHARTED_ZCORP_TASK_NAME_1_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77629,7 +77826,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_2_1]
-Completa estos 3 objetivos en un nivel: Crisis solar, Escacez de semillas II y Sin sorpresas II
+Completa estos 3 objetivos: Crisis solar, Escacez de semillas II y Sin sorpresas II
 
 [UNCHARTED_ZCORP_TASK_NAME_2_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77644,7 +77841,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_3_1]
-Completa estos 3 objetivos en un nivel: Recarga distante, Refuerzo zombi II y Batallón zombi III
+Completa estos 3 objetivos: Recarga distante, Refuerzo zombi II y Batallón zombi III
 
 [UNCHARTED_ZCORP_TASK_NAME_3_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77659,7 +77856,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_4_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Escacez de semillas II y Batallón zombi III
+Completa estos 3 objetivos: Refuerzo zombi, Escacez de semillas II y Batallón zombi III
 
 [UNCHARTED_ZCORP_TASK_NAME_4_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77674,7 +77871,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_5_1]
-Completa estos 3 objetivos en un nivel: Defensa lenta, Sin sorpresas y Batallón zombi III
+Completa estos 3 objetivos: Defensa lenta, Sin sorpresas y Batallón zombi III
 
 [UNCHARTED_ZCORP_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77689,7 +77886,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_6_1]
-Completa estos 3 objetivos en un nivel: Escacez de semillas, Crisis solar y Zombis fugaces III
+Completa estos 3 objetivos: Escacez de semillas, Crisis solar y Zombis fugaces III
 
 [UNCHARTED_ZCORP_TASK_NAME_6_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77704,7 +77901,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_7_1]
-Completa estos 3 objetivos en un nivel: Crisis solar, Sin sorpresas y Zombis fugaces III
+Completa estos 3 objetivos: Crisis solar, Sin sorpresas y Zombis fugaces III
 
 [UNCHARTED_ZCORP_TASK_NAME_7_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77719,7 +77916,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_8_1]
-Completa estos 3 objetivos en un nivel: Debilidad botánica, Moho lejano II y Batalón zombi III
+Completa estos 3 objetivos: Debilidad botánica, Moho lejano II y Batalón zombi III
 
 [UNCHARTED_ZCORP_TASK_NAME_8_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77734,7 +77931,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_9_1]
-Completa estos 3 objetivos en un nivel: Refuerzo zombi, Sin apoyo y Batallón zombi III
+Completa estos 3 objetivos: Refuerzo zombi, Sin apoyo y Batallón zombi III
 
 [UNCHARTED_ZCORP_TASK_NAME_9_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77749,7 +77946,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_10_1]
-Completa estos 3 objetivos en un nivel: Guerreros pacientes, Sin apoyo y Debilidad botánica III
+Completa estos 3 objetivos: Guerreros pacientes, Sin apoyo y Debilidad botánica III
 
 [UNCHARTED_ZCORP_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
