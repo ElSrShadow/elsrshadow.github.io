@@ -638,16 +638,16 @@ Completa Base Lunar Z - Día 12
 A quienes participaron en la temporada 14 del evento: Bolsas de la suerte
 
 [AVATARCOLLECTIONS_HEAD_ID_25922]
-Fin del mundo
+Explosión cósmica
 
 [AVATARCOLLECTIONS_HEAD_DES_ID_25922]
-Completaste la colección de atuendos: Juicio final
+Completaste la colección de atuendos: Carrera espacial
 
 [AVATARCOLLECTIONS_THEME_TITLE24]
-Juicio final
+Carrera espacial
 
 [AVATARCOLLECTIONS_THEME_DES24]
-Los que juzgan serán juzgados
+Viajando a la Luna y más allá
 
 [TOYS_HEAD_ID_25920]
 Apocalipsis
@@ -689,6 +689,9 @@ Base Lunar Z - Día {LEVEL_NUMBER} (Experto)
 Selecciona tus plantas y resiste al ataque de los zombis lunares
 
 [WORLD_NAME_MOON]
+Base Lunar Z
+
+[MOON]
 Base Lunar Z
 
 [NARRATIVE_MOON1_TUTORIAL_1_1]
@@ -892,6 +895,12 @@ Coloca el Guisante cósmico dentro del cohete espacial
 
 [NARRATIVE_METEOR_TUTORIAL_2_3]
 {SAY:winnie}Sugiero usar la terminal lunar para extraerlos antes de que la radiación se propague.
+
+[METEOR_TUTORIAL_TAP_TERMINAL]
+Abre el panel de asignación de la terminal
+
+[METEOR_TUTORIAL_TERMINAL_DRAG]
+Instala el recolector para iniciar la extracción del meteoro
 
 [NARRATIVE_METEOR_TUTORIAL_3_1]
 {NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:winnie}Recolección completada. Detecto un aumento de energía en el soporte vital.
