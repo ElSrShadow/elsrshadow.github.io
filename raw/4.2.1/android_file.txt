@@ -1,11 +1,5 @@
-[#OF#]
+﻿[#OF#]
 # de #
-
-[MOON_HARD_LEVEL_NAME]
-Base Lunar Z (Experto) - Día {LEVEL_NUMBER}
-
-[KILL_ALL_ZOMBIE_MOON]
-Selecciona tus plantas y resiste al ataque zombi
 
 [rank_avatar_diy_71]
 Luna llena
@@ -687,6 +681,12 @@ El viaje de {PLAYER} a la Base Lunar Z
 
 [MOON_LEVEL_NAME]
 Base Lunar Z - Día {LEVEL_NUMBER}
+
+[MOON_HARD_LEVEL_NAME]
+Base Lunar Z - Día {LEVEL_NUMBER} (Experto)
+
+[KILL_ALL_ZOMBIE_MOON]
+Selecciona tus plantas y resiste al ataque de los zombis lunares
 
 [WORLD_NAME_MOON]
 Base Lunar Z
@@ -26789,7 +26789,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.1 (actualizado el 26/8/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.2 (actualizado el 26/8/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
