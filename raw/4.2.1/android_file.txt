@@ -777,10 +777,13 @@ Arrastra el recolector al suelo para desplegarlo
 {NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Mira esos cohetes! ¡Parece que alguien dejó el transporte espacial estacionado!
 
 [NARRATIVE_ROCKET_TUTORIAL_1_2]
-{SAY:winnie}No son solo transporte. Podemos ocuparlos con plantas cósmicas para lanzarlas contra los zombis más peligrosos.
+{SAY:winnie}No son solo transporte. Podemos ocuparlos con plantas cósmicas para lanzarlas contra los zombis.
 
 [NARRATIVE_ROCKET_TUTORIAL_1_3]
 {PLAYFUL:astronautcrazydave}¡Entonces pongamos nuestras plantas en órbita!
+
+[ROCKET_TUTORIAL_PLANT_COSMICPEA]
+Coloca el Guisante cósmico dentro del cohete espacial
 
 [NARRATIVE_ROCKET_TUTORIAL_2_1]
 {NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}Cada planta activa un efecto diferente al viajar en el cohete.
@@ -1230,8 +1233,7 @@ Reduce el intervalo para convocar setas a ^D22808^25 s^oldclr^
 
 [COSMICMUSHROOM_NEW_SKILL_LEVEL5_DES]
 ^D22808^20 %^oldclr^ de crear un agujero de gusano del cual salen setas que atacan y derriban zombis.
-^A048CF^Daño del veneno: 100 DPS por 30 s^oldclr^
-^D22808^Distancia de empuje: 4 casillas (1 en zombis grandes)^oldclr^
+^A048CF^Distancia de empuje: 4 casillas (1 en zombis grandes)^oldclr^
 
 [COSMICMUSHROOM_PLANTFOOD_DESCRIPTION]
 Evoluciona junto a tres plantas cósmicas alrededor.
