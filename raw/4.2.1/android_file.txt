@@ -1,5 +1,11 @@
-﻿[#OF#]
+[#OF#]
 # de #
+
+[MOON_HARD_LEVEL_NAME]
+Base Lunar Z (Experto) - Día {LEVEL_NUMBER}
+
+[KILL_ALL_ZOMBIE_MOON]
+Selecciona tus plantas y resiste al ataque zombi
 
 [rank_avatar_diy_71]
 Luna llena
@@ -626,10 +632,10 @@ Globos
 2. Completa tareas para obtener globos que pueden canjearse en la Tienda.
 
 [NFSLINKAGE_TASK_NAME_20]
-Completa Base lunar Z - Día 1
+Completa Base Lunar Z - Día 1
 
 [NFSLINKAGE_TASK_NAME_19]
-Completa Base lunar Z - Día 12
+Completa Base Lunar Z - Día 12
 
 [NEWYEAR_GIFT_HEAD_ID_25921]
 Árboles frondosos
@@ -677,16 +683,16 @@ A quienes reunieron todas las estrellas en Tierras ocultas: 13° Aniversario
 Ya hay una orden de pago en curso
 
 [PLAYERS_TRIP_TO_MOON]
-El viaje de {PLAYER} a la Base lunar Z
+El viaje de {PLAYER} a la Base Lunar Z
 
 [MOON_LEVEL_NAME]
-Base lunar Z - Día {LEVEL_NUMBER}
+Base Lunar Z - Día {LEVEL_NUMBER}
 
 [WORLD_NAME_MOON]
-Base lunar Z
+Base Lunar Z
 
 [NARRATIVE_MOON1_TUTORIAL_1_1]
-{NPC_ENTER:winnieicon}{NPC_ENTER:crazydaveicon}{PLAYFUL:winnieicon}Bienvenido a la Base lunar Z. Según mis registros, estamos en el año 2070.
+{NPC_ENTER:winnieicon}{NPC_ENTER:crazydaveicon}{PLAYFUL:winnieicon}Bienvenido a la Base Lunar Z. Según mis registros, estamos en el año 2070.
 
 [NARRATIVE_MOON1_TUTORIAL_1_2]
 {EXCITED:crazydaveicon}¡¿La Luna?! ¿Qué estamos esperando? ¡Salgamos a explorarla!
@@ -976,7 +982,7 @@ Cosmoss es una planta de apoyo que permite colocar plantas terrestres sobre la s
 Permite plantar en la superficie lunar
 
 [COSMOSS_NEW_SKILL_LEVEL1_DES]
-Te permite plantar sobre la superficie de la ^E2725B^Base lunar Z^oldclr^
+Te permite plantar sobre la superficie de la ^E2725B^Base Lunar Z^oldclr^
 
 [COSMOSS_AVATAR_PLANTFOOD_DESCRIPTION]
 Sin efectos de Atuendo
@@ -1461,10 +1467,10 @@ La duración del efecto de Nutrientes aumenta a ^D22808^9 s^oldclr^
 Zombi astronauta
 
 [ZOMBIE_MOON_DESCRIPTION]
-{FLAVOR}En los años 2070, los zombis construyeron la Base lunar Z para conquistar la Luna de una vez por todas. Ahora solo falta convencer a las plantas de que abandonen el lugar.
+{FLAVOR}En los años 2070, los zombis construyeron la Base Lunar Z para conquistar la Luna de una vez por todas. Ahora solo falta convencer a las plantas de que abandonen el lugar.
 
 [ZOMBIE_MOON_DESCRIPTION_HEADER]
-Zombi astronauta de la Base lunar Z.
+Zombi astronauta de la Base Lunar Z.
 
 [ZOMBIE_MOON_ARMOR1]
 Astronauta caracono
@@ -1607,13 +1613,13 @@ SOPORTE VITAL COLAPSADO: las plantas entrarán en letargo tras 5 s
 ¡Lluvia de meteoros!
 
 [TASK_WORLDTASK_MOON1]
-Completa Base lunar Z - Día 13
+Completa Base Lunar Z - Día 13
 
 [TASK_WORLDTASK_MOON2]
-Completa Base lunar Z - Día 13 (Experto)
+Completa Base Lunar Z - Día 13 (Experto)
 
 [TASK_WORLDTASK_MOON3]
-Completa Base lunar Z - Día Final
+Completa Base Lunar Z - Día Final
 
 [S32_MEMORY_LEVEL_NAME_1]
 S32-D-01: Tigre feroz
@@ -4649,7 +4655,7 @@ Dinos tu edad.
 Notas de la actualización 4.2.1
 
 [AGE_TIP_CONTENT]
-1. Nuevo mundo: Base lunar Z
+1. Nuevo mundo: Base Lunar Z
 2. Nuevas plantas del mundo lunar y Flamboyán (evento)
 3. Nuevos zombis del mundo lunar
 4. Nuevo evento: Gala de aniversario (¡Feliz 13° aniversario!)
@@ -26783,7 +26789,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 25/8/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.1 (actualizado el 26/8/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
