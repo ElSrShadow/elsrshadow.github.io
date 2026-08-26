@@ -719,14 +719,17 @@ Planta el Lanzaguisantes en el terreno con musgo
 Planta a Cosmoss en las casillas adyacentes al musgo para extender la zona
 
 [NARRATIVE_MOON1_TUTORIAL_3_1]
-{NPC_ENTER:winnie}{SAY}Aquí no necesitas soles para plantar: usa energía lunar del soporte vital. Si llega a 0, tus plantas atacarán más lento.
+{NPC_ENTER:winnie}{SAY}Aquí no necesitas soles para plantar: usa energía lunar del soporte vital.
+
+[NARRATIVE_MOON1_TUTORIAL_3_2]
+{SAY}Detecto otro cambio: Nutrientes cósmicos. Las unidades aparecen con el tiempo y dependen del soporte vital.
 
 [MOON1_TUTORIAL_CAPACITY_BANK]
 El soporte vital muestra el consumo y límite de energía actual
 
 [MOON1_TUTORIAL_PEASHOOTER_SLOT]
 Cada planta tiene un coste de energía lunar.
-¡Las plantas cósmicas no cuestan nada!
+¡Evita que la energía llegue a 0 o tus plantas atacarán más lento!
 
 [NARRATIVE_MOON1_TUTORIAL_4_1]
 {NPC_ENTER:astronautcrazydave}{EXCITED}¡Houston, tenemos un problema: zombis a la vista! ¡Hora de desplegar un ejército de plantas!
