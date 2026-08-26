@@ -1053,9 +1053,8 @@ El número de plantas evolucionadas con su efecto de Nutrientes aumenta
 Cámara de seguridad
 
 [COSMICPEA_NEW_SKILL_LEVEL1_DES]
-Evoluciona y dispara guisantes que desintegran zombis.
+Evoluciona y dispara guisantes que desintegran zombis. ^E2725B^Conjurar: se activa cada 30 s^oldclr^
 ^A048CF^Evolución: Lanzaguisantes → Repetidora → Guisantralladora^oldclr^
-^E2725B^Conjurar: se activa cada 30 s^oldclr^
 
 [COSMICPEA_NEW_SKILL_LEVEL2_DES]
 Reduce el intervalo para convocar guisantes a ^D22808^28 s^oldclr^
@@ -1174,13 +1173,13 @@ Seta cósmica
 {FLAVOR}Se encuentra lejos. Pero muuuuuy lejos.
 
 [COSMICMUSHROOM_DESCRIPTION_HEADER]
-Seta cósmica arroja esporas que desintegran a los zombis de la línea. También evoluciona con el tiempo, disparando ataques más fuertes.
+Seta cósmica dispara esporas que desintegran a los zombis de la línea. También evoluciona con el tiempo, disparando ataques más fuertes.
 
 [COSMICMUSHROOM_TOOLTIP]
-Evoluciona y arroja esporas que desintegran zombis
+Evoluciona y dispara esporas que desintegran zombis
 
 [COSMICMUSHROOM_PRODUCT_SHORT_DESC]
-Evoluciona y arroja esporas que desintegran zombis
+Evoluciona y dispara esporas que desintegran zombis
 
 [COSMICMUSHROOM_SKILL_LEVEL1]
 Nivel 2
@@ -1210,9 +1209,8 @@ El número de plantas evolucionadas con su efecto de Nutrientes aumenta
 Propulsor
 
 [COSMICMUSHROOM_NEW_SKILL_LEVEL1_DES]
-Evoluciona y arroja esporas que desintegran zombis.
+Evoluciona y dispara esporas que desintegran zombis. ^E2725B^Conjurar: se activa cada 30 s^oldclr^
 ^A048CF^Evolución: Seta desesporada → Seta miédica → Humoseta^oldclr^
-^E2725B^Conjurar: se activa cada 30 s^oldclr^
 
 [COSMICMUSHROOM_NEW_SKILL_LEVEL2_DES]
 Reduce el intervalo para convocar setas a ^D22808^28 s^oldclr^
@@ -1228,8 +1226,8 @@ Reduce el intervalo para convocar setas a ^D22808^25 s^oldclr^
 ^A048CF^Evolución al máximo: libera una ráfaga de esporas por la línea^oldclr^
 
 [COSMICMUSHROOM_NEW_SKILL_LEVEL5_DES]
-^D22808^20 % de probabilidad^oldclr^ de crear un agujero de gusano del cual salen setas.
-^A048CF^Setas: derriban y envenenan zombis, haciendo 100 DPS por 30 s. Desencadenan otros efectos especiales.^oldclr^
+^D22808^20 %^oldclr^ de crear un agujero de gusano del cual salen setas que atacan y derriban zombis.
+^A048CF^Daño del veneno: 100 DPS por 30 s^oldclr^
 ^D22808^Distancia de empuje: 4 casillas (1 en zombis grandes)^oldclr^
 
 [COSMICMUSHROOM_PLANTFOOD_DESCRIPTION]
@@ -1248,7 +1246,7 @@ Gravitárbol
 
 ^397F24^Nutrientes: {STAT}crea un campo gravitacional que atrae zombis hacia el centro y los entierra
 
-^FF8000^Características de la planta: {STAT}planta roja, galáctica, gravitacional
+^FF8000^Características de la planta: {STAT}planta roja, galáctica
 
 {FLAVOR}La manzana no cae lejos del árbol. Tampoco es que haga nada.
 
@@ -1547,7 +1545,6 @@ Zombistein supernova
 
 [ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION]
 {KEYWORD}Daño: {STAT}aplasta plantas con su cetro
-
 {KEYWORD}Especial: {STAT}cuando destruye una planta, destruye todas las copias de esa planta
 
 {FLAVOR}Tiene mucho temperamento. Cuando decide acabar con una planta... es brutal. Simplemente brutal.
@@ -26789,7 +26786,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.2 (actualizado el 26/8/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.3 (actualizado el 26/8/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -30817,7 +30814,7 @@ Empuja a ^D22808^3^oldclr^ zombis adicionales ^D22808^(ahora 8)^oldclr^
 
 ^397F24^Nutrientes: {STAT}empuja a 5 zombis aleatorios del patio, con la probabilidad de expulsarlos
 
-^FF8000^Características de la planta: {STAT}planta marrón, espacial, gravitacional
+^FF8000^Características de la planta: {STAT}planta marrón
 
 {FLAVOR}"Soy un poco diferente de mis primas", explica Levitadora. "La principal diferencia, a mi entender, es que no exploto al contacto, o no exploto nunca. ¡Me quedo siempre por aquí!".
 
@@ -46228,7 +46225,7 @@ Potencia los orbes del efecto, los cuales atraen zombis a ^D22808^1 casilla por 
 
 ^397F24^Nutrientes: {STAT}reinicia su tiempo de recuperación y lanza 4 orbes a objetivos aleatorios
 
-^FF8000^Características de la planta: {STAT}planta púrpura, flotante, amenazante, gravitacional
+^FF8000^Características de la planta: {STAT}planta púrpura, flotante, amenazante
 
 {FLAVOR}Debido a que era debil de pequeña, tuvo que aprender toda clase de hehicerías durante su niñez. Ahora que ha perfeccionado sus técnicas, puede controlar la gravedad a su antojo y usar ese poder contra los zombis.
 
@@ -51484,6 +51481,9 @@ Magia
 
 [PLANT_TAG_38]
 Espiritual
+
+[PLANT_TAG_39]
+Galáctica
 
 [PLANT_TEAM_FULL]
 El equipo de plantas está lleno
@@ -76785,7 +76785,7 @@ Tras usar Nutrientes, reaparecerá en su primera fase si explota siendo amarillo
 
 ^397F24^Nutrientes: {STAT}crece a tamaño máximo, explota y luego desaparece
 
-^FF8000^Características de la planta: {STAT}planta verde (amarilla y roja), espacial, destructora
+^FF8000^Características de la planta: {STAT}planta verde (amarilla y roja), destructora
 
 {FLAVOR}Tomate definitivo bosteza mientras energías inimaginables se concentran en su interior. No pasa nada. Puede esperar. Tiene todo el día.
 
