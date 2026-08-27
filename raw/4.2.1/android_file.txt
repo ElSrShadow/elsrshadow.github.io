@@ -780,7 +780,7 @@ Arrastra el recolector al suelo para desplegarlo
 {NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Mira esos cohetes! ¡Parece que alguien dejó el transporte espacial estacionado!
 
 [NARRATIVE_ROCKET_TUTORIAL_1_2]
-{SAY:winnie}No son solo transporte. Podemos ocuparlos con plantas cósmicas para lanzarlas contra los zombis.
+{SAY:winnie}No son solo transporte. Podemos ocuparlos con plantas cósmicas para lanzarlas contra los zombis más peligrosos.
 
 [NARRATIVE_ROCKET_TUTORIAL_1_3]
 {PLAYFUL:astronautcrazydave}¡Entonces pongamos nuestras plantas en órbita!
@@ -795,7 +795,7 @@ Coloca el Guisante cósmico dentro del cohete espacial
 {SAY:winnie}Pero cuidado: si un zombi entra primero, el cohete lo llevará a una casilla más cercana a nuestra retaguardia.
 
 [NARRATIVE_ROCKET_TUTORIAL_2_3]
-{SHOUT:astronautcrazydave}¡DESPEGUE!
+{SHOUT:astronautcrazydave}TRES... DOS... UNO... ¡DESPEGUE!
 
 [NARRATIVE_MOON_4_INTRO_1]
 {NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Ese zombi tiene un arma muy rara! ¿Qué hará con ella?
@@ -863,24 +863,6 @@ Coloca el Guisante cósmico dentro del cohete espacial
 [NARRATIVE_MOON_OUTRO_ASTRONAUT_GARG_6]
 {PLAYFUL:astronautcrazydave}¡Una nuez que puede desaparecer! ¡Eso sí que es una merienda difícil de atrapar!
 
-[NARRATIVE_MOON_INTRO_SUPERNOVA_GARG_1]
-{NPC_ENTER:zombossicon}{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{EXCITED:zombossicon}¡¿Creían que el Zombistein astronauta era lo peor que podía traer a la Luna?!
-
-[NARRATIVE_MOON_INTRO_SUPERNOVA_GARG_2]
-{SAY:zombossicon}¡Conozcan al Zombistein supernova! ¡Su cetro puede convertir una planta en polvo cósmico!
-
-[NARRATIVE_MOON_INTRO_SUPERNOVA_GARG_3]
-{SAY:winnie}¿Y qué lo hace diferente de los demás Zombistein?
-
-[NARRATIVE_MOON_INTRO_SUPERNOVA_GARG_4]
-{PLAYFUL:zombossicon}¡Oh, mi querida Penny! Eso tendrán que descubrirlo ustedes mismos.
-
-[NARRATIVE_MOON_INTRO_SUPERNOVA_GARG_5]
-{EXCITED:astronautcrazydave}¡Genial! ¡Me encantan las sorpresas!
-
-[NARRATIVE_MOON_INTRO_SUPERNOVA_GARG_6]
-{TIRED:winnie}Eso no suena bien...
-
 [NARRATIVE_METEOR_TUTORIAL_1_1]
 {NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}¡Usuario Dave, tenemos un problema! ¡Se aproximan meteoritos radiactivos!
 
@@ -907,6 +889,24 @@ Instala el recolector para iniciar la extracción del meteoro
 
 [NARRATIVE_METEOR_TUTORIAL_3_2]
 {SAY:astronautcrazydave}¡Ja! ¡Esa piedra intentó aplastarnos y terminó dándonos más energía!
+
+[NARRATIVE_METEOR_TUTORIAL_3_3]
+{NPC_ENTER:zombossicon}{EXCITED:zombossicon}¡¿Creían que el Zombistein astronauta era lo peor que podía traer a la Luna?!
+
+[NARRATIVE_METEOR_TUTORIAL_3_4]
+{SAY:zombossicon}¡Conozcan al Zombistein supernova! ¡Su cetro puede convertir una planta en polvo cósmico!
+
+[NARRATIVE_METEOR_TUTORIAL_3_5]
+{SAY:winnie}¿Y qué lo hace diferente de los demás Zombistein?
+
+[NARRATIVE_METEOR_TUTORIAL_3_6]
+{PLAYFUL:zombossicon}¡Oh, mi querida Penny! Eso tendrán que descubrirlo ustedes mismos.
+
+[NARRATIVE_METEOR_TUTORIAL_3_7]
+{EXCITED:astronautcrazydave}¡Genial! ¡Me encantan las sorpresas!
+
+[NARRATIVE_METEOR_TUTORIAL_3_8]
+{TIRED:winnie}Eso no suena bien...
 
 [NARRATIVE_MOON_OUTRO_METEOR_1]
 {NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}He reclutado a una nueva aliada: Seta cósmica.
@@ -948,7 +948,7 @@ Instala el recolector para iniciar la extracción del meteoro
 {SAY:zombossicon}¡Disfruten de su victoria, porque será la última que celebren con tanta tranquilidad!
 
 [NARRATIVE_MOON12_INTRO_6]
-{EXCITED:astronautcrazydave}¡Pues habrá que celebrar rápido! ¡Tenemos plantas que cuidar!
+{NPC_EXIT:zombossicon}{EXCITED:astronautcrazydave}¡Pues habrá que celebrar rápido! ¡Tenemos plantas que cuidar!
 
 [NARRATIVE_MOON12_OUTRO_1]
 {NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}Lo conseguimos. La base lunar sigue en pie después de todo lo que nos lanzó Zomboss.
@@ -1021,9 +1021,9 @@ Sin efectos
 Guisante cósmico
 
 [COSMICPEA_DESCRIPTION]
-{KEYWORD}Conjurar: {STAT}genera semillas de guisantes cuando está en el patio
+{KEYWORD}Conjurar: {STAT}genera semillas de guisantes cuando está en suelo lunar
 
-{KEYWORD}Evolución: {STAT}cambia de forma conforme más ataque. Cuando reúne 5 marcas, libera una explosión que hace mucho daño
+{KEYWORD}Marca estelar: {STAT}marca zombis con cada ataque. Cuando un zombi reúne 5 marcas, se libera una explosión que hace mucho daño
 
 ^397F24^Nutrientes: {STAT}evoluciona junto a tres plantas cósmicas alrededor. Si ya está evolucionado al máximo, libera una ráfaga de guisantes en 3 líneas
 
@@ -1056,7 +1056,7 @@ Nivel 3
 Nivel 5
 
 [COSMICPEA_SKILL_LEVEL5_DES]
-^DB8117^Devastación planetaria:^oldclr^ probabilidad de disparar un cuerpo celeste que arrastra zombis y explota al llegar al centro del patio
+^DB8117^Cuerpo celeste:^oldclr^ probabilidad de disparar un cuerpo celeste que explota y hace daño de área
 
 [COSMICPEA_AVATAR_NAME]
 Cámara de seguridad
@@ -1100,7 +1100,7 @@ Plantas evolucionadas con Nutrientes ^D22808^+2 (ahora 5)^oldclr^
 Nuez cósmica
 
 [COSMICNUT_DESCRIPTION]
-{KEYWORD}Conjurar: {STAT}genera semillas de nuez cuando está en el patio
+{KEYWORD}Conjurar: {STAT}genera semillas de nuez cuando está en suelo lunar
 
 {KEYWORD}Teletransporte: {STAT}toca en ella y en un lugar del patio para hacer un teletransporte. Esta habilidad se recarga con el tiempo
 
@@ -1177,9 +1177,9 @@ Plantas evolucionadas con Nutrientes ^D22808^+2 (ahora 5)^oldclr^
 Seta cósmica
 
 [COSMICMUSHROOM_DESCRIPTION]
-{KEYWORD}Conjurar: {STAT}genera semillas de setas cuando está en el patio
+{KEYWORD}Conjurar: {STAT}genera semillas de setas cuando está en suelo lunar
 
-{KEYWORD}Evolución: {STAT}cambia de forma conforme más ataque. Cuando reúne 5 marcas, libera una explosión que hace mucho daño
+{KEYWORD}Marca estelar: {STAT}marca zombis con cada ataque. Cuando un zombi reúne 5 marcas, se libera una explosión que hace mucho daño
 
 ^397F24^Nutrientes: {STAT}evoluciona junto a tres plantas cósmicas alrededor. Si ya está evolucionada al máximo, libera una ráfaga de esporas por la línea
 
@@ -1409,7 +1409,7 @@ Flamboyán
 [PHOENIXFLOAT_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}ataque (línea) - banda musical (área 3x3)
 
-^397F24^Nutrientes: {STAT}invoca carrozas que causan daño por segundo y ralentizan zombis
+^397F24^Nutrientes: {STAT}invoca una carroza voladora que causa daño por segundo y ralentiza zombis
 
 ^FF8000^Características de la planta: {STAT}planta roja, hábil
 ^FF8000^Miscelánea: {STAT}planta especial del 13° Aniversario
@@ -1464,13 +1464,13 @@ Reduce el tiempo para liberar carrozas en un ^D22808^70 %^oldclr^
 
 [PHOENIXFLOAT_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^30 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: invoca carrozas que causan daño por segundo y ralentizan zombis un ^D22808^50% por 5 s^oldclr^
+^DB8117^Nutrientes: invoca una carroza voladora que causan daño por segundo y ralentizan zombis un ^D22808^50% por 5 s^oldclr^
 
 [PHOENIXFLOAT_NEW_SKILL_LEVEL5_DES]
 ^D22808^30 % de probabilidad^oldclr^ de liberar una carroza llena de pétalos que potencia plantas y controla zombis durante ^D22808^5 s^oldclr^
 
 [PHOENIXFLOAT_PLANTFOOD_DESCRIPTION]
-Invoca una carroza llena de pétalos que causan daño por segundo y ralentizan zombis
+Invoca una carroza voladora que causa daño por segundo y ralentiza zombis
 
 [PHOENIXFLOAT_AVATAR_PLANTFOOD_DESCRIPTION]
 La duración del efecto de Nutrientes aumenta a ^D22808^9 s^oldclr^
@@ -1596,6 +1596,9 @@ Crucero de batalla Zombot 5000
 [ZOMBIE_MOON_SHIP5000_DESCRIPTION_HEADER]
 Un crucero espacial que protege a los zombis y despliega refuerzos cósmicos.
 
+[UPGRADE_MOWER_18_INFO]
+¡Activa las Cortadoras de césped de la Base Lunar Z y defiéndete de las oleadas de zombis espaciales!
+
 [DATA_COLLECTION_TERMINAL]
 Terminal lunar
 
@@ -1618,7 +1621,7 @@ Cosmoss solo puede plantarse junto a otro Cosmoss
 Solo las plantas cósmicas pueden usar cohetes espaciales
 
 [LIFE_SUPPORT_COLLAPSE_SOON]
-SOPORTE VITAL COLAPSADO: las plantas entrarán en letargo tras 5 s
+SOPORTE VITAL COLAPSADO: las plantas entrarán en letargo por 5 s
 
 [ADVICE_RADIATION_METEOR]
 ¡Lluvia de meteoros!
@@ -9605,8 +9608,6 @@ Cuesta ^D22808^25^oldclr^ soles menos
 {KEYWORD}Uso: {STAT}único e instantáneo
 {KEYWORD}Especial: {STAT}despeja la niebla y el vapor durante un tiempo
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta verde, hábil
 
 {FLAVOR}Trebolador es el trébol más arriesgado y afortunado, y hace poco recibió el premio al Doble de acción. Puedes ver su trabajo en "Reservoir Flor", "Planta letal" y "Buscando a Trébol". También da clases de acrobacias los martes en el centro cívico.
@@ -11099,8 +11100,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 [BRAMBLE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}desaparece al ser pisado
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta verde, defensa
 
 {FLAVOR}Arbusto espinoso solo se enfoca en una sola cosa en su vida: contrarrestar el pie del Brontosaurio.
@@ -11359,8 +11358,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 
 [BUDUHBOOM_DESCRIPTION]
 {KEYWORD}Especial: {STAT}su manteca evita que los zombis limo se dividan
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta verde, explosiva
 
@@ -13189,8 +13186,6 @@ Tiene la probabilidad de infectar a los zombis derrotados, haciendo que den ^D22
 [CHERRY_BOMB_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta roja, hermanos, explosiva
 
 {FLAVOR}Formar una banda es el sueño de Petacereza. "Realmente queremos saber el ritmo de cada tipo de explosión. ¡Subvertimos la música, encendemos a los fanáticos, el escenario sensacional y, por supuesto, destruimos zombis! ¡Oye, no te olvides de comprar el disco del próximo año!
@@ -14096,8 +14091,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 [COFFEEBEAN_DESCRIPTION]
 {KEYWORD}Uso:{STAT}único e instantáneo
 {KEYWORD}Especial: {STAT}potencia a las plantas cercanas durante unos segundos
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta marrón, hábil
 
@@ -19361,8 +19354,6 @@ Los zombis atraídos ya no serán devueltos a sus posiciones anteriores
 {KEYWORD}Uso: {STAT}único, los zombis atraídos regresan a sus posiciones
 {KEYWORD}Especial: {STAT}crea un vórtice que derriba a los zombis en el cielo
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta amarilla, flotante, familia de tornados
 
 {FLAVOR}Níspero ciclónico sueña con convertirse en bailarina de ballet, y tiene un truco: puede rotar muchas rondas en su lugar. "Creo que podré convertirme en la mejor bailarina del mundo, pero nadie quiere contratarme, ¡no entiendo por qué!", dice con frustración, mientras se traga un gran bocado de helado.
@@ -20634,7 +20625,7 @@ Lanzaguisantes eléctrico dispara orbes con forma de guisante que atraviesan zom
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL1_DES]
 Dispara orbes eléctricos que atraviesan zombis.
-^00FA9A^Corriente: hace 20 DPS/0.5 s a 2 zombis adyacentes^oldclr^
+^00AAE4^Corriente: hace 20 DPS/0.5 s a 2 zombis adyacentes^oldclr^
 
 [ELECTRICPEASHOOTER_NEW_SKILL_LEVEL2_DES]
 ^D22808^20 % de probabilidad^oldclr^ de disparar un orbe mediano que ^FF9600^paraliza^oldclr^ zombis por 1 s. ^D22808^Daño: 300^oldclr^
@@ -21043,8 +21034,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 [EMPEA_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
 {KEYWORD}Especial: {STAT}inutiliza máquinas
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta naranja, de baja estatura, hábil
 
@@ -21585,7 +21574,7 @@ Cada 3 s, dispara talismánes que dañan zombis y espíritus.
 ^D22808^30% de probabilidad^oldclr^ de encoger zombis durante 3 s, haciéndolos un 20% más vulnerables al daño.
 
 [EXORCISLILY_NEW_SKILL_LEVEL4_DES]
-^D22808^20% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
+Despertar: ^D22808^20 % de probabilidad^oldclr^ de activar Nutrientes al plantarse..
 ^DB8117^Nutrientes: lanza talismánes de trueno a 5 zombis aleatorios que los aturden por 3 s. ^D22808^Daño: 300^oldclr^
 
 [EXORCISLILY_NEW_SKILL_LEVEL5_DES]
@@ -25357,8 +25346,6 @@ Cuentas
 [GLOOMBARA_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta verde, espiritual, hábil
 
 {FLAVOR}Se dice que la Udumbara no florece para ser vista, sino para ser encontrada por quienes caminan demasiado cerca del otro lado.
@@ -25367,8 +25354,8 @@ Cuentas
 Udumbara abre las puertas del reino espiritual, potenciando plantas de su tipo y atando espíritus malignos con cadenas.
 
 [GLOOMBARA_NEW_SKILL_LEVEL1_DES]
-^E2725B^Reino espiritual: potencia a las plantas de su tipo durante 20 s
-^00FA9A^Cadenas espirituales: atan espíritus malignos por 7 s, impidiendo que ataquen^oldclr^
+Abre las puertas del ^E2725B^Reino espiritual^oldclr^, potenciando plantas de su tipo durante 20 s
+^00AAE4^Cadenas espirituales: atan espíritus malignos por 7 s, impidiendo que ataquen^oldclr^
 
 [GLOOMBARA_NEW_SKILL_LEVEL2_DES]
 Aumenta la duración de las cadenas espirituales en ^D22808^1.5 s (ahora 8.5 s)^oldclr^
@@ -25475,8 +25462,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 [GOLDBLOOM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta verde, productora de soles
 
 {FLAVOR}"Tus botánicos estaban tan preocupados con si podían hacerlo", declara Florecimiento dorado, sin dirigirse a nada ni nadie en particular, "pero no se pararon a pensar si debían hacerlo".
@@ -25579,8 +25564,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 
 [GOLDLEAF_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta amarilla, hábil
 
@@ -25730,8 +25713,6 @@ Deja un charco de mermelada que ralentiza a los zombis que lo pisen. ^D22808^Dur
 [GRAPESHOT_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta púrpura, explosiva, hermanos
 
 {FLAVOR}"¡BUM!", grita Uva de racimo entusiasmada. "¿Te gusta? ¡Pues tengo un millón! ¡PUM! ¡PAM! CA... eh... Pim... mmm... Bueno, vale, creo que solo tengo tres".
@@ -25791,8 +25772,6 @@ Da ^D22808^50^oldclr^ soles tras consumir una lápida por completo
 [GRAVEBUSTER_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único, tiene que plantarse en lápidas
 {KEYWORD}Especial: {STAT}quita lápidas
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta verde, con dientes
 
@@ -26800,7 +26779,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.3 (actualizado el 26/8/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.4 (actualizado el 27/8/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -26811,8 +26790,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 
 [HEATHSEEKER_DESCRIPTION]
 {KEYWORD}Especial: {STAT}puede apuntar desde cualquier punto del patio
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta púrpura, destructora
 
@@ -27715,8 +27692,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 [HOTPOTATO_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta marrón
 
 {FLAVOR}¿Cómo consigue Papa caliente mantenerse positiva y equilibrada en todo momento? Con yoga. No se pierde ni una clase. Además, medita a menudo. Es la única forma que tiene de manejar el trabajo duro de pelear contra los zombis, día sí y día también, sin terminar fundida.
@@ -27833,8 +27808,6 @@ Cuesta ^D22808^25^oldclr^ soles menos
 {KEYWORD}Uso: {STAT}único e instantáneo
 
 {KEYWORD}Especial: {STAT}su soplido expulsa a todos los zombis voladores de la línea. También despeja la niebla y el vapor
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta verde
 
@@ -28770,8 +28743,6 @@ Cuesta ^D22808^25^oldclr^ soles menos
 [INTENSIVECARROT_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta anaranjada, hábil
 
 {FLAVOR}"¿Que cómo revivo a las plantas?" dice Zanahoria intensiva. "En una palabra: vitaminas. Vitaminas y brujería".
@@ -28899,8 +28870,6 @@ Se recarga un ^D22808^10 %^oldclr^ más rápido
 [JACKFRUIT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}deja semillas al golpear un zombi
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta verde
 
 {FLAVOR}Como gran fanático de Bollywood, Jaca ama la música india, y continúa avanzando mientras canta: "drum-drom-da-di-drum-drum-da".
@@ -29027,8 +28996,6 @@ Se recarga un ^D22808^20 % más rápido
 
 [JALAPENO_DESCRIPTION]
 {KEYWORD}Uso:{STAT}único e instantáneo
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta roja, temperamental, explosiva
 
@@ -46079,8 +46046,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 {KEYWORD}Uso: {STAT}único e instantáneo
 {KEYWORD}Especial: {STAT}el aceite puede prenderse en llamas con ciertas plantas, infligiendo daño por un tiempo
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta verde
 
 {FLAVOR}Oliva de aceite nació en el lejano Mediterráneo y ha venido a estas tierras misteriosas para estudiar técnicas culinarias. Por el momento solo sabe verter aceite en la sartén, sin dudas, tiene mucho que aprender.
@@ -48881,8 +48846,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 [PERFUMESHROOM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}afecta a todos los dinosaurios de una línea
 {KEYWORD}Especial: {STAT}hace que los zombis caminen hacia el lado opuesto del patio
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta púrpura, llena de amor, familia de setas
 
@@ -52602,8 +52565,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 {KEYWORD}Uso: {STAT}único e instantáneo
 {KEYWORD}Especial: {STAT}crea una unidad de Nutrientes
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta blanca
 
 {FLAVOR}Desde que era una semilla hasta su desarrollo completo, las experiencias de Lirio poderoso como entrenador personal le enseñaron la mejor forma de apoyar y animar a todas las plantas del mundo.
@@ -52632,8 +52593,6 @@ Cambia la apariencia de las casillas potenciadoras generadas al plantarse
 
 [POWERPLANT_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta púrpura, hábil
 
@@ -65949,8 +65908,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 {KEYWORD}Especial: {STAT}sus toxinas controlan a los peces grandes y cachalotes
 {KEYWORD}Especial: {STAT}los zombis afectados por la nube caminan en dirección contraria
 
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
-
 ^FF8000^Características de la planta: {STAT}planta púrpura, marina
 
 {FLAVOR}Barbasco de mar asegura que su nube púrpura es "aromaterapia relajante". Curiosamente, zombis y peces siempre salen huyendo en cuanto la ven.
@@ -72458,7 +72415,7 @@ Los zombis son aturdidos por ^D22808^2 s^oldclr^ adicionales ^D22808^(14 s en to
 Los zombis son aturdidos por ^D22808^4 s^oldclr^ adicionales ^D22808^(16 s en total)^oldclr^
 
 [STUNION_NEW_SKILL_LEVEL4_DES]
-^D22808^20% de probabilidad^oldclr^ de ser potenciada por el efecto de Nutrientes al plantarse.
+Despertar: ^D22808^20 % de probabilidad^oldclr^ de activar Nutrientes al plantarse..
 ^DB8117^Nutrientes: aturde a los zombis de un área 3x4 delante durante ^D22808^18 s^oldclr^
 
 [STUNION_NEW_SKILL_LEVEL5_DES]
@@ -74933,8 +74890,6 @@ Se recarga un ^D22808^20 %^oldclr^ más rápido
 [THYMEWARP_DESCRIPTION]
 {KEYWORD}Uso: {STAT}único e instantáneo
 {KEYWORD}Especial: {STAT}los zombis rebobinados recuperan su salud
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta verde
 
@@ -77421,8 +77376,6 @@ Cuesta ^D22808^15^oldclr^ soles menos
 
 [UNCHARTED_HAYSTACK_DESCRIPTION]
 {KEYWORD}Especial: {STAT}permite plantar en trincheras
-
-^397F24^Nutrientes: {STAT}sin efecto de Nutrientes
 
 ^FF8000^Características de la planta: {STAT}planta verde, de baja estatura
 
