@@ -1,6 +1,76 @@
 ﻿[#OF#]
 # de #
 
+[LOW_DISK_SPACE_WARNING]
+Poco espacio de almacenamiento disponible. ¡Limpia tu dispositivo!
+
+[LUA_UPDATE_TIP]
+Actualización automática
+
+[LUA_UPDATE_CONTENT]
+Se detectó una nueva actualización. ¿Deseas descargarla ahora?
+Tamaño del archivo: {NUMBER} MBS
+
+[LUA_UPDATE_OK]
+ACTUALIZAR
+
+[LUA_UPDATE_CANCEL]
+CANCELAR
+
+[LUA_UPDATE_DOWNLOADING]
+Descargando... {NUMBER}%
+
+[LUA_UPDATE_FAIL]
+Error de actualización, inténtalo de nuevo más tarde.
+
+[LUA_UPDATE_SUCCEED]
+¡Se han actualizado los datos!
+
+[UPDATE_REQUIRED_BODY]
+Actualización necesaria. Toca en 'ACEPTAR' para descargarla ahora.
+
+[UPDATE_DOWNLOAD_PROGRESS]
+Descargado: {DOWNLOAD_PCT}%
+
+[UPDATE_PATCHING_PROGRESS]
+Aplicando parche: {DOWNLOAD_PCT}%
+
+[UPDATE_DOWNLOADED_BODY]
+Actualización descargada con éxito. Toca en 'ACEPTAR' para aplicar los cambios.
+
+[UPDATE_FIRST_TIME_USER_DOWNLOADED_BODY_FORCED]
+Se descargaron los datos del juego. Toca en 'ACEPTAR' para continuar.
+
+[UPDATE_RESTART_BODY]
+Actualización descargada con éxito. Toca en 'ACEPTAR' para cerrar el juego y aplicar los cambios.
+
+[SYNCING]
+Sincronización de archivos
+
+[SYNCING_FAILED_TITLE]
+Error en la sincronización
+
+[SYNCING_FAILED_TEXT]
+Toca en 'ACEPTAR' para intentarlo de nuevo. Asegúrate de que la conexión a Internet sea estable.
+
+[SYNCING_WAITING_TITLE]
+Sincronización en espera
+
+[SYNCING_WAITING_TEXT]
+Espera a que se sincronicen los archivos antes de jugar.
+
+[RANK_INFO]
+Tabla de puntajes
+
+[POWERUP_PINCH]
+Pellizco poderoso
+
+[POWERUP_FLICK]
+Tiro poderoso
+
+[POWERUP_WIZARDFINGER]
+Chispazo poderoso
+
 [rank_avatar_diy_71]
 Luna llena
 
@@ -20,10 +90,10 @@ Pellizca tus dedos en un zombi
 ¡Prueba a pellizcarlos!
 
 [TUTORIAL_SKIP_PINCH_TITLE]
-OMITIR TUTORIAL: Pellizco poderoso
+OMITIR TUTORIAL
 
 [TUTORIAL_SKIP_PINCH_DESC]
-¿Seguro que deseas omitir el tutorial?
+¿Seguro que deseas omitir el tutorial de Pellizco poderoso?
 
 [ADVICE_USE_FLICK]
 Desliza el dedo sobre un zombi
@@ -35,10 +105,10 @@ Desliza el zombi en la dirección que quieres que se mueva
 ¡Prueba a lanzarlos!
 
 [TUTORIAL_SKIP_FLICK_TITLE]
-OMITIR TUTORIAL: Tiro poderoso
+OMITIR TUTORIAL
 
 [TUTORIAL_SKIP_FLICK_DESC]
-¿Seguro que deseas omitir el tutorial?
+¿Seguro que deseas omitir el tutorial de Tiro poderoso?
 
 [ADVICE_USE_WIZARDFINGER]
 Mantén el dedo pulsado cerca del objetivo
@@ -50,10 +120,10 @@ TUTORIAL_WIZARDFINGER_HELP]
 ¡Prueba a electrocutarlos!
 
 [TUTORIAL_SKIP_WIZARD_TITLE]
-OMITIR TUTORIAL: Chispazo poderoso
+OMITIR TUTORIAL
 
 [TUTORIAL_SKIP_WIZARD_DESC]
-¿Seguro que deseas omitir el tutorial? 
+¿Seguro que deseas omitir el tutorial de Chispazo poderoso? 
 
 [TUTORIAL_SKIP_BUTTON]
 OMITIR
@@ -4666,14 +4736,15 @@ Doy mi consentimiento para que los datos personales que se recopilen a través d
 Dinos tu edad.
 
 [AGE_TIP]
-Notas de la actualización 4.2.1
+Notas de la actualización 4.2.2
 
 [AGE_TIP_CONTENT]
 1. Nuevo mundo: Base Lunar Z
 2. Nuevas plantas del mundo lunar y Flamboyán (evento)
 3. Nuevos zombis del mundo lunar
 4. Nuevo evento: Gala de aniversario (¡Feliz 13° aniversario!)
-5. Optimización y correción de errores
+5. Nuevo sistema de actualización in-app (Hot Update)
+6. Optimización y correción de errores
 
 [AIRSHIP_CRASH_LOSS]
 ¡TU NAVE FUE DESTRUIDA!
@@ -26779,7 +26850,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.1^oldclr^ | ^87CEFA^Parche: 1.0.4 (actualizado el 27/8/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.2^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 1/9/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -31567,34 +31638,6 @@ Contaminar
 
 [LOTZ_LUCKYCHARM_1G]
 Talisman
-
-[LOW_DISK_SPACE_WARNING]
-La capacidad de almacenamiento en tu dispositivo es demasiado baja.
-El progreso no se podrá guardar correctamente, ¡limpia tu dispositivo!
-
-[LUA_UPDATE_CANCEL]
-CANCELAR
-
-[LUA_UPDATE_CONTENT]
-Actualización de datos detectada, tamaño del archivo: {NUMBER} MBS
-¿Actualizar ahora?
-
-[LUA_UPDATE_DOWNLOADING]
-Descargando...
-{NUMBER}%
-
-[LUA_UPDATE_FAIL]
-¡Error de actualización!
-Inténtalo de nuevo más tarde.
-
-[LUA_UPDATE_OK]
-ACTUALIZAR
-
-[LUA_UPDATE_SUCCEED]
-¡Se han actualizado los datos!
-
-[LUA_UPDATE_TIP]
-Actualiza el juego para conseguir nuevos contenidos.
 
 [LUCKBAG_ANNOUNCEMENT_CONTENT]
 Selecciona 6 plantas y gasta 元 para abrir la bolsa, recibirás al azar una planta legendaria y otra épica.
@@ -41371,7 +41414,7 @@ Error de sincronización de Dueloz.
 Asegúrate de que estés conectado a una conexión a Internet estable.
 
 [NETWORK_PROFILE_SYNC_FAILED_TITLE]
-Error en la sincronización del archivo
+Error en la sincronización del progreso
 
 [NET_CONNECTING]
 Conectando al servidor...
@@ -73751,21 +73794,6 @@ El Colgante ya está en uso por {PLANT_NAME_1}, ¿deseas quitarle el Colgante y 
 [SWITCH_CONFIRM_TITLE]
 Cambiar Colgante
 
-[SYNCING]
-Sincronización de archivos
-
-[SYNCING_FAILED_TEXT]
-Debes de sincronizar tus archivos correctamente para poder acceder al juego, asegúrate de que la conexión a Internet sea estable y toca en Aceptar para intentarlo de nuevo.
-
-[SYNCING_FAILED_TITLE]
-Error en la sincronización de archivos
-
-[SYNCING_WAITING_TEXT]
-Espera a que se sincronicen los archivos correctamente y asegúrate de que la conexión a Internet sea estable.
-
-[SYNCING_WAITING_TITLE]
-Sincronización de archivos en espera
-
 [TACTICAL_CUKE]
 Pepino táctico
 
@@ -76336,7 +76364,7 @@ Nivel 3
 Nivel 5
 
 [TURKEYPULT_SKILL_LEVEL5_DES]
-^DB8117^Pavo gigante:^oldclr^ gana la probabilidad de lanzar un pavo más grande que aturde zombis al impactar.
+^DB8117^Pavozilla:^oldclr^ gana la probabilidad de lanzar un pavo más grande que aturde zombis al impactar.
 
 [TURKEYPULT_TOOLTIP]
 Lanza pavos de tofu por la línea
@@ -76908,7 +76936,7 @@ Récord de Estrellas
 MISIONES
 
 [UNCHARTED_ANNIVERSARY_2025_TASK_TITLE]
-Misiones de este nivel
+MISIONES DE ESTE NIVEL
 
 [UNCHARTED_ANNIVERSARY_2025_TIPS_DESC]
 1. Las opciones de dificultad de la izquierda están marcadas por defecto.
@@ -76917,10 +76945,10 @@ Misiones de este nivel
 4. El Récord de estrellas registra el mayor número de estrellas alcanzado en el nivel actual.
 
 [UNCHARTED_ANNIVERSARY_2025_TIPS_TITLE]
-Sobre los Objetivos opcionales
+SOBRE LOS OBJETIVOS OPCIONALES
 
 [UNCHARTED_ANNIVERSARY_2025_TOTAL_STAR_TITLE]
-Estrellas reunidas
+Bonus de estrellas
 
 [UNCHARTED_ANNIVERSARY_CHALLENGE_TITLE]
 Objetivos opcionales
@@ -76951,7 +76979,7 @@ Récord de Estrellas
 MISIONES
 
 [UNCHARTED_ANNIVERSARY_TASK_TITLE]
-Misiones de este nivel
+MISIONES DE ESTE NIVEL
 
 [UNCHARTED_ANNIVERSARY_TIPS_DESC]
 1. Las opciones de dificultad de la izquierda están marcadas por defecto.
@@ -76960,10 +76988,10 @@ Misiones de este nivel
 4. El Récord de estrellas registra el mayor número de estrellas alcanzado en el nivel actual.
 
 [UNCHARTED_ANNIVERSARY_TIPS_TITLE]
-Sobre los Objetivos opcionales
+SOBRE LOS OBJETIVOS OPCIONALES
 
 [UNCHARTED_ANNIVERSARY_TOTAL_STAR_TITLE]
-Estrellas reunidas
+Bonus de estrellas
 
 [UNCHARTED_ARBORDAY_KEY_INFO_TEXT_1]
 1. Disponibilidad
