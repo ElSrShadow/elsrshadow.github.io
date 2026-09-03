@@ -375,7 +375,7 @@ Regalos flash
 La velocidad del Zombi regalo exprés aumenta en un 50%
 
 [ANNIVERSARY_2026_TASK_NAME_1_1]
-Completa estos 3 objetivos: Magia exorbitante, Protejan al faraón y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Protejan al faraón y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_1_2]
 Alcanza 2 estrellas como récord histórico.
@@ -390,7 +390,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_2_1]
-Completa estos 3 objetivos: Magia exorbitante, Gaviota exprés y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Gaviota exprés y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_2_2]
 Alcanza 2 estrellas como récord histórico.
@@ -405,7 +405,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_3_1]
-Completa estos 3 objetivos: Magia exorbitante, Vaquero aztuto y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Vaquero aztuto y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_3_2]
 Alcanza 2 estrellas como récord histórico.
@@ -420,7 +420,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_4_1]
-Completa estos 3 objetivos: Magia exorbitante, Han Bronze y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Han Bronze y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_4_2]
 Alcanza 2 estrellas como récord histórico.
@@ -435,7 +435,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_5_1]
-Completa estos 3 objetivos: Magia exorbitante, Robocono 2.0 y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Robocono 2.0 y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -450,7 +450,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_6_1]
-Completa estos 3 objetivos: Magia exorbitante, Archimago y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Archimago y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_6_2]
 Alcanza 2 estrellas como récord histórico.
@@ -465,7 +465,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_7_1]
-Completa estos 3 objetivos: Magia exorbitante, Pulpo feroz y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Pulpo feroz y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_7_2]
 Alcanza 2 estrellas como récord histórico.
@@ -480,7 +480,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_8_1]
-Completa estos 3 objetivos: Magia exorbitante, Tribu protegida y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Tribu protegida y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_8_2]
 Alcanza 2 estrellas como récord histórico.
@@ -495,7 +495,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_9_1]
-Completa estos 3 objetivos: Magia exorbitante, Doble problema y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Doble problema y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_9_2]
 Alcanza 2 estrellas como récord histórico.
@@ -510,7 +510,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_10_1]
-Completa estos 3 objetivos: Magia exorbitante, Acampadas rápidas y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Acampadas rápidas y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
@@ -525,7 +525,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_11_1]
-Completa estos 3 objetivos: Magia exorbitante, Arcade retro y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Arcade retro y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_11_2]
 Alcanza 2 estrellas como récord histórico.
@@ -540,7 +540,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_12_1]
-Completa estos 3 objetivos: Magia exorbitante, Raptor veloz y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Raptor veloz y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_12_2]
 Alcanza 2 estrellas como récord histórico.
@@ -555,7 +555,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_13_1]
-Completa estos 3 objetivos: Magia exorbitante, All-Star implacable y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, All-Star implacable y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_13_2]
 Alcanza 2 estrellas como récord histórico.
@@ -570,7 +570,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_14_1]
-Completa estos 3 objetivos: Magia exorbitante, Casco de seguridad y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Casco de seguridad y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_14_2]
 Alcanza 2 estrellas como récord histórico.
@@ -585,7 +585,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_15_1]
-Completa estos 3 objetivos: Magia exorbitante, Aladelta veloz y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Aladelta veloz y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_15_2]
 Alcanza 2 estrellas como récord histórico.
@@ -600,7 +600,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_16_1]
-Completa estos 3 objetivos: Magia exorbitante, Fuerzas protectoras y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Fuerzas protectoras y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_16_2]
 Alcanza 2 estrellas como récord histórico.
@@ -615,7 +615,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_17_1]
-Completa estos 3 objetivos: Magia exorbitante, Sacerdocio ancestral y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Sacerdocio ancestral y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_17_2]
 Alcanza 2 estrellas como récord histórico.
@@ -630,7 +630,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_18_1]
-Completa estos 3 objetivos: Magia exorbitante, Bruja terrorífica y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Bruja terrorífica y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_18_2]
 Alcanza 2 estrellas como récord histórico.
@@ -645,7 +645,7 @@ Alcanza 4 estrellas como récord histórico.
 Alcanza 4 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_19_1]
-Completa estos 3 objetivos: Magia exorbitante, Jinete de ultratumba y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Jinete de ultratumba y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_19_2]
 Alcanza 2 estrellas como récord histórico.
@@ -660,7 +660,7 @@ Alcanza 4 estrellas como récord histórico.
 Alcanza 4 estrellas como récord histórico.
 
 [ANNIVERSARY_2026_TASK_NAME_20_1]
-Completa estos 3 objetivos: Magia exorbitante, Regalos flash y Zombis fugaces III
+Completa estos 3 objetivos: Costes exorbitantes, Regalos flash y Zombis fugaces III
 
 [ANNIVERSARY_2026_TASK_NAME_20_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5377,7 +5377,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_10_1]
-Completa estos 3 objetivos: Sol tardío, Sin sorpresas II y Calavera maldita
+Completa estos 3 objetivos: Sol tardío, Especialistas prohibidos II y Calavera maldita
 
 [ANNIVERSARY_2025_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5437,7 +5437,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_14_1]
-Completa estos 3 objetivos: Zombis fugaces, Sorpresa inesperada y Fiesta elegante
+Completa estos 3 objetivos: Zombis fugaces, Recarga agotadora y Fiesta elegante
 
 [ANNIVERSARY_2025_TASK_NAME_14_2]
 Alcanza 2 estrellas como récord histórico.
@@ -5452,7 +5452,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [ANNIVERSARY_2025_TASK_NAME_15_1]
-Completa estos 3 objetivos: Zombis impasibles, Sorpresa inesperada y Ballet sofisticado
+Completa estos 3 objetivos: Zombis impasibles, Recarga agotadora y Ballet sofisticado
 
 [ANNIVERSARY_2025_TASK_NAME_15_2]
 Alcanza 2 estrellas como récord histórico.
@@ -23034,7 +23034,7 @@ Plantas comunes
 Plantas especiales
 
 [GACHA_INTRO_3_FREE_GOT]
-¡Obtuviste 10 Cofres gratis!
+10 gratis
 
 [GACHA_ITEM_AVATAR_DES]
 Recibes ^DB8117^{NUMBER} Monedas^oldclr^ al abrirlo.
@@ -26850,7 +26850,7 @@ Curación
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.2^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 1/9/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.3^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 3/9/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
@@ -40790,7 +40790,7 @@ Abramos estos Cofres, tal vez haya plantas que puedan ayudarnos.
 {SAY}Puedes dirigirte a la sección "Fábrica de piezas" y crear unas cuantas, ¡inténtalo!
 
 [NARRATIVE_TUTORIAL_TRAVELLOG_INTRO_1]
-{NPC_ENTER:crazydaveicon}{NPC_EXIT:winnieicon}{PLAYFUL:crazydaveicon}Oye Penny, ¿qué es este pedazo de madera?
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{PLAYFUL:crazydaveicon}Oye Penny, ¿qué es este pedazo de madera?
 
 [NARRATIVE_TUTORIAL_TRAVELLOG_INTRO_2]
 {SAY:winnieicon}Es el Tronco de Viaje. En él, puedes completar misiones y conseguir recompensas a cambio.
@@ -46185,8 +46185,8 @@ ABRIR TODO
 Abrir navegador
 
 [OPEN_URL]
-Por favor abra el siguiente enlace en su navegador: %s
-Para facilitar su uso, este enlace se ha copiado en el portapapeles.
+Abre este enlace en el navegador: %s
+(Pegalo desde el portapapeles)
 
 [OPEN_YOUR_PRESENTS]
 ¡Abre tus regalos!
@@ -46515,7 +46515,7 @@ La granada (Punica granatum) es un arbusto originario de la región del Mediterr
 Ha sido cultivada desde hace más de 4,000 años, teniendo un papel importante en mitologías y culturas antiguas como la egipcia, griega y romana. Fue símbolo de fertilidad y abundancia, y su cultivo se expandió a través de Asia, Europa y América. Hoy en día, es un fruto popular en gastronomía y medicina natural.
 
 [PAMEGRANATE_PLANTFOOD_DESCRIPTION]
-Derriba a los zombis cercanos 1 casilla y dispara una ráfaga de semillas en un área 3x4. ^D22808^Daño: 90^oldclr^
+Derriba a los zombis cercanos y dispara una ráfaga de semillas en un área 3x4 al frente
 
 [PAMEGRANATE_PRODUCT_SHORT_DESC]
 Escupe semillas a los zombis que tiene al frente
@@ -46667,6 +46667,7 @@ Mazorcañón U42
 [PARALLEL_COBCANNON_DESCRIPTION]
 {KEYWORD}Uso: {STAT}plantar sobre 2 Lanzamaíces colindantes
 {KEYWORD}Ataque: {STAT}tocar para armar, tocar en la casilla objetivo para disparar
+
 {KEYWORD}Alcance: todo el mapa
 {KEYWORD}Especial: al impactar, la mazorca inflige daño en un área de 3x3
 
@@ -46684,10 +46685,10 @@ Petaseta U42
 [PARALLEL_DOOMSHROOM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}deja un cráter al explotar
 
-{FLAVOR}El granjero que cultivó esta seta recibió el Premio Nobel a la paz
+{FLAVOR}El granjero que cultivó esta seta recibió el Premio Nobel a la Paz
 
 [PARALLEL_DOOMSHROOM_DESCRIPTION_HEADER]
-Variante de Petaseta. Puede infligir una cantidad MASIVA de daño cuando se destruye.
+Variante de Petaseta. NO inflige daño cuando se destruye.
 
 [PARALLEL_DOOMSHROOM_TOOLTIP]
 Explota y luego genera setas adicionales
@@ -46727,7 +46728,7 @@ Lechuga iceberg U42
 Quien diría que Lechuga iceberg dominaría el arte de congelar zombis en este universo.
 
 [PARALLEL_ICEBURG_DESCRIPTION_HEADER]
-Esta variante de la Lechuga iceberg congela zombis en un área un 100% más grande.
+Esta variante de la Lechuga iceberg siempre activa Nutrientes al plantarse
 
 [PARALLEL_ICEBURG_TOOLTIP]
 Congela a los zombis que la pisen y apaga llamas
@@ -46750,7 +46751,7 @@ Rueda y bloquea pasadizos secretos
 Lanzamaíz U42
 
 [PARALLEL_KERNELPULT_DESCRIPTION]
-Parece que Lanzamaíz perdió toda su escensia en este universo, que mala suerte tienen algunos.
+Parece que Lanzamaíz perdió toda su escencia en este universo, que mala suerte tienen algunos.
 
 [PARALLEL_KERNELPULT_DESCRIPTION_HEADER]
 Variante de Lanzamaíz, su único propósito es servir de soporte para Mazorcañón. Planta dos cerca horizontalmente.
@@ -46788,7 +46789,7 @@ Solanácea U42
 [PARALLEL_NIGHTSHADE_DESCRIPTION]
 {KEYWORD}Especial: {STAT}arroja y regenera hojas cuando está potenciada
 
-{FLAVOR}"Es difícil abandonar los viejos hábitos", dice. Lo más difícil de creer es que existan las coincidencias. Entre todas las posibilidades que tiene este mundo, Solanácea parece no tener variantes en ninguna de las realidades alternas.
+{FLAVOR}"Es difícil abandonar los viejos hábitos", dice.
 
 [PARALLEL_NIGHTSHADE_DESCRIPTION_HEADER]
 La clásica Solanácea de toda la vida, abofetea a los zombis con sus hojas
@@ -47689,7 +47690,7 @@ Doctor en botánica
 La parada en boxes de Penny
 
 [PENNY_ADVANCED_GUIDE_BUY]
-Comprar por ^FFFF00^30 元^oldclr^
+^FFFF00^30 元^oldclr^
 
 [PENNY_ADVANCED_GUIDE_DES]
 ^FF9E6B^Descripción del evento:^oldclr^
@@ -47820,7 +47821,8 @@ Se desbloquea después de completar el ^FF0000^Examen básico^oldclr^
 Tu progreso: {NUMS}/5
 
 [PENNY_CLASSROOM_SHOP_BUY_CONFIRM]
-¿Deseas comprar este artículo por ^FF8000^{NUMS} puntos de clase^oldclr^?
+¿Deseas comprar este artículo?
+^FF8000^Coste: {NUMS} puntos de clase^oldclr^
 
 [PENNY_CLASSROOM_SHOP_TAB_BACHELOR]
 Licenciatura
@@ -47850,28 +47852,28 @@ Temática del examen
 Descripción del curso
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_CHOMPER]
-ca=Devorar zombis|Producir sol|Bloquear zombis|Curar plantas|
+Producir sol|ca=Devorar zombis|Bloquear zombis|Curar plantas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_ELECTRICBLUEBERRY]
-ca=Dañar zombis|Producir sol|Bloquear zombis|Curar plantas|
+Producir sol|ca=Electrocutar zombis|Bloquear zombis|Curar plantas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_PRIMALSUNFLOWER]
-ca=Producir soles|Dañar zombis|Bloquear zombis|Curar plantas|
+ca=Producir sol|Dañar zombis|Bloquear zombis|Curar plantas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_SQUASH]
-ca=Dañar zombis|Producir sol|Bloquear zombis|Curar plantas|
+Producir sol|ca=Aplastar zombis|Bloquear zombis|Curar plantas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_0_TALLNUT]
-ca=Bloquear zombis|Producir sol|Dañar zombis|Curar plantas|
+Producir sol|Dañar zombis|ca=Bloquear zombis|Curar plantas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_CHOMPER]
 ca=En primera línea|En zona segura|Para bloquear|Para producir sol|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_ELECTRICBLUEBERRY]
-ca=En zona segura|En primera línea|Sobre otras plantas|En lápidas|
+En lápidas|En primera línea|Sobre otras plantas|ca=En zona segura|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_PRIMALSUNFLOWER]
-ca=Detrás|Delante|Encima de plantas|En lápidas|
+Delante|Encima de plantas|ca=Detrás|En lápidas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_1_SQUASH]
 ca=En primera línea|En zona segura|Para bloquear|Para producir sol|
@@ -47889,19 +47891,19 @@ ca=Verdadero|Falso| | |
 ca=Grandes|Explosivos|Normales|Pequeños|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_SQUASH]
-ca=Su casilla y una a cada lado|Solo su casilla|Una casilla al frente|Su casilla y una al frente|
+Su casilla y una al frente|Solo su casilla|Una casilla al frente|ca=Su casilla y una a cada lado|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_2_TALLNUT]
-ca=Bloquea zombis voladores|Se mueve más rápido|Salta más alto|Ve más lejos|
+Ve más lejos|Se mueve más rápido|Salta más alto|ca=Bloquea zombis voladores|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_CHOMPER]
-ca=Falso|Verdadero| | |
+Verdadero|ca=Falso| | |
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_ELECTRICBLUEBERRY]
 ca=Verdadero|Falso| | |
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_PRIMALSUNFLOWER]
-ca=Produce más sol|Aumenta su salud|Hace más daño|Cuesta menos sol|
+Hace más daño|Aumenta su salud|ca=Produce más sol|Cuesta menos sol|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_3_SQUASH]
 ca=Verdadero|Falso| | |
@@ -47910,43 +47912,43 @@ ca=Verdadero|Falso| | |
 ca=Verdadero|Falso| | |
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_CHOMPER]
-ca=Empuja zombis y digiere menos|Expulsa zombis|Cura y aumenta daño|Alarga fuego|
+Se vuelve inmortal|Expulsa zombis|ca=Empuja zombis y digiere menos|Escupe fuego|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_ELECTRICBLUEBERRY]
-ca=Alcance de toda la fila|Lanza mantequilla|Dispara estrellas|Alarga veneno|
+Dispara bayas eléctricas|Lanza mantequilla|ca=Alcance de toda la fila|Dispara rayos rojos|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_PRIMALSUNFLOWER]
 ca=Chance de dar sol extra|Dispara un rayo|Hace daño continuo|Aturde zombis|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_SQUASH]
-ca=Esperar para producir sol|Eliminar zombis élite|Prepararse ante una emboscada|Ahorrar sol al inicio|
+Ahorrar sol al inicio|Eliminar zombis fuertes|Contrarrestar All-Stars|ca=Esperar para producir sol|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_4_TALLNUT]
-ca=2 veces|1 vez|1.2 veces|1.5 veces|
+1 x|1.2 x|1.5 x|ca=2 x|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_CHOMPER]
-ca=Reduce más la digestión|Lanza espinas eléctricas|Deja una nuez bebé|Dispara más núcleos|
+Dispara más núcleos|Lanza espinas eléctricas|ca=Reduce más la digestión|Deja una nuez bebé|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_ELECTRICBLUEBERRY]
 ca=Alcance de todo el campo|Mejora fuego azul|Deja minas|Dispara guisantes|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_PRIMALSUNFLOWER]
-ca=Siempre da sol extra|Dispara bolas de fuego|Congela zombis|Da monedas|
+Dispara bolas de fuego|ca=Siempre da sol extra|Congela zombis|Da monedas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_SQUASH]
 ca=Chance de volver tras aplastar|Lanza un gancho|Dispara 2 misiles|Recupera hojas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_5_TALLNUT]
-ca=Puede caer y dañar|Ataca a la derecha|Encoge zombis|Lanza rayos|
+Dispara semillas|ca=Puede caer y dañar|Encoge zombis|Lanza rayos|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_CHOMPER]
-ca=Chance Nutrientes al plantarse|Reembolso solar|Obtiene escudo|Daño de área|
+Daño de área|Reembolso solar|Obtiene escudo|ca=Chance Nutrientes al plantarla|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_ELECTRICBLUEBERRY]
-ca=Chance Nutrientes al plantarlo|Reembolso solar|Escudo|Daño de área|
+Daño de área|Reembolso solar|Obtiene escudo|ca=Chance Nutrientes al plantarlo|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_PRIMALSUNFLOWER]
-ca=Chance Nutrientes al plantarlo|Recarga rápida|Reembolso solar|Modo invencible|
+Modo invencible|Recarga rápida|Reembolso solar|ca=Chance Nutrientes al plantarlo|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_6_SQUASH]
 ca=Más chance de volver|Descansa menos|Rebota más|Lanza dardos|
@@ -47958,46 +47960,46 @@ ca=Siempre cae y daña|Atrae zombis|Deja semillas bomba|Reduce recarga|
 ca=Devora 3 casillas al frente|Combo de golpes|Lanza bolas de fuego|Dispara cactus|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_ELECTRICBLUEBERRY]
-ca=Nube de rayos en cruz|Lanza rocas|Mejora fuego morado|Devuelve sol|
+Lanza rocas|Mejora fuego morado|ca=Nube de rayos en cruz|Devuelve sol|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_PRIMALSUNFLOWER]
-ca=Pétalos iluminados|Guisantes de plasma|Pequeña cereza|GEAR 5|
+Coloso solar|Sol eterno|ca=Pétalos iluminados|GEAR 5|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_SQUASH]
-ca=Chance Nutrientes al plantarse|Reembolso solar|Obtiene escudo|Daño de área|
+Usos ilimitados|Recarga rápida|Daño letal|ca=Chance Nutrientes al plantarse|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_7_TALLNUT]
-ca=Chance Nutrientes al plantarse|Reembolso solar|Obtiene escudo|Daño de área|
+Obtiene escudo|Derriba zombis al caer|Reembolso solar|ca=Chance Nutrientes al plantarse|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_CHOMPER]
-ca=Atrae 3 zombis y los expulsa|Disparo en abanico|Lanza coles gigantes|Dispara 60 guisantes|
+Lanza coles gigantes|Disparo en abanico|ca=Atrae 3 zombis, expulsa resto|Dispara 60 guisantes|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_ELECTRICBLUEBERRY]
-ca=Nube gigante de 3 ataques|Lanza fuego|Mejora plantas|Corte de espada|
+Mejora plantas eléctricas|Lanza shurikens rayo|ca=Nube gigante de 3 ataques|Corte de espada|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_PRIMALSUNFLOWER]
-ca=Dar muchos soles|Rayo láser|Lluvia de guisantes|Potencia plantas cercanas|
+Lluvia de petalos|Rayo solar|ca=Da mucho sol|Potencia plantas solares|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_SQUASH]
-ca=Aplasta a 2 zombis|Convierte un zombi|Envenena zombis|Lanza misiles de hielo|
+Se clona|Aturde zombis al aplastarlos|ca=Aplasta a 2 zombis|Zombis aplastados dan soles|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_8_TALLNUT]
 ca=Armadura de acero|Cura plantas|Lanza una gema|Dispara bombas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_CHOMPER]
-ca=Quita cubos al expulsar zombis|Amplía fuego|Añade daño láser|Lanza una mina|
+El eructo daña zombis|Escupe fuego|Añade daño láser|ca=Quita cubos al expulsar zombis|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_ELECTRICBLUEBERRY]
-ca=Encoge y debilita zombis|Produce más sol|Deja jugo de uva|Lanza mantequilla|
+ca=Encoge y debilita zombis|Más objetivos alcanzados|Deja jugo de uva|Gana escudo temporal|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_PRIMALSUNFLOWER]
-ca=Producir una moneda gigante|Dispara fuego|Soles infinitos|Recarga instantánea|
+Crea vientos solares|ca=Da una moneda gigante|Soles infinitos|Recarga instantánea|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_SQUASH]
-ca=Añade otro salto|Usa un bastón mágico|Mejora un láser|Dispara flechas|
+Entierra zombis aplastados|Quema zombis alcanzados|ca=Añade otro salto|Dispara flechas|
 
 [PENNY_CLASSROOM_SURVEY_ANSWER_9_TALLNUT]
-ca=Armadura de cristal|Invoca una fresa|Dispara balas de oro|Lanza guisantes|
+Invoca una fresa|ca=Armadura de cristal|Dispara balas de oro|Lanza guisantes|
 
 [PENNY_CLASSROOM_SURVEY_CORRECT_0_CHOMPER]
 ¡Correcto!
@@ -50509,7 +50511,7 @@ COMPRAR
 La aventura aún no ha comenzado
 
 [PLANT_ADVENTURE_CONFIRM_BUY_PLANT_SPIRIT_DES]
-Tus plantas están cansadas, ¿deseas gastar ^ff0000^{GEMS} Joyas^oldclr^ para restablecer su energía?
+Tus plantas están cansadas, ¿deseas restablecer su energía por ^ff0000^{GEMS} Joyas^oldclr^?
 
 [PLANT_ADVENTURE_CONFIRM_BUY_PLANT_SPIRIT_TILE]
 ¿Comprar energía?
@@ -50525,6 +50527,9 @@ Disponible al completar: ^DB8117^{DUNGEON}^oldclr^
 
 [PLANT_ADVENTURE_DUNGEON_CLOSED_HARD]
 Se activa al completar el ^FF0000^Modo difícil^oldclr^ de ^DB8117^{DUNGEON}^oldclr^
+
+[PLANT_ADVENTURE_DUNGEON_CLOSED_EXPERT]
+Se activa al completar el ^FF0000^Modo experto^oldclr^ de ^DB8117^{DUNGEON}^oldclr^
 
 [PLANT_ADVENTURE_DUNGEON_SKIP]
 TERMINAR
@@ -50683,13 +50688,13 @@ Clase de planta
 Calor sofocante
 
 [PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-El coste en soles de las plantas de fuego se triplica
+El coste de las plantas de fuego se triplica
 
 [PLANT_COST_DIFFICULTY_2]
 Energéticos costosos
 
 [PLANT_COST_DIFFICULTY_2_DESCRIPTION]
-El coste en soles de las plantas eléctricas se triplica
+El coste de las plantas eléctricas se triplica
 
 [PLANT_CULTIVATE]
 Prueba de super-plantas
@@ -59786,7 +59791,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_14_1]
-Completa estos 3 objetivos: Zombis fugaces, Sin sorpresas II y Fiesta elegante
+Completa estos 3 objetivos: Zombis fugaces, Especialistas prohibidos II y Fiesta elegante
 
 [RE_HALLOWEEN_TASK_NAME_14_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59801,7 +59806,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_15_1]
-Completa estos 3 objetivos: Zombis impasibles, Sin sorpresas II y Ballet sofisticado
+Completa estos 3 objetivos: Zombis impasibles, Especialistas prohibidos II y Ballet sofisticado
 
 [RE_HALLOWEEN_TASK_NAME_15_2]
 Alcanza 2 estrellas como récord histórico.
@@ -59831,7 +59836,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [RE_HALLOWEEN_TASK_NAME_17_1]
-Completa estos 3 objetivos: Sorpresa inesperada, Zona de silencio II y Maldición del faraón
+Completa estos 3 objetivos: Recarga agotadora, Zona de silencio II y Maldición del faraón
 
 [RE_HALLOWEEN_TASK_NAME_17_2]
 Alcanza 2 estrellas como récord histórico.
@@ -67010,7 +67015,7 @@ Las plantas a distancia se recargan el triple de lento
 Tiradores costosos
 
 [SHOOTER_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-El coste en soles de las plantas a distancia se triplica
+El coste de las plantas a distancia se triplica
 
 [SHOOTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
 Recarga distante II
@@ -67019,7 +67024,7 @@ Recarga distante II
 Las plantas a distancia se recargan el triple de lento y no pueden usar Nutrientes
 
 [SHOOTER_SPECIALIST_DISABLE_PLANT_DIFFICULTY_3]
-Sin sorpresas II
+Especialistas prohibidos II
 
 [SHOOTER_SPECIALIST_DISABLE_PLANT_DIFFICULTY_3_DESCRIPTION]
 No puedes llevar plantas mágicas ni tiradores en este nivel
@@ -67917,28 +67922,28 @@ Nivel 5
 Resiste y golpea a los zombis que se encuentren a 2 casillas
 
 [SPECIALIST_DISABLE_PLANT_DIFFICULTY_2]
-Sin sorpresas
+Especialistas prohibidos
 
 [SPECIALIST_DISABLE_PLANT_DIFFICULTY_2_DESCRIPTION]
-No puedes llevar plantas mágicas en este nivel
+No puedes llevar plantas especialistas en este nivel
 
 [SPECIALIST_PLANT_CD_DIFFICULTY_1]
-Sorpresa inesperada
+Recarga agotadora
 
 [SPECIALIST_PLANT_CD_DIFFICULTY_1_DESCRIPTION]
-Las plantas mágicas se recargan el triple de lento
+Las plantas especialistas se recargan el triple de lento
 
 [SPECIALIST_PLANT_COST_DIFFICULTY_1]
-Magia exorbitante
+Costes exorbitantes
 
 [SPECIALIST_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-El coste en soles de las plantas mágicas se triplica
+El coste de las plantas especialistas se triplica
 
 [SPECIALIST_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
-Sorpresa inesperada II
+Recarga agotadora II
 
 [SPECIALIST_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
-Las plantas mágicas se recargan el triple de lento y no pueden usar Nutrientes
+Las plantas especialistas se recargan el triple de lento y no pueden usar Nutrientes
 
 [SPECIAL_LEVEL_ACITVATED]
 El evento comenzará después de completar el Día 5 del Antiguo Egipto.
@@ -73068,7 +73073,7 @@ Las plantas productoras de sol se recargan el triple de lento
 Inflación solar
 
 [SUNMAKER_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-El coste en soles de las plantas productoras de sol se triplica
+El coste de las plantas productoras de sol se triplica
 
 [SUNMAKER_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
 Sol tardío II
@@ -73702,7 +73707,7 @@ Las plantas de apoyo se recargan el triple de lento
 Apoyo valioso
 
 [SUPPORTER_PLANT_COST_DIFFICULTY_1_DESCRIPTION]
-El coste en soles de las plantas de apoyo se triplica
+El coste de las plantas de apoyo se triplica
 
 [SUPPORTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1]
 Apoyo lento II
@@ -77115,7 +77120,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_1]
-Completa estos 3 objetivos: Tiradores costosos, Sorpresa inesperada y Batallón zombi III
+Completa estos 3 objetivos: Tiradores costosos, Recarga agotadora y Batallón zombi III
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77331,7 +77336,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_9_1]
-Completa estos 3 objetivos: Sorpresa inesperada, Crisis solar y Cascanueces implacable
+Completa estos 3 objetivos: Recarga agotadora, Crisis solar y Cascanueces implacable
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_9_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77346,7 +77351,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_10_1]
-Completa estos 3 objetivos: Guerreros pacientes, Sin sorpresas y Moho lejano III
+Completa estos 3 objetivos: Guerreros pacientes, Especialistas prohibidos y Moho lejano III
 
 [UNCHARTED_CHRISTMAS_202512_TASK_NAME_10_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77491,7 +77496,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ICEAGE_TASK_NAME_5_1]
-Completa estos 3 objetivos: Defensa rápida, Sorpresa inesperada y Batallón zombi III
+Completa estos 3 objetivos: Defensa rápida, Recarga agotadora y Batallón zombi III
 
 [UNCHARTED_ICEAGE_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77827,7 +77832,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_2_1]
-Completa estos 3 objetivos: Crisis solar, Escacez de semillas II y Sin sorpresas II
+Completa estos 3 objetivos: Crisis solar, Escacez de semillas II y Especialistas prohibidos II
 
 [UNCHARTED_ZCORP_TASK_NAME_2_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77872,7 +77877,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_5_1]
-Completa estos 3 objetivos: Defensa lenta, Sin sorpresas y Batallón zombi III
+Completa estos 3 objetivos: Defensa lenta, Especialistas prohibidos y Batallón zombi III
 
 [UNCHARTED_ZCORP_TASK_NAME_5_2]
 Alcanza 2 estrellas como récord histórico.
@@ -77902,7 +77907,7 @@ Alcanza 6 estrellas como récord histórico.
 Alcanza 10 estrellas como récord histórico.
 
 [UNCHARTED_ZCORP_TASK_NAME_7_1]
-Completa estos 3 objetivos: Crisis solar, Sin sorpresas y Zombis fugaces III
+Completa estos 3 objetivos: Crisis solar, Especialistas prohibidos y Zombis fugaces III
 
 [UNCHARTED_ZCORP_TASK_NAME_7_2]
 Alcanza 2 estrellas como récord histórico.
