@@ -3,7 +3,7 @@
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.3^oldclr^ | ^87CEFA^Parche: 1.2.1 (actualizado el 17/9/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.3^oldclr^ | ^87CEFA^Parche: 1.2.2 (actualizado el 17/9/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [AGE_TIP]
@@ -6500,6 +6500,9 @@ Cupones actuales
 [ARTIFACT_BLESS_NORMAL]
 Cupones comunes
 
+[ARTIFACT_GLOBAL_BLESS]
+Cupones globales
+
 [ARTIFACT_BLESS_SAVE_LEFT]
 GUARDAR
 
@@ -6562,7 +6565,7 @@ Convierte una casilla en un charco de ácido que disuelve zombis pequeños con e
 ^DB8117^- Usos: {MainField_2}^oldclr^
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas venenosas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas venenosas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_3]
 ^98FB98^Activa I:^oldclr^ los zombis son disueltos un ^D22808^{PassiveField2_1} %^oldclr^ más rápido
@@ -6600,13 +6603,13 @@ Cada proyectil hace ^D22808^{MainField_1}^oldclr^ de daño. Los guisantes desapa
 ^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas futuristas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas futuristas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_3]
 ^98FB98^Activa I:^oldclr^ tras atacar, los Lanzaguisantes de 8-bits permanecerán en batalla durante ^D22808^{PassiveField2_1} s^oldclr^
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_4]
-^98FB98^Activa II:^oldclr^ los Lanzaguisantes de 8-bits tienen la posibilidad de disparar otros proyectiles
+^98FB98^Activa II:^oldclr^ los Lanzaguisantes de 8-bits tienen la posibilidad de disparar otros proyectiles.
 
 ^C47A52^Proyectiles: guisantes congelados, en llamas, primitivos^oldclr^
 
@@ -6633,11 +6636,11 @@ Plantar genera abejas. Al activar el artefacto, todas atacan al zombi más cerca
 
 Cada abeja hace ^D22808^{MainField_2}^oldclr^ de daño y ataca ^D22808^10^oldclr^ veces.
 
-^FF0000^- Límite de abejas: 15^oldclr^
+^FF8000^- Abejas: 15^oldclr^
 ^4DD4DB^- Recarga: 30 s^oldclr^
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ las plantas se recargan un ^D22808^{PassiveField1_1} %^oldclr^ más rápido
+^98FB98^Pasiva I:^oldclr^ las plantas se recargan un ^D22808^{PassiveField1_1} %^oldclr^ más rápido
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_3]
 ^98FB98^Activa I: ^D22808^{PassiveField2_1} %^oldclr^ de probabilidad de atraer a ^D22808^1^oldclr^ abeja extra al plantar
@@ -6676,7 +6679,7 @@ Genera agujeros negros que atraen y dañan zombis. Los pequeños y medianos son 
 ^98FB98^Activa I:^oldclr^ cuando el agujero negro desaparezca, se liberará una onda gravitatoria que atrae zombis hacia el centro
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_3]
-^98FB98^Pasiva:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, se genera un agujero negro en un ^D22808^área 5x5^oldclr^ al extremo derecho del patio.
+^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, se genera un agujero negro en un ^D22808^área 5x5^oldclr^ al extremo derecho del patio.
 
 ^C47A52^- Área de atracción: 3x3^oldclr^
 ^A048CF^- Duración: {PassiveField2_2} s^oldclr^
@@ -6719,7 +6722,7 @@ Invoca ^D22808^{MainField_1}^oldclr^ bolas de boliche por línea.
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, suelta ^D22808^1^oldclr^ Nuez aleatoria en una línea al azar
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ las bolas de boliche se transforman en variantes más fuertes.
+^98FB98^Activa I:^oldclr^ las bolas de boliche se transforman en variantes más fuertes.
 
 ^C47A52^Bolas de boliche: Rambután escarchado, Rey Jaca, Nuez blindada, Bocadragón glotón^oldclr^
 
@@ -6751,7 +6754,7 @@ Elige un tamaño de zombi y absorbe todos los zombis de ese tamaño.
 ^FF8000^- Capacidad: 10 zombis pequeños, 6 medianos o 2 grandes^oldclr^
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas Kung Fu^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas Kung Fu^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_3]
 ^98FB98^Activa I:^oldclr^ la capacidad de absorción aumenta en ^D22808^{PassiveField2_1}^oldclr^ zombi (s)
@@ -6794,7 +6797,7 @@ Toma una foto que retrata el estado de tu patio y aturde zombis por ^D22808^{Mai
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, la luz intermitente de la cámara parpadeará, aturdiendo a zombis pequeños y medianos por ^D22808^3 s^oldclr^
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ una vez el patio regrese a su estado original, aparecerán ^D22808^5^oldclr^ fantasmas que acechan al primer zombi que encuentren, haciendo que retrocedan.
+^98FB98^Activa I:^oldclr^ una vez el patio regrese a su estado original, aparecerán ^D22808^5^oldclr^ fantasmas que acechan al primer zombi que encuentren, haciendo que retrocedan.
 
 ^FF0000^No afecta a zombis grandes.^oldclr^
 
@@ -6817,7 +6820,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_1]
-Cura a todas las plantas del patio y las vuelve invencibles por un tiempo.
+Cura a todas las plantas del patio y las vuelve invencibles.
 
 ^D22808^- Curación: {MainField_1} PS^oldclr^
 ^FF8000^- Invencibilidad: {MainField_2} s^oldclr^
@@ -6825,10 +6828,10 @@ Cura a todas las plantas del patio y las vuelve invencibles por un tiempo.
 ^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ el daño y la defensa de las plantas del patio aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las plantas del patio aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_3]
-^98FB98^Activa I: ^D22808^{PassiveField2_1} %^oldclr^ de probabilidad de que las plantas recuperen toda su salud durante ^D22808^20 s^oldclr^
+^98FB98^Activa I: las plantas del patio recuperan un ^D22808^{PassiveField2_1} %^oldclr^ de su salud cada ^D22808^20 s^oldclr^
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_4]
 ^98FB98^Activa II:^oldclr^ duración de los efectos ^D22808^+ {PassiveField3_2}%^oldclr^
@@ -6867,7 +6870,7 @@ Reemplaza a los zombis pequeños y medianos del patio con variantes de zombis m�
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, el rayo degrada a ^D22808^3^oldclr^ zombis aleatorios
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_4]
-^98FB98^Activa: ^D22808^30 %^oldclr^ de probabilidad de que los zombis degradados sean convertidos en ^D22808^Gallinas^oldclr^
+^98FB98^Activa I: ^D22808^30 %^oldclr^ de probabilidad de que los zombis degradados sean convertidos en ^D22808^Gallinas^oldclr^
 
 [ARTIFACT_DINOSAURHORN]
 Cuerno jurásico
@@ -6894,7 +6897,7 @@ Convoca varios dinosaurios que pisotean varios zombis hasta derrotarlos. Los zom
 ^FF0000^- Zombis aplastados: 3^oldclr^
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas primitivas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas primitivas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_3]
 ^98FB98^Activa I:^oldclr^ la duración del aturdimiento zombi aumenta a ^D22808^{PassiveField2_1} s^oldclr^
@@ -6940,7 +6943,7 @@ Invoca un farol que atraviesa al zombi más cercano y le inflige daño por segun
 ^D22808^- Daño: {PassiveField2_2} DPS / 0,1 s^oldclr^
 
 [ARTIFACT_DRAGON_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ cuando hay faroles en el patio, lanza una bola bordada. El dragón perseguirá la bola y se la comerá, ganando ^D22808^3 s^oldclr^ de permanencia y creciendo durante ^D22808^5 s^oldclr^
+^98FB98^Activa I:^oldclr^ cuando hay faroles en el patio, lanza una bola bordada. El dragón perseguirá la bola y se la comerá, ganando ^D22808^3 s^oldclr^ de permanencia y creciendo durante ^D22808^5 s^oldclr^
 
 ^4DD4DB^- Reactivación: 5 s^oldclr^
 
@@ -6978,7 +6981,7 @@ Mejora las plantas de un ^D22808^área 3x3^oldclr^ a versiones más poderosas co
 ^FF0000^(no incluye instantáneas)^oldclr^
 
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ genera una planta con un ^FF8000^coste ≤ 100^oldclr^ en los espacios libres del patio
+^98FB98^Activa I:^oldclr^ genera una planta con un ^FF8000^coste ≤ 100^oldclr^ en los espacios libres del patio
 
 [ARTIFACT_GASHAPON]
 Gachapón
@@ -7026,7 +7029,7 @@ Hipnotiza 6 zombis
 Congelar por 15 s
 
 [ARTIFACT_GASHAPON_AFFECT_43]
-1200 soles
+1,200 soles
 
 [ARTIFACT_GASHAPON_AFFECT_53]
 Ponzoña tipo II
@@ -7041,7 +7044,7 @@ Hipnotiza 9 zombis
 Muñecos de nieve por 25 s
 
 [ARTIFACT_GASHAPON_AFFECT_93]
-2400 soles
+2,400 soles
 
 [ARTIFACT_GASHAPON_DESCRIPTION]
 Contiene 3 sorpresas con efectos aleatorios
@@ -7073,7 +7076,7 @@ Genera 3 sorpresas. Dos iguales activan su efecto; tres iguales lo mejoran.
 ^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas con ataques secundarios^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas con ataques secundarios^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_3]
 ^98FB98^Activa I:^oldclr^ si no aparecen 3 sorpresas iguales, el artefacto se reinicia. En la siguiente activación, garantiza 3 sorpresas iguales
@@ -7082,9 +7085,6 @@ Genera 3 sorpresas. Dos iguales activan su efecto; tres iguales lo mejoran.
 ^98FB98^Activa II:^oldclr^ los efectos sorpresa se vuelven mejores.
 
 ^FF8000^Nuevos efectos: ponzoña, encantar zombis, muñecos de nieve, Podarrábanos, Destello solar^oldclr^
-
-[ARTIFACT_GLOBAL_BLESS]
-Cupones globales
 
 [ARTIFACT_GRAVITY]
 Gravitador
@@ -7122,7 +7122,7 @@ Genera un campo gravitacional que atrae zombis hacia el suelo, dificultando su m
 ^D22808^- Duración: 5 s^oldclr^
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ los zombis son atraídos contra el suelo a mayor velocidad
+^98FB98^Activa I:^oldclr^ los zombis son atraídos contra el suelo a mayor velocidad
 
 [ARTIFACT_GUITAR]
 Guitarra de rock
@@ -7147,7 +7147,7 @@ Tócala para derribar zombis con una potente onda sónica.
 
 ^E2725B^El daño y alcance de las ondas dependen de tu precisión y el nivel del artefacto.^oldclr^
 
-^D22808^- Notas: 10^oldclr^
+^D22808^- Notas musicales: 10^oldclr^
 ^4DD4DB^- Recarga: 30 s^oldclr^
 ^DB8117^- Usos: {MainField_5}^oldclr^
 
@@ -7162,7 +7162,7 @@ Las plantas alcanzadas por las ondas ganan ^D22808^50 %^oldclr^ de vel. de ataqu
 ^D22808^- Daño: {PassiveField2_2}^oldclr^
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ genera ^D22808^2^oldclr^ ondas que hacen daño por segundo en un área y aturden zombis.
+^98FB98^Activa I:^oldclr^ genera ^D22808^2^oldclr^ ondas que hacen daño por segundo en un área y aturden zombis.
 
 ^E2725B^Mayor precisión prolonga el efecto.^oldclr^
 
@@ -7191,7 +7191,7 @@ Nivel 4
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_1]
 Tócalo para generar una proyección duplicada de tus plantas.
 
-Las copias no pueden usar Nutrientes y heredan un ^D22808^{MainField_2}%^oldclr^ de fuerza. 
+Las copias no pueden usar Nutrientes y heredan un ^D22808^{MainField_2} %^oldclr^ de fuerza. 
 
 ^A048CF^- Duración: {MainField_1} s^oldclr^
 ^4DD4DB^- Recarga: 30 s^oldclr^
@@ -7204,7 +7204,7 @@ Las copias no pueden usar Nutrientes y heredan un ^D22808^{MainField_2}%^oldclr^
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, clona a ^D22808^3^oldclr^ plantas aleatorias del patio
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ clona a los ^D22808^10^oldclr^ zombis más a la izquierda del patio, para que luchen de tu lado
+^98FB98^Activa I:^oldclr^ clona a los ^D22808^10^oldclr^ zombis más a la izquierda del patio, para que luchen de tu lado
 
 [ARTIFACT_HYDRAULIC]
 Prensa hidráulica
@@ -7225,8 +7225,10 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_1]
-Aplasta plantas en un ^D22808^área 3x3^oldclr^ y las convierte en semillas que desaparecen tras ^D22808^{MainField_1} s^oldclr^
+Aplasta las plantas de su alcance, conviertiéndolas en semillas.
 
+^D22808^- Semillas: duran {MainField_1} s^oldclr^
+^C47A52^- Alcance: área 3x3^oldclr^
 ^4DD4DB^- Recarga: 10 s^oldclr^
 ^DB8117^- Usos: {MainField_3}^oldclr^
 
@@ -7237,7 +7239,9 @@ Aplasta plantas en un ^D22808^área 3x3^oldclr^ y las convierte en semillas que 
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, aplasta a los ^D22808^3^oldclr^ zombis más cercanos, dañándolos y dejándolos enterrados por un tiempo
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ los zombis son aplastados por la prensa y se convierten en cartas que puedes reubicar. Las cartas vuelven a ser zombis tras ^D22808^15 s^oldclr^
+^98FB98^Activa I:^oldclr^ los zombis son aplastados por la prensa y se convierten en cartas que puedes reubicar.
+
+Las cartas vuelven a ser zombis tras ^D22808^15 s^oldclr^
 
 [ARTIFACT_LIGHTNING]
 Pistola de rayos
@@ -7276,7 +7280,7 @@ Combinar cargas activa efectos:
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^20 s^oldclr^, un rayo es golpeado contra ^D22808^5^oldclr^ zombis aleatorios, causando que pierdan un ^D22808^{PassiveField2_2} %^oldclr^ de salud
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ cuando un zombi es derrotado, existe un ^D22808^{PassiveField3_1} %^oldclr^ de que ^D22808^1-2^oldclr^ zombis alrededor, reciban descargas eléctricas con efectos aleatorios durante ^D22808^20 s^oldclr^
+^98FB98^Activa I:^oldclr^ cuando un zombi es derrotado, existe un ^D22808^{PassiveField3_1} %^oldclr^ de que ^D22808^1-2^oldclr^ zombis alrededor, reciban descargas eléctricas con efectos aleatorios durante ^D22808^20 s^oldclr^
 
 [ARTIFACT_LIONDANCE]
 Decreto del león
@@ -7318,7 +7322,7 @@ Invoca a un león bailarín que salta a un área con más zombis, pisoteándolos
 ^C47A52^- Área: casilla^oldclr
 
 [ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ ruge para derribar a los zombis cercanos (priorizando a los más grandes).
+^98FB98^Activa I:^oldclr^ ruge para derribar a los zombis cercanos (priorizando a los más grandes).
 
 El pisotón prioriza a los ^D22808^4^oldclr^ zombis con menor salud.
 
@@ -7351,7 +7355,7 @@ Siembra una Enredadera gigante que, al crecer, lanza por los aires plantas y zom
 ^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas guisante^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas guisante^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_3]
 ^98FB98^Activa I:^oldclr^ los guisantes se dispersan en ^D22808^8 direcciones^oldclr^ y hacen ^D22808^{PassiveField2_1}^oldclr^ de daño
@@ -7386,7 +7390,7 @@ Invoca un Zombi mago en cada fila del patio. Los magos hacen retroceder a los zo
 ^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_2]
-^98FB98^Activa:^oldclr^ los Zombis mago también pueden invocar palomas para que se lleven a los zombis enemigos
+^98FB98^Activa I:^oldclr^ los Zombis mago también pueden invocar palomas para que se lleven a los zombis enemigos
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_3]
 ^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, invoca ^D22808^1^oldclr^ Zombi mago en una fila aleatoria
@@ -7415,19 +7419,19 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_1]
-Lanza una salva de meteoros que destruyen plantas y zombis medianos; el resto recibe ^D22808^{MainField_4}^oldclr^ de daño y queda aturdido por ^D22808^3 s^oldclr^
+Lanza una salva de meteoros que destruyen plantas y zombis medianos; el resto recibe ^D22808^{MainField_4}^oldclr^ de daño y es aturdido por ^D22808^3 s^oldclr^
 
 El área queda en llamas, infligiendo ^D22808^{MainField_8}^oldclr^ de daño por segundo. Los guisantes se incendian al atravesarla. 
 
 ^D22808^- Meteoros por salva: 5^oldclr^
-^A048CF^- Área: 5x5^oldclr^
+^DD7ECB^- Área: 5x5^oldclr^
 ^4DD4DB^- Recarga: 30 s^oldclr^
 ^DB8117^- Usos: {MainField_11}^oldclr^
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_2]
-^98FB98^Activa:^oldclr^ tras alcanzar la ^E2725B^Eficacia 10^oldclr^, lanza meteoros azules que hacen ^D22808^{PassiveField1_1}^oldclr^ puntos de daño. 
+^98FB98^Activa I:^oldclr^ tras alcanzar la ^E2725B^Eficacia 10^oldclr^, lanza meteoros azules que hacen ^D22808^{PassiveField1_1}^oldclr^ puntos de daño. 
 
-Al alcanzar la ^E2725B^Eficacia 20^oldclr^, los meteoros se volverán púrpuras y harán ^D22808^{PassiveField1_2}^oldclr^ de daño.
+Al alcanzar la ^E2725B^Eficacia 20^oldclr^, los meteoros se vuelven púrpuras y hacen ^D22808^{PassiveField1_2}^oldclr^ de daño.
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_3]
 ^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, cae un meteoro en ^D22808^1 casilla^oldclr^ aleatoria al extremo derecho del patio
@@ -7462,7 +7466,7 @@ Al derrotarlos, los zombis pequeños sueltan ^D22808^{MainField_2}^oldclr^ moned
 ^DB8117^- Usos: {MainField_5}^oldclr^
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_2]
-^98FB98^Activa:^oldclr^ límite máx. de monedas obtenidas por partida ^D22808^+ {PassiveField1_1}^oldclr^
+^98FB98^Activa I:^oldclr^ límite máx. de monedas obtenidas por partida ^D22808^+ {PassiveField1_1}^oldclr^
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_3]
 ^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, convierte a los ^D22808^3^oldclr^ zombis medianos más cercanos en estatuas de oro
@@ -7489,7 +7493,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_1]
-Dispara un rayo al zombi más cercano, que inflige daño sostenido. Al agotarse la energía, el daño se reinicia. 
+Dispara un rayo al zombi más cercano, haciéndole daño sostenido. Al agotarse la energía, el daño se reinicia. 
 
 Consume ^D22808^5^oldclr^ puntos de energía por segundo, que se recarga lentamente cuando llega a 0
 
@@ -7500,7 +7504,7 @@ Consume ^D22808^5^oldclr^ puntos de energía por segundo, que se recarga lentame
 ^4DD4DB^- Vel. de recarga: 5 / s^oldclr^
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ el límite de energía aumenta a ^DD7ECB^{PassiveField1_1}^oldclr^
+^98FB98^Pasiva I:^oldclr^ el límite de energía aumenta a ^DD7ECB^{PassiveField1_1}^oldclr^
 
 La velocidad de recarga aumenta a ^4DD4DB^{PassiveField1_2} / s^oldclr^
 
@@ -7548,7 +7552,7 @@ Bloquea y empuja a los zombis de cada ^D22808^fila^oldclr^ en el patio.
 ^A048CF^- Salud del escudo: {PassiveField2_2}^oldclr^
 
 [ARTIFACT_SHIELD_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ reduce el retraso de movimiento del escudo cuando bloquea zombis
+^98FB98^Activa I:^oldclr^ reduce el retraso de movimiento del escudo cuando bloquea zombis
 
 [ARTIFACT_SILVERKEY]
 Llave abisal
@@ -7579,12 +7583,14 @@ Abre un portal que absorbe zombis pequeños y medianos en las ^D22808^3 filas^ol
 ^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas abisales^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_3]
-^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, aparecen tentáculos a los pies de ^D22808^3^oldclr^ zombis aleatorios que los arrastran hacia el suelo
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, aparecen tentáculos a los pies de ^D22808^3^oldclr^ zombis aleatorios que los arrastran hacia el suelo.
+
+^FF0000^No afecta zombis grandes ni mechs.^oldclr^
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ tras absorber zombis, saldrá un ^D22808^Zombistein abisal^oldclr^ que luchará de tu lado.
+^98FB98^Activa I:^oldclr^ tras absorber zombis, saldrá un ^D22808^Zombistein abisal^oldclr^ que luchará de tu lado.
 
-^E2725B^La fuerza del Zombistein está determinada por la cantidad de zombis absorbidos^oldclr^
+^E2725B^La fuerza del Zombistein está determinada por la cantidad de zombis absorbidos.^oldclr^
 
 [ARTIFACT_SKATEBOARD]
 Monopatín jet
@@ -7614,7 +7620,7 @@ Usa un monopatín para desplazar plantas al azar y golpear zombis para dañarlos
 ^98FB98^Activa I:^oldclr^ el daño y la defensa de la planta sobre el monopatín aumentan en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_3]
-^98FB98^Pasiva:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, varios monopatines se dirigen a los zombis más cercanos, para dañarlos y formar barreras.
+^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, varios monopatines se dirigen a los zombis más cercanos, para dañarlos y formar barreras.
 
 ^D22808^- Monopatines: 3^oldclr^
 ^DD7ECB^- Salud de barrera: 4.000^oldclr^
@@ -7651,7 +7657,7 @@ Sopla una ventisca de nieve que derriba zombis medianos y los convierte en muñe
 ^98FB98^Activa I:^oldclr^ los efectos de ralentización y congelación aumentan en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_3]
-^98FB98^Pasiva:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, dispara bolas de nieve para convertir a los ^D22808^3^oldclr^ zombis más cercanos en muñecos de nieve durante ^D22808^5 s^oldclr^
+^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, dispara bolas de nieve para convertir a los ^D22808^3^oldclr^ zombis más cercanos en muñecos de nieve durante ^D22808^5 s^oldclr^
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_4]
 ^98FB98^Activa II:^oldclr^ la ventisca lanza carámbanos que destruyen muñecos de nieve y dañan hasta ^D22808^2^oldclr^ zombis grandes.
@@ -7690,7 +7696,7 @@ Lanza un talismán que controla zombis pequeños y medianos, y aturde a los gran
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, aparecen ^D22808^5^oldclr^ zombis hipnotizados en el extremo izquierdo del patio
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ los zombis grandes pueden ser controlados por talismanes durante ^D22808^{PassiveField3_1} s^oldclr^
+^98FB98^Activa I:^oldclr^ los zombis grandes pueden ser controlados por talismanes durante ^D22808^{PassiveField3_1} s^oldclr^
 
 [ARTIFACT_SQUID]
 Pulpotech
@@ -7713,7 +7719,7 @@ Nivel 4
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_1]
 Lanza pulpos robóticos a los zombis para atraparlos.
 
-^FF0000^No afecta zombis grandes ni mechs^oldclr^
+^FF0000^No afecta zombis grandes ni mechs.^oldclr^
 
 ^00AAE4^- Salud: {MainField_1}^oldclr^
 ^4DD4DB^- Recarga: 30 s^oldclr^
@@ -7726,7 +7732,7 @@ Lanza pulpos robóticos a los zombis para atraparlos.
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, lanza ^D22808^{PassiveField2_2}^oldclr^ pulpos para atrapar a los zombis más cercanos
 
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ los zombis atrapados perderán un ^D22808^{PassiveField3_1} %^oldclr^ de salud por segundo.
+^98FB98^Activa I:^oldclr^ los zombis atrapados perderán un ^D22808^{PassiveField3_1} %^oldclr^ de salud por segundo.
 
 El efecto ahora funciona en zombis grandes.
 
@@ -7764,7 +7770,7 @@ La recarga aumenta a
 ^4DD4DB^10 balas / s^oldclr^
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ las balas de la salva se transforman en bolas de fuego azules, que hacen ^D22808^2^oldclr^ veces más daño.
+^98FB98^Activa I:^oldclr^ las balas de la salva se transforman en bolas de fuego azules, que hacen ^D22808^2^oldclr^ veces más daño.
 
 Después de cada ^D22808^4^oldclr^ balas, se dispara una grande que hace ^D22808^3^oldclr^ veces más daño y derriba zombis medianos por ^D22808^0,1^oldclr^ casillas.
 
@@ -7795,7 +7801,7 @@ Devuelve a todos los zombis del patio a su lugar de inicio.
 ^DB8117^- Usos: {MainField_2}^oldclr^
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva:^oldclr^ el tiempo de recuperación de las plantas se reduce en un ^D22808^{PassiveField1_1} %^oldclr^
+^98FB98^Pasiva I:^oldclr^ el tiempo de recuperación de las plantas se reduce en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_3]
 ^98FB98^Activa I:^oldclr^ el tiempo se detiene en un ^D22808^área 3x5^oldclr^ a la derecha.
@@ -7851,7 +7857,7 @@ Los demás zombis son derribados, reciben daño y quedan aturdidos por ^FF9600^4
 ^D22808^- Duración: 15 s^oldclr^
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ genera un remolino que atrae a los zombis de las ^D22808^5 filas^oldclr^ del patio a medida que se desplaza, y luego los empuja hacia la ^D22808^última columna^oldclr^
+^98FB98^Activa I:^oldclr^ genera un remolino que atrae a los zombis de las ^D22808^5 filas^oldclr^ del patio a medida que se desplaza, y luego los empuja hacia la ^D22808^última columna^oldclr^
 
 El remolino desaparece si empuja a ^D22808^3^oldclr^ zombis grandes
 
@@ -7891,7 +7897,7 @@ Abduce a todos los zombis en pantalla. Los zombis abducidos son eliminados; los 
 ^D22808^Número de OVNIs: 3^oldclr^
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ los zombis abducidos son derribados por los ataques de plantas voladoras o flotantes.
+^98FB98^Activa I:^oldclr^ los zombis abducidos son derribados por los ataques de plantas voladoras o flotantes.
 
 ^E2725B^La distancia de empuje está relacionada con el tamaño del zombi.^oldclr^
 
@@ -7928,7 +7934,7 @@ Lanza ^D22808^10^oldclr^ jarrones con sorpresas dentro.
 ^98FB98^Pasiva II:^oldclr^ lanza un jarrón adicional cada ^D22808^{PassiveField2_1} s^oldclr^
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ el contenido de los jarrones se vuelve mejor.
+^98FB98^Activa I:^oldclr^ el contenido de los jarrones se vuelve mejor.
 
 ^C47A52^Contenido: gallinas, zombis iluminados, semillas de plantas explosivas^oldclr^
 
@@ -7963,7 +7969,7 @@ Dispara un torrente que derriba zombis y los hace vulnerables al hielo.
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, las ^D22808^3 primeras columnas^oldclr^ de plantas son rociadas, lo que aumenta su vel. de ataque un ^D22808^25 %^oldclr^ por ^D22808^10 s^oldclr^
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ la distancia de empuje aumenta en ^D22808^{PassiveField3_1}^oldclr^ casilla (s) por segundo
+^98FB98^Activa I:^oldclr^ la distancia de empuje aumenta en ^D22808^{PassiveField3_1}^oldclr^ casilla (s) por segundo
 
 [ARTIFACT_WEATHERMONKEY]
 Fuegos artificiales
@@ -7998,10 +8004,10 @@ Los cohetes hacen daño de área y repelen zombis al explotar.
 ^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas cañón^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_3]
-^98FB98^Pasiva II:^oldclr^ cada ^D22808^15 s^oldclr^, lanza ^D22808^5^oldclr^ fuegos artificiales que se dirigen a los zombis y les quitan un ^D22808^{PassiveField2_1} %^oldclr^ de su salud actual
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^15 s^oldclr^, lanza ^D22808^5^oldclr^ cohetes que se dirigen a los zombis y les quitan un ^D22808^{PassiveField2_1} %^oldclr^ de su salud actual
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_4]
-^98FB98^Activa:^oldclr^ los fuegos artificiales derriban zombis ^D22808^2 casillas^oldclr^ hacia atrás antes de explotar
+^98FB98^Activa I:^oldclr^ los cohetes derriban zombis ^D22808^2 casillas^oldclr^ hacia atrás antes de explotar
 
 [ARTIFACT_WIND]
 Abanico caótico
@@ -8030,13 +8036,13 @@ Sopla un viento que derriba y atrae zombis medianos por ^D22808^{MainField_2} s^
 ^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_2]
-^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas ninja^oldclr^ en un ^D22808^{PassiveField1_1} %^oldclr^
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas ninja^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_3]
-^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, sopla un viento en una línea aleatoria, que derriba zombis ^D22808^{PassiveField2_2}^oldclr^ casilla (s)
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, sopla un viento en una línea aleatoria, que derriba zombis ^D22808^{PassiveField2_2}^oldclr^ casilla (s) hacia atrás
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_4]
-^98FB98^Activa: ^D22808^{PassiveField3_1} %^oldclr^ de probabilidad de eliminar zombis medianos con sus ventarrones
+^98FB98^Activa I: ^D22808^{PassiveField3_1} %^oldclr^ de probabilidad de eliminar zombis medianos con sus ventarrones
 
 [ASH]
 Incinerar
