@@ -1,6 +1,22 @@
 ﻿[#OF#]
 # de #
 
+[HEALTH_NOTICE_CONTENT_3]
+^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
+^FF9E6B^Versión actual: 4.2.3^oldclr^ | ^87CEFA^Parche: 1.2.0 (actualizado el 17/9/2026)^oldclr^
+^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
+
+[AGE_TIP]
+Notas de la actualización 4.2.3
+
+[AGE_TIP_CONTENT]
+1. Nuevo mundo: Base Lunar Z
+2. Nuevas plantas del mundo lunar y Flamboyán (evento)
+3. Nuevos zombis del mundo lunar
+4. Nuevo evento: Gala de aniversario (¡Feliz 13° aniversario!)
+5. Nuevo sistema de actualización in-app (Hot Update)
+6. Optimización y correción de errores
+
 [LOW_DISK_SPACE_WARNING]
 Poco espacio de almacenamiento disponible. ¡Limpia tu dispositivo!
 
@@ -1150,18 +1166,18 @@ Reduce el intervalo para convocar guisantes a ^D22808^25 s^oldclr^
 ^D22808^10 % de probabilidad ^FF8000^de generar otro paquete de semillas inmediatamente^oldclr^
 
 [COSMICPEA_NEW_SKILL_LEVEL4_DES]
-^D22808^50 % de probabilidad^oldclr^ de evolucionar al plantarse.
-^DB8117^Nutrientes: evoluciona junto a tres plantas cósmicas alrededor^oldclr^
-^A048CF^Evolución al máximo: libera una ráfaga de guisantes en 3 líneas^oldclr^
+Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
+^DB8117^Nutrientes: evoluciona junto a tres plantas cósmicas alrededor.^oldclr^
+^A048CF^Evolución al máximo: libera una ráfaga de guisantes en 3 líneas.^oldclr^
 
 [COSMICPEA_NEW_SKILL_LEVEL5_DES]
-^D22808^25 %^oldclr^ de disparar un cuerpo celeste que arrastra zombis y explota al llegar al centro del patio.
+^D22808^25 %^oldclr^ de disparar un cuerpo celeste que explota y hace daño de área.
 ^A048CF^Cuerpo celeste: hace 100 DPS por impacto y 160 por explosión (área 3x3)^oldclr^
 ^E2725B^Especial: hace el doble de daño con las marcas al máximo^oldclr^
 
 [COSMICPEA_PLANTFOOD_DESCRIPTION]
 Evoluciona junto a tres plantas cósmicas alrededor.
-^A048CF^Evolución al máximo: libera una ráfaga de guisantes en 3 líneas^oldclr^
+^A048CF^Evolución al máximo: libera una ráfaga de guisantes en 3 líneas.^oldclr^
 
 [COSMICPEA_AVATAR_PLANTFOOD_DESCRIPTION]
 Plantas evolucionadas con Nutrientes ^D22808^+2 (ahora 5)^oldclr^
@@ -1228,9 +1244,9 @@ Al ser derrotada, deja un agujero negro que atrae zombis cercanos hacia el centr
 Al ser derrotada, deja un agujero negro que atrae zombis cercanos hacia el centro. ^A048CF^Duración: 6 s^oldclr^
 
 [COSMICNUT_NEW_SKILL_LEVEL4_DES]
-^D22808^50 % de probabilidad^oldclr^ de evolucionar al plantarse.
-^DB8117^Nutrientes: evoluciona junto a tres Nueces cósmicas alrededor^oldclr^
-^A048CF^Evolución al máximo: obtiene una armadura meteórica^oldclr^
+Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
+^DB8117^Nutrientes: evoluciona junto a tres Nueces cósmicas alrededor.^oldclr^
+^A048CF^Evolución al máximo: obtiene una armadura meteórica.^oldclr^
 
 [COSMICNUT_NEW_SKILL_LEVEL5_DES]
 Cuando haya zombis cerca, toca en el agujero negro y toca en una casilla para teleportarlos.
@@ -1238,7 +1254,7 @@ Cuando haya zombis cerca, toca en el agujero negro y toca en una casilla para te
 
 [COSMICNUT_PLANTFOOD_DESCRIPTION]
 Evoluciona junto a tres Nueces cósmicas alrededor.
-^A048CF^Evolución al máximo: obtiene una armadura meteórica^oldclr^
+^A048CF^Evolución al máximo: obtiene una armadura meteórica.^oldclr^
 
 [COSMICNUT_AVATAR_PLANTFOOD_DESCRIPTION]
 Plantas evolucionadas con Nutrientes ^D22808^+2 (ahora 5)^oldclr^
@@ -1306,9 +1322,9 @@ Reduce el intervalo para convocar setas a ^D22808^25 s^oldclr^
 ^D22808^10 % de probabilidad ^FF8000^de generar otro paquete de semillas inmediatamente^oldclr^
 
 [COSMICMUSHROOM_NEW_SKILL_LEVEL4_DES]
-^D22808^50 % de probabilidad^oldclr^ de evolucionar al plantarse.
-^DB8117^Nutrientes: evoluciona junto a tres plantas cósmicas alrededor^oldclr^
-^A048CF^Evolución al máximo: libera una ráfaga de esporas por la línea^oldclr^
+Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
+^DB8117^Nutrientes: evoluciona junto a tres plantas cósmicas alrededor.^oldclr^
+^A048CF^Evolución al máximo: libera una ráfaga de esporas por la línea.^oldclr^
 
 [COSMICMUSHROOM_NEW_SKILL_LEVEL5_DES]
 ^D22808^20 %^oldclr^ de crear un agujero de gusano del cual salen setas que atacan y derriban zombis.
@@ -1316,7 +1332,7 @@ Reduce el intervalo para convocar setas a ^D22808^25 s^oldclr^
 
 [COSMICMUSHROOM_PLANTFOOD_DESCRIPTION]
 Evoluciona junto a tres plantas cósmicas alrededor.
-^A048CF^Evolución al máximo: libera una ráfaga de esporas por la línea^oldclr^
+^A048CF^Evolución al máximo: libera una ráfaga de esporas por la línea.^oldclr^
 
 [COSMICMUSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
 Plantas evolucionadas con Nutrientes ^D22808^+2 (ahora 5)^oldclr^
@@ -1328,7 +1344,7 @@ Gravitárbol
 {KEYWORD}Área de efecto: {STAT}3x3
 {KEYWORD}Especial: {STAT}neutraliza el salto del Caminante lunar
 
-^397F24^Nutrientes: {STAT}crea un campo gravitacional que atrae zombis hacia el centro y los entierra
+^397F24^Nutrientes: {STAT}atrae a un zombi hacia él y crea un campo gravitacional que entierra al resto
 
 ^FF8000^Características de la planta: {STAT}planta roja, galáctica
 
@@ -1384,17 +1400,18 @@ Reduce el tiempo entre ataques en ^D22808^2 s (ahora 4 s)^oldclr^
 
 [GRAVITREE_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^20 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: crea un campo gravitacional que atrae zombis hacia el centro y los entierra por 6 s.^oldclr^
+^DB8117^Nutrientes: atrae a un zombi hacia él y crea un campo gravitacional que entierra al resto por 6 s.^oldclr^
 ^D22808^Área del efecto: 5x5^oldclr^
 
 [GRAVITREE_NEW_SKILL_LEVEL5_DES]
 Ataca con hipergravedad que entierra zombis medianos en el suelo durante ^D22808^3 s^oldclr^
 
 [GRAVITREE_PLANTFOOD_DESCRIPTION]
-Crea un campo gravitacional que atrae zombis hacia el centro y los entierra
+Atrae a un zombi hacia él y crea un campo gravitacional que entierra al resto
 
 [GRAVITREE_AVATAR_PLANTFOOD_DESCRIPTION]
-Lanza una manzana gigante que explota. ^D22808^Daño: 200 (área 3x3)^oldclr^
+Una manzana gigante cae en la casilla donde está plantado, explotando y haciendo daño de área.
+^D22808^Daño: 200 (área 3x3)^oldclr^
 
 [DARKMATTER_DRAGONFRUIT]
 Pitaya de materia oscura
@@ -1404,7 +1421,7 @@ Pitaya de materia oscura
 
 {KEYWORD}Estado cuántico: {STAT}los proyectiles dañan y atraviesan a los zombis enviados al reino cuántico
 
-^397F24^Nutrientes: {STAT}invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio
+^397F24^Nutrientes: {STAT}invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio, dejando fuego en un área extensa
 
 ^FF8000^Características de la planta: {STAT}planta roja, galáctica, destructora
 
@@ -1460,7 +1477,7 @@ La duración del estado cuántico aumenta a ^D22808^6 s^oldclr^
 
 [DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^30 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio.
+^DB8117^Nutrientes: invoca un dragón que dispara proyectiles a 3 zombis aleatorios, dejando fuego en un área extensa.
 ^D22808^Daño: 1.500 (área 5x5)^oldclr^
 
 [DARKMATTER_DRAGONFRUIT_NEW_SKILL_LEVEL5_DES]
@@ -1468,7 +1485,7 @@ Despertar: ^D22808^30 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^E2725B^Especial: efecto garantizado tras usar Nutrientes.^oldclr^
 
 [DARKMATTER_DRAGONFRUIT_PLANTFOOD_DESCRIPTION]
-Invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio
+Invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio, dejando fuego en un área extensa
 
 [DARKMATTER_DRAGONFRUIT_AVATAR_PLANTFOOD_DESCRIPTION]
 Proyectiles con Nutrientes ^D22808^+2 (ahora 5)^oldclr^
@@ -1479,7 +1496,7 @@ Flamboyán
 [PHOENIXFLOAT_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}ataque (línea) - banda musical (área 3x3)
 
-^397F24^Nutrientes: {STAT}invoca una carroza voladora que causa daño por segundo y ralentiza zombis
+^397F24^Nutrientes: {STAT}invoca una carroza voladora que libera pétalos, los cuales, causan daño por segundo y ralentizan zombis
 
 ^FF8000^Características de la planta: {STAT}planta roja, hábil
 ^FF8000^Miscelánea: {STAT}planta especial del 13° Aniversario
@@ -1517,7 +1534,7 @@ Nivel 5
 Moño azul
 
 [STORE_PRODUCT_AVATAR_PHOENIXFLOAT]
-Amplia la duración y el daño por segundo del efecto de Nutrientes
+Amplia la duración de los pétalos ralentizadores del efecto
 
 [STORE_PRODUCT_AVATAR_PHOENIXFLOAT_TITLE]
 Moño azul
@@ -1534,16 +1551,16 @@ Reduce el tiempo para liberar carrozas en un ^D22808^70 %^oldclr^
 
 [PHOENIXFLOAT_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^30 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: invoca una carroza voladora que causan daño por segundo y ralentizan zombis un ^D22808^50% por 5 s^oldclr^
+^DB8117^Nutrientes: invoca una carroza voladora que libera pétalos, los cuales, causan daño por segundo y ralentizan zombis un ^D22808^50% por 5 s^oldclr^
 
 [PHOENIXFLOAT_NEW_SKILL_LEVEL5_DES]
 ^D22808^30 % de probabilidad^oldclr^ de liberar una carroza llena de pétalos que potencia plantas y controla zombis durante ^D22808^5 s^oldclr^
 
 [PHOENIXFLOAT_PLANTFOOD_DESCRIPTION]
-Invoca una carroza voladora que causa daño por segundo y ralentiza zombis
+Invoca una carroza voladora que libera pétalos, los cuales, causan daño por segundo y ralentizan zombis
 
 [PHOENIXFLOAT_AVATAR_PLANTFOOD_DESCRIPTION]
-La duración del efecto de Nutrientes aumenta a ^D22808^9 s^oldclr^
+La duración de los pétalos ralentizadores del efecto aumenta en ^D22808^4 s (ahora 9 s)^oldclr^
 
 [ZOMBIE_MOON]
 Zombi astronauta
@@ -1691,7 +1708,7 @@ Cosmoss solo puede plantarse junto a otro Cosmoss
 Solo las plantas cósmicas pueden usar cohetes espaciales
 
 [LIFE_SUPPORT_COLLAPSE_SOON]
-SOPORTE VITAL COLAPSADO: las plantas entrarán en letargo por 5 s
+SOPORTE VITAL COLAPSADO: las plantas entrarán en letargo dentro de 5 s
 
 [ADVICE_RADIATION_METEOR]
 ¡Lluvia de meteoros!
@@ -1886,7 +1903,7 @@ T32: Mechasaurio
 {SAY:crazydave}Bueno, dicen que las crisis sacan el instinto de supervivencia que llevamos dentro. ¡Más les vale demostrarlo!
 
 [NARRATIVE_PVZ1_S32_15_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Cubierta despejada! ¡Motores a toda potencia!
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Cubierta: ¡despejada! Motores: ¡a toda potencia!
 
 [NARRATIVE_PVZ1_S32_15_H_INTRO_2]
 {SAY:crazydave}Ahora ningún zombi podrá alcanzarnos. Bueno... salvo los Espadachines y Gavioteros.
@@ -2512,9 +2529,7 @@ CAJA FUERTE
 El evento no está disponible.
 
 [SOUDACHE_TIPS_DESC]
-1. La Zona de infinito se desbloquea al completar el Modo difícil.
-2. Sobrevive a las 100 oleadas y gana Cristales cósmicos.
-3. Los cristales se pueden canjear por avatares en la Tienda.
+
 
 [SOUDACHE_CRYSTAL_DUST_COUNT]
 {NUM}
@@ -3143,13 +3158,13 @@ Empiezas con 3 plantas iniciales. Las plantas son de Nivel 1, y mejoran cada vez
 
 [SOUDACHE_HOWTOPLAY_DESC_03]
 (A) Sube la fuerza estelar de las plantas para mejorar sus atributos.
-(B) Desbloquea todas las plantas para activar sinergías poderosas.
+(B) Reúne plantas para activar sinergías poderosas.
 
 [SOUDACHE_HOWTOPLAY_SUBTITLE_04]
 4. Parcelas / Barra de energía
 
 [SOUDACHE_HOWTOPLAY_DESC_04]
-(A) Solo puedes plantar en parcelas. Estas conforme vayas avanzando.
+(A) Solo puedes plantar en parcelas. Estas salen conforme vayas avanzando.
 (B) Toca en una planta con la barra llena para liberar su efecto de Nutrientes.
 
 [SOUDACHE_HOWTOPLAY_SUBTITLE_05]
@@ -3163,7 +3178,7 @@ Al iniciar la extracción, aparecerán zombis. ¡Ten cuidado!
 6. Calidad de recursos
 
 [SOUDACHE_HOWTOPLAY_DESC_06]
-El color de los recursos indica su calidad. A mayor calidad, mejores premios, pero también, más riego de zombis
+El color de los recursos indica su calidad. A mayor calidad, mejores premios, pero también, más riesgo de zombis
 
 [SOUDACHE_HOWTOPLAY_SUBTITLE_07]
 7. Retirada
@@ -4582,7 +4597,7 @@ El tiempo de aturdimiento del efecto aumenta en ^D22808^2 s (ahora es de 5 s)^ol
 Siempreviva usa la magia oscura para atrapar zombis en el vacío durante un tiempo.
 
 [AEONIUM_NEW_SKILL_LEVEL1_DES]
-Envía zombis al vacío. ^D22808^Duración del vacío: 5 s^oldclr^
+Envía zombis al vacío. ^A048CF^Duración del vacío: 5 s^oldclr^
 ^E2725B^Especial: hace a los zombis vulnerables a la magia^oldclr^
 
 [AEONIUM_NEW_SKILL_LEVEL2_DES]
@@ -4657,7 +4672,7 @@ Agave
 Decapita a los zombis que tiene al frente.
 
 [AGAVE_NEW_SKILL_LEVEL2_DES]
-Carga un potente ataque que inflige un ^D22808^100 %^oldclr^ más daño. ^D22808^Carga del ataque: 3 s^oldclr^
+Carga un potente ataque que inflige un ^D22808^100 %^oldclr^ más daño. ^00AAE4^Carga del ataque: 3 s^oldclr^
 
 [AGAVE_NEW_SKILL_LEVEL3_DES]
 El tiempo de carga del ataque potenciado se reduce a ^D22808^1,5 s^oldclr^
@@ -4734,17 +4749,6 @@ Doy mi consentimiento para que los datos personales que se recopilen a través d
 
 [AGE_GATE_TITLE]
 Dinos tu edad.
-
-[AGE_TIP]
-Notas de la actualización 4.2.2
-
-[AGE_TIP_CONTENT]
-1. Nuevo mundo: Base Lunar Z
-2. Nuevas plantas del mundo lunar y Flamboyán (evento)
-3. Nuevos zombis del mundo lunar
-4. Nuevo evento: Gala de aniversario (¡Feliz 13° aniversario!)
-5. Nuevo sistema de actualización in-app (Hot Update)
-6. Optimización y correción de errores
 
 [AIRSHIP_CRASH_LOSS]
 ¡TU NAVE FUE DESTRUIDA!
@@ -5996,11 +6000,11 @@ Rhododendron
 ^DD7ECB^Danza de pétalos: cada 10 s, otorga ^D22808^20 % más daño y 50 % más velocidad ^DD7ECB^por ^D22808^5 s^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL2_DES]
-^DB8117^Nube sagrada: coste de la habilidad ^D22808^-50 % (coste actual: 100 %)^oldclr^
+^DB8117^Nube sagrada: coste de la habilidad ^D22808^-50 % (coste actual: 150 %)^oldclr^
 ^DD7ECB^Danza de pétalos: tiempo de activación ^D22808^-2 s (ahora 8 s)^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL3_DES]
-^DB8117^Nube sagrada: coste de la habilidad ^D22808^-100 % (coste actual: 50 %)^oldclr^
+^DB8117^Nube sagrada: coste de la habilidad ^D22808^-100 % (coste actual: 100 %)^oldclr^
 ^DD7ECB^Danza de pétalos: tiempo de activación ^D22808^-4 s (ahora 6 s)^oldclr^
 
 [APSARLOTUS_NEW_SKILL_LEVEL4_DES]
@@ -6126,7 +6130,7 @@ Nivel 3
 Nivel 5
 
 [AQUAVINE_SKILL_LEVEL5_DES]
-^DB8117^Remolino:^oldclr^ tras 5 ataques, dispara un remolino que daña y arrastra zombis pequeños o medianos
+^DB8117^Vórtice azul:^oldclr^ tras 5 ataques, dispara un remolino que daña y arrastra zombis pequeños o medianos
 
 [AQUAVINE_TOOLTIP]
 Planta de apoyo anfibia con un potente chorro de agua
@@ -6364,6 +6368,156 @@ Recargando...
 [ARTIFACT]
 Artefactos
 
+[ARTIFACT_DETAILS_PREVIEW]
+Detalles del Artefacto
+
+[ARTIFACT_NO_ARTIFACT]
+Sin Artefactos disponibles.
+
+[ARTIFACT_NO_DETAILS]
+Sin detalles
+
+[ARTIFACT_PREVIEW]
+Vista previa
+
+[ARTIFACT_DEMOLEVEL_NAME]
+Prueba de Artefactos
+
+[ARTIFACT_DEMO_LEVEL_BUTTON_L]
+MÁS TARDE
+
+[ARTIFACT_DEMO_LEVEL_BUTTON_R]
+IR
+
+[ARTIFACT_DEMO_LEVEL_WON_MESSAGE_TEXT]
+Puede conseguirse en: Tienda de Artefactos
+
+[ARTIFACT_DEMO_LEVEL_WON_MESSAGE_TITLE]
+OBTENCIÓN DE ARTEFACTOS
+
+[ARTIFACT_FREE_DEMO_LEVEL_BUTTON]
+ACEPTAR
+
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT]
+Puede conseguirse en: Dimensión del Recuerdo
+
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT2]
+Puede conseguirse en: El Tesoro del Dragón
+
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]
+Puede conseguirse en: La Caza del Tesoro
+
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT4]
+Puede conseguirse en: La Fuente de los Deseos
+
+[ARTIFACT_WAY_TO_GET]
+Puede conseguirse: completando niveles, Tienda de Artefactos
+
+[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TITLE]
+OBTENCIÓN DE ARTEFACTOS
+
+[ARTIFACT_LEVEL_NAME]
+Colección de Artefactos
+
+[ARTIFACT_LEVEL_UP]
+SUBIR DE NIVEL
+
+[ARTIFACT_LEVEL_UP_CONFIRM]
+¿Seguro que deseas subir el Nivel de este artefacto?
+
+[ARTIFACT_RANK_UP]
+MEJORAR EFICACIA
+
+[ARTIFACT_RANK_UP_CONFIRM]
+¿Seguro que deseas mejorar la Eficacia de este artefacto?
+
+[ARTIFACT_SELECT]
+Elige tu artefacto
+
+[ARTIFACT_PRESENT_NEW_TITLE]
+Lote del inventor
+
+[ARTIFACT_PRESENT_UNLOCK_TIP]
+Cada lote tiene un límite de compras.
+
+[ARTIFACT_BLESS]
+Cupones de Artefactos
+
+[ARTIFACT_BLESS_ADVANCED]
+Cupones avanzados
+
+[ARTIFACT_BLESS_CHECK_FAILED_TITLE]
+AVISOS
+
+[ARTIFACT_BLESS_CHECK_FAILED_TXT]
+Cupones insuficientes, no puedes potenciar este Artefacto.
+
+[ARTIFACT_BLESS_DESCRIPTION]
+1. Los Cupones de mejora pueden usarse para añadir efectos adicionales a los Artefactos.
+2. Los atributos épicos solo tienen efecto en el artefacto actual.
+3. Los atributos legendarios tienen efecto en todos los artefactos excepto en aquellos que son únicos.
+
+^A0522D^• Efectos de mejora y su probabilidad^oldclr^
+
+^777777^Común: 54%^oldclr^
+^0072FF^Raro: 30%^oldclr^
+^8f43f5^Épico: 15%^oldclr^
+^ec6a00^Legendario: 1%^oldclr^
+
+[ARTIFACT_BLESS_DESCRIPTION_TITLE]
+SOBRE LOS CUPONES DE ARTEFACTO
+
+[ARTIFACT_BLESS_LEGEND_TIPS]
+Chance de obtener Cupones avanzados: ^ff0000^+ {LEFT_COUNT}%^oldclr^
+
+[ARTIFACT_BLESS_MATERIAL_ADVANCE_NOT_ENOUGH]
+No tienes suficientes Cupones avanzados, ¿deseas ir a la Tienda de Artefactos?
+
+[ARTIFACT_BLESS_MATERIAL_NORMAL_NOT_ENOUGH]
+No tienes suficientes Cupones, puedes conseguir más en La Tienda del Recuerdo o en otros eventos.
+
+[ARTIFACT_CURRENT_BLESS]
+Cupones actuales
+
+[ARTIFACT_BLESS_NORMAL]
+Cupones comunes
+
+[ARTIFACT_BLESS_SAVE_LEFT]
+GUARDAR
+
+[ARTIFACT_BLESS_SAVE_RIGHT]
+REEMPLAZAR
+
+[ARTIFACT_BOOST_TYPE_1]
+Daño +
+
+[ARTIFACT_BOOST_TYPE_2]
+Duración +
+
+[ARTIFACT_BOOST_TYPE_3]
+Control +
+
+[ARTIFACT_BOOST_TYPE_4]
+Recarga rápida +
+
+[ARTIFACT_BOOST_TYPE_5]
+Usos +
+
+[ARTIFACT_BOOST_TYPE_6]
+Pasiva II: recarga +
+
+[ARTIFACT_BOOST_TYPE_7]
+Pasiva I: eficacia +
+
+[ARTIFACT_BOOST_TYPE_8]
+Pasiva I: activación global
+
+[ARTIFACT_BOOST_TYPE_9]
+Soles iniciales +
+
+[ARTIFACT_BOOST_TYPE_10]
+Primer plantado instantáneo
+
 [ARTIFACT_ACID]
 Disolvente
 
@@ -6383,16 +6537,22 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_1]
-Convierte una casilla en un charco de ácido. Disuelve zombis pequeños con el tiempo. Dos charcos juntos pueden eliminar zombis medianos y grandes. ^DB8117^Usos: {MainField_2}^oldclr^
+Convierte una casilla en un charco de ácido que disuelve zombis pequeños con el tiempo.
+
+^E2725B^Dos charcos juntos pueden eliminar zombis medianos y grandes.^oldclr^
+
+^DB8117^- Usos: {MainField_2}^oldclr^
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas venenosas en un {PassiveField1_1}%
+^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas venenosas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad activa:^oldclr^ los zombis son disueltos un {PassiveField2_1}% más rápido.
+^98FB98^Activa I:^oldclr^ los zombis son disueltos un ^D22808^{PassiveField2_1} %^oldclr^ más rápido
 
 [ARTIFACT_ACID_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ los zombis disueltos se convierten en Mutantes de ácido que luchan a tu lado. Al ser derrotados, causarán grandes daños al enemigo en un área 3x3
+^98FB98^Activa II:^oldclr^ los zombis disueltos se convierten en ^D22808^Mutantes de ácido^oldclr^ que luchan a tu lado.
+
+^E2725B^Al ser derrotados, causarán grandes daños al enemigo en un ^D22808^área 3x3^oldclr^
 
 [ARTIFACT_ARCADE]
 Arcade
@@ -6413,16 +6573,22 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_1]
-Invoca 2 filas de Lanzaguisantes 8-bit a la izquierda del jardín y detiene el tiempo por 5 s. Toca la pantalla para aumentar los disparos. Cada proyectil inflige {MainField_1} de daño. Los guisantes desaparecen al final. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_3}^oldclr^
+Invoca ^D22808^2 filas^oldclr^ de Lanzaguisantes 8-bit a la izquierda del jardín y detiene el tiempo. Toca la pantalla para aumentar los disparos. Cada proyectil hace ^D22808^{MainField_1}^oldclr^ de daño. Los guisantes desaparecen al final.
+
+^D22808^- Tiempo de acción: 5 s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas futuristas en un {PassiveField1_1}%
+^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas futuristas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ tras atacar, los Lanzaguisantes de 8-bits permanecerán en batalla durante {PassiveField2_1} s
+^98FB98^Activa I:^oldclr^ tras atacar, los Lanzaguisantes de 8-bits permanecerán en batalla durante ^D22808^{PassiveField2_1} s^oldclr^
 
 [ARTIFACT_ARCADE_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ los Lanzaguisantes de 8-bits tienen la posibilidad de disparar guisantes congelados, en llamas o primitivos.
+^98FB98^Activa II:^oldclr^ los Lanzaguisantes de 8-bits tienen la posibilidad de disparar otros proyectiles.
+
+^A0522D^Proyectiles: guisantes congelados, en llamas, primitivos^oldclr^
 
 [ARTIFACT_BEEHIVE]
 Colmena
@@ -6443,16 +6609,23 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_1]
-Plantar genera abejas (máx. 15). Al activar el artefacto, todas atacan al zombi más cercano. Cada abeja inflige {MainField_2} de daño y ataca 10 veces. ^4DD4DB^Recarga: 30 s^oldclr^
+Plantar genera abejas. Al activar el artefacto, todas atacan al zombi más cercano.
+
+Cada abeja hace ^D22808^{MainField_2}^oldclr^ de daño y ataca ^D22808^10^oldclr^ veces.
+
+^FF0000^- Límite de abejas: 15^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ las plantas se recargan un {PassiveField1_1}% más rápido.
+^98FB98^Pasiva:^oldclr^ las plantas se recargan un ^D22808^{PassiveField1_1} %^oldclr^ más rápido
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad activa:^oldclr^ existe un {PassiveField2_1}% de probabilidad de atraer a 1 abeja extra al plantar.
+^98FB98^Activa I: ^D22808^{PassiveField2_1} %^oldclr^ de probabilidad de atraer a ^D22808^1^oldclr^ abeja extra al plantar
 
 [ARTIFACT_BEEHIVE_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ las abejas excedentes se fusionan en una abeja gigante que duplica daño y velocidad, ralentiza zombis y les inflige 1% de su vida máxima por segundo.
+^98FB98^Activa II:^oldclr^ las abejas excedentes se fusionan en una abeja gigante que duplica velocidad y ponzoña zombis.
+
+^701EDF^- Veneno: quita 1% de PS / s^oldclr^
 
 [ARTIFACT_BLACKHOLE]
 Núcleo negro
@@ -6473,91 +6646,25 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_1]
-Crea un agujero negro que atrae zombis cercanos. Los pequeños y medianos son absorbidos; los grandes reciben {MainField_2} de daño por segundo. ^D22808^Duración: {MainField_1} s^oldclr^ ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_4}^oldclr^
+Crea un agujero negro que atrae zombis cercanos. Los pequeños y medianos son absorbidos; los grandes reciben ^D22808^{MainField_2}^oldclr^ de daño por segundo. 
+
+^A048CF^- Duración: {MainField_1} s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ cuando el agujero negro desaparezca, se liberará una onda gravitatoria, la cual, atrae zombis hacia el centro.
+^98FB98^Activa I:^oldclr^ cuando el agujero negro desaparezca, se liberará una onda gravitatoria que atrae zombis hacia el centro
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, se generará un agujero negro en un área 5x5 al extremo derecho del patio que atrae zombis de un área 3x3 durante {PassiveField2_2} s
+^98FB98^Pasiva:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, se genera un agujero negro en un ^D22808^área 5x5^oldclr^ al extremo derecho del patio.
+
+^A0522D^- Área de atracción: 3x3^oldclr^
+^A048CF^- Duración: {PassiveField2_2} s^oldclr^
 
 [ARTIFACT_BLACKHOLE_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ oculta una casilla que protege las plantas y elimina al instante a los zombis que la crucen. ^D22808^Duración: {PassiveField3_1} s^oldclr^
+^98FB98^Activa II:^oldclr^ oculta una casilla que protege plantas y elimina al instante a los zombis que la crucen.
 
-[ARTIFACT_BLESS]
-Cupones de Artefactos
-
-[ARTIFACT_BLESS_ADVANCED]
-Cupones avanzados
-
-[ARTIFACT_BLESS_CHECK_FAILED_TITLE]
-AVISOS
-
-[ARTIFACT_BLESS_CHECK_FAILED_TXT]
-Cupones insuficientes, no puedes potenciar este Artefacto.
-
-[ARTIFACT_BLESS_DESCRIPTION]
-1. Los Cupones de mejora pueden usarse para añadir efectos adicionales a los Artefactos.
-2. Los atributos épicos solo tienen efecto en el artefacto actual.
-3. Los atributos legendarios tienen efecto en todos los artefactos excepto en aquellos que son únicos.
-
-^A0522D^• Efectos de mejora y su probabilidad según tipo^oldclr^
-
-^777777^Común: 54%^oldclr^
-^0072FF^Raro: 30%^oldclr^
-^8f43f5^Épico: 15%^oldclr^
-^ec6a00^Legendario: 1%^oldclr^
-
-[ARTIFACT_BLESS_DESCRIPTION_TITLE]
-SOBRE LOS CUPONES DE ARTEFACTO
-
-[ARTIFACT_BLESS_LEGEND_TIPS]
-La probabilidad de obtener Cupones avanzados aumenta en ^ff0000^{LEFT_COUNT}^oldclr^
-
-[ARTIFACT_BLESS_MATERIAL_ADVANCE_NOT_ENOUGH]
-No tienes suficientes Cupones avanzados, ¿deseas ir a la Tienda de Artefactos?
-
-[ARTIFACT_BLESS_MATERIAL_NORMAL_NOT_ENOUGH]
-No tienes suficientes Cupones, puedes conseguir más en La Tienda del Recuerdo o en otros eventos.
-
-[ARTIFACT_BLESS_NORMAL]
-Cupones comunes
-
-[ARTIFACT_BLESS_SAVE_LEFT]
-GUARDAR
-
-[ARTIFACT_BLESS_SAVE_RIGHT]
-REEMPLAZAR
-
-[ARTIFACT_BOOST_TYPE_1]
-Más daño
-
-[ARTIFACT_BOOST_TYPE_2]
-Mayor duración
-
-[ARTIFACT_BOOST_TYPE_3]
-Control mejorado
-
-[ARTIFACT_BOOST_TYPE_4]
-Recarga rápida
-
-[ARTIFACT_BOOST_TYPE_5]
-Usos extra
-
-[ARTIFACT_BOOST_TYPE_6]
-Pasiva II: recarga rápida
-
-[ARTIFACT_BOOST_TYPE_7]
-Pasiva: mayor eficiencia
-
-[ARTIFACT_BOOST_TYPE_8]
-Pasiva: activación global
-
-[ARTIFACT_BOOST_TYPE_9]
-Aumento de soles iniciales
-
-[ARTIFACT_BOOST_TYPE_10]
-Primer plantado instantáneo
+^A048CF^- Duración: {PassiveField3_1} s^oldclr^
 
 [ARTIFACT_BOWLING]
 Bolera
@@ -6578,17 +6685,23 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_1]
-Invoca {MainField_1} bolas de boliche por línea.
-^D22808^Tipos: Nuez, Nuez primitiva, Nuez cáscara-rabias, Jaca^oldclr^
+Invoca ^D22808^{MainField_1}^oldclr^ bolas de boliche por línea.
+
+^A0522D^Bolas de boliche: Nuez, Nuez primitiva, Nuez cáscara-rabias, Jaca^oldclr^
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas redondas en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas redondas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, suelta una Nuez de tipo aleatorio en una línea al azar
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, suelta ^D22808^1^oldclr^ Nuez aleatoria en una línea al azar
 
 [ARTIFACT_BOWLING_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ las bolas de boliche se transforman en ^D22808^Rambután escarchado, Rey Jaca, Nuez blindada, Bocadragón glotón^oldclr^
+^98FB98^Activa:^oldclr^ las bolas de boliche se transforman en variantes más fuertes.
+
+^A0522D^Bolas de boliche: Rambután escarchado, Rey Jaca, Nuez blindada, Bocadragón glotón^oldclr^
 
 [ARTIFACT_CALABASH]
 Calabax
@@ -6609,17 +6722,26 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_1]
-Elige un tamaño de zombi y absórbelos por 5 s. Cada 10 zombis, genera una poción para potenciar plantas.
-^D22808^Capacidad: 10 zombis pequeños, 6 medianos o 2 grandes.^oldclr^
+Elige un tamaño de zombi y absorbe todos los zombis de ese tamaño. 
+
+^E2725B^Genera una poción para potenciar plantas cada ^D22808^10 ^E2725B^zombis absorbidos.^oldclr^
+
+^D22808^- Duración: 5 s^oldclr
+
+^FF8000^- Capacidad: 10 zombis pequeños, 6 medianos o 2 grandes^oldclr^
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas Kung Fu en un {PassiveField1_1}%
+^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas Kung Fu^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad activa:^oldclr^ la capacidad de absorción aumenta en {PassiveField2_1} zombi (s), la velocidad aumenta un {PassiveField2_2}%
+^98FB98^Activa I:^oldclr^ la capacidad de absorción aumenta en ^D22808^{PassiveField2_1}^oldclr^ zombi (s)
+
+La velocidad de absorción aumenta en un ^D22808^{PassiveField2_2} %^oldclr^
 
 [ARTIFACT_CALABASH_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ al generar pociones, existe la posibilidad de que se genere un Hechizo de Rayo. Cuando el hechizo se utiliza, 9 rayos caen alrededor de las pociones generadas para infligir daño a distancia.
+^98FB98^Activa II:^oldclr^ al producir pociones, tiene un ^D22808^80 %^oldclr^ de generar un ^00AAE4^Hechizo de Rayo^oldclr^
+
+Cuando el hechizo se utiliza, ^D22808^9^oldclr^ rayos caen alrededor de las pociones generadas
 
 [ARTIFACT_CAMERA]
 Cámara
@@ -6640,16 +6762,19 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_1]
-Toma una foto que retrata el estado de tu patio y aturde zombis por {MainField_1} s. Luego, el patio se restaura y las plantas se vuelven invencibles por {MainField_2} s. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_4}^oldclr^
+Toma una foto que retrata el estado de tu patio y aturde zombis por ^D22808^{MainField_1} s^oldclr^. Luego, el patio se restaura y las plantas se vuelven invencibles por ^D22808^{MainField_2} s^oldclr^
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas aturdidoras en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas aturdidoras^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, la luz intermitente de la cámara parpadeará, aturdiendo a zombis pequeños y medianos por 3 s
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, la luz intermitente de la cámara parpadeará, aturdiendo a zombis pequeños y medianos por ^D22808^3 s^oldclr^
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ una vez el patio regrese a su estado original, aparecerán 5 fantasmas que acechan al primer zombi que encuentren, haciendo que retrocedan. No afecta a zombis grandes.
+^98FB98^Activa:^oldclr^ una vez el patio regrese a su estado original, aparecerán ^D22808^5^oldclr^ fantasmas que acechan al primer zombi que encuentren, haciendo que retrocedan. ^FF0000^No afecta a zombis grandes^oldclr^
 
 [ARTIFACT_COMMON]
 Artefactos
@@ -6661,7 +6786,7 @@ Mejoras
 Bastón sanador
 
 [ARTIFACT_CURE_DESCRIPTION]
-Cura todas las plantas del patio y las vuelve invencibles por un tiempo
+Cura a todas las plantas del patio y las vuelve invencibles
 
 [ARTIFACT_CURE_SKILL_1]
 Nivel 1
@@ -6676,37 +6801,23 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_1]
-Cura {MainField_1} PS a todas las plantas del patio y las vuelve invencibles durante {MainField_2} s. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_4}^oldclr^
+Cura a todas las plantas del patio y las vuelve invencibles por un tiempo.
+
+^D22808^- Curación: {MainField_1} PS^oldclr^
+^FF8000^- Invencibilidad: dura {MainField_2} s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas del patio en un {PassiveField1_1}%
+^98FB98^Pasiva:^oldclr^ el daño y la defensa de las plantas del patio aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ existe un {PassiveField2_1}% de que las plantas recuperen toda su salud durante 20 s
+^98FB98^Activa I: ^D22808^{PassiveField2_1} %^oldclr^ de probabilidad de que las plantas recuperen toda su salud durante ^D22808^20 s^oldclr^
 
 [ARTIFACT_CURE_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ aumenta la duración de los efectos del artefacto un {PassiveField3_2}%. Cuando está activo, dobla la velocidad de las plantas durante {PassiveField3_1} s
+^98FB98^Activa II:^oldclr^ duración de los efectos ^D22808^+ {PassiveField3_2}%^oldclr^
 
-[ARTIFACT_CURRENT_BLESS]
-Cupones actuales
-
-[ARTIFACT_DEMOLEVEL_NAME]
-Prueba de Artefactos
-
-[ARTIFACT_DEMO_LEVEL_BUTTON_L]
-MÁS TARDE
-
-[ARTIFACT_DEMO_LEVEL_BUTTON_R]
-IR
-
-[ARTIFACT_DEMO_LEVEL_WON_MESSAGE_TEXT]
-Puede conseguirse en: Tienda de Artefactos
-
-[ARTIFACT_DEMO_LEVEL_WON_MESSAGE_TITLE]
-OBTENCIÓN DE ARTEFACTOS
-
-[ARTIFACT_DETAILS_PREVIEW]
-Detalles del Artefacto
+Cuando está activo, la velocidad de las plantas aumenta un ^D22808^100 %^oldclr^ por ^D22808^{PassiveField3_1} s^oldclr^
 
 [ARTIFACT_DEVOLVE]
 Degrada-zombis
@@ -6727,16 +6838,19 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_1]
-Reemplaza a los zombis pequeños y medianos del patio con variantes de zombis más débiles. ^4DD4DB^Recarga: {MainField_5} s^oldclr^ ^DB8117^Usos: {MainField_6}^oldclr^
+Reemplaza a los zombis pequeños y medianos del patio con variantes de zombis más débiles.
+
+^4DD4DB^- Recarga: {MainField_5} s^oldclr^
+^DB8117^- Usos: {MainField_6}^oldclr^
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas mágicas en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas mágicas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, 3 zombis son degradados al azar.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, el rayo degrada a ^D22808^3^oldclr^ zombis aleatorios
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ existe un 30% de probabilidad de que los zombis degradados sean convertidos en Gallinas zombi.
+^98FB98^Activa: ^D22808^30 %^oldclr^ de probabilidad de que los zombis degradados sean convertidos en ^D22808^Gallinas^oldclr^
 
 [ARTIFACT_DINOSAURHORN]
 Cuerno jurásico
@@ -6757,16 +6871,22 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_1]
-Convoca a 2 dinosaurios por cada línea del patio, pisoteando a los zombis pequeños y medianos hasta derrotarlos. Cada dinosaurio derrota a un máximo de 3 zombis; los zombis que no hayan sido derrotados, serán dañados y aturdidos en su lugar.
+Convoca varios dinosaurios que pisotean varios zombis hasta derrotarlos. Los zombis supervivientes, son dañados y aturdidos por ^D22808^4 s^oldclr^
+
+^FF8000^- Dinosuarios: 2^oldclr^
+^FF0000^- Zombis aplastados: 3^oldclr^
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas primitivas en un {PassiveField1_1}%
+^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas primitivas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad activa:^oldclr^ la duración del aturdimiento zombi aumenta a {PassiveField2_1} s
+^98FB98^Activa I:^oldclr^ la duración del aturdimiento zombi aumenta a ^D22808^{PassiveField2_1} s^oldclr^
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ convoca una estampida adicional cada {PassiveField3_1} s, esta hace 5.000 DPS y aturde por 4 s
+^98FB98^Pasiva II:^oldclr^ convoca una estampida adicional cada ^D22808^{PassiveField3_1} s^oldclr^
+
+^D22808^- Daño: 5.000^oldclr^
+^FF9600^- Aturdir: 4 s^oldclr^
 
 [ARTIFACT_DRAGON]
 Dragón festivo
@@ -6787,16 +6907,25 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_DRAGON_SKILL_DESCRIPTION_1]
-Invoca un farol dragón que atraviesa al zombi más cercano y hace {MainField_1} DPS/0,1 s por {MainField_3} s. ^4DD4DB^Recarga: {MainField_4} s^oldclr^ ^DB8117^Usos: {MainField_5}^oldclr^
+Invoca un farol que atraviesa al zombi más cercano y le inflige daño por segundo.
+
+^D22808^- Daño: {MainField_1} DPS / 0,1 s^oldclr^
+^A0522D^- Duración: {MainField_3} s^oldclr^
+^4DD4DB^- Recarga: {MainField_4} s^oldclr^
+^DB8117^- Usos: {MainField_5}^oldclr^
 
 [ARTIFACT_DRAGON_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas dragón en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas dragón^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_DRAGON_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, sale volando un farol que se dirige al zombi más lejano y hace {PassiveField2_2} DPS/0,1 s
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, un farol sale volando hacia el zombi más lejano.
+
+^D22808^- Daño: {PassiveField2_2} DPS / 0,1 s^oldclr^
 
 [ARTIFACT_DRAGON_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ cuando hay faroles en el patio, lanza una bola bordada cada 5 s. El dragón perseguirá la bola y se la comerá, ganando 3 s de permanencia y creciendo durante 5 s
+^98FB98^Activa:^oldclr^ cuando hay faroles en el patio, lanza una bola bordada. El dragón perseguirá la bola y se la comerá, ganando ^D22808^3 s^oldclr^ de permanencia y creciendo durante ^D22808^5 s^oldclr^
+
+^4DD4DB^- Reactivación: 5 s^oldclr^
 
 [ARTIFACT_EVOLUTION]
 Evolutor
@@ -6817,34 +6946,22 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_1]
-Mejora las plantas de un área 3x3 a versiones más poderosas con mayor coste. Conservan su nivel y no son de uso instantáneo. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_2}^oldclr^
+Mejora las plantas de un ^D22808^área 3x3^oldclr^ a versiones más poderosas con mayor coste.
+
+^FF0000^Las plantas evolucionadas conservan su nivel y no son de uso instantáneo.^oldclr^
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_2}^oldclr^
 
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas con un coste ≥ 300 en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las plantas con un ^FF8000^coste ≥ 300^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, genera al azar una planta con un coste ≤ 100 (no incluye instantáneas).
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, genera al azar una planta con un ^FF8000^coste ≤ 100^oldclr^
+^FF0000^(no incluye instantáneas)^oldclr^
 
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ genera una planta con un coste ≤ 100 en los espacios libres del patio.
-
-[ARTIFACT_FREE_DEMO_LEVEL_BUTTON]
-ACEPTAR
-
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT]
-Puede conseguirse en: Dimensión del Recuerdo
-
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT2]
-Puede conseguirse en: El Tesoro del Dragón
-
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]
-Puede conseguirse en: La Caza del Tesoro
-
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT4]
-Puede conseguirse en: La Fuente de los Deseos
-
-[ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TITLE]
-OBTENCIÓN DE ARTEFACTOS
+^98FB98^Activa:^oldclr^ genera una planta con un ^FF8000^coste ≤ 100^oldclr^ en los espacios libres del patio
 
 [ARTIFACT_GASHAPON]
 Gachapón
@@ -6932,17 +7049,22 @@ Nivel 4
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_1]
 Genera 3 sorpresas. Dos iguales activan su efecto; tres iguales lo mejoran.
-^D22808^Posibles efectos: veneno, hipnosis, congelación, Guacadrilos, Lluvia de Soles.^oldclr^
-^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_3}^oldclr^
+
+^FF8000^Posibles efectos: veneno, hipnosis, congelación, Guacadrilos, Lluvia de Soles^oldclr^
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas que realizan ataques especiales en un {PassiveField1_1}%
+^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas con ataques secundarios^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad activa:^oldclr^ si no aparecen 3 sorpresas iguales, el artefacto se reinicia. En la siguiente activación, garantiza 3 sorpresas iguales.
+^98FB98^Activa I:^oldclr^ si no aparecen 3 sorpresas iguales, el artefacto se reinicia. En la siguiente activación, garantiza 3 sorpresas iguales
 
 [ARTIFACT_GASHAPON_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ los efectos sorpresa se vuelven mejores: ^D22808^ponzoña, encantar zombis, muñecos de nieve, Podarrábanos, Destello solar.^oldclr^
+^98FB98^Activa II:^oldclr^ los efectos sorpresa se vuelven mejores.
+
+^FF8000^Nuevos efectos: ponzoña, encantar zombis, muñecos de nieve, Podarrábanos, Destello solar^oldclr^
 
 [ARTIFACT_GLOBAL_BLESS]
 Cupones globales
@@ -6966,22 +7088,30 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_1]
-Genera un campo gravitacional en un área que ralentiza zombis por {MainField_1} s. Algunos proyectiles también se ven afectados. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_7}^oldclr^
+Genera un campo gravitacional que atrae zombis hacia el suelo, dificultando su movimiento.
+
+^FF0000^Los proyectiles de algunas plantas también se ven afectados.^oldclr^
+
+^D22808^- Duración: {MainField_1} s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_7}^oldclr^
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas pesadas en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas pesadas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, se genera un pequeño campo gravitatorio en el extremo derecho del patio.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, se genera un pequeño campo gravitatorio en el extremo derecho del patio.
+
+^D22808^- Duración: 5 s^oldclr^
 
 [ARTIFACT_GRAVITY_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ los zombis son aplastados contra el suelo a mayor velocidad.
+^98FB98^Activa:^oldclr^ los zombis son atraídos contra el suelo a mayor velocidad
 
 [ARTIFACT_GUITAR]
 Guitarra de rock
 
 [ARTIFACT_GUITAR_DESCRIPTION]
-Tócala lo más rápido que puedas para derribar zombis con una potente onda sónica
+Tócala para derribar zombis con una potente onda sónica
 
 [ARTIFACT_GUITAR_SKILL_1]
 Nivel 1
@@ -6996,16 +7126,29 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_1]
-Toca 10 notas rápidamente para liberar una onda sónica. Su daño y alcance dependen de tu precisión y el nivel del artefacto. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_5}^oldclr^
+Toca ^D22808^10^oldclr^ notas rápidamente para liberar una onda sónica. 
+
+^E2725B^El daño y alcance de las ondas dependen de tu precisión y el nivel del artefacto.^oldclr^
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_5}^oldclr^
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ el daño y la defensa de las plantas musicales aumenta en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas musicales^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s dispara 3 notas a los zombis cercanos, infligiendo {PassiveField2_2} de daño y derribándolos. Las plantas alcanzadas ganan +50% de velocidad de ataque por 10 s
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^ dispara notas a los ^D22808^3^oldclr^ zombis más cercanos. 
+
+Las plantas alcanzadas por las ondas ganan ^D22808^50 %^oldclr^ de vel. de ataque extra por ^D22808^10 s^oldclr^
+
+^D22808^- Daño: {PassiveField2_2}^oldclr^
 
 [ARTIFACT_GUITAR_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ Genera 2 ondas sonoras que infligen {PassiveField3_2} de daño en un área 3x3 varias veces por segundo y aturden zombis por {PassiveField3_3} s. Mayor precisión prolonga el efecto.
+^98FB98^Activa:^oldclr^ genera ^D22808^2^oldclr^ ondas que hacen daño por segundo en un área y aturden zombis. ^E2725B^Mayor precisión prolonga el efecto.^oldclr^
+
+^D22808^- Daño por segundo: {PassiveField3_2}^oldclr^
+^A0522D^- Área de efecto: 3x3^oldclr^
+^FF9600^- Aturdir: {PassiveField3_3} s^oldclr^
 
 [ARTIFACT_HOLO]
 Holoproyector
@@ -7026,16 +7169,20 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_1]
-Activa un holograma de todas las plantas. Las copias no pueden usar Nutrientes y aumentan el ataque de la planta original en {MainField_2}%. ^D22808^Duración: {MainField_1} s^oldclr^ ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_5}^oldclr^
+Activa un holograma de todas las plantas. Las copias no pueden usar Nutrientes y heredan un ^D22808^{MainField_2}%^oldclr^ de fuerza. 
+
+^A048CF^- Duración: {MainField_1} s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_5}^oldclr^
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas futuristas en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas futuristas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, clona a 3 plantas aleatorias del patio.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, clona a ^D22808^3^oldclr^ plantas aleatorias del patio
 
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ clona a los 10 zombis más a la izquierda del patio, para que luchen de tu lado.
+^98FB98^Activa:^oldclr^ clona a los ^D22808^10^oldclr^ zombis más a la izquierda del patio, para que luchen de tu lado
 
 [ARTIFACT_HYDRAULIC]
 Prensa hidráulica
@@ -7056,25 +7203,20 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_1]
-Aplasta plantas en un área 3x3 y las convierte en semillas que desaparecen tras {MainField_1} s. ^4DD4DB^Recarga: 10 s^oldclr^ ^DB8117^Usos: {MainField_3}^oldclr^
+Aplasta plantas en un ^D22808^área 3x3^oldclr^ y las convierte en semillas que desaparecen tras ^D22808^{MainField_1} s^oldclr^
+
+^4DD4DB^- Recarga: 10 s^oldclr^
+^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas martillo en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas martillo^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, aplasta a los 3 zombis más cercanos, dañándolos y dejándolos enterrados durante un tiempo.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, aplasta a los ^D22808^3^oldclr^ zombis más cercanos, dañándolos y dejándolos enterrados por un tiempo
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ los zombis son aplastados por la prensa y se convierten en cartas que puedes reubicar. Las cartas vuelven a ser zombis tras 15 s
+^98FB98^Activa:^oldclr^ los zombis son aplastados por la prensa y se convierten en cartas que puedes reubicar. Las cartas vuelven a ser zombis tras ^D22808^15 s^oldclr^
 
-[ARTIFACT_LEVEL_NAME]
-Colección de Artefactos
-
-[ARTIFACT_LEVEL_UP]
-Subir de Nivel
-
-[ARTIFACT_LEVEL_UP_CONFIRM]
-¿Seguro que deseas Subir este Artefacto de Nivel?
 
 [ARTIFACT_LIGHTNING]
 Pistola de rayos
@@ -7096,19 +7238,22 @@ Nivel 4
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_1]
 Aplica descargas eléctricas a los zombis del área. Combinar cargas activa efectos:
+
 ^A048CF^• 2+ → PS −{MainField_1}% por 10 s^oldclr^
 ^A048CF^• 2- → aturdir por {MainField_2} s^oldclr^
 ^A048CF^• +/- → vel. −{MainField_3}% por {MainField_4} s^oldclr^
-^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_6}^oldclr^
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_6}^oldclr^
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas eléctricas en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas eléctricas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada 20 s, un rayo es golpeado contra 5 zombis aleatorios, causando que pierdan un {PassiveField2_2}% de salud.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^20 s^oldclr^, un rayo es golpeado contra ^D22808^5^oldclr^ zombis aleatorios, causando que pierdan un ^D22808^{PassiveField2_2} %^oldclr^ de salud
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad pasiva:^oldclr^ cuando un zombi es derrotado, existe un {PassiveField3_1}% de que 1-2 zombis alrededor, reciban efectos aleatorios de carga durante 20 s
+^98FB98^Activa:^oldclr^ cuando un zombi es derrotado, existe un ^D22808^{PassiveField3_1} %^oldclr^ de que ^D22808^1-2^oldclr^ zombis alrededor, reciban descargas eléctricas con efectos aleatorios durante ^D22808^20 s^oldclr^
 
 [ARTIFACT_LIONDANCE]
 Decreto del león
@@ -7129,19 +7274,35 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_1]
-Invoca a un león bailarín que salta a un área 3x3 donde haya más zombis. Les quita un {MainField_2}% de su salud máx, o los derrota si tienen menos de un {MainField_3}% de salud, y derriba al resto. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_5}^oldclr^
+Invoca a un león bailarín que salta a un área con más zombis, pisoteándolos y derribando al resto.
+
+^E2725B^Derrota zombis con menos de un ^D22808^{MainField_3} % ^E2725B^de salud.^oldclr^
+
+^D22808^- Daño: {MainField_2}% (min: {MainField_1})^oldclr^
+^A0522D^- Área: 3x3^oldclr
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_5}^oldclr^
 
 [ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas incineradoras en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas rojas y explosivas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, aparece un pequeño león que prioriza la casilla con más zombis. Les quita un {PassiveField2_3} % de su salud máx, o los derrota si tienen menos de un {PassiveField2_4} % de salud.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, aparece un pequeño león que prioriza el área con más zombis.
+
+^E2725B^El león derrota zombis con menos de un ^D22808^{PassiveField2_4} % ^E2725B^de salud.^oldclr^
+
+^D22808^- Daño: {PassiveField2_3}% (min: {PassiveField2_2})^oldclr^
+^A0522D^- Área: 1x1^oldclr
 
 [ARTIFACT_LIONDANCE_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ ruge para derribar a los zombis cercanos 4 casillas (priorizando a los más grandes). El salto letal prioriza a los 4 zombis con menor salud.
+^98FB98^Activa:^oldclr^ ruge para derribar a los zombis cercanos (priorizando a los más grandes).
+
+El pisotón prioriza a los ^D22808^4^oldclr^ zombis con menor salud.
+
+^D22808^- Derribo: 4 casillas^oldclr^ 
 
 [ARTIFACT_MAGICBEANS]
-Mega-enredadera
+Judías de Jack
 
 [ARTIFACT_MAGICBEANS_DESCRIPTION]
 Cultiva Enredaderas gigantes que destruyen zombis
@@ -7159,16 +7320,21 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_1]
-Siembra una Enredadera gigante que, al crecer, lanza por los aires plantas y zombis de un área 3x3. Tiene {MainField_1} PS y causa {MainField_2} de daño. ^4DD4DB^Recarga: {MainField_3} s^oldclr^ ^DB8117^Usos: {MainField_4}^oldclr^
+Siembra una Enredadera gigante que, al crecer, lanza por los aires plantas y zombis de un ^D22808^área 3x3^oldclr^
+
+^397F24^- Salud: {MainField_1}^oldclr^
+^D22808^- Daño: {MainField_2}^oldclr^
+^4DD4DB^- Recarga: {MainField_3} s^oldclr^
+^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas guisante en un {PassiveField1_1}%
+^98FB98^Pasiva:^oldclr^ el daño y la defensa de las ^D22808^plantas guisante^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ los guisantes se dispersan en 8 direcciones y hacen {PassiveField2_1} de daño a los zombis golpeados.
+^98FB98^Activa I:^oldclr^ los guisantes se dispersan en ^D22808^8 direcciones^oldclr^ y hacen ^D22808^{PassiveField2_1}^oldclr^ de daño
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad pasiva:^oldclr^ cuando la vaina estalle, existe la posibilidad de dejar una semilla de guisantes.
+^98FB98^Activa II:^oldclr^ probabilidad de dejar una ^D22808^semilla de guisantes^oldclr^ por estallido de vaina
 
 [ARTIFACT_MAGICHAT]
 Sombrero mágico
@@ -7189,16 +7355,23 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_1]
-Invoca un Zombi mago en cada fila del patio durante 15 s, haciendo retroceder a los zombis enemigos.
+Invoca un Zombi mago en cada fila del patio. Los magos hacen retroceder a los zombis enemigos.
+
+^DD7ECB^- Nivel de zombi: {MainField_1}^oldclr^
+^D22808^- Duración: 15 s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ los Zombis mago también pueden invocar palomas para que se lleven a los zombis enemigos.
+^98FB98^Activa:^oldclr^ los Zombis mago también pueden invocar palomas para que se lleven a los zombis enemigos
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, invoca 1 Zombi mago en una fila aleatoria durante 15 s
+^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, invoca ^D22808^1^oldclr^ Zombi mago en una fila aleatoria
 
 [ARTIFACT_MAGICHAT_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad pasiva:^oldclr^ los Zombis mago transportan a los enemigos pequeños y medianos a su lugar de inicio; los grandes retroceden 2 casillas. Ahora liberan 2 palomas a la vez, las cuales pueden llevarse zombis medianos.
+^98FB98^Activa II:^oldclr^ los Zombis mago transportan a los enemigos pequeños y medianos a su lugar de inicio; los grandes retroceden ^D22808^2 casillas^oldclr^
+
+También liberan ^D22808^2^oldclr^ palomas a la vez, las cuales pueden llevarse zombis medianos
 
 [ARTIFACT_METEOR]
 Meteorión
@@ -7219,16 +7392,25 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_1]
-Lanza hasta 5 meteoros en un área 5x5. Destruye plantas y zombis medianos; el resto recibe {MainField_4} de daño y queda aturdido. El área queda en llamas, infligiendo {MainField_8} de daño por segundo. Los guisantes se incendian al atravesarla. ^4DD4DB^Recarga: 30 s ^oldclr^ ^DB8117^Usos:{MainField_11}^oldclr^
+Lanza una salva de meteoros que destruyen plantas y zombis medianos; el resto recibe ^D22808^{MainField_4}^oldclr^ de daño y queda aturdido por ^D22808^3 s^oldclr^
+
+El área queda en llamas, infligiendo ^D22808^{MainField_8}^oldclr^ de daño por segundo. Los guisantes se incendian al atravesarla. 
+
+^D22808^- Meteoros por salva: 5^oldclr^
+^A048CF^- Área: 5x5^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_11}^oldclr^
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad activa:^oldclr^ tras alcanzar el Nivel 10 de Eficacia, lanza meteoros azules que infligen {PassiveField1_1} puntos de daño. Al alcanzar la Eficacia 20, los meteoros se volverán púrpuras y harán {PassiveField1_2} DPS
+^98FB98^Activa:^oldclr^ tras alcanzar la ^E2725B^Eficacia 10^oldclr^, lanza meteoros azules que hacen ^D22808^{PassiveField1_1}^oldclr^ puntos de daño. 
+
+Al alcanzar la ^E2725B^Eficacia 20^oldclr^, los meteoros se volverán púrpuras y harán ^D22808^{PassiveField1_2}^oldclr^ de daño.
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, cae al azar un meteoro en 1 casilla al extremo derecho del patio donde haya zombis en un área 5x5
+^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, cae un meteoro en ^D22808^1 casilla^oldclr^ aleatoria al extremo derecho del patio
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ los zombis que atraviesen la zona quemada perderán un {PassiveField3_1}% de su salud durante 10 s
+^98FB98^Activa II:^oldclr^ los zombis que atraviesen la zona quemada perderán un ^D22808^{PassiveField3_1} %^oldclr^ de su salud durante ^D22808^10 s^oldclr^
 
 [ARTIFACT_MIDASTOUCH]
 Guantes de Midas
@@ -7249,37 +7431,27 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_1]
-Convierte zombis pequeños y medianos en estatuas de oro por {MainField_1} s. Al derrotarlos, los pequeños sueltan {MainField_2} monedas y los medianos el doble. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_5}^oldclr^
+Convierte zombis pequeños y medianos en estatuas de oro por ^D22808^{MainField_1} s^oldclr^
+
+Al derrotarlos, los zombis pequeños sueltan ^D22808^{MainField_2}^oldclr^ monedas y los medianos el doble.
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_5}^oldclr^
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el límite máx. de monedas que se pueden conseguir por partida en {PassiveField1_1}
+^98FB98^Activa:^oldclr^ límite máx. de monedas obtenidas por partida ^D22808^+ {PassiveField1_1}^oldclr^
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, convierte a los 3 zombis medianos más cercanos en estatuas de oro.
+^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, convierte a los ^D22808^3^oldclr^ zombis medianos más cercanos en estatuas de oro
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ los zombis grandes pueden convertirse en estatuas, soltando hasta 1.600 monedas si son derrotados dentro de un límite de tiempo reducido a la mitad.
-
-[ARTIFACT_NO_ARTIFACT]
-Sin Artefactos disponibles.
-
-[ARTIFACT_NO_DETAILS]
-Sin detalles
-
-[ARTIFACT_PRESENT_NEW_TITLE]
-Lote del inventor
-
-[ARTIFACT_PRESENT_UNLOCK_TIP]
-Cada lote tiene un límite de compras.
-
-[ARTIFACT_PREVIEW]
-Vista previa
+^98FB98^Activa II:^oldclr^ los zombis grandes pueden convertirse en estatuas, soltando hasta ^D22808^1.600^oldclr^ monedas si son derrotados dentro de un límite de tiempo reducido a la mitad
 
 [ARTIFACT_PRISMTOWER]
 Prisma solar
 
 [ARTIFACT_PRISMTOWER_DESCRIPTION]
-Usa la energía solar para disparar un láser que inflige un daño cada vez mayor
+Dispara un rayo que inflige daño sostenido
 
 [ARTIFACT_PRISMTOWER_SKILL_1]
 Nivel 1
@@ -7294,31 +7466,34 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_1]
-Consume energía solar para disparar un láser continuo al zombi más cercano. Inflige {MainField_1}% de su salud (máx. {MainField_2}) y aumenta {MainField_3}% hasta un tope de {MainField_4}. Al agotarse la energía, el daño se reinicia. Consume 100 de energía, que se recarga lentamente cuando llega a 0
+Dispara un rayo al zombi más cercano, que inflige daño sostenido. Al agotarse la energía, el daño se reinicia. 
+
+El artefacto consume ^D22808^5^oldclr^ puntos de energía por segundo, que se recarga lentamente cuando llega a 0
+
+^D22808^- Daño: {MainField_1} ~ {MainField_2} %^oldclr^
+^E2725B^- Aumento de daño: {MainField_3} ~ {MainField_4} %^oldclr^
+^FF8000^- Intervalo: 1 s (-20% por aceleración)^oldclr^
+^A048CF^- Límite de energía: 100^oldclr^
+^4DD4DB^- Vel. de recarga: 5 / s^oldclr^
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ el límite de energía aumenta a {PassiveField1_1}; la velocidad de recarga aumenta a {PassiveField1_2}/s
+^98FB98^Pasiva:^oldclr^ el límite de energía aumenta a ^A048CF^{PassiveField1_1}^oldclr^
+
+La velocidad de recarga aumenta a ^4DD4DB^{PassiveField1_2} / s^oldclr^
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad activa:^oldclr^ el daño del láser aumenta un {PassiveField2_1}% más rápido.
+^98FB98^Activa I:^oldclr^ el intervalo de daño se reduce un ^FF8000^{PassiveField2_1} %^oldclr^ por aceleración
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ cuando el láser derrote a un zombi, este, causará daño por salpicadura según el daño causado al zombi anterior.
+^98FB98^Activa II:^oldclr^ cuando el láser derrote a un zombi, se produce una explosión que daña al resto en un área pequeña.
 
-[ARTIFACT_RANK_UP]
-Mejorar Eficacia
-
-[ARTIFACT_RANK_UP_CONFIRM]
-¿Seguro que deseas Mejorar la Eficacia de este Artefacto?
-
-[ARTIFACT_SELECT]
-Elige tu artefacto
+^D22808^- Daño: DPS actual + 200 %^oldclr^
 
 [ARTIFACT_SHIELD]
 Escudo deflector
 
 [ARTIFACT_SHIELD_DESCRIPTION]
-Bloquea y empuja a los zombis de todas las filas del patio
+Bloquea y empuja a los zombis del patio
 
 [ARTIFACT_SHIELD_SKILL_1]
 Nivel 1
@@ -7333,16 +7508,22 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_SHIELD_SKILL_DESCRIPTION_1]
-Bloquea y empuja zombis en todas las filas. Cuantos más bloquee, más lento se mueve. Es indestructible y dura {MainField_1} s. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_3}^oldclr^
+Bloquea y empuja a los zombis de cada ^D22808^fila^oldclr^ en el patio. 
+
+^FF0000^Cuantos más zombis bloquee el escudo, más lento se moverá.^oldclr^
+
+^A048CF^- Duración: {MainField_1} s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_SHIELD_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas defensivas en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas defensivas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SHIELD_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ las plantas recién colocadas ganan un escudo de {PassiveField2_2} PS si no son atacadas dentro de {PassiveField2_1} s
+^98FB98^Pasiva II:^oldclr^ las plantas recién colocadas ganan un escudo de ^D22808^{PassiveField2_2} PS^oldclr^ si no son atacadas dentro de ^D22808^{PassiveField2_1} s^oldclr^
 
 [ARTIFACT_SHIELD_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ reduce el retraso de movimiento del escudo cuando bloquea zombis.
+^98FB98^Activa:^oldclr^ reduce el retraso de movimiento del escudo cuando bloquea zombis
 
 [ARTIFACT_SILVERKEY]
 Llave abisal
@@ -7363,16 +7544,22 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_1]
-Abre un portal que absorbe zombis pequeños y medianos en las 3 filas del extremo derecho. Puede absorber hasta 6 zombis (aumenta con mejoras). ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_4}^oldclr^
+Abre un portal que absorbe zombis pequeños y medianos en las ^D22808^3 filas^oldclr^ del extremo derecho. 
+
+^FF0000^- Límite de zombis: {MainField_2}^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas abisales en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas abisales^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, aparecen tentáculos a los pies de 3 zombis aleatorios que los arrastran hacia el suelo.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, aparecen tentáculos a los pies de ^D22808^3^oldclr^ zombis aleatorios que los arrastran hacia el suelo
 
 [ARTIFACT_SILVERKEY_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ tras absorber zombis, saldrá un Zombistein abisal que luchará de tu lado. La fuerza del Zombistein está determinada por la cantidad de zombis absorbidos.
+^98FB98^Activa:^oldclr^ tras absorber zombis, saldrá un ^D22808^Zombistein abisal^oldclr^ que luchará de tu lado.
+
+^E2725B^La fuerza del Zombistein está determinada por la cantidad de zombis absorbidos^oldclr^
 
 [ARTIFACT_SKATEBOARD]
 Monopatín jet
@@ -7393,16 +7580,24 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_1]
-Usa un monopatín para desplazar una planta aleatoria del patio, hacia arriba o abajo. Si el monopatín choca contra algo, le causará grandes daños. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_2}^oldclr^
+Usa un monopatín para desplazar una planta aleatoria del patio, hacia arriba o abajo.
+
+Si el monopatín choca contra algo, le causará grandes daños. 
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_2}^oldclr^
 
 [ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad activa:^oldclr^ aumenta el daño y la defensa de la planta sobre el monopatín en un {PassiveField1_1}%
+^98FB98^Activa I:^oldclr^ el daño y la defensa de la planta sobre el monopatín aumentan en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, 3 monopatines se dirigirán a los zombis más cercanos, derrotando al primer zombi con el que se crucen, y bloqueando el paso de los demás.
+^98FB98^Pasiva:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, varios monopatines se dirigen a los zombis más cercanos, para dañarlos y formar barreras.
+
+^D22808^- Monopatines: 3^oldclr^
+^397F24^- Salud de barrera: 4.000^oldclr^
 
 [ARTIFACT_SKATEBOARD_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ las plantas sobre el monopatín se convierten en variantes más fuertes.
+^98FB98^Activa II:^oldclr^ las plantas sobre el monopatín se convierten en variantes más fuertes
 
 [ARTIFACT_SKILL_GET]
 Habilidades a desbloquear
@@ -7435,16 +7630,22 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_1]
-Sopla una ventisca de nieve que derriba zombis medianos y los convierte en muñecos de nieve. ^D22808^Duración: {MainField_2} s^oldclr^ ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_6}^oldclr^
+Sopla una ventisca de nieve que derriba zombis medianos y los convierte en muñecos de nieve.
+
+^D22808^- Duración: {MainField_2} s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_6}^oldclr^
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad activa:^oldclr^ los efectos de ralentización y congelación aumentan en un {PassiveField1_1}%
+^98FB98^Activa I:^oldclr^ los efectos de ralentización y congelación aumentan en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, dispara bolas de nieve para convertir a los 3 zombis más cercanos en muñecos de nieve durante 5 s
+^98FB98^Pasiva:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, dispara bolas de nieve para convertir a los ^D22808^3^oldclr^ zombis más cercanos en muñecos de nieve durante ^D22808^5 s^oldclr^
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ la ventisca lanza carámbanos que destruyen muñecos de nieve y dañan hasta 3 zombis grandes.
+^98FB98^Activa II:^oldclr^ la ventisca lanza carámbanos que destruyen muñecos de nieve y dañan hasta ^D22808^2^oldclr^ zombis grandes.
+
+^D22808^- Daño: 1.000^oldclr^
 
 [ARTIFACT_SOULBELL]
 Campana espectral
@@ -7465,16 +7666,20 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_1]
-Lanza un talismán mágico que controla zombis pequeños y medianos, y aturde a los grandes durante {MainField_1} s. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_6}^oldclr^
+Lanza un talismán mágico que controla zombis pequeños y medianos, y aturde a los grandes.
+
+^FF9600^- Aturdir: {MainField_1} s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_6}^oldclr^
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas que hipnotizan zombis en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas hipnotizadoras^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, aparecen 5 zombis en el extremo izquierdo del patio. Los zombis lucharán de tu lado.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, aparecen ^D22808^5^oldclr^ zombis aliados en el extremo izquierdo del patio
 
 [ARTIFACT_SOULBELL_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ los zombis grandes pueden ser controlados por talismanes durante {PassiveField3_1} s
+^98FB98^Activa:^oldclr^ los zombis grandes pueden ser controlados por talismanes durante ^D22808^{PassiveField3_1} s^oldclr^
 
 [ARTIFACT_SQUID]
 Pulpotech
@@ -7495,16 +7700,24 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_1]
-Lanza pulpos robóticos a todos los zombis pequeños y medianos para atraparlos. Cada pulpo tiene {MainField_1} PS. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_3}^oldclr^
+Lanza pulpos robóticos a los zombis para atraparlos.
+
+^FF0000^No afecta zombis grandes ni mechs^oldclr^
+
+^397F24^- Salud: {MainField_1}^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_3}^oldclr^
 
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas animales en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas animales^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, lanza {PassiveField2_2} pulpos para atrapar a los zombis más cercanos.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, lanza ^D22808^{PassiveField2_2}^oldclr^ pulpos para atrapar a los zombis más cercanos
 
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad pasiva:^oldclr^ los zombis atrapados perderán un {PassiveField3_1}% de PS/s; el efecto ahora funciona en zombis grandes.
+^98FB98^Activa:^oldclr^ los zombis atrapados perderán un ^D22808^{PassiveField3_1} %^oldclr^ de salud por segundo.
+
+El efecto ahora funciona en zombis grandes.
 
 [ARTIFACT_SWARM]
 Enjambre
@@ -7525,16 +7738,25 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_1]
-Toca para disparar balas al zombi más a la izquierda, mantén pulsado para disparar una salva. El Artefacto tiene un total de 90 balas, empieza a recargarlas cuando está inactivo.
+Toca para disparar balas al zombi más a la izquierda, mantén pulsado para disparar una salva.
+
+^D22808^- Munición: 90^oldclr^
+^4DD4DB^- Recarga: 5 balas / s^oldclr^
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el poder de ataque y la defensa de las plantas naraka en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas naraka^oldclr^ aumenta en un {PassiveField1_1} %^oldclr^
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ el límite de balas aumenta a {PassiveField2_1}, la recuperación de las balas aumenta a 10/s
+^98FB98^Pasiva II:^oldclr^ la munición aumenta a ^D22808^{PassiveField2_1}^oldclr^ balas.
+
+La recarga aumenta a ^4DD4DB^10 balas / s^oldclr^
 
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ las balas de la salva se transforman en bolas de fuego azules, duplicando el daño; después de cada 4 balas se dispara una grande, que hace 3 veces más daño y derriba zombis medianos por 0,1 casillas.
+^98FB98^Activa:^oldclr^ las balas de la salva se transforman en bolas de fuego azules, que hacen ^D22808^2^oldclr^ veces más daño.
+
+Después de cada ^D22808^4^oldclr^ balas, se dispara una grande que hace ^D22808^3^oldclr^ veces más daño y derriba zombis medianos.
+
+^D22808^- Derribo: 0,1 casillas^oldclr^
 
 [ARTIFACT_TIME]
 Cronos
@@ -7555,16 +7777,29 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_1]
-Los zombis del patio regresan a su lugar de inicio, recuperando su salud inicial. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_2}^oldclr^
+Devuelve a todos los zombis del patio a su lugar de inicio.
+
+^FF0000^Los zombis rebobinados recuperan su salud inicial.^oldclr^
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_2}^oldclr^
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ el tiempo de recuperación de las plantas se reduce en un {PassiveField1_1}%
+^98FB98^Pasiva:^oldclr^ el tiempo de recuperación de las plantas se reduce en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad activa:^oldclr^ el tiempo se detiene en un área 3x5 a la derecha. Las plantas y los zombis dentro de dicha área no podrán moverse, pero seguirán siendo atacados durante {PassiveField2_1} s
+^98FB98^Activa I:^oldclr^ el tiempo se detiene en un ^D22808^área 3x5^oldclr^ a la derecha.
+
+Las plantas y los zombis dentro de dicha área no podrán moverse, pero seguirán siendo vulnerables al daño.
+
+^D22808^- Duración: {PassiveField2_1} s^oldclr^
 
 [ARTIFACT_TIME_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ el tiempo se acelera en un área 3x5 a la izquierda. Las plantas dentro de dicha área atacarán más rápido durante {PassiveField3_1} s
+^98FB98^Activa II:^oldclr^ el tiempo se acelera en un ^D22808^área 3x5^oldclr^ a la izquierda.
+
+Las plantas dentro de dicha área atacarán más rápido.
+
+^00AAE4^- Duración: {PassiveField3_1} s^oldclr^
 
 [ARTIFACT_TRIDENT]
 Tridente
@@ -7585,16 +7820,30 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_1]
-Genera {MainField_4} olas en una casilla que expulsan zombis pequeños y medianos (máx. {MainField_2}). Los demás son derribados, reciben {MainField_5} de daño y quedan aturdidos por 4 s (2 s, si son grandes). ^4DD4DB^Recarga: {MainField_6} s^oldclr^ ^DB8117^Usos: {MainField_7}^oldclr^
+Genera ^D22808^{MainField_4}^oldclr^ olas que expulsan zombis medianos de una ^D22808^casilla^oldclr^
+
+Los demás zombis son derribados, reciben daño y quedan aturdidos por ^FF9600^4 s (2 s, si son grandes)^oldclr^
+
+^D22808^- Daño: {MainField_5}^oldclr^
+^FF8000^- Zombis expulsados: {MainField_2}^oldclr^
+^00AAE4^- Recarga: {MainField_6} s^oldclr^
+^DB8117^- Usos: {MainField_7}^oldclr^
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ el daño y la defensa de las plantas con armas aumenta en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas armadas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, la casilla {PassiveField2_2} se convierte en un charco, derrotando al primer zombi pequeño o mediano que pase sobre él. El charco desaparece después de 15 s si no pasan zombis.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, las casillas con más zombis se convierten en charcos, derrotando al primero que pase sobre ellos.
+
+^FF0000^Solo afecta zombis medianos.^oldclr^
+
+^4DD4DB^- Zombis para el charco: {PassiveField2_2}^oldclr^
+^D22808^- Duración: 15 s^oldclr^
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ genera un remolino que atrae hacia el centro a los zombis de las 5 filas del patio a medida que se desplaza, y luego los empuja hacia la última columna. El remolino desaparece si empuja a 3 zombis grandes.
+^98FB98^Activa:^oldclr^ genera un remolino que atrae a los zombis de las ^D22808^5 filas^oldclr^ del patio a medida que se desplaza, y luego los empuja hacia la ^D22808^última columna^oldclr^
+
+El remolino desaparece si empuja a ^D22808^3^oldclr^ zombis grandes
 
 [ARTIFACT_UFO]
 OVNI
@@ -7615,16 +7864,26 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_1]
-Un OVNI abduce zombis durante {MainField_2} s. Los absorbidos son eliminados; los que caen causan daño al aterrizar. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_6}^oldclr^
+Abduce a todos los zombis en pantalla. Los zombis abducidos son eliminados; los que caen hacen ^D22808^{MainField_1}^oldclr^ de daño al aterrizar. 
+
+^E2725B^La velocidad de abducción varia según el tamaño del zombi.^oldclr^
+
+^D22808^- Abducir: {MainField_2} s^oldclr^ 
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_6}^oldclr^
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas voladoras y flotantes en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas voladoras y flotantes^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} segundos, 3 OVNIS sobrevolarán el patio para absorber a los zombis más cercanos a tu casa.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, varios OVNIs sobrevolarán el patio para abducir a los zombis más cercanos a tu casa.
+
+^D22808^Número de OVNIs: 3^oldclr^
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ los zombis abducidos son derribados por los ataques de plantas voladoras o flotantes. La distancia de empuje está relacionada con el tamaño del zombi.
+^98FB98^Activa:^oldclr^ los zombis abducidos son derribados por los ataques de plantas voladoras o flotantes.
+
+^E2725B^La distancia de empuje está relacionada con el tamaño del zombi.^oldclr^
 
 [ARTIFACT_VASE]
 Lanzajarrones
@@ -7645,19 +7904,23 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_1]
-Lanza 10 jarrones con sorpresas dentro.
-^D22808^Contenido: zombis, semillas, soles^oldclr^
-^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_2}^oldclr^
+Lanza ^D22808^10^oldclr^ jarrones con sorpresas dentro.
+
+^A0522D^Contenido de los jarrones: zombis, semillas, soles^oldclr^
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_2}^oldclr^
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas catapulta en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas catapulta^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ lanza un jarrón adicional cada {PassiveField2_1} s
+^98FB98^Pasiva II:^oldclr^ lanza un jarrón adicional cada ^D22808^{PassiveField2_1} s^oldclr^
 
 [ARTIFACT_VASE_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ el contenido de los jarrones se vuelve mejor.
-^D22808^Contenido: gallinas, zombis iluminados, semillas explosivas^oldclr^
+^98FB98^Activa:^oldclr^ el contenido de los jarrones se vuelve mejor.
+
+^A0522D^Contenido: gallinas, zombis iluminados, semillas de plantas explosivas^oldclr^
 
 [ARTIFACT_WATERGUN]
 Pistola de agua
@@ -7678,19 +7941,19 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_1]
-Dispara un poderoso torrente de agua para derribar a todos los zombis del patio. Los zombis quedarán empapados, lo que los hace vulnerables al poder de las plantas de hielo.
+Dispara un torrente que derriba zombis y los hace vulnerables al hielo.
+
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_2}^oldclr^
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas de agua o hielo en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas de agua o hielo^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, las 3 primeras columnas de plantas serán rociadas, lo que aumenta su velocidad de ataque.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, las ^D22808^3 primeras columnas^oldclr^ de plantas son rociadas, lo que aumenta su vel. de ataque un ^D22808^25 %^oldclr^ por ^D22808^10 s^oldclr^
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_4]
-^98FB98^Uso activo:^oldclr^ aumenta la distancia de empuje por segundo.
-
-[ARTIFACT_WAY_TO_GET]
-Se desbloquea derrotando Zombis en Niveles o comprando Paquetes de Artefactos.
+^98FB98^Activa:^oldclr^ la distancia de empuje aumenta en ^D22808^{PassiveField3_1}^oldclr^ casilla (s) por segundo
 
 [ARTIFACT_WEATHERMONKEY]
 Fuegos artificiales
@@ -7711,16 +7974,23 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_1]
-Lanza fuegos artificiales de izquierda a derecha que explotan al impactar, infligiendo {MainField_1} de daño en un área 3x3 y repeliendo zombis cercanos. Genera {MainField_2} explosiones cada 3 s. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_4}^oldclr^
+Dañan y repelen a los zombis en una colorida explosión.
+
+Cada ^D22808^3 s^oldclr^, se lanza una salva ^FF0000^(máx. {MainField_2})^oldclr^
+
+^D22808^- Daño: {MainField_1}^oldclr^
+^A0522D^- Área: 3x3^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas tipo arma en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas cañón^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada 15 s, lanza 5 fuegos artificiales adicionales, los cuales, se dirigen a los zombis y les infligen un daño equivalente al {PassiveField2_1}% de su salud actual.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^15 s^oldclr^, lanza ^D22808^5^oldclr^ fuegos artificiales que se dirigen a los zombis y les quitan un ^D22808^{PassiveField2_1} %^oldclr^ de su salud actual
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ tras golpear a un zombi, los fuegos artificiales empujarán a ese zombi 2 casillas hacia atrás antes de explotar.
+^98FB98^Activa:^oldclr^ los fuegos artificiales derriban zombis ^D22808^2 casillas^oldclr^ hacia atrás antes de explotar
 
 [ARTIFACT_WIND]
 Abanico caótico
@@ -7741,16 +8011,21 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_1]
-Sopla un viento que empuja zombis pequeños y medianos por {MainField_1} casillas y crea un ciclón que atrae zombis en un área 5x5 durante {MainField_2} s. ^4DD4DB^Recarga: 30 s^oldclr^ ^DB8117^Usos: {MainField_4}^oldclr^
+Sopla un viento potente que derriba y atrae zombis medianos por ^D22808^{MainField_2} s^oldclr^
+
+^D22808^- Derribo: {MainField_1} casilla (s)^oldclr^
+^DD7ECB^- Atraer: área 5x5^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
+^DB8117^- Usos: {MainField_4}^oldclr^
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_2]
-^98FB98^Habilidad pasiva:^oldclr^ aumenta el daño y la defensa de las plantas ninja en un {PassiveField1_1}%
+^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas ninja^oldclr^ en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_3]
-^98FB98^Habilidad pasiva:^oldclr^ cada {PassiveField2_1} s, sopla un viento en una línea aleatoria, el cual, elimina a los zombis que estén a {PassiveField2_2} casillas.
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, sopla un viento en una línea aleatoria, que derriba zombis ^D22808^{PassiveField2_2}^oldclr^ casilla (s)
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_4]
-^98FB98^Habilidad activa:^oldclr^ el viento tiene un {PassiveField3_1}% de probabilidad de eliminar zombis pequeños y medianos.
+^98FB98^Activa: ^D22808^{PassiveField3_1} %^oldclr^ de probabilidad de eliminar zombis medianos con sus ventarrones
 
 [ASH]
 Incinerar
@@ -20208,7 +20483,7 @@ Berenjena ninja
 Lanza estrellas electrificadas que ^848484^aturden^oldclr^ zombis por 1 s. ^D22808^Daño: 70^oldclr^
 
 [EGGPLANTNINJA_DESCRIPTION]
-{KEYWORD}Especial: {STAT}después de varios ataques, lanzará una estrella más grande que inflige mayor daño
+{KEYWORD}Shuriken gigante: {STAT}después de varios ataques, lanzará una estrella más grande que inflige daño aumentado
 
 ^397F24^Nutrientes: {STAT}lanza estrellas ninja que atacan un arco completo de zombis
 
@@ -20227,7 +20502,7 @@ Solanum
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL1_DES]
 Lanza shurikens que golpean zombis de varias líneas, ^D22808^¡dos veces!^oldclr^
-^E2725B^Estrella doble: se activa ^D22808^cada 3 ataques ^E2725B^y hace más daño. ^D22808^Daño: hace 90 (x2)^oldclr^
+^E2725B^Shuriken gigante: se activa ^D22808^cada 3 ataques ^E2725B^y hace más daño. ^D22808^Daño: hace 90 (x2)^oldclr^
 
 [EGGPLANTNINJA_NEW_SKILL_LEVEL2_DES]
 ^D22808^10% de probabilidad^oldclr^ de lanzar una estrella de fuego que inflige más daño.
@@ -20258,7 +20533,7 @@ Lanza estrellas ninja que atacan un arco completo de zombis
 Nivel 2
 
 [EGGPLANTNINJA_SKILL_LEVEL1_DES]
-^4DD4DB^Shuriken en llamas:^oldclr^ gana la probabilidad de lanzar una estrella de fuego que inflige más daño.
+^4DD4DB^Estilo de fuego: Shuriken en llamas:^oldclr^ probabilidad de lanzar una estrella de fuego que hace más daño
 
 [EGGPLANTNINJA_SKILL_LEVEL2]
 Nivel 3
@@ -20270,7 +20545,7 @@ Nivel 3
 Nivel 5
 
 [EGGPLANTNINJA_SKILL_LEVEL5_DES]
-^DB8117^Rasen-shuriken:^oldclr^ gana la probabilidad de lanzar una estrella torbellino que arroja a los zombis fuera del patio.
+^DB8117^Rasen-shuriken:^oldclr^ probabilidad de lanzar una estrella torbellino que expulsa a los zombis medianos
 
 [EGGPLANTNINJA_TOOLTIP]
 Lanza shurikens que golpean zombis de varias líneas, ¡dos veces!
@@ -20476,7 +20751,7 @@ Bombilla
 
 [ELECTRICBLUEBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
 Los zombis supervivientes son reducidos y reciben un ^D22808^75 %^oldclr^ más de daño.
-^D22808^Reducción: dura 20 s^oldclr^
+^3827F5^Reducción: dura 20 s^oldclr^
 
 [ELECTRICBLUEBERRY_DESCRIPTION]
 ^397F24^Nutrientes: {STAT}crea una tormenta que ataca a 3 zombis aleatorios
@@ -20575,7 +20850,7 @@ Despertar: ^D22808^80 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: aumenta el daño de forma permanente en un ^D22808^100 %^oldclr^
 
 [ELECTRICCURRANT_NEW_SKILL_LEVEL5_DES]
-El ataque cuerpo a cuerpo emite arcos eléctricos que dañan a los zombis de un área 3x3
+El ataque cuerpo a cuerpo emite arcos eléctricos que dañan a los zombis de un ^D22808^área 3x3^oldclr^
 
 [ELECTRICCURRANT_PLANTFOOD_DESCRIPTION]
 Aumenta permanentemente el daño cuerpo a cuerpo y el de la valla electrificada
@@ -20608,7 +20883,7 @@ Té eléctrico
 Sombrero de cowboy
 
 [ELECTRICITEA_AVATAR_PLANTFOOD_DESCRIPTION]
-La electricidad se propaga en un área de 3x3 ^D22808^Daño: 200^oldclr^
+La electricidad se propaga en un área de 3x3. ^D22808^Daño: 200^oldclr^
 
 [ELECTRICITEA_DESCRIPTION]
 {KEYWORD}Especial: {STAT}libera poderosas descargas eléctricas al ser comido
@@ -25153,7 +25428,7 @@ Nuevas plantas
 Controla la gravedad con este nuevo artefacto y derrota zombis
 
 [GIFT_FOR_RETURN_UPDATE_NEW_3_NAME]
-Aparato gravitacional
+Gravitador
 
 [GIFT_FOR_RETURN_UPDATE_NEW_4]
 ^FFFF00^Nuevo modo - Ezcape del vacío:^oldclr^ enemigos más fuertes, retos más complejos
@@ -25190,13 +25465,13 @@ DESCRIPCIÓN DEL EVENTO
 ¡Consigue el Cuadriplicador de Monedas!
 
 [GIFT_RETURN_SEE_UPDATE_NEWS]
-Consulta las novedades de esta Actualización
+NOVEDADES
 
 [GIFT_RETURN_SEE_UPDATE_NEWS_GO]
 Ver detalles
 
 [GIFT_RETURN_TAB_1]
-Canjear
+Premios
 
 [GIFT_RETURN_TAB_2]
 Misiones
@@ -25351,7 +25626,7 @@ Básicos: el ataque manual se divide y hace daño de área. ^D22808^Daño: 1 (ca
 ^DB8117^Nutrientes: las esquirlas congelan por ^D22808^3 s^oldclr^
 
 [GLACIERSHROOM_DESCRIPTION]
-{KEYWORD}Especial: {STAT}toca en ella para congelar a todos los zombis en pantalla
+{KEYWORD}Uso: {STAT}la congelación manual se activa cuando no está atacando (1 vez por planta)
 
 ^397F24^Nutrientes: {STAT}deja hielo en un área 5x5 alrededor
 
@@ -25360,7 +25635,7 @@ Básicos: el ataque manual se divide y hace daño de área. ^D22808^Daño: 1 (ca
 {FLAVOR}"Reinventarse no es fácil", dice Seta congelada después de un duro régimen de entrenamiento en las partes más frías del Antártico. "Es muy raro que te den una segunda oportunidad, pero he vuelto y esta vez no pienso defraudar ni a mis amistades ni a mis fans". Seta congelada aparece en el patio ante el clamor de los presentes.
 
 [GLACIERSHROOM_DESCRIPTION_HEADER]
-Seta congelada golpea a los zombis en combate cuerpo a cuerpo y los ralentiza.
+Seta congelada golpea a los zombis en combate cuerpo a cuerpo y los ralentiza. También puedes tocarla para congelar a todos los zombis en pantalla.
 
 [GLACIERSHROOM_NEW_SKILL_LEVEL1_DES]
 Daña y ralentiza a los zombis cercanos por ^D22808^2 s^oldclr^
@@ -26847,11 +27122,6 @@ Avatar: {NAME}
 
 [HEALING]
 Curación
-
-[HEALTH_NOTICE_CONTENT_3]
-^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.3^oldclr^ | ^87CEFA^Parche: 1.0.0 (actualizado el 3/9/2026)^oldclr^
-^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [HEATHSEEKER]
 Peluda de Brezal
@@ -34994,7 +35264,7 @@ Límite de compra: ^FF0000^{NUM}^oldclr^
 Duración: {NUM}d
 
 [MONTHLY_CARD_FESTIVAL_EVENT_2019]
-¡Obtuviste una ^F3A164^Tarjeta VIP de prueba^oldclr^, con una duración ^7AFC23^3 días^oldclr^!
+¡Obtuviste una ^F3A164^Tarjeta VIP de prueba^oldclr^, con una duración de ^7AFC23^3 días^oldclr^!
 
 [MONTHLY_CARD_FREE_BUY]
 GRATIS
@@ -35317,7 +35587,7 @@ Lanza bayas que explotan en un área pequeña
 {CHALLENGE_ONE} | {CHALLENGE_TWO}
 
 [MULTIPLE_QUEST_ROLLUP_AWARD_DESCRIPTION]
-¡Has completado un montón de misiones!¡Toma un montón de premios!
+¡Has completado un montón de misiones! ¡Toma un montón de premios!
 
 [MURKADAMIA]
 Nuez de Macadabria
@@ -39273,7 +39543,7 @@ Ahora las plantas maniobran como auténticos pilotos de élite.
 {SAY:winnie}Detecto que sus habilidades han cambiado, ahora es más poderoso que nunca.
 
 [NARRATIVE_PVZ1_S28_2_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}¡Ah! Esos zombis de nuevo. Verlos por el patio me saco de quicio.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}¡Ah! Esos zombis de nuevo. Verlos por el patio me saca de quicio.
 
 [NARRATIVE_PVZ1_S28_2_H_INTRO_2]
 {PLAYFUL:winnie}Alguna vez un sabio dijo: "debemos aprender a convivir con los demás para alcanzar la paz"
@@ -39614,7 +39884,7 @@ B. Viajar al pasado y colocar tus trampas
 {SAY:winnie}Esperar.
 
 [NARRATIVE_PVZ1_S30_7_H_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Esto pinta mal.. sin sol, sin mejoras... estamos contra las cuerdas.
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{TIRED:crazydave}Esto pinta mal... sin sol, sin mejoras... estamos contra las cuerdas.
 
 [NARRATIVE_PVZ1_S30_7_H_INTRO_2]
 {PLAYFUL:winnie}Aún nos queda un último recurso: plantas fulminantes. Jalapeños y Petacerezas, para ser precisos.
@@ -39917,10 +40187,7 @@ B. Viajar al pasado y colocar tus trampas
 {SAY:winnie}Y para evitar que eso suceda, debemos destruirlas lo más antes posible.
 
 [NARRATIVE_RENAI_5_INTRO_4]
-{EXCITED:crazydave}{SHORT}Sé lo que eso significa, Penny.
-
-[NARRATIVE_RENAI_5_INTRO_5]
-{SPECIAL4:crazydave}¡ES HORA DE ESCULPIR!
+{SPECIAL4:crazydave}Bien, ¡HORA DE ESCULPIR!
 
 [NARRATIVE_RENAI_7_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}{SHORT}Oye, Penny. ¿Quienes son esos tipos de allá?
@@ -45206,19 +45473,19 @@ Dispara estrellas venenosas
 Nivel 2
 
 [NIGHTCAP_SKILL_LEVEL1_DES]
-^4DD4DB^Entrenamiento ninjutsu:^oldclr^ aumenta su rango de ataque en una casilla. Reduce la recarga del Sigilo oscuro en 2,5 s
+^4DD4DB^Camino ninja:^oldclr^ aumenta su rango de ataque en una casilla. Reduce la recarga del Sigilo oscuro en 2,5 s
 
 [NIGHTCAP_SKILL_LEVEL2]
 Nivel 3
 
 [NIGHTCAP_SKILL_LEVEL2_DES]
-^DD7ECB^Ninjutsu perfeccionado:^oldclr^ mejora los efectos del Nvl. 2 al doble
+^DD7ECB^Senda del maestro:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [NIGHTCAP_SKILL_LEVEL5]
 Nivel 5
 
 [NIGHTCAP_SKILL_LEVEL5_DES]
-^DB8117^Estrella gigante:^oldclr^ gana la probabilidad de unir sus estrellas en una grande que inflige más daño y aturde zombis
+^DB8117^Shuriken del viento endemoniado: Molino de sombras:^oldclr^ probabilidad de unir sus estrellas ninja en una grande que inflige más daño, aturde zombis y se divide en 3
 
 [NIGHTCAP_TOOLTIP]
 Dispara estrellas venenosas
@@ -45253,7 +45520,7 @@ Reduce el tiempo de regeneración en ^D22808^2 s^oldclr^
 
 [NIGHTSHADE_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^25 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: lanza 3 hojas supercargadas y aumenta el daño en un 20% ^D22808^Daño por hoja: 400^oldclr^
+^DB8117^Nutrientes: lanza 3 hojas supercargadas y aumenta el daño en un 20%. ^D22808^Daño por hoja: 400^oldclr^
 
 [NIGHTSHADE_PLANTFOOD_DESCRIPTION]
 Lanza 3 hojas supercargadas y aumenta el daño infligido
@@ -45361,16 +45628,15 @@ Infinito
 Noctarina
 
 [NOCTARINE_DESCRIPTION]
-^FF8000^Características de la planta: {STAT}planta marrón
 {KEYWORD}Uso: {STAT}único e instantáneo
-
-{KEYWORD}Especial: {STAT}el gas de Noctarina ralentiza zombis y puede potenciar a las plantas sombrías
 {KEYWORD}Especial: {STAT}probabilidad de crear zombis explosivos con su gas
+
+^FF8000^Características de la planta: {STAT}planta marrón
 
 {FLAVOR}Para una planta que se retuerce víctima de sus gases internos, las opiniones de Noctarina son sorprendentemente convencionales. "Tiburón es una película estupenda", dice. ¡PUES CLARO, Noctarina!
 
 [NOCTARINE_DESCRIPTION_HEADER]
-Las Noctarinas son plantas sombrías que explotan y generan nubes de gas nocivo.
+Las Noctarinas son plantas sombrías que explotan y generan nubes de gas nocivo, el cual, ralentiza zombis y potencia a las plantas sombrías.
 
 [NOCTARINE_DESCRIPTION_PLANTFOOD]
 {KEYWORD}Nutrientes: {STAT}Sin efecto de Nutrientes.
@@ -46249,7 +46515,7 @@ Potencia los orbes del efecto, los cuales atraen zombis a ^D22808^1 casilla por 
 
 ^FF8000^Características de la planta: {STAT}planta púrpura, flotante, amenazante
 
-{FLAVOR}Debido a que era debil de pequeña, tuvo que aprender toda clase de hehicerías durante su niñez. Ahora que ha perfeccionado sus técnicas, puede controlar la gravedad a su antojo y usar ese poder contra los zombis.
+{FLAVOR}}Orquídea de vacío siempre sintió que algo le faltaba. Algunos lo llaman vacío interior. Ella prefiere llamarlo "espacio para crecer".
 
 [ORCHIDMAGE_DESCRIPTION_HEADER]
 Orquídea de vacío lanza un orbe que crea un campo gravitatorio al impactar en un zombi, atrayendo al resto hacia el centro del ataque.
@@ -47044,13 +47310,13 @@ Derriba zombis, después invoca a 2 minipodarrábanos que cargan por la fila
 Nivel 2
 
 [PARSNIP_SKILL_LEVEL1_DES]
-^4DD4DB^Pinzas rojas:^oldclr^ gana un 10% de probabilidad de causar el doble de daño al objetivo con sus pinzas.
+^4DD4DB^Pinzas gigantes:^oldclr^ gana un 10% de probabilidad de causar el doble de daño al objetivo con sus pinzas.
 
 [PARSNIP_SKILL_LEVEL2]
 Nivel 3
 
 [PARSNIP_SKILL_LEVEL2_DES]
-^DD7ECB^Pinzas gigantes:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+^DD7ECB^Rey podador:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
 
 [PARSNIP_SKILL_LEVEL5]
 Nivel 5
@@ -48364,7 +48630,7 @@ Con Primeros auxilios para Nueces, se puede plantar otra encima para curarla.
 ¿Qué hace su atuendo?
 
 [PENNY_CLASSROOM_SURVEY_REDO_QUESTION]
-RECONTESTAR
+REINTENTAR
 
 [PENNY_CLASSROOM_SURVEY_WRONG_0_CHOMPER]
 Incorrecto.
@@ -55256,7 +55522,7 @@ Los zombis aparecen cuando la marea sube
 ¡Grieta espacio-temporal!
 
 [PVZ1MODE_TIMEENERGY_WARNING_WORM]
-¡Agujero de gusano!
+¡Vórtice oscuro!
 
 [PVZ1MODE_TIME_COIN_NOT_ENOUGH]
 No tienes suficientes Estabilizadores para empezar la partida.
@@ -55450,10 +55716,10 @@ Batalla contra jefe, ¿estás listo?
 La Energía temporal se agotará a medida que pasa el tiempo, desatando eventos inesperados.
 
 [PVZ1_HOWTOPLAY_2_DESCRIPTION]
-En este Modo de Juego hay tres mecánicas especiales: Agujeros de gusano, Grietas y Agujeros negros.
+En este Modo de Juego hay tres mecánicas especiales: Vórtices, Grietas y Agujeros negros.
 
 [PVZ1_HOWTOPLAY_3_DESCRIPTION]
-Los Agujeros de gusano teletransportarán tanto a plantas como a zombis a ubicaciones aleatorias del patio.
+Los Vórtices transportan plantas a ubicaciones aleatorias del patio.
 
 [PVZ1_HOWTOPLAY_4_DESCRIPTION]
 Saldrán zombis especiales de las Grietas espacio-temporales.
@@ -55468,7 +55734,7 @@ Energía temporal
 Mecánicas del espacio-tiempo
 
 [PVZ1_HOW_TO_PLAY_3]
-Agujeros de gusano
+Vórtices oscuros
 
 [PVZ1_HOW_TO_PLAY_4]
 Grietas
@@ -75213,7 +75479,7 @@ Tiempo res.:
 ¡Grieta espacio-temporal!
 
 [TIME_ENERGY_ADVICE_WORM_HOLE]
-¡Agujero de gusano!
+¡Vórtice oscuro!
 
 [TIME_SPACE_HEAD_DES_ID_25818]
 A quienes unieron fuerzas en la 1ra temporada del evento: Fisura temporal
@@ -80796,7 +81062,7 @@ Límite de compra: ^FF0000^1^oldclr^
 Carnaval zombi
 
 [ZOMBIEREMOVAL]
-Zombie Busters
+Exterminio zombi
 
 [ZOMBIEREMOVAL_AFK_LEVEL]
 Nvl. AFK: {NUM}
@@ -80814,8 +81080,10 @@ Premios automáticos
 Puntuación: {NUM}
 
 [ZOMBIEREMOVAL_DESCRIPTION]
-1. Gana puntos derrotando zombis en cada nivel, los niveles se actualizan cada 2 días.
-2. Puedes configurar el modo inactivo para seguir ganando premios cada cierto tiempo.
+1. Gana puntos derrotando zombis en cada nivel, los niveles se actualizan cada cierto tiempo.
+
+2. Puedes configurar el modo inactivo para seguir ganando premios transcurrido unas horas.
+
 3. Las recompensas mejoran conforme más puntos obtengas, ¡elimina tantos zombis como puedas!
 
 [ZOMBIEREMOVAL_DESCRIPTION_TITLE]
@@ -82476,7 +82744,7 @@ Flota sobre el patio en su nube y deja caer monedas cuando recibe daño.
 Zombi explorador
 
 [ZOMBIE_EXPLORER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}la antorcha destruye las plantas al contacto
+{KEYWORD}Especial: {STAT}la antorcha destruye plantas al contacto
 {KEYWORD}Debilidad: {STAT}los ataques gélidos extinguen la antorcha
 
 {FLAVOR}Sus impresionantes patillas almacenan comida durante semanas, por lo que sus expediciones siempre están llenas de comida.
@@ -86664,7 +86932,7 @@ Gallina gigante
 {FLAVOR}En nuestro universo, es difícil distinguir una gallina normal de una gallina zombi. Pero aquí, los conocimientos de taxonomía avícola están bien extendidos.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_CHICKEN_DESCRIPTION_HEADER]
-Variante de la Gallina zombi. Tiene más dureza pero menos velocidad de movimiento.
+Variante de la Gallina zombi. Tiene más dureza pero se mueve más lento.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR]
 Zombi matasanos
@@ -86673,7 +86941,7 @@ Zombi matasanos
 {FLAVOR}¿Este universo cambió la anatomía de los zombis o cambiaron los conocimientos médicos? Sea como sea, al menos conseguir una licencia médica es mucho más fácil ahora.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_DOCTOR_DESCRIPTION_HEADER]
-Variante del Zombi doctor perdido. Lanza una jeringuilla a la primera planta de la línea, causándole daño y ralentizándola.
+Variante del Zombi doctor perdido. Lanza una jeringa a la primera planta de la línea, causándole daño y ralentizándola.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_GARGANTUAR_BASIC]
 Zombi gigante
@@ -86685,7 +86953,7 @@ Zombi gigante
 Variante del Zombi básico, cuando se le cae el brazo, lo recoge y aplasta plantas con él.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO]
-Agricultor de arroz U42
+Zombi akindo U42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_HEIAN_AKINNDO_DESCRIPTION]
 {FLAVOR}Se niega a responder preguntas sobre su relación con los zombis brillantes en nuestro universo, o tal vez en realidad nadie sabe nada de eso en absoluto, ni siquiera él.
@@ -86700,7 +86968,7 @@ Comadreja gigante
 {FLAVOR}Puede que ocurra algo malo si le lanzas bolas de nieve a esta comadreja enorme.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_ICEAGE_WEASEL_DESCRIPTION_HEADER]
-Variante de la Comadreja zombi. Tiene más dureza pero menos velocidad de movimiento.
+Variante de la Comadreja zombi. Tiene más dureza pero se mueve más lento.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_JUGGLER]
 Bufón cascarrabias
@@ -86733,7 +87001,7 @@ Variante del Zombi excavador, usa su pala como escudo para protegerse de proyect
 Zombi parasol U42
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE_DESCRIPTION]
-{FLAVOR}En este universo los rayos de sol van en vertical. Por eso carga el parasol de esa forma, no es que sea una rarita.
+{FLAVOR}En este universo los rayos de sol van en línea recta. Por eso carga el parasol de esa forma, no es que sea una rarita.
 
 [ZOMBIE_UNIVERSE_UNCHARTED_LOSTCITY_JANE_DESCRIPTION_HEADER]
 Variante de la Zombi parasol, bloquea proyectiles rectos con su parasol.
@@ -87113,7 +87381,7 @@ Lanza guisantes helados que dañan y ralentizan a tus plantas.
 Lobo con antorcha
 
 [ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE_DESCRIPTION]
-{KEYWORD}Especial: {STAT}la antorcha destruye las plantas al contacto
+{KEYWORD}Especial: {STAT}la antorcha destruye plantas al contacto
 {KEYWORD}Debilidad: {STAT}los ataques gélidos extinguen la antorcha
 
 {FLAVOR}El fuego debería ser un problema para un lobo. A él le da igual.
@@ -87270,7 +87538,7 @@ Hidra Zombot
 {KEYWORD}Especial: {STAT}dispara espejos mágicos y hace invencibles a los zombis por un tiempo
 {KEYWORD}Especial: {STAT}expulsa niebla mágica que convierte plantas en sapos
 
-{FLAVOR}El Dr. Zombi necesitó tres veces más acero y el triple de mano de obra para terminar su nueva creación. El traje de bruja es por puro capricho.
+{FLAVOR}El Dr. Zombi necesitó tres veces más acero y el triple de mano de obra para terminar su nueva creación. Dentro de los gastos, el traje de bruja fue más un capricho que una necesidad.
 
 [ZOMBIE_ZOMBOSSMECH_HYDRA_DESCRIPTION_HEADER]
 Una obra maestra llena de tecnología y fantasía.
@@ -87423,7 +87691,7 @@ REFORJA REAL: ¡derrota al emperador ahora!
 {FLAVOR}Impulsado por el rencor de su derrota, el Señor del Palacio Subterráneo absorbió el poder del inframundo, desatando habilidades aún más temibles... y mucho más aterradoras.
 
 [ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_DESCRIPTION_HEADER]
-Forma etérea del Primer Emperador, ahora conocido como  "El rey de las tinieblas"
+Forma etérea del Primer Emperador, ahora conocido como "El rey de las tinieblas"
 
 [ZOMBIE_ZOMBOSS_TEAMBOSS]
 Bestia rugiente Zombot
@@ -87799,6 +88067,7 @@ Serpiente celestial
 La niebla del efecto aturde zombis por 1 s
 
 [poisonvine_DESCRIPTION]
+{KEYWORD}Uso: {STAT}debe plantarse sobre plantas no trepadoras
 {KEYWORD}Especial: {STAT}su propio daño y velocidad aumentan cuando hay plantas venenosas encima
 
 ^397F24^Nutrientes: {STAT}arroja un proyectil que esparce niebla tóxica en un área 3x3 a su alrededor
@@ -87974,4 +88243,3 @@ Actualizado semanalmente
 
 [view_picks]
 Ver elecciones
-
