@@ -3,7 +3,7 @@
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.4^oldclr^  | ^87CEFA^Parche: 1.0.0 (actualizado el 26/9/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.4^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 1/10/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [AGE_TIP]
@@ -4513,7 +4513,7 @@ El anturio (Anthurium spp.) es una planta tropical originaria de América Centra
 Descubierto por exploradores europeos en las selvas tropicales del continente americano, el anturio fue introducido a la horticultura mundial en el siglo XIX. Desde entonces, ha sido objeto de numerosos cultivares ornamentales. Su resistencia y apariencia exótica lo han convertido en una de las plantas de interior más populares del mundo.
 
 [ANTHURIUM_PLANTFOOD_DESCRIPTION]
-Elimina la carga eléctrica de todas las plantas y ataca a 3 zombis frente a él con rayos. ^D22808^Daño: 1.200^oldclr^
+Elimina la carga eléctrica de todas las plantas y ataca a 3 zombis frente a él con rayos
 
 [ANTHURIUM_PRODUCT_SHORT_DESC]
 Lanza rayos y absorbe descargas eléctricas
@@ -7425,7 +7425,7 @@ El bambú es una planta de crecimiento rápida perteneciente a la familia de las
 Ha sido utilizado durante milenios en Asia para construir viviendas, fabricar herramientas, instrumentos musicales y como alimento (brotes tiernos). Su uso se ha expandido globalmente por su sostenibilidad y aplicaciones ecológicas. Hoy es símbolo de fortaleza, flexibilidad y crecimiento en muchas culturas orientales.
 
 [BAMBOO_PLANTFOOD_DESCRIPTION]
-Golpea a 4 zombis al azar, expulsándolos si su salud es baja. ^D22808^Daño: 500 (casilla)^oldclr^
+Golpea a 4 zombis al azar, expulsándolos si su salud es baja
 
 [BAMBOO_PRODUCT_SHORT_DESC]
 Perfora a los zombis de su alcance
@@ -7599,7 +7599,7 @@ Consigue 5 victorias en "Dueloz" esta semana.
 Consigue 3 genes para el Potenciador de genes esta semana
 
 [BATTLEORDER_TASK_NAME_2_14]
-Usa el Transgén 5 veces esta semana.
+Usa Fábrica de piezas 5 veces esta semana.
 
 [BATTLEORDER_TASK_NAME_3_1]
 Rompe 10 Jarrones de oro en el evento "Rompejarrones de Oro" este mes.
@@ -8780,7 +8780,7 @@ Bonk Choy está basado en la col china (Brassica rapa var. glabra), su nombre (B
 Se ha cultivado durante más de 1.500 años en China. Fue introducido a otras partes de Asia, como Corea y Japón, en épocas antiguas, y más tarde, durante el siglo XIX, se extendió a Europa y América a través del comercio y la migración. Durante siglos, el Bok Choy ha sido valorado no solo como alimento, sino también en la medicina tradicional china.
 
 [BONKCHOY_PLANTFOOD_DESCRIPTION]
-Da puñetazos rápidos en una zona de 3x3 a su alrededor, haciendo 60 DPS por segundo. ^D22808^Duración: 4 s^oldclr^
+Da puñetazos rápidos en una zona de 3x3 a su alrededor, haciendo grandes daños
 
 [BONKCHOY_PRODUCT_SHORT_DESC]
 Da rápidos puñetazos a los enemigos que tiene delante y detrás
@@ -10215,8 +10215,7 @@ El brócoli (Brassica oleracea var. italica) es una planta comestible cultivada 
 Originario del Mediterráneo, el brócoli fue domesticado por los romanos y redescubierto en la Europa renacentista. Su cultivo se popularizó en América en el siglo XX. Hoy es considerado un superalimento por sus beneficios para la salud y su versatilidad culinaria.
 
 [BROCCOLI_PLANTFOOD_DESCRIPTION]
-Atrae a un zombi lejano y lo sacude, infligiendo daño en un área de 3x3, luego lo arroja fuera del patio.
-^D22808^Daño por segundo: 800^oldclr^
+Atrae a un zombi lejano y lo sacude, infligiendo daño en un área 3x3. Luego, lo arroja fuera del patio
 
 [BROCCOLI_PRODUCT_SHORT_DESC]
 Azota zombis con un suplex
@@ -10225,7 +10224,7 @@ Azota zombis con un suplex
 Nivel 2
 
 [BROCCOLI_SKILL1_LEVEL1_DES]
-^4DD4DB^Lanzamiento:^oldclr^ 20% de probabilidad de lanzar a un zombi con salud baja fuera del patio
+^4DD4DB^Lanzamiento:^oldclr^ probabilidad de lanzar a un zombi con salud baja fuera del patio
 
 [BROCCOLI_SKILL1_LEVEL2]
 Nivel 3
@@ -10243,7 +10242,8 @@ Bromelia guerreante
 Antifaz azul
 
 [BROMELBLADE_AVATAR_PLANTFOOD_DESCRIPTION]
-El área del efecto aumenta a ^D22808^4x3^oldclr^. ^D22808^Daño: 750 (x2)^oldclr^
+El área del efecto aumenta a ^D22808^4x3^oldclr^
+^FF8000^El daño aumenta a ^D22808^750 (x2)^oldclr^
 
 [BROMELBLADE_DESCRIPTION]
 {KEYWORD}Estocada: {STAT}se activa después de 3 ataques, aumentando el daño y elevando zombis medianos
@@ -10965,11 +10965,11 @@ Despertar: ^D22808^35 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: lanza coles enormes a los zombis del patio. ^D22808^Daño: 200^oldclr^
 
 [CABBAGEPULT_NEW_SKILL_LEVEL5_DES]
-Gana la habilidad de lanzar coles doradas que se dividen en 2 más pequeñas. Cada col impacta en un mismo zombi.
-^D22808^Daño: 140 (x2) - Nutrientes: 800 (x2)^oldclr^
+Lanza coles doradas que se dividen en 2 más pequeñas. Cada col impacta en un mismo zombi.
+^D22808^Daño: 140 (x2) ^DB8117^Daño con Nutrientes: 800 (x2)^oldclr^
 
 [CABBAGEPULT_PLANTFOOD_DESCRIPTION]
-Lanza varias coles a todos los zombis, infligiendo grandes daños. ^D22808^Daño: 200 - Nvl. 5: 800 (x2)^oldclr^
+Lanza varias coles a todos los zombis del patio
 
 [CABBAGEPULT_PRODUCT_SHORT_DESC]
 Lanza coles al enemigo
@@ -11455,7 +11455,7 @@ Lanza una bujía que tiene ^D22808^2.000 PS^oldclr^ y hace más daño al explota
 [CARROTLAUNCHER_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}línea
 
-^397F24^Nutrientes: {STAT}lanza un misil que explota si es destruido o si aterriza en una casilla ocupada
+^397F24^Nutrientes: {STAT}lanza un misil que explota si es destruido o si aterriza en una casilla ocupada por plantas
 
 ^DD7ECB^Características de la planta: {STAT}planta anaranjada, destructora, familia de armas
 
@@ -11493,7 +11493,7 @@ Zanahortillería está basada en la zanahoria (Daucus carota var. sativus), una 
 La zanahoria se originó hace más de 5.000 años en Asia Central. Luego llegó al Mediterráneo y Europa, donde fue cultivada como planta medicinal por los griegos y romanos durante la Edad Antigua. En el siglo XVII, agricultores holandeses desarrollaron la variedad naranja en honor a la Casa de Orange, esta variedad es la más utilizada a partir de entonces debido a su sabor dulce y textura suave.
 
 [CARROTLAUNCHER_PLANTFOOD_DESCRIPTION]
-Lanza un misil que tiene 20.000 PS y explota en un área 3x3 si es destruido o si aterriza en una casilla ocupada.
+Lanza un misil que explota si es destruido o si aterriza en una casilla ocupada por plantas
 
 [CARROTLAUNCHER_PRODUCT_SHORT_DESC]
 Dispara misiles de zanahoria
@@ -12294,7 +12294,7 @@ Escuadrón castañita
 Moñito
 
 [CHESTNUT_AVATAR_PLANTFOOD_DESCRIPTION]
-Invoca una gran castaña adicional, la cual, hace ^D22808^800^oldclr^ de daño
+Invoca una gran castaña adicional, la cual, hace ^D22808^800^oldclr^ puntos de daño
 
 [CHESTNUT_DESCRIPTION]
 {KEYWORD}Informacion de alcance: {STAT}las castañas se desplazan 3 casillas por delante o por detrás
@@ -12628,7 +12628,7 @@ Esta planta carnívora está inspirada en la trampa de jarra (Nepenthes spp.), o
 La trampa de jarra ha fascinado a las culturas del sudeste asiático por siglos, no solo por su método de captura, sino también por sus usos. En algunas regiones, sus trampas se utilizan para cocinar platos tradicionales, sus hojas secas se emplean en remedios para tratar fiebre y problemas respiratorios.
 
 [CHOMPER_PLANTFOOD_DESCRIPTION]
-Consume a 3 zombis cercanos en la línea, después eructa y empuja a los supervivientes. ^D22808^Daño: 1.000^oldclr^
+Consume a 3 zombis cercanos en la línea, después eructa y empuja a los supervivientes
 
 [CHOMPER_PRODUCT_SHORT_DESC]
 Devora un zombi y después lo mastica un rato
@@ -12814,7 +12814,7 @@ Pomelo
 El plasma genera cadenas de corriente eléctrica para dañar a los zombis adyacentes. ^D22808^Daño: 150^oldclr^
 
 [CITRON_DESCRIPTION]
-^397F24^Nutrientes: {STAT}dispara una bola de plasma gigante que expulsa zombis pequeños y medianos del patio
+^397F24^Nutrientes: {STAT}dispara una bola de plasma gigante que expulsa zombis pequeños y medianos. La bola explota al impactar con un zombi grande, infligiéndole daño
 
 ^DD7ECB^Características de la planta: {STAT}planta anaranjada, destructora
 
@@ -12840,7 +12840,8 @@ Reduce el tiempo de recuperación en un ^D22808^40 %^oldclr^
 
 [CITRON_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^100 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: dispara una bola de plasma gigante que expulsa zombis medianos. ^D22808^Daño: 2.500^oldclr^
+^DB8117^Nutrientes: dispara una bola de plasma gigante que expulsa zombis pequeños y medianos del patio.
+^D22808^Daño a zombis grandes: 2.500^oldclr^
 
 [CITRON_NEW_SKILL_LEVEL5_DES]
 El plasma crea campos magnéticos que hacen ^D22808^100 DPS/s^oldclr^ en un ^D22808^área 3x3^oldclr^
@@ -12853,7 +12854,7 @@ El pomelo (Citrus maxima) es un árbol frutal originario del sudeste asiático. 
 Se cultivaba desde la antigüedad por su gran tamaño y sabor distintivo. En la cultura china, se le otorgaba un simbolismo de prosperidad y buena suerte. Llegó a otras regiones de Asia a través de las rutas marítimas y posteriormente al Mediterráneo por comerciantes árabes en la Edad Media. Durante el período de exploración europea, los navegantes lo llevaron a América y otras colonias tropicales.
 
 [CITRON_PLANTFOOD_DESCRIPTION]
-Dispara una bola de plasma gigante que expulsa zombis pequeños y medianos del patio. ^D22808^Daño: 2.500^oldclr^
+Dispara una bola de plasma gigante que expulsa zombis pequeños y medianos del patio, y daña a los grandes
 
 [CITRON_PRODUCT_SHORT_DESC]
 Dispara bolas poderosas de plasma
@@ -12871,7 +12872,7 @@ Nivel 3
 ^DD7ECB^Energía abundante:^oldclr^ su tiempo de recuperación es reducido en un 40%
 
 [CITRON_SUPERSKILL_DES]
-^DB8117^Plasma concentrado:^oldclr^ el plasma deja campos magnéticos en un área mediana para hacer daño extra.
+^DB8117^Plasma concentrado:^oldclr^ el plasma deja campos magnéticos en un área mediana para hacer daño extra
 
 [CITRON_SUPERSKILL_NAME]
 Nivel 5
@@ -13095,7 +13096,7 @@ Cococañón está basado en el fruto del cocotero (Cocos nucifera), una palmera 
 En la antigüedad, los pueblos costeros utilizaban el coco tanto como alimento como para fabricar cuerdas y utensilios a partir de su cáscara fibrosa. Con el tiempo, su cultivo se expandió a lo largo de las costas tropicales de todo el mundo, convirtiéndose en un símbolo de la vida tropical costera.
 
 [COCONUTCANNON_PLANTFOOD_DESCRIPTION]
-Dispara una enorme bola de cañón que empuja zombis y luego explota. ^D22808^Daño: 1.200 (área 3x3)^oldclr^
+Dispara una enorme bola de cañón que empuja zombis y luego explota
 
 [COCONUTCANNON_PRODUCT_SHORT_DESC]
 Toca en el Cococañón para disparar un coco explosivo
@@ -15866,7 +15867,7 @@ El diente de león (Taraxacum officinale) es una herbácea originaria de Europa 
 El diente de león ha sido usado desde la antigüedad en la medicina tradicional por sus propiedades diuréticas y digestivas. Se extendió por todo el mundo debido a su resistencia y facilidad de crecimiento, y hoy es común en prácticamente todos los continentes como planta silvestre o medicinal.
 
 [DANDELION_PLANTFOOD_DESCRIPTION]
-Dispara semillas grandes a 5 zombis aleatorios. ^D22808^Daño: 900^oldclr^
+Dispara semillas grandes a 5 zombis aleatorios
 
 [DANDELION_PRODUCT_SHORT_DESC]
 Lanza semillas explosivas a los zombis de la línea
@@ -18284,7 +18285,7 @@ El huevo eclosiona en un Zombistein abisal supremo quien tiene un ^D22808^40 %^o
 
 {KEYWORD}Características de la planta{STAT}planta morada, hábil
 
-{FLAVOR}Su procedencia no es exacta. Los zombis que la ven procuran no acercarse mucho, saben muy bien que eso significaría una muerte inminente, aunque ya están muertos... claro.
+{FLAVOR}Su procedencia es un misterio. Algunos dicen que sus raíces llegan hasta donde termina la luz y comienza el Abismo. Nadie sabe de qué se alimenta, aunque muchos sospechan que extrae su energía de las almas de quienes han muerto.
 
 [DEVILSFLOWER_DESCRIPTION_HEADER]
 Garra del diablo invoca insectos parásito que atacan y drenan la energía de los zombis enemigos. La energía se usa para cargar el Ojo del abismo.
@@ -19184,7 +19185,7 @@ La fruta del dragón (Hylocereus undatus y otras especies) es el fruto de un cac
 Originaria de América Central, fue llevada al sudeste asiático, donde se popularizó ampliamente. Hoy se cultiva en países como Vietnam, México e Israel. Su apariencia exótica y sus propiedades nutricionales la han convertido en un superalimento moderno.
 
 [DRAGONFRUIT_PLANTFOOD_DESCRIPTION]
-Escupe una gran bola de fuego que rueda por la línea. ^D22808^Daño: 1.600^oldclr^
+Escupe una gran bola de fuego que rueda por la línea
 
 [DRAGONFRUIT_PRODUCT_SHORT_DESC]
 Dispara pulpa ardiente y calienta plantas cercanas
@@ -19539,7 +19540,7 @@ Lanza estrellas electrificadas que ^848484^aturden^oldclr^ zombis por 1 s. ^D228
 
 ^DD7ECB^Características de la planta: {STAT}planta púrpura, artista marcial, destructora
 
-{FLAVOR}Ha sido entrenado en ninjutsu desde que apenas era una semilla. Es competente en el lanzamiento de shuriken y muchos lo aclaman, aunque no está conforme porque perdió contra Bonk Choi una vez.
+{FLAVOR}Soñaba con convertirse en el mejor ninja del reino vegetal desde que apenas era una semilla. Estudió toda clase de ninjutsu en la Academia de Ninjas: entrenó, hizo amigos y aprendió a proteger a los que ama. También aprendió a lanzar shurikens. Muchos shurikens. Aunque todavía no consigue superar a Bonk Choy en taijutsu.
 
 [EGGPLANTNINJA_DESCRIPTION_HEADER]
 Berenjena ninja lanza shurikens a los zombis de varias líneas, dañándoles en la ida y a la vuelta.
@@ -21066,6 +21067,9 @@ Nivel 5
 
 [EXPLODEONUT_SKILL_LEVEL5_DES]
 ^DB8117^Ira explosiva:^oldclr^ tras explotar, vuela por los aires, cayendo en una casilla aleatoria y detonando por segunda vez
+
+[EXPLODEONUT_PRODUCT_SHORT_DESC]
+Explota cuando se la comen
 
 [EXPLODEONUT_TOOLTIP]
 Explota cuando se la comen
@@ -24383,7 +24387,9 @@ Inflige el triple de daño y ^DB8117^aturde^oldclr^ a los zombis acechados por ^
 Chile fantasma acecha a los zombis que lo atraviesan y explota después de un tiempo limitado.
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL1_DES]
-Acecha a los zombis que lo atraviesan, explota pasado 10 s. ^D22808^Daño explosivo: 450 (área 3x3)^oldclr^
+Acecha a los zombis que lo atraviesan, explota después de un tiempo limitado.
+^FF8000^Temporizador de vida: 10 s^oldclr^
+^D22808^Daño explosivo: 450 (área 3x3)^oldclr^
 
 [GHOSTPEPPER_NEW_SKILL_LEVEL2_DES]
 Acecha a los zombis en un ^D22808^patrón de cruz^oldclr^
@@ -24465,7 +24471,7 @@ Completa 1 Nivel en la Dimensión del Recuerdo (Difícil)
 Completa 1 Búsqueda de Penny
 
 [GIFT_FOR_RETURN_TASK_NAME_11]
-Usa el Transgén 1 vez
+Usa Fábrica de piezas 1 vez
 
 [GIFT_FOR_RETURN_TASK_NAME_12]
 Completa 1 Mision en el Tronco de Viaje
@@ -24522,15 +24528,23 @@ Han pasado muchas cosas interesantes durante tu ausencia.
 ¡Consigue premios alucinantes!
 
 [GIFT_GET_TITLE]
-Paquetes de Regalo
+Lotes
 
 [GIFT_RETURN]
 Premios por regreso
 
 [GIFT_RETURN_DESCRIPTION]
 1. Los jugadores que regresen podrán recibir premios por 7 días.
+
 2. Completa las tareas diarias para conseguir Puntos de Experiencia y usarlos en la tienda.
-3. Puedes comprar Paquetes o una Tarjeta de Exp en la Tienda.
+
+3. Puedes comprar Lotes o una Tarjeta de Exp en la Tienda.
+
+4. Durante el periodo, recibes los siguientes beneficios:
+
+- Piezas dobles en los Retos diaros
+- 30% descuento en los Cofres de la tienda
+- Duplicador de monedas
 
 [GIFT_RETURN_DESCRIPTION_TITLE]
 DESCRIPCIÓN DEL EVENTO
@@ -24584,25 +24598,25 @@ Válido por ^FF0000^{NUM} d^oldclr^
 ¿CÓMO JUGAR?
 
 [GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
-Fortaleza marina: vulnerable al veneno
+Rey zombi: invoca peones que le otorgan reducción de daño
 
 [GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
-Fortaleza marina: invoca zombis al sufrir daño
+Peones: se rompen con 5 ataques, o automáticamente al cabo de 10 s
 
 [GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
-Fortaleza marina: cambia de línea cada cierto tiempo
+Rey zombi: se vuelve vulnerable al daño cuando no hay peones
 
 [GINGLEBELL_HOWTOPLAY_4_DESCRIPTION]
-Fortaleza marina: puede avanzar o retroceder
+Modificador 1:
 
 [GINGLEBELL_HOWTOPLAY_5_DESCRIPTION]
-Fortaleza marina: se queda inmóvil cada cierto tiempo
+Modificador 2:
 
 [GINGLEBELL_HOWTOPLAY_6_DESCRIPTION]
-Modificador 4:
+Modificador 3:
 
 [GINGLEBELL_HOWTOPLAY_7_DESCRIPTION]
-Modificador 5:
+Modificador 4:
 
 [GINGLEBELL_PARTIC_NUM]
 Participantes: {NUMBER}
@@ -25277,7 +25291,7 @@ Despertar: ^D22808^20 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 Ataca con hipergravedad que entierra zombis medianos en el suelo durante ^D22808^3 s^oldclr^
 
 [GRAVITREE_PLANTFOOD_DESCRIPTION]
-Atrae a un zombi hacia él y crea un campo gravitacional que entierra al resto
+Atrae a varios zombis hacia él y crea un campo gravitacional que entierra al resto
 
 [GRAVITREE_PRODUCT_SHORT_DESC]
 Crea gravedad pesada que dificulta el paso de los zombis
@@ -25473,7 +25487,7 @@ Cereza iluminada está basada en el fruto de la hierba linterna (Physalis alkeke
 Distribuida por Eurasia, es común en varias regiones de China. Sus frutos se usan en la alimentación y la medicina tradicional para aliviar tos y eliminar toxinas. Además, su cáliz es valorado en decoración y sus pigmentos en la industria alimentaria.
 
 [GROUNDCHERRY_PLANTFOOD_DESCRIPTION]
-Revela a todos los zombis invisibles del patio. ^D22808^Duración: 10 s^oldclr^
+Revela a todos los zombis invisibles del patio
 
 [GROUNDCHERRY_PRODUCT_SHORT_DESC]
 Revela a los zombis invisibles por tiempo limitado
@@ -25589,7 +25603,7 @@ Persea
 
 [GUACODILE_NEW_SKILL_LEVEL1_DES]
 Dispara semillas, asalta a los zombis que tiene delante si lo atacan.
-^E2725B^Asalto: hace 150 DPS/0.2 s^oldclr^
+^E2725B^Asalto: hace 150 DPS / 0.2 s^oldclr^
 
 [GUACODILE_NEW_SKILL_LEVEL2_DES]
 ^D22808^20% de probabilidad^oldclr^ de disparar su dentadura que hace un ^D22808^50%^oldclr^ más de daño.
@@ -25599,8 +25613,8 @@ Dispara semillas, asalta a los zombis que tiene delante si lo atacan.
 
 [GUACODILE_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: derriba zombis de 1 casilla al frente y crea 2 clones que cargan por la línea.^oldclr^
-^D22808^Daño por segundo: 150 ^FF0000^(máx. 5 mordizcos)^oldclr^
+^DB8117^Nutrientes: empuja a los zombis del frente y crea 2 clones que cargan por la línea.^oldclr^
+^D22808^Daño por segundo: 150 (máx. 5 mordizcos)^oldclr^
 
 [GUACODILE_PEDIA]
 Guacadrilo está basado en el aguacate (Persea americana), un árbol originario de las regiones tropicales de América. Sus hojas son grandes y alargadas, sus flores pequeñas de color amarillo verdoso. El fruto, con una piel rugosa similar a la de un cocodrilo, tiene forma de pera y es conocido por su textura cremosa y su sabor suave. Es una fuente rica en grasas saludables.
@@ -25609,8 +25623,7 @@ Guacadrilo está basado en el aguacate (Persea americana), un árbol originario 
 El aguacate fue cultivado por los aztecas y mayas, quienes lo consideraban sagrado. Después de la llegada de los españoles, su cultivo se expandió por el mundo, y hoy en día es un alimento popular, especialmente en la cocina mexicana, en platos como el guacamole. Además, el aguacate se utiliza en la industria cosmética y farmacéutica por sus propiedades nutritivas y medicinales.
 
 [GUACODILE_PLANTFOOD_DESCRIPTION]
-Empuja a los zombis de 1 casilla al frente y crea 2 clones que cargan por la línea.
-^D22808^Daño: 150 (máx. 5 mordizcos por segundo)^oldclr^
+Empuja a los zombis del frente y crea 2 clones que cargan por la línea.
 
 [GUACODILE_PRODUCT_SHORT_DESC]
 Dispara semillas, asalta a los zombis que tiene delante si lo atacan
@@ -27028,7 +27041,7 @@ El cardo (Cirsium spp.) es una planta silvestre de tallos espinosos y flores pú
 El cardo ha sido valorado desde la antigüedad tanto por su simbolismo como por sus usos medicinales. En Escocia es un emblema nacional desde la Edad Media. Algunas variedades se han usado tradicionalmente como depurativos naturales.
 
 [HOMINGTHISTLE_PLANTFOOD_DESCRIPTION]
-Dispara proyectiles a todos los zombis del patio (min. 10 si no hay). ^D22808^Daño: 240^oldclr^
+Dispara proyectiles a todos los zombis del patio
 
 [HOMINGTHISTLE_PRODUCT_SHORT_DESC]
 Ataca al objetivo que esté más a la izquierda en cualquier línea
@@ -27102,7 +27115,7 @@ Comandante habas está basado en la haba (Vicia faba), una leguminosa cultivada 
 Originaria de la región mediterránea y Oriente Medio, su cultivo data de hace miles de años. Fue un alimento básico en civilizaciones antiguas como la egipcia y romana. Hoy sigue siendo un ingrediente tradicional en muchas cocinas del mundo.
 
 [HORSEBEAN_PLANTFOOD_DESCRIPTION]
-Genera 6 habas durante 60 s; cada vez que ataque, su tiempo de recuperación se acortará en 10 s
+Genera el doble de habas durante un tiempo. Su tiempo de recuperación se acorta cada vez que ataca
 
 [HORSEBEAN_PRODUCT_SHORT_DESC]
 Envia tropas para atacar zombis por varias líneas
@@ -30447,7 +30460,7 @@ El junco (Phragmites australis) es una herbácea proveniente de las zonas húmed
 Desde tiempos antiguos, ha sido utilizado para proteger el ecosistema acuático, evitando la erosión y proporcionando hábitat a la fauna. Tradicionalmente, también se ha usado para fabricar cestas y techos, y en medicina por sus propiedades en el tratamiento de afecciones respiratorias. Con el tiempo, su uso se ha expandido globalmente.
 
 [LIGHTNINGREED_PLANTFOOD_DESCRIPTION]
-Crea una tormenta que daña zombis aleatorios durante 15 s
+Crea una tormenta que inflige daño a zombis aleatorios del patio
 
 [LIGHTNINGREED_PRODUCT_SHORT_DESC]
 Electrocuta a varias gallinas o zombis por golpe
@@ -30468,7 +30481,7 @@ Nivel 3
 Nivel 5
 
 [LIGHTNINGREED_SKILL1_LEVEL5_DES]
-^DB8117^Cadena de rayos:^oldclr^ probabilidad de liberar un relámpago que inmoviliza zombis y luego los ralentiza. Aumenta el daño por rebote
+^DB8117^Electricidad púrpura:^oldclr^ probabilidad de liberar un relámpago que inmoviliza zombis y luego los ralentiza. Aumenta el daño por rebote
 
 [LIGHTNINGREED_TOOLTIP]
 Electrocuta a varias gallinas o zombis por golpe
@@ -31095,7 +31108,7 @@ El loto (Nelumbo nucifera) es una planta acuática originaria de Asia que crece 
 Se considera como planta sagrada desde hace milenios en culturas como la egipcia, india y china, asociada con la espiritualidad, el renacimiento y la divinidad. Fue representado en templos, mitos y arte religioso. Además de su valor simbólico, se cultiva por sus semillas y raíces comestibles.
 
 [LOTUSSHOWER_PLANTFOOD_DESCRIPTION]
-Dispara una semilla gigante o un enorme torpedo. ^D22808^Daño: 1.500 (área 2x1)^oldclr^
+Dispara una semilla gigante (en tierra) o un enorme torpedo (en el agua)
 
 [LOTUSSHOWER_PRODUCT_SHORT_DESC]
 Dispara semillas explosivas en tierra y torpedos bajo el agua
@@ -31276,14 +31289,15 @@ Lanza naipes mágicos a los zombis que tenga delante o atrás.
 
 [MAGICSHROOM_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^90 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: invoca zombis en cada fila del patio. ^D22808^Tipos de zombi: básico, caracono, caracubo o zombistein^oldclr^
+^DB8117^Nutrientes: invoca zombis en cada fila del patio.^oldclr^
+^D22808^Tipos de zombi: básico, caracono, caracubo, zombistein^oldclr^
 
 [MAGICSHROOM_NEW_SKILL_LEVEL5_DES]
 ^D22808^40 %^oldclr^ de lanzar ^D22808^4^oldclr^ cartas doradas que se quedan suspendidas en el aire por 2 s
 ^D22808^Daño: 450 (casilla)^oldclr^
 
 [MAGICSHROOM_PLANTFOOD_DESCRIPTION]
-Invoca zombis en cada fila del patio. ^D22808^Tipos de zombi: básico, caracono, caracubo o Zombistein^oldclr^
+Invoca zombis en cada fila del patio.
 
 [MAGICSHROOM_PRODUCT_SHORT_DESC]
 Lanza naipes mágicos hacia adelante y hacia atrás
@@ -45265,7 +45279,7 @@ Nivel 3
 Nivel 5
 
 [NIGHTCAP_SKILL_LEVEL5_DES]
-^DB8117^Shuriken del viento endemoniado: Molino de sombras:^oldclr^ probabilidad de unir sus estrellas ninja en una grande que inflige más daño, aturde zombis y se divide en 3
+^DB8117^Molino de sombras:^oldclr^ probabilidad de unir sus estrellas ninja en una grande que inflige más daño, aturde zombis y se divide en 3
 
 [NIGHTCAP_TOOLTIP]
 Dispara estrellas venenosas
@@ -45978,7 +45992,7 @@ El roble (Quercus spp.) es un árbol de gran tamaño, fuerte y longevo, común e
 Desde tiempos antiguos, el roble fue símbolo de fuerza y sabiduría en varias culturas. Los druidas lo consideraban sagrado, los romanos lo usaban en construcciones duraderas. Su madera sigue siendo muy apreciada en carpintería y tonelería.
 
 [OAKSHOOTER_PLANTFOOD_DESCRIPTION]
-Lanza una lluvia de 60 flechas que caen en ubicaciones aleatorias del patio. ^D22808^Daño: 300^oldclr^
+Lanza una lluvia de flechas que caen en ubicaciones aleatorias del patio
 
 [OAKSHOOTER_PRODUCT_SHORT_DESC]
 Dispara flechas por la línea
@@ -46096,7 +46110,8 @@ Despertar: ^D22808^80 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^FF0000^Límite: zombis de Nvl. 7^oldclr^
 
 [OLIVEPIT_NEW_SKILL_LEVEL5_DES]
-Cuando un zombi camina sobre ella mientras digiere, lo deja inmóvil por ^D22808^5 s ^3827F5^Reactivación: 10 s^oldclr^
+Cuando un zombi camina sobre ella mientras digiere, lo deja inmóvil por ^D22808^5 s^oldclr^
+^3827F5^Reactivación: 10 s^oldclr^
 
 [OLIVEPIT_PLANTFOOD_DESCRIPTION]
 Atrae 6 zombis terrestres, se los traga y escupe aceite a su alrededor
@@ -47460,7 +47475,7 @@ El cacahuate (Arachis hypogaea) es una herbácea originaria de América del Sur.
 El cacahuate fue cultivado por los mayas y aztecas en América del Sur mucho antes de la llegada de los europeos. Tras la conquista, se introdujo en Europa en el siglo XVI y luego en Asia. En China, es considerado un símbolo de prosperidad y se utiliza tanto en la gastronomía como en la medicina tradicional.
 
 [PEANUT_PLANTFOOD_DESCRIPTION]
-Se cura, gana un casco de 4.000 PS y dispara una ráfaga de 60 cacahuates.
+Se cura, gana un casco de armadura y dispara una ráfaga de cacahuates
 
 [PEANUT_PRODUCT_SHORT_DESC]
 Dispara cacahuates y bloquea zombis
@@ -47549,7 +47564,7 @@ Lanzaguisantes
 
 [PEASHOOTER_AVATAR_PLANTFOOD_DESCRIPTION]
 Dispara un ráfaga de ^D22808^3^oldclr^ guisantes enormes.
-^D22808^Daño por proyectil: 400 - Nvl. 5: 2.000^oldclr^
+^D22808^Daño por proyectil: 400 ^DB8117^Daño al Nvl. 5: 2.000^oldclr^
 
 [PEASHOOTER_DESCRIPTION]
 ^397F24^Nutrientes: {STAT}dispara una ráfaga de guisantes rápidos
@@ -53349,7 +53364,7 @@ Lanza baba a 5 zombis aleatorios del patio
 Nivel 2
 
 [PRIMALRAFFLESIA_SKILL_LEVEL1_DES]
-^4DD4DB^Baba azul:^oldclr^ sus proyectiles se vuelven azules y ganan la probabilidad de explotar por segunda vez al derrotar zombis
+^4DD4DB^Mucosa azul:^oldclr^ sus proyectiles se vuelven azules y tienen la posibilidad de hacer daño por salpicadura al derrotar zombis
 
 [PRIMALRAFFLESIA_SKILL_LEVEL2]
 Nivel 3
@@ -54663,8 +54678,7 @@ Brujalabaza está basada en la calabaza (Cucurbita pepo), una planta trepadora o
 La calabaza fue cultivada en Mesoamérica desde tiempos precolombinos. Tras el descubrimiento de América, su cultivo se expandió rápidamente hacia Europa, donde se adaptó a diversos climas y se convirtió en un alimento básico. Su esculpido para Halloween es una tradición que se originó en Europa durante el siglo XIX.
 
 [PUMPKINWITCH_PLANTFOOD_DESCRIPTION]
-Lanza 5 calabazas a zombis aleatorios del patio.
-^FF8000^Zombis calabaza: son un 30% más fuertes, no se transforman de vuelta al ser derrotados.^oldclr^
+Lanza 5 calabazas a zombis aleatorios del patio
 
 [PUMPKINWITCH_PRODUCT_SHORT_DESC]
 Lanza calabazas mágicas que controlan zombis
@@ -59490,7 +59504,7 @@ Etlingera
 
 [REDSTINGER_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: dispara un rayo por la línea que hace 100 DPS. ^D22808^Duración: 4 s^oldclr^
+^DB8117^Nutrientes: dispara un rayo que daña y ralentiza zombis por 4 s. ^D22808^Daño por segundo: 100^oldclr^
 
 [REDSTINGER_PEDIA]
 Aguijón rojo está basado en el jengibre antorcha (Etlingera elatior), una planta tropical de tallo erecto y flores grandes, vistosas y cerosas que recuerdan a una rosa de porcelana. Crece en selvas tropicales y es apreciada por su valor ornamental y fragancia exótica.
@@ -59499,7 +59513,7 @@ Aguijón rojo está basado en el jengibre antorcha (Etlingera elatior), una plan
 Originaria del sudeste asiático, el jengibre antorcha se usa en la cocina local y en arreglos florales. Su floración prolongada y aspecto espectacular la convierten en un símbolo de belleza tropical. También tiene usos medicinales tradicionales.
 
 [REDSTINGER_PLANTFOOD_DESCRIPTION]
-Dispara un rayo por la línea, que hace 100 DPS y ralentiza zombis. ^D22808^Duración: 4 s^oldclr^
+Dispara un rayo por la línea, que daña y ralentiza zombis
 
 [REDSTINGER_PRODUCT_SHORT_DESC]
 Dispara a toda potencia cuando está cerca de casa, es más defensivo cuanto más lejos está
@@ -66330,7 +66344,7 @@ Petrifica zombis y libera espíritus para dañarlos
 Nivel 2
 
 [SARRACENIA_SKILL_LEVEL1_DES]
-^4DD4DB^Petrificación rápida:^oldclr^ reduce el descanso antes de volver a petrificar en 3 s
+^4DD4DB^Petrificación rápida:^oldclr^ reduce el descanso antes de volver a petrificar
 
 [SARRACENIA_SKILL_LEVEL2]
 Nivel 3
@@ -67381,7 +67395,7 @@ Envenena a todos los zombis en pantalla
 Nivel 2
 
 [SHADOWSHROOM_SKILL_LEVEL1_DES]
-^4DD4DB^Últimas palabras:^oldclr^ 10% de derribar al zombi que la coma
+^4DD4DB^Últimas palabras:^oldclr^ probabilidad de derribar al zombi que la coma
 
 [SHADOWSHROOM_SKILL_LEVEL2]
 Nivel 3
@@ -70838,7 +70852,7 @@ Frustrella está basada en la fruta estrella (Averrhoa carambola), un árbol ori
 Durante siglos, ha sido usada en la medicina tradicional para aliviar dolores y detener hemorragias. Con el tiempo, se extendió a otras regiones tropicales y subtropicales, donde hoy es valorada por su sabor ácido y refrescante.
 
 [STARFRUIT_PLANTFOOD_DESCRIPTION]
-Dispara una ráfaga de 10 estrellas gigantes en las 5 direcciones. ^D22808^Daño: 80^oldclr^
+Dispara una ráfaga de estrellas gigantes en las 5 direcciones.
 
 [STARFRUIT_PRODUCT_SHORT_DESC]
 Dispara estrellas en 5 direcciones
@@ -70847,13 +70861,13 @@ Dispara estrellas en 5 direcciones
 Nivel 2
 
 [STARFRUIT_SKILL1_LEVEL1_DES]
-^4DD4DB^Estrellas ninja:^oldclr^ 40% de probabilidad de disparar estrellas ninja, las cuales, pueden atravesar a 2 zombis
+^4DD4DB^Estrellas ninja:^oldclr^ probabilidad de disparar estrellas ninja que perforan a 2 zombis
 
 [STARFRUIT_SKILL1_LEVEL2]
 Nivel 3
 
 [STARFRUIT_SKILL1_LEVEL2_DES]
-^DD7ECB^Perforación mejorada:^oldclr^ las estrellas ninja pueden atravesar hasta 3 zombis.
+^DD7ECB^Perforación mejorada:^oldclr^ las estrellas ninja pueden atravesar hasta 3 zombis
 
 [STARFRUIT_SKILL1_LEVEL5]
 Nivel 5
@@ -73724,7 +73738,7 @@ Ilumina un área, permitiendo ver en la niebla.
 Despertar: ^D22808^15 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
 
 [STREETLAMP_PLANTFOOD_DESCRIPTION]
-Ilumina todo el patio, disipando la niebla y revelando a todos los zombis invisibles en pantalla por 30 s
+Ilumina todo el patio, disipando la niebla y revelando a todos los zombis invisibles en pantalla
 
 [STREETLAMP_PRODUCT_SHORT_DESC]
 Ilumina un área, permitiendo ver en la niebla
@@ -73858,7 +73872,7 @@ El bambú es una planta de crecimiento rápida perteneciente a la familia de las
 Ha sido utilizado durante milenios en Asia para construir viviendas, fabricar herramientas, instrumentos musicales y como alimento (brotes tiernos). Su uso se ha expandido globalmente por su sostenibilidad y aplicaciones ecológicas. Hoy es símbolo de fortaleza, flexibilidad y crecimiento en muchas culturas orientales
 
 [SUGARCANE_PLANTFOOD_DESCRIPTION]
-Da un backflip, derriba a los zombis golpeados 1 casilla y los ^848484^aturde^oldclr por 5 s
+Da un backflip, derriba a los zombis golpeados y los aturde
 
 [SUGARCANE_PRODUCT_SHORT_DESC]
 Bloquea y retiene zombis
@@ -75098,7 +75112,7 @@ El boniato (Ipomoea batatas) es una planta rastrera de raíces comestibles, dulc
 Cultivado desde hace milenios en América Central y del Sur, fue uno de los primeros alimentos en viajar con los exploradores. Se difundió rápidamente en Asia y África por su valor nutricional. Hoy es un ingrediente básico en muchas tradiciones culinarias del mundo.
 
 [SWEETPOTATO_PLANTFOOD_DESCRIPTION]
-Atrae a todos los zombis de un área de 3x3 durante 6 s
+Atrae a todos los zombis cercanos a su fila
 
 [SWEETPOTATO_PRODUCT_SHORT_DESC]
 Atrae zombis de otras líneas cuando se acercan
@@ -81023,7 +81037,7 @@ Atrae zombis de al frente y los derriba, infligiéndoles daño y aturdiéndolos
 Nivel 2
 
 [WHITEMELON_SKILL_LEVEL1_DES]
-^4DD4DB^Panzazo:^oldclr^ probabilidad de derribar a 2 zombis a la vez.
+^4DD4DB^Panzazo:^oldclr^ probabilidad de derribar a 2 zombis a la vez
 
 [WHITEMELON_SKILL_LEVEL2]
 Nivel 3
@@ -87498,6 +87512,15 @@ Zombi escudo romano
 {FLAVOR}El escudo lo protege de las malas reseñas y las críticas dañinas.
 
 [ZOMBIE_ROMAN_SHIELD_ALMANAC_DESCRIPTION_HEADER]
+Un Zombi romano descerebrado y curiosamente tímido que lleva un escudo.
+
+[ZOMBIE_ROMAN_SHIELD_PAIR]
+Zombi escudo romano
+
+[ZOMBIE_ROMAN_SHIELD_PAIR_DESCRIPTION]
+
+
+[ZOMBIE_ROMAN_SHIELD_PAIR_DESCRIPTION_HEADER]
 Un Zombi romano descerebrado y curiosamente tímido que lleva un escudo.
 
 [ZOMBIE_RUSH_CURRENT_CREDIT]
