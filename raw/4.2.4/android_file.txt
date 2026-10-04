@@ -3,7 +3,7 @@
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.4^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 1/10/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.4^oldclr^ | ^87CEFA^Parche: 1.2.0 (actualizado el 4/10/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [AGE_TIP]
@@ -55,9 +55,7 @@ Planta anfibia que genera remolinos helados
 Nivel 2
 
 [NAGASALAK_SKILL_LEVEL1_DES]
-^4DD4DB^Azote congelante:^oldclr^ los remolinos congelan al zombi alcanzado brevemente.
-
-^FF8000^Reduce el intervalo entre golpes del remolino.^oldclr^
+^4DD4DB^Azote congelante:^oldclr^ los remolinos congelan al zombi alcanzado brevemente; reduce el intervalo entre golpes del remolino
 
 [NAGASALAK_SKILL_LEVEL2]
 Nivel 3
@@ -145,9 +143,7 @@ Aumenta el número de zombis abducidos
 Nivel 2
 
 [COSMICSAUCER_SKILL_LEVEL1_DES]
-^4DD4DB^Secuestro cósmico:^oldclr^ captura a los zombis con salud baja.
-
-^FF8000^Reduce el tiempo de descanso en 2 s^oldclr^
+^4DD4DB^Secuestro cósmico:^oldclr^ captura a los zombis con salud baja; reduce el tiempo de descanso en 2 s
 
 [COSMICSAUCER_SKILL_LEVEL2]
 Nivel 3
@@ -4688,9 +4684,7 @@ Libera pétalos y nubes que potencian plantas
 Nivel 2
 
 [APSARLOTUS_SKILL_LEVEL1_DES]
-^4DD4DB^Velo arcoíris:^oldclr^ reduce el multiplicador de coste de Nube sagrada.
-
-^FF8000^Danza de pétalos se activa más rápido.^oldclr^
+^4DD4DB^Velo arcoíris:^oldclr^ reduce el multiplicador de coste de Nube sagrada; la Danza de pétalos se activa más rápido
 
 [APSARLOTUS_SKILL_LEVEL2]
 Nivel 3
@@ -4847,9 +4841,7 @@ Invoca tiburones grandes por varias líneas.
 Nivel 2
 
 [AQUAWEED_SKILL_LEVEL1_DES]
-^4DD4DB^Entrenador de tiburones: probabilidad de invocar dos tiburones a la vez.
-
-^FF8000^El tiempo de invocación se reduce.^oldclr^
+^4DD4DB^Entrenador de tiburones: probabilidad de invocar dos tiburones a la vez; el tiempo de invocación se reduce
 
 [AQUAWEED_SKILL_LEVEL2]
 Nivel 3
@@ -9627,7 +9619,7 @@ Gentianaceae
 Eustoma
 
 [BOOMFLOWER_NEW_SKILL_LEVEL1_DES]
-Tócala para generar globos explosivos ^FF0000^(máx. 3 por casilla)^oldclr^
+Tócala para generar globos explosivos. ^FF0000^Globos encadenados: máx. 3^oldclr^
 
 [BOOMFLOWER_NEW_SKILL_LEVEL2_DES]
 El tiempo de recuperación se reduce en ^D22808^1 s^oldclr^
@@ -9642,7 +9634,7 @@ Despertar: ^D22808^80 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: genera un globo gigante que explota en la 5° columna. ^D22808^Daño: 1.300 (todo el patio)^oldclr^
 
 [BOOMFLOWER_NEW_SKILL_LEVEL5_DES]
-^D22808^30 % de probabilidad^oldclr^ de lanzar un globo más poderoso, el cual, vuela al zombi más cercano y explota en un ^D22808^área 3x3^oldclr^
+^D22808^30 % de probabilidad^oldclr^ de lanzar un globo más poderoso, el cual, vuela al zombi más cercano y explota en un ^D22808^área de 3x3^oldclr^
 
 [BOOMFLOWER_PEDIA]
 Flor petaglobera está inspirada en la campanilla (Eustoma grandiflorum), una herbácea con flores grandes, campanuladas y delicadas, que van del blanco al lila y rosa. Se cultiva principalmente como flor cortada por su elegancia y larga duración.
@@ -9660,9 +9652,7 @@ Tócala para generar globos explosivos
 Nivel 2
 
 [BOOMFLOWER_SKILL_LEVEL1_DES]
-^4DD4DB^Plantado económico:^oldclr^ el tiempo de recuperación se reduce en 1 s
-
-^FF8000^Su coste se reduce en 50^oldclr^
+^4DD4DB^Plantado económico:^oldclr^ el tiempo de recuperación se reduce en 1 s; su coste se reduce en 50
 
 [BOOMFLOWER_SKILL_LEVEL2]
 Nivel 3
@@ -10116,7 +10106,7 @@ Nivel 3
 Nivel 5
 
 [BOWLINGBULB_SKILL_LEVEL5_DES]
-^DB8117^Chuza:^oldclr^ probabilidad de lanzar un bulbo grande que se divide en 3 más pequeños, los cuales, continúan rodando en un corto alcance. ^FF8000^Luego, se activan los efectos del Nvl. 2 ó 3^oldclr^
+^DB8117^Chuza:^oldclr^ probabilidad de lanzar un bulbo grande que se divide en 3 más pequeños, los cuales, continúan rodando en un corto alcance. Luego, se activan los efectos del Nvl. 2 ó 3
 
 [BOWLINGBULB_TOOLTIP]
 Echa a rodar disparos que rebotan y que pueden impactar en varios zombis
@@ -10215,7 +10205,7 @@ El brócoli (Brassica oleracea var. italica) es una planta comestible cultivada 
 Originario del Mediterráneo, el brócoli fue domesticado por los romanos y redescubierto en la Europa renacentista. Su cultivo se popularizó en América en el siglo XX. Hoy es considerado un superalimento por sus beneficios para la salud y su versatilidad culinaria.
 
 [BROCCOLI_PLANTFOOD_DESCRIPTION]
-Atrae a un zombi lejano y lo sacude, infligiendo daño en un área 3x3. Luego, lo arroja fuera del patio
+Atrae a un zombi y lo sacude, infligiendo daño en un área 3x3. Luego, lo arroja fuera del patio
 
 [BROCCOLI_PRODUCT_SHORT_DESC]
 Azota zombis con un suplex
@@ -10264,14 +10254,15 @@ Bromeliaceae
 Aechmea
 
 [BROMELBLADE_NEW_SKILL_LEVEL1_DES]
-Acuchilla a los zombis cercanos. ^E2725B^Estocada: ^D22808^multiplicador de daño x6^oldclr^
+Acuchilla a los zombis cercanos.
+^E2725B^Estocada: hace ^D22808^6 ^E2725B^veces más daño y eleva zombis medianos.^oldclr^
 
 [BROMELBLADE_NEW_SKILL_LEVEL2_DES]
-^D22808^20 % de probabilidad^oldclr^ de lanzar una estocada directa, la cual, arroja zombis por los aires.
+^D22808^20 % de probabilidad^oldclr^ de lanzar una ^4DD4DB^Estocada letal^oldclr^ que arroja zombis por los aires.
 ^D22808^Multiplicador de daño: x10^oldclr^
 
 [BROMELBLADE_NEW_SKILL_LEVEL3_DES]
-^D22808^40 % de probabilidad^oldclr^ de lanzar una estocada directa, la cual, arroja zombis por los aires.
+^D22808^40 % de probabilidad^oldclr^ de lanzar una ^4DD4DB^Estocada letal^oldclr^ que arroja zombis por los aires.
 ^D22808^Multiplicador de daño: x10^oldclr^
 
 [BROMELBLADE_NEW_SKILL_LEVEL4_DES]
@@ -10279,7 +10270,7 @@ Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: blande su hoja de cuchillas, infligiendo daño masivo en un área 3x3 delante de él. ^D22808^Daño: 600 (x2)^oldclr^
 
 [BROMELBLADE_NEW_SKILL_LEVEL5_DES]
-^D22808^50 % de probabilidad^oldclr^ de derribar zombis por ^D22808^1,5 casillas^oldclr^ tras ^D22808^2^oldclr^ estocadas letales.
+^D22808^50 % de probabilidad^oldclr^ de derribar zombis por ^D22808^1,5 casillas^oldclr^ tras ^D22808^2 ^4DD4DB^Estocadas letales^oldclr^
 ^D22808^Daño: 5.400 (4 casillas al frente)^oldclr^
 
 [BROMELBLADE_PEDIA]
@@ -10310,7 +10301,7 @@ Nivel 3
 Nivel 5
 
 [BROMELBLADE_SKILL_LEVEL5_DES]
-^DB8117^Espigas ascendentes:^oldclr^ probabilidad de liberar un ataque más potente tras dos estocadas letales
+^DB8117^Espigas ascendentes:^oldclr^ probabilidad de liberar un ataque más potente tras dos Estocadas letales
 
 [BROMELBLADE_TOOLTIP]
 Acuchilla a los zombis cercanos
@@ -10526,9 +10517,7 @@ Golpea zombis cercanos y batea guisantes
 Nivel 2
 
 [BURDOCKBATTER_SKILL_LEVEL1_DES]
-^4DD4DB^Picheo certero:^oldclr^ los guisantes bateados por Tiro recto derriban zombis.
-
-^FF8000^Los bateados por Tiro curvo aturden por más tiempo.^oldclr^
+^4DD4DB^Picheo certero:^oldclr^ los guisantes bateados por Tiro recto derriban zombis; los bateados por Tiro curvo aturden por más tiempo
 
 [BURDOCKBATTER_SKILL_LEVEL2]
 Nivel 3
@@ -11746,8 +11735,8 @@ Sus ataques normales tienen un ^D22808^30 %^oldclr^ de lanzar motosierras gigant
 Drosera serrada lanza varias motosierras que giran a su alrededor e infligen daño a los zombis cercanos.
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL1_DES]
-Lanza ^D22808^3^oldclr^ motosierras que dañan a los zombis cercanos, luego debe descansar por ^D22808^5 s^oldclr^
-^FF8000^Duración del ataque: 10 s^oldclr^
+Lanza motosierras a sus alrededores. ^D22808^Número de motosierras: 3^oldclr^
+^FF8000^Duración del ataque: 10 s ^3827F5^Recuperación: 5 s^oldclr^
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL2_DES]
 ^D22808^1/3^oldclr^ motosierras se prende en llamas azules y dobla el daño.
@@ -11763,7 +11752,8 @@ Despertar: ^D22808^80 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 
 [CHAINSAWBURMANNII_NEW_SKILL_LEVEL5_DES]
 ^D22808^1/2^oldclr^ motosierras de llamas azules se convierte en llamas moradas y triplican el daño.
-^FF8000^Aumenta el alcance a un área de 5x5 y el número de motosierras a 6 por ataque.^oldclr^
+^FFA500^Su alcance cambia a un ^D22808^área de 5x5^oldclr^
+^FF8000^El número de motosierras aumenta a ^D22808^6^oldclr^
 
 [CHAINSAWBURMANNII_PLANTFOOD_DESCRIPTION]
 Gira lanzando varias motosierras por el patio
@@ -11775,9 +11765,7 @@ Lanza motosierras a sus alrededores
 Nivel 2
 
 [CHAINSAWBURMANNII_SKILL_LEVEL1_DES]
-^4DD4DB^Llamas azules:^oldclr^ 1/3 motosierras se prende en llamas azules, duplicando el daño. 
-
-^FF8000^Reduce el tiempo de recuperación.^oldclr^
+^4DD4DB^Llamas azules:^oldclr^ 1/3 motosierras se prende en llamas azules, duplicando el daño; reduce el tiempo de recuperación
 
 [CHAINSAWBURMANNII_SKILL_LEVEL2]
 Nivel 3
@@ -11789,9 +11777,7 @@ Nivel 3
 Nivel 5
 
 [CHAINSAWBURMANNII_SKILL_LEVEL5_DES]
-^DB8117^Llamas púrpuras:^oldclr^ 1/2 motosierras de llamas azules se convierte en llamas moradas, triplicando el daño. 
-
-^FF8000^Aumenta el alcance y el número de proyectiles.^oldclr^
+^DB8117^Llamas púrpuras:^oldclr^ 1/2 motosierras de llamas azules se convierte en llamas moradas, triplicando el daño; aumenta el alcance y el número de proyectiles
 
 [CHAINSAWBURMANNII_TOOLTIP]
 Lanza motosierras a sus alrededores
@@ -12173,10 +12159,10 @@ Guardacelga es una bloqueadora defensiva que puede echar zombis hacia atrás.
 Bloquea y echa a los zombis ^D22808^3 casillas^oldclr^ hacia atrás. Pierde hojas por cada empuje.
 
 [CHARDGUARD_NEW_SKILL_LEVEL2_DES]
-Gana la habilidad de regenerar sus hojas caídas durante ^D22808^60 s^oldclr^
+Puede recuperar sus hojas caídas durante ^D22808^60 s^oldclr^
 
 [CHARDGUARD_NEW_SKILL_LEVEL3_DES]
-Sus hojas caídas se regeneran ^D22808^20 s^oldclr^ más rápido ^D22808^(ahora 40 s)^oldclr^
+Puede recuperar sus hojas caídas durante ^D22808^40 s^oldclr^
 
 [CHARDGUARD_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -12350,9 +12336,7 @@ Convoca castañas que atacan y bloquean zombis cercanos
 Nivel 2
 
 [CHESTNUT_SKILL_LEVEL1_DES]
-^4DD4DB^Ataque coordinado:^oldclr^ el número de castañas aumenta en 1
-
-^FF8000^El intervalo para generar castañas se reduce en un 25%^oldclr^
+^4DD4DB^Ataque coordinado:^oldclr^ el número de castañas aumenta en 1; el intervalo para generar castañas se reduce en un 25%
 
 [CHESTNUT_SKILL_LEVEL2]
 Nivel 3
@@ -12513,7 +12497,7 @@ Los Frijoles provocan dolores gastrointestinales.
 
 [CHILIBEAN_NEW_SKILL_LEVEL1_DES]
 Los zombis que lo comen son destruidos y liberan un gas ^848484^aturdidor^oldclr^
-^D22808^Duración del gas: 7 s ^FF0000^(no afecta mecas)^oldclr^
+^D22808^Duración del gas: 7 s (no afecta mecas)^oldclr^
 
 [CHILIBEAN_NEW_SKILL_LEVEL2_DES]
 La duración del gas aturdidor aumenta en ^D22808^1.5 s (8.5 s en total)^oldclr^
@@ -12603,7 +12587,7 @@ Nepenthaceae
 Nepenthes
 
 [CHOMPER_NEW_SKILL_LEVEL1_DES]
-Devora un zombi y después lo mastica durante ^D22808^30 s^oldclr^
+Devora un zombi y después lo mastica un rato. ^FF8000^Tiempo de digestión: 30 s^oldclr^
 ^FF0000^Límite: zombis grandes o de mayor nivel^oldclr^
 
 [CHOMPER_NEW_SKILL_LEVEL2_DES]
@@ -12637,13 +12621,13 @@ Devora un zombi y después lo mastica un rato
 Nivel 2
 
 [CHOMPER_SKILL1_LEVEL1_DES]
-^4DD4DB^Voracidad:^oldclr^ eructa tras devorarse a un zombi, derribando a los demás por 1 casilla; su tiempo de digestión es reducido en un 10%.
+^4DD4DB^Voracidad:^oldclr^ eructa tras devorarse a un zombi, derribando a los demás por 1 casilla; tiempo de digestión reducido en un 10%
 
 [CHOMPER_SKILL1_LEVEL2]
 Nivel 3
 
 [CHOMPER_SKILL1_LEVEL2_DES]
-^DD7ECB^Fagocitosis:^oldclr^ mejora los efectos del Nvl.2 en un 250%
+^DD7ECB^Fagocitosis:^oldclr^ mejora los efectos del Nvl. 2 al doble
 
 [CHOMPER_SUPERSKILL_DES]
 ^DB8117^Apetito enorme:^oldclr^ probabilidad de crecer a un tamaño colosal y devorarse a todos los zombis que estén 3 casillas al frente.
@@ -12840,7 +12824,7 @@ Reduce el tiempo de recuperación en un ^D22808^40 %^oldclr^
 
 [CITRON_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^100 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: dispara una bola de plasma gigante que expulsa zombis pequeños y medianos del patio.
+^DB8117^Nutrientes: dispara una bola de plasma gigante que expulsa zombis pequeños y medianos del patio.^oldclr^
 ^D22808^Daño a zombis grandes: 2.500^oldclr^
 
 [CITRON_NEW_SKILL_LEVEL5_DES]
@@ -12895,7 +12879,7 @@ Expulsa a los zombis medianos golpeados por su super-puñetazo.
 
 ^397F24^Nutrientes: {STAT}atrae a varios zombis del frente, los golpea y derriba
 
-{KEYWORD}Carácteristicas de la planta: {STAT}planta roja, temperamental
+^DD7ECB^Características de la planta: {STAT}planta roja, temperamental
 
 {FLAVOR}Aprendió que un buen boxeador siempre protege su cara. Como no encontró una guardia mejor, empezó a usar zombis. Su entrenador no aprobó la técnica, pero tampoco quiso corregirlo.
 
@@ -12909,16 +12893,17 @@ Colchicaceae
 Gloriosa
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL1_DES]
-Usa zombis de escudo mientras golpea al resto. ^D22808^Ataque de garra: hace 50 DPS^oldclr^
+Usa zombis de escudo mientras golpea al resto.
+^D22808^Ataque de garra: hace 50 DPS^oldclr^
 ^E2725B^Escudo zombi: tiene 2.000 PS^oldclr^
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL2_DES]
 La salud de los zombis-escudo aumenta a ^D22808^2.500^oldclr^ puntos.
-^FF8000^Reduce el tiempo de recuperación en ^D22808^3 s^oldclr^
+^FF8000^El tiempo de recuperación se reduce en ^D22808^3 s^oldclr^
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL3_DES]
 La salud de los zombis-escudo aumenta a ^D22808^3.000^oldclr^ puntos.
-^FF8000^Reduce el tiempo de recuperación en ^D22808^6 s^oldclr^
+^FF8000^El tiempo de recuperación se reduce en ^D22808^6 s^oldclr^
 
 [CLAWGLORIOSA_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^80 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -12943,9 +12928,7 @@ Usa zombis de escudo mientras golpea al resto
 Nivel 2
 
 [CLAWGLORIOSA_SKILL_LEVEL1_DES]
-^4DD4DB^Gancho mejorado:^oldclr^ la salud de los zombis-escudo aumenta.
-
-^FF8000^Reduce el tiempo de recuperación.^oldclr^
+^4DD4DB^Gancho mejorado:^oldclr^ la salud de los zombis-escudo aumenta; reduce el tiempo de recuperación
 
 [CLAWGLORIOSA_SKILL_LEVEL2]
 Nivel 3
@@ -13277,9 +13260,7 @@ Nivel 2
 Nivel 3
 
 [COLDSNAPDRAGON_SKILL_LEVEL2_DES]
-^DD7ECB^Frio extremo:^oldclr^ la probabilidad de congelar zombis aumenta aún más.
-
-^FF8000^El tiempo de congelación también aumenta.^oldclr^
+^DD7ECB^Frio extremo:^oldclr^ la probabilidad de congelar zombis aumenta aún más; el tiempo de congelación también aumenta
 
 [COLDSNAPDRAGON_SUPERSKILL_DES]
 ^DB8117^Espíritu de hielo:^oldclr^ probabilidad de invocar un espíritu de hielo que ataca a todos los zombis que tiene por delante
@@ -13674,7 +13655,7 @@ Nivel 5
 ^DB8117^Maestro de la alquimia:^oldclr^ probabilidad de lanzar una botella que envenena zombis en un área mediana
 
 [CONVALLARIACHEMIST_TOOLTIP]
-Lanza flores venenosas a los zombis
+Lanza flores que envenenan zombis
 
 [CONVERSION_KEY_COSTUME_MULTI]
 ... y atuendos
@@ -14073,7 +14054,9 @@ Nivel 3
 Nivel 5
 
 [COSMICNUT_SKILL_LEVEL5_DES]
-^DB8117^Salto espacio-temporal:^oldclr^ cuando haya zombis cerca, toca en el agujero negro y toca en una casilla para teleportarlos. Solo se activa una vez, reiniciando la duración del agujero
+^DB8117^Salto espacio-temporal:^oldclr^ cuando haya zombis cerca, toca en el agujero negro y toca en una casilla para teleportarlos. 
+
+^FF0000^Solo se activa una vez, reiniciando la duración del agujero.^oldclr^
 
 [COSMICNUT_TOOLTIP]
 Bloquea zombis, tócala y toca un lugar para teletransportarla
@@ -14120,7 +14103,7 @@ Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 
 [COSMICPEA_NEW_SKILL_LEVEL5_DES]
 ^D22808^25 %^oldclr^ de disparar un proyectil que explota y hace daño de área.
-^A048CF^Cuerpo celeste: hace 100 DPS por impacto y 160 por explosión (área 3x3)^oldclr^
+^A048CF^Proyectil: hace 100 DPS por impacto y 160 por explosión (área 3x3)^oldclr^
 ^E2725B^Especial: hace el doble de daño con las marcas al máximo^oldclr^
 
 [COSMICPEA_PLANTFOOD_DESCRIPTION]
@@ -14290,7 +14273,7 @@ La traca derriba y ^848484^aturde^oldclr^ a los zombis que la pisen durante ^D22
 Bambú explosivo se activa al contacto, dañando a los zombis cercanos o expulsándolos si su salud es baja.
 
 [CRACKER_NEW_SKILL_LEVEL1_DES]
-Explota al contacto, causando daño a los zombis cercanos. Si su salud es baja, los expulsa.
+Explota al contacto, causando daño a los zombis cercanos. ^E2725B^Si su salud es baja, los expulsa.^oldclr^
 
 [CRACKER_NEW_SKILL_LEVEL2_DES]
 Tras explotar, caerá ^D22808^1^oldclr^ copia de sí mismo en una casilla aleatoria. ^D22808^Daño: 1.350^oldclr^
@@ -14327,7 +14310,7 @@ Nivel 3
 Nivel 5
 
 [CRACKER_SKILL_LEVEL5_DES]
-^DB8117^Buscapies:^oldclr^ después de que explote, caerá un petardo giratorio que daña a los zombis cercanos
+^DB8117^Buscapiés:^oldclr^ después de que explote, caerá un petardo giratorio que daña a los zombis cercanos
 
 [CRACKER_TOOLTIP]
 Explota al contacto, dañando o expulsando zombis
@@ -18096,10 +18079,10 @@ Resiste a los vientos de tifones y bloquea zombis.
 ^E2725B^Defensa conjunta: regenera 1 hoja + 25% salud extra ^FF0000^(máx. 4)^oldclr^
 
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL2_DES]
-Gana la habilidad de regenerar sus hojas después de ^D22808^60 s^oldclr^
+Puede recuperar sus hojas caídas durante ^D22808^60 s^oldclr^
 
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL3_DES]
-El tiempo de regeneración de sus hojas se reduce en ^D22808^10 s (ahora 50 s)^oldclr^
+Puede recuperar sus hojas caídas durante ^D22808^50 s^oldclr^
 
 [DENDROBIUMGUARD_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^80 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -18126,7 +18109,7 @@ Resiste tifones y bloquea zombis
 Nivel 2
 
 [DENDROBIUMGUARD_SKILL_LEVEL1_DES]
-^4DD4DB^Regeneración autónoma:^oldclr^ puede regenerar sus hojas por sí mismo con el paso del tiempo
+^4DD4DB^Regeneración autónoma:^oldclr^ puede regenerar sus hojas por sí mismo tras 60 s
 
 [DENDROBIUMGUARD_SKILL_LEVEL2]
 Nivel 3
@@ -18174,7 +18157,8 @@ Pinaceae
 Cedrus
 
 [DEODARCEDAR_NEW_SKILL_LEVEL1_DES]
-Absorbe energía y la dispara tras 4 s ^FF0000^(máx. 3 objetivos)^oldclr^
+Absorbe energía eléctrica y la dispara después de condensarla.
+^FF8000^Intervalo de ataque: 4 s ^FF0000^Objetivos: 3^oldclr^
 ^DB8117^Choque eléctrico: hace ^D22808^2.5^oldclr^ más daño ^D22808^(50 % probable)^oldclr^
 
 [DEODARCEDAR_NEW_SKILL_LEVEL2_DES]
@@ -18291,7 +18275,8 @@ El huevo eclosiona en un Zombistein abisal supremo quien tiene un ^D22808^40 %^o
 Garra del diablo invoca insectos parásito que atacan y drenan la energía de los zombis enemigos. La energía se usa para cargar el Ojo del abismo.
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL1_DES]
-Invoca insectos parásito que atacan y drenan la energía de los zombis durante ^D22808^1.5 s^oldclr^
+Invoca insectos que atacan zombis y cargan un potente ataque.
+^FF8000^Drenado de energía: intervalo de 1.5 s^oldclr^
 ^E2725B^Ojo del abismo: se abre tras ^D22808^60 s^oldclr^
 
 [DEVILSFLOWER_NEW_SKILL_LEVEL2_DES]
@@ -18526,8 +18511,6 @@ Gafas futuristas
 Proyectiles con Nutrientes ^D22808^+2 (ahora 5)^oldclr^
 
 [DMDRAGONFRUIT_DESCRIPTION]
-{KEYWORD}Información de alcance: {STAT}línea (ataque) - explosión cuántica (área de abanico)
-
 {KEYWORD}Estado cuántico: {STAT}los proyectiles dañan y atraviesan a los zombis enviados al reino cuántico
 
 ^397F24^Nutrientes: {STAT}invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio, dejando fuego en un área extensa
@@ -18537,10 +18520,10 @@ Proyectiles con Nutrientes ^D22808^+2 (ahora 5)^oldclr^
 {FLAVOR}Cazaron a sus ancestros hasta en las profundidades del espacio. Ahora sus descendientes vuelven para servir una venganza fría y afrutada.
 
 [DMDRAGONFRUIT_DESCRIPTION_HEADER]
-Dispara proyectiles que explotan en un área, enviando zombis al reino cuántico por un tiempo.
+Dispara proyectiles que envian zombis al reino cuántico por un tiempo.
 
 [DMDRAGONFRUIT_NEW_SKILL_LEVEL1_DES]
-Dispara proyectiles que explotan y envían zombis al reino cuántico.
+Dispara proyectiles que envían zombis al reino cuántico.
 ^A048CF^Estado cuántico: dura 2 s^oldclr^
 
 [DMDRAGONFRUIT_NEW_SKILL_LEVEL2_DES]
@@ -18564,15 +18547,13 @@ Despertar: ^D22808^30 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 Invoca un dragón que dispara proyectiles a 3 zombis aleatorios del patio, dejando fuego en un área extensa
 
 [DMDRAGONFRUIT_PRODUCT_SHORT_DESC]
-Dispara proyectiles que explotan y envían zombis al reino cuántico
+Dispara proyectiles que envían zombis al reino cuántico
 
 [DMDRAGONFRUIT_SKILL_LEVEL1]
 Nivel 2
 
 [DMDRAGONFRUIT_SKILL_LEVEL1_DES]
-^4DD4DB^Entrelazamiento oscuro:^oldclr^ la duración del estado cuántico aumenta.
-
-^FF8000^Reduce la velocidad de ataque de los Zombis mago enviados al reino cuántico.^oldclr^
+^4DD4DB^Entrelazamiento oscuro:^oldclr^ la duración del estado cuántico aumenta; reduce la velocidad de ataque de los Zombis mago enviados al reino cuántico
 
 [DMDRAGONFRUIT_SKILL_LEVEL2]
 Nivel 3
@@ -18589,7 +18570,7 @@ Nivel 5
 ^E2725B^Efecto garantizado tras usar Nutrientes.^oldclr^
 
 [DMDRAGONFRUIT_TOOLTIP]
-Dispara proyectiles que explotan y envían zombis al reino cuántico
+Dispara proyectiles que envían zombis al reino cuántico
 
 [DODORIDER_SUCCESSFULLY_CROSSEDRIVER_1]
 ¡Bien hecho!
@@ -18625,7 +18606,8 @@ Se reviste de un escudo de plata con ^D22808^12.000^oldclr^ puntos de vida
 La Campana sagrada bloquea zombis y emite ondas que atraen espíritus de alrededor para cortarles el paso.
 
 [DOOMBELL_NEW_SKILL_LEVEL1_DES]
-Bloquea zombis y espíritus. Cada 5 s, atrae espíritus de un área 3x3 ^FF0000^(máx. 1)^oldclr^
+Planta defensiva que bloquea zombis y espíritus malignos.
+^FF8000^Atracción: cada 5 s, atrae espíritus de un área 3x3 ^FF0000^(máx. 1)^oldclr^
 ^E2725B^Reino espiritual: bloquea múltiples enemigos y recupera 100 PS por segundo^oldclr^
 
 [DOOMBELL_NEW_SKILL_LEVEL2_DES]
@@ -18686,7 +18668,8 @@ Todas las Petasetas del jardín crecerán una fase antes de explotar.
 Petaseta explota cuando se destruye. Dependiendo de la etapa de crecimiento, el radio de explosión de Petaseta aumentará e incluso puede generar Petasetas adicionales.
 
 [DOOMSHROOM_NEW_SKILL_LEVEL1_DES]
-Explota y genera 1 seta adicional por fase. ^D22808^Daño: 1.200 → 2.400 → 3.600^oldclr^
+Explota y luego genera setas adicionales. ^D22808^Daño: 1.200 → 2.400 → 3.600^oldclr^
+^FF8000^Setas generadas: 1 (por fase) ^A0522D^Cráter: 15 s^oldclr^
 ^DB8117^Nutrientes: todas las Petasetas del jardín explotan y generan setas adicionales^oldclr^
 
 [DOOMSHROOM_NEW_SKILL_LEVEL2_DES]
@@ -18721,9 +18704,7 @@ Nivel 3
 Nivel 5
 
 [DOOMSHROOM_SKILL_LEVEL5_DES]
-^DB8117^Seta radioactiva:^oldclr^ puede plantarse en cráteres. 
-
-^FF8000^Los zombis supervivientes se convierten en mutantes radiactivos.^oldclr^
+^DB8117^Seta radioactiva:^oldclr^ puede plantarse en cráteres. Los zombis supervivientes se convierten en mutantes radiactivos.
 
 [DOOMSHROOM_TOOLTIP]
 Explota y luego genera setas adicionales
@@ -19037,17 +19018,13 @@ Lanza proyectiles a 3 líneas
 Nivel 2
 
 [DRAGONBRUIT_SKILL_LEVEL1_DES]
-^4DD4DB^Poder sombrío:^oldclr^ en su fase normal, tiene el chance de entrar en la forma sombría por 10 s
-
-^FF8000^Si está potenciado, sus proyectiles tienen la posibilidad de hacer daño grupal en una casilla^oldclr^
+^4DD4DB^Poder sombrío:^oldclr^ en su fase normal, tiene el chance de entrar en la forma sombría por 10 s; si está potenciado, sus proyectiles tienen la posibilidad de hacer daño grupal en una casilla
 
 [DRAGONBRUIT_SKILL_LEVEL2]
 Nivel 3
 
 [DRAGONBRUIT_SKILL_LEVEL2_DES]
-^DD7ECB^Fusión de sombras:^oldclr^ aumenta la probabilidad de los efectos del Nvl. 2
-
-^FF8000^Extiende la duración del estado sombrío en 5 s^oldclr^
+^DD7ECB^Fusión de sombras:^oldclr^ aumenta la probabilidad de los efectos del Nvl. 2; extiende la duración del estado sombrío en 5 s
 
 [DRAGONBRUIT_SKILL_LEVEL5]
 Nivel 5
@@ -19125,9 +19102,7 @@ Nivel 3
 ^DD7ECB^Chacos largos:^oldclr^ su rango de alcance aumenta en una casilla
 
 [DRAGONCANE_SUPERSKILL_DES]
-^DB8117^Combatiente hábil:^oldclr^ golpea a los zombis 7 veces en una sucesión rápida.
-
-^FF8000^El golpe de codo tiene mayor probabilidad de derribar zombis, incluso puede expulsarlos.^oldclr^
+^DB8117^Combatiente hábil:^oldclr^ golpea a los zombis 7 veces en una sucesión rápida; el golpe de codo tiene mayor probabilidad de derribar zombis, incluso puede expulsarlos
 
 [DRAGONCANE_SUPERSKILL_NAME]
 Nivel 5
@@ -19506,17 +19481,13 @@ Concentra bolas de rayos que infligen daño constante
 Nivel 2
 
 [EAGLECLAW_SKILL_LEVEL1_DES]
-^4DD4DB^Orbes amplificados:^oldclr^ su rango de alcance aumenta a 3 líneas.
-
-^FF8000^Reduce el tiempo de descanso.^oldclr^
+^4DD4DB^Orbes amplificados:^oldclr^ su rango de alcance aumenta a 3 líneas; reduce el tiempo de descanso
 
 [EAGLECLAW_SKILL_LEVEL2]
 Nivel 3
 
 [EAGLECLAW_SKILL_LEVEL2_DES]
-^DD7ECB^Energía masiva:^oldclr^ su rango de alcance aumenta a todo el mapa.
-
-^FF8000^Reduce el tiempo de descanso aún más.^oldclr^
+^DD7ECB^Energía masiva:^oldclr^ su rango de alcance aumenta a todo el mapa; reduce el tiempo de descanso aún más
 
 [EAGLECLAW_SKILL_LEVEL5]
 Nivel 5
@@ -19662,9 +19633,7 @@ Nivel 3
 Nivel 5
 
 [EGRETFLOWER_SKILL_LEVEL5_DES]
-^DB8117^Táctica de aviación:^oldclr^ el alcance de su ataque cambia a una fila.
-
-^FF8000^Cada misil inflige daño grupal en una misma casilla.^oldclr^
+^DB8117^Táctica de aviación:^oldclr^ el alcance de su ataque cambia a una fila; cada misil inflige daño grupal en una misma casilla
 
 [EGRETFLOWER_TOOLTIP]
 Ataca a los zombis cercanos con misiles
@@ -20120,9 +20089,7 @@ Genera una cáscara que se desliza por su línea para atacar a los zombis
 Nivel 2
 
 [ELECTRICPEEL_SKILL_LEVEL1_DES]
-^4DD4DB^Cáscara resbaloza:^oldclr^ el alcance de su ataque aumenta en 1 casilla.
-
-^FF8000^Las anguilas se mueven un 20% más rápido.^oldclr^
+^4DD4DB^Cáscara resbaloza:^oldclr^ el alcance de su ataque aumenta en 1 casilla; las anguilas se mueven un 20% más rápido
 
 [ELECTRICPEEL_SKILL_LEVEL2]
 Nivel 3
@@ -20628,9 +20595,7 @@ Nivel 3
 Nivel 5
 
 [ENTS_SKILL_LEVEL5_DES]
-^DB8117^Árbol resistente:^oldclr^ la salud recuperada aumenta aún más. 
-
-^FF8000^Puede bloquear dos ataques del Zombistein.^oldclr^
+^DB8117^Árbol resistente:^oldclr^ la salud recuperada aumenta aún más; puede bloquear dos ataques del Zombistein
 
 [ENTS_TOOLTIP]
 Bloquea y ataca zombis cercanos, recupera salud con el tiempo
@@ -20770,7 +20735,7 @@ Despertar: ^D22808^40 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: crea 2 copias, una a una, transformándose en una planta explosiva al azar.^oldclr^
 
 [ESCAPEROOT_NEW_SKILL_LEVEL5_DES]
-Gana la habilidad de potenciar con el efecto de Nutrientes a la primera planta intercambiada.
+Potencia con el efecto de Nutrientes a la ^D22808^primera^oldclr^ planta intercambiada.
 
 [ESCAPEROOT_PLANTFOOD_DESCRIPTION]
 Crea 2 copias, una a una, cerca de un zombi y se transforma en una planta explosiva al azar.
@@ -21176,17 +21141,13 @@ Convoca unidades para atacar a distancia
 Nivel 2
 
 [EYWA_SKILL_LEVEL1_DES]
-^4DD4DB^Pelotón rápido:^oldclr^ las unidades evolucionan a Fusilero al atacar por primera vez.
-
-^FF8000^Número de ataques para evolucionar -1^oldclr^
+^4DD4DB^Pelotón rápido:^oldclr^ las unidades evolucionan a Fusilero al atacar por primera vez; número de ataques para evolucionar -1
 
 [EYWA_SKILL_LEVEL2]
 Nivel 3
 
 [EYWA_SKILL_LEVEL2_DES]
-^DD7ECB^Evolución extrema:^oldclr^ las unidades evolucionan a Mortero al atacar por primera vez.
-
-^FF8000^Número de ataques para evolucionar -2^oldclr^
+^DD7ECB^Evolución extrema:^oldclr^ las unidades evolucionan a Mortero al atacar por primera vez; número de ataques para evolucionar -2
 
 [EYWA_SKILL_LEVEL5]
 Nivel 5
@@ -21940,9 +21901,7 @@ Nivel 3
 ^DD7ECB^Doncella azul:^oldclr^ sus dos formas de ataque evolucionan a fuego azul, el cual, hace más daño
 
 [FLAMELADY_SUPERSKILL_DES]
-^DB8117^Llamas infernales:^oldclr^ ataca con fuego púrpura como ataque cuerpo a cuerpo, haciendo aún más daño.
-
-^FF8000^Puede lanzar 3-5 bolas de fuego de varios colores.^oldclr^
+^DB8117^Llamas infernales:^oldclr^ ataca con fuego púrpura como ataque cuerpo a cuerpo, haciendo aún más daño; puede lanzar 3-5 bolas de fuego de varios colores
 
 [FLAMELADY_SUPERSKILL_NAME]
 Nivel 5
@@ -24756,9 +24715,7 @@ Deja hielo en un área 5x5 alrededor
 Nivel 2
 
 [GLACIERSHROOM_SKILL_LEVEL1_DES]
-^4DD4DB^Invierno crudo:^oldclr^ ataca un 15% más rápido.
-
-^FF8000^Daña a los zombis congelados con su habilidad manual.^oldclr^
+^4DD4DB^Invierno crudo:^oldclr^ ataca un 15% más rápido; daña a los zombis congelados con su habilidad manual
 
 [GLACIERSHROOM_SKILL_LEVEL2]
 Nivel 3
@@ -24877,17 +24834,13 @@ Come snacks o muerde zombis, acumula energía y la libera en llamaradas
 Nivel 2
 
 [GLUTTONYDRAGON_SKILL_LEVEL1_DES]
-^4DD4DB^Llamas potentes:^oldclr^ reduce el consumo de energía un 10%
-
-^FF8000^Las llamaradas se tornan azules pasado unos segundos, aumentando el daño.^oldclr^
+^4DD4DB^Llamas potentes:^oldclr^ reduce el consumo de energía un 10%; las llamaradas se tornan azules pasado unos segundos, aumentando el daño
 
 [GLUTTONYDRAGON_SKILL_LEVEL2]
 Nivel 3
 
 [GLUTTONYDRAGON_SKILL_LEVEL2_DES]
-^DD7ECB^Flama de dragón:^oldclr^ reduce el consumo de energía un 20%
-
-^FF8000^Las llamas azules pasan a ser púrpuras con el tiempo, aumentando el daño aún más.^oldclr^
+^DD7ECB^Flama de dragón:^oldclr^ reduce el consumo de energía un 20%; las llamas azules pasan a ser púrpuras con el tiempo, aumentando el daño aún más
 
 [GLUTTONYDRAGON_SKILL_LEVEL5]
 Nivel 5
@@ -25078,9 +25031,7 @@ Desarma zombis de objetos metálicos y recoge monedas
 Nivel 2
 
 [GOLDMAGNET_SKILL_LEVEL1_DES]
-^4DD4DB^Magnetismo eficiente:^oldclr^ reduce el tiempo de destrucción de objetos.
-
-^FF8000^La probabilidad de atraer partes-zombi aumenta.^oldclr^
+^4DD4DB^Magnetismo eficiente:^oldclr^ reduce el tiempo de destrucción de objetos; la probabilidad de atraer partes-zombi aumenta
 
 [GOLDMAGNET_SKILL_LEVEL2]
 Nivel 3
@@ -25300,9 +25251,7 @@ Crea gravedad pesada que dificulta el paso de los zombis
 Nivel 2
 
 [GRAVITREE_SKILL_LEVEL1_DES]
-^4DD4DB^Centro orbital:^oldclr^ reduce el tiempo entre ataques en 1 s
-
-^FF8000^Gana un 20% de reducción de daño.^oldclr^
+^4DD4DB^Centro orbital:^oldclr^ reduce el tiempo entre ataques en 1 s; gana un 20% de reducción de daño
 
 [GRAVITREE_SKILL_LEVEL2]
 Nivel 3
@@ -25697,9 +25646,7 @@ Se replica para proteger a las plantas adyacentes
 Nivel 2
 
 [GUARDSHROOM_SKILL_LEVEL1_DES]
-^4DD4DB^Setas empoderadas:^oldclr^ reduce el tiempo de digestión de las Minisetas.
-
-^FF8000^Multiplicador solar reducido en un 50%^oldclr^ 
+^4DD4DB^Setas empoderadas:^oldclr^ reduce el tiempo de digestión de las Minisetas; multiplicador solar reducido en un 50% 
 
 [GUARDSHROOM_SKILL_LEVEL2]
 Nivel 3
@@ -25955,9 +25902,7 @@ Produce soles al inicio, repele zombis cuando crece
 Nivel 2
 
 [HAPPYLEEK_SKILL_LEVEL1_DES]
-^4DD4DB^Crecimiento sano:^oldclr^ el tiempo entre rebrotes se reduce en 10 s
-
-^FF8000^No pierde hojas cuando repele zombis por primera vez.^oldclr^
+^4DD4DB^Crecimiento sano:^oldclr^ el tiempo entre rebrotes se reduce en 10 s; no pierde hojas cuando repele zombis por primera vez
 
 [HAPPYLEEK_SKILL_LEVEL2]
 Nivel 3
@@ -25969,9 +25914,7 @@ Nivel 3
 Nivel 5
 
 [HAPPYLEEK_SKILL_LEVEL5_DES]
-^DB8117^Juventud eterna:^oldclr^ seguirá produciendo soles al crecer. 
-
-^FF8000^Las hojas dañadas no sufrirán más daño por un tiempo y se curarán tras repeler zombis.^oldclr^
+^DB8117^Juventud eterna:^oldclr^ seguirá produciendo soles al crecer; las hojas dañadas no sufrirán más daño por un tiempo y se curarán tras repeler zombis
 
 [HAPPYLEEK_TOOLTIP]
 Produce soles al inicio, repele zombis cuando crece
@@ -26285,9 +26228,7 @@ Cabecea y echa mantequilla a los zombis
 Nivel 2
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL1_DES]
-^4DD4DB^Concentración mantecosa:^oldclr^ la probabilidad de echar mantequilla aumenta.
-
-^FF8000^La mantequilla dura 1 s más.^oldclr^
+^4DD4DB^Concentración mantecosa:^oldclr^ la probabilidad de echar mantequilla aumenta; la mantequilla dura 1 s más
 
 [HEADBUTTERLETTUCE_SKILL_LEVEL2]
 Nivel 3
@@ -27303,9 +27244,7 @@ Cura y potencia a la planta que tiene a su derecha
 Nivel 2
 
 [HOYACORDATA_SKILL_LEVEL1_DES]
-^4DD4DB^Agilidad física:^oldclr^ reduce el tiempo de recuperación
-
-^FF8000^La probabilidad de activar el bis aumenta.^oldclr^
+^4DD4DB^Agilidad física:^oldclr^ reduce el tiempo de recuperación; la probabilidad de activar el bis aumenta
 
 [HOYACORDATA_SKILL_LEVEL2]
 Nivel 3
@@ -27439,9 +27378,7 @@ Su música mejora a las plantas cercanas
 Nivel 2
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL1_DES]
-^4DD4DB^Gran orquesta:^oldclr^ los efectos de mejora aumentan en un 15% (25% para plantas musicales)
-
-^FF8000^Puede mejorar a más plantas musicales (consultar en la nueva interfaz)^oldclr^
+^4DD4DB^Gran orquesta:^oldclr^ los efectos de mejora aumentan en un 15% (25% para plantas musicales); puede mejorar a más plantas musicales (consultar en la nueva interfaz)
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL2]
 Nivel 3
@@ -27453,7 +27390,7 @@ Nivel 3
 Nivel 5
 
 [HYDROCOTYLEDRUMMER_SKILL_LEVEL5_DES]
-^DB8117^Música sanadora:^oldclr^ restaura la salud de las plantas de su alrededor en un 10% cada 15 s (no afecta a plantas instantáneas)
+^DB8117^Música sanadora:^oldclr^ restaura la salud de las plantas de su alrededor en un 10% cada 15 s ^FF0000^(no afecta a plantas instantáneas)^oldclr^
 
 [HYDROCOTYLEDRUMMER_TOOLTIP]
 Su música mejora a las plantas cercanas
@@ -40584,10 +40521,7 @@ Mientras más días accedas, mejores recompensas obtendrás.
 {SAY:winnieicon}Este signo indica que habrá Zombisteins en este lugar. Tengamos cuidado.
 
 [NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_1]
-{NPC_ENTER:crazydaveicon}{EXCITED}¡Hola, vecino! ¿Sabías que si recargas 元 consigues mejores premios?
-
-[NARRATIVE_TUTORIAL_FIRST_RECHARGE_INTRO_2]
-{PLAYFUL}¡Así es! Tenemos un buen lote a un pequeño precio, ¡échale un buen vistazo!
+{NPC_ENTER:crazydaveicon}{PLAYFUL}¡Hola, vecino! Tenemos un buen lote a un pequeño precio, ¡échale un buen vistazo!
 
 [NARRATIVE_TUTORIAL_GACHA_AVATAR_INTRO_1]
 {NPC_ENTER:winnieicon}{PLAYFUL}¿Ves lo buenas que son esas plantas que conseguimos?
@@ -40657,10 +40591,7 @@ Abramos estos Cofres, tal vez haya plantas que puedan ayudarnos.
 {NPC_ENTER:winnieicon}{PLAYFUL}¡Continúa destrozando zombis con plantas mejoradas!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]
-{NPC_ENTER:newyearcrazydave}{PLAYFUL}{SHORT}¡Feliz Año Nuevo, vecino!
-
-[NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
-{SAY}Tengo paquetes de regalo para la ocasión, ¡échale un vistazo!
+{NPC_ENTER:crazydaveicon}{PLAYFUL}¡Parece que ganaste algo en el Sorteo de la Fortuna! Échale un ojo.
 
 [NARRATIVE_TUTORIAL_NEW_PVP_INTRO_1]
 {NPC_ENTER:winnie}{PLAYFUL}{MEDIUM}Un buen cultivador de otro mundo ha enviado un reto, ¿lo aceptas?
@@ -46091,7 +46022,7 @@ Pozoliva perfora el suelo y aguarda la oportunidad de engullir a los zombis inca
 
 [OLIVEPIT_NEW_SKILL_LEVEL1_DES]
 Engulle múltiples zombis. ^FF8000^Capacidad pocera: 2^oldclr^
-^A0522D^Aceite ralentizador: escupe aceite cada 3 s, dura 2 s^oldclr^
+^A0522D^Aceite ralentizador: escupe aceite cada 3 s. ^D22808^Duración: 2 s^oldclr^
 ^FF0000^Límite: zombis de Nvl. 2^oldclr^
 
 [OLIVEPIT_NEW_SKILL_LEVEL2_DES]
@@ -59196,13 +59127,13 @@ Has conseguido 30 Piezas de Petacereza por la recarga de 元
 Recarga legendaria de Nvl. 3
 
 [RECHARGE_REWARD_PLANT_SELECT_ORANGE_3_1_DES]
-Premio por recarga: elección legendaria
+PREMIO POR RECARGA: elección legendaria
 
 [RECHARGE_REWARD_PLANT_SELECT_PURPLE_3_1]
 Recarga épica de Nvl. 3
 
 [RECHARGE_REWARD_PLANT_SELECT_PURPLE_3_1_DES]
-Premio por recarga: elección épica
+PREMIO POR RECARGA: elección épica
 
 [RECHARGE_REWARD_SPEEDUP]
 Desbloqueaste el Botón turbo por la recarga de 20 元
@@ -59223,13 +59154,13 @@ Mostrar
 La Gran Reforma
 
 [RECONSTRUCTION_BOARD_DES_1]
-Escudo hecho de vidrio resistente que te protege de proyectiles, zombis y de un daño pequeño.
+Resiste una cantidad pequeña de daño
 
 [RECONSTRUCTION_BOARD_DES_2]
-Escudo forjado en metal resistente que te protege de proyectiles, zombis y de un daño moderado.
+Resiste una cantidad moderada de daño
 
 [RECONSTRUCTION_BOARD_DES_3]
-Escudo bañado en oro resistente que te protege de proyectiles, zombis y de un daño masivo.
+Resiste una gran cantidad de daño
 
 [RECONSTRUCTION_BOARD_NAME_1]
 Escudo básico
@@ -59241,13 +59172,13 @@ Escudo de metal
 Escudo de oro
 
 [RECONSTRUCTION_CANNON_DES_1]
-Dispara balas de cañón a los zombis para infligirles un daño pequeño.
+Dispara balas de cañón a los zombis más cercanos
 
 [RECONSTRUCTION_CANNON_DES_2]
-Dispara potentes láseres perforantes a los zombis para infligirles un daño medio.
+Dispara láseres que hacen daño perforante
 
 [RECONSTRUCTION_CANNON_DES_3]
-Dispara 6 misiles a los zombis simultáneamente para infligirles un daño masivo
+Dispara una salva de misiles a los zombis más cercanos
 
 [RECONSTRUCTION_CANNON_NAME_1]
 Cañón teledirigido
@@ -59307,58 +59238,58 @@ Parece que el pedido realizado el {DAY}/{MONTH}/{YEAR} a las {TIME} tuvo problem
 Petición de artículos
 
 [REDPACKETWIDGET_DES_DESCRIPTION]
-Enhorabuena, ¡has sido el jugador elegido para el sorteo de Año Nuevo!
+Enhorabuena, ¡has ganado un premio del sorteo!
 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
-Enhorabuena, ¡has sido el jugador elegido para el sorteo de Año Nuevo!
+Enhorabuena, ¡has ganado el PREMIO MAYOR!
 
 [REDPACKETWIDGET_DES_TITLE]
-Paquete de Año Nuevo
+Sorteo de la Fortuna
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC1]
 Jugador: ^FFFF00^{NAME}^oldclr^
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_0]
-^FFFF00^{NAME}^oldclr^ ganó el GRAN premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el PREMIO MAYOR:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_1]
-^FFFF00^{NAME}^oldclr^ ganó el premio gordo de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el premio gordo:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_2]
-^FFFF00^{NAME}^oldclr^ ganó el 1er premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 1er premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_3]
-^FFFF00^{NAME}^oldclr^ ganó el 2do premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 2do premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_4]
-^FFFF00^{NAME}^oldclr^ ganó el 3er premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 3er premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_5]
-^FFFF00^{NAME}^oldclr^ ganó el 4° premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 4° premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_6]
-^FFFF00^{NAME}^oldclr^ ganó el 5° premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 5° premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_7]
-^FFFF00^{NAME}^oldclr^ ganó el 6° premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 6° premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_8]
-^FFFF00^{NAME}^oldclr^ ganó el 7° premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 7° premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_9]
-^FFFF00^{NAME}^oldclr^ ganó el 8° premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 8° premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_10]
-^FFFF00^{NAME}^oldclr^ ganó el 9° premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 9° premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_11]
-^FFFF00^{NAME}^oldclr^ ganó el 10° premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 10° premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_12]
-^FFFF00^{NAME}^oldclr^ ganó el 11° premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 11° premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC2_13]
-^FFFF00^{NAME}^oldclr^ ganó el 12° premio de Año Nuevo:
+^FFFF00^{NAME}^oldclr^ ganó el 12° premio:
 
 [REDPACKETWIDGET_REWARD_PLAYER_WITH_ITEMCOUNT_DESC3_1]
 ^0775F7^{ITEM} x{NUMS}^oldclr^
@@ -68244,7 +68175,7 @@ Su producción solar aumenta en un ^D22808^100 %^oldclr^
 [SOLARSAGE_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^25 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
 ^DB8117^Nutrientes: ilumina a los zombis de un área 3x3 alrededor y produce 100 soles^oldclr^
-^FF8000^Infectividad solar: 25 % probable^oldclr^
+^FF8000^Infectividad solar con Nutrientes: 25 % probable^oldclr^
 
 [SOLARSAGE_NEW_SKILL_LEVEL5_DES]
 Los zombis afectados por su habilidad se convierten en Zombis arhat.
@@ -71350,7 +71281,7 @@ Nivel 3
 Nivel 5
 
 [STICKYBOMBRICE_SKILL_LEVEL5_DES]
-^DB8117^Lluvia de arroz:^oldclr^ probabilidad de lanzar una bomba de arroz más grande que daña al zombi al que ataca y a otros 2 de su alrededor.
+^DB8117^Lluvia de arroz:^oldclr^ probabilidad de lanzar una bomba de arroz más grande que daña al zombi al que ataca y a otros 2 de su alrededor
 
 [STICKYBOMBRICE_TOOLTIP]
 Arroja bombas de arroz pegajosas
@@ -76485,7 +76416,7 @@ Número de mordizcos ^D22808^+1 (ahora 2)^oldclr^
 Seta tigre ruge para aturdir a los zombis que tiene en frente, y luego, los ataca a arañazos con sus poderosas garras.
 
 [TIGERSTOOL_NEW_SKILL_LEVEL1_DES]
-Ruge para aturdir zombis, luego, los ataca a arañazos. ^848484^Aturdir: 0.5 s. ^FF8000^Arañazos: 4^oldclr^
+Ruge para aturdir zombis, luego, los ataca a arañazos. ^848484^Aturdir: 0.5 s ^FF8000^Arañazos: 4^oldclr^
 
 [TIGERSTOOL_NEW_SKILL_LEVEL2_DES]
 Rugido: duración del ^848484^aturdimiento ^D22808^+0,25 s (ahora 0.75 s)^oldclr^
