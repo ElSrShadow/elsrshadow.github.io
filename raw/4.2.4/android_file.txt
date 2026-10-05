@@ -3,7 +3,7 @@
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.4^oldclr^ | ^87CEFA^Parche: 1.2.0 (actualizado el 4/10/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.4^oldclr^ | ^87CEFA^Parche: 1.3.0 (actualizado el 5/10/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [AGE_TIP]
@@ -20,1371 +20,6 @@ Notas de la actualización 4.2.4
 8. Se mejoró el Sistema de guardado
 9. Se agregó la Autentificación en dos pasos
 10. Optimización y correción de errores
-
-[PEANUT_SKILL1_LEVEL5]
-Nivel 5
-
-[PEANUT_SKILL1_LEVEL5_DES]
-^DB8117^Cólera explosiva:^oldclr^ se enfada, haciendo que sus proyectiles sean explosivos; el daño y velocidad aumentan por cada planta de Nvl. 5 cercana
-
-[PEANUT_NEW_SKILL_LEVEL5_DES]
-Se enfada, haciendo que sus proyectiles sean explosivos; el daño y velocidad aumentan por cada ^DB8117^planta de Nvl. 5^oldclr^ cercana.
-
-[NAGASALAK]
-Fruta serpiente
-
-[NAGASALAK_DESCRIPTION]
-{KEYWORD}Información de alcance: {STAT}línea (adelante o atrás)
-
-^397F24^Nutrientes: {STAT}dispara un orbe al zombi más cercano, generando un remolino que succiona zombis medianos y criaturas cercanas
-
-^DD7ECB^Características de la planta: {STAT}planta verde, anfibia
-
-{FLAVOR}Cuenta la leyenda que, en las profundidades de un antiguo océano, una serpiente dejó su último aliento dentro de una fruta. Cuando las aguas volvieron a agitarse, de aquella fruta nació Naga Salak, la Fruta serpiente.
-
-[NAGASALAK_DESCRIPTION_HEADER]
-Fruta serpiente es una planta anfibia que azota su cola para crear remolinos helados que avanzan y ralentizan a los zombis alcanzados.
-
-[NAGASALAK_TOOLTIP]
-Planta anfibia que genera remolinos helados
-
-[NAGASALAK_PRODUCT_SHORT_DESC]
-Planta anfibia que genera remolinos helados
-
-[NAGASALAK_SKILL_LEVEL1]
-Nivel 2
-
-[NAGASALAK_SKILL_LEVEL1_DES]
-^4DD4DB^Azote congelante:^oldclr^ los remolinos congelan al zombi alcanzado brevemente; reduce el intervalo entre golpes del remolino
-
-[NAGASALAK_SKILL_LEVEL2]
-Nivel 3
-
-[NAGASALAK_SKILL_LEVEL2_DES]
-^DD7ECB^Remolino desatado:^oldclr^ reduce el intervalo entre golpes del remolino aún más
-
-[NAGASALAK_SKILL_LEVEL5]
-Nivel 5
-
-[NAGASALAK_SKILL_LEVEL5_DES]
-^DB8117^Rabia dispersa:^oldclr^ al atacar, tiene la posibilidad de liberar dos remolinos a la vez 
-
-[NAGASALAK_AVATAR_NAME]
-Lentes diamante
-
-[STORE_PRODUCT_AVATAR_NAGASALAK]
-El remolino del efecto contiene criaturas marinas que hacen un ataque de apoyo
-
-[STORE_PRODUCT_AVATAR_NAGASALAK_TITLE]
-Lentes diamante
-
-[NAGASALAK_NEW_SKILL_LEVEL1_DES]
-Planta anfibia que genera remolinos helados por la línea. 
-^D22808^Daño por segundo: 140 DPS / 0.5 s^oldclr^
-
-[NAGASALAK_NEW_SKILL_LEVEL2_DES]
-Los remolinos ^0072FF^congelan^oldclr^ al zombi alcanzado por 0.5 s
-^D22808^Daño por segundo: 210 DPS / 0.4 s^oldclr^
-
-[NAGASALAK_NEW_SKILL_LEVEL3_DES]
-Los remolinos ^0072FF^congelan^oldclr^ al zombi alcanzado por 0.5 s
-^D22808^Daño por segundo: 280 DPS / 0.3 s^oldclr^
-
-[NAGASALAK_NEW_SKILL_LEVEL4_DES]
-Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: dispara un orbe al zombi más cercano, generando un remolino que succiona zombis medianos y criaturas cercanas. ^D22808^Área del efecto: 5x5^oldclr^
-
-[NAGASALAK_NEW_SKILL_LEVEL5_DES]
-Al atacar, tiene un ^D22808^60 % de probabilidad^oldclr^ de liberar ^D22808^2^oldclr^ remolinos a la vez.
-^D22808^Daño por segundo: 420 DPS / 0.15 s^oldclr^
-
-[NAGASALAK_PLANTFOOD_DESCRIPTION]
-Dispara un orbe al zombi más cercano, generando un remolino que succiona zombis medianos y criaturas cercanas
-
-[NAGASALAK_AVATAR_PLANTFOOD_DESCRIPTION]
-El remolino del efecto contiene criaturas que hacen un ataque de apoyo.
-^3827F5^Pez espada: destruye zombis o les inflige grandes daños.^oldclr^
-^A0522D^Pez globo: bloquea zombis y explota al ser destruido.^oldclr^
-
-[COSMICSAUCER]
-Calabacín cósmico
-
-[COSMICSAUCER_DESCRIPTION]
-{KEYWORD}Información de alcance: {STAT}casilla
-{KEYWORD}Uso: {STAT}se activa cuando hay zombis cerca, luego debe descansar
-
-{KEYWORD}Especial: {STAT}anula los efectos de hipergravedad en plantas de un área 3x3
-
-^397F24^Nutrientes: {STAT}abduce a los 3 zombis más cercanos dentro de un área 3x3
-
-^DD7ECB^Características de la planta: {STAT}planta púrpura, cósmica, extraterrestre
-
-{FLAVOR}Calabacín cósmico y Calabacín de platillo son primos lejanos. El primero asegura que la familia siempre ha vivido entre las estrellas. El segundo todavía intenta averiguar cuál de ellas.
-
-[COSMICSAUCER_DESCRIPTION_HEADER]
-Calabacín cósmico pone la gravedad patas arriba, haciendo flotar a los zombis cercanos.
-
-[COSMICSAUCER_TOOLTIP]
-Hace flotar zombis y anula la hipergravedad cercana
-
-[COSMICSAUCER_PRODUCT_SHORT_DESC]
-Hace flotar zombis y anula la hipergravedad cercana
-
-[COSMICSAUCER_AVATAR_NAME]
-Sombrero de gato
-
-[STORE_PRODUCT_AVATAR_COSMICSAUCER_TITLE]
-Sombrero de gato
-
-[STORE_PRODUCT_AVATAR_COSMICSAUCER]
-Aumenta el número de zombis abducidos
-
-[COSMICSAUCER_SKILL_LEVEL1]
-Nivel 2
-
-[COSMICSAUCER_SKILL_LEVEL1_DES]
-^4DD4DB^Secuestro cósmico:^oldclr^ captura a los zombis con salud baja; reduce el tiempo de descanso en 2 s
-
-[COSMICSAUCER_SKILL_LEVEL2]
-Nivel 3
-
-[COSMICSAUCER_SKILL_LEVEL2_DES]
-^DD7ECB^Captor experimentado:^oldclr^ mejora los efectos del Nvl. 2 al doble
-
-[COSMICSAUCER_SKILL_LEVEL5]
-Nivel 5
-
-[COSMICSAUCER_SKILL_LEVEL5_DES]
-^DB8117^Rayo alucinógeno:^oldclr^ probabilidad de hipnotizar a los zombis levitados una vez aterricen
-
-[COSMICSAUCER_NEW_SKILL_LEVEL1_DES]
-Hace flotar zombis y anula la hipergravedad en plantas de un ^D22808^área 3x3^oldclr^
-^FF9600^Gravedad cero: dura 4 s^oldclr^
-
-[COSMICSAUCER_NEW_SKILL_LEVEL2_DES]
-Abduce zombis con ^D22808^1.000^oldclr^ puntos de salud o menos.
-^FF8000^Reduce el tiempo de recuperación en ^D22808^2 s (ahora 12 s)^oldclr^
-
-[COSMICSAUCER_NEW_SKILL_LEVEL3_DES]
-Abduce zombis con ^D22808^2.000^oldclr^ puntos de salud o menos.
-^FF8000^Reduce el tiempo de recuperación en ^D22808^4 s (ahora 10 s)^oldclr^
-
-[COSMICSAUCER_NEW_SKILL_LEVEL4_DES]
-Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: adduce a los ^D22808^3 ^DB8117^zombis más cercanos dentro de un ^D22808^área 3x3^oldclr^
-
-[COSMICSAUCER_NEW_SKILL_LEVEL5_DES]
-^D22808^20 % de probabilidad^oldclr^ de hipnotizar a los zombis levitados una vez aterricen.
-
-[COSMICSAUCER_PLANTFOOD_DESCRIPTION]
-Adduce a los 3 zombis más cercanos dentro de un área 3x3
-
-[COSMICSAUCER_AVATAR_PLANTFOOD_DESCRIPTION]
-El número de zombis abducidos aumenta a ^D22808^6^oldclr^
-
-[ZOMBIE_ZOMBIE_MOON_BLADE]
-Espadachín del espacio
-
-[ZOMBIE_ZOMBIE_MOON_BLADE_DESCRIPTION]
-{KEYWORD}Daño: {STAT}atrae y destruye plantas al contacto
-{KEYWORD}Especial: {STAT}corta los proyectiles dirigidos a él 
-
-{FLAVOR}Encontró una espada cuántica capaz de cortar hasta el espacio. Ahora puede regresar a casa en un instante cada vez que se embarca en una aventura. El único problema es que nunca sabe donde dejó las llaves tiradas.
-
-[ZOMBIE_ZOMBIE_MOON_BLADE_DESCRIPTION_HEADER]
-Un espadachín que viaja por el espacio y parte proyectiles en dos.
-
-[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST]
-Ilusionista dimensional
-
-[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION]
-{KEYWORD}Especial: {STAT}las ilusiones se materializan cuando su salud está a la mitad
-
-{KEYWORD}Ilusiones: {STAT}Esfinge letal Zombot, Maestro del Qigong, Z-Mech
-
-{FLAVOR}Le encanta hacerse pasar por otros zombis. Tanto, que construyó un pequeño aparato capaz de proyectar ilusiones y darle la apariencia de cualquiera. Ahora puede ser quien quiera. Su siguiente objetivo: descubrir quién quiere ser.
-
-[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION_HEADER]
-¡Al llegar a la 8° columna, se convierte en quien quiera!
-
-[ZOMBIE_ZOMBIE_SUPERNOVA_IMP]
-Zombidito supernova
-
-[ZOMBIE_ZOMBIE_SUPERNOVA_IMP_DESCRIPTION]
-{FLAVOR}Parece una supernova. Su amenaza, no tanto.
-
-[ZOMBIE_ZOMBIE_SUPERNOVA_IMP_DESCRIPTION_HEADER]
-Un pequeño zombi cósmico que llega desarmado.
-
-[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI]
-Zombistein Nova Géminis
-
-[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta una planta con su cetro y destruye todas las copias de esa planta
-
-{KEYWORD}Clonación: {STAT}el Zombidito dispara un rayo que clona una planta y transforma las plantas cercanas en copias de ella
-
-{FLAVOR}Desde que consiguieron la tecnología de clonación, estos dos zombis no han vuelto a trabajar por separado. Al fin y al cabo, ¡dos cabezas son mejores que una!
-
-[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI_DESCRIPTION_HEADER]
-Un dúo cósmico que combina clonación y destrucción en perfecta sincronía.
-
-[ZOMBIE_LUNAR_RADIATION_GARGANTUAR]
-Zombistein astro-mutante
-
-[ZOMBIE_LUNAR_RADIATION_GARGANTUAR_DESCRIPTION]
-{KEYWORD}Daño: {STAT}aplasta plantas con su antena espacial
-
-{KEYWORD}Especial: {STAT}explota al ser derrotado, liberando radiación que afecta plantas y zombis cercanos
-
-{FLAVOR}Antes era un astronauta de lo más común, hasta que una misión bajo la luz de la luna lo expuso a una misteriosa radiación. Cuando volvió a la Tierra, ya no era el mismo.
-
-[ZOMBIE_LUNAR_RADIATION_GARGANTUAR_DESCRIPTION_HEADER]
-Un coloso espacial lleno de radiación cósmica.
-
-[NARRATIVE_GRAVITY_TUTORIAL_1_1]
-{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Vaya! ¿Y ese imán tan enorme?
-
-[NARRATIVE_GRAVITY_TUTORIAL_1_2]
-{SAY:winnie}Me parece que es un generador de gravedad. 
-
-[NARRATIVE_GRAVITY_TUTORIAL_1_3]
-{SAY:winnie}Por lo que sé, sus rayos generan gravedad cero dentro de una zona determinada.
-
-[NARRATIVE_GRAVITY_TUTORIAL_1_4]
-{SAY:winnie}Las plantas alcanzadas se irán flotando, mientras que los zombis podrán esquivar proyectiles que vayan en línea recta.
-
-[NARRATIVE_GRAVITY_TUTORIAL_1_5]
-{SAY:astronautcrazydave}Eso es jugar sucio. ¿Qué podemos hacer al respecto?
-
-[NARRATIVE_GRAVITY_TUTORIAL_1_6]
-{SAY:winnie}Déjaselo a Gravitárbol. Sus habilidades pueden neutralizar los efectos de la gravedad cero.
-
-[GRAVITY_TUTORIAL_PLANT_GRAVITREE]
-Arrastra a Gravitárbol al lugar indicado
-
-[NARRATIVE_GRAVITY_TUTORIAL_2_1]
-{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:winnie}Parece que el imán también puede crear campos de hipergravedad.
-
-[NARRATIVE_GRAVITY_TUTORIAL_2_2]
-{SAY:astronautcrazydave}¿Hipergravedad? Eso no suena nada bien.
-
-[NARRATIVE_GRAVITY_TUTORIAL_2_3]
-{SAY:winnie}Así es. La hipergravedad mantiene a las plantas pegadas al suelo y hace que los zombis sean inmunes al derribo.
-
-[NARRATIVE_GRAVITY_TUTORIAL_2_4]
-{TIRED:astronautcrazydave}Tanta gravedad me agobia. ¿Qué hacemos para detenerla?
-
-[NARRATIVE_GRAVITY_TUTORIAL_2_5]
-{SAY:winnie}La gravedad no es algo que puedas detener, usuario Dave. Lo que necesitamos es una fuerza mayor.
-
-[NARRATIVE_GRAVITY_TUTORIAL_2_6]
-{SAY:winnie}Contamos con Calabacín cósmico: hace levitar zombis y anula la hipergravedad en plantas cercanas.
-
-[GRAVITY_TUTORIAL_PLANT_COSMICSAUCER]
-Arrastra a Calabacín cósmico al lugar indicado
-
-[NARRATIVE_GRAVITY_TUTORIAL_3_1]
-{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{PLAYFUL:astronautcrazydave}Bien, al menos ya estamos parejos.
-
-[NARRATIVE_GRAVITY_TUTORIAL_3_2]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}¡Qué interesante! Veo que ya descubrieron mi generador de gravedad.
-
-[NARRATIVE_GRAVITY_TUTORIAL_3_3]
-{SAY:winnie}Con que todo esto era obra tuya.
-
-[NARRATIVE_GRAVITY_TUTORIAL_3_4]
-{PLAYFUL:zombossicon}Así es. Me tomé la molestia de instalarlo para ponerles las cosas patas arriba.
-
-[NARRATIVE_GRAVITY_TUTORIAL_3_5]
-{SAY:zombossicon}Pero no se emocionen demasiado. Esto es solo el comienzo de lo que tengo preparado para ustedes.
-
-[NARRATIVE_MOON_13_INTRO_1]
-{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:astronautcrazydave}¿Y esa roca tan extraña?
-
-[NARRATIVE_MOON_13_INTRO_2]
-{SAY:winnie}Es una roca de caparazón duro.
-
-[NARRATIVE_MOON_13_INTRO_3]
-{SAY:winnie}Coloca más plantas para romper el caparazón y extraer los cristales.
-
-[NARRATIVE_MOON_13_INTRO_4]
-{PLAYFUL:astronautcrazydave}Un pico también serviría, ¿no?
-
-[NARRATIVE_MOON_14_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}Detecto un cristal bastante frágil.
-
-[NARRATIVE_MOON_14_INTRO_2]
-{SAY:winnie}Parece que no podemos usarlo para la terminal lunar. Se rompe con facilidad.
-
-[NARRATIVE_MOON_14_INTRO_3]
-{SAY:astronautcrazydave}¿Entonces de que nos sirve recolectarlos?
-
-[NARRATIVE_MOON_14_INTRO_4]
-{PLAYFUL:winnie}Algunos contienen Nutrientes cósmicos. No vendría mal revisarlos.
-
-[NARRATIVE_MOON_14_INTRO_5]
-{SAY:astronautcrazydave}Perfecto. Porque claro, ahora hasta los cristales tienen fecha de caducidad.
-
-[NARRATIVE_MOON_20_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}¡Peligro! Detecto un cristal radiactivo más adelante.
-
-[NARRATIVE_MOON_20_INTRO_2]
-{SAY:winnie}El cristal emite radiación periódicamente sobre las plantas y los zombis cercanos.
-
-[NARRATIVE_MOON_20_INTRO_3]
-{SAY:winnie}Las plantas mutan en otras al azar, y los zombis en Zombisteins radiactivos.
-
-[NARRATIVE_MOON_20_INTRO_4]
-{PLAYFUL:astronautcrazydave}¿Y yo en qué me convertiría si me acerco?
-
-[NARRATIVE_MOON_20_INTRO_5]
-{SAY:winnie}Eh... no lo sé. Pero será mejor no averiguarlo.
-
-[NARRATIVE_MOON_20_INTRO_6]
-{NPC_ENTER:zombossicon}{PLAYFUL:zombossicon}¡Precisamente! ¡Miren lo que la radiación puede hacer!
-
-[NARRATIVE_MOON_20_INTRO_7]
-{EXCITED:zombossicon}¡Les presento al Zombistein astro-mutante! 
-
-[NARRATIVE_MOON_20_INTRO_8]
-{SAY:zombossicon}La radiación cósmica lo ha convertido en un monstruo mucho más poderoso.
-
-[NARRATIVE_MOON_20_INTRO_9]
-{SAY:astronautcrazydave}¡¿Ese era el resultado que me esperaba a mí?!
-
-[NARRATIVE_MOON_BLADE_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY}Contemplen a mi nuevo guerrero: ¡El Espadachín del espacio!
-
-[NARRATIVE_MOON_BLADE_INTRO_2]
-{SAY}Su espada cuántica puede cortar todo lo que se interponga en su camino.
-
-[NARRATIVE_MOON_BLADE_INTRO_3]
-{PLAYFUL}¡Más les vale pensar dos veces antes de lanzarle algo!
-
-[NARRATIVE_MOON_BLADE_INTRO_4]
-{NPC_EXIT:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Bah! ¡Una espada no va a detener a mis plantas!
-
-[NARRATIVE_MOON_BLADE_INTRO_5]
-{SAY:winnie}Dave, espera. Parece que puede cortar los proyectiles que se dirigen hacia él.
-
-[NARRATIVE_MOON_BLADE_INTRO_6]
-{SHOUT:astronautcrazydave}¿¡Que puede cortar mis proyectiles!? ¡Eso es una LOCURA!
-
-[NARRATIVE_MOON_ILLUSIONIST_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY}Aquí tienen a mi nuevo maestro del engaño: ¡El Ilusionista dimensional!
-
-[NARRATIVE_MOON_ILLUSIONIST_INTRO_2]
-{PLAYFUL}¡Nunca sabrán con quién se están enfrentando!
-
-[NARRATIVE_MOON_ILLUSIONIST_INTRO_3]
-{NPC_EXIT:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:astronautcrazydave}¿Un ilusionista? ¿Dónde están los otros tres?
-
-[NARRATIVE_MOON_ILLUSIONIST_INTRO_4]
-{SAY:winnie}¿Los otros tres? A mí me parece que este zombi viene solo.
-
-[NARRATIVE_MOON_ILLUSIONIST_INTRO_5]
-{SAY:winnie}Sea como sea, debemos tener cuidado con él. Puede convertirse en cualquier variante.
-
-[NARRATIVE_MOON_ILLUSIONIST_INTRO_6]
-{EXCITED:astronautcrazydave}¡Ya veo! Viene solo para quedarse con todo el botín.
-
-[NARRATIVE_MOON_ILLUSIONIST_INTRO_7]
-{TIRED:winnie}No comprendo nada de lo que dices, usuario Dave.
-
-[NARRATIVE_SUPERNOVA_GEMINI_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY}¡Les presento a mi nueva pareja estelar: el Zombistein Nova Géminis!
-
-[NARRATIVE_SUPERNOVA_GEMINI_INTRO_2]
-{PLAYFUL:zombossicon}¡Dos zombis, dos cerebros y el doble de problemas para ustedes!
-
-[NARRATIVE_SUPERNOVA_GEMINI_INTRO_3]
-{NPC_EXIT:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:astronautcrazydave}¿Dos cerebros? ¡Entonces quizá uno de ellos sepa lo que está haciendo!
-
-[NARRATIVE_SUPERNOVA_GEMINI_INTRO_4]
-{SAY:winnie}No te confíes, Dave. El pequeño puede clonar nuestras plantas y convertir las que estén cerca en copias.
-
-[NARRATIVE_SUPERNOVA_GEMINI_INTRO_5]
-{EXCITED:astronautcrazydave}¡¿El pequeño también tiene poderes?!
-
-[NARRATIVE_SUPERNOVA_GEMINI_INTRO_6]
-{SAY:winnie}Y el grande puede destruir todas las copias de una planta de un solo golpe.
-
-[NARRATIVE_SUPERNOVA_GEMINI_INTRO_7]
-{TIRED:astronautcrazydave}Perfecto. Uno fabrica los problemas y el otro se encarga de borrarlos.
-
-[NARRATIVE_MOON_24_INTRO_1]
-{NPC_ENTER:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:zombossicon}¡Dave! Has llegado más lejos de lo que esperaba.
-
-[NARRATIVE_MOON_24_INTRO_2]
-{PLAYFUL:zombossicon}Pero después de todo este tiempo, ya es hora de terminar con este pequeño juego.
-
-[NARRATIVE_MOON_24_INTRO_3]
-{SAY:astronautcrazydave}¿Pequeño juego? ¡Llevamos días luchando contra tus zombis!
-
-[NARRATIVE_MOON_24_INTRO_4]
-{SAY:zombossicon}Y cada batalla los ha traído hasta aquí. Ahora descubrirás para qué estaba preparando todo esto.
-
-[NARRATIVE_MOON_24_INTRO_5]
-{EXCITED:zombossicon}¡Prepárense, porque esta vez no pienso contenerme!
-
-[NARRATIVE_MOON_24_INTRO_6]
-{PLAYFUL:winnie}¡Vamos, Dave! La batalla final está a la vuelta de la esquina.
-
-[NARRATIVE_MOON_25_INTRO_1]
-{NPC_ENTER:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:zombossicon}¡Por fin! Han llegado hasta el final de su pequeño viaje lunar.
-
-[NARRATIVE_MOON_25_INTRO_2]
-{EXCITED:zombossicon}¡Pero todo lo que han enfrentado hasta ahora no era más que el comienzo!
-
-[NARRATIVE_MOON_25_INTRO_3]
-{SHOUT:astronautcrazydave}¡Ya estamos cansados de tus sorpresas, Zomboss!
-
-[NARRATIVE_MOON_25_INTRO_4]
-{PLAYFUL:zombossicon}Entonces será mejor que se preparen para la última.
-
-[NARRATIVE_MOON_25_INTRO_5]
-{EXCITED:zombossicon}¡Veamos si su pequeño jardín lunar puede sobrevivir a esto!
-
-[NARRATIVE_MOON_25_INTRO_6]
-{SAY:winnie}Dave, es ahora o nunca. ¡Tenemos que defender la base!
-
-[SUPER_BOSS_COMING_SOON_MOON]
-Reúne todas las Estrellas de los niveles anteriores para desbloquear el Día Final.
-
-[WARNING_GRAVITY_GENERATOR_ANTI]
-¡Gravedad cero!
-
-[WARNING_GRAVITY_GENERATOR_HEAVY]
-¡Hipergravedad!
-
-[KILL_ALL_ZOMBIE_MOON_MINIGAME]
-Recoleta suficientes piedras lunares para ganar
-
-[MOON_GRAPPLE_GUIDE_DESC_1]
-1. GANCHO: mantén para apuntar, arrastra para ajustar, suelta para disparar
-
-[MOON_GRAPPLE_GUIDE_DESC_2]
-2. MEJORA: reúne suficientes puntos para ganar una mejora de tu elección
-
-[MOON_GRAPPLE_GUIDE_DESC_3]
-3. FRENESÍ: duplica la velocidad del gancho. Se activa al recoger o romper 10 objetos seguidos
-
-[MOON_GRAPPLE_GUIDE_DESC_4]
-4. LLUVIA DE METEOROS: duplica la puntuación y evita que las rocas lunares se regeneren. Se activa al recoger una Flor meteoro
-
-[MOON_GRAPPLE_CANNOT_FIRE]
-Recoge el segundo gancho primero
-
-[MOON_GRAPPLE_UPGRADE_WINCH]
-Cabrestante poderoso
-
-[MOON_GRAPPLE_UPGRADE_LAUNCHER]
-Hiper-transmisor
-
-[MOON_GRAPPLE_UPGRADE_MAGNET]
-Imán lunar
-
-[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK]
-Gancho doble
-
-[MOON_GRAPPLE_UPGRADE_BOUNTY]
-Cofre espacial
-
-[MOON_GRAPPLE_UPGRADE_WINCH_DESC_1]
-Vel. de recarga +35%
-
-[MOON_GRAPPLE_UPGRADE_WINCH_DESC_2]
-Vel. de recarga +70%
-
-[MOON_GRAPPLE_UPGRADE_WINCH_DESC_3]
-- Vel. de recarga +110%
-- Desaleración en cargas pesadas -25%
-
-[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_1]
-- Vel. de lanzamiento +35%
-- Vel. de retorno tras fallo +20%
-
-[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_2]
-- Vel. de lanzamiento +70%
-- Vel. de retorno tras fallo +50%
-
-[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_3]
-- Vel. de lanzamiento +110%
-- Vel. de retorno tras fallo +90%
-
-[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_1]
-Atrae 1 cristal lunar pequeño en un área reducida
-
-[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_2]
-El radio y velocidad de atracción aumentan
-
-[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_3]
-- El radio y vel. de atracción aumentan aun más
-- Atrae 2 cristales lunares a la vez
-
-[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_1]
-Se puede lanzar un 2do gancho, que tiene el 70% de velocidad del original. Ambos ganchos deben retornar para volver a lanzarse
-
-[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_2]
-La vel. del gancho secundario aumenta al 90% con respecto al original.
-
-[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_3]
-- La vel. del gancho secundario aumenta al 100%
-- Ambos ganchos se lanzan de forma individual.
-
-[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_1]
-- Marca a 1 objetivo de recompensa cada 12 s
-- La puntuación por recuperación aumenta un 50%
-
-[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_2]
-- Marca a 1 objetivo de recompensa cada 10 s
-- La puntuación por recuperación aumenta un 100%
-
-[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_3]
-La marca de recompensa se transfiere a otros objetos válidos de la escuadra
-
-[MOON_GRAPPLE_FRENZY_WARNING]
-Frenesí: ¡minado rápido!
-
-[MOON_GRAPPLE_LOSS_MESSAGE]
-¡Misión fallida!
-
-[rank_avatar_diy_72]
-Romanos a la carga
-
-[RANK_AVATAR_CONTENT_CONTENT_61069]
-Compraste esto en la tienda de Tierras ocultas: Antigua Roma
-
-[RANK_AVATAR_CONTENT_TITLE_61069]
-Romanos a la carga
-
-[rank_avatar_diy_73]
-Territorio enemigo
-
-[RANK_AVATAR_CONTENT_CONTENT_61070]
-Recompensa clasificatoria de la temporada 49 de Dueloz
-
-[RANK_AVATAR_CONTENT_TITLE_61070]
-Territorio enemigo
-
-[rank_avatar_diy_74]
-Otoño fructífero
-
-[RANK_AVATAR_CONTENT_CONTENT_61071]
-A quienes participaron en las Misiones de escuadrón de otoño (2026)
-
-[RANK_AVATAR_CONTENT_TITLE_61071]
-Otoño fructífero
-
-[SEED_CHOOSER_WARNING_PVZ1SKIPNEXTWAVE]
-"Prox. oleada (Auto)" está activa y este nivel tiene muchos zombis, lo que aumenta la dificultad. ¿Seguro que quieres continuar?
-
-[START_GAME_BUTTON_OFFSKIPNEXT]
-CONTINUAR
-
-[START_GAME_BUTTON_ONSKIPNEXT]
-DESACT. Y CONTINUAR
-
-[SETTINGS_SECOND_LOCK_TITLE]
-Autentificación en dos pasos
-
-[SECOND_LOCK_VERIFY_FAILED]
-Agotado el número de intentos. Vuelve a intentarlo en 24 h
-
-[SUMMARY_ALMANAC_UNLOCK_COUNT]
-Progreso de almanaque:
-
-[SUMMARY_ALMANAC_AMOUNT]
-{ALMANAC_COUNT}
-
-[SUMMARY_MAIN_WORLD_STAR_COUNT]
-Estrellas del mundo actual:
-
-[SUMMARY_RECENT_LEVEL]
-Nivel reciente:
-
-[SUMMARY_FULL_STAR_WORLD_COUNT]
-Mundos completados:
-
-[SUMMARY_MIGRATION_CONFIRM_HEADER]
-TIPO DE GUARDADO
-
-[SUMMARY_MIGRATION_LOCAL_BODY]
-Seleccionaste: datos locales. De ahora en adelante, se cargarán los progresos de tu dispositivo. ¿Estás seguro?
-
-[SUMMARY_MIGRATION_CLOUD_BODY]
-Seleccionaste: datos de la nube. De ahora en adelante, se cargarán los progresos de la nube. ¿Estás seguro?
-
-[SUMMARY_MIGRATION_OLDER_HEADER]
-CONFIRMAR GUARDADO
-
-[SUMMARY_MIGRATION_OLDER_LOCAL_BODY]
-Seleccionaste: datos locales. De ahora en adelante, se cargarán los progresos de tu dispositivo. ¿Estás seguro?
-
-^FF0000^Se perderá el progreso más reciente guardado.^oldclr^
-
-[SUMMARY_MIGRATION_OLDER_CLOUD_BODY]
-Seleccionaste: datos de la nube. De ahora en adelante, se cargarán los progresos de la nube. ¿Estás seguro?
-
-^FF0000^Se perderá el progreso más reciente guardado.^oldclr^
-
-[PVZ_ERROR_76114]
-Tienes un pedido pendiente en: Lotes cromáticos. Reinicia el juego para recibir tu compra.
-
-[PLANT_FAMILY_NAME_50052]
-Familia cósmica
-
-[GENE_DESCRIPTION_OAKSHOOTER]
-Daño +{Param_1}%
-
-[GENE_DESCRIPTION_OXYGENALGAE]
-Efectos del Nvl. 2 +{Param_1}%
-
-[GENE_DESCRIPTION_PASSIONFLOWER]
-Duración del ataque +{Param_1}%
-
-[GENE_DESCRIPTION_HOYACORDATA]
-Probabilidad del bis +{Param_1}%
-
-[PLANT_AVATAR_EFFECT_BUTTON_ON]
-Efectos de atuendo: SI
-
-[PLANT_AVATAR_EFFECT_BUTTON_OFF]
-Efectos de atuendo: NO
-
-[PLANT_AVATAR_EFFECT_BUTTON_DISABLED]
-Efectos
-
-[PLANT_AVATAR_EFFECT_DIALOG_TITLE]
-EFECTOS DE ATUENDO
-
-[PLANT_AVATAR_EFFECT_OPEN]
-Con efectos
-
-[PLANT_AVATAR_EFFECT_CLOSE]
-Solo visual
-
-[PLANT_AVATAR_EFFECT_CANCEL]
-CANCELAR
-
-[PLANT_AVATAR_EFFECT_CONFIRM]
-ACEPTAR
-
-[PLANT_AVATAR_EFFECT_INFO]
-CON EFECTOS: los atuendos brindan efectos al equiparlos.
-SOLO VISUAL: los atuendos solo son cosméticos.
-
-[PLANT_AVATAR_EFFECT_DISABLED_NOTICE]
-Efectos de atuendo desactivados
-
-[NEW_AVATAR_SHORT_DESCRIPTION_GLACIERSHROOM_2]
-Guardían místico
-
-[NEW_AVATAR_DESCRIPTION_GLACIERSHROOM_2]
-La habilidad manual se recarga un 35% más rápido
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_4]
-Estrella de rock
-
-[NEW_AVATAR_DESCRIPTION_MANDRAKE_4]
-Recarga rápida +20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_3]
-Bañista alegre
-
-[NEW_AVATAR_DESCRIPTION_WINTERMELON_3]
-Vel. de ataque +25%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_4]
-Bañista rebelde
-
-[NEW_AVATAR_DESCRIPTION_WINTERMELON_4]
-Efectos visuales solamente.
-
-[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_5]
-Bañista coqueta
-
-[NEW_AVATAR_DESCRIPTION_WINTERMELON_5]
-Efectos visuales solamente.
-
-[NEW_AVATAR_SHORT_DESCRIPTION_DMDRAGONFRUIT_1]
-Alas
-
-[NEW_AVATAR_DESCRIPTION_DMDRAGONFRUIT_1]
-Daño +15%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BROCCOLI_1]
-Guantes de boxeo
-
-[NEW_AVATAR_DESCRIPTION_BROCCOLI_1]
-Salud +15%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_3]
-Afro
-
-[NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_3]
-Coste -20
-
-[NEW_AVATAR_SHORT_DESCRIPTION_JALAPENO_1]
-Lentes
-
-[NEW_AVATAR_DESCRIPTION_JALAPENO_1]
-Recarga rápida +15%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_3]
-Alcantarilla
-
-[NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_3]
-Daño +20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BOOPHONEGEISHA_1]
-Geisha
-
-[NEW_AVATAR_DESCRIPTION_BOOPHONEGEISHA_1]
-Daño +20%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_3]
-Caballero
-
-[NEW_AVATAR_DESCRIPTION_ESCAPEROOT_3]
-Coste -30
-
-[NEW_AVATAR_SHORT_DESCRIPTION_AQUAWEED_3]
-Snorkel
-
-[NEW_AVATAR_DESCRIPTION_AQUAWEED_3]
-Vel. de ataque +15%
-
-[NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_3]
-Seta rítmica
-
-[NEW_AVATAR_DESCRIPTION_PUFFSHROOM_3]
-Despertar +10%
-
-[S32_MEMORY_LEVEL_NAME_041]
-T32-S6-1: Tierras baldías - Nivel 1
-
-[S32_MEMORY_LEVEL_NAME_042]
-T32-S6-2: Tierras baldías - Nivel 2
-
-[S32_MEMORY_LEVEL_NAME_043]
-T32-S6-3: Tierras baldías - Nivel 3
-
-[S32_MEMORY_LEVEL_NAME_044]
-T32-S6-4: Tierras baldías - Nivel 4
-
-[S32_MEMORY_LEVEL_NAME_045]
-T32-S6-5: Tierras baldías - Nivel 5
-
-[S32_MEMORY_LEVEL_NAME_046]
-T32-S6-6: Tierras baldías - Nivel 6
-
-[S32_MEMORY_LEVEL_NAME_047]
-T32-S6-7: Tierras baldías - Nivel 7
-
-[S32_MEMORY_LEVEL_NAME_048]
-T32-S6-8: Tierras baldías - Nivel 8
-
-[S32_MEMORY_LEVEL_NAME_049]
-T32-S7-1: Fortaleza voladora - Nivel 1
-
-[S32_MEMORY_LEVEL_NAME_050]
-T32-S7-2: Fortaleza voladora - Nivel 2
-
-[S32_MEMORY_LEVEL_NAME_051]
-T32-S7-3: Fortaleza voladora - Nivel 3
-
-[S32_MEMORY_LEVEL_NAME_052]
-T32-S7-4: Fortaleza voladora - Nivel 4
-
-[S32_MEMORY_LEVEL_NAME_053]
-T32-S7-5: Fortaleza voladora - Nivel 5
-
-[S32_MEMORY_LEVEL_NAME_054]
-T32-S7-6: Fortaleza voladora - Nivel 6
-
-[S32_MEMORY_LEVEL_NAME_055]
-T32-S7-7: Fortaleza voladora - Nivel 7
-
-[S32_MEMORY_LEVEL_NAME_056]
-T32-S7-8: Fortaleza voladora - Nivel 8
-
-[S32_MEMORY_LEVEL_NAME_057]
-T32-S8-1: Carrera lunar - Fase 1
-
-[S32_MEMORY_LEVEL_NAME_058]
-T32-S8-2: Carrera lunar - Fase 2
-
-[S32_MEMORY_LEVEL_NAME_059]
-T32-S8-3: Carrera lunar - Fase 3
-
-[S32_MEMORY_LEVEL_NAME_060]
-T32-S8-4: Carrera lunar - Fase 4
-
-[S32_MEMORY_LEVEL_NAME_061]
-T32-S8-5: Carrera lunar - Fase 5
-
-[S32_MEMORY_LEVEL_NAME_062]
-T32-S8-6: Carrera lunar - Fase 6
-
-[S32_MEMORY_LEVEL_NAME_063]
-T32-S8-7: Carrera lunar - Fase 7
-
-[S32_MEMORY_LEVEL_NAME_064]
-T32-S8-8: Carrera lunar - Fase 8
-
-[S32_MEMORY_LEVEL_NAME_BOSS_6]
-T32-S6: Carro blindado
-
-[S32_MEMORY_LEVEL_NAME_BOSS_7]
-T32-S7: Buitre de guerra
-
-[S32_MEMORY_LEVEL_NAME_BOSS_8]
-T32-S8: Voyager Z
-
-[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_ROMA]
-1. Disponibilidad
-
-[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_ROMA]
-Los niveles estarán disponibles una vez se active el evento, salvo los del Modo difícil que se desbloquean dos por día.
-
-[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_ROMA]
-2. Contenido del nivel
-
-[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ROMA]
-La fuerza de los zombis es 3, el número aumenta en el Modo difícil según los objetivos seleccionados.
-
-[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_ROMA]
-3. Objetivos del nivel
-
-[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_ROMA]
-Cada nivel tiene objetivos específicos que se pueden completar para obtener recompensas.
-
-[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_ROMA]
-4. Recompensas por objetivos
-
-[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ROMA]
-Las recompensas no son repetibles.
-
-[PVZ2_UNCHARTED_MODE_MODE_TITLE_AQUILA]
-Bandera del Águila
-
-[PVZ2_UNCHARTED_MODE_MODE_DESC_AQUILA]
-La bandera del Abanderado romano otorga reducción de daño e inmunidad al control. ^E2725B^(Quizás las Magnetosetas ayuden)^oldclr^
-
-[PVZ2_UNCHARTED_MODE_MODE_TITLE_COLOSSEUM]
-Coliseo
-
-[PVZ2_UNCHARTED_MODE_MODE_DESC_COLOSSEUM]
-Se forma un coliseo en una columna, que da Nutrientes o libera zombis
-
-[PVZ2_UNCHARTED_MODE_AQUILA_TITLE_NOMOD]
-Bandera del Águila
-
-[PVZ2_UNCHARTED_MODE_AQUILA_DESC_NOMOD]
-La bandera del Abanderado romano otorga reducción de daño e inmunidad al control. ^E2725B^(Quizás las Magnetosetas ayuden)^oldclr^
-
-[PVZ2_UNCHARTED_MODE_COLOSSEUM_TITLE_NOMOD]
-Coliseo
-
-[PVZ2_UNCHARTED_MODE_COLOSSEUM_DESC_NOMOD]
-Se forma un coliseo en una columna, que da Nutrientes o libera zombis
-
-[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ROMA]
-1. Completa los niveles y gana premios por primera limpieza.
-
-2. Los niveles del modo difícil se desbloquean con el tiempo.
-
-3. Alcanza los objetivos extra del modo difícil para obtener premios extra.
-
-4. Puedes canjear los artículos acumulables por premios en la Tienda oculta.
-
-[ROMA_LEVEL_NAME_01_N]
-Antigua Roma - Día 1
-
-[ROMA_LEVEL_NAME_02_N]
-Antigua Roma - Día 2
-
-[ROMA_LEVEL_NAME_03_N]
-Antigua Roma - Día 3
-
-[ROMA_LEVEL_NAME_04_N]
-Antigua Roma - Día 4
-
-[ROMA_LEVEL_NAME_05_N]
-Antigua Roma - Día 5
-
-[ROMA_LEVEL_NAME_06_N]
-Antigua Roma - Día 6
-
-[ROMA_LEVEL_NAME_07_N]
-Antigua Roma - Día 7
-
-[ROMA_LEVEL_NAME_08_N]
-Antigua Roma - Día 8
-
-[ROMA_LEVEL_NAME_09_N]
-Antigua Roma - Día 9
-
-[ROMA_LEVEL_NAME_10_N]
-Antigua Roma - Día Final
-
-[ROMA_LEVEL_NAME_01_H]
-Antigua Roma - Día 1 (Difícil)
-
-[ROMA_LEVEL_NAME_02_H]
-Antigua Roma - Día 2 (Difícil)
-
-[ROMA_LEVEL_NAME_03_H]
-Antigua Roma - Día 3 (Difícil)
-
-[ROMA_LEVEL_NAME_04_H]
-Antigua Roma - Día 4 (Difícil)
-
-[ROMA_LEVEL_NAME_05_H]
-Antigua Roma - Día 5 (Difícil)
-
-[ROMA_LEVEL_NAME_06_H]
-Antigua Roma - Día 6 (Difícil)
-
-[ROMA_LEVEL_NAME_07_H]
-Antigua Roma - Día 7 (Difícil)
-
-[ROMA_LEVEL_NAME_08_H]
-Antigua Roma - Día 8 (Difícil)
-
-[ROMA_LEVEL_NAME_09_H]
-Antigua Roma - Día 9 (Difícil)
-
-[ROMA_LEVEL_NAME_10_H]
-Antigua Roma - Día Final (Difícil)
-
-[PLAYERS_TRIP_TO_ROMA]
-El viaje de {PLAYER} a la Antigua Roma
-
-[UNCHARTED_ROMA_TASK_NAME_1_1]
-Completa estos 3 objetivos: Bandera del Águila, Escacez de semillas II y Refuerzo zombi III
-
-[UNCHARTED_ROMA_TASK_NAME_1_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_1_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_1_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_1_5]
-Alcanza 10 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_2_1]
-Completa estos 3 objetivos: Refuerzo zombi, Crisis solar II y Escacez de semillas III
-
-[UNCHARTED_ROMA_TASK_NAME_2_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_2_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_2_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_2_5]
-Alcanza 10 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_3_1]
-Completa estos 3 objetivos: Tiradores costosos, Bandera del Águila y Refuerzo zombi III
-
-[UNCHARTED_ROMA_TASK_NAME_3_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_3_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_3_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_3_5]
-Alcanza 10 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_4_1]
-Completa estos 3 objetivos: Costes exorbitantes, Inmunidad al control y Bandera del Águila
-
-[UNCHARTED_ROMA_TASK_NAME_4_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_4_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_4_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_4_5]
-Alcanza 10 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_5_1]
-Completa estos 3 objetivos: Costes exorbitantes, Zombis fugaces II y Refuerzo zombi III
-
-[UNCHARTED_ROMA_TASK_NAME_5_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_5_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_5_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_5_5]
-Alcanza 10 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_6_1]
-Completa estos 3 objetivos: Costes exorbitantes, Debilidad botánica II, Refuerzo zombi III
-
-[UNCHARTED_ROMA_TASK_NAME_6_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_6_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_6_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_6_5]
-Alcanza 10 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_7_1]
-Completa estos 3 objetivos: Apoyo valioso, Refuerzo zombi II y Escacez de semillas III
-
-[UNCHARTED_ROMA_TASK_NAME_7_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_7_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_7_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_7_5]
-Alcanza 10 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_8_1]
-Completa estos 3 objetivos: Crisis solar, Escacez de semillas II y Campeón de la arena
-
-[UNCHARTED_ROMA_TASK_NAME_8_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_8_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_8_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_8_5]
-Alcanza 10 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_9_1]
-Completa estos 3 objetivos: Tiradores costosos, Zombis fugaces II, Refuerzo zombi III
-
-[UNCHARTED_ROMA_TASK_NAME_9_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_9_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_9_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_9_5]
-Alcanza 10 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_10_1]
-Completa estos 3 objetivos: Escacez de semillas, Zombis fugaces II y Refuerzo zombi III
-
-[UNCHARTED_ROMA_TASK_NAME_10_2]
-Alcanza 2 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_10_3]
-Alcanza 4 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_10_4]
-Alcanza 6 estrellas como récord histórico.
-
-[UNCHARTED_ROMA_TASK_NAME_10_5]
-Alcanza 10 estrellas como récord histórico.
-
-[zombie_attack_difficulty_3]
-Inmunidad al control
-
-[zombie_attack_difficulty_3_DESCRIPTION]
-Los zombis son inmunes a los efectos de control
-
-[TOURISM_OCTOBER_TEAM_MANAGEMENT]
-Gestión del equipo
-
-[TOURISM_OCTOBER_REMOVE_MEMBER]
-EXPULSAR
-
-[TOURISM_OCTOBER_LEAVE_TEAM]
-ABANDONAR
-
-[TOURISM_OCTOBER_KICK_CONFIRM]
-¿Seguro que quieres expulsar a ese miembro del equipo?
-
-[TOURISM_OCTOBER_LEAVE_CONFIRM]
-¿Seguro que quieres abandonar el equipo?
-
-[TOURISM_OCTOBER_KICK_COOLDOWN]
-Expulsar miembros disponible en: {TIME}
-
-[TOURISM_OCTOBER_LEAVE_COOLDOWN]
-Abandonar equipo disponible en: {TIME}
-
-[TOURISM_OCTOBER_JOIN_COOLDOWN]
-Unirse a un equipo disponible en: {TIME}
-
-[PVZ_ERROR_75537]
-Aún no puedes abandonar el equipo. Espera a que el tiempo de espera termine.
-
-[PVZ_ERROR_75538]
-Aún no puedes expulsar miembros. Espera a que el tiempo de espera termine.
-
-[TOURISM_OCTOBER_REWARD_EMPTY_TITLE]
-AVISOS
-
-[TOURISM_OCTOBER_REWARD_EMPTY]
-Sin recompensas. Se alcanzó el límite máx. de Monedas de amistad.
-
-[PVZ_ERROR_75536]
-Límite de Monedas de amistad alcanzado.
-
-[PVZ_ERROR_75539]
-Se alcanzó el límite máx. de Monedas de amistad.
-
-[TOURISM_OCTOBER_KICKED_TIP]
-Has sido expulsado del equipo.
-
-[GINGLEBELL_RANK1_TEXT]
-Top 1%
-
-[GINGLEBELL_RANK2_TEXT]
-Top 10%
-
-[GINGLEBELL_RANK3_TEXT]
-Top 20%
-
-[GINGLEBELL_TAB2]
-Premios por ranking
-
-[EAGLE_FLAG_ARRIVAL]
-Bandera gloriosa
-
-[EAGLE_FLAG_ARRIVAL_DIFFICULTY_1_DESCRIPTION]
-Se genera 1 bandera de águila en los espacios vacíos de las columnas 8 y 9
-
-[EAGLE_FLAG_ARRIVAL_DIFFICULTY_2_DESCRIPTION]
-Se genera 3 bandera de águila en los espacios vacíos de las columnas 8 y 9
-
-[EAGLE_FLAG_ARRIVAL_DIFFICULTY_3_DESCRIPTION]
-Se genera 5 bandera de águila en los espacios vacíos de las columnas 8 y 9
-
-[NARRATIVE_ARENA_TUTORIAL_1_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Es un trofeo! ¡Ya es mío!
-
-[NARRATIVE_ARENA_TUTORIAL_1_2]
-{SAY:winnie}Parece que es el premio para los campeones del coliseo.
-
-[NARRATIVE_ARENA_TUTORIAL_1_3]
-{EXCITED:crazydave}¡Vamos a por la victoria!
-
-[ARENA_TUTORIAL_PLANT_PEASHOOTER]
-Arrastra el Lanzaguisantes al coliseo
-
-[NARRATIVE_ARENA_TUTORIAL_2_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Vaya! ¡Cuántos Nutrientes! ¡Hora de gastar mis poderes a lo grande!
-
-[NARRATIVE_ARENA_TUTORIAL_2_2]
-{SAY:winnie}Cuando ganemos un combate, ¡el trofeo liberará un montón de Nutrientes!
-
-[NARRATIVE_ARENA_TUTORIAL_2_3]
-{SAY:winnie}Pero si perdemos, ¡caerán un montón de jaulas de zombis!
-
-[NARRATIVE_ARENA_TUTORIAL_2_4]
-{SAY:crazydave}Ya veo... Entonces será mejor que ganemos.
-
-[ADVICE_GLADIATOR_ROW_ACTION_INSIDE]
-Las plantas deben formarse en el coliseo
-
-[ADVICE_GLADIATOR_ROW_WARNING]
-COLISEO: la batalla está por empezar
-
-[ADVICE_GLADIATOR_ROW_PLANTS_WIN]
-COLISEO: ¡suministro de Nutrientes!
-
-[ADVICE_GLADIATOR_ROW_ZOMBIES_WIN]
-COLISEO: ¡invasión romana!
-
-[ROMAN_BALLISTA_PARTY]
-Balista veterano
-
-[ROMAN_BALLISTA_PARTY_DESCRIPTION]
-La salud del Zombi ezcorpión se triplica, este lanza 1 jarrón extra
-
-[ROMAN_HEALER_PARTY]
-Médico de campaña
-
-[ROMAN_HEALER_PARTY_DESCRIPTION]
-La salud del Sanador romano se triplica, este cura 2.5 s más rápido
-
-[GLADIATOR_PARTY]
-Campeón de la arena
-
-[GLADIATOR_PARTY_DESCRIPTION]
-La velocidad y fuerza del Gladiador aumenta al triple
-
-[UNCHARTED_ROMA_N_CHALLENGE_2]
-Derrota a {NUMBER} Escudo (s) romano (s)
-
-[UNCHARTED_ROMA_N_CHALLENGE_3]
-Derrota {NUMBER} Zombi (s) caracubo, centurión o carabusto (cualquiera)
-
-[UNCHARTED_ROMA_N_CHALLENGE_4]
-Derrota a {NUMBER} Escudo (s) romano (s)
-
-[UNCHARTED_ROMA_N_CHALLENGE_5]
-Derrota a {NUMBER} Sanador (es) romano (s)
-
-[UNCHARTED_ROMA_N_CHALLENGE_6]
-Derrota a Medusa x{NUMBER}
-
-[UNCHARTED_ROMA_N_CHALLENGE_9]
-Derrota a {NUMBER} Gladiador (es)
-
-[UNCHARTED_ROMA_N_CHALLENGE_10]
-Derrota al Conquistador de Roma
-
-[CREDTIS_CHINA_ASSOCIATEPRODUCER]
-Asistente de producción
-
-[CREDTIS_CHINA_SERVERDEVELOPMENTDIRECTOR]
-Director de desarrollo de servidores
-
-[CREDTIS_CHINA_SERVERENGINEER]
-Ingeniero de servidores
-
-[CREDTIS_CHINA_MT_MANAGER]
-Director de Marketing
-
-[PVZ_ERROR_76127]
-Datos desactualizados. Sal y refresca la interfaz.
-
-[PVZ_ERROR_20730]
-Piezas de avances insuficientes
-
-[PLANTING_NOT_ON_GLADIATOR_TROPHY]
-No puedes plantar en trofeos
-
-[UNCHARTED_ROMAN_HEAD_ID_25940]
-Rey de Roma
-
-[UNCHARTED_ROMAN_HEAD_DES_ID_25940]
-A quienes reunieron todas las estrellas en Tierras ocultas: Antigua Roma
-
-[LEVEL_EDITOR_HEAD_ID_25944]
-Melonpulta coqueta
-
-[LEVEL_EDITOR_HEAD_DES_ID_25944]
-Obtuviste esto en la temporada 6 del evento: Lotes cromáticos
-
-[ZOMBIE_NODEFAULT_DIFFICULTY_3]
-Zombis capacitados
-
-[ZOMBIE_NODEFAULT_DIFFICULTY_3_DESCRIPTION]
-La fuerza de los zombis es 5, no puedes usar Artefactos
-
-[NEWYEARPACK_MAIN_TIPS_INFO_15]
-1. Recibes Joyas al comprar paquetes, con la probabilidad de obtener una Bolsa extra.
-
-2. La décima compra garantiza que obtengas una Bolsa de Atuendos, esa garantía es acumulativa.
-
-3. El límite de compra de los paquetes se reinicia diariamente.
-
-4. Las recargas que hagas en cualquier parte del juego se sumarán al progreso acumulativo de este evento.
-
-^D22808^Temporada actual: 15^oldclr^
-
-[NEWYEARPACK_MAIN_TIPS_INFO_16]
-1. Recibes Joyas al comprar paquetes, con la probabilidad de obtener una Bolsa extra.
-
-2. La décima compra garantiza que obtengas una Bolsa de Atuendos, esa garantía es acumulativa.
-
-3. El límite de compra de los paquetes se reinicia diariamente.
-
-4. Las recargas que hagas en cualquier parte del juego se sumarán al progreso acumulativo de este evento.
-
-^D22808^Temporada actual: 16^oldclr^
-
-[NEWYEAR_GIFT_HEAD_ID_25945]
-Trio de cacahuates
-
-[NEWYEAR_GIFT_HEAD_DES_ID_25945]
-A quienes participaron en la temporada 15 del evento: Bolsas de la suerte
-
-[TOYS_HEAD_ID_25941]
-Monstruo de hielo
-
-[TOYS_HEAD_DES_ID_25941]
-A quienes participaron en la temporada 18 del evento: Fiesta de disfraces
-
-[HARVEST_BATTLE_HEAD_ID_25946]
-Ondas poderosas
-
-[HARVEST_BATTLE_HEAD_DES_ID_25946]
-A quienes gastaron Maíz en la temporada 11 del evento: Cosecha copiosa
-
-[TIANGONG_HEAD_ID_25942]
-Los Iluzionistas
-
-[TIANGONG_HEAD_DES_ID_25942]
-A quienes participaron en la temporada 17 del evento: El Tesoro celestial
-
-[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION_8]
-Consigue personalizaciones y aspectos cromáticos al participar.
-
-^DB8117^• Aspecto destacado: ^D22808^Jugador retro (de Mega Guisantalladora)^oldclr^
-
-[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION_9]
-Consigue personalizaciones y aspectos cromáticos al participar.
-
-^DB8117^• Aspecto destacado: ^D22808^Bañista alegre (de Melonpulta congelada)^oldclr^
-
-[COLORCUSTOMIZATION_DESCRIPTION_8]
-1. Compra paquetes para obtener recompensas, incluidas Aspectos cromáticos.
-
-2. Obtienes una recompensa extra por cada 5 compras.
-
-3. Si ya tienes un Aspecto cromático, este se convierte en Piezas coloridas que pueden canjearse en la Tienda.
-
-4. Las Piezas coloridas expiran al final del evento, ¡úsalas cuanto antes!
-
-^DB8117^• Aspecto destacado: ^D22808^Jugador retro (de Mega Guisantalladora)^oldclr^
-
-[COLORCUSTOMIZATION_DESCRIPTION_9]
-1. Compra paquetes para obtener recompensas, incluidas Aspectos cromáticos.
-
-2. Obtienes una recompensa extra por cada 5 compras.
-
-3. Si ya tienes un Aspecto cromático, este se convierte en Piezas coloridas que pueden canjearse en la Tienda.
-
-4. Las Piezas coloridas expiran al final del evento, ¡úsalas cuanto antes!
-
-^DB8117^• Aspecto destacado: ^D22808^Bañista alegre (de Melonpulta congelada)^oldclr^
-
-[TIME_SPACE_HEAD_ID_25943]
-Fuerza vinculante
-
-[TIME_SPACE_HEAD_DES_ID_25943]
-A quienes unieron fuerzas en la 3ra temporada del evento: Fisura temporal
 
 [ACCESSORY_EXCHANGE_FAILED]
 ERROR EN EL INTERCAMBIO
@@ -1620,6 +255,16 @@ Aprueba lecciones en El Aula de Penny, gana puntos y canjéalos por premios en l
 
 [ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION]
 Consigue personalizaciones y aspectos cromáticos al participar
+
+[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION_8]
+Consigue personalizaciones y aspectos cromáticos al participar.
+
+^DB8117^• Aspecto destacado: ^D22808^Jugador retro^oldclr^
+
+[ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION_9]
+Consigue personalizaciones y aspectos cromáticos al participar.
+
+^DB8117^• Aspecto destacado: ^D22808^Bañista alegre^oldclr^
 
 [ACTIVITY_DOUBLE_COINS]
 Cuadriplicador de Monedas activo
@@ -2197,6 +842,18 @@ Mejora los genes de tus plantas para aumentar su poder de combate.
 
 [ADVICE_GET_MORE_STARS]
 ¡Más Estrellas desbloqueadas! ¡Vuelve a jugar niveles para conseguirlas!
+
+[ADVICE_GLADIATOR_ROW_ACTION_INSIDE]
+Las plantas deben formarse en el coliseo
+
+[ADVICE_GLADIATOR_ROW_PLANTS_WIN]
+COLISEO: ¡suministro de Nutrientes!
+
+[ADVICE_GLADIATOR_ROW_WARNING]
+COLISEO: la batalla está por empezar
+
+[ADVICE_GLADIATOR_ROW_ZOMBIES_WIN]
+COLISEO: ¡invasión romana!
 
 [ADVICE_GOTO_ALMANAC]
 ¡Echa un vistazo al almanaque!
@@ -4169,6 +2826,9 @@ Desafío invernal
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_NO42_UNIVERSE]
 1. Disponibilidad
 
+[ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_ROMA]
+1. Disponibilidad
+
 [ANNIVERSARY_KEY_INFO_TEXT_1_UNCHARTED_ZCORP]
 1. Disponibilidad
 
@@ -4199,6 +2859,9 @@ Este evento estará disponible desde el 8 de julio hasta el 16 de agosto de 2024
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_NO42_UNIVERSE]
 Este evento estará disponible desde el 27 de enero hasta el 25 de febrero de 2025
 
+[ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_ROMA]
+Los niveles estarán disponibles una vez se active el evento, salvo los del Modo difícil que se desbloquean dos por día.
+
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_ZCORP]
 Los niveles estarán disponibles una vez se active el evento, salvo los del Modo difícil que se desbloquean dos por día.
 
@@ -4228,6 +2891,9 @@ Los niveles estarán disponibles una vez se active el evento, salvo los del Modo
 
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_NO42_UNIVERSE]
 2. Plantas distorsionadas
+
+[ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_ROMA]
+2. Contenido del nivel
 
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_ZCORP]
 2. Contenido del nivel
@@ -4262,6 +2928,9 @@ Los niveles estarán disponibles una vez se active el evento
 [ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_NO42_UNIVERSE]
 Las plantas tienen efectos diferentes en este mundo y no reciben mejoras adicionales
 
+[ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ROMA]
+La fuerza de los zombis es 3, el número aumenta en el Modo difícil según los objetivos seleccionados.
+
 [ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ZCORP]
 La fuerza de los zombis es 3, el número aumenta en el Modo difícil según los objetivos seleccionados.
 
@@ -4291,6 +2960,9 @@ La fuerza de los zombis es 3, el número aumenta en el Modo difícil según los 
 
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_NO42_UNIVERSE]
 3. Reglas del mundo
+
+[ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_ROMA]
+3. Objetivos del nivel
 
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_ZCORP]
 3. Objetivos del nivel
@@ -4325,6 +2997,9 @@ El Modo difícil se desbloquea al completar el modo normal, y requiera 1 Llave p
 [ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_NO42_UNIVERSE]
 Inicias con 50 soles y 8 semilleros, no puedes usar Artefactos en las partidas.
 
+[ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_ROMA]
+Cada nivel tiene objetivos específicos que se pueden completar para obtener recompensas.
+
 [ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_ZCORP]
 Cada nivel tiene objetivos específicos que se pueden completar para obtener recompensas.
 
@@ -4355,6 +3030,9 @@ Cada nivel tiene objetivos específicos que se pueden completar para obtener rec
 [ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_NO42_UNIVERSE]
 4. Fichas por despeje
 
+[ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_ROMA]
+4. Recompensas por objetivos
+
 [ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_ZCORP]
 4. Recompensas por objetivos
 
@@ -4384,6 +3062,9 @@ Cada nivel tiene objetivos específicos que se pueden completar para obtener rec
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_NO42_UNIVERSE]
 Puedes obtener fichas comunes (hasta 500 por día) o fichas especiales al completar niveles.
+
+[ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ROMA]
+Las recompensas no son repetibles.
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_ZCORP]
 Las recompensas no son repetibles.
@@ -5003,6 +3684,9 @@ Derrota
 
 [ARENA_PLAYER_BANK_TXT_WIN]
 Victoria
+
+[ARENA_TUTORIAL_PLANT_PEASHOOTER]
+Arrastra el Lanzaguisantes al coliseo
 
 [ARE_YOU_SURE]
 ¿Seguro?
@@ -8079,11 +6763,11 @@ Boticaria de guisantes
 Sombrero de flores
 
 [BEANCHEMIST_AVATAR_PLANTFOOD_DESCRIPTION]
-Arroja pociones oscuras al usar Nutrientes, transformando zombis en Lanzaguisantes sombríos.
+Arroja ^A048CF^pociones oscuras^oldclr^ al usar Nutrientes, transformando zombis en Lanzaguisantes sombríos.
 ^D22808^Daño: 3.600^oldclr^
 
 [BEANCHEMIST_DESCRIPTION]
-{KEYWORD}Información de alcance: {STAT}fila al frente
+{KEYWORD}Información de alcance: {STAT}fila
 
 ^397F24^Nutrientes: {STAT}arroja pociones a los zombis más cercanos, transformándolos en Lanzaguisantes o infligiendo daño
 
@@ -8143,16 +6827,16 @@ Arroja pociones para convertir zombis en guisantes
 Brote de frijol
 
 [BEANSPROUT_DESCRIPTION]
-Cuenta con varios grados en Botánica y Relatividad espaciotemporal, por lo que no hay nadie que discuta que Brote de Frijol es un genio. Por eso le resulta tan difícil ver cómo trabaja en la cocina Dave. "No... No... ¿¡¿Por qué estás haciendo eso?!? ¡No cortes los cables rojos!".
+{KEYWORD}Pista: {STAT}plantar otro Brote de frijol en uno ya existente lo convertirá en monstruo.
+
+^397F24^Nutrientes: {STAT}se convierte en monstruo si no lo era y envía enormes ondas de choque tanto por delante como por detrás
+
+^DD7ECB^Características de la planta: {STAT}planta amarilla, destructora
+
+{FLAVOR}Cuenta con varios grados en Botánica y Relatividad espaciotemporal, por lo que no hay nadie que discuta que Brote de Frijol es un genio. Por eso le resulta tan difícil ver cómo trabaja en la cocina Dave. "No... No... ¿¡¿Por qué estás haciendo eso?!? ¡No cortes los cables rojos!".
 
 [BEANSPROUT_DESCRIPTION_HEADER]
 Planta Muro amable con un lado oculto monstruoso. Cuando Brote de frijol sufre demasiado daño, se convierte en un monstruo peleón.
-
-[BEANSPROUT_DESCRIPTION_HINT]
-Plantar otro Brote de frijol en uno ya existente lo convertirá en monstruo.
-
-[BEANSPROUT_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT} se convierte en monstruo si no lo era y envía enormes ondas de choque tanto por delante como por detrás.
 
 [BEANSPROUT_TOOLTIP]
 Planta Muro que se convierte en monstruo cuando sufre daño.
@@ -8278,7 +6962,7 @@ Nivel 2
 
 [BEERCOCONUT_SKILL_LEVEL1_DES]
 ^4DD4DB^Soda burbujeante:^oldclr^ el tiempo de inflado se reduce
- 
+
 [BEERCOCONUT_SKILL_LEVEL2]
 Nivel 3
 
@@ -13344,6 +12028,28 @@ Contenido del lote
 
 3. Debes desbloquear el Atuendo base para poder usar la variación cromática.
 
+[COLORCUSTOMIZATION_DESCRIPTION_8]
+1. Compra paquetes para obtener recompensas, incluidas Aspectos cromáticos.
+
+2. Obtienes una recompensa extra por cada 5 compras.
+
+3. Si ya tienes un Aspecto cromático, este se convierte en Piezas coloridas que pueden canjearse en la Tienda.
+
+4. Las Piezas coloridas expiran al final del evento, ¡úsalas cuanto antes!
+
+^DB8117^• Aspecto destacado: ^D22808^Jugador retro (de Mega Guisantalladora)^oldclr^
+
+[COLORCUSTOMIZATION_DESCRIPTION_9]
+1. Compra paquetes para obtener recompensas, incluidas Aspectos cromáticos.
+
+2. Obtienes una recompensa extra por cada 5 compras.
+
+3. Si ya tienes un Aspecto cromático, este se convierte en Piezas coloridas que pueden canjearse en la Tienda.
+
+4. Las Piezas coloridas expiran al final del evento, ¡úsalas cuanto antes!
+
+^DB8117^• Aspecto destacado: ^D22808^Bañista alegre (de Melonpulta congelada)^oldclr^
+
 [COLORCUSTOMIZATION_DESCRIPTION_TITLE_1]
 SOBRE LOS ASPECTOS CROMÁTICOS
 
@@ -14054,7 +12760,7 @@ Nivel 3
 Nivel 5
 
 [COSMICNUT_SKILL_LEVEL5_DES]
-^DB8117^Salto espacio-temporal:^oldclr^ cuando haya zombis cerca, toca en el agujero negro y toca en una casilla para teleportarlos. 
+^DB8117^Salto espacio-temporal:^oldclr^ cuando haya zombis cerca, toca en el agujero negro y toca en una casilla para teleportarlos.
 
 ^FF0000^Solo se activa una vez, reiniciando la duración del agujero.^oldclr^
 
@@ -14133,6 +12839,76 @@ Nivel 5
 
 [COSMICPEA_TOOLTIP]
 Evoluciona y dispara guisantes que desintegran zombis
+
+[COSMICSAUCER]
+Calabacín cósmico
+
+[COSMICSAUCER_AVATAR_NAME]
+Sombrero de gato
+
+[COSMICSAUCER_AVATAR_PLANTFOOD_DESCRIPTION]
+El número de zombis abducidos aumenta a ^D22808^6^oldclr^
+
+[COSMICSAUCER_DESCRIPTION]
+{KEYWORD}Información de alcance: {STAT}casilla
+{KEYWORD}Uso: {STAT}se activa cuando hay zombis cerca, luego debe descansar
+
+{KEYWORD}Especial: {STAT}anula los efectos de hipergravedad en plantas de un área 3x3
+
+^397F24^Nutrientes: {STAT}abduce a los 3 zombis más cercanos dentro de un área 3x3
+
+^DD7ECB^Características de la planta: {STAT}planta púrpura, cósmica, extraterrestre
+
+{FLAVOR}Calabacín cósmico y Calabacín de platillo son primos lejanos. El primero asegura que la familia siempre ha vivido entre las estrellas. El segundo todavía intenta averiguar cuál de ellas.
+
+[COSMICSAUCER_DESCRIPTION_HEADER]
+Calabacín cósmico pone la gravedad patas arriba, haciendo flotar a los zombis cercanos.
+
+[COSMICSAUCER_NEW_SKILL_LEVEL1_DES]
+Hace flotar zombis y anula la hipergravedad en plantas de un ^D22808^área 3x3^oldclr^
+^FF9600^Gravedad cero: dura 4 s^oldclr^
+
+[COSMICSAUCER_NEW_SKILL_LEVEL2_DES]
+Abduce zombis con ^D22808^1.000^oldclr^ puntos de salud o menos.
+^FF8000^Reduce el tiempo de recuperación en ^D22808^2 s (ahora 12 s)^oldclr^
+
+[COSMICSAUCER_NEW_SKILL_LEVEL3_DES]
+Abduce zombis con ^D22808^2.000^oldclr^ puntos de salud o menos.
+^FF8000^Reduce el tiempo de recuperación en ^D22808^4 s (ahora 10 s)^oldclr^
+
+[COSMICSAUCER_NEW_SKILL_LEVEL4_DES]
+Despertar: ^D22808^50 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
+^DB8117^Nutrientes: adduce a los ^D22808^3 ^DB8117^zombis más cercanos dentro de un ^D22808^área 3x3^oldclr^
+
+[COSMICSAUCER_NEW_SKILL_LEVEL5_DES]
+^D22808^20 % de probabilidad^oldclr^ de hipnotizar a los zombis levitados una vez aterricen.
+
+[COSMICSAUCER_PLANTFOOD_DESCRIPTION]
+Adduce a los 3 zombis más cercanos dentro de un área 3x3
+
+[COSMICSAUCER_PRODUCT_SHORT_DESC]
+Hace flotar zombis y anula la hipergravedad cercana
+
+[COSMICSAUCER_SKILL_LEVEL1]
+Nivel 2
+
+[COSMICSAUCER_SKILL_LEVEL1_DES]
+^4DD4DB^Secuestro cósmico:^oldclr^ captura a los zombis con salud baja; reduce el tiempo de descanso en 2 s
+
+[COSMICSAUCER_SKILL_LEVEL2]
+Nivel 3
+
+[COSMICSAUCER_SKILL_LEVEL2_DES]
+^DD7ECB^Captor experimentado:^oldclr^ mejora los efectos del Nvl. 2 al doble
+
+[COSMICSAUCER_SKILL_LEVEL5]
+Nivel 5
+
+[COSMICSAUCER_SKILL_LEVEL5_DES]
+^DB8117^Rayo alucinógeno:^oldclr^ probabilidad de hipnotizar a los zombis levitados una vez aterricen
+
+[COSMICSAUCER_TOOLTIP]
+Hace flotar zombis y anula la hipergravedad cercana
 
 [COSMOSS]
 Cosmoss
@@ -14719,6 +13495,9 @@ Director de arte
 [CREDTIS_CHINA_ARTIST]
 Arte
 
+[CREDTIS_CHINA_ASSOCIATEPRODUCER]
+Asistente de producción
+
 [CREDTIS_CHINA_BD]
 Desarrollo de negocios
 
@@ -14767,6 +13546,9 @@ Marketing
 [CREDTIS_CHINA_MT]
 Marketing
 
+[CREDTIS_CHINA_MT_MANAGER]
+Director de Marketing
+
 [CREDTIS_CHINA_PM]
 Gerente del producto
 
@@ -14784,6 +13566,12 @@ Gestor de control de calidad
 
 [CREDTIS_CHINA_SENIOR_PM]
 Gerente de producto sénior
+
+[CREDTIS_CHINA_SERVERDEVELOPMENTDIRECTOR]
+Director de desarrollo de servidores
+
+[CREDTIS_CHINA_SERVERENGINEER]
+Ingeniero de servidores
 
 [CREDTIS_CHINA_SP]
 Servicio de atención al cliente
@@ -17249,686 +16037,11 @@ Tiempo estimado: 3 s
 [DEFAULT_LEVEL_COMPLETE_HEADER]
 ¡Nivel completado!
 
-[DEFAULT_SEASON_NAME]
-¡Supermegatemporada!
-
-[DEFEAT_8BIT_REPEATABLE_DESC]
-¡Están gráficamente por debajo!
-
-[DEFEAT_8BIT_REPEATABLE_TITLE]
-¡Derrota a los Zombis 8-bit!
-
-[DEFEAT_ALLSTAR_REPEATABLE_DESC]
-¡Su espíritu de equipo es demasiado abrumador!
-
-[DEFEAT_ALLSTAR_REPEATABLE_TITLE]
-¡Derrota a los zombis All-Star!
-
-[DEFEAT_ARCADE_REPEATABLE_DESC]
-¿Jugadores dentro de un juego? ¡Demasiado meta!
-
-[DEFEAT_ARCADE_REPEATABLE_TITLE]
-¡Derrota a los Zombis de los recreativos!
-
-[DEFEAT_BALLOON_REPEATABLE_DESC]
-¡Sus globos son fastidiosamente resistentes!
-
-[DEFEAT_BALLOON_REPEATABLE_TITLE]
-¡Derrota a los zombis con globo!
-
-[DEFEAT_BARREL_ROLLER_REPEATABLE_DESC]
-¡Los toneles son para guardar cosas, no para espachurrar plantas!
-
-[DEFEAT_BARREL_ROLLER_REPEATABLE_TITLE]
-¡Derrota a los Zombis toneleros!
-
-[DEFEAT_BASICS_REPEATABLE_DESC]
-¡Es hora de volver a lo básico y repeler la horda zombi!
-
-[DEFEAT_BASICS_REPEATABLE_TITLE]
-¡Derrota a los Zombis básicos!
-
-[DEFEAT_BEACH_BASICS_SCHEDULED_DESC]
-¡Sus tupés y bikinis serán elegantes, pero comen cerebros igualmente!
-
-[DEFEAT_BEACH_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis básicos de la Playa de la gran ola!
-
-[DEFEAT_BEACH_BUCKETHEAD_SCHEDULED_DESC]
-Enséñale a esos zombis que los cubos son para hacer castillos de arena.
-
-[DEFEAT_BEACH_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caracubos playeros!
-
-[DEFEAT_BEACH_CONEHEAD_SCHEDULED_DESC]
-¡Hay que darles una lección a esos payasos playeros!
-
-[DEFEAT_BEACH_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caraconos playeros!
-
-[DEFEAT_BEACH_GARGANTUAR_REPEATABLE_DESC]
-¡Son zombis, pero parecen cangrejos extraños! ¡Puaj!
-
-[DEFEAT_BEACH_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombisteins de las profundidades!
-
-[DEFEAT_BEACH_IMP_SCHEDULED_DESC]
-Mitad pez, mitad Zombidito. Totalmente asqueroso.
-
-[DEFEAT_BEACH_IMP_SCHEDULED_TITLE]
-¡Derrota a los Zombiditos sirena!
-
-[DEFEAT_BLOCKHEAD_REPEATABLE_DESC]
-¡Sus cascos son demasiado geométricos!
-
-[DEFEAT_BLOCKHEAD_REPEATABLE_TITLE]
-¡Derrota a los Zombis carabloque!
-
-[DEFEAT_BOOMBOX_REPEATABLE_DESC]
-¡Sus emociones son demasiado crudas y honestas!
-
-[DEFEAT_BOOMBOX_REPEATABLE_TITLE]
-¡Derrota a los Zombis radiocaseteros!
-
-[DEFEAT_BREAKDANCER_REPEATABLE_DESC]
-¡Sus movimientos aéreos son intolerables!
-
-[DEFEAT_BREAKDANCER_REPEATABLE_TITLE]
-¡Derrota a los Zombis breakdancer!
-
-[DEFEAT_BUCKETS_REPEATABLE_DESC]
-¡Hora de darle en toda la cara a estos zombis!
-
-[DEFEAT_BUCKETS_REPEATABLE_TITLE]
-¡Derrota a los Zombis caracubo!
-
-[DEFEAT_BUG_REPEATABLE_DESC]
-¡La simbiosis zombi con bicho da mucho repelús!
-
-[DEFEAT_BUG_REPEATABLE_TITLE]
-¡Derrota a los Zombichos!
-
-[DEFEAT_BULLRIDER_REPEATABLE_DESC]
-¡Parecen toros, pero son robots! ¡A POR ELLOS!
-
-[DEFEAT_BULLRIDER_REPEATABLE_TITLE]
-¡Derrota a los Zombis toro!
-
-[DEFEAT_BULLY_REPEATABLE_DESC]
-¡Los huesos en las barbas están cuestionablemente de moda!
-
-[DEFEAT_BULLY_REPEATABLE_TITLE]
-¡Derrota a los Zombis matones!
-
-[DEFEAT_CAESAR_X_TIMES]
-Derrota al César {NUMBER} veces.
-
-[DEFEAT_CAMEL_REPEATABLE_DESC]
-Ese camello no engaña a nadie. ¡Demuéstrales a los zombis que no se pueden esconder de ti!
-
-[DEFEAT_CAMEL_REPEATABLE_TITLE]
-¡Derrota a los Zombis camello!
-
 [DEFEAT_CARDIO_X_TIMES]
-Derrota a Cardio {NUMBER} veces.
-
-[DEFEAT_CHICKEN_FARMER_REPEATABLE_DESC]
-¡Se hicieron con demasiadas gallinas!
-
-[DEFEAT_CHICKEN_FARMER_REPEATABLE_TITLE]
-¡Derrota a los Zombis gallineros!
-
-[DEFEAT_CONES_REPEATABLE_DESC]
-¡Practica la seguridad vial jardinera acabando con Zombis caracono!
-
-[DEFEAT_CONES_REPEATABLE_TITLE]
-¡Derrota a los Zombis caracono!
-
-[DEFEAT_COWBOY_BASICS_SCHEDULED_DESC]
-¡Estos vaqueros necrófagos con botas necesitan un repaso de la ley del oeste!
-
-[DEFEAT_COWBOY_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis básicos del Salvaje Oeste!
-
-[DEFEAT_COWBOY_BUCKETHEAD_SCHEDULED_DESC]
-¡En mis tiempos, los cubos se usaban para estercolar!
-
-[DEFEAT_COWBOY_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Cowboys caracubo!
-
-[DEFEAT_COWBOY_CONEHEAD_SCHEDULED_DESC]
-¡Envía a la cárcel a estos vaqueros con conos!
-
-[DEFEAT_COWBOY_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Cowboys caracono!
-
-[DEFEAT_CRYSTALSKULL_REPEATABLE_DESC]
-¡Esas calaveras extrañas no deberían poder hacer lo que hacen!
-
-[DEFEAT_CRYSTALSKULL_REPEATABLE_TITLE]
-¡Derrota a los Zombis calavera turquesa!
-
-[DEFEAT_DARK_BASICS_SCHEDULED_DESC]
-¡Es su destino, son campesinos!
-
-[DEFEAT_DARK_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis campesinos!
-
-[DEFEAT_DARK_BUCKETHEAD_SCHEDULED_DESC]
-¡Con ese equipo de segunda jamás llegarán a ser caballeros!
-
-[DEFEAT_DARK_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Campesinos caracubo!
-
-[DEFEAT_DARK_CONEHEAD_SCHEDULED_DESC]
-¡La resistencia es feudal!
-
-[DEFEAT_DARK_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Campesinos caracono!
-
-[DEFEAT_DARK_GARGANTUAR_REPEATABLE_DESC]
-¡Esos martillos gigantes son toscos y efectivos!
-
-[DEFEAT_DARK_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombistein de la Edad Oscura!
-
-[DEFEAT_DARK_IMP_SCHEDULED_DESC]
-¡Esos monjes no son nada intensos! Excepto su olor.
-
-[DEFEAT_DARK_IMP_SCHEDULED_TITLE]
-¡Derrota a los Zombiditos monje!
-
-[DEFEAT_DINO_BASICS_SCHEDULED_DESC]
-¡Sus trajes están pasados de moda!
-
-[DEFEAT_DINO_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis del Pantano del jurásico!
-
-[DEFEAT_DINO_BUCKETHEAD_SCHEDULED_DESC]
-Uf. Cubos malos. ¡Aplastar cubos!
-
-[DEFEAT_DINO_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caracubos jurásicos!
-
-[DEFEAT_DINO_CONEHEAD_SCHEDULED_DESC]
-Zombi gustar cono. Tú no zombi. ¡Aplastar cono!
-
-[DEFEAT_DINO_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caraconos jurásicos!
-
-[DEFEAT_DINO_GARGANTUAR_REPEATABLE_DESC]
-¡Los palos de hueso no tienen punta ninguna!
-
-[DEFEAT_DINO_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombisteins jurásicos!
-
-[DEFEAT_DINO_IMP_REPEATABLE_DESC]
-¡Sus risitas malignas son superinquietantes!
-
-[DEFEAT_DINO_IMP_REPEATABLE_TITLE]
-¡Derrota a los Zombiditos jurásicos!
-
-[DEFEAT_DISCO_MECH_REPEATABLE_DESC]
-¡Sus ritmos de discoteca de los 70 no cuadran en el futuro lejano!
-
-[DEFEAT_DISCO_MECH_REPEATABLE_TITLE]
-¡Derrota a los Zombis Discotrón 3000!
-
-[DEFEAT_DODO_REPEATABLE_DESC]
-¿Quién iba a decir que los dodos iban a ser tan asquerosos?
-
-[DEFEAT_DODO_REPEATABLE_TITLE]
-¡Derrota a los Zombis jinetes de dodo!
-
-[DEFEAT_EGYPT_BASICS_SCHEDULED_DESC]
-No importa que lleven conos, cubos o la cabeza al descubierto. ¡Estas bestias vendadas deben desaparecer!
-
-[DEFEAT_EGYPT_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis básicos del Antiguo Egipto!
-
-[DEFEAT_EGYPT_BUCKETHEAD_SCHEDULED_DESC]
-¡Esas portadoras de cubos tienen aplastar arena!
-
-[DEFEAT_EGYPT_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a las Momias caracubo!
-
-[DEFEAT_EGYPT_CONEHEAD_SCHEDULED_DESC]
-¿Acaso no tienen una pirámide que construir?
-
-[DEFEAT_EGYPT_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a las Momias caracono!
-
-[DEFEAT_EGYPT_GARGANTUAR_REPEATABLE_DESC]
-¡Enróllate y encárgate de algunos Zombisteins momificados!
-
-[DEFEAT_EGYPT_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombisteins momificados!
-
-[DEFEAT_EIGHTIES_BASICS_SCHEDULED_DESC]
-¡Gruñen y hablan sobre grupos oscuros!
-
-[DEFEAT_EIGHTIES_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis básicos de Vueltacasete de neón!
-
-[DEFEAT_EIGHTIES_BUCKETHEAD_SCHEDULED_DESC]
-¡No saben lo que es el metal del bueno!
-
-[DEFEAT_EIGHTIES_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caracubos neón!
-
-[DEFEAT_EIGHTIES_CONEHEAD_SCHEDULED_DESC]
-Su cono de tráfico y el look vaquero está PASADO de moda.
-
-[DEFEAT_EIGHTIES_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caraconos neón!
-
-[DEFEAT_EIGHTIES_GARGANTUAR_REPEATABLE_DESC]
-¡Necesitan aprender al menos dos acordes!
-
-[DEFEAT_EIGHTIES_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombisteins melena del metal!
-
-[DEFEAT_EXCAVATOR_REPEATABLE_DESC]
-¡Las palas no deberían ser tan efectivas! ¡Castígalas!
-
-[DEFEAT_EXCAVATOR_REPEATABLE_TITLE]
-¡Derrota a los Zombis excavadores!
-
-[DEFEAT_EXPANSION_RANDOM_LEVEL_REPEATABLE_DESC]
-¡Usa las plantas a las que subiste su nivel para enfrentarte a zombis veteranos superfuertes en niveles expertos! Advertencia: ¡puede ser muy tenso!
-
-[DEFEAT_EXPANSION_RANDOM_LEVEL_REPEATABLE_TITLE]
-¡Juega en los niveles severos del Mundo!
-
-[DEFEAT_EXPLORER_REPEATABLE_DESC]
-Alguien tiene que enseñar a esos zombis que jugar con fuego es peligroso. ¡Tú te encargas!
-
-[DEFEAT_EXPLORER_REPEATABLE_TITLE]
-¡Derrota a los Zombis exploradores!
-
-[DEFEAT_FISHERMAN_REPEATABLE_DESC]
-En serio. Estos tipos. Tienen que irse.
-
-[DEFEAT_FISHERMAN_REPEATABLE_TITLE]
-¡Derrota a los Zombis pescadores!
-
-[DEFEAT_FOOTBALL_MECH_REPEATABLE_DESC]
-Pero ¿cómo se atreven a empujar a las plantas así como así?
-
-[DEFEAT_FOOTBALL_MECH_REPEATABLE_TITLE]
-¡Derrota a los Zombis mecanizados de football!
-
-[DEFEAT_FOSSILHEAD_REPEATABLE_DESC]
-¡Una calavera en la cabeza ya son demasiadas calaveras!
-
-[DEFEAT_FOSSILHEAD_REPEATABLE_TITLE]
-¡Derrota a los Zombis Carafósil!
-
-[DEFEAT_FUTURE_BASICS_SCHEDULED_DESC]
-¡Visten monos brillantes y tienen las peores intenciones carnívoras!
-
-[DEFEAT_FUTURE_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis básicos del Futuro lejano!
-
-[DEFEAT_FUTURE_BUCKETHEAD_SCHEDULED_DESC]
-¡Exterminar! ¡Exterminar!
-
-[DEFEAT_FUTURE_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caracubos futuros!
-
-[DEFEAT_FUTURE_CONEHEAD_SCHEDULED_DESC]
-De todos modos, tienen que actualizarse a zCono 7.
-
-[DEFEAT_FUTURE_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caraconos futuros!
-
-[DEFEAT_FUTURE_GARGANTUAR_REPEATABLE_DESC]
-¡Tienen postes telefónicos en lugar de brazos! ¡POSTES TELEFÓNICOS!
-
-[DEFEAT_FUTURE_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombisteins prime!
-
-[DEFEAT_FUTURE_IMP_REPEATABLE_DESC]
-¡Corren por todas partes sobre terroríficas arañas mecánicas en miniatura! ¡Brrr!
-
-[DEFEAT_FUTURE_IMP_REPEATABLE_TITLE]
-¡Derrota a los Zombiditos deI Futuro lejano!
-
-[DEFEAT_GARGANTUARS_REPEATABLE_DESC]
-¡Enfréntate a los tipos grandes derrotando a algunos Zombisteins!
-
-[DEFEAT_GARGANTUARS_REPEATABLE_TITLE]
-¡Derrota a los Zombisteins!
+Derrota {NUMBER} Zombis cardio
 
 [DEFEAT_GENERAL_X_TIMES]
-Derrota a {ZOMBIE} {NUMBER} veces.
-
-[DEFEAT_GLITTER_REPEATABLE_DESC]
-¡Además, los patines son más propios de los 70!
-
-[DEFEAT_GLITTER_REPEATABLE_TITLE]
-¡Derrota a los Zombis purpurina!
-
-[DEFEAT_HUNTER_REPEATABLE_DESC]
-¡Porque las bolas de nieve son un instrumento de caza ridículo!
-
-[DEFEAT_HUNTER_REPEATABLE_TITLE]
-¡Derrota a los Zombis cazadores!
-
-[DEFEAT_ICEAGE_BASICS_SCHEDULED_DESC]
-¡No tienen sofisticación tecnológica alguna! ¡Castígalos por ello!
-
-[DEFEAT_ICEAGE_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis básicos de Las Cuevas congeladas!
-
-[DEFEAT_ICEAGE_BUCKETHEAD_SCHEDULED_DESC]
-Sabía que existían los cubos de hielo, pero ¡esto es ridículo!
-
-[DEFEAT_ICEAGE_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caracubos cavernarios!
-
-[DEFEAT_ICEAGE_CONEHEAD_SCHEDULED_DESC]
-¡No son más que callejones evolutivos sin salida!
-
-[DEFEAT_ICEAGE_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caraconos cavernarios!
-
-[DEFEAT_ICEAGE_GARGANTUAR_REPEATABLE_DESC]
-¡Esos tarugos no tienen la decencia de ser perezosos!
-
-[DEFEAT_ICEAGE_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombisteins perezosos!
-
-[DEFEAT_ICEAGE_IMP_SCHEDULED_DESC]
-Por desgracia, estos Yetis no están en peligro de extinción.
-
-[DEFEAT_ICEAGE_IMP_SCHEDULED_TITLE]
-¡Derrota a los Zombiditos Yeti!
-
-[DEFEAT_IMPPORTER_REPEATABLE_DESC]
-Pero ¿cómo meten tantos zombis ahí dentro? ¡Es increíble!
-
-[DEFEAT_IMPPORTER_REPEATABLE_TITLE]
-¡Derrota a los Zombiditos porteadores!
-
-[DEFEAT_IMPS_REPEATABLE_DESC]
-Estas cosas son extrañas. ¡Deshazte de ellas!
-
-[DEFEAT_IMPS_REPEATABLE_TITLE]
-¡Derrota a los Zombiditos!
-
-[DEFEAT_IMPUNK_REPEATABLE_DESC]
-¿Zombis diminutos con cresta? ¡Brrrrrr!
-
-[DEFEAT_IMPUNK_REPEATABLE_TITLE]
-¡Derrota a los Zombiditos punk!
-
-[DEFEAT_JETPACK_REPEATABLE_DESC]
-¿Por qué tienen mochilas propulsoras? ¡Es injusto!
-
-[DEFEAT_JETPACK_REPEATABLE_TITLE]
-¡Derrota a los Zombis propulsados!
-
-[DEFEAT_JUGGLER_REPEATABLE_DESC]
-¡No hacen más que robar las ocurrencias de los otros zombis más graciosos!
-
-[DEFEAT_JUGGLER_REPEATABLE_TITLE]
-¡Derrota a los Zombis bufones!
-
-[DEFEAT_KING_REPEATABLE_DESC]
-¡Quieren gobernar sin el consentimiento de los gobernados!
-
-[DEFEAT_KING_REPEATABLE_TITLE]
-¡Derrota a los Reyes zombi!
-
-[DEFEAT_KNIGHT_REPEATABLE_DESC]
-¡Trabajan demasiado para proteger un sistema feudal regresivo!
-
-[DEFEAT_KNIGHT_REPEATABLE_TITLE]
-¡Derrota a los Zombis caballeros!
-
-[DEFEAT_LOSTCITY_BASICS_SCHEDULED_DESC]
-¡Sus esfuerzos exploratorios son bastante cuestionables!
-
-[DEFEAT_LOSTCITY_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis básicos de la Ciudad perdida!
-
-[DEFEAT_LOSTCITY_BUCKETHEAD_SCHEDULED_DESC]
-Cubos. ¿Por qué tenían que ser cubos?
-
-[DEFEAT_LOSTCITY_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Aventureros caracubo!
-
-[DEFEAT_LOSTCITY_CONEHEAD_SCHEDULED_DESC]
-Da igual lo impresionante que sea su bigote. ¡Tienen que irse!
-
-[DEFEAT_LOSTCITY_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Aventureros caracono!
-
-[DEFEAT_LOSTCITY_GARGANTUAR_REPEATABLE_DESC]
-¡Cargan con demasiadas cosas!
-
-[DEFEAT_LOSTCITY_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombistein porteadores!
-
-[DEFEAT_LOSTCITY_IMP_SCHEDULED_DESC]
-¡Sus cascos son coloniales!
-
-[DEFEAT_LOSTCITY_IMP_SCHEDULED_TITLE]
-¡Derrota a los Zombiditos de la Ciudad perdida!
-
-[DEFEAT_LOST_PILOT_REPEATABLE_DESC]
-¡Nadie debió darles el carnet de piloto!
-
-[DEFEAT_LOST_PILOT_REPEATABLE_TITLE]
-¡Derrota a los Zombis piloto perdido!
-
-[DEFEAT_MCZOMBIE_REPEATABLE_DESC]
-¡Cómo se atreven a girar sus micros así!
-
-[DEFEAT_MCZOMBIE_REPEATABLE_TITLE]
-¡Derrota a los Zombis MC Zomb B!
-
-[DEFEAT_MECH_CONE_REPEATABLE_DESC]
-¡Los Zombis robocono son demasiado cilíndricos! ¡Deberían prohibirlos!
-
-[DEFEAT_MECH_CONE_REPEATABLE_TITLE]
-¡Derrota a los Zombis robocono!
-
-[DEFEAT_MODERN_BASICS_SCHEDULED_DESC]
-¡No se deben consentir sus delitos contemporáneos!
-
-[DEFEAT_MODERN_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis básicos de los Tiempos modernos!
-
-[DEFEAT_MODERN_BUCKETHEAD_SCHEDULED_DESC]
-Dales fuerte en el... bueno, donde tú sabes.
-
-[DEFEAT_MODERN_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caracubos de los Tiempos modernos!
-
-[DEFEAT_MODERN_CONEHEAD_SCHEDULED_DESC]
-El cono de tráfico es un look zombi que no pasa de moda. Pero tú no eres uno de ellos, ¡así que acaba con ellos!
-
-[DEFEAT_MODERN_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Caraconos de los Tiempos modernos!
-
-[DEFEAT_MODERN_GARGANTUAR_SCHEDULED_DESC]
-Son tan blandos como grandes. Que se enteren bien de ello.
-
-[DEFEAT_MODERN_GARGANTUAR_SCHEDULED_TITLE]
-¡Derrota a los Zombisteins de los Tiempos modernos!
-
-[DEFEAT_NEWSPAPER_REPEATABLE_DESC]
-¡Ya tiraron las tiras cómicas!
-
-[DEFEAT_NEWSPAPER_REPEATABLE_TITLE]
-¡Derrota a los zombis lectores!
-
-[DEFEAT_OCTOPUS_REPEATABLE_DESC]
-¡Esclavizar pulpos con objetivos zombi no está nada bien!
-
-[DEFEAT_OCTOPUS_REPEATABLE_TITLE]
-¡Derrota a los Pulpozombis!
-
-[DEFEAT_PARASOL_REPEATABLE_DESC]
-¡Esos parasoles son demasiado elegantes y caros!
-
-[DEFEAT_PARASOL_REPEATABLE_TITLE]
-¡Derrota a las Zombis parasol!
-
-[DEFEAT_PHARAOH_REPEATABLE_DESC]
-Esos Zombis faraón piensan que mandan, ¡pero jamás te derrotarán en un duelo!
-
-[DEFEAT_PHARAOH_REPEATABLE_TITLE]
-¡Derrota a los Zombis faraón!
-
-[DEFEAT_PIANO_REPEATABLE_DESC]
-¡No son capaces de leer pentagramas!
-
-[DEFEAT_PIANO_REPEATABLE_TITLE]
-¡Derrota a los Zombis pianistas!
-
-[DEFEAT_PIRATE_BASICS_SCHEDULED_DESC]
-¡Enséñales lo que es bueno a estos seres tan malvados y groseros!
-
-[DEFEAT_PIRATE_BASICS_SCHEDULED_TITLE]
-¡Derrota a los Zombis básicos de los Mares piratas!
-
-[DEFEAT_PIRATE_BUCKETHEAD_SCHEDULED_DESC]
-¡Friega la cubierta con sus cascos rebosantes!
-
-[DEFEAT_PIRATE_BUCKETHEAD_SCHEDULED_TITLE]
-¡Derrota a los Piratas caracubo!
-
-[DEFEAT_PIRATE_CAPTAIN_REPEATABLE_DESC]
-¡Hazlo antes de que muten a Zombis almirante!
-
-[DEFEAT_PIRATE_CAPTAIN_REPEATABLE_TITLE]
-¡Derrota a los Zombis capitán pirata!
-
-[DEFEAT_PIRATE_CONEHEAD_SCHEDULED_DESC]
-¡Marca una equis con sus tibias!
-
-[DEFEAT_PIRATE_CONEHEAD_SCHEDULED_TITLE]
-¡Derrota a los Piratas caracono!
-
-[DEFEAT_PIRATE_GARGANTUAR_REPEATABLE_DESC]
-¡Son demasiado grandes!
-
-[DEFEAT_PIRATE_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombisteins pirata!
-
-[DEFEAT_PIRATE_GARGANTUAR_TITLE]
-¡Derrota al Zombistein pirata!
-
-[DEFEAT_PIRATE_IMP_SCHEDULED_DESC]
-¡Estos artificieros no son más que carne de cañón!
-
-[DEFEAT_PIRATE_IMP_SCHEDULED_TITLE]
-¡Derrota a los Zombiditos pirata!
-
-[DEFEAT_PONCHO_REPEATABLE_DESC]
-¿Qué esconden bajo sus ponchos? ¡Es imposible saberlo!
-
-[DEFEAT_PONCHO_REPEATABLE_TITLE]
-¡Derrota a los Zombis poncho!
-
-[DEFEAT_PROSPECTOR_REPEATABLE_DESC]
-¡Y ya de paso acaba con sus bigotes de buscador de oro!
-
-[DEFEAT_PROSPECTOR_REPEATABLE_TITLE]
-¡Derrota a los Zombis buscadores de oro!
-
-[DEFEAT_PROTECTOR_REPEATABLE_DESC]
-¡Los P.E.Melocotonéticos acaban con estos horrores tecnológicos!
-
-[DEFEAT_PROTECTOR_REPEATABLE_TITLE]
-¡Derrota a los Zombis escudo!
-
-[DEFEAT_PUNK_REPEATABLE_DESC]
-¡Sus chaquetas y botas tienen demasiados pinchos!
-
-[DEFEAT_PUNK_REPEATABLE_TITLE]
-¡Derrota a los Zombis punk!
-
-[DEFEAT_RA_REPEATABLE_DESC]
-Los Zombis Ra salieron a arrebatarte el sol. ¡Llegó la hora de conseguir que sean historia!
-
-[DEFEAT_RA_REPEATABLE_TITLE]
-¡Derrota a los Zombis Ra!
-
-[DEFEAT_RELICHUNTER_REPEATABLE_DESC]
-¡Enséñales que es mejor dejar las reliquias donde están!
-
-[DEFEAT_RELICHUNTER_REPEATABLE_TITLE]
-¡Derrota a los Zombis cazadores de reliquias!
-
-[DEFEAT_SEAGULL_REPEATABLE_DESC]
-Pero ¿cómo puede una gaviota tan pequeña llevar a un zombi? ¡Es absurdo!
-
-[DEFEAT_SEAGULL_REPEATABLE_TITLE]
-¡Derrota a los Zombis gavioteros!
-
-[DEFEAT_SNORKEL_REPEATABLE_DESC]
-¡Llevan instrumentos para respirar que no necesitan!
-
-[DEFEAT_SNORKEL_REPEATABLE_TITLE]
-¡Derrota a los Zombis buzo!
-
-[DEFEAT_SUPERFAN_IMP_REPEATABLE_DESC]
-¡Porque sí!
-
-[DEFEAT_SUPERFAN_IMP_REPEATABLE_TITLE]
-¡Derrota a los Zombiditos superfans!
-
-[DEFEAT_SURFER_REPEATABLE_DESC]
-¡Malgastan una educación superior perfectamente buena!
-
-[DEFEAT_SURFER_REPEATABLE_TITLE]
-¡Derrota a los Zombis surferos!
-
-[DEFEAT_SWASHBUCKLER_REPEATABLE_DESC]
-¿Quiénes se piensan que son, espadachineando de esa forma?
-
-[DEFEAT_SWASHBUCKLER_REPEATABLE_TITLE]
-¡Derrota a los Zombis espadachines!
-
-[DEFEAT_TOMB_RAISER_REPEATABLE_DESC]
-¡Llegó la hora de que estos Zombis levantatumbas aprendan que cometieron un grave error al meterse contigo!
-
-[DEFEAT_TOMB_RAISER_REPEATABLE_TITLE]
-¡Derrota a los Zombis levantatumbas!
-
-[DEFEAT_TREASURE_YETI_REPEATABLE_DESC]
-¿Qué secretos esconde la tartera? ¡Solo hay una manera de saberlo!
-
-[DEFEAT_TREASURE_YETI_REPEATABLE_TITLE]
-¡Derrota a Yeti del tesoro!
-
-[DEFEAT_TROGLOBITE_REPEATABLE_DESC]
-Se pasan de la raya con ese truco de empujar bloques de hielo.
-
-[DEFEAT_TROGLOBITE_REPEATABLE_TITLE]
-¡Derrota a los Zombis troglobocado!
-
-[DEFEAT_WEASELHOARDER_REPEATABLE_DESC]
-Pero ¿quién guarda comadrejas en un tronco? ¿¿QUIÉN??
-
-[DEFEAT_WEASELHOARDER_REPEATABLE_TITLE]
-¡Derrota a las Zombis comadrejeras!
-
-[DEFEAT_WEST_GARGANTUAR_REPEATABLE_DESC]
-¡Acaba con ellos antes de que ellos acaben contigo!
-
-[DEFEAT_WEST_GARGANTUAR_REPEATABLE_TITLE]
-¡Derrota a los Zombisteins del Salvaje Oeste!
-
-[DEFEAT_WIZARD_REPEATABLE_DESC]
-¡Tómate en serio sus poderes oscuros de transformación!
-
-[DEFEAT_WIZARD_REPEATABLE_TITLE]
-¡Derrota a los Zombis mago!
+Derrotar: {ZOMBIE} x{NUMBER}
 
 [DEFEAT_X_ATLANTIS]
 Derrota a {NUMBER} Zombis marinos.
@@ -17940,7 +16053,7 @@ Derrota a {NUMBER} Zombisteins atlantes.
 Derrota a {NUMBER} Zombis atlantes.
 
 [DEFEAT_X_BALLISTA]
-Derrotar a {NUMBER} Zombi (s) ezcorpión (es).
+Derrotar: Zombi ezcorpión x{NUMBER}
 
 [DEFEAT_X_CHICKENS]
 Derrota a {NUMBER} Gallinas.
@@ -17949,10 +16062,10 @@ Derrota a {NUMBER} Gallinas.
 Derrota a {NUMBER} Consultoras de ZCorp.
 
 [DEFEAT_X_DANCERS]
-Derrota a {NUMBER} Zombis bailones.
+Derrota {NUMBER} Zombis bailones
 
 [DEFEAT_X_DISCOS]
-Derrota a {NUMBER} Zombis bailones
+Derrota {NUMBER} Disco mechs
 
 [DEFEAT_X_ENDLESSWEALTH]
 Derrota al Dios de las Riquezas {NUMBER} veces
@@ -19498,6 +17611,18 @@ Nivel 5
 [EAGLECLAW_TOOLTIP]
 Concentra bolas de rayos que infligen daño constante
 
+[EAGLE_FLAG_ARRIVAL]
+Bandera gloriosa
+
+[EAGLE_FLAG_ARRIVAL_DIFFICULTY_1_DESCRIPTION]
+Se genera 1 bandera de águila en los espacios vacíos de las columnas 8 y 9
+
+[EAGLE_FLAG_ARRIVAL_DIFFICULTY_2_DESCRIPTION]
+Se genera 3 bandera de águila en los espacios vacíos de las columnas 8 y 9
+
+[EAGLE_FLAG_ARRIVAL_DIFFICULTY_3_DESCRIPTION]
+Se genera 5 bandera de águila en los espacios vacíos de las columnas 8 y 9
+
 [EGGPLANTNINJA]
 Berenjena ninja
 
@@ -21015,6 +19140,9 @@ Tras explotar, vuela por los aires, cayendo en una casilla aleatoria y detonando
 [EXPLODEONUT_PLANTFOOD_DESCRIPTION]
 Se cura y gana una armadura que explota si se destruye
 
+[EXPLODEONUT_PRODUCT_SHORT_DESC]
+Explota cuando se la comen
+
 [EXPLODEONUT_SKILL_LEVEL1]
 Nivel 2
 
@@ -21032,9 +19160,6 @@ Nivel 5
 
 [EXPLODEONUT_SKILL_LEVEL5_DES]
 ^DB8117^Ira explosiva:^oldclr^ tras explotar, vuela por los aires, cayendo en una casilla aleatoria y detonando por segunda vez
-
-[EXPLODEONUT_PRODUCT_SHORT_DESC]
-Explota cuando se la comen
 
 [EXPLODEONUT_TOOLTIP]
 Explota cuando se la comen
@@ -23852,6 +21977,9 @@ Tiempo de recuperación -{Param_1}%
 [GENE_DESCRIPTION_HOTDATE]
 Recarga rápida +{Param_1}%
 
+[GENE_DESCRIPTION_HOYACORDATA]
+Probabilidad del bis +{Param_1}%
+
 [GENE_DESCRIPTION_HURRIKALE]
 Recarga rápida +{Param_1}%
 
@@ -23936,11 +22064,20 @@ Al Nvl. 5: {Param_1}% más probabilidad de disparar bayas moradas
 [GENE_DESCRIPTION_NEKOTAIL]
 Los pinchos tienen un {Param_1}% de atravesar zombis
 
+[GENE_DESCRIPTION_OAKSHOOTER]
+Daño +{Param_1}%
+
 [GENE_DESCRIPTION_OLIVEPIT]
 Reduce el tiempo de digestión en {Param_1} s
 
+[GENE_DESCRIPTION_OXYGENALGAE]
+Efectos del Nvl. 2 +{Param_1}%
+
 [GENE_DESCRIPTION_PAMEGRANATE]
 Vel. de ataque +{Param_1}%
+
+[GENE_DESCRIPTION_PASSIONFLOWER]
+Duración del ataque +{Param_1}%
 
 [GENE_DESCRIPTION_PEACH]
 El escudo del efecto dura {Param_1} s más
@@ -24583,6 +22720,15 @@ Participantes: {NUMBER}
 [GINGLEBELL_RANK]
 Rango: {NUMBER}
 
+[GINGLEBELL_RANK1_TEXT]
+Top 1%
+
+[GINGLEBELL_RANK2_TEXT]
+Top 10%
+
+[GINGLEBELL_RANK3_TEXT]
+Top 20%
+
 [GINGLEBELL_RANK_DAMAGE_TEXT]
 Daño acumulado
 
@@ -24654,6 +22800,9 @@ Prueba táctica - Fase 3
 
 [GINGLEBELL_TAB1]
 Desafíos
+
+[GINGLEBELL_TAB2]
+Premios por ranking
 
 [GINGLEBELL_TAB3]
 Recompensas
@@ -24731,6 +22880,12 @@ Nivel 5
 
 [GLACIERSHROOM_TOOLTIP]
 Daña y ralentiza a zombis cercanos, toca en ella para congelarlos
+
+[GLADIATOR_PARTY]
+Campeón de la arena
+
+[GLADIATOR_PARTY_DESCRIPTION]
+La velocidad y fuerza del Gladiador aumenta al triple
 
 [GLOOMBARA]
 Udumbara
@@ -25268,6 +23423,12 @@ Nivel 5
 [GRAVITREE_TOOLTIP]
 Crea gravedad pesada que dificulta el paso de los zombis
 
+[GRAVITY_TUTORIAL_PLANT_COSMICSAUCER]
+Arrastra a Calabacín cósmico al lugar indicado
+
+[GRAVITY_TUTORIAL_PLANT_GRAVITREE]
+Arrastra a Gravitárbol al lugar indicado
+
 [GREEN]
 Verde
 
@@ -25646,7 +23807,7 @@ Se replica para proteger a las plantas adyacentes
 Nivel 2
 
 [GUARDSHROOM_SKILL_LEVEL1_DES]
-^4DD4DB^Setas empoderadas:^oldclr^ reduce el tiempo de digestión de las Minisetas; multiplicador solar reducido en un 50% 
+^4DD4DB^Setas empoderadas:^oldclr^ reduce el tiempo de digestión de las Minisetas; multiplicador solar reducido en un 50%
 
 [GUARDSHROOM_SKILL_LEVEL2]
 Nivel 3
@@ -26052,6 +24213,9 @@ A quienes gastaron Maíz en la temporada 9 del evento: Cosecha copiosa
 [HARVEST_BATTLE_HEAD_DES_ID_25894]
 A quienes gastaron Maíz en la temporada 10 del evento: Cosecha copiosa
 
+[HARVEST_BATTLE_HEAD_DES_ID_25946]
+A quienes gastaron Maíz en la temporada 11 del evento: Cosecha copiosa
+
 [HARVEST_BATTLE_HEAD_ID_25595]
 Medalla del agricultor otoñal
 
@@ -26084,6 +24248,9 @@ Pacifista
 
 [HARVEST_BATTLE_HEAD_ID_25894]
 Estrella brillante
+
+[HARVEST_BATTLE_HEAD_ID_25946]
+Ondas poderosas
 
 [HASPLANTFOOD]
 Nutrientes
@@ -29122,6 +27289,9 @@ Selecciona tus plantas y resiste al ataque zombi
 [KILL_ALL_ZOMBIE_MOON]
 Selecciona tus plantas y resiste al ataque de los zombis lunares
 
+[KILL_ALL_ZOMBIE_MOON_MINIGAME]
+Recoleta suficientes piedras lunares para ganar
+
 [KILL_DESC]
 Usa a {NAME} para derrotar a {NUMBER} zombis
 
@@ -29980,6 +28150,9 @@ Un mundo lleno de mil colores
 [LEVEL_EDITOR_HEAD_DES_ID_25919]
 Obtuviste esto en la temporada 5 del evento: Lotes cromáticos
 
+[LEVEL_EDITOR_HEAD_DES_ID_25944]
+Obtuviste esto en la temporada 6 del evento: Lotes cromáticos
+
 [LEVEL_EDITOR_HEAD_ID_25343]
 Medalla del Creador
 
@@ -30081,6 +28254,9 @@ Frío glaciar
 
 [LEVEL_EDITOR_HEAD_ID_25919]
 Visitante interestelar
+
+[LEVEL_EDITOR_HEAD_ID_25944]
+Melonpulta coqueta
 
 [LEVEL_EDITOR_NAME_SET]
 Nombre del nivel
@@ -30406,7 +28582,7 @@ Electrocuta a varias gallinas o zombis por golpe
 Nivel 2
 
 [LIGHTNINGREED_SKILL1_LEVEL1_DES]
-^4DD4DB^Relámpago rojo:^oldclr^ 7,5% de probabilidad de liberar un relámpago rojo que aturde zombis
+^4DD4DB^Relámpago rojo:^oldclr^ probabilidad de liberar un relámpago rojo que aturde zombis brevemente
 
 [LIGHTNINGREED_SKILL1_LEVEL2]
 Nivel 3
@@ -30580,11 +28756,11 @@ Peticiones por tiempo limitado
 Duración del VIP
 
 [LIMITED_SUMMON_WISH_DESCRIPTION]
-1. Obtén cupones comprando Paquetes o activando Privilegios VIP y úsalos para peticionar tus plantas preferidas.
+1. ^FF8000^Cupones de petición:^oldclr^ se obtienen comprando Paquetes o activando Privilegios VIP. Úsalos para peticionar tus plantas preferidas.
 
-2. Privilegios VIP: inicia sesión durante 3 días consecutivos para recibir Cupones de petición.
+2. ^FF8000^Privilegios VIP:^oldclr^ inicia sesión durante 3 días consecutivos para recibir Cupones de petición.
 
-3. Clasificaciones: los jugadores se clasifican en una lista según el número de peticiones realizadas.
+3. ^FF8000^Clasificaciones:^oldclr^ los jugadores se clasifican en una lista según el número de peticiones realizadas.
 
 [LIMITED_SUMMON_WISH_DESCRIPTION_2]
 • Lista diaria:
@@ -31130,8 +29306,10 @@ Plantas seleccionadas:
 DESCRIPCIÓN DEL EVENTO
 
 [LUCKBAG_DESCRIPTION_CONTENT]
-1. Selecciona las plantas de cada fila, para un total de 6 (4 legendarias y 2 épicas).
-2. Gasta dinero para abrir la bolsa, recibirás 2 plantas al azar (1 legendaria y otra épica).
+1. Selecciona las plantas de cada fila, para un total de 6 (4 legendarias y 2 épicas)
+
+2. Gasta dinero para abrir la bolsa, recibirás 2 plantas al azar (1 legendaria y otra épica)
+
 3. Si ya tienes una de las plantas elegidas, recibirás 10 Piezas en su lugar.
 
 [LUCKBAG_RESELECT_PLANT]
@@ -34611,6 +32789,95 @@ Nivel 3
 [MOONFLOWER_TOOLTIP]
 Da soles y potencia a las plantas sombrías adyacentes
 
+[MOON_GRAPPLE_CANNOT_FIRE]
+Recoge el segundo gancho primero
+
+[MOON_GRAPPLE_FRENZY_WARNING]
+Frenesí: ¡minado rápido!
+
+[MOON_GRAPPLE_GUIDE_DESC_1]
+1. GANCHO: mantén para apuntar, arrastra para ajustar, suelta para disparar
+
+[MOON_GRAPPLE_GUIDE_DESC_2]
+2. MEJORA: reúne suficientes puntos para ganar una mejora de tu elección
+
+[MOON_GRAPPLE_GUIDE_DESC_3]
+3. FRENESÍ: duplica la velocidad del gancho. Se activa al recoger o romper 10 objetos seguidos
+
+[MOON_GRAPPLE_GUIDE_DESC_4]
+4. LLUVIA DE METEOROS: duplica la puntuación y evita que las rocas lunares se regeneren. Se activa al recoger una Flor meteoro
+
+[MOON_GRAPPLE_LOSS_MESSAGE]
+¡Misión fallida!
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY]
+Cofre espacial
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_1]
+- Marca a 1 objetivo de recompensa cada 12 s
+- La puntuación por recuperación aumenta un 50%
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_2]
+- Marca a 1 objetivo de recompensa cada 10 s
+- La puntuación por recuperación aumenta un 100%
+
+[MOON_GRAPPLE_UPGRADE_BOUNTY_DESC_3]
+La marca de recompensa se transfiere a otros objetos válidos de la escuadra
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK]
+Gancho doble
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_1]
+Se puede lanzar un 2do gancho, que tiene el 70% de velocidad del original. Ambos ganchos deben retornar para volver a lanzarse
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_2]
+La vel. del gancho secundario aumenta al 90% con respecto al original.
+
+[MOON_GRAPPLE_UPGRADE_DOUBLE_HOOK_DESC_3]
+- La vel. del gancho secundario aumenta al 100%
+- Ambos ganchos se lanzan de forma individual.
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER]
+Hiper-transmisor
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_1]
+- Vel. de lanzamiento +35%
+- Vel. de retorno tras fallo +20%
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_2]
+- Vel. de lanzamiento +70%
+- Vel. de retorno tras fallo +50%
+
+[MOON_GRAPPLE_UPGRADE_LAUNCHER_DESC_3]
+- Vel. de lanzamiento +110%
+- Vel. de retorno tras fallo +90%
+
+[MOON_GRAPPLE_UPGRADE_MAGNET]
+Imán lunar
+
+[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_1]
+Atrae 1 cristal lunar pequeño en un área reducida
+
+[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_2]
+El radio y velocidad de atracción aumentan
+
+[MOON_GRAPPLE_UPGRADE_MAGNET_DESC_3]
+- El radio y vel. de atracción aumentan aun más
+- Atrae 2 cristales lunares a la vez
+
+[MOON_GRAPPLE_UPGRADE_WINCH]
+Cabrestante poderoso
+
+[MOON_GRAPPLE_UPGRADE_WINCH_DESC_1]
+Vel. de recarga +35%
+
+[MOON_GRAPPLE_UPGRADE_WINCH_DESC_2]
+Vel. de recarga +70%
+
+[MOON_GRAPPLE_UPGRADE_WINCH_DESC_3]
+- Vel. de recarga +110%
+- Desaleración en cargas pesadas -25%
+
 [MOON_HARD_LEVEL_NAME]
 Base Lunar Z - Día {LEVEL_NUMBER} (Experto)
 
@@ -34961,6 +33228,76 @@ Alfombra de moho
 [M_1_DESCRIPTION]
 Aparece 1 columna de moho a la izquierda
 
+[NAGASALAK]
+Fruta serpiente
+
+[NAGASALAK_AVATAR_NAME]
+Lentes diamante
+
+[NAGASALAK_AVATAR_PLANTFOOD_DESCRIPTION]
+El remolino del efecto contiene criaturas que hacen un ataque de apoyo.
+^3827F5^Pez espada: destruye zombis o les inflige grandes daños.^oldclr^
+^A0522D^Pez globo: bloquea zombis y explota al ser destruido.^oldclr^
+
+[NAGASALAK_DESCRIPTION]
+{KEYWORD}Información de alcance: {STAT}línea (adelante o atrás)
+
+^397F24^Nutrientes: {STAT}dispara un orbe al zombi más cercano, generando un remolino que succiona zombis medianos y criaturas cercanas
+
+^DD7ECB^Características de la planta: {STAT}planta verde, anfibia
+
+{FLAVOR}Cuenta la leyenda que, en las profundidades de un antiguo océano, una serpiente dejó su último aliento dentro de una fruta. Cuando las aguas volvieron a agitarse, de aquella fruta nació Naga Salak, la Fruta serpiente.
+
+[NAGASALAK_DESCRIPTION_HEADER]
+Fruta serpiente es una planta anfibia que azota su cola para crear remolinos helados que avanzan y ralentizan a los zombis alcanzados.
+
+[NAGASALAK_NEW_SKILL_LEVEL1_DES]
+Planta anfibia que genera remolinos helados por la línea.
+^D22808^Daño por segundo: 140 DPS / 0.5 s^oldclr^
+
+[NAGASALAK_NEW_SKILL_LEVEL2_DES]
+Los remolinos ^0072FF^congelan^oldclr^ al zombi alcanzado por 0.5 s
+^D22808^Daño por segundo: 210 DPS / 0.4 s^oldclr^
+
+[NAGASALAK_NEW_SKILL_LEVEL3_DES]
+Los remolinos ^0072FF^congelan^oldclr^ al zombi alcanzado por 0.5 s
+^D22808^Daño por segundo: 280 DPS / 0.3 s^oldclr^
+
+[NAGASALAK_NEW_SKILL_LEVEL4_DES]
+Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
+^DB8117^Nutrientes: dispara un orbe al zombi más cercano, generando un remolino que succiona zombis medianos y criaturas cercanas. ^D22808^Área del efecto: 5x5^oldclr^
+
+[NAGASALAK_NEW_SKILL_LEVEL5_DES]
+Al atacar, tiene un ^D22808^60 % de probabilidad^oldclr^ de liberar ^D22808^2^oldclr^ remolinos a la vez.
+^D22808^Daño por segundo: 420 DPS / 0.15 s^oldclr^
+
+[NAGASALAK_PLANTFOOD_DESCRIPTION]
+Dispara un orbe al zombi más cercano, generando un remolino que succiona zombis medianos y criaturas cercanas
+
+[NAGASALAK_PRODUCT_SHORT_DESC]
+Planta anfibia que genera remolinos helados
+
+[NAGASALAK_SKILL_LEVEL1]
+Nivel 2
+
+[NAGASALAK_SKILL_LEVEL1_DES]
+^4DD4DB^Azote congelante:^oldclr^ los remolinos congelan al zombi alcanzado brevemente; reduce el intervalo entre golpes del remolino
+
+[NAGASALAK_SKILL_LEVEL2]
+Nivel 3
+
+[NAGASALAK_SKILL_LEVEL2_DES]
+^DD7ECB^Remolino desatado:^oldclr^ reduce el intervalo entre golpes del remolino aún más
+
+[NAGASALAK_SKILL_LEVEL5]
+Nivel 5
+
+[NAGASALAK_SKILL_LEVEL5_DES]
+^DB8117^Rabia dispersa:^oldclr^ al atacar, tiene la posibilidad de liberar dos remolinos a la vez
+
+[NAGASALAK_TOOLTIP]
+Planta anfibia que genera remolinos helados
+
 [NAME_CONFLICT]
 Nombre existente
 
@@ -35008,7 +33345,7 @@ Despertar: ^D22808^35 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 
 [NARCISSUSSHOOTER_NEW_SKILL_LEVEL5_DES]
 ^D22808^40% de probabilidad^oldclr^ de soplar una ráfaga de burbujas que aturde zombis por ^D22808^2 s^oldclr^
-^FF8000^Duración del ataque: 5 s. ^D22808^Daño por segundo: 1.500^oldclr^
+^FF8000^Duración del ataque: 5 s ^D22808^Daño por segundo: 1.500^oldclr^
 
 [NARCISSUSSHOOTER_PEDIA]
 El narciso (Narcissus spp.) es una planta originaria de Europa y el norte de África, famosa por sus flores vistosas y fragantes, generalmente blancas o amarillas, con una corona central característica. Florece en primavera y es muy popular en jardines y arreglos florales.
@@ -35023,7 +33360,7 @@ Sopla una ráfaga de burbujas que se esparcen por el patio.
 Nivel 2
 
 [NARCISSUSSHOOTER_SKILL_LEVEL1_DES]
-^4DD4DB^Combo de burbujas:^oldclr^ 10% de probabilidad de soplar 2 burbujas grandes a la vez
+^4DD4DB^Combo de burbujas:^oldclr^ probabilidad de soplar 2 burbujas grandes a la vez
 
 [NARCISSUSSHOOTER_SKILL_LEVEL2]
 Nivel 3
@@ -35184,146 +33521,164 @@ Sopla burbujas que desarman zombis
 [NARRATIVE_ARBORDAY_UNCHARTED_EVENT_TUTORIAL_5]
 {SAY:crazydave}¡No arruinen mi primavera!
 
+[NARRATIVE_ARENA_TUTORIAL_1_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Es un trofeo! ¡Ya es mío!
+
+[NARRATIVE_ARENA_TUTORIAL_1_2]
+{SAY:winnie}Parece que es el premio para los campeones del coliseo.
+
+[NARRATIVE_ARENA_TUTORIAL_1_3]
+{EXCITED:crazydave}¡Vamos a por la victoria!
+
+[NARRATIVE_ARENA_TUTORIAL_2_1]
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¡Vaya! ¡Cuántos Nutrientes! ¡Hora de gastar mis poderes a lo grande!
+
+[NARRATIVE_ARENA_TUTORIAL_2_2]
+{SAY:winnie}Cuando ganemos un combate, ¡el trofeo liberará un montón de Nutrientes!
+
+[NARRATIVE_ARENA_TUTORIAL_2_3]
+{SAY:winnie}Pero si perdemos, ¡caerán un montón de jaulas de zombis!
+
+[NARRATIVE_ARENA_TUTORIAL_2_4]
+{SAY:crazydave}Ya veo... Entonces será mejor que ganemos.
+
 [NARRATIVE_ATLANTIS_1_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}{MEDIUM}Se detectaron profundidades acuosas, activando el modo submarino...
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}{MEDIUM}Se detectaron profundidades acuosas, activando el modo submarino...
 
 [NARRATIVE_ATLANTIS_1_INTRO_2]
-{SAY:winnie}{LONG}Esta vez viajamos 10.000 años al pasado, en búsqueda de los restos de una civilización perdida: La Atlántida.
+{SAY:winnieicon}{LONG}Esta vez viajamos 10.000 años al pasado, en búsqueda de los restos de una civilización perdida: La Atlántida.
 
 [NARRATIVE_ATLANTIS_1_INTRO_3]
-{SPECIAL3:crazydave}¡Al diablo con eso! ¿No es mi taco perdido lo que buscamos?
+{SPECIAL3:crazydaveicon}¡Al diablo con eso! ¿No es mi taco perdido lo que buscamos?
 
 [NARRATIVE_ATLANTIS_1_INTRO_4]
-{TIRED:winnie}{SHORT}...
+{TIRED:winnieicon}{SHORT}...
 
 [NARRATIVE_ATLANTIS_1_INTRO_5]
-{EXCITED:crazydave}¡Mira, Penny! Pero si es nuestra vieja amiga, ¡Seta marina!
+{EXCITED:crazydaveicon}¡Mira, Penny! Pero si es nuestra vieja amiga, ¡Seta marina!
 
 [NARRATIVE_ATLANTIS_1_INTRO_6]
-{SAY:winnie}{LONG}Así es, Dave. Seta marina puede sernos de utilidad aquí, plántala en el fondo marino y defiende ambos frentes.
+{SAY:winnieicon}{LONG}Así es, Dave. Seta marina puede sernos de utilidad aquí, plántala en el fondo marino y defiende ambos frentes.
 
 [NARRATIVE_ATLANTIS_1_INTRO_7]
-{PLAYFUL:winnie}Como estamos en mar abierto, los zombis atacarán desde ambas direcciones.
+{PLAYFUL:winnieicon}Como estamos en mar abierto, los zombis atacarán desde ambas direcciones.
 
 [NARRATIVE_ATLANTIS_1_INTRO_8]
-{SAY:winnie}{LONG}Por cierto, las plantas terrestres no pueden respirar bajo el agua, usa esas Algas oxigenadoras como sustento.
+{SAY:winnieicon}{LONG}Por cierto, las plantas terrestres no pueden respirar bajo el agua, usa esas Algas oxigenadoras como sustento.
 
 [NARRATIVE_ATLANTIS_1_INTRO_9]
-{PLAYFUL:crazydave}{SHORT}¡No te preocupes! Yo te cuido la espalda.
+{PLAYFUL:crazydaveicon}{SHORT}¡No te preocupes! Yo te cuido la espalda.
 
 [NARRATIVE_ATLANTIS_2_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}{SHORT}Cuidado, ¡hay un forajido rondando estas aguas!
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}{SHORT}Cuidado, ¡hay un forajido rondando estas aguas!
 
 [NARRATIVE_ATLANTIS_2_INTRO_2]
-{SAY:winnie}Se trata del Buzo profesional, se acelera cuando golpean su tanque de oxígeno.
+{SAY:winnieicon}Se trata del Buzo profesional, se acelera cuando golpean su tanque de oxígeno.
 
 [NARRATIVE_ATLANTIS_2_INTRO_3]
-{SAY:crazydave}Oye Penny, ¿realmente ayuda la natación a perder peso?
+{SAY:crazydaveicon}Oye Penny, ¿realmente ayuda la natación a perder peso?
 
 [NARRATIVE_ATLANTIS_2_INTRO_4]
-{PLAYFUL:winnie}En efecto, deberías unirte al club de natación para perder un par de kilos.
+{PLAYFUL:winnieicon}En efecto, deberías unirte al club de natación para perder un par de kilos.
 
 [NARRATIVE_ATLANTIS_3_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}{SHORT}Veo algo allá fuera, ¿qué será?
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:crazydaveicon}{SHORT}Veo algo allá fuera, ¿qué será?
 
 [NARRATIVE_ATLANTIS_3_INTRO_2]
-{SAY:winnie}Organismos detectados: moluscos cefalópodos del género Squidia, subclase coleópteros.
+{SAY:winnieicon}Organismos detectados: moluscos cefalópodos del género Squidia, subclase coleópteros.
 
 [NARRATIVE_ATLANTIS_3_INTRO_3]
-{SAY:crazydave}Parece que hablamos dos idiomas distintos, porque no entiendo nada de lo que dices.
+{SAY:crazydaveicon}Parece que hablamos dos idiomas distintos, porque no entiendo nada de lo que dices.
 
 [NARRATIVE_ATLANTIS_3_INTRO_4]
-{TIRED:winnie}{SHORT}Son calamares, usuario Dave.
+{TIRED:winnieicon}{SHORT}Son calamares, usuario Dave.
 
 [NARRATIVE_ATLANTIS_3_INTRO_5]
-{SPECIAL6:crazydave}Ya veo, como el juego, ¿verdad? Me gustaría ser millonario y comprar muchos tacos.
+{SPECIAL6:crazydaveicon}Ya veo, como el juego, ¿verdad? Me gustaría ser millonario y comprar muchos tacos.
 
 [NARRATIVE_ATLANTIS_3_INTRO_6]
-{TIRED:winnie}{SHORT}Francamente no tengo idea de lo que dices.
+{TIRED:winnieicon}{SHORT}Francamente no tengo idea de lo que dices.
 
 [NARRATIVE_ATLANTIS_4_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}{SHORT}Mira Penny, ¡estrellas de mar!
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{EXCITED:crazydaveicon}{SHORT}Mira Penny, ¡estrellas de mar!
 
 [NARRATIVE_ATLANTIS_4_INTRO_2]
-{SAY:winnie}Sé cauteloso, si las asustas correrán y se estrellarán con el submarino.
+{SAY:winnieicon}Sé cauteloso, si las asustas correrán y se estrellarán con el submarino.
 
 [NARRATIVE_ATLANTIS_4_INTRO_3]
-{SPECIAL1:crazydave}Estrellitas, ¿dónde están? Corran, porque Dave las va a atrapar.
+{SPECIAL1:crazydaveicon}Estrellitas, ¿dónde están? Corran, porque Dave las va a atrapar.
 
 [NARRATIVE_ATLANTIS_5_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}{SHORT}Esas son medusas, me pregunto a qué sabrán.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:crazydaveicon}{SHORT}Esas son medusas, me pregunto a qué sabrán.
 
 [NARRATIVE_ATLANTIS_5_INTRO_2]
-{SAY:winnie}{MEDIUM}Las medusas tienen del 95 a un 98% de agua, no creo que tengan buen sabor.
+{SAY:winnieicon}{MEDIUM}Las medusas tienen del 95 a un 98% de agua, no creo que tengan un sabor apreciable.
 
 [NARRATIVE_ATLANTIS_5_INTRO_3]
-{SAY:winnie}Por cierto, si las asustas, escaparán con nuestras plantas.
+{SAY:winnieicon}Por cierto, si las asustas, escaparán con nuestras plantas.
 
 [NARRATIVE_ATLANTIS_5_INTRO_4]
-{SPECIAL4:crazydave}¡Hora de pescar medusas!
-
-[NARRATIVE_ATLANTIS_5_INTRO_5]
-{TIRED:winnie}{SHORT}No otra vez...
+{SPECIAL4:crazydaveicon}¡Hora de pescar medusas!
 
 [NARRATIVE_ATLANTIS_6_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}Una caracola mágica, ¿podrá responder a mis dudas?
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{PLAYFUL:crazydaveicon}Una caracola mágica, ¿podrá responder a mis dudas?
 
 [NARRATIVE_ATLANTIS_6_INTRO_2]
-{SAY:winnie}Esos son caparazones de cangrejos ermitaños, usuario Dave.
+{SAY:winnieicon}Esos son caparazones de cangrejos ermitaños, usuario Dave.
 
 [NARRATIVE_ATLANTIS_6_INTRO_3]
-{SAY:winnie}Los cangrejos nadan hacia los zombis y los protegen del daño con su caparazón.
+{SAY:winnieicon}Los cangrejos nadan hacia los zombis y los protegen del daño con su caparazón.
 
 [NARRATIVE_ATLANTIS_7_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}¡Alerta! Mis sensores detectan fuertes corrientes submarinas.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}¡Alerta! Mis sensores detectan fuertes corrientes submarinas.
 
 [NARRATIVE_ATLANTIS_7_INTRO_2]
-{TIRED:crazydave}{SHORT}No quiero marearme, ¡¿qué hacemos?!
+{TIRED:crazydaveicon}{SHORT}No quiero marearme, ¡¿qué hacemos?!
 
 [NARRATIVE_ATLANTIS_7_INTRO_3]
-{PLAYFUL:winnie}Detecto a un dúo eficaz para esta situación: los hermanos Kelpia.
+{PLAYFUL:winnieicon}Detecto a un dúo eficaz para esta situación: los hermanos Kelpia.
 
 [NARRATIVE_ATLANTIS_7_INTRO_4]
-{SAY:winnie}Plántalos en el fondo marino para detener las corrientes y bloquear zombis.
+{SAY:winnieicon}Plántalos en el fondo marino para detener las corrientes y bloquear zombis.
 
 [NARRATIVE_ATLANTIS_8_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}Siempre que veo un pez globo, me dan ganas de picarlo con algo.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{EXCITED:crazydaveicon}Siempre que veo un pez globo, me dan ganas de picarlo con algo.
 
 [NARRATIVE_ATLANTIS_8_INTRO_2]
-{SAY:winnie}{MEDIUM}Te sugiero que acabes con esa idea, usuario Dave.
+{SAY:winnieicon}{MEDIUM}Te sugiero que acabes con esa idea, usuario Dave.
 
 [NARRATIVE_ATLANTIS_8_INTRO_3]
-{SAY:winnie}Si lo haces, volarán por todas partes, al igual que un globo suelto.
+{SAY:winnieicon}Si lo haces, volarán por todas partes, al igual que un globo suelto.
 
 [NARRATIVE_ATLANTIS_8_INTRO_4]
-{PLAYFUL:crazydave}{MEDIUM}¿Qué tiene de malo? ¡Me encantan los globos!
+{PLAYFUL:crazydaveicon}{MEDIUM}¿Qué tiene de malo? ¡Me encantan los globos!
 
 [NARRATIVE_ATLANTIS_9_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}{SHORT}Están apareciendo seres muy peligrosos.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}{SHORT}Están apareciendo seres muy peligrosos.
 
 [NARRATIVE_ATLANTIS_9_INTRO_2]
-{SAY:crazydave}Desearía escapar flotando con una medusa atada en la espalda.
+{SAY:crazydaveicon}Desearía escapar flotando con una medusa atada en la espalda.
 
 [NARRATIVE_ATLANTIS_9_INTRO_3]
-{SAY:winnie}{SHORT}Probablemente no sea buena idea.
+{SAY:winnieicon}{SHORT}Probablemente no sea buena idea.
 
 [NARRATIVE_ATLANTIS_10_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}{SHORT}Los zombis son cada vez más agresivos.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}{SHORT}Los zombis son cada vez más agresivos.
 
 [NARRATIVE_ATLANTIS_10_INTRO_2]
-{SAY:winnie}Esto supone que nos estamos acercando cada vez más a nuestro destino.
+{SAY:winnieicon}Esto supone que nos estamos acercando cada vez más a nuestro destino.
 
 [NARRATIVE_ATLANTIS_10_INTRO_3]
-{TIRED:crazydave}Empiezo a echar de menos la vida en tierra.
+{TIRED:crazydaveicon}Empiezo a echar de menos la vida en tierra.
 
 [NARRATIVE_ATLANTIS_11_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}{SHORT}¿Qué son esos peces tan raros?
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{EXCITED:crazydaveicon}{SHORT}¿Qué son esos peces tan raros?
 
 [NARRATIVE_ATLANTIS_11_INTRO_2]
-{SAY:winnie}{SHORT}Son peces espada, usuario Dave.
+{SAY:winnieicon}{SHORT}Son peces espada, usuario Dave.
 
 [NARRATIVE_ATLANTIS_11_INTRO_3]
-{SAY:winnie}Se les considera los más rápidos del mar, cuidado con ellos.
+{SAY:winnieicon}Se les considera los más rápidos del mar, cuidado con ellos.
 
 [NARRATIVE_ATLANTIS_12_INTRO_1]
 {NPC_ENTER:zombossicon}{PLAYFUL}Hola, alteradores del orden espacio-temporal. ¿Me echaban de menos?
@@ -35338,91 +33693,91 @@ Sopla burbujas que desarman zombis
 {EXCITED:zombossicon}El mar será su tumba, y sus restos... reliquias de mi victoria. ¡MUAJAJAJAJA!
 
 [NARRATIVE_ATLANTIS_12_INTRO_5]
-{NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SPECIAL9:crazydave}¿Tumbas? ¡No creo que haya llegado mi hora! ¿O sí?
+{NPC_EXIT:zombossicon}{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SPECIAL9:crazydaveicon}¿Tumbas? ¡No creo que haya llegado mi hora! ¿O sí?
 
 [NARRATIVE_ATLANTIS_12_INTRO_6]
-{PLAYFUL:winnie}Estamos aquí para explorar las ruinas de la Atlántida, Dave. No para convertirnos en una.
+{PLAYFUL:winnieicon}Estamos aquí para explorar las ruinas de la Atlántida, Dave. No para convertirnos en una.
 
 [NARRATIVE_ATLANTIS_13_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Finalmente, hemos llegado a las ruinas de la antigua ciudad de Atlantis.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}Finalmente, hemos llegado a las ruinas de la antigua ciudad de Atlantis.
 
 [NARRATIVE_ATLANTIS_13_INTRO_2]
-{SAY:winnie}Detecto un problema enorme... Hay cachalotes nadando cerca, y su apetito es insaciable.
+{SAY:winnieicon}Detecto un problema enorme... Hay cachalotes nadando cerca, y su apetito es insaciable.
 
 [NARRATIVE_ATLANTIS_13_INTRO_3]
-{SPECIAL3:crazydave}¡No creo que tengan más apetito que yo! Hemos llegado hasta aquí para buscar mi preciado taco.
+{SPECIAL3:crazydaveicon}¡No creo que tengan más apetito que yo! Hemos llegado hasta aquí para buscar mi preciado taco.
 
 [NARRATIVE_ATLANTIS_13_INTRO_4]
-{PLAYFUL:winnie}Digamos que su aperitivo favorito es el kril, pero cuando abren la boca, nuestras plantas acaban de acompañamiento.
+{PLAYFUL:winnieicon}Digamos que su aperitivo favorito es el kril, pero cuando abren la boca, nuestras plantas acaban de acompañamiento.
 
 [NARRATIVE_ATLANTIS_13_INTRO_5]
-{SAY:winnie}Recomiendo usar al Barbasco de mar, sus toxinas alejan toda clase de zombis y peces.
+{SAY:winnieicon}Recomiendo usar al Barbasco de mar, sus toxinas alejan toda clase de zombis y peces.
 
 [NARRATIVE_ATLANTIS_14_INTRO_1]
-{NPC_ENTER:winnie}{NPC_ENTER:crazydave}{SAY:winnie}Los zombis locales no parecen muy contentos con nuestra visita.
+{NPC_ENTER:winnieicon}{NPC_ENTER:crazydaveicon}{SAY:winnieicon}Los zombis locales no parecen muy contentos con nuestra visita.
 
 [NARRATIVE_ATLANTIS_14_INTRO_2]
-{SAY:crazydave}Pero si solo venimos de paso...
+{SAY:crazydaveicon}Pero si solo venimos de paso...
 
 [NARRATIVE_ATLANTIS_15_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}{MEDIUM}No tengo información sobre estos zombis peculiares.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}{MEDIUM}No tengo información sobre estos zombis peculiares.
 
 [NARRATIVE_ATLANTIS_15_INTRO_2]
-{SAY:winnie}{MEDIUM}Necesitaré tu ayuda, cuida de ellos mientras los analizo.
+{SAY:winnieicon}{MEDIUM}Necesitaré tu ayuda, cuida de ellos mientras los analizo.
 
 [NARRATIVE_ATLANTIS_15_INTRO_3]
-{SAY:crazydave}{MEDIUM}¿Por qué debo hacer de niñera de unos zombis?
+{SAY:crazydaveicon}{MEDIUM}¿Por qué debo hacer de niñera de unos zombis?
 
 [NARRATIVE_ATLANTIS_16_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}{SHORT}¿Qué hay en el fondo del mar?
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:crazydaveicon}{SHORT}¿Qué hay en el fondo del mar?
 
 [NARRATIVE_ATLANTIS_16_INTRO_2]
-{SAY:winnie}{SHORT}Moluscos. Moluscos de conchas muy resistentes.
+{SAY:winnieicon}{SHORT}Moluscos. Moluscos de conchas muy resistentes.
 
 [NARRATIVE_ATLANTIS_16_INTRO_3]
-{PLAYFUL:crazydave}¿Moluscos? Pensé que dirías "una piña", ¿te imaginas piñas en el fondo del mar?
+{PLAYFUL:crazydaveicon}¿Moluscos? Pensé que dirías "una piña", ¿te imaginas piñas en el fondo del mar?
 
 [NARRATIVE_ATLANTIS_16_INTRO_4]
-{SAY:winnie}Lo veo improbable. Cuidado con esas almejas, tienen una fuerza tremenda al abrir y cerrarse.
+{SAY:winnieicon}Lo veo improbable. Cuidado con esas almejas, tienen una fuerza tremenda al abrir y cerrarse.
 
 [NARRATIVE_ATLANTIS_17_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}¿Qué es esa cosa redonda con espinas?
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:crazydaveicon}¿Qué es esa cosa redonda con espinas?
 
 [NARRATIVE_ATLANTIS_17_INTRO_2]
-{SAY:winnie}Organismo detectado: género Echinodermata, clase Echinoidea.
+{SAY:winnieicon}Organismo detectado: género Echinodermata, clase Echinoidea.
 
 [NARRATIVE_ATLANTIS_17_INTRO_3]
-{PLAYFUL:crazydave}Aún sigo sin saber lo que es, ¡pero parece algo buenísimo para tallarse la espalda!
+{PLAYFUL:crazydaveicon}Aún sigo sin saber lo que es, ¡pero parece algo buenísimo para tallarse la espalda!
 
 [NARRATIVE_ATLANTIS_17_INTRO_4]
-{SAY:winnie}{SHORT}Las plantas no opinan lo mismo, usuario Dave.
+{SAY:winnieicon}{SHORT}Las plantas no opinan lo mismo, usuario Dave.
 
 [NARRATIVE_ATLANTIS_18_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Estos zombis están listos para una guerra sin cuartel.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}Estos zombis están listos para una guerra sin cuartel.
 
 [NARRATIVE_ATLANTIS_18_INTRO_2]
-{SPECIAL12:crazydave}¡PUES QUE COMIENCE LA BATALLA!
+{SPECIAL12:crazydaveicon}¡PUES QUE COMIENCE LA BATALLA!
 
 [NARRATIVE_ATLANTIS_21_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}La lucha continúa, pronto nos encontraremos con criaturas aún más extrañas.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}La lucha continúa, pronto nos encontraremos con criaturas aún más extrañas.
 
 [NARRATIVE_ATLANTIS_21_INTRO_2]
-{SAY:winnie}{MEDIUM}Mis sensores indican que provienen del oscuro abismo del mar.
+{SAY:winnieicon}{MEDIUM}Mis sensores indican que provienen del oscuro abismo del mar.
 
 [NARRATIVE_ATLANTIS_21_INTRO_3]
-{SPECIAL9:crazydave}¡Qué miedo! No pegaré ni un solo ojo esta noche.
+{SPECIAL9:crazydaveicon}¡Qué miedo! No pegaré ni un solo ojo esta noche.
 
 [NARRATIVE_ATLANTIS_24_INTRO_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}{MEDIUM}Mis sensores necesitan más datos sobre estos zombis.
+{NPC_ENTER:crazydaveicon}{NPC_ENTER:winnieicon}{SAY:winnieicon}{MEDIUM}Mis sensores necesitan más datos sobre estos zombis.
 
 [NARRATIVE_ATLANTIS_24_INTRO_2]
-{SAY:winnie}{SHORT}Debemos estudiarlos por más tiempo.
+{SAY:winnieicon}{SHORT}Debemos estudiarlos por más tiempo.
 
 [NARRATIVE_ATLANTIS_24_INTRO_3]
-{TIRED:crazydave}¿Otra vez? Ya me estoy cansando de criar zombis.
+{TIRED:crazydaveicon}¿Otra vez? Ya me estoy cansando de criar zombis.
 
 [NARRATIVE_BANANA_TIP_1]
-{NPC_ENTER:winnie}{SAY:winnie} Toca en un Lanzaplátanos y en una casilla para lanzar un plátano explosivo.
+{NPC_ENTER:winnie}{SAY}Toca en un Lanzaplátanos y en una casilla para lanzar un plátano explosivo.
 
 [NARRATIVE_BEACH_INTRO_BANANA_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Usuario Dave. Mira la línea de Lanzaplátanos.
@@ -35630,7 +33985,7 @@ Sopla burbujas que desarman zombis
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_6]
 {SAY:zombossicon}¡Masticadlo grumetes! ¡Hasta otra!
-Dr. Zombi
+- Dr. Zombi
 
 [NARRATIVE_BEACH_INTRO_ZOMBOSS_7]
 {NPC_EXIT:zombossicon}{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{EXCITED:crazydave}¿Un romance planta-zombi? Penny... ¡mi mente EXPLOTÓ!
@@ -35715,31 +34070,22 @@ Dr. Zombi
 {NPC_ENTER:crazydaveicon}{EXCITED}¡Acabo de usar mi pala para romper una caja!
 
 [NARRATIVE_BUY_PLANTFOOD_1]
-{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:crazydave}Ese Lanzaguisantes está junto al fuego, ¿estará asando algo?
+{NPC_ENTER:crazydave}{NPC_ENTER:winnie}{SAY:winnie}Encontré estas Joyas, sugiero comprar algunos Nutrientes con ellas.
 
 [NARRATIVE_BUY_PLANTFOOD_2]
-{SAY:winnie}Está haciendo equipo con Plantorcha más bien. Sus guisantes prenden fuego al sobrevolarla.
+{PLAYFUL:crazydave}Toma vecino, son todas para ti.
 
 [NARRATIVE_BUY_PLANTFOOD_3]
-{PLAYFUL:crazydave}No seas aguafiestas y comamos algo, Penny. ¡Yo invito!
+{SAY:crazydave}¿Que por qué te doy unas Joyas? Creo que ya deberías saberlo...
 
 [NARRATIVE_BUY_PLANTFOOD_4]
-{TIRED:winnie}¡Abandona esa idea por ahora, usuario Dave!
-
-[NARRATIVE_BUY_PLANTFOOD_5]
-{SAY:winnie}Encontré algunas Joyas en el camino, sugiero comprar algunos Nutrientes.
-
-[NARRATIVE_BUY_PLANTFOOD_6]
-{PLAYFUL:crazydave}Toma vecino, para ti. ¿Por qué?
-
-[NARRATIVE_BUY_PLANTFOOD_7]
-{SPECIAL2:crazydave}¡Porque estoy LOOOOCOOOO!
+{SPECIAL4:crazydave}¡Porque estoy LOOOOCOOOO!
 
 [NARRATIVE_BUY_POWERUPS_1]
 {NPC_ENTER:winnieicon}{EXCITED}{LONG}Las Joyas también pueden usarse para comprar potenciadores.
 
 [NARRATIVE_BUY_POWERUPS_2]
-{LONG}Se necesitan 8 Joyas por uso, presta atención a la cantidad de Joyas restantes.
+{SAY}{SHORT}¡Probémoslo!
 
 [NARRATIVE_CANNON_USE_END_INTRO_1]
 {NPC_ENTER:winnieicon}{SAY}La habilidad necesita tiempo para recargarse.
@@ -36893,6 +35239,57 @@ Combina las esferas de alrededor para destruir los bloques de hielo y liberar el
 
 [NARRATIVE_GENE_ENHANCEMENT_TUTORIAL_2]
 {NPC_ENTER:winnie}{SAY:winnie}Así es, se trata del Potenciador de genes. Te permite mejorar tus plantas con nuevas habilidades.
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_1]
+{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Vaya! ¿Y ese imán tan enorme?
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_2]
+{SAY:winnie}Me parece que es un generador de gravedad.
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_3]
+{SAY:winnie}Por lo que sé, sus rayos generan gravedad cero dentro de una zona determinada.
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_4]
+{SAY:winnie}Las plantas alcanzadas se irán flotando, mientras que los zombis podrán esquivar proyectiles que vayan en línea recta.
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_5]
+{SAY:astronautcrazydave}Eso es jugar sucio. ¿Qué podemos hacer al respecto?
+
+[NARRATIVE_GRAVITY_TUTORIAL_1_6]
+{SAY:winnie}Déjaselo a Gravitárbol. Sus habilidades pueden neutralizar los efectos de la gravedad cero.
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_1]
+{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:winnie}Parece que el imán también puede crear campos de hipergravedad.
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_2]
+{SAY:astronautcrazydave}¿Hipergravedad? Eso no suena nada bien.
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_3]
+{SAY:winnie}Así es. La hipergravedad mantiene a las plantas pegadas al suelo y hace que los zombis sean inmunes al derribo.
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_4]
+{TIRED:astronautcrazydave}Tanta gravedad me agobia. ¿Qué hacemos para detenerla?
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_5]
+{SAY:winnie}La gravedad no es algo que puedas detener, usuario Dave. Lo que necesitamos es una fuerza mayor.
+
+[NARRATIVE_GRAVITY_TUTORIAL_2_6]
+{SAY:winnie}Contamos con Calabacín cósmico: hace levitar zombis y anula la hipergravedad en plantas cercanas.
+
+[NARRATIVE_GRAVITY_TUTORIAL_3_1]
+{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{PLAYFUL:astronautcrazydave}Bien, al menos ya estamos parejos.
+
+[NARRATIVE_GRAVITY_TUTORIAL_3_2]
+{NPC_ENTER:zombossicon}{SAY:zombossicon}¡Qué interesante! Veo que ya descubrieron mi generador de gravedad.
+
+[NARRATIVE_GRAVITY_TUTORIAL_3_3]
+{SAY:winnie}Con que todo esto era obra tuya.
+
+[NARRATIVE_GRAVITY_TUTORIAL_3_4]
+{PLAYFUL:zombossicon}Así es. Me tomé la molestia de instalarlo para ponerles las cosas patas arriba.
+
+[NARRATIVE_GRAVITY_TUTORIAL_3_5]
+{SAY:zombossicon}Pero no se emocionen demasiado. Esto es solo el comienzo de lo que tengo preparado para ustedes.
 
 [NARRATIVE_HALLOWEEN_1_INTRO_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}¡Qué buen vestuario usan esos zombis! Una calabaza como casco, ¿por qué no se me ocurrió antes?
@@ -38334,6 +36731,114 @@ Combina las esferas de alrededor para destruir los bloques de hielo y liberar el
 [NARRATIVE_MOON_4_INTRO_7]
 {SAY:winnie}Usa plantas cósmicas para desintegrarlos e impedir que la baliza se active.
 
+[NARRATIVE_MOON_13_INTRO_1]
+{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:astronautcrazydave}¿Y esa roca tan extraña?
+
+[NARRATIVE_MOON_13_INTRO_2]
+{SAY:winnie}Es una roca de caparazón duro.
+
+[NARRATIVE_MOON_13_INTRO_3]
+{SAY:winnie}Coloca más plantas para romper el caparazón y extraer los cristales.
+
+[NARRATIVE_MOON_13_INTRO_4]
+{PLAYFUL:astronautcrazydave}Un pico también serviría, ¿no?
+
+[NARRATIVE_MOON_14_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}Detecto un cristal bastante frágil.
+
+[NARRATIVE_MOON_14_INTRO_2]
+{SAY:winnie}Parece que no podemos usarlo para la terminal lunar. Se rompe con facilidad.
+
+[NARRATIVE_MOON_14_INTRO_3]
+{SAY:astronautcrazydave}¿Entonces de que nos sirve recolectarlos?
+
+[NARRATIVE_MOON_14_INTRO_4]
+{PLAYFUL:winnie}Algunos contienen Nutrientes cósmicos. No vendría mal revisarlos.
+
+[NARRATIVE_MOON_14_INTRO_5]
+{SAY:astronautcrazydave}Perfecto. Porque claro, ahora hasta los cristales tienen fecha de caducidad.
+
+[NARRATIVE_MOON_20_INTRO_1]
+{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:winnie}¡Peligro! Detecto un cristal radiactivo más adelante.
+
+[NARRATIVE_MOON_20_INTRO_2]
+{SAY:winnie}El cristal emite radiación periódicamente sobre las plantas y los zombis cercanos.
+
+[NARRATIVE_MOON_20_INTRO_3]
+{SAY:winnie}Las plantas mutan en otras al azar, y los zombis en Zombisteins radiactivos.
+
+[NARRATIVE_MOON_20_INTRO_4]
+{PLAYFUL:astronautcrazydave}¿Y yo en qué me convertiría si me acerco?
+
+[NARRATIVE_MOON_20_INTRO_5]
+{SAY:winnie}Eh... no lo sé. Pero será mejor no averiguarlo.
+
+[NARRATIVE_MOON_20_INTRO_6]
+{NPC_ENTER:zombossicon}{PLAYFUL:zombossicon}¡Precisamente! ¡Miren lo que la radiación puede hacer!
+
+[NARRATIVE_MOON_20_INTRO_7]
+{EXCITED:zombossicon}¡Les presento al Zombistein astro-mutante!
+
+[NARRATIVE_MOON_20_INTRO_8]
+{SAY:zombossicon}La radiación cósmica lo ha convertido en un monstruo mucho más poderoso.
+
+[NARRATIVE_MOON_20_INTRO_9]
+{SAY:astronautcrazydave}¡¿Ese era el resultado que me esperaba a mí?!
+
+[NARRATIVE_MOON_24_INTRO_1]
+{NPC_ENTER:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:zombossicon}¡Dave! Has llegado más lejos de lo que esperaba.
+
+[NARRATIVE_MOON_24_INTRO_2]
+{PLAYFUL:zombossicon}Pero después de todo este tiempo, ya es hora de terminar con este pequeño juego.
+
+[NARRATIVE_MOON_24_INTRO_3]
+{SAY:astronautcrazydave}¿Pequeño juego? ¡Llevamos días luchando contra tus zombis!
+
+[NARRATIVE_MOON_24_INTRO_4]
+{SAY:zombossicon}Y cada batalla los ha traído hasta aquí. Ahora descubrirás para qué estaba preparando todo esto.
+
+[NARRATIVE_MOON_24_INTRO_5]
+{EXCITED:zombossicon}¡Prepárense, porque esta vez no pienso contenerme!
+
+[NARRATIVE_MOON_24_INTRO_6]
+{PLAYFUL:winnie}¡Vamos, Dave! La batalla final está a la vuelta de la esquina.
+
+[NARRATIVE_MOON_25_INTRO_1]
+{NPC_ENTER:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:zombossicon}¡Por fin! Han llegado hasta el final de su pequeño viaje lunar.
+
+[NARRATIVE_MOON_25_INTRO_2]
+{EXCITED:zombossicon}¡Pero todo lo que han enfrentado hasta ahora no era más que el comienzo!
+
+[NARRATIVE_MOON_25_INTRO_3]
+{SHOUT:astronautcrazydave}¡Ya estamos cansados de tus sorpresas, Zomboss!
+
+[NARRATIVE_MOON_25_INTRO_4]
+{PLAYFUL:zombossicon}Entonces será mejor que se preparen para la última.
+
+[NARRATIVE_MOON_25_INTRO_5]
+{EXCITED:zombossicon}¡Veamos si su pequeño jardín lunar puede sobrevivir a esto!
+
+[NARRATIVE_MOON_25_INTRO_6]
+{SAY:winnie}Dave, es ahora o nunca. ¡Tenemos que defender la base!
+
+[NARRATIVE_MOON_BLADE_INTRO_1]
+{NPC_ENTER:zombossicon}{SAY}Contemplen a mi nuevo guerrero: ¡El Espadachín del espacio!
+
+[NARRATIVE_MOON_BLADE_INTRO_2]
+{SAY}Su espada cuántica puede cortar todo lo que se interponga en su camino.
+
+[NARRATIVE_MOON_BLADE_INTRO_3]
+{PLAYFUL}¡Más les vale pensar dos veces antes de lanzarle algo!
+
+[NARRATIVE_MOON_BLADE_INTRO_4]
+{NPC_EXIT:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{EXCITED:astronautcrazydave}¡Bah! ¡Una espada no va a detener a mis plantas!
+
+[NARRATIVE_MOON_BLADE_INTRO_5]
+{SAY:winnie}Dave, espera. Parece que puede cortar los proyectiles que se dirigen hacia él.
+
+[NARRATIVE_MOON_BLADE_INTRO_6]
+{SHOUT:astronautcrazydave}¿¡Que puede cortar mis proyectiles!? ¡Eso es una LOCURA!
+
 [NARRATIVE_MOON_EXPERT_INTRO_1]
 {NPC_ENTER:zombossicon}{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{PLAYFUL:zombossicon}¡¿Creían que sobrevivir a la Luna sería tan sencillo?!
 
@@ -38348,6 +36853,27 @@ Combina las esferas de alrededor para destruir los bloques de hielo y liberar el
 
 [NARRATIVE_MOON_EXPERT_INTRO_5]
 {SAY:zombossicon}¡Ja! ¡Veremos cuánto dura esa confianza! ¡El modo Experto comienza ahora!
+
+[NARRATIVE_MOON_ILLUSIONIST_INTRO_1]
+{NPC_ENTER:zombossicon}{SAY}Aquí tienen a mi nuevo maestro del engaño: ¡El Ilusionista dimensional!
+
+[NARRATIVE_MOON_ILLUSIONIST_INTRO_2]
+{PLAYFUL}¡Nunca sabrán con quién se están enfrentando!
+
+[NARRATIVE_MOON_ILLUSIONIST_INTRO_3]
+{NPC_EXIT:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:astronautcrazydave}¿Un ilusionista? ¿Dónde están los otros tres?
+
+[NARRATIVE_MOON_ILLUSIONIST_INTRO_4]
+{SAY:winnie}¿Los otros tres? A mí me parece que este zombi viene solo.
+
+[NARRATIVE_MOON_ILLUSIONIST_INTRO_5]
+{SAY:winnie}Sea como sea, debemos tener cuidado con él. Puede convertirse en cualquier variante.
+
+[NARRATIVE_MOON_ILLUSIONIST_INTRO_6]
+{EXCITED:astronautcrazydave}¡Ya veo! Viene solo para quedarse con todo el botín.
+
+[NARRATIVE_MOON_ILLUSIONIST_INTRO_7]
+{TIRED:winnie}No comprendo nada de lo que dices, usuario Dave.
 
 [NARRATIVE_MOON_INTRO_ASTRONAUT_GARG_1]
 {NPC_ENTER:zombossicon}{NPC_ENTER:winnie}{NPC_ENTER:astronautcrazydave}{SAY:zombossicon}¡Dave! ¿Creías que podías llegar a la Luna antes que yo?
@@ -40369,6 +38895,27 @@ Equipado con mis mejores armas... y mis peores intenciones.
 [NARRATIVE_SUNBANK_TUTORIAL_5]
 {SPAWN_COINS}{NPC_EXIT:crazydave}{NPC_EXIT:winnie}
 
+[NARRATIVE_SUPERNOVA_GEMINI_INTRO_1]
+{NPC_ENTER:zombossicon}{SAY}¡Les presento a mi nueva pareja estelar: el Zombistein Nova Géminis!
+
+[NARRATIVE_SUPERNOVA_GEMINI_INTRO_2]
+{PLAYFUL:zombossicon}¡Dos zombis, dos cerebros y el doble de problemas para ustedes!
+
+[NARRATIVE_SUPERNOVA_GEMINI_INTRO_3]
+{NPC_EXIT:zombossicon}{NPC_ENTER:astronautcrazydave}{NPC_ENTER:winnie}{SAY:astronautcrazydave}¿Dos cerebros? ¡Entonces quizá uno de ellos sepa lo que está haciendo!
+
+[NARRATIVE_SUPERNOVA_GEMINI_INTRO_4]
+{SAY:winnie}No te confíes, Dave. El pequeño puede clonar nuestras plantas y convertir las que estén cerca en copias.
+
+[NARRATIVE_SUPERNOVA_GEMINI_INTRO_5]
+{EXCITED:astronautcrazydave}¡¿El pequeño también tiene poderes?!
+
+[NARRATIVE_SUPERNOVA_GEMINI_INTRO_6]
+{SAY:winnie}Y el grande puede destruir todas las copias de una planta de un solo golpe.
+
+[NARRATIVE_SUPERNOVA_GEMINI_INTRO_7]
+{TIRED:astronautcrazydave}Perfecto. Uno fabrica los problemas y el otro se encarga de borrarlos.
+
 [NARRATIVE_SUPER_ACCESSORY_TUTORIAL_1]
 {NPC_ENTER:crazydave}{NPC_ENTER:winnie}{PLAYFUL:crazydave}Penny, ¡tenemos un nuevo Colgante y es hermoso!
 
@@ -41450,6 +39997,28 @@ DESCRIPCIÓN DEL EVENTO
 
 4. Las recargas que hagas en cualquier parte del juego se sumarán al progreso acumulativo de este evento.
 
+[NEWYEARPACK_MAIN_TIPS_INFO_15]
+1. Recibes Joyas al comprar paquetes, con la probabilidad de obtener una Bolsa extra.
+
+2. La décima compra garantiza que obtengas una Bolsa de Atuendos, esa garantía es acumulativa.
+
+3. El límite de compra de los paquetes se reinicia diariamente.
+
+4. Las recargas que hagas en cualquier parte del juego se sumarán al progreso acumulativo de este evento.
+
+^D22808^Temporada actual: 15^oldclr^
+
+[NEWYEARPACK_MAIN_TIPS_INFO_16]
+1. Recibes Joyas al comprar paquetes, con la probabilidad de obtener una Bolsa extra.
+
+2. La décima compra garantiza que obtengas una Bolsa de Atuendos, esa garantía es acumulativa.
+
+3. El límite de compra de los paquetes se reinicia diariamente.
+
+4. Las recargas que hagas en cualquier parte del juego se sumarán al progreso acumulativo de este evento.
+
+^D22808^Temporada actual: 16^oldclr^
+
 [NEWYEARREDPACKETE_TAB0]
 Ruleta
 
@@ -41579,6 +40148,9 @@ A quienes participaron en la temporada 13 del evento: Bolsas de la suerte
 [NEWYEAR_GIFT_HEAD_DES_ID_25921]
 A quienes participaron en la temporada 14 del evento: Bolsas de la suerte
 
+[NEWYEAR_GIFT_HEAD_DES_ID_25945]
+A quienes participaron en la temporada 15 del evento: Bolsas de la suerte
+
 [NEWYEAR_GIFT_HEAD_ID_25632]
 Año próspero
 
@@ -41620,6 +40192,9 @@ Loto floresciente
 
 [NEWYEAR_GIFT_HEAD_ID_25921]
 Árboles frondosos
+
+[NEWYEAR_GIFT_HEAD_ID_25945]
+Trio de cacahuates
 
 [NEWYEAR_GOODS]
 Super Elección
@@ -41799,6 +40374,9 @@ Aumenta la probabilidad de invocar tiburones extra en un 50%
 [NEW_AVATAR_DESCRIPTION_AQUAWEED_2]
 Daño +10%
 
+[NEW_AVATAR_DESCRIPTION_AQUAWEED_3]
+Vel. de ataque +15%
+
 [NEW_AVATAR_DESCRIPTION_ASPARAGUS_1]
 Tiempo de recuperación -20%
 
@@ -41844,8 +40422,14 @@ Recarga rápida +30%
 [NEW_AVATAR_DESCRIPTION_BOOMFLOWER_1]
 Coste -50
 
+[NEW_AVATAR_DESCRIPTION_BOOPHONEGEISHA_1]
+Daño +20%
+
 [NEW_AVATAR_DESCRIPTION_BOWLINGBULB_1]
 Daño +10%
+
+[NEW_AVATAR_DESCRIPTION_BROCCOLI_1]
+Salud +15%
 
 [NEW_AVATAR_DESCRIPTION_BUBBLECORAL_1]
 Daño +15%
@@ -41970,6 +40554,9 @@ Daño +20%
 [NEW_AVATAR_DESCRIPTION_DEVILSFLOWER_1]
 Daño +20%
 
+[NEW_AVATAR_DESCRIPTION_DMDRAGONFRUIT_1]
+Daño +15%
+
 [NEW_AVATAR_DESCRIPTION_DOOMSHROOM_1]
 Recarga rápida +10%
 
@@ -42072,6 +40659,9 @@ Coste -30
 [NEW_AVATAR_DESCRIPTION_ESCAPEROOT_2]
 Recarga rápida +15%
 
+[NEW_AVATAR_DESCRIPTION_ESCAPEROOT_3]
+Coste -30
+
 [NEW_AVATAR_DESCRIPTION_EXPLODEONUT_1]
 Aumenta la probabilidad de los efectos del Nvl. 2 en un 10%
 
@@ -42128,6 +40718,9 @@ Recarga rápida +20%
 
 [NEW_AVATAR_DESCRIPTION_GLACIERSHROOM_1]
 Daño +15%
+
+[NEW_AVATAR_DESCRIPTION_GLACIERSHROOM_2]
+La habilidad manual se recarga un 35% más rápido
 
 [NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_2]
 Aumenta los efectos de recuperación de energía en un 50%
@@ -42216,6 +40809,9 @@ Recarga rápida +10%
 [NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_2]
 Tiempo de recuperación -15%
 
+[NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_3]
+Coste -20
+
 [NEW_AVATAR_DESCRIPTION_HYPNOSHROOM_1]
 Recarga rápida +25%
 
@@ -42254,6 +40850,9 @@ Reduce el intervalo de ataque en 1 s
 
 [NEW_AVATAR_DESCRIPTION_JACKFRUIT_2]
 Las semillas de Jaca ganan un 20% más de salud
+
+[NEW_AVATAR_DESCRIPTION_JALAPENO_1]
+Recarga rápida +15%
 
 [NEW_AVATAR_DESCRIPTION_JEWELRABBIT_1]
 Recarga rápida +10%
@@ -42335,6 +40934,9 @@ Daño +20%
 
 [NEW_AVATAR_DESCRIPTION_MANDRAKE_3]
 Coste -15
+
+[NEW_AVATAR_DESCRIPTION_MANDRAKE_4]
+Recarga rápida +20%
 
 [NEW_AVATAR_DESCRIPTION_MANGOSTEEN_1]
 Daño +10%
@@ -42552,6 +41154,9 @@ Daño +10%
 [NEW_AVATAR_DESCRIPTION_PUFFSHROOM_2]
 Recarga rápida +20%
 
+[NEW_AVATAR_DESCRIPTION_PUFFSHROOM_3]
+Despertar +10%
+
 [NEW_AVATAR_DESCRIPTION_PUMPKINWITCH_1]
 Recarga rápida +15%
 
@@ -42622,6 +41227,9 @@ Aumento del poder de ataque del charco en un 50 %
 Vel. de ataque +10% | Tragos potenciados +1
 
 [NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_2]
+Daño +20%
+
+[NEW_AVATAR_DESCRIPTION_SHADOWPEASHOOTER_3]
 Daño +20%
 
 [NEW_AVATAR_DESCRIPTION_SLINGPEA_1]
@@ -42792,6 +41400,15 @@ Aumenta la probabilidad de los efectos del Nvl. 2 en un 7%
 [NEW_AVATAR_DESCRIPTION_WINTERMELON_2]
 Daño gélido +15%
 
+[NEW_AVATAR_DESCRIPTION_WINTERMELON_3]
+Vel. de ataque +25%
+
+[NEW_AVATAR_DESCRIPTION_WINTERMELON_4]
+Efectos visuales solamente.
+
+[NEW_AVATAR_DESCRIPTION_WINTERMELON_5]
+Efectos visuales solamente.
+
 [NEW_AVATAR_DESCRIPTION_WINTERRAMBUTAN_1]
 Intervalo de ataque -20%
 
@@ -42912,6 +41529,9 @@ Neptuno
 [NEW_AVATAR_SHORT_DESCRIPTION_AQUAWEED_2]
 Gafas
 
+[NEW_AVATAR_SHORT_DESCRIPTION_AQUAWEED_3]
+Snorkel
+
 [NEW_AVATAR_SHORT_DESCRIPTION_ASPARAGUS_1]
 Mohicano
 
@@ -42963,8 +41583,14 @@ Puños de hierba
 [NEW_AVATAR_SHORT_DESCRIPTION_BOOMFLOWER_1]
 Cintillo de cuernos
 
+[NEW_AVATAR_SHORT_DESCRIPTION_BOOPHONEGEISHA_1]
+Geisha
+
 [NEW_AVATAR_SHORT_DESCRIPTION_BOWLINGBULB_1]
 Nariz roja
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BROCCOLI_1]
+Guantes de boxeo
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_1]
 Chupete
@@ -43101,6 +41727,9 @@ Plataforma
 [NEW_AVATAR_SHORT_DESCRIPTION_DEVILSFLOWER_1]
 Orejas de gato
 
+[NEW_AVATAR_SHORT_DESCRIPTION_DMDRAGONFRUIT_1]
+Alas
+
 [NEW_AVATAR_SHORT_DESCRIPTION_DOOMSHROOM_1]
 Lentes y toga
 
@@ -43215,6 +41844,9 @@ Sombrero de Sheriff
 [NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_2]
 Gafa moderna
 
+[NEW_AVATAR_SHORT_DESCRIPTION_ESCAPEROOT_3]
+Caballero
+
 [NEW_AVATAR_SHORT_DESCRIPTION_EXPLODEONUT_1]
 Gafas de fiesta
 
@@ -43274,6 +41906,9 @@ Linterna china
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLACIERSHROOM_1]
 Rey helado
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GLACIERSHROOM_2]
+Guardían místico
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_1]
 Caja de cartón
@@ -43380,6 +42015,9 @@ Bufanda año del Conejo
 [NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_2]
 Corbata a rayas
 
+[NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_3]
+Afro
+
 [NEW_AVATAR_SHORT_DESCRIPTION_HYPNOSHROOM_1]
 Corona de flores
 
@@ -43421,6 +42059,9 @@ Gafas locas
 
 [NEW_AVATAR_SHORT_DESCRIPTION_JACKFRUIT_2]
 Máscara roja
+
+[NEW_AVATAR_SHORT_DESCRIPTION_JALAPENO_1]
+Lentes
 
 [NEW_AVATAR_SHORT_DESCRIPTION_JEWELRABBIT_1]
 Cinta girasol
@@ -43514,6 +42155,9 @@ Ciclista
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_3]
 Alas
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MANDRAKE_4]
+Estrella de rock
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MANGOSTEEN_1]
 Gorro punteado
@@ -43758,6 +42402,9 @@ Helado derretido
 [NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_2]
 Peinado rebelde
 
+[NEW_AVATAR_SHORT_DESCRIPTION_PUFFSHROOM_3]
+Seta rítmica
+
 [NEW_AVATAR_SHORT_DESCRIPTION_PUMPKINWITCH_1]
 Telaraña
 
@@ -43832,6 +42479,9 @@ Sombrero de bruja
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_2]
 Sombrero amarillo
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SHADOWPEASHOOTER_3]
+Alcantarilla
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SLINGPEA_1]
 Traje de fiesta
@@ -44024,6 +42674,15 @@ Sombrero ventilador
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_2]
 Sombrero invernal
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_3]
+Bañista alegre
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_4]
+Bañista rebelde
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERMELON_5]
+Bañista coqueta
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WINTERRAMBUTAN_1]
 Zinturón dorado
@@ -47399,6 +46058,9 @@ Dispara cacahuates y bloquea zombis.
 Despertar: ^D22808^45 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
 ^DB8117^Nutrientes: se cura, gana un casco de ^D22808^4.000 PS ^DB8117^y dispara una ráfaga de ^D22808^60 ^DB8117^cacahuates.^oldclr^
 
+[PEANUT_NEW_SKILL_LEVEL5_DES]
+Se enfada, haciendo que sus proyectiles sean explosivos; el daño y velocidad aumentan por cada ^DB8117^planta de Nvl. 5^oldclr^ cercana.
+
 [PEANUT_PEDIA]
 El cacahuate (Arachis hypogaea) es una herbácea originaria de América del Sur. Sus semillas se desarrollan bajo tierra y se consumen tostadas como snack, también se usan para hacer mantequilla o para extraer aceite. Además, es beneficioso para el suelo, ya que fija nutrientes. Es muy valorado en diversas culturas por su versatilidad alimentaria y nutricional.
 
@@ -47422,6 +46084,12 @@ Nivel 3
 
 [PEANUT_SKILL1_LEVEL2_DES]
 ^DD7ECB^Cáscara doble:^oldclr^ duplica la probabilidad de los efectos del Nvl. 2
+
+[PEANUT_SKILL1_LEVEL5]
+Nivel 5
+
+[PEANUT_SKILL1_LEVEL5_DES]
+^DB8117^Cólera explosiva:^oldclr^ se enfada, haciendo que sus proyectiles sean explosivos; el daño y velocidad aumentan por cada planta de Nvl. 5 cercana
 
 [PEANUT_TOOLTIP]
 Dispara cacahuates y bloquea zombis
@@ -47476,16 +46144,19 @@ Planta varias veces en el mismo espacio para multiplicar el daño
 Nivel 2
 
 [PEAPOD_SKILL1_LEVEL1_DES]
-^4DD4DB^Autocrecimiento:^oldclr^ le crecera una vaina al cabo de un minuto si le faltan cabezas
+^4DD4DB^Autocrecimiento:^oldclr^ le crecera una vaina al cabo de 60 s si le faltan cabezas
 
 [PEAPOD_SKILL1_LEVEL2]
 Nivel 3
 
 [PEAPOD_SKILL1_LEVEL2_DES]
-^DD7ECB^Crecimiento acelerado:^oldclr^ reduce el intervalo de Autocrecimiento en 20 segundos.
+^DD7ECB^Crecimiento acelerado:^oldclr^ el intervalo de Autocrecimiento se reduce en 20 s
 
 [PEAPOD_SKILL1_LEVEL5]
 Nivel 5
+
+[PEAPOD_SKILL1_LEVEL5_DES]
+^DB8117^Vaina mutante:^oldclr^ las vainas mutan a Repetidoras cada 10 plantados; y a Guisantalladoras cada 15 plantados
 
 [PEAPOD_TOOLTIP]
 Planta varias veces en el mismo espacio para multiplicar el daño
@@ -47520,10 +46191,10 @@ Pisum
 Lanza guisantes al enemigo.
 
 [PEASHOOTER_NEW_SKILL_LEVEL2_DES]
-^D22808^10 % de probabilidad^oldclr^ de disparar una ráfaga de ^D22808^5^oldclr^ guisantes
+^D22808^35 % de probabilidad^oldclr^ de disparar una ráfaga de ^D22808^5^oldclr^ guisantes
 
 [PEASHOOTER_NEW_SKILL_LEVEL3_DES]
-^D22808^20 % de probabilidad^oldclr^ de disparar una ráfaga de ^D22808^5^oldclr^ guisantes
+^D22808^70 % de probabilidad^oldclr^ de disparar una ráfaga de ^D22808^5^oldclr^ guisantes
 
 [PEASHOOTER_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^35 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -47550,7 +46221,7 @@ Lanza guisantes al enemigo
 Nivel 2
 
 [PEASHOOTER_SKILL1_LEVEL1_DES]
-^4DD4DB^Combo de guisantes:^oldclr^ 35% de probabilidad de disparar 5 guisantes a la vez
+^4DD4DB^Combo de guisantes:^oldclr^ probabilidad de disparar 5 guisantes a la vez
 
 [PEASHOOTER_SKILL1_LEVEL2]
 Nivel 3
@@ -47686,6 +46357,7 @@ La parada en boxes de Penny
 
 [PENNY_ADVANCED_GUIDE_DES]
 ^FF9E6B^Descripción del evento:^oldclr^
+
 Completa misiones para acumular puntos y ganar recompensas únicas.
 
 [PENNY_CHASE]
@@ -47701,19 +46373,19 @@ Examen de admisión
 Examen
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_CHOMPER]
-Planta carnívora puede acabar con los zombis de un bocado
+Usa una Planta carnívora de Nvl. 2 ó 3 para derribar zombis
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_ELECTRICBLUEBERRY]
-Arándano eléctrico electrocuta a los zombis con sus poderosas nubes de tormenta
+Sube a Arándano eléctrico de nivel para aumentar su rango de alcance
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_PRIMALSUNFLOWER]
-Hierba lupa hace un daño decente, pero solo si hay suficiente sol
+Planta a Hierba lupa junto a Girasol primitivo para hacer un daño decente
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_SQUASH]
-Apisonaflor aplasta a los zombis que se le acerquen
+Combina a Apisonaflor con el Nutrientes de Pinchorroca para despejar lineas de zombis
 
 [PENNY_CLASSROOM_EASY_LEVEL_DESC_TALLNUT]
-Nuez cáscara-rabias puede bloquear zombis terrestres y voladores
+Usa la pala en una Nuez cáscara-rrabias de Nvl. 3 para destruir zombis
 
 [PENNY_CLASSROOM_EASY_LEVEL_LOCK_DESC]
 Se desbloquea después de completar el ^FF0000^Examen de admisión^oldclr^
@@ -47767,7 +46439,7 @@ Examen intermedio
 Combina el eructo de Planta carnívora con Boniato para empujar y atraer zombis
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_ELECTRICBLUEBERRY]
-Sube a Arándano eléctrico al Nvl. 4 para electrocutar a múltiples zombis
+Sube a Arándano eléctrico al Nvl. 4 para electrocutar a múltiples zombis con su Despertar
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_PRIMALSUNFLOWER]
 Rábano casillero y Girasol primitivo hacen muy buen equipo, ¡prúebalo!
@@ -47776,7 +46448,7 @@ Rábano casillero y Girasol primitivo hacen muy buen equipo, ¡prúebalo!
 Apisonaflor es muy bueno contra zombis de gran blindaje
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_TALLNUT]
-Nuez cáscara-rabias es efectiva para bloquear gallinas y comadrejas
+Usa la Nuez cáscara-rabias para amontonar zombis y luego lanzarles un ataque
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_LOCK_DESC]
 Se desbloquea después de completar el ^FF0000^Examen básico^oldclr^
@@ -47786,35 +46458,41 @@ Se desbloquea después de completar el ^FF0000^Examen básico^oldclr^
 
 [PENNY_CLASSROOM_PLANT_DESC_CHOMPER]
 ^A0522D^Habilidad:^oldclr^ devora un zombi y después lo mastica un rato
-^E2725B^Especial:^oldclr^ inflige grandes daños a los zombis que no puede devorar
-^7CFC00^Efecto de Nutrientes:^oldclr^ atrae y devora zombis, luego eructa y derriba al resto
+
+^7CFC00^Nutrientes:^oldclr^ atrae y devora zombis, luego eructa y derriba al resto
 
 [PENNY_CLASSROOM_PLANT_DESC_ELECTRICBLUEBERRY]
 ^A0522D^Habilidad:^oldclr^ electrocuta zombis al azar
-^E2725B^Especial:^oldclr^ funciona mejor contra zombis grandes
-^7CFC00^Efecto de Nutrientes:^oldclr^ electrocuta a 3 zombis al azar
+
+^7CFC00^Nutrientes:^oldclr^ electrocuta a 3 zombis al azar
 
 [PENNY_CLASSROOM_PLANT_DESC_PRIMALSUNFLOWER]
 ^A0522D^Habilidad:^oldclr^ da soles grandes
-^E2725B^Especial:^oldclr^ produce soles adicionales cuando se planta en Pantano del Jurásico
-^7CFC00^Efecto de Nutrientes:^oldclr^ produce múltiples soles al instante
+
+^E2725B^Especial:^oldclr^ da más en Pantano del Jurásico
+
+^7CFC00^Nutrientes:^oldclr^ produce múltiples soles al instante
 
 [PENNY_CLASSROOM_PLANT_DESC_SQUASH]
 ^A0522D^Habilidad:^oldclr^ aplasta zombis
+
 ^E2725B^Especial:^oldclr^ aplasta más zombis con mayor nivel de planta
-^7CFC00^Efecto de Nutrientes:^oldclr^ aplasta a 2 objetivos aleatorios, y a un último al regresar
+
+^7CFC00^Nutrientes:^oldclr^ aplasta a 2 objetivos aleatorios, y a un último al regresar
 
 [PENNY_CLASSROOM_PLANT_DESC_TALLNUT]
 ^A0522D^Habilidad:^oldclr^ bloquea a los zombis que vuelan bajo
+
 ^E2725B^Especial:^oldclr^ bloquea a los Zombiditos lanzados
-^7CFC00^Efecto de Nutrientes:^oldclr^ se reviste de una armadura que aumenta su salud
+
+^7CFC00^Nutrientes:^oldclr^ se reviste de una armadura que aumenta su salud
 
 [PENNY_CLASSROOM_PROGRESS_DESC]
 Tu progreso: {NUMS}/5
 
 [PENNY_CLASSROOM_SHOP_BUY_CONFIRM]
 ¿Deseas comprar este artículo?
-^FF8000^Coste: {NUMS} puntos de clase^oldclr^
+^FF8000^Coste: Puntos de clase x{NUMS}^oldclr^
 
 [PENNY_CLASSROOM_SHOP_TAB_BACHELOR]
 Licenciatura
@@ -48566,7 +47244,9 @@ PRUEBA
 
 [PENNY_CLASSROOM_TIPS]
 1. Completa cursos y obtén puntos que pueden canjearse en la tienda.
+
 2. Los cursos se abren día por día y deben completarse en orden. Una vez completado el curso, no podrás repetirlo.
+
 3. El Aula de Penny se cerrará después de que canjees todos los artículos de la tienda.
 
 [PENNY_CLASSROOM_TITLE]
@@ -49985,6 +48665,9 @@ No puedes plantar en la neblina
 [PLANTING_NOT_ON_GINGLEBARRIER]
 No puedes plantar en barreras de protección
 
+[PLANTING_NOT_ON_GLADIATOR_TROPHY]
+No puedes plantar en trofeos
+
 [PLANTING_NOT_ON_HEAVY_SHIELD]
 No puedes plantar en armaduras pesadas
 
@@ -50706,6 +49389,37 @@ Hubo un error en el archivo
 [PLANT_ADV_BUY_GEM_FINISH_COUNT]
 {GEM_COUNT} Joyas
 
+[PLANT_AVATAR_EFFECT_BUTTON_DISABLED]
+Efectos
+
+[PLANT_AVATAR_EFFECT_BUTTON_OFF]
+Efectos de atuendo: NO
+
+[PLANT_AVATAR_EFFECT_BUTTON_ON]
+Efectos de atuendo: SI
+
+[PLANT_AVATAR_EFFECT_CANCEL]
+CANCELAR
+
+[PLANT_AVATAR_EFFECT_CLOSE]
+Solo visual
+
+[PLANT_AVATAR_EFFECT_CONFIRM]
+ACEPTAR
+
+[PLANT_AVATAR_EFFECT_DIALOG_TITLE]
+EFECTOS DE ATUENDO
+
+[PLANT_AVATAR_EFFECT_DISABLED_NOTICE]
+Efectos de atuendo desactivados
+
+[PLANT_AVATAR_EFFECT_INFO]
+CON EFECTOS: los atuendos brindan efectos al equiparlos.
+SOLO VISUAL: los atuendos solo son cosméticos.
+
+[PLANT_AVATAR_EFFECT_OPEN]
+Con efectos
+
 [PLANT_AVATAR_PIECE]
 Pieza del Atuendo de {NAME}
 
@@ -51272,6 +49986,9 @@ Familia abisal
 
 [PLANT_FAMILY_NAME_50051]
 Familia marina
+
+[PLANT_FAMILY_NAME_50052]
+Familia cósmica
 
 [PLANT_FAMILY_NONE_PROPERTY]
 ^FFC300^Sin propiedades^oldclr^
@@ -52073,6 +50790,9 @@ Ezcape del vacío
 
 [PLAYERS_TRIP_TO_RIFT]
 ¡Búsqueda de Penny!
+
+[PLAYERS_TRIP_TO_ROMA]
+El viaje de {PLAYER} a la Antigua Roma
 
 [PLAYERS_TRIP_TO_SKYCITY]
 ¡El viaje de {PLAYER} a la Ciudad Aérea!
@@ -55523,7 +54243,7 @@ Reinicio modo difícil:
 ¡Derrota a los zombis antes de que la energía temporal se agote!
 
 [PVZ1MODE_TIME_RESET]
-Nuevos niveles en:
+T33-S1 | Nuevos niveles en:
 
 [PVZ1MODE_TOUCHING]
 Mola 'mazo'
@@ -56747,6 +55467,18 @@ Tarjeta del pase
 • Modo difícil: lo mismo que el modo fácil + Estratagemas
 • Recompensas fijas: Oro
 
+[PVZ2_UNCHARTED_MODE_AQUILA_DESC_NOMOD]
+La bandera del Abanderado romano otorga reducción de daño e inmunidad al control. ^E2725B^(Quizás las Magnetosetas ayuden)^oldclr^
+
+[PVZ2_UNCHARTED_MODE_AQUILA_TITLE_NOMOD]
+Bandera del Águila
+
+[PVZ2_UNCHARTED_MODE_COLOSSEUM_DESC_NOMOD]
+Se forma un coliseo en una columna, que da Nutrientes o libera zombis
+
+[PVZ2_UNCHARTED_MODE_COLOSSEUM_TITLE_NOMOD]
+Coliseo
+
 [PVZ2_UNCHARTED_MODE_END_PLAY_LOSS]
 No alcanzaste todos los objetivos.
 
@@ -56769,6 +55501,9 @@ Llaves insuficientes. El número de llaves se actualiza todos los días, ¡vuelv
 1. Usa Llaves espacio-temporales para desbloquear niveles en el Modo difícil.
 2. Puedes obtener hasta 7 Llaves, cada día recibes 1 gratis hasta alcanzar el límite.
 
+[PVZ2_UNCHARTED_MODE_MODE_DESC_AQUILA]
+La bandera del Abanderado romano otorga reducción de daño e inmunidad al control. ^E2725B^(Quizás las Magnetosetas ayuden)^oldclr^
+
 [PVZ2_UNCHARTED_MODE_MODE_DESC_BMIELITE]
 El Zombidito máquina de burbujas está listo para el combate.
 
@@ -56780,6 +55515,9 @@ Inclínense ante la Hada blanca
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CHRISTMAS10]
 Batalla contra el Zombi cascabel.
+
+[PVZ2_UNCHARTED_MODE_MODE_DESC_COLOSSEUM]
+Se forma un coliseo en una columna, que da Nutrientes o libera zombis
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_CRUCIBLE]
 Echa un poco de Nutrientes en un Caldero de hechicería y déjalo hervir. Luego, pon algunas plantas y espera a ver qué se cocina.
@@ -56930,6 +55668,9 @@ Más papel tirado, otra vez...
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP10]
 Batalla contra Z-Mech
 
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_AQUILA]
+Bandera del Águila
+
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_BMIELITE]
 Guerra de burbujas
 
@@ -56941,6 +55682,9 @@ Batalla real
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_CHRISTMAS10]
 Asalto final
+
+[PVZ2_UNCHARTED_MODE_MODE_TITLE_COLOSSEUM]
+Coliseo
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_CRUCIBLE]
 Calderos de hechicería
@@ -57163,6 +55907,15 @@ Completa los niveles anteriores.
 • Modo difícil: más recompensas por objetivo
 • Recompensas fijas: Oro
 
+[PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_ROMA]
+1. Completa los niveles y gana premios por primera limpieza.
+
+2. Los niveles del modo difícil se desbloquean con el tiempo.
+
+3. Alcanza los objetivos extra del modo difícil para obtener premios extra.
+
+4. Puedes canjear los artículos acumulables por premios en la Tienda oculta.
+
 [PVZ2_UNCHARTED_MODE_TIPS_DESC_UNCHARTED_SPRING_FESTIVAL_2024]
 • Modo fácil: Oro, Joyas, Piezas de plantas y atuendos
 • Modo difícil: más recompensas por objetivo
@@ -57230,6 +55983,9 @@ Error de vinculación. Solo se pueden vincular 3 dispositivos al año.
 
 [PVZ_ERROR_20711]
 El nombre del nivel no es válido.
+
+[PVZ_ERROR_20730]
+Piezas de avances insuficientes
 
 [PVZ_ERROR_21508]
 Has alcanzado el límite de compra de este artículo.
@@ -57323,6 +56079,18 @@ Condiciones no cumplidas
 
 [PVZ_ERROR_75512]
 Solo puedes reclamar esto una vez.
+
+[PVZ_ERROR_75536]
+Límite de Monedas de amistad alcanzado.
+
+[PVZ_ERROR_75537]
+Aún no puedes abandonar el equipo. Espera a que el tiempo de espera termine.
+
+[PVZ_ERROR_75538]
+Aún no puedes expulsar miembros. Espera a que el tiempo de espera termine.
+
+[PVZ_ERROR_75539]
+Se alcanzó el límite máx. de Monedas de amistad.
 
 [PVZ_ERROR_75700]
 ¡La sala no existe!
@@ -57450,6 +56218,12 @@ Error en la verificación de datos
 
 [PVZ_ERROR_76113]
 Ya hay una orden de pago en curso
+
+[PVZ_ERROR_76114]
+Tienes un pedido pendiente en: Lotes cromáticos. Reinicia el juego para recibir tu compra.
+
+[PVZ_ERROR_76127]
+Datos desactualizados. Sal y refresca la interfaz.
 
 [PVZ_ERROR_90000]
 Error en la sincronización con la nube.
@@ -58391,6 +57165,15 @@ Recompensa clasificatoria de la temporada 47 de Dueloz
 [RANK_AVATAR_CONTENT_CONTENT_61068]
 Recompensa clasificatoria de la temporada 48 de Dueloz
 
+[RANK_AVATAR_CONTENT_CONTENT_61069]
+Compraste esto en la tienda de Tierras ocultas: Antigua Roma
+
+[RANK_AVATAR_CONTENT_CONTENT_61070]
+Recompensa clasificatoria de la temporada 49 de Dueloz
+
+[RANK_AVATAR_CONTENT_CONTENT_61071]
+A quienes participaron en las Misiones de escuadrón de otoño (2026)
+
 [RANK_AVATAR_CONTENT_CONTENT_61500]
 ¡Dame dulces o te haré una travesura!
 
@@ -58615,6 +57398,15 @@ Tres son multitud
 
 [RANK_AVATAR_CONTENT_TITLE_61068]
 Luna llena
+
+[RANK_AVATAR_CONTENT_TITLE_61069]
+Romanos a la carga
+
+[RANK_AVATAR_CONTENT_TITLE_61070]
+Territorio enemigo
+
+[RANK_AVATAR_CONTENT_TITLE_61071]
+Otoño fructífero
 
 [RANK_AVATAR_CONTENT_TITLE_61500]
 Dulce o truco
@@ -60909,6 +59701,18 @@ Coloca el Guisante cósmico dentro del cohete espacial
 [ROLL_100]
 100 rondas
 
+[ROMAN_BALLISTA_PARTY]
+Balista veterano
+
+[ROMAN_BALLISTA_PARTY_DESCRIPTION]
+La salud del Zombi ezcorpión se triplica, este lanza 1 jarrón extra
+
+[ROMAN_HEALER_PARTY]
+Médico de campaña
+
+[ROMAN_HEALER_PARTY_DESCRIPTION]
+La salud del Sanador romano se triplica, este cura 2.5 s más rápido
+
 [ROMAN_NUM_1]
 I
 
@@ -60938,6 +59742,66 @@ IX
 
 [ROMAN_NUM_10]
 X
+
+[ROMA_LEVEL_NAME_01_H]
+Antigua Roma - Día 1 (Difícil)
+
+[ROMA_LEVEL_NAME_01_N]
+Antigua Roma - Día 1
+
+[ROMA_LEVEL_NAME_02_H]
+Antigua Roma - Día 2 (Difícil)
+
+[ROMA_LEVEL_NAME_02_N]
+Antigua Roma - Día 2
+
+[ROMA_LEVEL_NAME_03_H]
+Antigua Roma - Día 3 (Difícil)
+
+[ROMA_LEVEL_NAME_03_N]
+Antigua Roma - Día 3
+
+[ROMA_LEVEL_NAME_04_H]
+Antigua Roma - Día 4 (Difícil)
+
+[ROMA_LEVEL_NAME_04_N]
+Antigua Roma - Día 4
+
+[ROMA_LEVEL_NAME_05_H]
+Antigua Roma - Día 5 (Difícil)
+
+[ROMA_LEVEL_NAME_05_N]
+Antigua Roma - Día 5
+
+[ROMA_LEVEL_NAME_06_H]
+Antigua Roma - Día 6 (Difícil)
+
+[ROMA_LEVEL_NAME_06_N]
+Antigua Roma - Día 6
+
+[ROMA_LEVEL_NAME_07_H]
+Antigua Roma - Día 7 (Difícil)
+
+[ROMA_LEVEL_NAME_07_N]
+Antigua Roma - Día 7
+
+[ROMA_LEVEL_NAME_08_H]
+Antigua Roma - Día 8 (Difícil)
+
+[ROMA_LEVEL_NAME_08_N]
+Antigua Roma - Día 8
+
+[ROMA_LEVEL_NAME_09_H]
+Antigua Roma - Día 9 (Difícil)
+
+[ROMA_LEVEL_NAME_09_N]
+Antigua Roma - Día 9
+
+[ROMA_LEVEL_NAME_10_H]
+Antigua Roma - Día Final (Difícil)
+
+[ROMA_LEVEL_NAME_10_N]
+Antigua Roma - Día Final
 
 [ROSESWORDMAN]
 Rosa espadachín
@@ -66078,6 +64942,78 @@ T32-S5-7: Meseta de otoño - Parte 7
 [S32_MEMORY_LEVEL_NAME_040]
 T32-S5-8: Meseta de otoño - Parte 8
 
+[S32_MEMORY_LEVEL_NAME_041]
+T32-S6-1: Tierras baldías - Nivel 1
+
+[S32_MEMORY_LEVEL_NAME_042]
+T32-S6-2: Tierras baldías - Nivel 2
+
+[S32_MEMORY_LEVEL_NAME_043]
+T32-S6-3: Tierras baldías - Nivel 3
+
+[S32_MEMORY_LEVEL_NAME_044]
+T32-S6-4: Tierras baldías - Nivel 4
+
+[S32_MEMORY_LEVEL_NAME_045]
+T32-S6-5: Tierras baldías - Nivel 5
+
+[S32_MEMORY_LEVEL_NAME_046]
+T32-S6-6: Tierras baldías - Nivel 6
+
+[S32_MEMORY_LEVEL_NAME_047]
+T32-S6-7: Tierras baldías - Nivel 7
+
+[S32_MEMORY_LEVEL_NAME_048]
+T32-S6-8: Tierras baldías - Nivel 8
+
+[S32_MEMORY_LEVEL_NAME_049]
+T32-S7-1: Fortaleza voladora - Nivel 1
+
+[S32_MEMORY_LEVEL_NAME_050]
+T32-S7-2: Fortaleza voladora - Nivel 2
+
+[S32_MEMORY_LEVEL_NAME_051]
+T32-S7-3: Fortaleza voladora - Nivel 3
+
+[S32_MEMORY_LEVEL_NAME_052]
+T32-S7-4: Fortaleza voladora - Nivel 4
+
+[S32_MEMORY_LEVEL_NAME_053]
+T32-S7-5: Fortaleza voladora - Nivel 5
+
+[S32_MEMORY_LEVEL_NAME_054]
+T32-S7-6: Fortaleza voladora - Nivel 6
+
+[S32_MEMORY_LEVEL_NAME_055]
+T32-S7-7: Fortaleza voladora - Nivel 7
+
+[S32_MEMORY_LEVEL_NAME_056]
+T32-S7-8: Fortaleza voladora - Nivel 8
+
+[S32_MEMORY_LEVEL_NAME_057]
+T32-S8-1: Carrera lunar - Fase 1
+
+[S32_MEMORY_LEVEL_NAME_058]
+T32-S8-2: Carrera lunar - Fase 2
+
+[S32_MEMORY_LEVEL_NAME_059]
+T32-S8-3: Carrera lunar - Fase 3
+
+[S32_MEMORY_LEVEL_NAME_060]
+T32-S8-4: Carrera lunar - Fase 4
+
+[S32_MEMORY_LEVEL_NAME_061]
+T32-S8-5: Carrera lunar - Fase 5
+
+[S32_MEMORY_LEVEL_NAME_062]
+T32-S8-6: Carrera lunar - Fase 6
+
+[S32_MEMORY_LEVEL_NAME_063]
+T32-S8-7: Carrera lunar - Fase 7
+
+[S32_MEMORY_LEVEL_NAME_064]
+T32-S8-8: Carrera lunar - Fase 8
+
 [S32_MEMORY_LEVEL_NAME_BOSS_1]
 T32-S1: Teatro muerto
 
@@ -66093,8 +65029,797 @@ T32-S4: Corsario 2.0
 [S32_MEMORY_LEVEL_NAME_BOSS_5]
 T32-S5: Navegante de maple
 
+[S32_MEMORY_LEVEL_NAME_BOSS_6]
+T32-S6: Carro blindado
+
+[S32_MEMORY_LEVEL_NAME_BOSS_7]
+T32-S7: Buitre de guerra
+
+[S32_MEMORY_LEVEL_NAME_BOSS_8]
+T32-S8: Voyager Z
+
 [S32_MEMORY_LEVEL_NAME_BOSS_9]
 T32: Mechasaurio
+
+[S34_MEMORY_HARD_AUDIT_H3_TENTS]
+Destruye {GRID_ITEMS} tiendas de campaña
+
+[S34_MEMORY_HARD_AUDIT_H3_WARNING_2]
+¡Acampada zombi!
+
+[S34_MEMORY_HARD_AUDIT_H3_WARNING_4]
+¡Suministro de balones de ZCorp!
+
+[S34_MEMORY_HARD_AUDIT_H3_WARNING_6]
+¡Acampada zombi!
+
+[S34_MEMORY_HARD_BANANA_KILLS]
+Derrota a {NUMBER} zombis con Lanzaplátanos
+
+[S34_MEMORY_HARD_COB_PLANTING_RULE_016]
+Mazorcañón debe plantarse sobre 2 Lanzamaíces colindantes
+
+[S34_MEMORY_HARD_DESC_001]
+Pasajero sospechoso
+
+[S34_MEMORY_HARD_DESC_002]
+Zombis hipotérmicos
+
+[S34_MEMORY_HARD_DESC_003]
+Desalojo de campistas
+
+[S34_MEMORY_HARD_DESC_004]
+¡Ay, caramba!
+
+[S34_MEMORY_HARD_DESC_005]
+Nigromantes oscuros
+
+[S34_MEMORY_HARD_DESC_006]
+Poder destructivo
+
+[S34_MEMORY_HARD_DESC_007]
+Los seis mejores
+
+[S34_MEMORY_HARD_DESC_008]
+Girasoles en peligro
+
+[S34_MEMORY_HARD_DESC_009]
+Pelea nocturna
+
+[S34_MEMORY_HARD_DESC_010]
+Ojo por ojo
+
+[S34_MEMORY_HARD_DESC_011]
+¡Cuidado!
+
+[S34_MEMORY_HARD_DESC_012]
+Piezas de exhibición
+
+[S34_MEMORY_HARD_DESC_013]
+Sobresalto explosivo
+
+[S34_MEMORY_HARD_DESC_014]
+Estrella del desierto
+
+[S34_MEMORY_HARD_DESC_015]
+Tasación de plantas
+
+[S34_MEMORY_HARD_DESC_016]
+¡Fuego!
+
+[S34_MEMORY_HARD_DESC_017]
+Apuntar y disparar
+
+[S34_MEMORY_HARD_DESTROY_GRAVES]
+Destruye {GRID_ITEMS} lápidas
+
+[S34_MEMORY_HARD_DESTROY_RACKS]
+Destruye {GRID_ITEMS} estantes de armas
+
+[S34_MEMORY_HARD_DROP_W3_016]
+¡Enjambre robot!
+
+[S34_MEMORY_HARD_DROP_W6_016]
+¡Enjambre robot!
+
+[S34_MEMORY_HARD_DROP_W8_016]
+¡Enjambre robot!
+
+[S34_MEMORY_HARD_DROP_W9_016]
+¡Enjambre robot!
+
+[S34_MEMORY_HARD_GRAVE_RETURN_005]
+¡Lápidas!
+
+[S34_MEMORY_HARD_HAMMER_KILLS]
+Destrota a {NUMBER} zombis con martillo
+
+[S34_MEMORY_HARD_KILL_COBCANNON]
+Derrota a {NUMBER} zombis con Mazorcañón
+
+[S34_MEMORY_HARD_KILL_STARFRUIT]
+Derrota a {NUMBER} zombis con Frustrella
+
+[S34_MEMORY_HARD_KILL_THREEPEATER]
+Derrota a {NUMBER} zombis con Repetidora
+
+[S34_MEMORY_HARD_LASER_KILLS_010]
+Derrota a {NUMBER} zombis con Frijól láser
+
+[S34_MEMORY_HARD_MELON_KILLS_015]
+Derrota al menos {NUMBER} zombis con {NAME}
+
+[S34_MEMORY_HARD_MODE_001]
+Carros de mina
+
+[S34_MEMORY_HARD_MODE_002]
+Deshielo
+
+[S34_MEMORY_HARD_MODE_003]
+Acampada
+
+[S34_MEMORY_HARD_MODE_004]
+Fichas de color
+
+[S34_MEMORY_HARD_MODE_005]
+Oscuridad asoladora
+
+[S34_MEMORY_HARD_MODE_006]
+Meca y llamas
+
+[S34_MEMORY_HARD_MODE_007]
+Carros de mina
+
+[S34_MEMORY_HARD_MODE_008]
+Salvad nuestras semillas
+
+[S34_MEMORY_HARD_MODE_009]
+Verdugos de la noche
+
+[S34_MEMORY_HARD_MODE_010]
+A toda hipnosis
+
+[S34_MEMORY_HARD_MODE_011]
+Toneles alocados
+
+[S34_MEMORY_HARD_MODE_012]
+Despertar abrubto
+
+[S34_MEMORY_HARD_MODE_013]
+Zombis acrobáticos
+
+[S34_MEMORY_HARD_MODE_014]
+Viendo las estrellas
+
+[S34_MEMORY_HARD_MODE_015]
+Caja solar
+
+[S34_MEMORY_HARD_MODE_016]
+Casillas de aceleración zombi
+
+[S34_MEMORY_HARD_MODE_DESC_001]
+Úsalos para mover plantas por las vías
+
+[S34_MEMORY_HARD_MODE_DESC_002]
+Los ataques descongelan plantas y zombis
+
+[S34_MEMORY_HARD_MODE_DESC_003]
+Aparecen tiendas que generan zombis
+
+[S34_MEMORY_HARD_MODE_DESC_004]
+Las plantas con las mismas fichas activan Nutrientes al unísono
+
+[S34_MEMORY_HARD_MODE_DESC_005]
+No puedes llevar productores de sol en este nivel; aparecen lápidas que generan zombis
+
+[S34_MEMORY_HARD_MODE_DESC_006]
+Fuego y Mechs de football: ¡destrucción total!
+
+[S34_MEMORY_HARD_MODE_DESC_007]
+Úsalos para mover plantas por las vías
+
+[S34_MEMORY_HARD_MODE_DESC_008]
+Protege a las plantas en peligro. No puedes llevar productores solares; aparecen espejos mágicos.
+
+[S34_MEMORY_HARD_MODE_DESC_009]
+El bandido zombi gana invisibilidad instantánea; los magos y espadachines atacan a las filas adyacentes
+
+[S34_MEMORY_HARD_MODE_DESC_010]
+Utiliza Hipnosetas para derrotar a los zombis
+
+[S34_MEMORY_HARD_MODE_DESC_011]
+¡Cuidado con los toneles y tus plantas! ^E2725B^(Quizá Pinchorroca ayude)^oldclr^
+
+[S34_MEMORY_HARD_MODE_DESC_012]
+Las estatuas van despertando una por una; el Hechicero oscuro hipnotiza plantas
+
+[S34_MEMORY_HARD_MODE_DESC_013]
+Los zombis usan trampolines para invadir el patio
+
+[S34_MEMORY_HARD_MODE_DESC_014]
+Llena los espacios marcados con Frustrellas para ganar; las Frustrellas activan Nutrientes en cadena
+
+[S34_MEMORY_HARD_MODE_DESC_015]
+Devuelve parte del sol gastado en las plantas cercanas al usar Nutrientes en ella
+
+[S34_MEMORY_HARD_MODE_DESC_016]
+Aparecen casillas que otorgan aumento de velocidad a los zombis, e impiden el plantado
+
+[S34_MEMORY_HARD_NAME_001]
+T33-D-01: Pasajero sospechoso
+
+[S34_MEMORY_HARD_NAME_002]
+T33-D-02: Zombis hipotérmicos
+
+[S34_MEMORY_HARD_NAME_003]
+T33-D-03: Desalojo de campistas
+
+[S34_MEMORY_HARD_NAME_004]
+T33-D-04: ¡Ay, caramba!
+
+[S34_MEMORY_HARD_NAME_005]
+T33-D-05: Nigromantes oscuros
+
+[S34_MEMORY_HARD_NAME_006]
+T33-D-06: Poder destructivo
+
+[S34_MEMORY_HARD_NAME_007]
+T33-D-07: Los seis mejores
+
+[S34_MEMORY_HARD_NAME_008]
+T33-D-08: Girasoles en peligro
+
+[S34_MEMORY_HARD_NAME_009]
+T33-D-09: Pelea nocturna
+
+[S34_MEMORY_HARD_NAME_010]
+T33-D-10: Ojo por ojo
+
+[S34_MEMORY_HARD_NAME_011]
+T33-D-11: ¡Cuidado!
+
+[S34_MEMORY_HARD_NAME_012]
+T33-D-12: Piezas de exhibición
+
+[S34_MEMORY_HARD_NAME_013]
+T33-D-13: Sobresalto explosivo
+
+[S34_MEMORY_HARD_NAME_014]
+T33-D-14: Estrella del desierto
+
+[S34_MEMORY_HARD_NAME_015]
+T33-D-15: Tasación de plantas
+
+[S34_MEMORY_HARD_NAME_016]
+T33-D-16: ¡Fuego!
+
+[S34_MEMORY_HARD_NAME_017]
+T33-D-17: Apuntar y disparar
+
+[S34_MEMORY_HARD_REPEATER_KILLS]
+Derrota a {NUMBER} zombis con Repetidora
+
+[S34_MEMORY_HARD_SELF_CONSUME_RULE_007]
+Usar a Lechuga iceberg cuenta como perder una planta
+
+[S34_MEMORY_HARD_SELF_CONSUME_RULE_013]
+Usar a Petacereza cuenta como perder una planta
+
+[S34_MEMORY_HARD_SELF_CONSUME_RULE_014]
+Usar a Petacereza cuenta como perder una planta
+
+[S34_MEMORY_HARD_SPIKE_KILLS_010]
+Derrota a {NUMBER} zombis con Pinchohierba
+
+[S34_MEMORY_HARD_STAR_PATTERN_GOAL_014]
+Derrota a {NUMBER} zombis con Frustrella
+
+[S34_MEMORY_HARD_STORM_KILLS]
+Derrota a {NUMBER} zombis que estén siendo arrastrados por tormentas de arena
+
+[S34_MEMORY_HARD_SUN_SPENT_RULE_015]
+Los disparos de Hierba lupa también cuentan como consumo de sol
+
+[S34_MEMORY_HARD_TOY_KILLS_013]
+Derrota a {NUMBER} Zombis (s) con cajita
+
+[S34_MEMORY_HARD_WARNING_START_010]
+Solo cuentas con dos Setas solares, ¡buena suerte!
+
+[S34_MEMORY_HARD_WARNING_W1_013]
+¡Acróbatas al ataque!
+
+[S34_MEMORY_HARD_WARNING_W2_013]
+¡Tormenta de arena!
+
+[S34_MEMORY_HARD_WARNING_W2_016]
+¡Enjambre robot!
+
+[S34_MEMORY_HARD_WARNING_W3_012]
+¡La estatua está despertando!
+
+[S34_MEMORY_HARD_WARNING_W4_014]
+¡La formación se está rompiendo!
+
+[S34_MEMORY_HARD_WARNING_W5_010]
+¡Frente frío!
+
+[S34_MEMORY_HARD_WARNING_W5_013]
+¡Tormenta de arena!
+
+[S34_MEMORY_HARD_WARNING_W5_016]
+¡Enjambre robot!
+
+[S34_MEMORY_HARD_WARNING_W6_012]
+¡La estatua está despertando!
+
+[S34_MEMORY_HARD_WARNING_W7_010]
+¡Caos gélido!
+
+[S34_MEMORY_HARD_WARNING_W7_016]
+¡Enjambre robot!
+
+[S34_MEMORY_HARD_WARNING_W8_013]
+¡Tormenta de arena!
+
+[S34_MEMORY_HARD_WARNING_W8_016]
+¡Enjambre robot!
+
+[S34_MEMORY_HARD_WARNING_W9_012]
+¡La estatua está despertando!
+
+[S34_MEMORY_LEVEL_NAME_001]
+T33-S1-1: Ladrón de soles
+
+[S34_MEMORY_LEVEL_NAME_002]
+T33-S1-2: Misión imposible
+
+[S34_MEMORY_LEVEL_NAME_003]
+T33-S1-3: Mundo del espejo
+
+[S34_MEMORY_LEVEL_NAME_004]
+T33-S1-4: Cielo estrellado
+
+[S34_MEMORY_LEVEL_NAME_005]
+T33-S1-5: Barril con sorpresa
+
+[S34_MEMORY_LEVEL_NAME_006]
+T33-S1-6: Piscina desborada
+
+[S34_MEMORY_LEVEL_NAME_007]
+T33-S1-7: Visitas en el patio trasero
+
+[S34_MEMORY_LEVEL_NAME_008]
+T33-S1-8: Maratón del pavo
+
+[S34_MEMORY_LEVEL_NAME_009]
+T33-S2-1: Oportunidad única
+
+[S34_MEMORY_LEVEL_NAME_010]
+T33-S2-2: Campamento de zombis
+
+[S34_MEMORY_LEVEL_NAME_011]
+T33-S2-3: Luces ténues
+
+[S34_MEMORY_LEVEL_NAME_012]
+T33-S2-4: Verduras enlatadas
+
+[S34_MEMORY_LEVEL_NAME_013]
+T33-S2-5: Asistencia médica
+
+[S34_MEMORY_LEVEL_NAME_014]
+T33-S2-6: Misión espacial zombi
+
+[S34_MEMORY_LEVEL_NAME_015]
+T33-S2-7: Baile entre tumbas
+
+[S34_MEMORY_LEVEL_NAME_016]
+T33-S2-8: Muertos hostigadores
+
+[S34_MEMORY_LEVEL_NAME_017]
+T33-S3-1: Guerra de minas
+
+[S34_MEMORY_LEVEL_NAME_018]
+T33-S3-2: Vendedor hostil
+
+[S34_MEMORY_LEVEL_NAME_019]
+T33-S3-3: Just Plant
+
+[S34_MEMORY_LEVEL_NAME_020]
+T33-S3-4: Nueces enojadas
+
+[S34_MEMORY_LEVEL_NAME_021]
+T33-S3-5: Buscando a Taco
+
+[S34_MEMORY_LEVEL_NAME_022]
+T33-S3-6: Congelados
+
+[S34_MEMORY_LEVEL_NAME_023]
+T33-S3-7: Duelo en la azotea
+
+[S34_MEMORY_LEVEL_NAME_024]
+T33-S3-8: La última cena
+
+[S34_MEMORY_LEVEL_NAME_025]
+T33-S4-1: Locura vegetal
+
+[S34_MEMORY_LEVEL_NAME_026]
+T33-S4-2: De vuelta a la batalla
+
+[S34_MEMORY_LEVEL_NAME_027]
+T33-S4-3: Soldados caídos
+
+[S34_MEMORY_LEVEL_NAME_028]
+T33-S4-4: Matching Zombis
+
+[S34_MEMORY_LEVEL_NAME_029]
+T33-S4-5: Misión vegetal: ¡proteger el jardín!
+
+[S34_MEMORY_LEVEL_NAME_030]
+T33-S4-6: No hay tiempo que perder
+
+[S34_MEMORY_LEVEL_NAME_031]
+T33-S4-7: Ladrillos enladrillados
+
+[S34_MEMORY_LEVEL_NAME_032]
+T33-S4-8: Patio trasero Jurásico
+
+[S34_MEMORY_LEVEL_NAME_BOSS_1]
+Corsario
+
+[S34_MEMORY_LEVEL_NAME_BOSS_2]
+T33-S2: Carro blindado
+
+[S34_MEMORY_LEVEL_NAME_BOSS_3]
+T33-S3: Esfinge letal
+
+[S34_MEMORY_LEVEL_NAME_BOSS_4]
+T33-S4: Mañanatrón
+
+[S34_MEMORY_MODE_001]
+Infestación solar
+
+[S34_MEMORY_MODE_002]
+Ráfaga de petardos
+
+[S34_MEMORY_MODE_003]
+Espejos mágicos
+
+[S34_MEMORY_MODE_004]
+Viendo las estrellas
+
+[S34_MEMORY_MODE_005]
+Toneles alocados
+
+[S34_MEMORY_MODE_006]
+Plataformas flotantes
+
+[S34_MEMORY_MODE_007]
+Tormenta de arena
+
+[S34_MEMORY_MODE_008]
+Pavos en peligro
+
+[S34_MEMORY_MODE_009]
+No es un OK corral
+
+[S34_MEMORY_MODE_010]
+Acampada zombi
+
+[S34_MEMORY_MODE_011]
+Niebla de batalla
+
+[S34_MEMORY_MODE_012]
+Rompejarrones
+
+[S34_MEMORY_MODE_013]
+Alquimia oscura
+
+[S34_MEMORY_MODE_014]
+Zombis acrobáticos
+
+[S34_MEMORY_MODE_015]
+Lápidas de ultratumba
+
+[S34_MEMORY_MODE_016]
+Campistas y prospectos
+
+[S34_MEMORY_MODE_017]
+¡Formen! ¡Papapúms!
+
+[S34_MEMORY_MODE_018]
+Electro-escudo
+
+[S34_MEMORY_MODE_019]
+Danza de apertura
+
+[S34_MEMORY_MODE_020]
+La Bolera
+
+[S34_MEMORY_MODE_021]
+Por mar y por aire
+
+[S34_MEMORY_MODE_022]
+Carreras de bobsleigh
+
+[S34_MEMORY_MODE_023]
+Tejado
+
+[S34_MEMORY_MODE_024]
+Cinta transportadora
+
+[S34_MEMORY_MODE_025]
+Casillas doradas
+
+[S34_MEMORY_MODE_026]
+Zombificador
+
+[S34_MEMORY_MODE_027]
+Enjambre robot
+
+[S34_MEMORY_MODE_029]
+Cañones de guerra
+
+[S34_MEMORY_MODE_030]
+Energía atemporal
+
+[S34_MEMORY_MODE_031]
+Potenciadores zombi
+
+[S34_MEMORY_MODE_032]
+Dinosaurios sueltos
+
+[S34_MEMORY_MODE_BOSS_3]
+Batalla contra jefe
+
+[S34_MEMORY_MODE_BOSS_4]
+Batalla contra jefe
+
+[S34_MEMORY_MODE_DESC_001]
+Los zombis derrotados dejan caer sol
+
+[S34_MEMORY_MODE_DESC_002]
+La explosión de los petardos daña tanto a plantas como a zombis
+
+[S34_MEMORY_MODE_DESC_003]
+Aparecen varios espejos que transportan proyectiles y zombis por el patio
+
+[S34_MEMORY_MODE_DESC_004]
+Llena los espacios marcados con Frustrellas para ganar
+
+[S34_MEMORY_MODE_DESC_005]
+¡Cuidado con los toneles y tus plantas!
+
+[S34_MEMORY_MODE_DESC_006]
+Aparecen plataformas flotantes en la piscina. Úsalas para plantar en ellas antes de que se hundan
+
+[S34_MEMORY_MODE_DESC_007]
+Una tormenta de arena arrastra zombis consigo
+
+[S34_MEMORY_MODE_DESC_008]
+¡Ayuda a Dave a proteger los pavos esparcidos por el patio!
+
+[S34_MEMORY_MODE_DESC_009]
+¡Sobrevive al ataque zombi!
+
+[S34_MEMORY_MODE_DESC_010]
+Las tiendas generarán zombis sin parar, ¡destrúyelas lo antes posible!
+
+[S34_MEMORY_MODE_DESC_011]
+Una niebla espesa dificulta la visión
+
+[S34_MEMORY_MODE_DESC_012]
+Rompe los jarrones y derrota a los zombis
+
+[S34_MEMORY_MODE_DESC_013]
+Sobrevive mientras las pociones malignas potencian a los zombis
+
+[S34_MEMORY_MODE_DESC_014]
+Los zombis usan trampolines para invadir el patio
+
+[S34_MEMORY_MODE_DESC_015]
+Las lápidas invocan zombis sin cesar
+
+[S34_MEMORY_MODE_DESC_016]
+Aparecen tiendas de campaña y Buscadores de oro que atacan por ambos lados
+
+[S34_MEMORY_MODE_DESC_017]
+Resiste con semillas especiales de Papapúm que plantan una columna entera de golpe
+
+[S34_MEMORY_MODE_DESC_018]
+Un escudo que protege zombis y destruye plantas al contacto
+
+[S34_MEMORY_MODE_DESC_019]
+Disco mech y el Zombi catapulta unen fuerzas
+
+[S34_MEMORY_MODE_DESC_020]
+Echa a rodar nueces para destruir a los zombis
+
+[S34_MEMORY_MODE_DESC_021]
+¡Los delfines y Zombis globo no dan tregua!
+
+[S34_MEMORY_MODE_DESC_022]
+Los zombis han preparado trineos para los Juegos Olímpicos de Inverno en tu jardín trasero
+
+[S34_MEMORY_MODE_DESC_023]
+Planta en Macetas y sobrevive al ataque zombi
+
+[S34_MEMORY_MODE_DESC_024]
+Sobrevive con las plantas de la cinta transportadora
+
+[S34_MEMORY_MODE_DESC_025]
+Aparecen casillas doradas por el patio
+
+[S34_MEMORY_MODE_DESC_026]
+La última tecnología del Dr. Zombi. Transforma zombis en Zombisteins, pero a veces falla
+
+[S34_MEMORY_MODE_DESC_027]
+Caen varios Zombiditos bicho robot del cielo
+
+[S34_MEMORY_MODE_DESC_029]
+Usa a Cococañón y Mazorcañón para acabar con los zombis
+
+[S34_MEMORY_MODE_DESC_030]
+Reúne energía temporal; evita que el Zombi Ra robe tus soles
+
+[S34_MEMORY_MODE_DESC_031]
+Aparecen casillas especiales que otorgan cascos a los zombis
+
+[S34_MEMORY_MODE_DESC_032]
+Los dinosaurios invaden tu patio
+
+[S34_MEMORY_MODE_DESC_BOSS_3]
+Derrota la Esfinge letal Zombot
+
+[S34_MEMORY_MODE_DESC_BOSS_4]
+Derrota al Zombot Mañanatrón
+
+[S34_MEMORY_W1_DESC_1]
+Ladrón de soles
+
+[S34_MEMORY_W1_DESC_2]
+Misión imposible
+
+[S34_MEMORY_W1_DESC_3]
+Mundo del espejo
+
+[S34_MEMORY_W1_DESC_4]
+Cielo estrellado
+
+[S34_MEMORY_W1_DESC_5]
+Barril con sorpresa
+
+[S34_MEMORY_W1_DESC_6]
+Piscina desborada
+
+[S34_MEMORY_W1_DESC_7]
+Visitas en el patio trasero
+
+[S34_MEMORY_W1_DESC_8]
+Maratón del pavo
+
+[S34_MEMORY_W1_DESC_9]
+Jefe: Corsario Zombot
+
+[S34_MEMORY_W1_PROTECT_ALL]
+Protege 3 pavos
+
+[S34_MEMORY_W2_DESC_1]
+Oportunidad única
+
+[S34_MEMORY_W2_DESC_2]
+Campamento de zombis
+
+[S34_MEMORY_W2_DESC_3]
+Luces ténues
+
+[S34_MEMORY_W2_DESC_4]
+Verduras enlatadas
+
+[S34_MEMORY_W2_DESC_5]
+Asistencia médica
+
+[S34_MEMORY_W2_DESC_6]
+Misión espacial zombi
+
+[S34_MEMORY_W2_DESC_7]
+Baile entre tumbas
+
+[S34_MEMORY_W2_DESC_8]
+Muertos hostigadores
+
+[S34_MEMORY_W2_DESC_9]
+Jefe: Carro blindado Zombot
+
+[S34_MEMORY_W2_L1_GOAL_1]
+Derrota a 12 zombis con Pinchohierba
+
+[S34_MEMORY_W2_L3_GOAL_1]
+Derrota a 12 zombis con Bonk Choy
+
+[S34_MEMORY_W2_L4_GOAL_1]
+Derrota a 4 zombis con Bonk Choy
+
+[S34_MEMORY_W2_L7_GOAL_1]
+Destruye 10 lápidas
+
+[S34_MEMORY_W3_DESC_1]
+Guerra de minas
+
+[S34_MEMORY_W3_DESC_2]
+Vendedor hostil
+
+[S34_MEMORY_W3_DESC_3]
+Just Plant
+
+[S34_MEMORY_W3_DESC_4]
+Nueces enojadas
+
+[S34_MEMORY_W3_DESC_5]
+Buscando a Taco
+
+[S34_MEMORY_W3_DESC_6]
+Congelados
+
+[S34_MEMORY_W3_DESC_7]
+Duelo en la azotea
+
+[S34_MEMORY_W3_DESC_8]
+La última cena
+
+[S34_MEMORY_W3_DESC_9]
+Jefe: Esfinge letal Zombot
+
+[S34_MEMORY_W3_L1_GOAL_1]
+Derrota a 8 zombis con Papapúm
+
+[S34_MEMORY_W3_L6_GOAL_1]
+Derrota a 14 zombis con Jalapeño
+
+[S34_MEMORY_W3_L9_GOAL_1]
+Derrota a 12 zombis con Coltapulta
+
+[S34_MEMORY_W4_AIRDROP_WARNING]
+¡Enjambre robot!
+
+[S34_MEMORY_W4_DESC_1]
+Locura vegetal
+
+[S34_MEMORY_W4_DESC_2]
+De vuelta a la batalla
+
+[S34_MEMORY_W4_DESC_3]
+Soldados caídos
+
+[S34_MEMORY_W4_DESC_4]
+Matching Zombis
+
+[S34_MEMORY_W4_DESC_5]
+Misión vegetal: ¡proteger el jardín!
+
+[S34_MEMORY_W4_DESC_6]
+No hay tiempo que perder
+
+[S34_MEMORY_W4_DESC_7]
+Ladrillos enladrillados
+
+[S34_MEMORY_W4_DESC_8]
+Patio trasero Jurásico
+
+[S34_MEMORY_W4_DESC_9]
+Jefe: Zombot Mañanatrón
+
+[S34_MEMORY_W4_L2_GOAL_1]
+No pierdas el carrito
+
+[S34_MEMORY_W4_L4_GOAL_2]
+Derrota a 8 zombis con Seta desesporada
+
+[S34_MEMORY_W4_L5_GOAL_1]
+Derrota a 18 zombis con Mazorcañón
+
+[S34_MEMORY_W4_L9_GOAL_1]
+Derrota a 8 zombis con Petacereza
 
 [SALES_BUY_SUCCESS_TITLE]
 ¡Compra exitosa!
@@ -66652,6 +66377,9 @@ Dispara a corta distancia por tiempo limitado
 [SECONDS]
 s
 
+[SECOND_LOCK_VERIFY_FAILED]
+Agotado el número de intentos. Vuelve a intentarlo en 24 h
+
 [SECOND_PRIZE]
 Segundo premio
 
@@ -66764,6 +66492,9 @@ No seleccionaste ninguna planta productora de sol, ¿seguro que quieres continua
 
 [SEED_CHOOSER_UNOWNED_IN_SPINE]
 Encontrable en {WorldName}
+
+[SEED_CHOOSER_WARNING_PVZ1SKIPNEXTWAVE]
+"Prox. oleada (Auto)" está activa y este nivel tiene muchos zombis, lo que aumenta la dificultad. ¿Seguro que quieres continuar?
 
 [SEED_CHOOSER_WARNING_TITLE]
 ¡ATENCIÓN!
@@ -67165,6 +66896,9 @@ Completa Egipto 7 para restablecer las compras.
 
 [SETTINGS_RESTORE_PURCHASES_TITLE]
 Restablecer compras
+
+[SETTINGS_SECOND_LOCK_TITLE]
+Autentificación en dos pasos
 
 [SETTINGS_TERMSOFSERVICE_URL]
 http://tos.ea.com/legalapp/WEBTERMS/US/{LOCALE}/PC/
@@ -70126,7 +69860,7 @@ Sobrevive con las plantas de la cinta transportadora
 ¡Sobrevive al ataque zombi!
 
 [STARCHALLENGE_CORRAL_MINIGAME_NAME]
-No es un OK Corral
+No es un OK corral
 
 [STARCHALLENGE_COWBOY_FINALE]
 Sobrevive a un ataque masivo en el Salvaje Oeste
@@ -70814,6 +70548,12 @@ Comenzar
 
 [START_GAME_BUTTON]
 COMENZAR
+
+[START_GAME_BUTTON_OFFSKIPNEXT]
+CONTINUAR
+
+[START_GAME_BUTTON_ONSKIPNEXT]
+DESACT. Y CONTINUAR
 
 [START_PERIOD_IN_DAYS]
 Comienza en {DAYS}
@@ -71883,6 +71623,12 @@ El número de plantas evolucionadas con su efecto de Nutrientes aumenta
 [STORE_PRODUCT_AVATAR_COSMICPEA_TITLE]
 Cámara de seguridad
 
+[STORE_PRODUCT_AVATAR_COSMICSAUCER]
+Aumenta el número de zombis abducidos
+
+[STORE_PRODUCT_AVATAR_COSMICSAUCER_TITLE]
+Sombrero de gato
+
 [STORE_PRODUCT_AVATAR_COSMOSS]
 Sin efectos
 
@@ -72692,6 +72438,12 @@ Lanza una baya al final del efecto, la cual explota en un área mediana
 
 [STORE_PRODUCT_AVATAR_MULBERRY_TITLE]
 Protectores
+
+[STORE_PRODUCT_AVATAR_NAGASALAK]
+El remolino del efecto contiene criaturas marinas que hacen un ataque de apoyo
+
+[STORE_PRODUCT_AVATAR_NAGASALAK_TITLE]
+Lentes diamante
 
 [STORE_PRODUCT_AVATAR_NARCISSUSSHOOTER]
 Es probable que las burbujas gigantes derriben zombis medianos
@@ -73823,6 +73575,12 @@ Nivel 3
 [SUGARCANE_TOOLTIP]
 Bloquea y retiene zombis
 
+[SUMMARY_ALMANAC_AMOUNT]
+{ALMANAC_COUNT}
+
+[SUMMARY_ALMANAC_UNLOCK_COUNT]
+Progreso de almanaque:
+
 [SUMMARY_CLOUD]
 Datos de la nube
 
@@ -73831,6 +73589,9 @@ Datos de la nube
 
 [SUMMARY_DOWNLOADING]
 Descargando de la nube...
+
+[SUMMARY_FULL_STAR_WORLD_COUNT]
+Mundos completados:
 
 [SUMMARY_LAST_TIME]
 Último acceso: {DAY}/{MONTH} a las {HOUR}:{MIN}
@@ -73841,11 +73602,39 @@ Niveles completados:
 [SUMMARY_LOCAL]
 Datos locales
 
+[SUMMARY_MAIN_WORLD_STAR_COUNT]
+Estrellas del mundo actual:
+
+[SUMMARY_MIGRATION_CLOUD_BODY]
+Seleccionaste: datos de la nube. De ahora en adelante, se cargarán los progresos de la nube. ¿Estás seguro?
+
+[SUMMARY_MIGRATION_CONFIRM_HEADER]
+TIPO DE GUARDADO
+
+[SUMMARY_MIGRATION_LOCAL_BODY]
+Seleccionaste: datos locales. De ahora en adelante, se cargarán los progresos de tu dispositivo. ¿Estás seguro?
+
+[SUMMARY_MIGRATION_OLDER_CLOUD_BODY]
+Seleccionaste: datos de la nube. De ahora en adelante, se cargarán los progresos de la nube. ¿Estás seguro?
+
+^FF0000^Se perderá el progreso más reciente guardado.^oldclr^
+
+[SUMMARY_MIGRATION_OLDER_HEADER]
+CONFIRMAR GUARDADO
+
+[SUMMARY_MIGRATION_OLDER_LOCAL_BODY]
+Seleccionaste: datos locales. De ahora en adelante, se cargarán los progresos de tu dispositivo. ¿Estás seguro?
+
+^FF0000^Se perderá el progreso más reciente guardado.^oldclr^
+
 [SUMMARY_NEWER_DATA_RECOMMENDATION]
 (Progreso más reciente)
 
 [SUMMARY_NOTICE]
 AVISOS
+
+[SUMMARY_RECENT_LEVEL]
+Nivel reciente:
 
 [SUMMARY_STAR]
 
@@ -74518,6 +74307,9 @@ Escoge el aspecto de tu elección
 SELECCIONAR ASPECTO
 
 [SUPER_BOSS_COMING_SOON]
+Reúne todas las Estrellas de los niveles anteriores para desbloquear el Día Final.
+
+[SUPER_BOSS_COMING_SOON_MOON]
 Reúne todas las Estrellas de los niveles anteriores para desbloquear el Día Final.
 
 [SUPER_CLOCK]
@@ -76305,6 +76097,9 @@ A quienes participaron en la temporada 15 del evento: El Tesoro celestial
 [TIANGONG_HEAD_DES_ID_25913]
 A quienes participaron en la temporada 16 del evento: El Tesoro celestial
 
+[TIANGONG_HEAD_DES_ID_25942]
+A quienes participaron en la temporada 17 del evento: El Tesoro celestial
+
 [TIANGONG_HEAD_ID_25698]
 Rey de lingotes
 
@@ -76355,6 +76150,9 @@ Lechuga polar
 
 [TIANGONG_HEAD_ID_25913]
 Viaje al vacío
+
+[TIANGONG_HEAD_ID_25942]
+Los Iluzionistas
 
 [TICKETS_PURCHASE_CONFIRMATION]
 CONFIRMAR COMPRA
@@ -76524,11 +76322,17 @@ A quienes unieron fuerzas en la 1ra temporada del evento: Fisura temporal
 [TIME_SPACE_HEAD_DES_ID_25898]
 A quienes unieron fuerzas en la 2da temporada del evento: Fisura temporal
 
+[TIME_SPACE_HEAD_DES_ID_25943]
+A quienes unieron fuerzas en la 3ra temporada del evento: Fisura temporal
+
 [TIME_SPACE_HEAD_ID_25818]
 Cuchilla doble
 
 [TIME_SPACE_HEAD_ID_25898]
 Fuego y hielo
+
+[TIME_SPACE_HEAD_ID_25943]
+Fuerza vinculante
 
 [TIME_SUMMON_HEAD_DES_ID_25373]
 Para el jugador que ganó el primer lugar en el evento Peticiones por tiempo limitado.
@@ -76866,11 +76670,41 @@ El código de invitación debe ser de algún equipo al que te quieras unir, ¡no
 [TOURISM_OCTOBER_INVITATION_SUCCESS]
 ¡Reclutamiento exitoso!
 
+[TOURISM_OCTOBER_JOIN_COOLDOWN]
+Unirse a un equipo disponible en: {TIME}
+
+[TOURISM_OCTOBER_KICKED_TIP]
+Has sido expulsado del equipo.
+
+[TOURISM_OCTOBER_KICK_CONFIRM]
+¿Seguro que quieres expulsar a ese miembro del equipo?
+
+[TOURISM_OCTOBER_KICK_COOLDOWN]
+Expulsar miembros disponible en: {TIME}
+
+[TOURISM_OCTOBER_LEAVE_CONFIRM]
+¿Seguro que quieres abandonar el equipo?
+
+[TOURISM_OCTOBER_LEAVE_COOLDOWN]
+Abandonar equipo disponible en: {TIME}
+
+[TOURISM_OCTOBER_LEAVE_TEAM]
+ABANDONAR
+
 [TOURISM_OCTOBER_OK]
 ACEPTAR
 
 [TOURISM_OCTOBER_REFUSE]
 RECHAZAR
+
+[TOURISM_OCTOBER_REMOVE_MEMBER]
+EXPULSAR
+
+[TOURISM_OCTOBER_REWARD_EMPTY]
+Sin recompensas. Se alcanzó el límite máx. de Monedas de amistad.
+
+[TOURISM_OCTOBER_REWARD_EMPTY_TITLE]
+AVISOS
 
 [TOURISM_OCTOBER_TAB_NAME1]
 Equipo
@@ -76883,6 +76717,9 @@ Misiones
 
 [TOURISM_OCTOBER_TAB_NAME4]
 Tienda
+
+[TOURISM_OCTOBER_TEAM_MANAGEMENT]
+Gestión del equipo
 
 [TOURISM_OCTOBER_TIME]
 Termina en:
@@ -76962,6 +76799,9 @@ A quienes participaron en la temporada 16 del evento: Fiesta de disfraces
 [TOYS_HEAD_DES_ID_25920]
 A quienes participaron en la temporada 17 del evento: Fiesta de disfraces
 
+[TOYS_HEAD_DES_ID_25941]
+A quienes participaron en la temporada 18 del evento: Fiesta de disfraces
+
 [TOYS_HEAD_ID_25327]
 Dragón hambriento
 
@@ -77012,6 +76852,9 @@ Fuego misterioso
 
 [TOYS_HEAD_ID_25920]
 Apocalipsis
+
+[TOYS_HEAD_ID_25941]
+Monstruo de hielo
 
 [TOY_NIGHT_CHANCE_TABLE]
 • Bolsa de premios:
@@ -79035,6 +78878,183 @@ Remolacha trememenda
 [UNCHARTED_PHATBEET_TOOLTIP]
 Inflige daño cada pocos segundos
 
+[UNCHARTED_ROMAN_HEAD_DES_ID_25940]
+A quienes reunieron todas las estrellas en Tierras ocultas: Antigua Roma
+
+[UNCHARTED_ROMAN_HEAD_ID_25940]
+Rey de Roma
+
+[UNCHARTED_ROMA_N_CHALLENGE_2]
+Derrota a {NUMBER} Escudo (s) romano (s)
+
+[UNCHARTED_ROMA_N_CHALLENGE_3]
+Derrota {NUMBER} Zombi (s) caracubo, centurión o carabusto (cualquiera)
+
+[UNCHARTED_ROMA_N_CHALLENGE_4]
+Derrota a {NUMBER} Escudo (s) romano (s)
+
+[UNCHARTED_ROMA_N_CHALLENGE_5]
+Derrota a {NUMBER} Sanador (es) romano (s)
+
+[UNCHARTED_ROMA_N_CHALLENGE_6]
+Derrota a Medusa x{NUMBER}
+
+[UNCHARTED_ROMA_N_CHALLENGE_9]
+Derrota a {NUMBER} Gladiador (es)
+
+[UNCHARTED_ROMA_N_CHALLENGE_10]
+Derrota al Conquistador de Roma
+
+[UNCHARTED_ROMA_TASK_NAME_1_1]
+Completa estos 3 objetivos: Bandera del Águila, Escacez de semillas II y Refuerzo zombi III
+
+[UNCHARTED_ROMA_TASK_NAME_1_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_1_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_1_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_1_5]
+Alcanza 10 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_2_1]
+Completa estos 3 objetivos: Refuerzo zombi, Crisis solar II y Escacez de semillas III
+
+[UNCHARTED_ROMA_TASK_NAME_2_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_2_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_2_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_2_5]
+Alcanza 10 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_3_1]
+Completa estos 3 objetivos: Tiradores costosos, Bandera del Águila y Refuerzo zombi III
+
+[UNCHARTED_ROMA_TASK_NAME_3_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_3_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_3_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_3_5]
+Alcanza 10 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_4_1]
+Completa estos 3 objetivos: Costes exorbitantes, Inmunidad al control y Bandera del Águila
+
+[UNCHARTED_ROMA_TASK_NAME_4_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_4_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_4_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_4_5]
+Alcanza 10 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_5_1]
+Completa estos 3 objetivos: Costes exorbitantes, Zombis fugaces II y Refuerzo zombi III
+
+[UNCHARTED_ROMA_TASK_NAME_5_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_5_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_5_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_5_5]
+Alcanza 10 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_6_1]
+Completa estos 3 objetivos: Costes exorbitantes, Debilidad botánica II, Refuerzo zombi III
+
+[UNCHARTED_ROMA_TASK_NAME_6_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_6_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_6_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_6_5]
+Alcanza 10 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_7_1]
+Completa estos 3 objetivos: Apoyo valioso, Refuerzo zombi II y Escacez de semillas III
+
+[UNCHARTED_ROMA_TASK_NAME_7_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_7_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_7_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_7_5]
+Alcanza 10 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_8_1]
+Completa estos 3 objetivos: Crisis solar, Escacez de semillas II y Campeón de la arena
+
+[UNCHARTED_ROMA_TASK_NAME_8_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_8_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_8_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_8_5]
+Alcanza 10 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_9_1]
+Completa estos 3 objetivos: Tiradores costosos, Zombis fugaces II, Refuerzo zombi III
+
+[UNCHARTED_ROMA_TASK_NAME_9_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_9_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_9_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_9_5]
+Alcanza 10 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_10_1]
+Completa estos 3 objetivos: Escacez de semillas, Zombis fugaces II y Refuerzo zombi III
+
+[UNCHARTED_ROMA_TASK_NAME_10_2]
+Alcanza 2 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_10_3]
+Alcanza 4 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_10_4]
+Alcanza 6 estrellas como récord histórico.
+
+[UNCHARTED_ROMA_TASK_NAME_10_5]
+Alcanza 10 estrellas como récord histórico.
+
 [UNCHARTED_SHOP_PREVIEW_DESCRIPTION_1]
 Guisantralladora hace 50% más daño y cuesta 150 soles menos
 
@@ -80436,6 +80456,12 @@ OLEADA FINAL
 
 [WARNING_GRAVESTONE_SPAWN]
 ¡Nigromancia!
+
+[WARNING_GRAVITY_GENERATOR_ANTI]
+¡Gravedad cero!
+
+[WARNING_GRAVITY_GENERATOR_HEAVY]
+¡Hipergravedad!
 
 [WARNING_HAMSTER_BALLS]
 ¡PELEA DE HÁMSTERS!
@@ -85593,6 +85619,19 @@ Zombi cazador de reliquias
 [ZOMBIE_LOSTCITY_RELICHUNTER_DESCRIPTION_HEADER]
 Atraviesa defensas balanceándose.
 
+[ZOMBIE_LUNAR_RADIATION_GARGANTUAR]
+Zombistein astro-mutante
+
+[ZOMBIE_LUNAR_RADIATION_GARGANTUAR_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta plantas con su antena espacial
+
+{KEYWORD}Especial: {STAT}explota al ser derrotado, liberando radiación que afecta plantas y zombis cercanos
+
+{FLAVOR}Antes era un astronauta de lo más común, hasta que una misión bajo la luz de la luna lo expuso a una misteriosa radiación. Cuando volvió a la Tierra, ya no era el mismo.
+
+[ZOMBIE_LUNAR_RADIATION_GARGANTUAR_DESCRIPTION_HEADER]
+Un coloso espacial lleno de radiación cósmica.
+
 [ZOMBIE_MAUSOLEUM_ARCHER]
 Zombi shèshou
 
@@ -86557,6 +86596,12 @@ Zombi hielaguisantes
 
 [ZOMBIE_NEW_PVP_ZOMBIE_SNOWPEA_DESCRIPTION_HEADER]
 Lanza guisantes helados que dañan y ralentizan plantas
+
+[ZOMBIE_NODEFAULT_DIFFICULTY_3]
+Zombis capacitados
+
+[ZOMBIE_NODEFAULT_DIFFICULTY_3_DESCRIPTION]
+La fuerza de los zombis es 5, no puedes usar Artefactos
 
 [ZOMBIE_NUM]
 Zombis:
@@ -88051,6 +88096,19 @@ Zombidito salchicha
 [ZOMBIE_SUMMER_IMP_DESCRIPTION_HEADER]
 Un pequeño amante de las salchichas que, una vez lanzado, se arrastra lentamente por el patio.
 
+[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI]
+Zombistein Nova Géminis
+
+[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI_DESCRIPTION]
+{KEYWORD}Daño: {STAT}aplasta una planta con su cetro y destruye todas las copias de esa planta
+
+{KEYWORD}Clonación: {STAT}el Zombidito dispara un rayo que clona una planta y transforma las plantas cercanas en copias de ella
+
+{FLAVOR}Desde que consiguieron la tecnología de clonación, estos dos zombis no han vuelto a trabajar por separado. Al fin y al cabo, ¡dos cabezas son mejores que una!
+
+[ZOMBIE_SUPERNOVA_GARGANTUAR_GEMINI_DESCRIPTION_HEADER]
+Un dúo cósmico que combina clonación y destrucción en perfecta sincronía.
+
 [ZOMBIE_SUPER_DEVILS_ALIEN_GARGANTUAR]
 Zombistein abisal supremo
 
@@ -88724,6 +88782,31 @@ Arrasa con una línea entera de plantas si no lo destruyes a tiempo.
 [ZOMBIE_ZOMBIE_MONEYTREE_DESCRIPTION_HEADER]
 Está adornado con monedas relucientes que caen con cada golpe.
 
+[ZOMBIE_ZOMBIE_MOON_BLADE]
+Espadachín del espacio
+
+[ZOMBIE_ZOMBIE_MOON_BLADE_DESCRIPTION]
+{KEYWORD}Daño: {STAT}atrae y destruye plantas al contacto
+{KEYWORD}Especial: {STAT}corta los proyectiles dirigidos a él
+
+{FLAVOR}Encontró una espada cuántica capaz de cortar hasta el espacio. Ahora puede regresar a casa en un instante cada vez que se embarca en una aventura. El único problema es que nunca sabe donde dejó las llaves tiradas.
+
+[ZOMBIE_ZOMBIE_MOON_BLADE_DESCRIPTION_HEADER]
+Un espadachín que viaja por el espacio y parte proyectiles en dos.
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST]
+Ilusionista dimensional
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION]
+{KEYWORD}Especial: {STAT}las ilusiones se materializan cuando su salud está a la mitad
+
+{KEYWORD}Ilusiones: {STAT}Esfinge letal Zombot, Maestro del Qigong, Z-Mech
+
+{FLAVOR}Le encanta hacerse pasar por otros zombis. Tanto, que construyó un pequeño aparato capaz de proyectar ilusiones y darle la apariencia de cualquiera. Ahora puede ser quien quiera. Su siguiente objetivo: descubrir quién quiere ser.
+
+[ZOMBIE_ZOMBIE_MOON_ILLUSIONIST_DESCRIPTION_HEADER]
+¡Al llegar a la 8° columna, se convierte en quien quiera!
+
 [ZOMBIE_ZOMBIE_PUMPKIN]
 Zombi calabaza
 
@@ -88803,6 +88886,15 @@ Zombistein supernova
 
 [ZOMBIE_ZOMBIE_SUPERNOVA_GARGANTUAR_DESCRIPTION_HEADER]
 Un zombistein devastador capaz de borrar plantas de un solo golpe.
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_IMP]
+Zombidito supernova
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_IMP_DESCRIPTION]
+{FLAVOR}Parece una supernova. Su amenaza, no tanto.
+
+[ZOMBIE_ZOMBIE_SUPERNOVA_IMP_DESCRIPTION_HEADER]
+Un pequeño zombi cósmico que llega desarmado.
 
 [ZOMBIE_ZOMBIE_TOWERDEFEND_WOLF_FIRE]
 Lobo con antorcha
@@ -89650,6 +89742,15 @@ Tres son multitud
 [rank_avatar_diy_71]
 Luna llena
 
+[rank_avatar_diy_72]
+Romanos a la carga
+
+[rank_avatar_diy_73]
+Territorio enemigo
+
+[rank_avatar_diy_74]
+Otoño fructífero
+
 [rank_avatar_diy_100]
 Vigor juvenil
 
@@ -89676,3 +89777,10 @@ Actualizado semanalmente
 
 [view_picks]
 Ver elecciones
+
+[zombie_attack_difficulty_3]
+Inmunidad al control
+
+[zombie_attack_difficulty_3_DESCRIPTION]
+Los zombis son inmunes a los efectos de control
+
