@@ -3,11 +3,74 @@
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.4^oldclr^ | ^87CEFA^Parche: 1.3.0 (actualizado el 5/10/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.4^oldclr^ | ^87CEFA^Parche: 1.3.1 (actualizado el 17/10/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [AGE_TIP]
 Notas de la actualización 4.2.4
+
+[S34_MEMORY_W2_PROTECT_SUPPLIES]
+Proteger a los 2 pavos
+
+[S34_MEMORY_W2_L3_OPENING_HINT]
+Tip: usa Nutrientes en Hongo para producir mucho sol
+
+[S34_MEMORY_W2_L6_CANNON_GOAL]
+Derrota a 16 zombis con Cococañón
+
+[S34_MEMORY_W2_L6_GATHER_1]
+Tip: atrae zombis con Níspero ciclónico y hazlos estallar
+
+[S34_MEMORY_W2_L8_GOAL_2]
+Derrota a 10 zombis con Seta desesporada
+
+[S34_MEMORY_W3_PROTECTOR_NOTICE]
+¡Electro-escudo!
+
+[S34_MEMORY_W3_REWORK_BUS_WARNING]
+¡Autobus en camino!
+
+[S34_MEMORY_W3_L5_STRAWBERRY_GOAL]
+Derrota a {NUMBER} zombis con {NAME}
+
+[S34_MEMORY_W3_L5_STRAWBERRY_INTRO]
+Tip: toca en Fragaria para disparar
+
+[S34_MEMORY_W3_L5_MECH_INTRO]
+¡Asalto mecha!
+
+[S34_MEMORY_W3_L5_FAST_WARNING]
+¡Tormenta de arena!
+
+[S34_MEMORY_W3_L5_GRAVE_WARNING]
+¡Nigromancia!
+
+[S34_MEMORY_W3_L6_GOLD_NOTICE]
+Tip: planta en casillas doradas para generar sol
+
+[S34_MEMORY_W3_L6_TIRE_NOTICE]
+¡Llantas sueltas!
+
+[S34_MEMORY_W3_REWORK_ROOF_WARNING]
+¡Tormenta de arena!
+
+[S34_MEMORY_W3_L7_JUMP_NOTICE]
+Tip: Paraplanta bloquea a los zombis que caen del cielo
+
+[S34_MEMORY_W3_L7_BUNGEE_NOTICE]
+¡Colgaos cayendo!
+
+[S34_MEMORY_W3_REWORK_RAIL_WARNING]
+¡Zombisteins sueltos!
+
+[S34_MEMORY_W3_L8_EVOLUTION_NOTICE]
+Tip: usa Nutrientes en plantas cósmicas para evolucionarlas
+
+[S34_MEMORY_W3_L8_BLADE_NOTICE]
+Tip: Nuez cósmica puede escapar del tajo del Espachín espacial
+
+[S34_MEMORY_W3_L8_SUPERNOVA_NOTICE]
+¡Nova Géminis avistada!
 
 [AGE_TIP_CONTENT]
 1. Llega la segunda parte de Base Lunar Z con nuevos zombis
@@ -357,7 +420,7 @@ DESCRIPCIÓN DEL EVENTO
 Comprar x30 元
 
 [ACTIVITY_NEW_PIGGY_BANK_DESC]
-Compra una hucha y ahorra hasta un ^ff0000^99%^oldclr^ al comprar Joyas ^ff0000^(máx. 2.970)^oldclr^
+Compra una hucha y ahorra hasta un ^ff0000^99%^oldclr^ en Joyas ^ff0000^(máx. 2.970)^oldclr^
 
 [ACTIVITY_NEW_PIGGY_BANK_LOGIN_TEXT]
 
@@ -1995,7 +2058,11 @@ Gorra roja
 {KEYWORD}Especial: {STAT}¡tres plantas en una!
 {KEYWORD}Criaturas-planta: {STAT}tiranosaurio rex, medusa, caballo fantasma
 
-^397F24^Nutrientes: {STAT}la criatura-planta libera un superataque. Tiranosaurio: estampida de dinosaurios | Medusa: dispara un láser al zombi más fuerte | Caballo: crea un portal que transporta zombis
+^397F24^Nutrientes: {STAT}la criatura-planta libera un superataque:
+
+^FF8000^• Tiranosaurio rex: convoca una estampida de dinosaurios.
+^4DD4DB^• Medusa: dispara un láser al zombi más fuerte.
+^A048CF^• Caballo fantasma: crea un portal que transporta zombis al centro.^oldclr^
 
 ^DD7ECB^Características de la planta: {STAT}planta anaranjada, destructora
 ^FF8000^Miscelánea: {STAT}colaboración especial con Pokemón
@@ -2029,9 +2096,9 @@ Despertar: ^D22808^30 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^A048CF^Caballo fantasma: su carga derriba zombis al contacto, desplazándolos ^D22808^0.5 casillas^oldclr^
 
 [ANIMNUTS_PLANTFOOD_DESCRIPTION]
-^FF8000^Tiranosaurio rex: invoca una estampida de dinosaurios que daña zombis a su paso^oldclr^
-^4DD4DB^Medusa: dispara un rayo al zombi con más salud, infligiendo un 20 % de daño durante 25 s^oldclr^
-^A048CF^Caballo fantasma: dibuja un círculo mágico que transporta zombis al centro por 15 s^oldclr^
+^FF8000^Tiranosaurio: convoca una estampida de dinosaurios.^oldclr^
+^4DD4DB^Medusa: dispara un rayo al zombi más fuerte. ^D22808^Daño: 20 % por 25 s^oldclr^
+^A048CF^Caballo: crea un portal que transporta zombis al centro. ^D22808^Duración: 15 s^oldclr^
 
 [ANIMNUTS_PRODUCT_SHORT_DESC]
 Invoca criaturas para atacar a los zombis
@@ -4027,7 +4094,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_1]
-Toma una foto que retrata el estado de tu patio y aturde zombis por ^D22808^{MainField_1} s^oldclr^. Luego, el patio se restaura y las plantas se vuelven invencibles por ^D22808^{MainField_2} s^oldclr^
+Toma una foto que retrata el estado de tu patio y aturde zombis por ^FF9600^{MainField_1} s^oldclr^. Luego, el patio se restaura y las plantas se vuelven invencibles por ^D22808^{MainField_2} s^oldclr^
 
 ^4DD4DB^- Recarga: 30 s^oldclr^
 ^DB8117^- Usos: {MainField_4}^oldclr^
@@ -4036,7 +4103,7 @@ Toma una foto que retrata el estado de tu patio y aturde zombis por ^D22808^{Mai
 ^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas aturdidoras^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_3]
-^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, la luz intermitente de la cámara parpadeará, aturdiendo a zombis pequeños y medianos por ^D22808^3 s^oldclr^
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, la luz intermitente de la cámara parpadeará, aturdiendo a zombis pequeños y medianos por ^FF9600^3 s^oldclr^
 
 [ARTIFACT_CAMERA_SKILL_DESCRIPTION_4]
 ^98FB98^Activa I:^oldclr^ una vez el patio regrese a su estado original, aparecerán ^D22808^5^oldclr^ fantasmas que acechan al primer zombi que encuentren, haciendo que retrocedan.
@@ -4127,7 +4194,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_DEVOLVE_SKILL_DESCRIPTION_1]
-Reemplaza a los zombis pequeños y medianos del patio con variantes de zombis más débiles.
+Reemplaza a los zombis pequeños y medianos del patio con variantes más débiles.
 
 ^4DD4DB^- Recarga: {MainField_5} s^oldclr^
 ^DB8117^- Usos: {MainField_6}^oldclr^
@@ -4160,16 +4227,16 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_1]
-Convoca varios dinosaurios que pisotean varios zombis hasta derrotarlos. Los zombis supervivientes, son dañados y aturdidos por ^D22808^4 s^oldclr^
+Convoca dino-estampidas por el patio. Los zombis supervivientes son aturdidos por ^FF9600^4 s^oldclr^
 
-^FF8000^- Dinosuarios: 2^oldclr^
-^FF0000^- Zombis aplastados: 3^oldclr^
+^FF8000^- Dinosaurios: 2^oldclr^
+^D22808^- Zombis aplastados: 3^oldclr^
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_2]
 ^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas primitivas^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_3]
-^98FB98^Activa I:^oldclr^ la duración del aturdimiento zombi aumenta a ^D22808^{PassiveField2_1} s^oldclr^
+^98FB98^Activa I:^oldclr^ la duración del aturdimiento zombi aumenta a ^FF9600^{PassiveField2_1} s^oldclr^
 
 [ARTIFACT_DINOSAURHORN_SKILL_DESCRIPTION_4]
 ^98FB98^Pasiva II:^oldclr^ convoca una estampida adicional cada ^D22808^{PassiveField3_1} s^oldclr^
@@ -4237,7 +4304,7 @@ Nivel 4
 [ARTIFACT_EVOLUTION_SKILL_DESCRIPTION_1]
 Mejora las plantas de un ^D22808^área 3x3^oldclr^ a versiones más poderosas con mayor coste.
 
-^FF0000^Las plantas conservan su nivel y no son de uso instantáneo.^oldclr^
+^FF0000^Las plantas evolucionadas conservan su nivel y no son de uso instantáneo.^oldclr^
 
 ^4DD4DB^- Recarga: 30 s^oldclr^
 ^DB8117^- Usos: {MainField_2}^oldclr^
@@ -4481,7 +4548,7 @@ Nivel 4
 [ARTIFACT_HOLO_SKILL_DESCRIPTION_1]
 Tócalo para generar una proyección duplicada de tus plantas.
 
-Las copias no pueden usar Nutrientes y heredan un ^D22808^{MainField_2} %^oldclr^ de fuerza.
+Las copias no pueden usar Nutrientes y heredan un ^D22808^{MainField_2} %^oldclr^ de fuerza de la planta base.
 
 ^A048CF^- Duración: {MainField_1} s^oldclr^
 ^4DD4DB^- Recarga: 30 s^oldclr^
@@ -4500,7 +4567,7 @@ Las copias no pueden usar Nutrientes y heredan un ^D22808^{MainField_2} %^oldclr
 Prensa hidráulica
 
 [ARTIFACT_HYDRAULIC_DESCRIPTION]
-Aplasta las plantas de su alcance, conviertiéndolas en semillas
+Aplasta las plantas de su alcance, convirtiéndolas en semillas
 
 [ARTIFACT_HYDRAULIC_SKILL_1]
 Nivel 1
@@ -4515,7 +4582,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_HYDRAULIC_SKILL_DESCRIPTION_1]
-Aplasta las plantas de su alcance, conviertiéndolas en semillas.
+Aplasta las plantas de su alcance, convirtiéndolas en semillas.
 
 ^D22808^- Semillas: duran {MainField_1} s^oldclr^
 ^C47A52^- Alcance: área 3x3^oldclr^
@@ -4565,11 +4632,11 @@ Dispara descargas eléctricas a los zombis del patio.
 
 Combinar cargas activa efectos:
 
-^4DD4DB^• 2+ → PS −{MainField_1}% por 10 s^oldclr^
+^00AAE4^• 2+ → PS −{MainField_1}% por 10 s^oldclr^
 ^D22808^• 2- → aturdir por {MainField_2} s^oldclr^
 ^A048CF^• +/- → vel. −{MainField_3}% por {MainField_4} s^oldclr^
 
-^00AAE4^- Recarga: 30 s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
 ^DB8117^- Usos: {MainField_6}^oldclr^
 
 [ARTIFACT_LIGHTNING_SKILL_DESCRIPTION_2]
@@ -4660,7 +4727,7 @@ Siembra una Enredadera gigante que, al crecer, lanza por los aires plantas y zom
 ^98FB98^Activa I:^oldclr^ los guisantes se dispersan en ^D22808^8 direcciones^oldclr^ y hacen ^D22808^{PassiveField2_1}^oldclr^ de daño
 
 [ARTIFACT_MAGICBEANS_SKILL_DESCRIPTION_4]
-^98FB98^Activa II:^oldclr^ probabilidad de dejar una ^D22808^semilla de guisantes^oldclr^ por estallido de vaina
+^98FB98^Activa II:^oldclr^ cada estallido de vaina tiene la probabilidad de dejar una ^D22808^semilla de guisantes^oldclr^
 
 [ARTIFACT_MAGICHAT]
 Sombrero mágico
@@ -4718,7 +4785,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_METEOR_SKILL_DESCRIPTION_1]
-Lanza una salva de meteoros que destruyen plantas y zombis medianos; el resto recibe ^D22808^{MainField_4}^oldclr^ de daño y es aturdido por ^D22808^3 s^oldclr^
+Lanza una salva de meteoros que destruyen plantas y zombis medianos; el resto recibe ^D22808^{MainField_4}^oldclr^ de daño y es aturdido por ^FF9600^3 s^oldclr^
 
 El área queda en llamas, infligiendo ^D22808^{MainField_8}^oldclr^ de daño por segundo. Los guisantes se incendian al atravesarla.
 
@@ -4742,7 +4809,7 @@ Al alcanzar la ^E2725B^Eficacia 20^oldclr^, los meteoros se vuelven púrpuras y 
 Guantes de Midas
 
 [ARTIFACT_MIDASTOUCH_DESCRIPTION]
-Convierte a los zombis en estatuas de oro que dan monedas al ser destruidas
+Convierte zombis en estatuas de oro que dan monedas al destruirse
 
 [ARTIFACT_MIDASTOUCH_SKILL_1]
 Nivel 1
@@ -4765,7 +4832,7 @@ Al derrotarlos, los zombis pequeños sueltan ^D22808^{MainField_2}^oldclr^ moned
 ^DB8117^- Usos: {MainField_5}^oldclr^
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_2]
-^98FB98^Activa I:^oldclr^ límite máx. de monedas obtenidas por partida ^D22808^+ {PassiveField1_1}^oldclr^
+^98FB98^Activa I:^oldclr^ límite de monedas por partida ^D22808^+ {PassiveField1_1}^oldclr^
 
 [ARTIFACT_MIDASTOUCH_SKILL_DESCRIPTION_3]
 ^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, convierte a los ^D22808^3^oldclr^ zombis medianos más cercanos en estatuas de oro
@@ -4820,7 +4887,8 @@ Consume ^D22808^5^oldclr^ puntos de energía por segundo, que se recarga lentame
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_2]
 ^98FB98^Pasiva I:^oldclr^ el límite de energía aumenta a ^DD7ECB^{PassiveField1_1}^oldclr^
 
-La velocidad de recarga aumenta a ^4DD4DB^{PassiveField1_2} / s^oldclr^
+La velocidad de recarga aumenta a
+^4DD4DB^{PassiveField1_2} / s^oldclr^
 
 [ARTIFACT_PRISMTOWER_SKILL_DESCRIPTION_3]
 ^98FB98^Activa I:^oldclr^ el intervalo de daño se reduce un ^FF8000^{PassiveField2_1} %^oldclr^ por aceleración
@@ -4984,8 +5052,8 @@ Nivel 4
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_1]
 Sopla una ventisca que derriba zombis medianos y los convierte en muñecos de nieve.
 
-^4DD4DB^- Muñeco de nieve: {MainField_2} s^oldclr^
-^00AAE4^- Recarga: 30 s^oldclr^
+^00AAE4^- Muñeco de nieve: {MainField_2} s^oldclr^
+^4DD4DB^- Recarga: 30 s^oldclr^
 ^DB8117^- Usos: {MainField_6}^oldclr^
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_2]
@@ -4994,7 +5062,7 @@ Sopla una ventisca que derriba zombis medianos y los convierte en muñecos de ni
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_3]
 ^98FB98^Pasiva I:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, dispara bolas de nieve para convertir a los ^D22808^3^oldclr^ zombis más cercanos en muñecos de nieve.
 
-^4DD4DB^- Muñeco de nieve: 5 s^oldclr^
+^00AAE4^- Muñeco de nieve: 5 s^oldclr^
 
 [ARTIFACT_SNOWDRIFT_SKILL_DESCRIPTION_4]
 ^98FB98^Activa II:^oldclr^ la ventisca lanza carámbanos que destruyen muñecos de nieve y dañan hasta ^D22808^2^oldclr^ zombis grandes.
@@ -5071,13 +5139,13 @@ Lanza pulpos robóticos a los zombis para atraparlos.
 [ARTIFACT_SQUID_SKILL_DESCRIPTION_4]
 ^98FB98^Activa I:^oldclr^ los zombis atrapados perderán un ^D22808^{PassiveField3_1} %^oldclr^ de salud por segundo.
 
-El efecto ahora funciona en zombis grandes.
+^E2725B^El artefacto ahora funciona en zombis grandes.^oldclr^
 
 [ARTIFACT_SWARM]
 Enjambre
 
 [ARTIFACT_SWARM_DESCRIPTION]
-Tócala para disparar balas, mantén pulsado para una mayor potencia de fuego
+Tócala para disparar, mantén pulsado para una salva
 
 [ARTIFACT_SWARM_SKILL_1]
 Nivel 1
@@ -5109,7 +5177,7 @@ La recarga aumenta a
 [ARTIFACT_SWARM_SKILL_DESCRIPTION_4]
 ^98FB98^Activa I:^oldclr^ las balas de la salva se transforman en bolas de fuego azules, que hacen ^D22808^2^oldclr^ veces más daño.
 
-Después de cada ^D22808^4^oldclr^ balas, se dispara una grande que hace ^D22808^3^oldclr^ veces más daño y derriba zombis medianos por ^D22808^0,1^oldclr^ casillas.
+Después de cada ^D22808^4^oldclr^ balas, se dispara una grande que hace ^D22808^3^oldclr^ veces más daño y derriba zombis medianos por ^D22808^0,1^oldclr^ casillas
 
 [ARTIFACT_TIME]
 Cronos
@@ -5178,8 +5246,8 @@ Genera ^D22808^{MainField_4}^oldclr^ olas que expulsan zombis medianos de una ^D
 Los demás zombis son derribados, reciben daño y quedan aturdidos por ^FF9600^4 s (2 s, si son grandes)^oldclr^
 
 ^D22808^- Daño: {MainField_5}^oldclr^
-^FF8000^- Zombis expulsados: {MainField_2}^oldclr^
-^00AAE4^- Recarga: {MainField_6} s^oldclr^
+^00AAE4^- Zombis expulsados: {MainField_2}^oldclr^
+^4DD4DB^- Recarga: {MainField_6} s^oldclr^
 ^DB8117^- Usos: {MainField_7}^oldclr^
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_2]
@@ -5190,7 +5258,7 @@ Los demás zombis son derribados, reciben daño y quedan aturdidos por ^FF9600^4
 
 ^FF0000^Solo afecta zombis medianos.^oldclr^
 
-^4DD4DB^- Zombis para el charco: {PassiveField2_2}^oldclr^
+^00AAE4^- Zombis para el charco: {PassiveField2_2}^oldclr^
 ^D22808^- Duración: 15 s^oldclr^
 
 [ARTIFACT_TRIDENT_SKILL_DESCRIPTION_4]
@@ -5231,7 +5299,7 @@ Abduce a todos los zombis en pantalla. Los zombis abducidos son eliminados; los 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_3]
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, varios OVNIs sobrevolarán el patio para abducir a los zombis más cercanos a tu casa.
 
-^D22808^Número de OVNIs: 3^oldclr^
+^FF9600^Zombis abducidos: 3^oldclr^
 
 [ARTIFACT_UFO_SKILL_DESCRIPTION_4]
 ^98FB98^Activa I:^oldclr^ los zombis abducidos son derribados por los ataques de plantas voladoras o flotantes.
@@ -5294,7 +5362,7 @@ Nivel 3
 Nivel 4
 
 [ARTIFACT_WATERGUN_SKILL_DESCRIPTION_1]
-Dispara un torrente que derriba zombis y los hace vulnerables al hielo.
+Dispara un torrente que derriba zombis y los hace vulnerables al ataque de las plantas de hielo.
 
 ^4DD4DB^- Recarga: 30 s^oldclr^
 ^DB8117^- Usos: {MainField_2}^oldclr^
@@ -5347,7 +5415,7 @@ Los cohetes hacen daño de área y repelen zombis al explotar.
 ^98FB98^Pasiva II:^oldclr^ cada ^D22808^15 s^oldclr^, lanza ^D22808^5^oldclr^ cohetes que se dirigen a los zombis y les quitan un ^D22808^{PassiveField2_1} %^oldclr^ de su salud actual
 
 [ARTIFACT_WEATHERMONKEY_SKILL_DESCRIPTION_4]
-^98FB98^Activa I:^oldclr^ los cohetes derriban zombis ^D22808^2 casillas^oldclr^ hacia atrás antes de explotar
+^98FB98^Activa I:^oldclr^ los cohetes derriban zombis ^D22808^2^oldclr^ casillas hacia atrás antes de explotar
 
 [ARTIFACT_WIND]
 Abanico caótico
@@ -5370,8 +5438,8 @@ Nivel 4
 [ARTIFACT_WIND_SKILL_DESCRIPTION_1]
 Sopla un viento que derriba y atrae zombis medianos por ^D22808^{MainField_2} s^oldclr^
 
-^D22808^- Derribo: {MainField_1} casilla (s)^oldclr^
-^DD7ECB^- Área de atracción: 5x5^oldclr^
+^FF9600^- Derribo: {MainField_1} casilla (s)^oldclr^
+^DD7ECB^- Atracción: área 5x5^oldclr^
 ^4DD4DB^- Recarga: 30 s^oldclr^
 ^DB8117^- Usos: {MainField_4}^oldclr^
 
@@ -5379,7 +5447,7 @@ Sopla un viento que derriba y atrae zombis medianos por ^D22808^{MainField_2} s^
 ^98FB98^Pasiva I:^oldclr^ el daño y la defensa de las ^D22808^plantas ninja^oldclr^ aumenta en un ^D22808^{PassiveField1_1} %^oldclr^
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_3]
-^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, sopla un viento en una línea aleatoria, que derriba zombis ^D22808^{PassiveField2_2}^oldclr^ casilla (s) hacia atrás
+^98FB98^Pasiva II:^oldclr^ cada ^D22808^{PassiveField2_1} s^oldclr^, sopla un viento en una línea aleatoria, que derriba zombis ^FF9600^{PassiveField2_2}^oldclr^ casilla (s) hacia atrás
 
 [ARTIFACT_WIND_SKILL_DESCRIPTION_4]
 ^98FB98^Activa I: ^D22808^{PassiveField3_1} %^oldclr^ de probabilidad de eliminar zombis medianos con sus ventarrones
@@ -5419,10 +5487,10 @@ Dispara balas de espárrago, priorizando al zombi más cercano.
 ^FF0000^Debe descansar después de una salva de 6 disparos.^oldclr^
 
 [ASPARAGUS_NEW_SKILL_LEVEL2_DES]
-^D22808^20 % de probabilidad^oldclr^ de disparar balas que pueden atravesar al objetivo.
+^D22808^20 % de probabilidad^oldclr^ de disparar balas con efectos perforantes.
 
 [ASPARAGUS_NEW_SKILL_LEVEL3_DES]
-^D22808^30 % de probabilidad^oldclr^ de disparar balas que pueden atravesar al objetivo.
+^D22808^30 % de probabilidad^oldclr^ de disparar balas con efectos perforantes.
 
 [ASPARAGUS_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^60 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
@@ -5472,7 +5540,7 @@ La Atlántida - Día Final
 La Atlántida - Día {LEVEL_NUMBER}
 
 [AUTUMN_HARVEST_BONUS_CHOOSE_TITLE]
-Elegir recompensas
+ELEGIR RECOMPENSAS
 
 [AUTUMN_HARVEST_BONUS_PROBABILITY_DESC]
 • Premio garantizado:
@@ -5800,9 +5868,11 @@ Carrera espacial
 Catálogo de Atuendos
 
 [AVATARCOLLECTION_DESCRIPTION]
-1. Consulta los diferentes atuendos obtenidos y los que te faltan por desbloquear
-2. Los Atuendos están organizados por categorías para optimizar la búsqueda
-3. Puedes recibir recompensas tras completar una Categoría de Atuendos
+1. Consulta los diferentes atuendos obtenidos y los que te faltan por desbloquear.
+
+2. Los Atuendos están organizados por categorías para optimizar la búsqueda.
+
+3. Puedes recibir recompensas tras completar una Colección de Atuendos.
 
 [AVATARCOLLECTION_DESCRIPTION_TITLE]
 SOBRE ESTA FUNCIÓN
@@ -17898,7 +17968,7 @@ Bombilla
 
 [ELECTRICBLUEBERRY_AVATAR_PLANTFOOD_DESCRIPTION]
 Los zombis supervivientes son reducidos y reciben un ^D22808^75 %^oldclr^ más de daño.
-^3827F5^Reducción: dura 20 s^oldclr^
+^4DD4DB^Reducción: dura 20 s^oldclr^
 
 [ELECTRICBLUEBERRY_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}3 casillas (delante y detrás)
@@ -29810,16 +29880,17 @@ Corre por la línea, haciendo acrobacias y dañando zombis
 Mangólvora
 
 [MANGOFIER_DESCRIPTION]
-La naturaleza directa de Mangólvora deja poco margen a la imaginación. Sin embargo, guarda un misterio que ni las mentes más brillantes saben resolver: ¿de qué está hecho el rayo de Mangólvora? Existen numerosas hipótesis. ¿Radiación solar? ¿Una forma de condensación térmica? ¿Fotosíntesis inversa? Dave asegura conocer la respuesta y tiene una tesis de 8 páginas sobre el tema titulada "Chunqui-chiquipum".
+^397F24^Nutrientes: {STAT}concentra la energía ambiental para atacar continuamente a los zombis del patio
+
+^DD7ECB^Características de la planta: {STAT}planta anaranjada, destructora
+
+{FLAVOR}La naturaleza directa de Mangólvora deja poco margen a la imaginación. Sin embargo, guarda un misterio que ni las mentes más brillantes saben resolver: ¿de qué está hecho el rayo de Mangólvora? Existen numerosas hipótesis. ¿Radiación solar? ¿Una forma de condensación térmica? ¿Fotosíntesis inversa? Dave asegura conocer la respuesta y tiene una tesis de 8 páginas sobre el tema titulada "Chunqui-chiquipum".
 
 [MANGOFIER_DESCRIPTION_HEADER]
 Un lanzaplantas de utilidad pública con modo de disparo concentrado y de dispersión. Sus ataques de largo alcance pueden llegar a todas las zonas del jardín.
 
-[MANGOFIER_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Concentra la energía ambiental para atacar continuamente a los zombis del patio.
-
 [MANGOFIER_TOOLTIP]
-Alterna entre los modos de disparo concentrado o de dispersión del lanzador.
+Alterna entre los modos de disparo concentrado o de dispersión del lanzador
 
 [MANGOSTEEN]
 Mangostán
@@ -33447,7 +33518,7 @@ Sopla burbujas que desarman zombis
 {EXCITED}¡Quiero volver a comerme ESE taco! ¡Necesito mi MÁQUINA DEL TIEMPO!
 
 [NARRATIVE_1000455]
-{NPC_ENTER:winnie}{PLAYFUL:crazydave}Su nombre es Penny y yo Dave el loco, pero puedes llamarme Dave el loco
+{NPC_ENTER:winnie}{PLAYFUL:crazydave}Su nombre es Penny y yo David Locristopher Flameante III, pero me puedes llamar Dave el loco.
 
 [NARRATIVE_1000456]
 {SAY:winnie}Por fin otro Usuario que puede procesar mis solicitudes.
@@ -43010,8 +43081,11 @@ Abrir
 
 [NEW_PVP_DUAN_INFO_CONTENT]
 1. La duración de cada temporada es de 4 semanas, no se puede jugar en el último día.
+
 2. Juega partidas para desbloquear nuevos rangos y conseguir recompensas.
-3. Al final del torneo, los jugadores decienden a rangos inferiores (excepto los que quedaron en Bronce).
+
+3. Al final del torneo, los jugadores decienden a rangos inferiores.
+
 4. El progreso de temporada se restablece, reclama tus premios cuanto antes.
 
 [NEW_PVP_DUAN_INFO_TITLE]
@@ -43042,7 +43116,7 @@ Olla de cuarzo
 Olla del maestro
 
 [NEW_PVP_DUAN_TIPS]
-¡Completa ^ff0000^{NUM} partidas^oldclr^ esta temporada para ganar premios!
+¡Completa ^ff0000^{NUM}^oldclr^ partidas esta temporada para ganar premios!
 
 [NEW_PVP_FREE_CHEST_BUY_CONFIRM_CONTENT]
 El cofre garantiza 5 cartas legendarias de tu elección. ¿Deseas comprarlo?
@@ -43111,19 +43185,19 @@ EXPULSAR
 ^00FF00^Preparándose^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_HOST]
-El anfitrión ^00FF00^está preparándose^oldclr^
+El anfitrión está ^00FF00^preparándose^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_PREPARE_OPPONENT]
-El invitado ^00FF00^está preparándose^oldclr^
+El invitado está ^00FF00^preparándose^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY]
 ^00FF00^Listo^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_HOST]
-El anfitrión ^00FF00^está listo^oldclr^
+El anfitrión está ^00FF00^listo^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_READY_OPPONENT]
-El invitado ^00FF00^está listo^oldclr^
+El invitado está ^00FF00^listo^oldclr^
 
 [NEW_PVP_FREE_TO_PLAY_PLAYER_BOARD_READY_STATUS_WAITING]
 ^00FF00^En espera^oldclr^
@@ -43191,14 +43265,17 @@ FPS: {NUM}
 
 [NEW_PVP_MAIN_VIEW_FPS_LAST_GAME_INVALID_WARNING]
 Tus FPS fueron muy bajos en las últimas partidas, por lo que descontamos esta.
+
 ^D22808^Limpia o cambia tu dispositivo.^oldclr^
 
 [NEW_PVP_MAIN_VIEW_FPS_LAST_GAME_WARNING]
 Tus FPS fueron muy bajos en tu última partida.
+
 ^D22808^Limpia o cambia tu dispositivo.^oldclr^
 
 [NEW_PVP_MAIN_VIEW_FPS_WARNING]
-Los FPS del juego son demasiado bajos, no es posible jugar
+Los FPS del juego son demasiado bajos, no es posible jugar.
+
 ^D22808^Limpia o cambia tu dispositivo.^oldclr^
 
 [NEW_PVP_MAIN_VIEW_LEISURE_MODE_BTN]
@@ -43263,7 +43340,7 @@ RENDIRSE
 
 [NEW_PVP_MAIN_VIEW_SURRENDER_TEXT]
 ¿Seguro que quieres rendirte?
-Si abandonas la partida, contará como derrota.
+^FF0000^Si abandonas la partida, contará como derrota.^oldclr^
 
 [NEW_PVP_MAIN_VIEW_SURRENDER_TITLE]
 ¿Rendirse?
@@ -43293,7 +43370,8 @@ Ronda {NUMBER}
 Tienda VS
 
 [NEW_PVP_SHOP_BUY_CONFIRM]
-¿Deseas comprar este artículo por ^DD7ECB^{NUMS} Monedaz de Amatista^oldclr^?
+¿Deseas comprar este artículo?
+^DD7ECB^Coste: Moneda de Amatizta x{NUMS}^oldclr^
 
 [NEW_PVP_SHOP_CHEST_DETAIL_KEY_1]
 Cartas legendarias
@@ -44815,7 +44893,7 @@ No se puede transferir datos a una versión antigua. Actualiza el juego en el nu
 Se ha producido un error al transferir el archivo. ^ff0000^(Solo puede transferirse hasta 3 veces)^oldclr^
 
 [ONTRANSFER_FAILED_45019]
-No se puede enlazar tu archivo porque ha sido bloqueado. Para más información, pónte en contacto con Servicio al Cliente.
+Cuenta vetada, no puedes transferir datos. Para más información, ponte en contacto con Servicio al Cliente.
 
 [ONUNBOUND_FAILED]
 Error al desvincular la cuenta
@@ -44837,7 +44915,7 @@ Abrir navegador
 
 [OPEN_URL]
 Abre este enlace en el navegador: %s
-(Pegalo desde el portapapeles)
+(Pégalo desde el portapapeles)
 
 [OPEN_YOUR_PRESENTS]
 ¡Abre tus regalos!
@@ -46409,19 +46487,19 @@ Premios por aprobación
 Examen final
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_CHOMPER]
-Tras alcanzar el Nivel 5, Planta carnívora puede devorarse a muchos zombis
+Amontona zombis y usa Plantas carnívoras de Nvl. 5 para acabarlos de un bocado
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_ELECTRICBLUEBERRY]
-Tras alcanzar el Nivel 5, Arándano eléctrico puede liberar una gran nube de tormenta
+Usa las Nubes de tormenta de Arándano eléctrico para acabar con hordas de zombis
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_PRIMALSUNFLOWER]
 Planta muchos Girasoles primitivos para tener un buen suministro de sol
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_SQUASH]
-Apisonaflor puede aplastar más zombis con mayor nivel de planta
+Mejora a Apisonaflor para aplastar más zombis
 
 [PENNY_CLASSROOM_HARD_LEVEL_DESC_TALLNUT]
-Nuez cáscara-rabias gana una armadura resistente cuando usa Nutrientes
+Aprovecha el Despertar de Nuez cáscara-rabias para formar una defensa sólida
 
 [PENNY_CLASSROOM_HARD_LEVEL_LOCK_DESC]
 Se desbloquea después de completar el ^FF0000^Examen intermedio^oldclr^
@@ -46436,7 +46514,7 @@ CURSO
 Examen intermedio
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_CHOMPER]
-Combina el eructo de Planta carnívora con Boniato para empujar y atraer zombis
+Combina los Nutrientes de Planta carnívora con Boniato para empujar y atraer zombis
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_ELECTRICBLUEBERRY]
 Sube a Arándano eléctrico al Nvl. 4 para electrocutar a múltiples zombis con su Despertar
@@ -46445,7 +46523,7 @@ Sube a Arándano eléctrico al Nvl. 4 para electrocutar a múltiples zombis con 
 Rábano casillero y Girasol primitivo hacen muy buen equipo, ¡prúebalo!
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_SQUASH]
-Apisonaflor es muy bueno contra zombis de gran blindaje
+Derriba zombis y amontónalos; luego, usa a Apisonaflor para derrotarlos de un buen golpe
 
 [PENNY_CLASSROOM_NORMAL_LEVEL_DESC_TALLNUT]
 Usa la Nuez cáscara-rabias para amontonar zombis y luego lanzarles un ataque
@@ -46459,33 +46537,33 @@ Se desbloquea después de completar el ^FF0000^Examen básico^oldclr^
 [PENNY_CLASSROOM_PLANT_DESC_CHOMPER]
 ^A0522D^Habilidad:^oldclr^ devora un zombi y después lo mastica un rato
 
-^7CFC00^Nutrientes:^oldclr^ atrae y devora zombis, luego eructa y derriba al resto
+^397F24^Nutrientes:^oldclr^ atrae y devora zombis, luego eructa y derriba al resto
 
 [PENNY_CLASSROOM_PLANT_DESC_ELECTRICBLUEBERRY]
 ^A0522D^Habilidad:^oldclr^ electrocuta zombis al azar
 
-^7CFC00^Nutrientes:^oldclr^ electrocuta a 3 zombis al azar
+^397F24^Nutrientes:^oldclr^ electrocuta a 3 zombis aleatorios
 
 [PENNY_CLASSROOM_PLANT_DESC_PRIMALSUNFLOWER]
 ^A0522D^Habilidad:^oldclr^ da soles grandes
 
 ^E2725B^Especial:^oldclr^ da más en Pantano del Jurásico
 
-^7CFC00^Nutrientes:^oldclr^ produce múltiples soles al instante
+^397F24^Nutrientes:^oldclr^ produce múltiples soles al instante
 
 [PENNY_CLASSROOM_PLANT_DESC_SQUASH]
 ^A0522D^Habilidad:^oldclr^ aplasta zombis
 
 ^E2725B^Especial:^oldclr^ aplasta más zombis con mayor nivel de planta
 
-^7CFC00^Nutrientes:^oldclr^ aplasta a 2 objetivos aleatorios, y a un último al regresar
+^397F24^Nutrientes:^oldclr^ aplasta a 2 objetivos aleatorios, y a un último al regresar
 
 [PENNY_CLASSROOM_PLANT_DESC_TALLNUT]
 ^A0522D^Habilidad:^oldclr^ bloquea a los zombis que vuelan bajo
 
 ^E2725B^Especial:^oldclr^ bloquea a los Zombiditos lanzados
 
-^7CFC00^Nutrientes:^oldclr^ se reviste de una armadura que aumenta su salud
+^397F24^Nutrientes:^oldclr^ se reviste de una armadura que aumenta su salud
 
 [PENNY_CLASSROOM_PROGRESS_DESC]
 Tu progreso: {NUMS}/5
@@ -49414,7 +49492,7 @@ EFECTOS DE ATUENDO
 Efectos de atuendo desactivados
 
 [PLANT_AVATAR_EFFECT_INFO]
-CON EFECTOS: los atuendos brindan efectos al equiparlos.
+CON EFECTOS: los atuendos brindan efectos.
 SOLO VISUAL: los atuendos solo son cosméticos.
 
 [PLANT_AVATAR_EFFECT_OPEN]
@@ -53256,13 +53334,13 @@ Dispara a corta distancia por tiempo limitado
 Nivel 2
 
 [PUFFSHROOM_SKILL1_LEVEL1_DES]
-^4DD4DB^Esporas veloces:^oldclr^ se recarga un 30% más rápido.
+^4DD4DB^Esporas veloces:^oldclr^ se recarga un 30% más rápido
 
 [PUFFSHROOM_SKILL1_LEVEL2]
 Nivel 3
 
 [PUFFSHROOM_SKILL1_LEVEL2_DES]
-^DD7ECB^Esporas semi-instantáneas:^oldclr^ se recarga un 50% más rápido.
+^DD7ECB^Esporas instantáneas:^oldclr^ se recarga un 50% más rápido
 
 [PUFFSHROOM_TOOLTIP]
 Dispara a corta distancia por tiempo limitado
@@ -54237,13 +54315,13 @@ Los zombis aparecen cuando la marea sube
 No tienes suficientes Estabilizadores para empezar la partida.
 
 [PVZ1MODE_TIME_COUNTDOWN]
-Reinicio modo difícil:
+T33 | Reinicio modo difícil:
 
 [PVZ1MODE_TIME_ENERGY_NOT_ENOUGH_LOSS]
 ¡Derrota a los zombis antes de que la energía temporal se agote!
 
 [PVZ1MODE_TIME_RESET]
-T33-S1 | Nuevos niveles en:
+S2 | Nuevos niveles en:
 
 [PVZ1MODE_TOUCHING]
 Mola 'mazo'
@@ -65369,22 +65447,22 @@ Solo cuentas con dos Setas solares, ¡buena suerte!
 ¡La estatua está despertando!
 
 [S34_MEMORY_LEVEL_NAME_001]
-T33-S1-1: Ladrón de soles
+T33-S1-1: El granjero
 
 [S34_MEMORY_LEVEL_NAME_002]
-T33-S1-2: Misión imposible
+T33-S1-2: ¡Reviéntalos!
 
 [S34_MEMORY_LEVEL_NAME_003]
-T33-S1-3: Mundo del espejo
+T33-S1-3: El granjero 2
 
 [S34_MEMORY_LEVEL_NAME_004]
-T33-S1-4: Cielo estrellado
+T33-S1-4: Viendo las estrellas
 
 [S34_MEMORY_LEVEL_NAME_005]
-T33-S1-5: Barril con sorpresa
+T33-S1-5: El granjero 3
 
 [S34_MEMORY_LEVEL_NAME_006]
-T33-S1-6: Piscina desborada
+T33-S1-6: Piscina zombificada
 
 [S34_MEMORY_LEVEL_NAME_007]
 T33-S1-7: Visitas en el patio trasero
@@ -65393,25 +65471,25 @@ T33-S1-7: Visitas en el patio trasero
 T33-S1-8: Maratón del pavo
 
 [S34_MEMORY_LEVEL_NAME_009]
-T33-S2-1: Oportunidad única
+T33-S2-1: Gallinero descontrolado
 
 [S34_MEMORY_LEVEL_NAME_010]
-T33-S2-2: Campamento de zombis
+T33-S2-2: Pavos en peligro
 
 [S34_MEMORY_LEVEL_NAME_011]
-T33-S2-3: Luces ténues
+T33-S2-3: El último guerrero
 
 [S34_MEMORY_LEVEL_NAME_012]
 T33-S2-4: Verduras enlatadas
 
 [S34_MEMORY_LEVEL_NAME_013]
-T33-S2-5: Asistencia médica
+T33-S2-5: Alquimia poco ética
 
 [S34_MEMORY_LEVEL_NAME_014]
-T33-S2-6: Misión espacial zombi
+T33-S2-6: Control de multitudes
 
 [S34_MEMORY_LEVEL_NAME_015]
-T33-S2-7: Baile entre tumbas
+T33-S2-7: Infestación de medianoche
 
 [S34_MEMORY_LEVEL_NAME_016]
 T33-S2-8: Muertos hostigadores
@@ -65675,22 +65753,22 @@ Derrota la Esfinge letal Zombot
 Derrota al Zombot Mañanatrón
 
 [S34_MEMORY_W1_DESC_1]
-Ladrón de soles
+El granjero
 
 [S34_MEMORY_W1_DESC_2]
-Misión imposible
+¡Reviéntalos!
 
 [S34_MEMORY_W1_DESC_3]
-Mundo del espejo
+El granjero 2
 
 [S34_MEMORY_W1_DESC_4]
-Cielo estrellado
+Viendo las estrellas
 
 [S34_MEMORY_W1_DESC_5]
-Barril con sorpresa
+El granjero 3
 
 [S34_MEMORY_W1_DESC_6]
-Piscina desborada
+Piscina zombificada
 
 [S34_MEMORY_W1_DESC_7]
 Visitas en el patio trasero
@@ -65705,25 +65783,25 @@ Jefe: Corsario Zombot
 Protege 3 pavos
 
 [S34_MEMORY_W2_DESC_1]
-Oportunidad única
+Gallinero descontrolado
 
 [S34_MEMORY_W2_DESC_2]
-Campamento de zombis
+Pavos en peligro
 
 [S34_MEMORY_W2_DESC_3]
-Luces ténues
+El último guerrero
 
 [S34_MEMORY_W2_DESC_4]
 Verduras enlatadas
 
 [S34_MEMORY_W2_DESC_5]
-Asistencia médica
+Alquimia poco ética
 
 [S34_MEMORY_W2_DESC_6]
-Misión espacial zombi
+Control de multitudes
 
 [S34_MEMORY_W2_DESC_7]
-Baile entre tumbas
+Infestación de medianoche
 
 [S34_MEMORY_W2_DESC_8]
 Muertos hostigadores
@@ -70244,10 +70322,10 @@ Sobrevive el ataque zombi con las plantas que te dan
 Listos para la acción
 
 [STARCHALLENGE_PROTECTTHEGRIDITEM]
-No rompas lápidas en este nivel
+Protege los objetos del patio
 
 [STARCHALLENGE_PROTECTTHEGRIDITEM_NAME]
-Protector de lápidas
+Artículos valiosos
 
 [STARCHALLENGE_PROTECT_PLANT]
 Protege a las plantas que estén en peligro
@@ -70262,7 +70340,7 @@ Polos opuestos
 Defensores de semillas
 
 [STARCHALLENGE_PROTECT_THE_GRIDITEM]
-No rompas lápidas en este nivel
+Protege los objetos del patio
 
 [STARCHALLENGE_PROTECT_THE_PLANT]
 Sobrevive y protege las plantas en peligro
