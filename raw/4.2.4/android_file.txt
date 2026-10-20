@@ -3,14 +3,14 @@
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.4^oldclr^ | ^87CEFA^Parche: 1.3.1 (actualizado el 17/10/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.4^oldclr^ | ^87CEFA^Parche: 1.3.2 (actualizado el 20/10/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [AGE_TIP]
 Notas de la actualización 4.2.4
 
 [S34_MEMORY_W2_PROTECT_SUPPLIES]
-Proteger a los 2 pavos
+Protege a los 2 pavos
 
 [S34_MEMORY_W2_L3_OPENING_HINT]
 Tip: usa Nutrientes en Hongo para producir mucho sol
@@ -49,7 +49,7 @@ Tip: toca en Fragaria para disparar
 Tip: planta en casillas doradas para generar sol
 
 [S34_MEMORY_W3_L6_TIRE_NOTICE]
-¡Llantas sueltas!
+¡Empiezan los Juegos Olímpicos!
 
 [S34_MEMORY_W3_REWORK_ROOF_WARNING]
 ¡Tormenta de arena!
@@ -61,13 +61,13 @@ Tip: Paraplanta bloquea a los zombis que caen del cielo
 ¡Colgaos cayendo!
 
 [S34_MEMORY_W3_REWORK_RAIL_WARNING]
-¡Zombisteins sueltos!
+¡Viene el Zombistein!
 
 [S34_MEMORY_W3_L8_EVOLUTION_NOTICE]
 Tip: usa Nutrientes en plantas cósmicas para evolucionarlas
 
 [S34_MEMORY_W3_L8_BLADE_NOTICE]
-Tip: Nuez cósmica puede escapar del tajo del Espachín espacial
+Tip: Nuez cósmica neutraliza el tajo del Espachín espacial
 
 [S34_MEMORY_W3_L8_SUPERNOVA_NOTICE]
 ¡Nova Géminis avistada!
@@ -3548,6 +3548,7 @@ Invoca ^D22808^3^oldclr^ tiburones adicionales, con un ^D22808^15 %^oldclr^ de l
 
 [AQUAWEED_DESCRIPTION]
 {KEYWORD}Especial: {STAT}puede invocar tiburones grandes de vez en cuando
+{KEYWORD}Especial: {STAT}activa el efecto de Nutrientes después de 3 invocaciones
 
 ^397F24^Nutrientes: {STAT}invoca tiburones grandes por varias líneas
 
@@ -3629,7 +3630,9 @@ Lotes
 
 [ARBORDAY_DESCRIPTION]
 1. Usa regaderas para hacer crecer tu árbol, podrás cosechar premios de él cada 3 riegos.
+
 2. Puedes completar misiones o comprar lotes para conseguir Regaderas.
+
 3. Tu progreso en este evento se irá acumulando con cada riego, el equipo de Plantas vs. Zombis 2 plantará árboles reales de acuerdo con el progreso final.
 
 [ARBORDAY_DESCRIPTION_TITLE]
@@ -3645,7 +3648,7 @@ Las Joyas no son suficientes.
 ¡Haz conseguido {NAME} x{NUM}!
 
 [ARBORDAY_NEXT_HARVEST]
-Se necesita ^FFFF00^{NUM} Regadera (s)^oldclr^ para la próxima cosecha.
+^FFFF00^{NUM} Regadera (s)^oldclr^ para la próxima cosecha.
 
 [ARBORDAY_PLANTTREE]
 Árboles por plantar: ^FFFF00^{NUM}^oldclr^
@@ -6897,11 +6900,11 @@ Arroja pociones para convertir zombis en guisantes
 Brote de frijol
 
 [BEANSPROUT_DESCRIPTION]
-{KEYWORD}Pista: {STAT}plantar otro Brote de frijol en uno ya existente lo convertirá en monstruo.
-
 ^397F24^Nutrientes: {STAT}se convierte en monstruo si no lo era y envía enormes ondas de choque tanto por delante como por detrás
 
-^DD7ECB^Características de la planta: {STAT}planta amarilla, destructora
+{KEYWORD}Pista: {STAT}plantar otro Brote de frijol en uno ya existente lo convertirá en monstruo
+
+^DD7ECB^Características de la planta: {STAT}planta amarilla, ataque y defensa
 
 {FLAVOR}Cuenta con varios grados en Botánica y Relatividad espaciotemporal, por lo que no hay nadie que discuta que Brote de Frijol es un genio. Por eso le resulta tan difícil ver cómo trabaja en la cocina Dave. "No... No... ¿¡¿Por qué estás haciendo eso?!? ¡No cortes los cables rojos!".
 
@@ -7076,13 +7079,12 @@ Tesoro de cupones
 Superbolsa de cupones
 
 [BIND_UNIQUE_ID_CLEAR_PROFILE]
-Hemos detectado que tu cuenta actual no coincide con la cuenta local. Toca en "Aceptar" para borrar el archivo local.
+Los datos actuales no coinciden, se cargarán los de la nube en su lugar.
 
 [BIND_UNIQUE_ID_DESC]
-1. Al vincular un dispositivo, podrás compartir los archivos y las cuentas guardados con otros dispositivos.
-2. Cuando inicias sesión con la misma cuenta en un nuevo dispositivo, podrás guardar el progreso solo si vinculas el dispositivo primero.
-3. Tomará 12 horas volver a vincular otros dispositivos después de vincular uno.
-4. Solo se pueden vincular hasta tres dispositivos por año. Este límite se restablece el 1° de enero de cada año.
+1. Vincula tu cuenta para compartir tus progresos con otros dispositivos.
+3. Toma 12 horas volver a vincular otros dispositivos.
+4. Solo puedes vincular hasta tres dispositivos al año.
 
 [BIND_UNIQUE_ID_GO_BIND]
 VINCULAR
@@ -7219,6 +7221,8 @@ Dispara guisantes pixelados por la línea
 Enredadera artillera
 
 [BLASTBERRY_DESCRIPTION]
+^397F24^Nutrientes: {STAT}dispara una salva de bayas explosivas a los zombis de su columna
+
 ^DD7ECB^Características de la planta: {STAT}planta púrpura, trepadora, ataque y defensa
 
 {FLAVOR}Enredadera artillera se ríe para sus adentros. Se imagina a sí mismo lanzando bombitas. Leyó sobre el tema y sabe que lo reventará todo cuando pase. "Pronto", susurra.
@@ -7226,23 +7230,21 @@ Enredadera artillera
 [BLASTBERRY_DESCRIPTION_HEADER]
 Enredadera artillera se puede plantar por encima de otras plantas para aumentar su defensa y proporcionar un ataque adicional que consiste en lanzar un proyectil que se divide en bombitas explosivas.
 
-[BLASTBERRY_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Dispara una salva de bayas explosivas a los zombis de su columna.
-
 [BLASTBERRY_TOOLTIP]
 Lanza proyectiles y protege a tus plantas
 
 [BLASTSPINNER]
-Lanzadora arácnida
+Girabúm
 
 [BLASTSPINNER_DESCRIPTION]
+^DD7ECB^Características de la planta: {STAT}destructora
+
+^397F24^Nutrientes: {STAT}lanza múltiples capullos de telaraña a zombis cercanos, convirtiéndolos en capullos explosivos.
+
 {FLAVOR}Un buen día, apareció en el patio, lista para unirse a la lucha contra Dr. Zombi. Ni Penny ni Dave conocen su procedencia, pese a intentar investigarlo en varias ocasiones. Lo que Penny tiene claro es que viene de un mundo situado en una zona inexplorada del espacio-tiempo.
 
 [BLASTSPINNER_DESCRIPTION_HEADER]
-Lanza telarañas inmovilizadoras y pegajosas a los zombis en líneas adyacentes. Los zombis afectados pueden convertirse en capullos que explotan y dañan a todos los zombis de alrededor.
-
-[BLASTSPINNER_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Lanza múltiples capullos de telaraña a zombis cercanos, convirtiéndolos en capullos explosivos.
+Lanza telarañas a los zombis en líneas adyacentes para inmovilizarlos. Los zombis afectados pueden convertirse en capullos que explotan y dañan a todos los zombis de alrededor.
 
 [BLASTSPINNER_TOOLTIP]
 Inmoviliza a los zombis con telarañas y capullos explosivos.
@@ -7251,32 +7253,33 @@ Inmoviliza a los zombis con telarañas y capullos explosivos.
 Hojardiente
 
 [BLAZELEAF_DESCRIPTION]
+^DD7ECB^Características de la planta: {STAT}planta anaranjada, destructora
+
+^397F24^Nutrientes: {STAT}lanza una oleada giratoria de energía ígnea que daña a todos los zombis del patio
+
 {FLAVOR}Hojardiente medita en el jardín zen para templar su carácter. Quien se atreva a perturbarla se enfrentará a un auténtico infierno desatado en el patio con Hojardiente persiguiendo a su pobre víctima y lanzándole llamaradas. Puede pasarse así toda una mañana, a menudo destrozando el patio entero. Dave ni se atreve a sugerir un curso de gestión de emociones, sabiendo la reacción que provocaría. Acepta sin más los hechos y la usa como llamada de atención temprana.
 
 [BLAZELEAF_DESCRIPTION_HEADER]
 Hojardiente ataca a los zombis en un gran radio. Cada tres ataques lanza un ataque de llamarada que daña a los zombis en varias líneas, avanzando en línea recta.
 
-[BLAZELEAF_DESCRIPTION_PLANTFOOD]
-{{KEYWORD}Nutrientes: {STAT}Lanza una oleada giratoria de energía ígnea que daña a todos los zombis del patio.
-
 [BLAZELEAF_TOOLTIP]
-Inflige daño en un área y lanza un ataque de llamarada.
+Inflige daño en un área y lanza un ataque de llamarada
 
 [BLESS]
 Mejorar
 
 [BLOCKOLI]
-Blóqueoli
+Blockoli
 
 [BLOCKOLI_DESCRIPTION]
+^DD7ECB^Características de la planta: {STAT}planta verde, ataque y defensa
 
-{FLAVOR}"¡Hola, gente! ¡Soy Blóqueoli! ¿Qué tal todo? ¡Ahí viene un zombi! ¡Voy a GOLPEARLO! ¡Con mis PUÑOS!", dice Blóqueoli. ¡Y lo dice en serio!
+^397F24^Nutrientes: {STAT}con sus cogollos, inflige daño y aturde a los zombis que lo rodean. Obtiene dos escudos de hierro capaces de absorber mucho daño
+
+{FLAVOR}"¡Hola, gente! ¡Soy Blockoli! ¿Qué tal todo? ¡Ahí viene un zombi! ¡Voy a GOLPEARLO! ¡Con mis PUÑOS!", dice Blockoli. ¡Y lo dice en serio!
 
 [BLOCKOLI_DESCRIPTION_HEADER]
-Blóqueoli empuña dos robustos escudos-cogollo con los que aturde y bloquea a los zombis que se le acercan.
-
-[BLOCKOLI_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Con sus cogollos inflige daño y aturde a los zombis que lo rodean. Obtiene dos escudos de hierro capaces de absorber mucho daño.
+Blockoli empuña dos robustos escudos-cogollo con los que aturde y bloquea a los zombis que se le acercan.
 
 [BLOCKOLI_TOOLTIP]
 Golpea y aturde con escudos
@@ -7438,25 +7441,24 @@ Plantas recomendadas:
 ¡NUEVO ZOMBI AVISTADO!
 
 [BOINGSETTA]
-Muelleta
+Boingsettia
 
 [BOINGSETTA_DESCRIPTION]
-{KEYWORD}Uso: {STAT}inflige grandes daños a los pulpos, las tablas de surf y las tumbas
-{KEYWORD}Uso: {STAT}destruye a las gallinas y a las comadrejas
-{KEYWORD}Especial: {STAT}afecta al mapa completo al plantarla, y después, a una única línea
+{KEYWORD}Uso: {STAT}afecta al mapa completo al plantarla, y después, a una única línea
+
+{KEYWORD}Especial: {STAT}inflige grandes daños a los pulpos, las tablas de surf y las tumbas; destruye gallinas y comadrejas
+
+^397F24^Nutrientes: {STAT}hace grandes daños a todos los obstáculos y daño ligero a todos los zombis, empujándolos y enfriándolos por poco tiempo
 
 ^DD7ECB^Características de la planta: {STAT}planta azul, gélida
 
-{FLAVOR}¡Muelleta es una planta elástica con un aspecto agradable e infecciosamente encantador! El enfriamiento es un mero efecto secundario.
+{FLAVOR}¡Boingsettia es una planta elástica con un aspecto agradable e infecciosamente encantador! El enfriamiento es un mero efecto secundario.
 
 [BOINGSETTA_DESCRIPTION_HEADER]
-Las Muelletas golpean el suelo con un "boing" que inflige grandes daños a los objetos, hace retroceder a los zombis y los enfría.
-
-[BOINGSETTA_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Inflige grandes daños a todos los obstáculos y daño ligero a todos los zombis, empujándolos y enfriándolos por poco tiempo.
+Las Boingsettias golpean el suelo con un "boing" que inflige grandes daños a los objetos, hace retroceder a los zombis y los enfría.
 
 [BOINGSETTA_TOOLTIP]
-Hace retroceder a los zombis y los enfría; daña gravemente a los objetos
+Hace retroceder a los zombis y los enfría
 
 [BOMBEGRANATE]
 Petagranada
@@ -8318,7 +8320,7 @@ Colgante
 Antorcha común
 
 [BONUS_ROLL_TEXT]
-¿Cansado de andar por ahí en el teatro? No te preocupes, ahora puedes usar 10 o 100 Electronutrientes simultáneamente para jugar rondas, además de obtener recompensas directamente.
+¿Cansado de andar por ahí en el teatro? No te preocupes, ahora puedes usar 10 o 100 Frijoles rayo a la vez para jugar varias rondas.
 
 [BONUS_ROLL_TITLE]
 AVISOS
@@ -8330,16 +8332,16 @@ AVISOS
 Petabaya
 
 [BOOMBERRY_DESCRIPTION]
-"¡Cómo provocar las mejores explosiones! Primero necesitas combustible. Añade una chispa y un comburente. Por último, ¡me necesitas a mí!"
+^397F24^Nutrientes: {STAT}lanza varios proyectiles, cubriendo la columna objetivo con bayas explosivas
+
+{KEYWORD}Pista: {STAT}especialmente efectivo contra zombis ezcorpión, pulpos y magos
+
+^DD7ECB^Características de la planta: {STAT}planta anaranjada, destructora
+
+{FLAVOR}"¡Cómo provocar las mejores explosiones! Primero necesitas combustible. Añade una chispa y un comburente. Por último, ¡me necesitas a mí!"
 
 [BOOMBERRY_DESCRIPTION_HEADER]
 Lanza bayas explosivas al último zombi de su línea, aturdiéndolo momentáneamente.
-
-[BOOMBERRY_DESCRIPTION_HINT]
-Especialmente efectivo contra los zombis ezcorpión, pulpo y mago.
-
-[BOOMBERRY_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}lanza varios proyectiles, cubriendo la columna objetivo con bayas explosivas.
 
 [BOOMBERRY_TOOLTIP]
 Lanza bayas explosivas al último zombi de su línea.
@@ -8872,15 +8874,16 @@ Arbusto espinoso
 Zarzamora
 
 [BRAMBLEBUSH_DESCRIPTION]
-{KEYWORD}Uso: {STAT}los racimos de bayas indican las trampas restantes.
+{KEYWORD}Uso: {STAT}los racimos de bayas indican las trampas restantes
+
+^397F24^Nutrientes: {STAT}regenera todas las trampas de bayas y atrapa al zombi que esté más a la izquierda en su columna, infligiendo el doble de daño por poco tiempo
+
+^DD7ECB^Características de la planta: {STAT}planta verde
 
 {FLAVOR}Zarzamora es un asunto espinoso. Más vale no andarse por las ramas con ella, porque las tiene cubiertas de pinchos tremendamente peligrosos.
 
 [BRAMBLEBUSH_DESCRIPTION_HEADER]
 Zarzamora tiende trampas e inflige daño a los zombis.
-
-[BRAMBLEBUSH_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Regenera todas las trampas de bayas y atrapa al zombi que esté más a la izquierda en su columna, infligiendo el doble de daño por poco tiempo.
 
 [BRAMBLEBUSH_TOOLTIP]
 Tiende trampas e inflige daño a los zombis
@@ -9593,22 +9596,21 @@ y obtén grandes ventajas durante esta partida!
 Flor eléctrica
 
 [BUZZBUTTON_DESCRIPTION]
-{KEYWORD}Uso: {STAT}al ser comida
-{KEYWORD}Especial: {STAT}el zombi que se la come es electrificado
-
 {KEYWORD}Condición - Electrificado: {STAT}ralentiza y hace daño periódico. Descarga arcos eléctricos a zombis cercanos
+
 {KEYWORD}Condición - Electrocutado: {STAT}el impacto del arco eléctrico ralentiza zombis durante un tiempo
+
+^397F24^Nutrientes: {STAT}explota y ELECTROCUTA a todos los zombis en una zona 3x3
+
+^DD7ECB^Características de la planta: {STAT}planta azul, electrizante
 
 {FLAVOR}¡Va a explotar!
 
 [BUZZBUTTON_DESCRIPTION_HEADER]
 Al ser comida, electrifica al zombi, infligiéndole daño periódico y ralentizándolo. Los zombis electrificados descargan arcos eléctricos a zombis cercanos.
 
-[BUZZBUTTON_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Explota y ELECTROCUTA a todos los zombis en una zona 3x3.
-
 [BUZZBUTTON_TOOLTIP]
-Daña y ralentiza a zombis amontonados al ser comida
+Al ser comida, daña y ralentiza a zombis amontonados
 
 [BYTTNERIAMETEORHAMMER]
 Zarza mazo
@@ -9749,9 +9751,10 @@ Dispara ^D22808^17-31^oldclr^ espinas supercargadas al usar Nutrientes.
 
 [CACTUS_DESCRIPTION]
 {KEYWORD}Especial: {STAT}se esconde e inflige daño terrestre cuando se acercan los zombis
-{KEYWORD}Pista: {STAT}funciona de maravilla contra Zombis globo
 
 ^397F24^Nutrientes: {STAT}aumenta de forma permanente el poder y daño perforantes
+
+{KEYWORD}Pista: {STAT}funciona de maravilla contra Zombis globo
 
 ^DD7ECB^Características de la planta: {STAT}planta verde, de alta estatura, destructora
 
@@ -13162,21 +13165,20 @@ Nivel 5
 Explota al contacto, dañando o expulsando zombis
 
 [CRANJELLY]
-Gelatinadora
+Cranjelly
 
 [CRANJELLY_DESCRIPTION]
 {KEYWORD}Especial: {STAT}deja atrás un charco de pringue ácido que ralentiza y daña a los zombis cuando un zombi sea aplastado
 
-{FLAVOR}Gelatinadora es capaz de conseguir cualquier forma: cubos, conos piramidales, icosaedros... Todas. Pero hay pocas formas que sean tan estructuralmente fuertes o que ofrezcan tanto poder de aplastamiento de zombis como el cilindro. Por no decir que le permite ir muy rápido.
+^DD7ECB^Características de la planta: {STAT}planta roja, destructora
+
+{FLAVOR}Es capaz de conseguir cualquier forma: cubos, conos piramidales, icosaedros... Todas. Pero hay pocas formas que sean tan estructuralmente fuertes o que ofrezcan tanto poder de aplastamiento de zombis como el cilindro. Por no decir que le permite ir muy rápido.
 
 [CRANJELLY_DESCRIPTION_HEADER]
 Planta instantánea que aplasta a los zombis de su línea utilizando su gran masa gelatinosa.
 
-[CRANJELLY_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}sin efecto de Nutrientes.
-
 [CRANJELLY_TOOLTIP]
-Aplasta a todos los zombis de la línea donde la plantan.
+Aplasta a todos los zombis de la línea donde la plantan
 
 [CREATE_NEW_USER]
 (Crear nuevo jugador)
@@ -16557,10 +16559,10 @@ JUGAR
 SALTAR
 
 [DICE_NOT_ENOUGH_DIALOG_TEXT]
-¿Deseas comprar más Electronutrientes?
+¿Deseas comprar más Frijoles rayo?
 
 [DICE_NOT_ENOUGH_DIALOG_TITLE]
-Electronutrientes insuficientes.
+Frijoles rayo insuficientes.
 
 [DICE_WILL_CLEAR_DIALOG_CANCEL]
 CANCELAR
@@ -16569,7 +16571,7 @@ CANCELAR
 ACEPTAR
 
 [DICE_WILL_CLEAR_DIALOG_TEXT]
-Te quedan ^3827F5^{NUMBER} Electronutrientes^oldclr^, ¿deseas seguir jugando?
+Te quedan ^3827F5^{NUMBER} Frijoles rayo^oldclr^, ¿deseas seguir jugando?
 ^FF0000^(El número se restablece todos los dias)^oldclr^
 
 [DICE_WILL_CLEAR_DIALOG_TITLE]
@@ -16844,6 +16846,8 @@ Todas las Petasetas del jardín crecerán una fase antes de explotar.
 {KEYWORD}Uso: {STAT}deja un cráter al explotar
 
 ^397F24^Nutrientes: {STAT}todas las Petasetas del jardín explotan y generan Petasetas adicionales
+
+^DD7ECB^Características de la planta: {STAT}planta negra, explosiva, familia de setas
 
 {FLAVOR}"El mundo está loco. En mis tiempos, había abrigos pardos, abrigos pardos con conos y abrigos pardos con cubos. ¡Y ya está! ¿Qué es todo esto? ¿Mochilas propulsadas? ¿Magos? ¿Criaturas oscuras? ... ¡Hrmph! Mejor que no piensen que soy un viejo inofensivo. Aunque me haya retirado, aún sé un par de cosas sobre hacer explotar zombis".
 
@@ -18244,11 +18248,13 @@ Gafas azules
 Aumenta el daño de la supercáscara.
 
 [ELECTRICPEEL_DESCRIPTION]
-{KEYWORD}Especial: {STAT}cuando se planta sobre el agua, aumenta su daño. La cáscara electrifica las casillas por las que pasa.
+{KEYWORD}Especial: {STAT}cuando se planta sobre el agua, aumenta su daño. La cáscara electrifica las casillas por las que pasa
 
 {KEYWORD}Electrificación: {STAT}los zombis electrificados sufren daños sostenidos en el tiempo mientras ocupan las casillas que hayan quedado electrificadas.
 
 ^397F24^Nutrientes: {STAT}libera una supercáscara por su línea que inflige daño e inutiliza máquinas
+
+^DD7ECB^Características de la planta: {STAT}planta amarilla, anfibia, destructora
 
 {FLAVOR}Banana anguila es tranquila y sosegada; no permitirá que nadie se acerque a su cáscara, ¡y tiene sus motivos! Lo cierto es que lo hace para proteger a su entorno. Cuando le preguntamos, Banananguila dijo: "¡No me toques la cáscara, que no gustará lo que ocurre!" con un tono precavido, emitiendo un zumbido eléctrico.
 
@@ -20354,16 +20360,17 @@ Brinca por el patio
 Capota gélida
 
 [FROSTBONNET_DESCRIPTION]
-Dave tiene unas cuantas reglas para mantener el orden en casa. El patio siempre limpio. Cerrar el grifo después de regar. Prohibido comer zombis después de medianoche. Las reglas están para mantener a todas las plantas cómodas y felices. Hay una regla especial que se aplica solo a Capota gélida. ¡No tocar el termostato! ¿Frío o calor? Siempre tiene que elegir.
+^397F24^Nutrientes: {STAT}lanza un ataque combinado de fuego y hielo a los zombis cercanos. Los zombis destruidos pueden convertirse en un muro de hielo
+
+^DD7ECB^Características de la planta: {STAT}planta anaranjada (azul), destructora
+
+{FLAVOR}Dave tiene unas cuantas reglas para mantener el orden en casa. El patio siempre limpio. Cerrar el grifo después de regar. Prohibido comer zombis después de medianoche. Las reglas están para mantener a todas las plantas cómodas y felices. Hay una regla especial que se aplica solo a Capota gélida. ¡No tocar el termostato! ¿Frío o calor? Siempre tiene que elegir.
 
 [FROSTBONNET_DESCRIPTION_HEADER]
 Capota gélida puede alternar entre floración de fuego y de hielo. Cada modo inflige un tipo de daño diferente, lo que le permite prender fuego a los zombis o congelarlos.
 
-[FROSTBONNET_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Lanza un ataque combinado de fuego y hielo a los zombis cercanos. Los zombis destruidos pueden convertirse en un muro de hielo.
-
 [FROSTBONNET_TOOLTIP]
-Alterna entre los modos de ataque de fuego y hielo.
+Alterna entre los modos de ataque de fuego y hielo
 
 [FUMESHROOM]
 Humoseta
@@ -23905,9 +23912,10 @@ El globo inmoviliza a ^D22808^3^oldclr^ zombis adicionales ^D22808^(8 en total)^
 
 [GUMNUT_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los zombis más fuertes forman barreras más resistentes
-{KEYWORD}Pista: {STAT}funciona mejor contra zombisteins y mechs de football
 
 ^397F24^Nutrientes: {STAT}dispara un gran globo de chicle que inmoviliza a 5 zombis aleatorios
+
+{KEYWORD}Pista: {STAT}funciona mejor contra zombisteins y mechs de football
 
 ^DD7ECB^Características de la planta: {STAT}planta marrón, defensa
 
@@ -24341,9 +24349,10 @@ Añade el efecto de rebobinación temporal a los sombreros cuando usa Nutrientes
 {KEYWORD}Información de alcance: {STAT}línea al frente
 
 {KEYWORD}Especial: {STAT}sus ataques rebotan y tienen la posibilidad de rebobinar zombis en el tiempo
-{KEYWORD}Pista: {STAT}combínala con Dríade guardían y ve qué buen equipo hacen
 
 ^397F24^Nutrientes: {STAT}lanza sombreros a los zombis mas cercanos, desarmando al primer objetivo golpeado
+
+{KEYWORD}Pista: {STAT}combínala con Dríade guardían y ve qué buen equipo hacen
 
 ^DD7ECB^Características de la planta: {STAT}planta púrpura, mágica, destructora, familia de setas
 
@@ -24417,6 +24426,8 @@ El efecto echa mantequilla ^D22808^4^oldclr^ veces y afecta a zombis voladores.
 {KEYWORD}Uso: {STAT}resiste el daño con la salud alta
 
 ^397F24^Nutrientes: {STAT}golpea y lanza piezas de mantequilla a los zombis de un área 3x3 durante unos segundos
+
+^DD7ECB^Características de la planta: {STAT}planta verde, ataque y defensa
 
 {FLAVOR}Lechuga mantecosa bosteza. "Ah, ¿que ya toca? ¿Hora de cabecear zombis? ¡Espera, me pongo la cara de repartir mantequilla y salgo enseguida!". Es una campeona.
 
@@ -28531,9 +28542,9 @@ Empuja a ^D22808^3^oldclr^ zombis adicionales ^D22808^(ahora 8)^oldclr^
 ^FF8000^Expulsa por lo menos a ^D22808^1 ^FF8000^zombi del patio.^oldclr^
 
 [LEVITATER_DESCRIPTION]
-{KEYWORD}Pista: {STAT}los zombis levitados pueden ser expulsados por Trebolador
-
 ^397F24^Nutrientes: {STAT}empuja a 5 zombis aleatorios del patio, con la probabilidad de expulsarlos
+
+{KEYWORD}Pista: {STAT}los zombis levitados pueden ser expulsados por Trebolador
 
 ^DD7ECB^Características de la planta: {STAT}planta marrón
 
@@ -31363,9 +31374,9 @@ Libera ^D22808^2^oldclr^ abejas adicionales ^D22808^(8 en total)^oldclr^
 ^FF8000^Las abejas vuelan en formación para dañar zombis de ^D22808^3 casillas al frente^oldclr^
 
 [MAYBEE_DESCRIPTION]
-{KEYWORD}Pista: {STAT}si dispara sobre Junco eléctrico, mejora el daño del proyectil. ¡Pruébalo con Nutrientes para infligir el máximo de daño!
-
 ^397F24^Nutrientes: {STAT}libera 6 abejas grandes que aturden zombis
+
+{KEYWORD}Pista: {STAT}si dispara sobre Junco eléctrico, mejora el daño del proyectil. ¡Pruébalo con Nutrientes para infligir el máximo de daño!
 
 ^DD7ECB^Características de la planta: {STAT}planta blanca, destructora
 
@@ -31482,6 +31493,8 @@ Dispara guisantes de atributos aleatorios con Nutrientes
 {KEYWORD}Automejora de Nutrientes: {STAT}por cada ataque, existe la posibilidad de ser potenciada por el efecto de Nutrientes
 
 ^397F24^Nutrientes: {STAT}mejora su cadencia y dispara una ráfaga de guisantes por varias líneas
+
+^DD7ECB^Características de la planta: {STAT}planta verde, destructora, familia de armas, familia de guisantes
 
 {FLAVOR}Es el hermano mayor de la familia de guisantes, orgulloso de haberse enlistado en el ejército para cuidar a los suyos. "Ahora soy una planta hecha y derecha, con mis ambiciones, mis sueños y mi carné del gimnasio".
 
@@ -45063,7 +45076,7 @@ Especial                51.28%2
 ACEPTAR
 
 [OVERVIEW_CONTENT]
-1. Usa Electronutrientes para jugar rondas, obtienes 10 por día. Se reponen si tienes menos de 10.
+1. Usa Frijoles rayo para jugar rondas, obtienes 10 por día. Se reponen si tienes menos de 10.
 2. El Apisonaflor se moverá conforme al número de puntos mostrados en la animación.
 3. Existe una variedad de casillas donde se desencaderán acciones cuando el Apisonaflor caiga en ellas.
 4. Obtienes Monedas de teatro por cada vuelta completada, úsalas para comprar cosas en la Tienda.
@@ -54321,7 +54334,7 @@ T33 | Reinicio modo difícil:
 ¡Derrota a los zombis antes de que la energía temporal se agote!
 
 [PVZ1MODE_TIME_RESET]
-S2 | Nuevos niveles en:
+S3 | Nuevos niveles en:
 
 [PVZ1MODE_TOUCHING]
 Mola 'mazo'
@@ -58102,7 +58115,9 @@ Ingresa al juego para recoger los artículos que faltan.
 ¡Pedido realizado con éxito!
 
 [REDEEM_TIPS]
-Parece que el pedido realizado el {DAY}/{MONTH}/{YEAR} a las {TIME} tuvo problemas en llegar. Disculpa los inconvenientes y acepta esta recompensa como compensación.
+Parece que tienes un pedido pendiente. Disculpa los inconvenientes y acepta esta recompensa como compensación.
+
+Fecha del pedido: {DAY}/{MONTH}/{YEAR} : {TIME}
 
 [REDEEM_TITLE]
 Petición de artículos
@@ -58527,7 +58542,7 @@ Se necesitan {PIECE_COUNT} Piezas.
 VOLVER A TIRAR
 
 [RESEND_CODE]
-Reenviar ({NUMBER}s)
+Reenviar ({NUMBER} s)
 
 [RESEND_CODE_EXTRA]
 ({NUMBER} s)
@@ -59283,7 +59298,7 @@ Nivel 5
 Dispara balas que perforan y ralentizan zombis
 
 [RIFTA_SHOP_BUY_CONFIRM]
-¿Deseas comprar este artículo por ^D22808^{NUMS} Monedas del espacio-tiempo^oldclr^?
+¿Deseas comprar este artículo? ^00AAE4^Coste: Moneda del espacio-tiempo x{NUMS}^oldclr^
 
 [RIFTA_SHOP_ITEM_LOCK_DESCRIPTION_1]
 ^FF0000^Se desbloquea en Liga Madera^oldclr^
@@ -59319,7 +59334,7 @@ Reclamar
 Reclamar
 
 [RIFT_BOSS_DOUBLE_REWARD_DESC]
-Recibes el doble de recompensas al derrotar al Dr. Zomboss pero el tiempo de espera aumenta a 20h
+Recibes el doble de recompensas al derrotar al Dr. Zomboss pero el tiempo de espera aumenta a 20 h
 
 [RIFT_BOSS_DOUBLE_REWARD_TITLE]
 Premio doble
@@ -59822,64 +59837,64 @@ IX
 X
 
 [ROMA_LEVEL_NAME_01_H]
-Antigua Roma - Día 1 (Difícil)
+Antigua Roma - Día I (Difícil)
 
 [ROMA_LEVEL_NAME_01_N]
-Antigua Roma - Día 1
+Antigua Roma - Día I
 
 [ROMA_LEVEL_NAME_02_H]
-Antigua Roma - Día 2 (Difícil)
+Antigua Roma - Día II (Difícil)
 
 [ROMA_LEVEL_NAME_02_N]
-Antigua Roma - Día 2
+Antigua Roma - Día II
 
 [ROMA_LEVEL_NAME_03_H]
-Antigua Roma - Día 3 (Difícil)
+Antigua Roma - Día III (Difícil)
 
 [ROMA_LEVEL_NAME_03_N]
-Antigua Roma - Día 3
+Antigua Roma - Día III
 
 [ROMA_LEVEL_NAME_04_H]
-Antigua Roma - Día 4 (Difícil)
+Antigua Roma - Día IV (Difícil)
 
 [ROMA_LEVEL_NAME_04_N]
-Antigua Roma - Día 4
+Antigua Roma - Día IV
 
 [ROMA_LEVEL_NAME_05_H]
-Antigua Roma - Día 5 (Difícil)
+Antigua Roma - Día V (Difícil)
 
 [ROMA_LEVEL_NAME_05_N]
-Antigua Roma - Día 5
+Antigua Roma - Día V
 
 [ROMA_LEVEL_NAME_06_H]
-Antigua Roma - Día 6 (Difícil)
+Antigua Roma - Día VI (Difícil)
 
 [ROMA_LEVEL_NAME_06_N]
-Antigua Roma - Día 6
+Antigua Roma - Día VI
 
 [ROMA_LEVEL_NAME_07_H]
-Antigua Roma - Día 7 (Difícil)
+Antigua Roma - Día VII (Difícil)
 
 [ROMA_LEVEL_NAME_07_N]
-Antigua Roma - Día 7
+Antigua Roma - Día VII
 
 [ROMA_LEVEL_NAME_08_H]
-Antigua Roma - Día 8 (Difícil)
+Antigua Roma - Día VIII (Difícil)
 
 [ROMA_LEVEL_NAME_08_N]
-Antigua Roma - Día 8
+Antigua Roma - Día VIII
 
 [ROMA_LEVEL_NAME_09_H]
-Antigua Roma - Día 9 (Difícil)
+Antigua Roma - Día IX (Difícil)
 
 [ROMA_LEVEL_NAME_09_N]
-Antigua Roma - Día 9
+Antigua Roma - Día IX
 
 [ROMA_LEVEL_NAME_10_H]
-Antigua Roma - Día Final (Difícil)
+Antigua Roma - Día X (Difícil)
 
 [ROMA_LEVEL_NAME_10_N]
-Antigua Roma - Día Final
+Antigua Roma - Día X
 
 [ROSESWORDMAN]
 Rosa espadachín
@@ -61790,7 +61805,7 @@ T11-D-05: Jale y empuje
 T11-S1-6: Tormenta de arena 2
 
 [S11_MEMORY_LEVEL_NAME_006_H]
-T11-D-06: El más veloz de oriente
+T11-D-06: El más veloz de Oriente
 
 [S11_MEMORY_LEVEL_NAME_007]
 T11-S1-7: Tormenta de arena 3
@@ -65495,28 +65510,28 @@ T33-S2-7: Infestación de medianoche
 T33-S2-8: Muertos hostigadores
 
 [S34_MEMORY_LEVEL_NAME_017]
-T33-S3-1: Guerra de minas
+T33-S3-1: Festival de la papa
 
 [S34_MEMORY_LEVEL_NAME_018]
-T33-S3-2: Vendedor hostil
+T33-S3-2: Puertas y escaleras
 
 [S34_MEMORY_LEVEL_NAME_019]
 T33-S3-3: Just Plant
 
 [S34_MEMORY_LEVEL_NAME_020]
-T33-S3-4: Nueces enojadas
+T33-S3-4: La Bolera
 
 [S34_MEMORY_LEVEL_NAME_021]
-T33-S3-5: Buscando a Taco
+T33-S3-5: Confite de fresa
 
 [S34_MEMORY_LEVEL_NAME_022]
-T33-S3-6: Congelados
+T33-S3-6: Carreras de Bobsleigh
 
 [S34_MEMORY_LEVEL_NAME_023]
 T33-S3-7: Duelo en la azotea
 
 [S34_MEMORY_LEVEL_NAME_024]
-T33-S3-8: La última cena
+T33-S3-8: Visitantes del espacio
 
 [S34_MEMORY_LEVEL_NAME_025]
 T33-S4-1: Locura vegetal
@@ -65822,28 +65837,28 @@ Derrota a 4 zombis con Bonk Choy
 Destruye 10 lápidas
 
 [S34_MEMORY_W3_DESC_1]
-Guerra de minas
+Festival de la papa
 
 [S34_MEMORY_W3_DESC_2]
-Vendedor hostil
+Puertas y escaleras
 
 [S34_MEMORY_W3_DESC_3]
 Just Plant
 
 [S34_MEMORY_W3_DESC_4]
-Nueces enojadas
+La Bolera
 
 [S34_MEMORY_W3_DESC_5]
-Buscando a Taco
+Confite de fresa
 
 [S34_MEMORY_W3_DESC_6]
-Congelados
+Carreras de Bobsleigh
 
 [S34_MEMORY_W3_DESC_7]
 Duelo en la azotea
 
 [S34_MEMORY_W3_DESC_8]
-La última cena
+Visitantes del espacio
 
 [S34_MEMORY_W3_DESC_9]
 Jefe: Esfinge letal Zombot
@@ -66177,9 +66192,10 @@ Dispara una ráfaga de ^D22808^50^oldclr^ esporas perforantes al usar Nutrientes
 
 [SCAREDYSHROOM_DESCRIPTION]
 {KEYWORD}Uso: {STAT}se escode y deja de disparar cuando el enemigo está cerca
-{KEYWORD}Pista: {STAT}la defensa de Seta miedica aumenta al esconderse de los zombis
 
 ^397F24^Nutrientes: {STAT}se une a otras Setas miedicas y dispara una ráfaga de esporas que derriban zombis
+
+{KEYWORD}Pista: {STAT}la defensa de Seta miedica aumenta al esconderse de los zombis
 
 ^DD7ECB^Características de la planta: {STAT}planta púrpura, destructora, familia de setas
 
@@ -66295,16 +66311,16 @@ Ahuyenta zombis y peces con sus toxinas
 Flora marina
 
 [SEAFLORA_DESCRIPTION]
-"Zzz zz... Conquistar el... garaje... zzzzZzz... Conquistar el mundo... Zzz... zzz..."
+^397F24^Nutrientes: {STAT}dispara una pompa gigante que empuja a los zombis y después explota infligiendo daños enormes
+
+{KEYWORD}Pista: {STAT}equipa a Flora marina contra zombis ralentizados u otros empujables y aprovecha la gran explosión de burbujas de su Nutriente
+
+^DD7ECB^Características de la planta: {STAT}planta púrpura, anfibia, destructora
+
+{FLAVOR}"Zzz zz... Conquistar el... garaje... zzzzZzz... Conquistar el mundo... Zzz... zzz..."
 
 [SEAFLORA_DESCRIPTION_HEADER]
 Planta anfibia que dispara pompas perforantes en su línea. Dispara pompas en tres líneas cuando la plantan en el agua.
-
-[SEAFLORA_DESCRIPTION_HINT]
-Equipa a Flora marina contra zombies ralentizados u otros empujables y aprovecha la gran explosión de burbujas de su Nutriente.
-
-[SEAFLORA_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Dispara una pompa gigante en su línea que empuja a los zombis y después explota infligiendo daños enormes. En el agua, dispara en 3 líneas.
 
 [SEAFLORA_TOOLTIP]
 Planta anfibia que dispara pompas perforantes en su línea
@@ -67247,18 +67263,18 @@ Tiene un ^D22808^45 % de probabilidad^oldclr^ de dar una moneda de oro al usar N
 
 [SHINEVINE_DESCRIPTION]
 {KEYWORD}Uso: {STAT}debe plantarse sobre plantas no trepadoras
-
-{KEYWORD}Debilidad: {STAT}no amplía la producción solar de Flor lunar
-{KEYWORD}Pista: {STAT}se aconseja usarla con plantas productoras de sol
+{KEYWORD}Uso: {STAT}no amplía la producción solar de Flor lunar
 
 ^397F24^Nutrientes: {STAT}produce varios soles y ataca a múltiples zombis de un área alrededor
+
+{KEYWORD}Pista: {STAT}se aconseja usarla con plantas productoras de sol
 
 ^DD7ECB^Características de la planta: {STAT}planta amarilla, trepadora, productora de soles, ataque y defensa
 
 {FLAVOR}"¡Peek-a-boo!", dice entre risitas Enredadera reluciente mirándote fijamente a ti, jugador o jugadora. "¡Considera esa cuarta pared DESTROZADA!".
 
 [SHINEVINE_DESCRIPTION_HEADER]
-Las Enredaderas relucientes son plantas enredadera que amplían la producción solar de las plantas productoras de sol, generan sol ellas también y utilizan una ráfaga aturdidora solar como defensa de último recurso si las atacan.
+Las Enredaderas relucientes amplían la producción solar de las plantas productoras de sol, generan sol ellas también y utilizan una ráfaga aturdidora solar si las atacan.
 
 [SHINEVINE_NEW_SKILL_LEVEL1_DES]
 Aumenta la producción de las plantas solares debajo en ^D22808^25^oldclr^
@@ -71234,7 +71250,7 @@ x1
 x10
 
 [STORE_CATEGORY_NAME_RICHMAN_1]
-Electronutriente
+Frijol rayo
 
 [STORE_CATEGORY_NAME_RICHMAN_12]
 Pack eléctrico
@@ -71243,7 +71259,7 @@ Pack eléctrico
 Super-pack eléctrico
 
 [STORE_CATEGORY_NAME_RICHMAN_168]
-Cofre de Electronutrientes
+Cofre de Frijoles rayo
 
 [STORE_CATEGORY_NAME_RICHMAN_248]
 Tesoro eléctrico
@@ -74063,18 +74079,19 @@ Frijol solar
 Drosera zampona
 
 [SUNDEWTANGLER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}Drosera zampona puede atrapar a un zombi y usarlo para bloquear el avance de otros enemigos. Además, produce periódicamente soles mientras absorbe al zombi atrapado.
+{KEYWORD}Especial: {STAT}los zombis atrapados bloquearán el avance de otros enemigos
+
+^397F24^Nutrientes: {STAT}engulle a varios zombis del mapa para atraparlos temporalmente y producir soles
+
+^DD7ECB^Características de la planta: {STAT}planta rosada, hábil
 
 {FLAVOR}"He venido a por goma de mascar y absorber zombis... y no veo la goma de mascar!"
 
 [SUNDEWTANGLER_DESCRIPTION_HEADER]
-De apariencia inocua, Drosera zampona salta y atrapa a los zombis desprevenidos de su casilla, absorbiéndolos para producir soles.
-
-[SUNDEWTANGLER_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Engulle a varios zombis del mapa para atraparlos temporalmente y producir soles.
+Drosera zampona salta y atrapa a los zombis desprevenidos de su casilla, absorbiéndolos para producir soles.
 
 [SUNDEWTANGLER_TOOLTIP]
-Los zombis atrapados bloquearán a otros enemigos y producirán soles periódicamente.
+Los zombis atrapados bloquearán a otros enemigos y producirán soles periódicamente
 
 [SUNDEWTANGLER_TRAPDURATION]
 Duración de la trampa
@@ -75596,13 +75613,12 @@ Formación de plantas
 Teletranspapum
 
 [TELEPORTATOMINE_DESCRIPTION]
-Teletranspapum ya oyó un millón de veces el chiste de "qué le dice un pez a otro", pero siempre se ríe. ¡Es un clásico!
+^DD7ECB^Características de la planta: {STAT}planta marrón, explosiva
+
+{FLAVOR}Teletranspapum ya oyó un millón de veces el chiste de "qué le dice un pez a otro", pero siempre se ríe. ¡Es un clásico!
 
 [TELEPORTATOMINE_DESCRIPTION_HEADER]
 Teletransporta a los zombis a su ubicación y luego explota.
-
-[TELEPORTATOMINE_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Sin efecto de Nutrientes.
 
 [TELEPORTATOMINE_TOOLTIP]
 Teletransporta zombis y explota
@@ -76260,15 +76276,16 @@ Cupones: {NUM}
 Hierba tigre
 
 [TIGERGRASS_DESCRIPTION]
-{KEYWORD}Especial: {STAT}el tigre de hierba crece con el tiempo.
+{KEYWORD}Especial: {STAT}el tigre de hierba crece con el tiempo
+
+^397F24^Nutrientes: {STAT}genera un tigre de hierba que inflige una gran cantidad de daño
+
+^DD7ECB^Características de la planta: {STAT}planta verde, destructora
 
 {FLAVOR}Hierba tigre está esperando. El tigre de hierba espera en su interior. Pronto vendrán. Y entonces... ¡zarpazos! ¡¡FURIA!!!
 
 [TIGERGRASS_DESCRIPTION_HEADER]
 Hierba tigre hace aparecer un tigre de hierba que salta sobre los zombis cercanos y los ataca.
-
-[TIGERGRASS_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Genera un tigre de hierba que inflige una gran cantidad de daño a un zombi.
 
 [TIGERGRASS_TOOLTIP]
 Hace aparecer tigres de hierba
@@ -76567,15 +76584,16 @@ Premio sorpresa de hoy:
 Zampatumbas
 
 [TOMBTANGLER_DESCRIPTION]
-{KEYWORD}Especial: {STAT}solo se puede plantar sobre lápidas.
+{KEYWORD}Uso: {STAT}solo se puede plantar sobre lápidas
+
+^397F24^Nutrientes: {STAT}arrastra bajo tierra hasta 2 zombis aleatorios
+
+^DD7ECB^Características de la planta: {STAT}planta marrón
 
 {FLAVOR}"No sé de qué están hechas estas lápidas, pero me provocan eructos bien sonoros. ¡Y que no se les ocurra interrumpirme la siesta, que me los trago!"
 
 [TOMBTANGLER_DESCRIPTION_HEADER]
 Zampatumbas traga lápidas y emite una niebla que ralentiza zombis y se los traga al azar por el suelo.
-
-[TOMBTANGLER_DESCRIPTION_PLANTFOOD]
-{KEYWORD}Nutrientes: {STAT}Arrastra bajo tierra hasta 2 zombis aleatorios.
 
 [TOMBTANGLER_TOOLTIP]
 Se planta sobre lápidas. ¡La niebla ralentiza zombis y puede tragárselos!
