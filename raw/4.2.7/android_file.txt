@@ -3,7 +3,7 @@
 
 [HEALTH_NOTICE_CONTENT_3]
 ^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.7^oldclr^ | ^87CEFA^Parche: 1.1.0 (actualizado el 2/11/2026)^oldclr^
+^FF9E6B^Versión actual: 4.2.7^oldclr^ | ^87CEFA^Parche: 1.1.1 (actualizado el 3/11/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
 [AGE_TIP]
@@ -15568,8 +15568,8 @@ DESCRIPCIÓN
 ¡Ay, no!
 
 [DAVECUP_EXIT_CONFIRM_BODY]
-¿Seguro que quieres retirarte de esta ronda?
-^FF0000^Debes acerta al menos 2 predicciones para recibir recompensas.^oldclr^
+¿Seguro que quieres abandonar la partida?
+^FF0000^Debes acertar al menos 2 predicciones para recibir recompensas.^oldclr^
 
 [DAVECUP_EXIT_CONFIRM_BODY_NORMAL]
 ¿Seguro que quieres retirarte en esta ronda?
@@ -15651,7 +15651,7 @@ Cancelar emparejamiento
 {NUM}/{MAX}
 
 [DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_DESC]
-Se desbloquea en: {NUM}
+Disp en: {NUM} d
 
 [DAVECUP_MAIN_SCREEN_LEVEL_PROGRESS_LOCK_TOMORROW_DESC]
 Disponible mañana a las 12:00 AM
@@ -23016,17 +23016,19 @@ Válido por ^FF0000^{NUM} d^oldclr^
 
 3. Las recompensas se emitirán automáticamente tras el anuncio de la clasificación a las 22:00
 
+^FF8000^Temporada: Halloween espeluznante^oldclr^
+
 [GINGLEBELL_DESCRIPTION_TITLE]
 ¿CÓMO JUGAR?
 
 [GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
-Rey zombi: invoca peones que le otorgan reducción de daño
+Samhain: convierte a las plantas cercanas en fantasmas
 
 [GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
-Peones: se rompen con 5 ataques, o automáticamente al cabo de 10 s
+Fantasmas: se dirigen hacia Samhain y lo ponen en modo espectral
 
 [GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
-Rey zombi: se vuelve vulnerable al daño cuando no hay peones
+Samhain: es invulnerable a los proyectiles directos en el modo espectral
 
 [GINGLEBELL_HOWTOPLAY_4_DESCRIPTION]
 Modificador 1:
@@ -31471,13 +31473,13 @@ Se usan para canjear artículos en la Tienda de escuadrón
 Moneda de super-atuendo
 
 [MAT_TOY_CLOCKWORK_1]
-Moneda del cazademonios
+Moneda floral
 
 [MAT_TOY_CLOCKWORK_1_GOT_WAY]
 Fiesta de disfraces
 
 [MAT_TOY_CLOCKWORK_1_USE]
-Se usa para realizar sorteos en Fiesta de disfraces: Demon Hunters
+Se usa para realizar sorteos en Fiesta de disfraces: Jardín alegre
 
 [MAT_TOY_CLOCKWORK_2]
 Moneda de miel
@@ -31498,13 +31500,13 @@ Se usa para realizar sorteos en la Fiesta de disfraces.
 Cristal de super-atuendo
 
 [MAT_TOY_PARTS_1]
-Rotor de oro
+Mariposas
 
 [MAT_TOY_PARTS_1_GOT_WAY]
 Fiesta de disfraces
 
 [MAT_TOY_PARTS_1_USE]
-Se usa para canjear artículos en Fiesta de disfraces: Demon Hunters
+Se usa para canjear artículos en Fiesta de disfraces: Jardín alegre
 
 [MAT_TOY_PARTS_2]
 Colmena de cristal
@@ -43870,34 +43872,34 @@ Campaña
 6. Activa el pase prémium para conseguir beneficios como experiencia, Monedas adicionales o plantas destacadas.
 
 [NEW_PVP_TASK_DESCRIPTION_40]
-Temporada actual: 40
+
 
 [NEW_PVP_TASK_DESCRIPTION_41]
-Temporada actual: 41
+
 
 [NEW_PVP_TASK_DESCRIPTION_42]
-Temporada actual: 42
+
 
 [NEW_PVP_TASK_DESCRIPTION_43]
-Temporada actual: 43
+
 
 [NEW_PVP_TASK_DESCRIPTION_44]
-Temporada actual: 44
+
 
 [NEW_PVP_TASK_DESCRIPTION_45]
-Temporada actual: 45
+
 
 [NEW_PVP_TASK_DESCRIPTION_46]
-Temporada actual: 46
+
 
 [NEW_PVP_TASK_DESCRIPTION_47]
-Temporada actual: 47
+
 
 [NEW_PVP_TASK_DESCRIPTION_48]
-Temporada actual: 48
+
 
 [NEW_PVP_TASK_DESCRIPTION_49]
-Temporada actual: 49
+
 
 [NEW_PVP_TASK_DESCRIPTION_50]
 ^D22808^Temporada actual: 51^oldclr^
@@ -48285,19 +48287,19 @@ Atuendos
 Info personal
 
 [PERSONAL_INFO_BATTLEZ_TIER_1]
-Liga Hierro
+Hierro
 
 [PERSONAL_INFO_BATTLEZ_TIER_2]
-Liga Bronce
+Bronce
 
 [PERSONAL_INFO_BATTLEZ_TIER_3]
-Liga Plata
+Plata
 
 [PERSONAL_INFO_BATTLEZ_TIER_4]
-Liga Oro
+Oro
 
 [PERSONAL_INFO_BATTLEZ_TIER_5]
-Liga Jade
+Jade
 
 [PERSONAL_INFO_CHANGE_HEADSHOT]
 AVATARES
@@ -48312,7 +48314,7 @@ Se unió el {DATE}
 Se unió el:
 
 [PERSONAL_INFO_DUPLICATE_PLANT]
-Esta planta ya fue seleccionada, elige otra.
+Ya seleccionaste esta planta, elige otra.
 
 [PERSONAL_INFO_FAMILY]
 Nivel de familia
@@ -48327,22 +48329,22 @@ Ninguno
 Plantas
 
 [PERSONAL_INFO_PVP_TIER_1]
-Olla de cobre
+Cobre
 
 [PERSONAL_INFO_PVP_TIER_2]
-Olla de plata
+Plata
 
 [PERSONAL_INFO_PVP_TIER_3]
-Olla de oro
+Oro
 
 [PERSONAL_INFO_PVP_TIER_4]
-Olla de diamante
+Diamante
 
 [PERSONAL_INFO_PVP_TIER_5]
-Olla de cuarzo
+Cuarzo
 
 [PERSONAL_INFO_PVP_TIER_6]
-Olla del maestro
+Maestros
 
 [PERSONAL_INFO_RANK_SUFFIX]
 
@@ -48351,13 +48353,13 @@ Olla del maestro
 Actual:
 
 [PERSONAL_INFO_RECORD_CURRENT_DEMO]
-Actual: 123
+Actual: Cobre
 
 [PERSONAL_INFO_RECORD_HISTORY]
 Récord:
 
 [PERSONAL_INFO_RECORD_HISTORY_DEMO]
-Récord: 23
+Récord: Oro
 
 [PERSONAL_INFO_SHOWCASE]
 Plantas favoritas
@@ -66177,7 +66179,7 @@ Emboscada
 Toque electrizante
 
 [S34_MEMORY_LEVEL_DESC_BOSS_5]
-Modo Zen
+Jefe: Esfinge letal Zombot
 
 [S34_MEMORY_LEVEL_NAME_001]
 T33-S1-1: El granjero
@@ -66312,7 +66314,7 @@ T33-S3: Esfinge letal
 T33-S4: Mañanatrón
 
 [S34_MEMORY_LEVEL_NAME_BOSS_5]
-T33-S5: Modo Zen
+T33-S5: Esfinge letal
 
 [S34_MEMORY_MODE_001]
 Infestación solar
@@ -66810,7 +66812,7 @@ Sombraseta potenciada transmite el veneno de zombi en zombi
 Transmisión por contacto
 
 [S34_W5_L6_PLANTING_HINT]
-Tip: pon plantas sombrías cerca de Flor lunar para aumentar la prod. de soles
+Tip: plantas sombrías cerca de Flor lunar aumentan la prod.
 
 [S34_W5_L6_POISON_HINT]
 Tip: Sombraseta potenciada propaga el veneno en varios zombis
@@ -70695,7 +70697,7 @@ Despertar: ^D22808^40 % de probabilidad^oldclr^ de activar Nutrientes al plantar
 ^DB8117^Nutrientes: aplasta a 2 objetivos aleatorios del patio, luego regresa a su posición y aplasta 1 más. ^D22808^Duración: 100 s^oldclr^
 
 [SQUASH_NEW_SKILL_LEVEL5_DES]
-Salta alto, aturdiendo zombis de un ^D22808^área 3x3^oldclr^ al impactar. ^848484^Aturdir: 3 s^oldclr^
+Salta alto, aturdiendo zombis de un ^D22808^área 3x3^oldclr^ al impactar. ^848484^Aturdir: 3 s
 ^FF8000^Luego se activan las habilidades del Nvl. 2^oldclr^
 
 [SQUASH_PLANTFOOD_DESCRIPTION]
@@ -71998,8 +72000,8 @@ Arroja arroz negro que acumula hasta ^D22808^3^oldclr^ bombas por zombi y derrib
 [STICKYBOMBRICE_DESCRIPTION]
 {KEYWORD}Información de alcance: {STAT}línea central, superior o inferior
 
-{KEYWORD}Especial: {STAT}las bombas pueden acumularse hasta 3 veces en un mismo objetivo
-{KEYWORD}Especial: {STAT}tiene la posibilidad de activar otras bombas cercanas
+{KEYWORD}Uso: {STAT}las bombas se acumulan hasta 3 veces en un mismo objetivo
+{KEYWORD}Especial: {STAT}posibilidad de activar otras bombas cercanas
 
 ^397F24^Nutrientes: {STAT}arroja bombas a cada zombi del patio
 
@@ -72012,7 +72014,7 @@ Arroz bomba pegajosa arroja bombas de arroz pegajosas con temporizador a los zom
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL1_DES]
 Arroja bombas de arroz que inmovilizan zombis. ^FF8000^Temporizador: 1,25 s
-^E2725B^Cadena de bombas: 15 % ^E2725B^de activar otras bombas cercanas.^oldclr^
+^E2725B^Cadena de bombas: ^D22808^15 % ^E2725B^de activar otras bombas cercanas.^oldclr^
 
 [STICKYBOMBRICE_NEW_SKILL_LEVEL2_DES]
 ^FF8000^Temporizador: ^D22808^+1 s (ahora 2,25 s)
