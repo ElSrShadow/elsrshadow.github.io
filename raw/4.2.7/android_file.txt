@@ -2,12 +2,18 @@
 # de #
 
 [HEALTH_NOTICE_CONTENT_3]
-^E2725B^Traducción al español^oldclr^ por ^98FB98^FranZ^oldclr^, ^DD7ECB^ShadowVT^oldclr^ y ^00AAE4^Gameplays con el Pepe^oldclr^
-^FF9E6B^Versión actual: 4.2.7^oldclr^ | ^87CEFA^Parche: 1.1.1 (actualizado el 3/11/2026)^oldclr^
+^E2725B^Traducción al español^oldclr^ por ^FFFF00^The Saucer Team^oldclr^
+^FF9E6B^Versión actual: 4.2.8^oldclr^ | ^87CEFA^Parche: 1.0.1 (actualizado el 8/11/2026)^oldclr^
 ^D22808^Copyright: PopCap Shangai, EA^oldclr^ | ^D22808^Distribución: TalkWeb, Melting Games^oldclr^
 
+[TRANSLATION_AUTHORS]
+• FranZ: traducciones al español de los archivos de texto
+• ShadowVT: corrección de fuentes de texto, traducción de sprites
+• Gameplays con el pepe: empaquetar assets, traducción de sprites, testing
+• Davidzyto: optimización de audio y texturas, hosteo del servidor privado
+
 [AGE_TIP]
-Notas de la actualización 4.2.7
+Notas de la actualización 4.2.8
 
 [AGE_TIP_CONTENT]
 1. Nueva planta: Mangólvora
@@ -18,6 +24,169 @@ Notas de la actualización 4.2.7
 6. Nuevo sistema de amigos: ahora puedes añadir a tus amigos y conseguir premios juntos
 7. Sistema de guardado mejorado
 8. Optimización y correción de errores
+
+[S34_MEMORY_LEVEL_NAME_041]
+T33-S6-1: Cosecha de invierno
+
+[S34_MEMORY_LEVEL_DESC_041]
+Cosecha de invierno
+
+[S34_W6_L1_MODE_NAME]
+Boniatos y chiles
+
+[S34_W6_L1_MODE_DESC]
+Usa Boniatos para atraer zombis y a Chile fantasma para destruirlos
+
+[S34_W6_L1_HINT]
+Tip: Chile fantasma explota después de un tiempo limitado
+
+[S34_W6_L1_THAW_HINT]
+Tip: descongela a Boniato para atraer zombis
+
+[S34_W6_L1_KILL]
+Derrota a {NUMBER} zombis con Chile fantasma
+
+[S34_MEMORY_LEVEL_NAME_042]
+T33-S6-2: Monstruos vs zombis
+
+[S34_MEMORY_LEVEL_DESC_042]
+Monstruos vs zombis
+
+[S34_W6_L2_MODE_NAME]
+Kiwis y calabazas
+
+[S34_W6_L2_MODE_DESC]
+Sobrevive con Kiwibestia y Calabaza
+
+[S34_W6_L2_HINT]
+Tip: usa a Grano de café para despertar plantas durmientes
+
+[S34_W6_L2_KILL]
+Derrota a 15 zombis con Kiwibestia
+
+[S34_MEMORY_LEVEL_NAME_043]
+T33-S6-3: Productos inflamables
+
+[S34_MEMORY_LEVEL_DESC_043]
+Productos inflamables
+
+[S34_W6_L3_MODE_NAME]
+Estantes de armas
+
+[S34_W6_L3_MODE_DESC]
+Aparecen estantes que otorgan armas a los zombis
+
+[S34_W6_L3_ARMRACK_HINT]
+Tip: los estantes expulsan a las plantas donde emergen
+
+[S34_W6_L3_HINT]
+Tip: usa a Oliva de aceite para detener las bailarinas
+
+[S34_MEMORY_LEVEL_NAME_044]
+T33-S6-4: Marcha de invierno
+
+[S34_MEMORY_LEVEL_DESC_044]
+Marcha de invierno
+
+[S34_W6_L4_MODE_NAME]
+¡Formen! ¡Arr!
+
+[S34_W6_L4_MODE_DESC]
+Resiste la invasión zombi con semillas especiales que plantan una columna entera de golpe
+
+[S34_W6_L4_DANCE_HINT]
+Tip: ¡usa a Guardacelga para derribar zombis!
+
+[S34_W6_L4_HINT]
+Tip: ¡siembra plantas en columnas!
+
+[S34_W6_L4_NUTCRACKER_HINT]
+¡Cascanueces a la marcha!
+
+[S34_W6_L4_KILL]
+Derrota a 30 zombis con Humoseta
+
+[S34_MEMORY_LEVEL_NAME_045]
+T33-S6-5: Globos letales
+
+[S34_MEMORY_LEVEL_DESC_045]
+Globos letales
+
+[S34_W6_L5_MODE_NAME]
+Alquimia oscura
+
+[S34_W6_L5_MODE_DESC]
+Sobrevive mientras las pociones malignas potencian a los zombis
+
+[S34_W6_L5_HINT]
+Tip: toca o arrastra sobre Flor petaglobera para dejar globos bomba
+
+[S34_W6_L5_TOAD_HINT]
+Tip: planta a Hongo para producir sol
+
+[S34_W6_L5_KILL]
+Derrota a 40 zombis con Flor petaglobera
+
+[S34_MEMORY_LEVEL_NAME_046]
+T33-S6-6: Juegos de invierno
+
+[S34_MEMORY_LEVEL_DESC_046]
+Juegos de invierno
+
+[S34_W6_L6_MODE_NAME]
+Espejos mágicos
+
+[S34_W6_L6_MODE_DESC]
+Aparecen varios espejos que transportan proyectiles y zombis por el patio
+
+[S34_W6_L6_NOTICE]
+¡Espejos mágicos!
+
+[S34_MEMORY_LEVEL_NAME_047]
+T33-S6-7: Acebo caballero
+
+[S34_MEMORY_LEVEL_DESC_047]
+Acebo caballero
+
+[S34_W6_L7_MODE_NAME]
+Frijol solar
+
+[S34_W6_L7_MODE_DESC]
+Sobrevive con Frijol solar, y evita que los zombis pisen las flores
+
+[S34_W6_L7_HINT]
+Tip: usa a Barrera de acebo para proteger las flores
+
+[S34_W6_L7_KING_HINT]
+Tip: el rey ignora zombis parasitados por Frijol solar
+
+[S34_W6_L7_WIZARD_HINT]
+Tip: elimina al mago para revertir la transformación
+
+[S34_MEMORY_LEVEL_NAME_048]
+T33-S6-8: Papapúm salvaje
+
+[S34_MEMORY_LEVEL_DESC_048]
+Papapúm salvaje
+
+[S34_W6_L8_MODE_NAME]
+Clonación primitiva
+
+[S34_W6_L8_MODE_DESC]
+Sobrevive usando Nutrientes en las Papapúms primitivas
+
+[S34_W6_L8_HINT]
+Tip: Nutrientes cada 30 s, ¡aprovéchalos!
+
+[S34_W6_L8_KILL]
+Derrota a {NUMBER} zombis con Papapúm primitiva
+
+[S34_MEMORY_LEVEL_NAME_BOSS_6]
+T33-S6: Dragón oscuro
+
+[S34_MEMORY_LEVEL_DESC_BOSS_6]
+Jefe: Zombot dragón oscuro
+
 
 [ACCESSORY_EXCHANGE_FAILED]
 ERROR EN EL INTERCAMBIO
@@ -494,9 +663,8 @@ Mejorar plantas
 Lucha
 
 [ACTIVITY_SUMMERY_ZOMBIEBOSS_DESC]
-¡Derrota a los Jefes y obtén Cristales mientras lo haces!
-Usa cristales para girar la Ruleta.
-^E2725B^(Recibes el doble de Cristales los fines de semana)^oldclr^
+Derrota jefes y obtén Cristales para girar la ruleta.
+^E2725B^¡Doble de Cristales los finde!^oldclr^
 
 [ACTIVITY_TIME_DOWN]
 Tiempo restante
@@ -11389,7 +11557,7 @@ SELEC. NIVEL DE PLANTA
 Aparece un mensaje completo en el nivel
 
 [CHOOSE_YOUR_PLANTS]
-Elige tus plantas
+¡ELIGE TUS PLANTAS!
 
 [CHRISTMAS2018_LOTTERY_PENDANT]
 Piezas de colgantes
@@ -15547,25 +15715,25 @@ DESCRIPCIÓN
 ¡Buenas!
 
 [DAVECUP_EMOJI_TEXT_3]
-¡Todo listo!
+¡Vamos!
 
 [DAVECUP_EMOJI_TEXT_4]
-¡Ja, ja, ja!
+¡Victoria chiclosa!
 
 [DAVECUP_EMOJI_TEXT_5]
-¡No puede ser!
+Zzz
 
 [DAVECUP_EMOJI_TEXT_6]
-¿Qué está pasando?
+¡ARRRGH!
 
 [DAVECUP_EMOJI_TEXT_7]
-¡Bien jugado!
+¡Ji, ji, ji!
 
 [DAVECUP_EMOJI_TEXT_8]
-¡Una más!
+¡Uf!
 
 [DAVECUP_EMOJI_TEXT_9]
-¡Ay, no!
+¿¡Eh!?
 
 [DAVECUP_EXIT_CONFIRM_BODY]
 ¿Seguro que quieres abandonar la partida?
@@ -15631,6 +15799,8 @@ INFO
 ^A0522D^3. RECOMPENSAS:^oldclr^ al final del partido, se te otorgan puntos de temporada segun el puesto alcanzado.
 
 ^A0522D^4. RANKING:^oldclr^ los puntos de temporada te permiten subir a una liga más competitiva y ganar mejores premios.
+
+^D22808^• Temporada actual: 2^oldclr^
 
 [DAVECUP_LOCK_COUNTDOWN]
 Te toca bloquear:
@@ -19287,9 +19457,9 @@ Explotonuez
 Se reviste de una armadura volcánica que tiene ^D22808^12.000 PS^oldclr^ y hace ^D22808^2.400 DPS^oldclr^ al explotar
 
 [EXPLODEONUT_DESCRIPTION]
-^DD7ECB^Características de la planta: {STAT}planta roja, temperamental, explosiva, defensa
-
 ^397F24^Nutrientes: {STAT}se cura y gana una armadura que explota si se destruye
+
+^DD7ECB^Características de la planta: {STAT}planta roja, temperamental, explosiva, defensa
 
 {FLAVOR}"De lo único que me arrepiento", dice Explotonuez, "es de que solo tengo un único núcleo masticable de nitroglicerina disponible para este patio".
 
@@ -19322,7 +19492,7 @@ Explota cuando se la comen
 Nivel 2
 
 [EXPLODEONUT_SKILL_LEVEL1_DES]
-^4DD4DB^Segundo estallido:^oldclr^ probabilidad generar una Papapúm al explotar
+^4DD4DB^Segundo estallido:^oldclr^ probabilidad de generar una Papapúm al explotar
 
 [EXPLODEONUT_SKILL_LEVEL2]
 Nivel 3
@@ -23167,7 +23337,7 @@ Básicos: el ataque manual se divide y hace daño de área. ^D22808^Daño: 1 (ca
 Seta congelada golpea a los zombis en combate cuerpo a cuerpo y los ralentiza. También puedes tocarla para congelar a todos los zombis en pantalla.
 
 [GLACIERSHROOM_NEW_SKILL_LEVEL1_DES]
-Daña y ralentiza a los zombis cercanos por ^D22808^2 s^oldclr^
+Daña y ralentiza a los zombis cercanos por ^D22808^2 s
 ^E2725B^Tip: toca en ella para congelarlos por ^D22808^4 s^oldclr^
 
 [GLACIERSHROOM_NEW_SKILL_LEVEL2_DES]
@@ -23382,7 +23552,7 @@ Vuelve inmunes a las plantas de un ^D22808^área 3x3^oldclr^ alrededor mientras 
 Casia dorada atrae a los zombis cercanos y bloquea su avance. Puede volver a crecer cuando es comida.
 
 [GOLDENCASSIA_NEW_SKILL_LEVEL1_DES]
-Atrae y bloquea zombis, renace al ser destruida. ^D22808^Atracción: área 2x3^oldclr^
+Atrae y bloquea zombis, renace al ser destruida. ^D22808^Atracción: área 2x3
 ^E2725B^Renacer: se activa al cabo de ^D22808^15 s^oldclr^
 
 [GOLDENCASSIA_NEW_SKILL_LEVEL2_DES]
@@ -25309,7 +25479,7 @@ Lanza hojas blindadas que aturden zombis al contacto por ^D22808^0.5 s^oldclr^
 {KEYWORD}Información de alcance: {STAT}todo el mapa
 {KEYWORD}Especial: {STAT}el proyectil derriba, inflige daño y deja una barrera en las casillas vacías
 
-^397F24^Nutrientes: {STAT}recupera bayas y salud. Lanza 3 hojas a casillas al azar
+^397F24^Nutrientes: {STAT}recupera bayas y salud. Lanza 4 hojas a casillas al azar
 
 ^DD7ECB^Características de la planta: {STAT}planta roja, ataque y defensa
 
@@ -25337,7 +25507,7 @@ Sus proyectiles derriban zombis ^D22808^1 casilla^oldclr^ más lejos ^D22808^(ah
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL4_DES]
 Despertar: ^D22808^100 % de probabilidad^oldclr^ de activar Nutrientes al plantarse.
-^DB8117^Nutrientes: recupera bayas y salud. Lanza 3 hojas a casillas al azar.^oldclr^
+^DB8117^Nutrientes: recupera bayas y salud. Lanza 4 hojas a casillas al azar.^oldclr^
 
 [HOLLYKNIGHT_NEW_SKILL_LEVEL5_DES]
 Lanza hojas gigantes que tienen ^D22808^3.200^oldclr^ puntos de salud y hacen ^D22808^45^oldclr^ de daño.
@@ -25349,7 +25519,7 @@ Barrera de acebo está inspirada en el acebo de Navidad (Ilex aquifolium), una p
 Originario del suroeste de Europa, el norte de África y el oeste de Asia, el acebo ha sido un símbolo navideño en Europa durante siglos, usado en coronas decorativas para representar protección y luz durante el invierno. Su madera también se valora en artesanías.
 
 [HOLLYKNIGHT_PLANTFOOD_DESCRIPTION]
-Recupera bayas y salud. Lanza 3 hojas a casillas al azar.
+Recupera bayas y salud. Lanza 4 hojas a casillas al azar.
 
 [HOLLYKNIGHT_SKILL_LEVEL1]
 Nivel 2
@@ -27688,13 +27858,13 @@ Alcanza la fase máxima e inflige daños enormes
 Nivel 2
 
 [KIWIBEAST_SKILL_LEVEL1_DES]
-^4DD4DB^Crecimiento bestial:^oldclr^ el coste en soles de Kiwibestia decrecerá en 10 por cada una plantada (el coste mínimo es 170).
+^4DD4DB^Crecimiento bestial:^oldclr^ el coste en soles de Kiwibestia decrecerá en 10 por cada una plantada ^FF0000^(coste min: 170)^oldclr^
 
 [KIWIBEAST_SKILL_LEVEL2]
 Nivel 3
 
 [KIWIBEAST_SKILL_LEVEL2_DES]
-^DD7ECB^Supervivencia salvaje:^oldclr^ el coste en soles de Kiwibestia decrecerá en 20 por cada una plantada (el coste mínimo es 160).
+^DD7ECB^Supervivencia salvaje:^oldclr^ el coste en soles de Kiwibestia decrecerá en 20 por cada una plantada ^FF0000^(coste min: 160)^oldclr^
 
 [KIWIBEAST_SKILL_LEVEL5]
 Nivel 5
@@ -30924,7 +31094,7 @@ Trébol dorado
 Cornucopia
 
 [MAT_CORNUCOPIA_EMBLEM_MUST]
-Requiere Tréboles dorados
+Trébol dorado
 
 [MAT_CORNUCOPIA_EMBLEM_NOT_ENOUGH]
 Tréboles dorados insuficientes.
@@ -51047,7 +51217,7 @@ Vid
 Electrizar
 
 [PLANT_TAG_28]
-Defensiva
+Defensa
 
 [PLANT_TAG_29]
 Letargo
@@ -54844,7 +55014,7 @@ T33 | Reinicio modo difícil:
 ¡Derrota a los zombis antes de que la energía temporal se agote!
 
 [PVZ1MODE_TIME_RESET]
-S5 | Nuevos niveles en:
+S6 | Nuevos niveles en:
 
 [PVZ1MODE_TOUCHING]
 Mola 'mazo'
@@ -57794,7 +57964,7 @@ Recompensa clasificatoria de la temporada 20 de Dueloz
 Recompensa clasificatoria de la temporada 21 de Dueloz
 
 [RANK_AVATAR_CONTENT_CONTENT_61025]
-Disfruta de este divertido tobogán
+Un parque lleno de diversión y mucha alegría
 
 [RANK_AVATAR_CONTENT_CONTENT_61026]
 En el futuro hay carros voladores, ¡y también una colaboración con Need for Speed!
@@ -57830,7 +58000,7 @@ Recompensa clasificatoria de la temporada 27 de Dueloz
 Recompensa clasificatoria de la temporada 28 de Dueloz
 
 [RANK_AVATAR_CONTENT_CONTENT_61037]
-Elegante de corazón, caballeroso en acción
+:)
 
 [RANK_AVATAR_CONTENT_CONTENT_61038]
 Disfruta de una feliz Navidad junto a tu familia en un cálido hogar
@@ -57941,19 +58111,19 @@ Recompensa clasificatoria de la temporada 51 de Dueloz
 Recompensa clasificatoria de la temporada 52 de Dueloz
 
 [RANK_AVATAR_CONTENT_CONTENT_61500]
-¡Dame dulces o te haré una travesura!
+Un castillo con una atmósfera tenebrosa
 
 [RANK_AVATAR_CONTENT_CONTENT_61501]
-Mil otoños son suficientes para unir el mundo
+Un rincón de paz ilustrado a tinta tradicional
 
 [RANK_AVATAR_CONTENT_CONTENT_61502]
-En homenaje "So Young"
+Un día perfecto al aire libre
 
 [RANK_AVATAR_CONTENT_CONTENT_61503]
-Un cielo lleno de estrellas.
+Un girasol forjado en el vacío absoluto
 
 [RANK_AVATAR_CONTENT_CONTENT_61504]
-¡Llega el Escuadrón de Aventuras de Año Nuevo!
+Parece que Zomboss y sus esbirros no la tienen fácil
 
 [RANK_AVATAR_CONTENT_CONTENT_61505]
 ¡Los zombis están listos para las Olimpiadas!
@@ -57983,7 +58153,7 @@ Conejo arcoíris
 Estrella de acción
 
 [RANK_AVATAR_CONTENT_TITLE_61006]
-Verano tranquilo
+Estanque de loto
 
 [RANK_AVATAR_CONTENT_TITLE_61007]
 Playa alegre
@@ -58001,7 +58171,7 @@ Luna llena
 Fiesta de aniversario
 
 [RANK_AVATAR_CONTENT_TITLE_61012]
-Maestro de combate
+Retrato de guisantes
 
 [RANK_AVATAR_CONTENT_TITLE_61013]
 Foto grupal
@@ -58016,10 +58186,10 @@ Blanca Navidad
 Año Nuevo Chino
 
 [RANK_AVATAR_CONTENT_TITLE_61017]
-Gran competidor
+Maestro del combate
 
 [RANK_AVATAR_CONTENT_TITLE_61018]
-Sauce primaveral
+Vuelo de cometas
 
 [RANK_AVATAR_CONTENT_TITLE_61019]
 Lluvia del Grano
@@ -58037,16 +58207,16 @@ La otra orilla
 Gran escalada
 
 [RANK_AVATAR_CONTENT_TITLE_61024]
-Verano abrasador
+Día de playa
 
 [RANK_AVATAR_CONTENT_TITLE_61025]
-Tobogán divertido
+Parque de diversiones
 
 [RANK_AVATAR_CONTENT_TITLE_61026]
-Vacaciones por los aires
+La carrera de Girasol
 
 [RANK_AVATAR_CONTENT_TITLE_61027]
-Recuerdos de aniversario
+Formación firme
 
 [RANK_AVATAR_CONTENT_TITLE_61028]
 A zarpar
@@ -58058,13 +58228,13 @@ Montaña rusa
 Pesca de otoño
 
 [RANK_AVATAR_CONTENT_TITLE_61031]
-Tarde de ocio
+Tardes de ocio
 
 [RANK_AVATAR_CONTENT_TITLE_61032]
 Mirada asesina
 
 [RANK_AVATAR_CONTENT_TITLE_61033]
-Aventuras de esquí
+Las aventuras del Yeti
 
 [RANK_AVATAR_CONTENT_TITLE_61034]
 Escape de Año Nuevo
@@ -58076,13 +58246,13 @@ Serpiente de oro
 Árbol jóven
 
 [RANK_AVATAR_CONTENT_TITLE_61037]
-Caballero educado
+Gran sonrisa
 
 [RANK_AVATAR_CONTENT_TITLE_61038]
 Navidad cálida
 
 [RANK_AVATAR_CONTENT_TITLE_61039]
-Naturaleza renacida
+Siesta en el bosque
 
 [RANK_AVATAR_CONTENT_TITLE_61040]
 Fiesta sorpresa
@@ -58091,10 +58261,10 @@ Fiesta sorpresa
 Viaje al Oeste
 
 [RANK_AVATAR_CONTENT_TITLE_61042]
-Estrellas danzantes
+Frustrella: héroe de acción
 
 [RANK_AVATAR_CONTENT_TITLE_61043]
-Viaje a las estrellas
+Próxima parada: ¡taco!
 
 [RANK_AVATAR_CONTENT_TITLE_61044]
 Maestro del Qigong
@@ -58106,43 +58276,43 @@ Mil leguas bajo el mar
 Inmersión submarina
 
 [RANK_AVATAR_CONTENT_TITLE_61047]
-Momentos dulces
+Batalla de aniversario
 
 [RANK_AVATAR_CONTENT_TITLE_61048]
 Aventuras corporativas
 
 [RANK_AVATAR_CONTENT_TITLE_61049]
-Ceda el paso
+Siempreviva mística
 
 [RANK_AVATAR_CONTENT_TITLE_61050]
-Luz ténue
+Silueta de bruja
 
 [RANK_AVATAR_CONTENT_TITLE_61051]
-Alfa y omega
+Familia de setas
 
 [RANK_AVATAR_CONTENT_TITLE_61052]
-Pueblo escarpado
+Viaje submarino
 
 [RANK_AVATAR_CONTENT_TITLE_61053]
-La Gran Masacre
+Cabeza de mamut
 
 [RANK_AVATAR_CONTENT_TITLE_61054]
-Regalos navideños
+Guisantazo de invierno
 
 [RANK_AVATAR_CONTENT_TITLE_61055]
 La ira del emperador
 
 [RANK_AVATAR_CONTENT_TITLE_61056]
-Año de abundancia
+Bestia rugiente
 
 [RANK_AVATAR_CONTENT_TITLE_61057]
-Primavera alegre
+Prado florecido
 
 [RANK_AVATAR_CONTENT_TITLE_61058]
-Milagro con alas
+Frustrella milagrosa
 
 [RANK_AVATAR_CONTENT_TITLE_61059]
-Exploradores de ruinas
+Casia sagrada
 
 [RANK_AVATAR_CONTENT_TITLE_61060]
 El inframundo
@@ -58151,25 +58321,25 @@ El inframundo
 El esplendor de Dunhuang
 
 [RANK_AVATAR_CONTENT_TITLE_61062]
-Duelo en el césped
+Liga de fútbol
 
 [RANK_AVATAR_CONTENT_TITLE_61063]
-Remate de volley
+Guardametas
 
 [RANK_AVATAR_CONTENT_TITLE_61064]
-Por las nubes
+Escenario de Girasol
 
 [RANK_AVATAR_CONTENT_TITLE_61065]
-Verano candente
+Chapuzón de verano
 
 [RANK_AVATAR_CONTENT_TITLE_61066]
 Tiranía zombi
 
 [RANK_AVATAR_CONTENT_TITLE_61067]
-Tres son multitud
+Soldado implacable
 
 [RANK_AVATAR_CONTENT_TITLE_61068]
-Luna llena
+Alunizaje
 
 [RANK_AVATAR_CONTENT_TITLE_61069]
 Romanos a la carga
@@ -58181,25 +58351,25 @@ Territorio enemigo
 Otoño fructífero
 
 [RANK_AVATAR_CONTENT_TITLE_61072]
-Una cuestión crucial
+Hombre lobo
 
 [RANK_AVATAR_CONTENT_TITLE_61073]
-Primeros pasos
+Noche de brujas
 
 [RANK_AVATAR_CONTENT_TITLE_61500]
-Dulce o truco
+Castillo terrorífico
 
 [RANK_AVATAR_CONTENT_TITLE_61501]
-Disciplina tradicional
+Paisaje oriental
 
 [RANK_AVATAR_CONTENT_TITLE_61502]
-Vigor juvenil
+Día de campo
 
 [RANK_AVATAR_CONTENT_TITLE_61503]
-Cielo estrellado
+Girasol cósmico
 
 [RANK_AVATAR_CONTENT_TITLE_61504]
-Escuadrón rígido
+Patas arriba
 
 [RANK_AVATAR_CONTENT_TITLE_61505]
 Equipo de Bobsleigh
@@ -58226,7 +58396,7 @@ Conejo arcoíris
 Estrela de acción
 
 [RANK_AVATAR_DIY_7]
-Verano tranquilo
+Estanque de loto
 
 [RANK_AVATAR_DIY_8]
 Playa alegre
@@ -58244,7 +58414,7 @@ Luna llena
 Fiesta de aniversario
 
 [RANK_AVATAR_DIY_13]
-Maestro de combate
+Retrato de guisantes
 
 [RANK_AVATAR_DIY_14]
 Foto grupal
@@ -58280,16 +58450,16 @@ La otra orilla
 Gran escalada
 
 [RANK_AVATAR_DIY_25]
-Verano abrasador
+Día de playa
 
 [RANK_AVATAR_DIY_26]
-Tobogán divertido
+Parque de diversiones
 
 [RANK_AVATAR_DIY_27]
-Vacaciones por los aires
+La carrera de Girasol
 
 [RANK_AVATAR_DIY_28]
-Recuerdos de aniversario
+Formación firme
 
 [RANK_AVATAR_DIY_29]
 A zarpar
@@ -58301,7 +58471,7 @@ Montaña rusa
 Pesca de otoño
 
 [RANK_AVATAR_DIY_32]
-Tarde de ocio
+Tardes de ocio
 
 [RANK_AVATAR_DIY_33]
 Mirada asesina
@@ -58565,7 +58735,7 @@ Premios limitados por Recarga
 RECARGAR
 
 [RECHARGEBUNDLE_BUY_TIMES]
-Límite de compra: ^FF0000 {NUMBER} ^oldclr
+Límite de compra: ^FF0000^{NUMBER}^oldclr^
 
 [RECHARGEBUNDLE_CAN_OBTAIN]
 Obtienes:
@@ -68301,7 +68471,7 @@ Tienda cerrada
 Monedas insuficientes
 
 [SHOP_NO_LIMIT_BUYTIME_TITLE]
-Límite de compra: ilimitado
+
 
 [SHOP_REFRESH_COUNTDOWN_LABEL]
 Los productos se refrescan en
@@ -69144,7 +69314,7 @@ Mejora: 20% de disparar 3 guisantes por varias líneas.^oldclr^
 ^DB8117^Le pertenecen a la mismísima Muerte.^oldclr^
 
 [SOUDACHE_COLLECTION_DESCRIPTION_HONOR_HELMET]
-^DB8117^Un casco dorado creado para rendir homenaje a una leyenda del fútbol.
+^DB8117^Un casco dorado creado para rendir homenaje a una leyenda del fútbol.^oldclr^
 
 [SOUDACHE_COLLECTION_DESCRIPTION_IMP_BACKPACK]
 ^DB8117^Una mochilla llena de juguetes y chucherías.^oldclr^
@@ -69873,7 +70043,7 @@ Nivel 2
 Nivel 3
 
 [SPARTANBAMBOO_SKILL_LEVEL2_DES]
-^DD7ECB^Locura desenfrenada^oldclr: mejora los efectos del Nvl. 2 al doble
+^DD7ECB^Locura desenfrenada:^oldclr mejora los efectos del Nvl. 2 al doble
 
 [SPARTANBAMBOO_SKILL_LEVEL5]
 Nivel 5
@@ -70499,6 +70669,19 @@ contra zombis de alta salud o con gran blindaje.^oldclr^
 [SPRING_NEW_TIPS_16]
 ^00FA9A^¡Sigue plantando!^oldclr^
 
+[SPRING_NEW_TIPS_17]
+^00FA9A^¡Sube de nivel a tus plantas para mejorar sus estadísticas y hacerlas más fuertes!^oldclr^
+
+[SPRING_NEW_TIPS_18]
+^00FA9A^Lanzamaíz es genial para ralentizar a los zombis.^oldclr^
+
+[SPRING_NEW_TIPS_19]
+^00FA9A^Boca de dragón colocada detrás de Nuez inflige daño en 3 líneas.^oldclr^
+
+[SPRING_NEW_TIPS_20]
+^00FA9A^Hay plantas que prefieren determinadas áreas del patio.
+Prueba a colocarlas en lugares distintos.^oldclr^
+
 [SPRING_REFRASH_TIME]
 Tiempo res.:
 
@@ -70579,7 +70762,7 @@ Puedes conseguirlas jugando a eventos y en la tienda.^oldclr^
 ^00FA9A^Desbloquea todas las plantas de un mundo para conseguir el Trofeo de plantas.^oldclr^
 
 [SPRING_TIPS_15]
-^00FA9A^Recoleta todas las Estrellas de un Mundo para conseguir el Trofeo de estrellas.^oldclr^
+^00FA9A^Recoleta todas las Estrellas de un mundo para conseguir el Trofeo de estrellas.^oldclr^
 
 [SPRING_TIPS_16]
 ^00FA9A^Derrota al jefe de un mundo para conseguir el Trofeo del Jefe.^oldclr^
@@ -70613,6 +70796,9 @@ Acepta el desafío y acumula recompensas.^oldclr^
 
 [SPRING_TIPS_25]
 ^00FA9A^¡Completa misiones del Pase de batalla para ganar premios!^oldclr^
+
+[SPRING_TIPS_26]
+^00FA9A^¡Comparte con tus amigos y gana premios juntos!^oldclr^
 
 [SPRING_ZOMBIE_LEVEL_DIFFICULTY_1]
 Refuerzo primaveral
@@ -80799,10 +80985,10 @@ Primeros auxilios para nueces
 Repara al completo las plantas defensivas dañadas al plantarlos encima.
 
 [USERINFO_1]
-Rellena la información que se te pide.
+Rellena la información que se te pide
 
 [USERINFO_2]
-Podrás vincular tu cuenta y proteger tu progreso.
+Podrás vincular tu cuenta y proteger tu progreso
 
 [USERINFO_3]
 Masculino
@@ -80811,16 +80997,16 @@ Masculino
 Femenino
 
 [USERINFO_5]
-Correo:
+Email:
 
 [USERINFO_6]
-Teléfono:
+Tel:
 
 [USERINFO_7]
 Edad:
 
 [USERINFO_8]
-Obtén 30
++ 30
 
 [USERINFO_9]
 Género:
@@ -81330,13 +81516,13 @@ Votar
 Tiempo res.:
 
 [VOTE_CUSTOM]
-Votación personalizada
+Votación de plantas
 
 [VOTE_HINT_CONFIRM]
 ¿Seguro que deseas votar por esta planta?
 
 [VOTE_NEED]
-Requiere ^FF0000^{NUM} Boletos^oldclr^
+Haz ^FF0000^{NUM}^oldclr^ votaciones
 
 [VOTE_NO_TICKETS]
 Boletos insuficientes.
@@ -82074,7 +82260,7 @@ Nivel 2
 Nivel 3
 
 [WHITEMELON_SKILL_LEVEL2_DES]
-^DD7ECB^Empujón:^oldclr^ derriba a los zombis 1 casilla más lejos
+^DD7ECB^Empujón divino:^oldclr^ derriba a los zombis 1 casilla más lejos
 
 [WHITEMELON_SKILL_LEVEL5]
 Nivel 5
@@ -90139,7 +90325,7 @@ Zombot machacante multiescenario
 [ZOMBIE_ZOMBOSSMECH_EIGHTIES_DESCRIPTION]
 {KEYWORD}Especial: {STAT}los altavoces infligen daño pasivo (excepto en plantas terrestres y Remolacha tremenda) y envían ataques de ondas de choque
 
-{FLAVOR}En otro mundo y en otro tiempo, el Dr. Zombi recibiría los aplausos entusiastas que le corresponden. Pero no es el momento ni el lugar. No.
+{FLAVOR}En otro mundo y en otro tiempo, el Dr. Zombi recibiría los aplausos entusiastas que le corresponden. Pero no es el momento ni el lugar.
 
 [ZOMBIE_ZOMBOSSMECH_EIGHTIES_DESCRIPTION_HEADER]
 Una velada íntima con algunos de los descubrimientos más recientes y dolorosos del Dr. Zombi.
@@ -90766,31 +90952,31 @@ Mejora plantas venenosas, dispara proyectiles tóxicos
 IR
 
 [rank_avatar_diy_38]
-Dulce o truco
+Castillo terrorífico
 
 [rank_avatar_diy_39]
-Caballero educado
+Gran sonrisa
 
 [rank_avatar_diy_40]
 Navidad cálida
 
 [rank_avatar_diy_41]
-Naturaleza renacida
+Siesta en el bosque
 
 [rank_avatar_diy_42]
 Fiesta sorpresa
 
 [rank_avatar_diy_43]
-Disciplina tradicional
+Paisaje oriental
 
 [rank_avatar_diy_44]
 Viaje al Oeste
 
 [rank_avatar_diy_45]
-Estrellas danzantes
+Frustrella: héroe de acción
 
 [rank_avatar_diy_46]
-Viaje a las estrellas
+Próxima parada: ¡taco!
 
 [rank_avatar_diy_47]
 Maestro del Qigong
@@ -90802,67 +90988,67 @@ Mil leguas bajo el mar
 Inmersión submarina
 
 [rank_avatar_diy_50]
-Momentos dulces
+Batalla de aniversario
 
 [rank_avatar_diy_51]
 Aventuras corporativas
 
 [rank_avatar_diy_52]
-Ceda el paso
+Siempreviva mística
 
 [rank_avatar_diy_53]
-Luz ténue
+Silueta de bruja
 
 [rank_avatar_diy_54]
-Alfa y omega
+Familia de setas
 
 [rank_avatar_diy_55]
-Pueblo escarpado
+Viaje submarino
 
 [rank_avatar_diy_56]
-La Gran Masacre
+Cabeza de mamut
 
 [rank_avatar_diy_57]
-Regalos navideños
+Guisantazo de invierno
 
 [rank_avatar_diy_58]
 La ira del emperador
 
 [rank_avatar_diy_59]
-Año de abundancia
+Bestia rugiente
 
 [rank_avatar_diy_60]
-Primavera alegre
+Prado florecido
 
 [rank_avatar_diy_61]
-Milagro con alas
+Frustrella milagrosa
 
 [rank_avatar_diy_62]
-Exploradores de ruinas
+Casia sagrada
 
 [rank_avatar_diy_63]
 El inframundo
 
 [rank_avatar_diy_65]
-Duelo en el césped
+Liga de fútbol
 
 [rank_avatar_diy_66]
-Remate de volley
+Guardametas
 
 [rank_avatar_diy_67]
-Por las nubes
+Escenario de Girasol
 
 [rank_avatar_diy_68]
-Verano candente
+Chapuzón de verano
 
 [rank_avatar_diy_69]
 Tiranía zombi
 
 [rank_avatar_diy_70]
-Tres son multitud
+Soldado implacable
 
 [rank_avatar_diy_71]
-Luna llena
+Alunizaje
 
 [rank_avatar_diy_72]
 Romanos a la carga
@@ -90874,19 +91060,19 @@ Territorio enemigo
 Otoño fructífero
 
 [rank_avatar_diy_75]
-Una cuestión crucial
+Hombre lobo
 
 [rank_avatar_diy_76]
-Primeros pasos
+Noche de brujas
 
 [rank_avatar_diy_100]
-Vigor juvenil
+Día de campo
 
 [rank_avatar_diy_101]
-Cielo estrellado
+Girasol cósmico
 
 [rank_avatar_diy_102]
-Escuadrón rígido
+Patas arriba
 
 [rank_avatar_diy_103]
 Equipo de Bobsleigh
